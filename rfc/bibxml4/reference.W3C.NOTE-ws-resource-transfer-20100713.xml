@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='W3C.NOTE-ws-resource-transfer-20100713'
+           target='http://www.w3.org/TR/2010/NOTE-ws-resource-transfer-20100713'>
+<front>
+<title>Web Services Resource Transfer (WS-RT)</title>
+
+<author initials='D.' surname='Davis' fullname='Doug Davis'>
+    <organization />
+</author>
+
+<author initials='A.' surname='Malhotra' fullname='Ashok Malhotra'>
+    <organization />
+</author>
+
+<author initials='K.' surname='Warr' fullname='Katy Warr'>
+    <organization />
+</author>
+
+<author initials='w.' surname='chou' fullname='wu chou'>
+    <organization />
+</author>
+
+<date month='July' day='13' year='2010' />
+</front>
+
+<seriesInfo name='World Wide Web Consortium NOTE' value='NOTE-ws-resource-transfer-20100713' />
+<format type='HTML' target='http://www.w3.org/TR/2010/NOTE-ws-resource-transfer-20100713' />
+</reference>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='I-D.eastlake-cturi'>
+<front>
+<title>Mapping Between MIME Types, Content-Types and URIs</title>
+
+<author initials='D' surname='Eastlake' fullname='Donald Eastlake'>
+    <organization />
+</author>
+
+<date month='November' day='8' year='2002' />
+</front>
+
+<seriesInfo name='Internet-Draft' value='draft-eastlake-cturi-04' />
+<format type='TXT'
+        target='http://www.ietf.org/internet-drafts/draft-eastlake-cturi-04.txt' />
+</reference>

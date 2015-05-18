@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='W3C.REC-ws-soap-assertions-20111213'
+           target='http://www.w3.org/TR/2011/REC-ws-soap-assertions-20111213'>
+<front>
+<title>Web Services SOAP Assertions (WS-SOAPAssertions)</title>
+
+<author initials='D.' surname='Davis' fullname='Doug Davis'>
+    <organization />
+</author>
+
+<author initials='A.' surname='Malhotra' fullname='Ashok Malhotra'>
+    <organization />
+</author>
+
+<author initials='K.' surname='Warr' fullname='Katy Warr'>
+    <organization />
+</author>
+
+<author initials='w.' surname='chou' fullname='wu chou'>
+    <organization />
+</author>
+
+<date month='December' day='13' year='2011' />
+</front>
+
+<seriesInfo name='World Wide Web Consortium Recommendation' value='REC-ws-soap-assertions-20111213' />
+<format type='HTML' target='http://www.w3.org/TR/2011/REC-ws-soap-assertions-20111213' />
+</reference>

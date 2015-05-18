@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='W3C.REC-mmi-arch-20121025'
+           target='http://www.w3.org/TR/2012/REC-mmi-arch-20121025'>
+<front>
+<title>Multimodal Architecture and Interfaces</title>
+
+<author initials='F.' surname='Stegmaier' fullname='Florian Stegmaier'>
+    <organization />
+</author>
+
+<author initials='W.' surname='Bailer' fullname='Werner Bailer'>
+    <organization />
+</author>
+
+<author initials='M.' surname='HÃ¶ffernig' fullname='Martin HÃ¶ffernig'>
+    <organization />
+</author>
+
+<author initials='W.' surname='Lee' fullname='WonSuk Lee'>
+    <organization />
+</author>
+
+<author initials='C.' surname='Poppe' fullname='Chris Poppe'>
+    <organization />
+</author>
+
+<date month='October' day='25' year='2012' />
+</front>
+
+<seriesInfo name='World Wide Web Consortium Recommendation' value='REC-mmi-arch-20121025' />
+<format type='HTML' target='http://www.w3.org/TR/2012/REC-mmi-arch-20121025' />
+</reference>

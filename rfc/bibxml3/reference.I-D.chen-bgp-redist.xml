@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='I-D.chen-bgp-redist'>
+<front>
+<title>Deterministic Route Redistribution into BGP</title>
+
+<author initials='E' surname='Chen' fullname='Enke Chen'>
+    <organization />
+</author>
+
+<date month='February' day='9' year='2004' />
+
+<abstract><t>In this document we propose an enhancement to the BGP route selection algorithm that would make the interaction of redistributed routes and other BGP routes deterministic, thus facilitating the deployment of various routing requirements. The proposed enhancement is backward compatible.</t></abstract>
+
+</front>
+
+<seriesInfo name='Internet-Draft' value='draft-chen-bgp-redist-00' />
+<format type='TXT'
+        target='http://www.ietf.org/internet-drafts/draft-chen-bgp-redist-00.txt' />
+</reference>
