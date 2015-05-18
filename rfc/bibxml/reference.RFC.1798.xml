@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1798'>
+
+<front>
+<title abbrev='CLDAP'>Connection-less Lightweight X.500 Directory Access Protocol</title>
+<author initials='A.' surname='Young' fullname='Alan Young'>
+<organization>ISODE Consortium</organization>
+<address>
+<postal>
+<street>The Dome, The Square</street>
+<city>Richmond</city>
+<region>England</region>
+<code>TW9 1DT</code>
+<country>UK</country></postal>
+<phone>+44 81 3329091</phone>
+<email>A.Young@isode.com</email></address></author>
+<date year='1995' month='June' /></front>
+
+<seriesInfo name='RFC' value='1798' />
+<format type='TXT' octets='18548' target='http://www.rfc-editor.org/rfc/rfc1798.txt' />
+</reference>

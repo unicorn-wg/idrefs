@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1143'>
+
+<front>
+<title abbrev='Q Method'>The Q Method of Implementing TELNET Option Negotiation</title>
+<author initials='D.' surname='Bernstein' fullname='Daniel J. Bernstein'>
+<organization>New York University</organization>
+<address>
+<postal>
+<street>5 Brewster Lane</street>
+<city>Bellport</city>
+<region>NY</region>
+<code>11713</code>
+<country>US</country></postal>
+<phone>+1 516 286 1339</phone>
+<email>brnstnd@acf10.nyu.edu</email></address></author>
+<date year='1990' day='1' month='February' /></front>
+
+<seriesInfo name='RFC' value='1143' />
+<format type='TXT' octets='23331' target='http://www.rfc-editor.org/rfc/rfc1143.txt' />
+</reference>

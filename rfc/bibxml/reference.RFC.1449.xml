@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1449'>
+
+<front>
+<title abbrev='Transport Mappings for SNMPv2'>Transport Mappings for version 2 of the Simple Network Management Protocol (SNMPv2)</title>
+<author initials='J.D.' surname='Case' fullname='Jeffrey D. Case'>
+<organization>SNMP Research, Inc.</organization>
+<address>
+<postal>
+<street>3001 Kimberlin Heights Rd.</street>
+<city>Knoxville</city>
+<region>TN</region>
+<code>37920-9716</code>
+<country>US</country></postal>
+<phone>+1 615 573 1434</phone>
+<email>case@snmp.com</email></address></author>
+<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
+<organization>Hughes, LAN Systems</organization>
+<address>
+<postal>
+<street>1225 Charleston Road</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<phone>+1 415 966 7934</phone>
+<email>kzm@hls.com</email></address></author>
+<author initials='M.' surname='Rose' fullname='Marshall T. Rose'>
+<organization>Dover Beach Consulting, Inc.</organization>
+<address>
+<postal>
+<street>420 Whisman Court</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043-2186</code>
+<country>US</country></postal>
+<phone>+1 415 968 1052</phone>
+<email>mrose@dbc.mtview.ca.us</email></address></author>
+<author initials='S.' surname='Waldbusser' fullname='Steven Waldbusser'>
+<organization>Carnegie Mellon University</organization>
+<address>
+<postal>
+<street>4910 Forbes Ave</street>
+<city>Pittsburgh</city>
+<region>PA</region>
+<code>15213</code>
+<country>US</country></postal>
+<phone>+1 412 268 6628</phone>
+<email>waldbusser@cmu.edu</email></address></author>
+<date year='1993' month='April' /></front>
+
+<seriesInfo name='RFC' value='1449' />
+<format type='TXT' octets='41161' target='http://www.rfc-editor.org/rfc/rfc1449.txt' />
+</reference>

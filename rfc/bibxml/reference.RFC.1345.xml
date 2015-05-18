@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1345'>
+
+<front>
+<title>Character Mnemonics and Character Sets</title>
+<author initials='K.' surname='Simonsen' fullname='Keld Simonsen'>
+<organization>Rationel Almen Planlaegning</organization>
+<address>
+<postal>
+<street>Sankt Joergens Alle 8</street>
+<city>Koebenhavn V</city>
+<region />
+<code>DK-1615</code>
+<country>DK</country></postal>
+<phone>+45 31 226543</phone>
+<facsimile>+45 33 158516</facsimile>
+<email>Keld.Simonsen@dkuug.dk</email></address></author>
+<date year='1992' month='June' /></front>
+
+<seriesInfo name='RFC' value='1345' />
+<format type='TXT' octets='249737' target='http://www.rfc-editor.org/rfc/rfc1345.txt' />
+</reference>

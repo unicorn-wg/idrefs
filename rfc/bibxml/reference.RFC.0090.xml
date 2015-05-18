@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0090'>
+
+<front>
+<title>CCN as a Network Service Center</title>
+<author initials='R.' surname='Braden' fullname='R. T. Braden'>
+<organization>University of California, Los Angeles  (UCLA), Campus Computing Network (CCN)</organization></author>
+<date year='1971' day='25' month='January' /></front>
+
+<seriesInfo name='RFC' value='90' />
+<format type='TXT' octets='11929' target='http://www.rfc-editor.org/rfc/rfc90.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0072'>
+
+<front>
+<title>Proposed Moratorium on Changes to Network Protocol</title>
+<author initials='R.' surname='Bressler' fullname='Robert D. Bressler'>
+<organization>Massachusetts Institute of Technology (MIT), Project MAC</organization></author>
+<date year='1970' day='28' month='September' />
+<abstract>
+<t>Bill Crowther's RFC No. 67raised a much more  fundamental  issue than  the  question  of marking.  Any change to presently established protocol  is  going  to  involve  changes  in  the  hardware/software development  efforts  that have, in some instances, been going on for over 6 months.  In the case  of  Multics,  this  effort  has  yielded programs  either  complete or in the advanced debugging stages.  This is no doubt true for many other sites as well.</t></abstract></front>
+
+<seriesInfo name='RFC' value='72' />
+<format type='TXT' octets='4047' target='http://www.rfc-editor.org/rfc/rfc72.txt' />
+</reference>

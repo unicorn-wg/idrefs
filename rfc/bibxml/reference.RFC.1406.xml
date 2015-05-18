@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1406'>
+
+<front>
+<title abbrev='DS1/E1 MIB'>Definitions of Managed Objects for the DS1 and E1 Interface Types</title>
+<author initials='F.' surname='Baker' fullname='Fred Baker'>
+<organization>Advanced Computer Communications</organization>
+<address>
+<postal>
+<street>315 Bollay Drive</street>
+<city>Santa Barbara</city>
+<region>CA</region>
+<code>93117</code>
+<country>US</country></postal>
+<phone>+1 805 685 4455</phone>
+<email>fbaker@acc.com</email></address></author>
+<author initials='J.' surname='Watt' fullname='James Watt'>
+<organization>Newbridge Networks Corporation</organization>
+<address>
+<postal>
+<street>600 March Road</street>
+<city>Kanata</city>
+<region>Ontario</region>
+<code>K2K 2E6</code>
+<country>CA</country></postal>
+<phone>+1 613 591 3600</phone>
+<email>james@newbridge.com</email></address></author>
+<date year='1993' month='January' />
+<abstract>
+<t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets. In particular, it defines objects for managing DS1 Interfaces -- including both T1 and E1 (a.k.a., CEPT 2 Mbit/s) links.</t>
+<t>This document entirely replaces RFC 1232, which contains a fundamental error: many objects are encoded as Counters that must be encoded as INTEGERs or Gauges.  The magnitude of the change required is sufficient that virtually every object changed.  Therefore, the MIB documented in RFC 1232 should not be implemented.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1406' />
+<format type='TXT' octets='97559' target='http://www.rfc-editor.org/rfc/rfc1406.txt' />
+</reference>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0542'>
+
+<front>
+<title abbrev='File Transfer Protocol'>File Transfer Protocol</title>
+<author initials='N.' surname='Neigus' fullname='Nancy J. Neigus'>
+<organization>Bolt Beranek and Newman, Inc. (BBN)</organization>
+<address>
+<postal>
+<street>10 Moulton Street</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal></address></author>
+<date year='1973' day='12' month='August' /></front>
+
+<seriesInfo name='RFC' value='542' />
+<format type='TXT' octets='100666' target='http://www.rfc-editor.org/rfc/rfc542.txt' />
+</reference>

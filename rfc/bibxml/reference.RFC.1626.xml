@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1626'>
+
+<front>
+<title>Default IP MTU for use over ATM AAL5</title>
+<author initials='R.' surname='Atkinson' fullname='Randall J. Atkinson'>
+<organization>Naval Research Laboratory, Information Technology Division</organization>
+<address>
+<postal>
+<street />
+<city>Washington</city>
+<region>DC</region>
+<code>20375-5320</code>
+<country>US</country></postal>
+<email>atkinson@itd.nrl.navy.mil</email></address></author>
+<date year='1994' month='May' /></front>
+
+<seriesInfo name='RFC' value='1626' />
+<format type='TXT' octets='11841' target='http://www.rfc-editor.org/rfc/rfc1626.txt' />
+</reference>

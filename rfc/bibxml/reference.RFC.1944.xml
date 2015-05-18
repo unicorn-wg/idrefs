@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1944'>
+
+<front>
+<title abbrev='Benchmarking Methodology'>Benchmarking Methodology for Network Interconnect Devices</title>
+<author initials='S.' surname='Bradner' fullname='Scott Bradner'>
+<organization>Harvard University</organization>
+<address>
+<postal>
+<street>1350 Mass. Ave</street>
+<street>room 813</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal>
+<phone>+1 617 495 3864</phone>
+<facsimile>+1 617 496 8500</facsimile>
+<email>sob@harvard.edu</email></address></author>
+<author initials='J.' surname='McQuaid' fullname='Jim McQuaid'>
+<organization>Bay Networks</organization>
+<address>
+<postal>
+<street>3 Federal Street</street>
+<city>Billerica</city>
+<region>MA</region>
+<code>01821</code>
+<country>US</country></postal>
+<phone>+1 508 436 3915</phone>
+<facsimile>+1 508 670 8145</facsimile>
+<email>jmcquaid@baynetworks.com</email></address></author>
+<date year='1996' month='May' />
+<abstract>
+<t>This document discusses and defines a number of tests that may be used to describe the performance characteristics of a network interconnecting  device.  In addition to defining the tests this document also describes specific formats for reporting the results of the tests.  Appendix A lists the tests and conditions that we believe should be included for specific cases and gives additional information about testing practices.  Appendix B is a reference listing of maximum frame rates to be used with specific frame sizes on various media and Appendix C gives some examples of frame formats to be used in testing.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1944' />
+<format type='TXT' octets='66061' target='http://www.rfc-editor.org/rfc/rfc1944.txt' />
+</reference>

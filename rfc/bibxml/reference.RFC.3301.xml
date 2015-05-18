@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3301'>
+
+<front>
+<title>Layer Two Tunnelling Protocol (L2TP): ATM access network extensions</title>
+<author initials='Y.' surname='T&apos;Joens' fullname='Y. T&apos;Joens'>
+<organization /></author>
+<author initials='P.' surname='Crivellari' fullname='P. Crivellari'>
+<organization /></author>
+<author initials='B.' surname='Sales' fullname='B. Sales'>
+<organization /></author>
+<date year='2002' month='June' /></front>
+
+<seriesInfo name='RFC' value='3301' />
+<format type='TXT' octets='42756' target='http://www.rfc-editor.org/rfc/rfc3301.txt' />
+</reference>

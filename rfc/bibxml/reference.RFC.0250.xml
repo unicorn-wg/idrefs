@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0250'>
+
+<front>
+<title>Some thoughts on file transfer</title>
+<author initials='H.' surname='Brodie' fullname='H. Brodie'>
+<organization>University California Los Angeles (UCLA), Computer Science, NMC</organization></author>
+<date year='1971' day='7' month='October' />
+<abstract>
+<t>There are several aspects of the proposed Data Transfer Protocol (RFC #171) and File Transfer Protocol (RFC #172) which we believe could use further clarification and perhaps revision.  Interest in transferring larger amounts of data than is typically sent via the usual TELNET connection is increasing, and at least at UCLA-NMC implementation attempts have pointed out several difficulties with the proposed protocols.</t></abstract></front>
+
+<seriesInfo name='RFC' value='250' />
+<format type='TXT' octets='2446' target='http://www.rfc-editor.org/rfc/rfc250.txt' />
+</reference>

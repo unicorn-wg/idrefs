@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5848'>
+
+<front>
+<title>Signed Syslog Messages</title>
+<author initials='J.' surname='Kelsey' fullname='J. Kelsey'>
+<organization /></author>
+<author initials='J.' surname='Callas' fullname='J. Callas'>
+<organization /></author>
+<author initials='A.' surname='Clemm' fullname='A. Clemm'>
+<organization /></author>
+<date year='2010' month='May' />
+<abstract>
+<t>This document describes a mechanism to add origin authentication, message integrity, replay resistance, message sequencing, and detection of missing messages to the transmitted syslog messages.  This specification is intended to be used in conjunction with the work defined in RFC 5424, "The Syslog Protocol". [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='5848' />
+<format type='TXT' octets='102805' target='http://www.rfc-editor.org/rfc/rfc5848.txt' />
+</reference>

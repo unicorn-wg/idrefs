@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3322'>
+
+<front>
+<title>Signaling Compression (SigComp) Requirements &amp; Assumptions</title>
+<author initials='H.' surname='Hannu' fullname='H. Hannu'>
+<organization /></author>
+<date year='2003' month='January' /></front>
+
+<seriesInfo name='RFC' value='3322' />
+<format type='TXT' octets='27533' target='http://www.rfc-editor.org/rfc/rfc3322.txt' />
+</reference>

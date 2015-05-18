@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1499'>
+
+<front>
+<title abbrev='Summary of 1400-1499'>Summary of 1400-1499</title>
+<author initials='J.' surname='Elliott' fullname='Josh Elliott'>
+<organization>University of Southern California, Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511</phone>
+<email>elliott@isi.edu</email></address></author>
+<date year='1997' month='January' /></front>
+
+<seriesInfo name='RFC' value='1499' />
+<format type='TXT' octets='40923' target='http://www.rfc-editor.org/rfc/rfc1499.txt' />
+</reference>

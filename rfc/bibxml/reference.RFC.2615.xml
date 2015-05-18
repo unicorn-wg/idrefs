@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2615'>
+
+<front>
+<title>PPP over SONET/SDH</title>
+<author initials='A.' surname='Malis' fullname='Andrew G. Malis'>
+<organization>Ascend Communications, Inc.</organization>
+<address>
+<postal>
+<street>1 Robbins Road</street>
+<city>Andover</city>
+<region>MA</region>
+<code>01810</code>
+<country>US</country></postal>
+<phone>+1 978 952 7414</phone>
+<email>malis@ascend.com</email></address></author>
+<author initials='W.' surname='Simpson' fullname='William Allen Simpson'>
+<organization>DayDreamer, Computer Systems Consulting Services</organization>
+<address>
+<postal>
+<street>1384 Fontaine</street>
+<city>Madison Heights</city>
+<region>MI</region>
+<code>48071</code>
+<country>US</country></postal>
+<email>wsimpson@GreenDragon.com</email></address></author>
+<date year='1999' month='June' />
+<abstract>
+<t>The Point-to-Point Protocol (PPP)provides a standard method for transporting multi-protocol datagrams over point-to-point links. This document describes the use of PPP over Synchronous Optical Network (SONET) and Synchronous Digital Hierarchy (SDH) circuits.</t>
+<t>This document replaces and obsoletes RFC 1619.  See section 7 for a summary of the changes from RFC 1619.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2615' />
+<format type='TXT' octets='18708' target='http://www.rfc-editor.org/rfc/rfc2615.txt' />
+</reference>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2467'>
+
+<front>
+<title abbrev='IPv6 over FDDI'>Transmission of IPv6 Packets over FDDI Networks</title>
+<author initials='M.' surname='Crawford' fullname='Matt Crawford'>
+<organization>Fermilab</organization>
+<address>
+<postal>
+<street>PO Box 500,  MS 368</street>
+<city>Batavia</city>
+<region>IL</region>
+<code>60510</code>
+<country>USA</country></postal>
+<phone>+1 630 840 3461</phone>
+<email>crawdad@fnal.gov</email></address></author>
+<date year='1998' month='December' />
+<area>Internet</area>
+<keyword>Fiber Distributed Data Interface</keyword>
+<keyword>FDDI</keyword>
+<keyword>internet protocol version 6</keyword></front>
+
+<seriesInfo name='RFC' value='2467' />
+<format type='TXT' octets='16028' target='http://www.rfc-editor.org/rfc/rfc2467.txt' />
+<format type='HTML' octets='36382' target='http://xml.resource.org/public/rfc/html/rfc2467.html' />
+<format type='XML' octets='31364' target='http://xml.resource.org/public/rfc/xml/rfc2467.xml' />
+</reference>

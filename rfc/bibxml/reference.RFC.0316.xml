@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0316'>
+
+<front>
+<title abbrev='Data Management Working Group'>ARPA Network Data Management Working Group</title>
+<author initials='D.' surname='McKay' fullname='Douglas B. McKay'>
+<organization>International Business Machines (IBM)</organization></author>
+<author initials='A.P.' surname='Mullery' fullname='A. P. Mullery'>
+<organization>International Business Machines (IBM)</organization></author>
+<date year='1972' day='23' month='February' />
+<abstract>
+<t>The meeting had two different phases.  The first included presentations of applications of networks and development work in the design to allow data sharing in a computer network, the second was a working meeting in which was discussed what the data management working group should do.</t></abstract></front>
+
+<seriesInfo name='RFC' value='316' />
+<format type='TXT' octets='15494' target='http://www.rfc-editor.org/rfc/rfc316.txt' />
+</reference>

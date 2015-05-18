@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0713'>
+
+<front>
+<title>MSDTP-Message Services Data Transmission Protocol</title>
+<author initials='J.' surname='Haverty' fullname='Jack Haverty'>
+<organization>Massachusetts Institute of Technology (MIT)</organization>
+<address>
+<email>JFH@MIT-DMS</email></address></author>
+<date year='1976' day='6' month='April' />
+<abstract>
+<t>A mechanism is defined for use by message servers in transferring data between hosts.  The mechanism, called the MSDTP, is defined in terms of a model of the process as a translation between two sets of items, the abstract entities such as 'strings' and 'integers', and the formats used to represent such data as a byte stream.</t>
+<t>A proposed organization of a general data transfer mechanism is described, and the manner in which the MSDTP would be used in that environment is presented.</t></abstract></front>
+
+<seriesInfo name='RFC' value='713' />
+<format type='TXT' octets='41175' target='http://www.rfc-editor.org/rfc/rfc713.txt' />
+</reference>

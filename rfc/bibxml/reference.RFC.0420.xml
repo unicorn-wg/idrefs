@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0420'>
+
+<front>
+<title>CCA ICCC weather demo</title>
+<author initials='H.' surname='Murray' fullname='H. Murray'>
+<organization /></author>
+<date year='1973' month='January' /></front>
+
+<seriesInfo name='RFC' value='420' />
+<format type='TXT' octets='14752' target='http://www.rfc-editor.org/rfc/rfc420.txt' />
+</reference>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1685'>
+
+<front>
+<title>Writing X.400 O/R Names</title>
+<author initials='H.' surname='Alvestrand' fullname='Harald Tveit Alvestrand'>
+<organization>UNINETT A/S</organization>
+<address>
+<postal>
+<street>P.O.Box 6883</street>
+<street>ELGESETER</street>
+<city>Trondheim</city>
+<region />
+<code>N-7002</code>
+<country>NO</country></postal>
+<email>Harald.Alvestrand@uninett.no</email></address></author>
+<date year='1994' month='August' />
+<abstract>
+<t></t></abstract></front>
+
+<seriesInfo name='RFC' value='1685' />
+<format type='TXT' octets='21242' target='http://www.rfc-editor.org/rfc/rfc1685.txt' />
+</reference>

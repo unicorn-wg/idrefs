@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1353'>
+
+<front>
+<title abbrev='SNMP Party MIB'>Definitions of Managed Objects for Administration of SNMP Parties</title>
+<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
+<organization>Hughes, LAN Systems, Inc.</organization>
+<address>
+<postal>
+<street>1225 Charleston Road</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<phone>+1 415 966 7934</phone>
+<email>kzm@hls.com</email></address></author>
+<author initials='J.' surname='Davin' fullname='James R. Davin'>
+<organization>MIT, Laboratory for Computer Science</organization>
+<address>
+<postal>
+<street>545 Technology Square</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02139</code>
+<country>US</country></postal>
+<phone>+1 617 253 6020</phone>
+<email>jrd@ptt.lcs.mit.edu</email></address></author>
+<author initials='J.' surname='Galvin' fullname='James M. Galvin'>
+<organization>Trusted Information Systems, Inc.</organization>
+<address>
+<postal>
+<street>3060 Washington Road</street>
+<street>Route 97</street>
+<city>Glenwood</city>
+<region>MD</region>
+<code>21738</code>
+<country>US</country></postal>
+<phone>+1 301 854 6889</phone>
+<email>galvin@tis.com</email></address></author>
+<date year='1992' month='July' />
+<abstract>
+<t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets. In particular, it describes a representation of the SNMP parties defined inas objects defined according to the Internet Standard SMI. These definitions are consistent with the SNMP Security protocols set forth in.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1353' />
+<format type='TXT' octets='59556' target='http://www.rfc-editor.org/rfc/rfc1353.txt' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0773'>
+
+<front>
+<title>Comments on NCP/TCP mail service transition strategy</title>
+<author initials='V.' surname='Cerf' fullname='V. Cerf'>
+<organization>Defense Advanced Research Projects Agency (DARPA)</organization></author>
+<date year='1980' day='1' month='October' /></front>
+
+<seriesInfo name='RFC' value='773' />
+<format type='TXT' octets='22181' target='http://www.rfc-editor.org/rfc/rfc773.txt' />
+</reference>

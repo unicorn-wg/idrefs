@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0123'>
+
+<front>
+<title>Proffered Official ICP</title>
+<author initials='S.' surname='Crocker' fullname='S. Crocker'>
+<organization>University of California, Los Angeles (UCLA)</organization></author>
+<date year='1971' day='20' month='April' />
+<abstract>
+<t>By Initial Connection Protocol (ICP), I mean a third level protocol which is initiated by a user process at one site in order to contact a server process at another site.  Typically, the user process will be a Telnet and the server process will be a logger, but there may be other cases.</t>
+<t>In this RFC, I wish to describe a family of ICPs suitable for establishing one pair of connections (one in each direction) between any user process and any server process, and to propose further a particular subset of this family as the standard ICP for connecting user processes to loggers on systems which accept teletype-like devices.</t></abstract></front>
+
+<seriesInfo name='RFC' value='123' />
+<format type='TXT' octets='4812' target='http://www.rfc-editor.org/rfc/rfc123.txt' />
+</reference>

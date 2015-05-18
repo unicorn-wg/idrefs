@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1593'>
+
+<front>
+<title>SNA APPN Node MIB</title>
+<author initials='W.' surname='McKenzie' fullname='William F. McKenzie'>
+<organization>IBM Networking Systems</organization>
+<address>
+<postal>
+<street>P. O. Box 12195</street>
+<city>Research Triangle Park</city>
+<region>NC</region>
+<code>27709</code>
+<country>US</country></postal>
+<phone>+1 919 254 5705</phone>
+<email>mckenzie@ralvma.vnet.ibm.com</email></address></author>
+<author initials='J.' surname='Cheng' fullname='Jia-bing R. Cheng'>
+<organization>IBM Networking Systems</organization>
+<address>
+<postal>
+<street>P. O. Box 12195</street>
+<city>Research Triangle Park</city>
+<region>NC</region>
+<code>27709</code>
+<country>US</country></postal>
+<phone>+1 919 254 4434</phone>
+<email>cheng@ralvm6.vnet.ibm.com</email></address></author>
+<date year='1994' month='March' />
+<abstract>
+<t>This RFC describes IBM's SNMP support for SNA Advanced Peer-to-Peer Networking (APPN) nodes.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1593' />
+<format type='TXT' octets='207882' target='http://www.rfc-editor.org/rfc/rfc1593.txt' />
+</reference>

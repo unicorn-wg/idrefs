@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6947'>
+
+<front>
+<title>The Session Description Protocol (SDP) Alternate Connectivity (ALTC) Attribute</title>
+<author initials='M.' surname='Boucadair' fullname='M. Boucadair'>
+<organization /></author>
+<author initials='H.' surname='Kaplan' fullname='H. Kaplan'>
+<organization /></author>
+<author initials='R.' surname='Gilman' fullname='R. Gilman'>
+<organization /></author>
+<author initials='S.' surname='Veikkolainen' fullname='S. Veikkolainen'>
+<organization /></author>
+<date year='2013' month='May' />
+<abstract>
+<t>This document proposes a mechanism that allows the same SDP offer to carry multiple IP addresses of different address families (e.g., IPv4 and IPv6). The proposed attribute, the "altc" attribute, solves the backward-compatibility problem that plagued Alternative Network Address Types (ANAT) due to their syntax.&lt;/t>&lt;t> The proposed solution is applicable to scenarios where connectivity checks are not required. If connectivity checks are required, Interactive Connectivity Establishment (ICE), as specified in RFC 5245, provides such a solution.</t></abstract></front>
+
+<seriesInfo name='RFC' value='6947' />
+<format type='TXT' octets='51910' target='http://www.rfc-editor.org/rfc/rfc6947.txt' />
+</reference>

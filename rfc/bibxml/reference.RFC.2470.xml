@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2470'>
+
+<front>
+<title abbrev='IPv6 over Token Ring'>Transmission of IPv6 Packets over Token Ring Networks</title>
+<author initials='M.' surname='Crawford' fullname='Matt Crawford'>
+<organization>Fermilab</organization>
+<address>
+<postal>
+<street>PO Box 500, MS 368</street>
+<city>Batavia</city>
+<region>IL</region>
+<code>60510</code>
+<country>USA</country></postal>
+<phone>+1 630 840 3461</phone>
+<email>crawdad@fnal.gov</email></address></author>
+<author initials='T.' surname='Narten' fullname='Thomas Narten'>
+<organization>IBM Corporation</organization>
+<address>
+<postal>
+<street>P.O. Box 12195</street>
+<city>Research Triangle Park</city>
+<region>NC</region>
+<code>27709-2195</code>
+<country>USA</country></postal>
+<phone>+1 919 254 7798</phone>
+<email>narten@raleigh.ibm.com</email></address></author>
+<author initials='S.' surname='Thomas' fullname='Stephen Thomas'>
+<organization>TransNexus</organization>
+<address>
+<postal>
+<street>430 Tenth Street NW Suite N204</street>
+<city>Atlanta</city>
+<region>GA</region>
+<code>30318</code>
+<country>USA</country></postal>
+<phone>+1 404 872 4745</phone>
+<email>stephen.thomas@transnexus.com</email></address></author>
+<date year='1998' month='December' />
+<area>Internet</area>
+<keyword>internet protocol version 6</keyword>
+<keyword>IPv6</keyword>
+<keyword>token ring</keyword></front>
+
+<seriesInfo name='RFC' value='2470' />
+<format type='TXT' octets='21677' target='http://www.rfc-editor.org/rfc/rfc2470.txt' />
+<format type='HTML' octets='41688' target='http://xml.resource.org/public/rfc/html/rfc2470.html' />
+<format type='XML' octets='35035' target='http://xml.resource.org/public/rfc/xml/rfc2470.xml' />
+</reference>

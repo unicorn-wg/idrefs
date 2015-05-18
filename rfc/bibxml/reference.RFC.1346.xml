@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1346'>
+
+<front>
+<title abbrev='Resource Allocation, Control, and Accounting'>Resource Allocation, Control, and Accounting for the Use of Network Resources</title>
+<author initials='P.' surname='Jones' fullname='Phil Jones'>
+<organization>Joint Network Team (JNT)</organization>
+<address>
+<postal>
+<street>RAL</street>
+<street>Chilton</street>
+<city>Didcot, Oxfordshire</city>
+<region>England</region>
+<code>OX11 0QX</code>
+<country>UK</country></postal>
+<phone>+44 235 446618</phone>
+<facsimile>+44 235 446251</facsimile>
+<email>p.jones@jnt.ac.uk</email></address></author>
+<date year='1992' month='June' /></front>
+
+<seriesInfo name='RFC' value='1346' />
+<format type='TXT' octets='13084' target='http://www.rfc-editor.org/rfc/rfc1346.txt' />
+</reference>

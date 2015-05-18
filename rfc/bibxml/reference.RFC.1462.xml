@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1462'>
+
+<front>
+<title abbrev='What is the Internet?'>FYI on "What is the Internet?"</title>
+<author initials='E.' surname='Krol' fullname='Ed Krol'>
+<organization>University of IllinoisComputing and Communications Service Office, Urbana Champaign (UIUC)</organization>
+<address>
+<postal>
+<street>1304 W Springfield</street>
+<city>Urbana</city>
+<region>IL</region>
+<code>61801</code>
+<country>US</country></postal>
+<phone>+1 217 333 7886</phone>
+<email>e-krol@uiuc.edu</email></address></author>
+<author initials='E.' surname='Hoffman' fullname='Ellen Hoffman'>
+<organization>Merit Network, Inc.</organization>
+<address>
+<postal>
+<street>2901 Hubbard</street>
+<street>Pod-G</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48105</code>
+<country>US</country></postal>
+<phone>+1 313 936 3000</phone>
+<email>ellen@merit.edu</email></address></author>
+<date year='1993' month='May' />
+<abstract>
+<t>This FYI RFC answers the question, "What is the Internet?" and is produced by the User Services Working Group of the Internet Engineering Task Force (IETF). Containing a modified chapter from Ed Krol's 1992 book, "The Whole Internet User's Guide and Catalog," the paper covers the Internet's definition, history, administration, protocols, financing, and current issues such as growth, commercialization, and privatization.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1462' />
+<format type='TXT' octets='27811' target='http://www.rfc-editor.org/rfc/rfc1462.txt' />
+</reference>

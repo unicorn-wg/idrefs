@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3118'>
+
+<front>
+<title>Authentication for DHCP Messages</title>
+<author initials='R.' surname='Droms' fullname='R. Droms'>
+<organization /></author>
+<author initials='W.' surname='Arbaugh' fullname='W. Arbaugh'>
+<organization /></author>
+<date year='2001' month='June' />
+<abstract>
+<t>This document defines a new Dynamic Host Configuration Protocol (DHCP) option through which authorization tickets can be easily generated and newly attached hosts with proper authorization can be automatically configured from an authenticated DHCP server. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='3118' />
+<format type='TXT' octets='35536' target='http://www.rfc-editor.org/rfc/rfc3118.txt' />
+</reference>

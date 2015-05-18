@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1417'>
+
+<front>
+<title abbrev='NADF Standing Documents'>NADF Standing Documents: A Brief Overview</title>
+<author initials='T.' surname='Myer' fullname='Theodore H. Myer'>
+<organization>North American Directory Forum</organization>
+<address>
+<postal>
+<street>3055 Q Street NW</street>
+<city>Washington</city>
+<region>DC</region>
+<code>20007</code>
+<country>US</country></postal>
+<phone>+1 202 342 2727</phone>
+<email>0004454742@mcimail.com</email></address></author>
+<date year='1993' month='February' /></front>
+
+<seriesInfo name='RFC' value='1417' />
+<format type='TXT' octets='7270' target='http://www.rfc-editor.org/rfc/rfc1417.txt' />
+</reference>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2121'>
+
+<front>
+<title abbrev='MARS Cluster Size'>Issues affecting MARS Cluster Size</title>
+<author initials='G.' surname='Armitage' fullname='Grenville Armitage'>
+<organization>Bellcore, 445 South Street</organization>
+<address>
+<postal>
+<street>Morristown</street>
+<street>NJ</street>
+<street>07960</street>
+<country>USA</country></postal>
+<phone>+1 201 829 2635</phone>
+<email>gja@thumper.bellcore.com</email></address></author>
+<date year='1997' month='March' />
+<area>Internet</area>
+<keyword>MARS</keyword>
+<keyword>multicast</keyword>
+<keyword>non-broadcast multiple access</keyword>
+<abstract>
+<t>
+   IP multicast over ATM currently uses the MARS model  to manage the
+   use of ATM pt-mpt SVCs for IP multicast packet forwarding. The scope
+   of any given MARS services is the MARS Cluster - typically the same
+   as an IPv4 Logical IP Subnet (LIS). Current IP/ATM networks are
+   usually architected with unicast routing and forwarding issues
+   dictating the sizes of individual LISes. However, as IP multicast is
+   deployed as a service, the size of a LIS will only be as big as a
+   MARS Cluster can be. This document provides a qualitative look at the
+   issues constraining a MARS Cluster&apos;s size, including the impact of VC
+   limits in switches and NICs, geographical distribution of cluster
+   members, and the use of VC Mesh or MCS modes to support multicast
+   groups.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2121' />
+<format type='TXT' octets='26781' target='http://www.rfc-editor.org/rfc/rfc2121.txt' />
+<format type='XML' octets='27951' target='http://xml.resource.org/public/rfc/xml/rfc2121.xml' />
+</reference>

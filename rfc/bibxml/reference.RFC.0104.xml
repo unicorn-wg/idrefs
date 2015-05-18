@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0104'>
+
+<front>
+<title>Link 191</title>
+<author initials='J.' surname='Postel' fullname='J. Postel'>
+<organization>University of California, Los Angeles (UCLA), Computer Science</organization></author>
+<author initials='C.' surname='Crocker' fullname='C. Crocker'>
+<organization>University of California, Los Angeles (UCLA), Computer Science</organization></author>
+<date year='1971' day='25' month='February' />
+<abstract>
+<t>At the Network meeting at the University of Illinois, it was agreed to reserve a link for use in measurements. The link chosen was the highest unassigned link which was incorrectly calculated to be number 223. The correct number is 191. Therefore, Link 191 will be assigned for measurement use. Use of this link should be cleared with the Liasion Officer at the Network Measurement Center (NMC).</t></abstract></front>
+
+<seriesInfo name='RFC' value='104' />
+<format type='TXT' octets='1017' target='http://www.rfc-editor.org/rfc/rfc104.txt' />
+</reference>

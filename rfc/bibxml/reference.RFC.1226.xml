@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1226'>
+
+<front>
+<title abbrev='IP Encapsulation of AX.25 Frames'>Internet protocol encapsulation of AX.25 frames</title>
+<author initials='B.' surname='Kantor' fullname='Brian Kantor'>
+<organization>University of California San Diego (UCSD), Network Operations</organization>
+<address>
+<postal>
+<street>C-024</street>
+<city>La Jolla</city>
+<region>CA</region>
+<code>92093-0214</code>
+<country>US</country></postal>
+<phone>+1 619 534 6865</phone>
+<email>brian@UCSD.EDU</email></address></author>
+<date year='1991' day='1' month='May' /></front>
+
+<seriesInfo name='RFC' value='1226' />
+<format type='TXT' octets='2573' target='http://www.rfc-editor.org/rfc/rfc1226.txt' />
+</reference>

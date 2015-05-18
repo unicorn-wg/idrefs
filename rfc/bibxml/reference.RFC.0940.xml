@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0940'>
+
+<front>
+<title>Toward an Internet standard scheme for subnetting</title>
+<author>
+<organization>Gateway Algorithms and Data Structures Task Force (GADS)</organization></author>
+<date year='1985' day='1' month='April' /></front>
+
+<seriesInfo name='RFC' value='940' />
+<format type='TXT' octets='6881' target='http://www.rfc-editor.org/rfc/rfc940.txt' />
+</reference>

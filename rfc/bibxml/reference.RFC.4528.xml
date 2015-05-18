@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4528'>
+
+<front>
+<title>Lightweight Directory Access Protocol (LDAP) Assertion Control</title>
+<author initials='K.' surname='Zeilenga' fullname='K. Zeilenga'>
+<organization /></author>
+<date year='2006' month='June' />
+<abstract>
+<t>This document defines the Lightweight Directory Access Protocol (LDAP) Assertion Control, which allows a client to specify that a directory operation should only be processed if an assertion applied to the target entry of the operation is true.  It can be used to construct "test and set", "test and clear", and other conditional operations. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='4528' />
+<format type='TXT' octets='12539' target='http://www.rfc-editor.org/rfc/rfc4528.txt' />
+</reference>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1362'>
+
+<front>
+<title abbrev='IPXWAN'>Novell IPX over Various WAN Media (IPXWAN)</title>
+<author initials='M.' surname='Allen' fullname='Michael Allen'>
+<organization>Novell, Inc.</organization>
+<address>
+<postal>
+<street>2180 Fortune Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95131</code>
+<country>US</country></postal>
+<email>MALLEN@NOVELL.COM</email></address></author>
+<date year='1992' month='September' />
+<abstract>
+<t>This document describes how Novell IPX operates over various WAN media.  Specifically, it describes the common "IPX WAN" protocol Novell uses to exchange necessary router to router information prior to exchanging standard IPX routing information and traffic over WAN datalinks.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1362' />
+<format type='TXT' octets='30219' target='http://www.rfc-editor.org/rfc/rfc1362.txt' />
+</reference>

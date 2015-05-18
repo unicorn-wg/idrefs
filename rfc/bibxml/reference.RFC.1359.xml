@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1359'>
+
+<front>
+<title abbrev='Connecting to the Internet'>Connecting to the Internet - What Connecting Institutions Should Anticipate</title>
+<author initials='M.' surname='Hallgren' fullname='Martyne M. Hallgren'>
+<organization>Cornell University</organization>
+<address>
+<postal>
+<street>143 Caldwell Hall</street>
+<city>Ithaca</city>
+<region>NY</region>
+<code>14850</code>
+<country>US</country></postal>
+<phone>+1 607 255 5510</phone>
+<email>martyne@nr-tech.cit.cornell.edu</email></address></author>
+<author initials='J.' surname='Pope' fullname='Jack Pope'>
+<organization>University of San Diego</organization>
+<address>
+<postal>
+<street>9500 Gilman Drive</street>
+<city>La Jolla</city>
+<region>CA</region>
+<code>92093</code>
+<country>US</country></postal></address></author>
+<author initials='P.' surname='Smith' fullname='Pat Smith'>
+<organization>MERIT, Inc.</organization>
+<address>
+<postal>
+<street />
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48105</code>
+<country>US</country></postal></address></author>
+<author initials='J.' surname='Cordani' fullname='John Cordani'>
+<organization>Eastern Michigan University</organization>
+<address>
+<postal>
+<street />
+<city>Ypsilanti</city>
+<region>MI</region>
+<code>48197</code>
+<country>US</country></postal></address></author>
+<author initials='S.' surname='Sather' fullname='Steven Sather'>
+<organization>University of California, Los Angeles</organization>
+<address>
+<postal>
+<street>405 Hilgard Avenue</street>
+<street>POB 951361</street>
+<city>Los Angeles</city>
+<region>CA</region>
+<code>90095</code>
+<country>US</country></postal></address></author>
+<author initials='J.' surname='McGowan' fullname='Joyce McGowan'>
+<organization>University of Arkansas</organization>
+<address>
+<postal>
+<street />
+<city>Fayetteville</city>
+<region>AK</region>
+<code>72701</code>
+<country>US</country></postal></address></author>
+<date year='1992' month='August' />
+<abstract>
+<t>This FYI RFC outlines the major issues an institution should consider in the decision and implementation of a campus connection to the Internet.</t>
+<t>In order to provide clarity to the reader, some specific information has been detailed.  In doing so, the document has been directed toward U.S. academic institutions that have not yet connected to the Internet.</t>
+<t>However, the issues for which specific information has been provided can be generalized for any organization that wishes to participate in the world-wide Internet community.  It will be necessary for those organizations to obtain the correct and detailed information from their local or national IP service providers.  In addition, this document may be used as an evaluation checklist for organizations that are currently connected.  Readers are expected to have general familiarity with networking concepts and terminology.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1359' />
+<format type='TXT' octets='53449' target='http://www.rfc-editor.org/rfc/rfc1359.txt' />
+</reference>

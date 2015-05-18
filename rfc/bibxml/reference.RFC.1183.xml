@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1183'>
+
+<front>
+<title>New DNS RR Definitions</title>
+<author initials='C.' surname='Everhart' fullname='Craig F. Everhart'>
+<organization>Transarc Corporation</organization>
+<address>
+<postal>
+<street>707 Grant Street</street>
+<street>The Gulf Tower</street>
+<city>Pittsburgh</city>
+<region>PA</region>
+<code>15219</code>
+<country>US</country></postal>
+<phone>+1 412 338 4467</phone>
+<email>Craig_Everhart@transarc.com</email></address></author>
+<author initials='L.' surname='Mamakos' fullname='Louis A. Mamakos'>
+<organization>University of Maryland, Network Infrastructure Group</organization>
+<address>
+<postal>
+<street />
+<city>College Park</city>
+<region>MD</region>
+<code>20742-2411</code>
+<country>US</country></postal>
+<phone>+1 301 405 7836</phone>
+<email>louie@Sayshell.UMD.EDU</email></address></author>
+<author initials='R.' surname='Ullmann' fullname='Robert Ullmann'>
+<organization>Prime Computer, Inc.</organization>
+<address>
+<postal>
+<street>500 Old Connecticut Path</street>
+<city>Framingham</city>
+<region>MA</region>
+<code>01701</code>
+<country>US</country></postal>
+<phone>+1 508 620 2800 x1736</phone>
+<email>Ariel@Relay.Prime.COM</email></address></author>
+<author initials='P.' surname='Mockapetris' fullname='Paul Mockapetris'>
+<organization>University of Southern California (USC), Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone>
+<email>pvm@isi.edu</email></address></author>
+<date year='1990' day='1' month='October' /></front>
+
+<seriesInfo name='RFC' value='1183' />
+<format type='TXT' octets='23788' target='http://www.rfc-editor.org/rfc/rfc1183.txt' />
+</reference>

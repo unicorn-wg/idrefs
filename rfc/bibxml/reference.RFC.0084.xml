@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0084'>
+
+<front>
+<title>List of NWG/RFC's 1-80</title>
+<author initials='J.' surname='North' fullname='J. B. North'>
+<organization /></author>
+<date year='1970' day='23' month='December' /></front>
+
+<seriesInfo name='RFC' value='84' />
+<format type='TXT' octets='12613' target='http://www.rfc-editor.org/rfc/rfc84.txt' />
+</reference>

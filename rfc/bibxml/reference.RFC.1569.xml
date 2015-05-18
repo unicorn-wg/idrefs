@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1569'>
+
+<front>
+<title abbrev='Radio Paging -- Technical Procedures'>Principles of Operation for the TPC.INT Subdomain: Radio Paging -- Technical Procedures</title>
+<author initials='M.' surname='Rose' fullname='Marshall T. Rose'>
+<organization>Dover Beach Consulting, Inc.</organization>
+<address>
+<postal>
+<street>420 Whisman Court</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043-2186</code>
+<country>US</country></postal>
+<phone>+1 415 968 1052</phone>
+<facsimile>+1 415 968 2510</facsimile>
+<email>mrose@dbc.mtview.ca.us</email></address></author>
+<date year='1994' month='January' /></front>
+
+<seriesInfo name='RFC' value='1569' />
+<format type='TXT' octets='12597' target='http://www.rfc-editor.org/rfc/rfc1569.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0829'>
+
+<front>
+<title abbrev='Remote User Telnet Service'>Packet satellite technology reference sources</title>
+<author initials='V.' surname='Cerf' fullname='Vinton G. Cerf'>
+<organization>Defense Advanced Research Projects Agency (DARPA)</organization></author>
+<date year='1982' day='1' month='November' />
+<abstract>
+<t>This paper describes briefly the packet satellite technology developed by the Defense Advanced Research Projects Agency and several other participating organizations in the U.K. and Norway and provides a biblography of relevant papers for researchers interested in experimental and operational experience with this dynamic satellite-sharing technique.</t></abstract></front>
+
+<seriesInfo name='RFC' value='829' />
+<format type='TXT' octets='10919' target='http://www.rfc-editor.org/rfc/rfc829.txt' />
+</reference>

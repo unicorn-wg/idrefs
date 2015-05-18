@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1392'>
+
+<front>
+<title abbrev='Internet Glossary'>Internet Users' Glossary</title>
+<author initials='G.' surname='Malkin' fullname='Gary Scott Malkin'>
+<organization>Xylogics, Inc.</organization>
+<address>
+<postal>
+<street>53 Third Avenue</street>
+<city>Burlington</city>
+<region>MA</region>
+<code>01803</code>
+<country>US</country></postal>
+<phone>+1 617 272 8140</phone>
+<email>gmalkin@Xylogics.COM</email></address></author>
+<author initials='T.' surname='Parker' fullname='Tracy LaQuey Parker'>
+<organization>University of Texas at Austin, Computation Center</organization>
+<address>
+<postal>
+<street />
+<city>Austin</city>
+<region>TX</region>
+<code>78712</code>
+<country>US</country></postal>
+<phone>+1 512 471 2444</phone>
+<email>tracy@utexas.edu</email></address></author>
+<date year='1993' month='January' />
+<abstract>
+<t>There are many networking glossaries in existence.  This glossary concentrates on terms which are specific to the Internet.  Naturally, there are entries for some basic terms and acronyms because other entries refer to them.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1392' />
+<format type='TXT' octets='104624' target='http://www.rfc-editor.org/rfc/rfc1392.txt' />
+</reference>

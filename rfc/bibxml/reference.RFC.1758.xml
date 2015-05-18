@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1758'>
+
+<front>
+<title abbrev='NADF Standing Documents'>NADF Standing Documents: A Brief Overview</title>
+<author initials='T.H.' surname='Myer' fullname='Theodore H. Myer'>
+<organization>North American Directory Forum</organization>
+<address>
+<postal>
+<street>2721 N Street NW</street>
+<city>Washington</city>
+<region>DC</region>
+<code>20007</code>
+<country>US</country></postal>
+<phone>+1 202 342 2727</phone>
+<email>0004454742@mcimail.com</email></address></author>
+<date year='1995' month='February' /></front>
+
+<seriesInfo name='RFC' value='1758' />
+<format type='TXT' octets='7294' target='http://www.rfc-editor.org/rfc/rfc1758.txt' />
+</reference>

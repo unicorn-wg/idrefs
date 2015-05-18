@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2552'>
+
+<front>
+<title abbrev='GAIA'>Architecture for the Information Brokerage in the ACTS Project GAIA</title>
+<author initials='M.' surname='Blinov' fullname='Mikhail Blinov'>
+<organization>University College Dublin, Computer Science Department</organization>
+<address>
+<postal>
+<street>Belfield</street>
+<street>Dublin 4</street>
+<country>IE</country></postal>
+<phone>+353 1 7062488</phone>
+<facsimile>+353 1 2697262</facsimile>
+<email>mch@net-cs.ucd.ie</email></address></author>
+<author initials='M.' surname='Bessonov' fullname='Mikhail Bessonov'>
+<organization>University College Dublin, Computer Science Department</organization>
+<address>
+<postal>
+<street>Belfield</street>
+<street>Dublin 4</street>
+<country>IE</country></postal>
+<phone>+353 1 7062488</phone>
+<facsimile>+353 1 2697262</facsimile>
+<email>mikeb@net-cs.ucd.ie</email></address></author>
+<author initials='C.' surname='Clissmann' fullname='Ciaran Clissmann'>
+<organization>University College Dublin, Computer Science Department</organization>
+<address>
+<postal>
+<street>Belfield</street>
+<street>Dublin 4</street>
+<country>IE</country></postal>
+<phone>+353 1 7062488</phone>
+<facsimile>+353 1 2697262</facsimile>
+<email>ciaranc@net-cs.ucd.ie</email></address></author>
+<date year='1999' month='April' />
+<abstract>
+<t>This memo introduces a domain and supplier independent generic architecture for information brokerage, designed as part of the ACTS project GAIA (Generic Architecture for Information Availability).</t></abstract></front>
+
+<seriesInfo name='RFC' value='2552' />
+<format type='TXT' octets='65172' target='http://www.rfc-editor.org/rfc/rfc2552.txt' />
+</reference>

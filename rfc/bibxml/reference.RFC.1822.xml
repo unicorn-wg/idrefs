@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1822'>
+
+<front>
+<title abbrev='IKMP Patent Use'>A Grant of Rights to Use a Specific IBM patent with Photuris</title>
+<author initials='J.' surname='Lowe' fullname='John W. Lowe'>
+<organization>IBM Corporation</organization>
+<address>
+<postal>
+<street>500 Columbus Avenue</street>
+<city>Thornwood</city>
+<region>NY</region>
+<code>10594</code>
+<country>US</country></postal></address></author>
+<date year='1995' month='August' /></front>
+
+<seriesInfo name='RFC' value='1822' />
+<format type='TXT' octets='2664' target='http://www.rfc-editor.org/rfc/rfc1822.txt' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0979'>
+
+<front>
+<title>PSN End-to-End functional specification</title>
+<author initials='A.' surname='Malis' fullname='Andrew G. Malis'>
+<organization>Bolt Baranek and Newman (BBN) Communications Corp.</organization></author>
+<date year='1986' day='1' month='March' /></front>
+
+<seriesInfo name='RFC' value='979' />
+<format type='TXT' octets='39472' target='http://www.rfc-editor.org/rfc/rfc979.txt' />
+</reference>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0741'>
+
+<front>
+<title abbrev='NVP'>Specifications for the Network Voice Protocol (NVP)</title>
+<author initials='D.' surname='Cohen' fullname='Danny Cohen'>
+<organization>University of Southern California (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<date year='1976' day='22' month='November' /></front>
+
+<seriesInfo name='RFC' value='741' />
+<format type='TXT' octets='57581' target='http://www.rfc-editor.org/rfc/rfc741.txt' />
+</reference>

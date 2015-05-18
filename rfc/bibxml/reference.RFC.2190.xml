@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2190'>
+
+<front>
+<title abbrev='H.263 RPT Payload'>RTP Payload Format for H.263 Video Streams</title>
+<author initials='C.&quot;.' surname='Zhu' fullname='C. &quot;Chad&quot; Zhu'>
+<organization>Mail Stop: JF3-202</organization>
+<address>
+<postal>
+<street>Intel Corporation</street>
+<street>2111 N.E. 25th Avenue</street>
+<street>Hillsboro</street>
+<street>OR 97124</street>
+<country>USA</country></postal>
+<phone>(503) 264-6008</phone>
+<facsimile>(503) 264-1805</facsimile>
+<email>czhu@ibeam.intel.com</email></address></author>
+<date year='1997' month='September' />
+<area>Transport</area>
+<keyword>RTP</keyword>
+<keyword>H.263</keyword>
+<keyword>encapsulate</keyword>
+<keyword>real-time transport protocol</keyword>
+<keyword>video</keyword>
+<abstract>
+<t>
+   This document specifies the payload format for encapsulating an H.263
+   bitstream in the Real-Time Transport Protocol (RTP). Three modes are
+   defined for the H.263 payload header. An RTP packet can use one of
+   the three modes for H.263 video streams depending on the desired
+   network packet size and H.263 encoding options employed. The shortest
+   H.263 payload header (mode A) supports fragmentation at Group of
+   Block (GOB) boundaries. The long H.263 payload headers (mode B and C)
+   support fragmentation at Macroblock (MB) boundaries.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2190' />
+<format type='TXT' octets='26409' target='http://www.rfc-editor.org/rfc/rfc2190.txt' />
+<format type='XML' octets='29406' target='http://xml.resource.org/public/rfc/xml/rfc2190.xml' />
+</reference>

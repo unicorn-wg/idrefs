@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1164'>
+
+<front>
+<title abbrev='BGP - Application'>Application of the Border Gateway Protocol in the Internet</title>
+<author initials='J.' surname='Honig' fullname='Jeffrey C. Honig'>
+<organization>Cornell University, Theory Center</organization>
+<address>
+<postal>
+<street>265 Olin Hall</street>
+<city>Ithaca</city>
+<region>NY</region>
+<code>14853-5201</code>
+<country>US</country></postal>
+<phone>+1 607 255 8686</phone>
+<email>JCH@TCGOULD.TN.CORNELL.EDU</email></address></author>
+<author initials='D.' surname='Katz' fullname='Dave Katz'>
+<organization>Merit/NSFNET</organization>
+<address>
+<postal>
+<street>1075 Beal Ave.</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48109</code>
+<country>US</country></postal>
+<phone>+1 313 763 4898</phone>
+<email>DKATZ@MERIT.EDU</email></address></author>
+<author initials='M.' surname='Mathis' fullname='Matt Mathis'>
+<organization>Pittsburgh Supercomputing Center</organization>
+<address>
+<postal>
+<street>4400 Fifth Ave.</street>
+<city>Pittsburgh</city>
+<region>PA</region>
+<code>15213</code>
+<country>US</country></postal>
+<phone>+1 412 268 3319</phone>
+<email>MATHIS@FARADAY.ECE.CMU.EDU</email></address></author>
+<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
+<organization>IBM Corporation, T.J. Watson Research Center</organization>
+<address>
+<postal>
+<street>P.O. Box 218</street>
+<city>Yorktown Heights</city>
+<region>NY</region>
+<code>10598</code>
+<country>US</country></postal>
+<phone>+1 914 945 3896</phone>
+<email>YAKOV@IBM.COM</email></address></author>
+<author initials='J.' surname='Yu' fullname='Jie Yun (Jessica) Yu'>
+<organization>Merit/NSFNET</organization>
+<address>
+<postal>
+<street>1075 Beal Ave.</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48109</code>
+<country>US</country></postal>
+<phone>+1 313 936 3000</phone>
+<email>JYY@MERIT.EDU</email></address></author>
+<date year='1990' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='1164' />
+<format type='TXT' octets='56278' target='http://www.rfc-editor.org/rfc/rfc1164.txt' />
+</reference>

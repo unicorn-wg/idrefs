@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3372'>
+
+<front>
+<title>Session Initiation Protocol for Telephones (SIP-T): Context and Architectures</title>
+<author initials='A.' surname='Vemuri' fullname='A. Vemuri'>
+<organization /></author>
+<author initials='J.' surname='Peterson' fullname='J. Peterson'>
+<organization /></author>
+<date year='2002' month='September' /></front>
+
+<seriesInfo name='BCP' value='63' />
+<seriesInfo name='RFC' value='3372' />
+<format type='TXT' octets='49893' target='http://www.rfc-editor.org/rfc/rfc3372.txt' />
+</reference>

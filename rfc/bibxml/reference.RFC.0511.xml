@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0511'>
+
+<front>
+<title abbrev='ARPA Network Information Center'>Enterprise phone service to NIC from ARPANET sites</title>
+<author initials='J.' surname='North' fullname='Jeanne North'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization>
+<address>
+<postal>
+<street />
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal></address></author>
+<date year='1973' day='23' month='May' />
+<abstract>
+<t>In September 1971, NIC arranged for all Sites then on the Network to have phone service to NIC with all tolls billed to NIC. (7554,).</t></abstract></front>
+
+<seriesInfo name='RFC' value='511' />
+<format type='TXT' octets='4664' target='http://www.rfc-editor.org/rfc/rfc511.txt' />
+</reference>

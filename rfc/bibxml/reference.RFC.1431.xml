@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1431'>
+
+<front>
+<title>DUA Metrics (OSI-DS 33 (v2))</title>
+<author initials='P.' surname='Barker' fullname='Paul Barker'>
+<organization>University College London, Department of Computer Science</organization>
+<address>
+<postal>
+<street>Gower Street</street>
+<city>London</city>
+<region>England</region>
+<code>WC1E 6BT</code>
+<country>UK</country></postal>
+<phone>+44 71 3807366</phone>
+<facsimile>+44 71 3871397</facsimile>
+<email>P.Barker@cs.ucl.ac.uk</email></address></author>
+<date year='1993' month='February' />
+<abstract>
+<t>This RFC is being distributed to members of the Internet community in order to solicit their reactions to the proposals contained in it. While the issues discussed may not be directly relevant to the research problems of the Internet, they may be interesting to a number of researchers and implementers.</t>
+<t>This document defines a set of criteria by which a DUA implementation, or more precisely a Directory user interface, may be judged.  Particular issues covered include terminal requirements; style of interface; target user; default object classes and attribute types; use of DAP; error handling.  The focus of the note is on "white pages" DUAs: this is a reflection of the current information base.  Nevertheless much of the document will be applicable to DUAs developed for other types of Directory usage.</t>
+<t>Please send comments to the author or to the discussion group osi-ds@CS.UCL.AC.UK.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1431' />
+<format type='TXT' octets='42240' target='http://www.rfc-editor.org/rfc/rfc1431.txt' />
+</reference>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2587'>
+
+<front>
+<title abbrev='PKIX LDAPv2 Schema'>Internet X.509 Public Key Infrastructure LDAPv2 Schema</title>
+<author initials='S.' surname='Boeyen' fullname='Sharon Boeyen'>
+<organization>Entrust Technologies Limited</organization>
+<address>
+<postal>
+<street>750 Heron Road</street>
+<city>Ottawa</city>
+<region>Ontario</region>
+<code>K1V 1A7</code>
+<country>CA</country></postal>
+<email>sharon.boeyen@entrust.com</email></address></author>
+<author initials='T.' surname='Howes' fullname='Tim Howes'>
+<organization>Netscape Communications Corp</organization>
+<address>
+<postal>
+<street>501 East Middlefield Road</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<email>howes@netscape.com</email></address></author>
+<author initials='P.' surname='Richard' fullname='Patrick Richard'>
+<organization>Xcert Software Inc.</organization>
+<address>
+<postal>
+<street>701 West Georgia Street</street>
+<street>Suite 1001</street>
+<street>POB 10145</street>
+<city>Vancouver</city>
+<region>British Columbia</region>
+<code>V7Y 1C6</code>
+<country>CA</country></postal>
+<email>patr@xcert.com</email></address></author>
+<date year='1999' month='June' />
+<abstract>
+<t>The schema defined in this document is a minimal schema to support
+PKIX in an LDAPv2 environment, as defined in RFC 2559.
+Only PKIX-specific components are specified here.
+LDAP servers, acting as PKIX
+repositories should support the auxiliary object classes defined in
+this specification and integrate this schema specification with the
+generic and other application-specific schemas as appropriate,
+depending on the services to be supplied by that server.</t>
+<t>The key words 'MUST', 'SHALL', 'REQUIRED', 'SHOULD', 'RECOMMENDED',
+and 'MAY' in this document are to be interpreted as described in RFC
+2119.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2587' />
+<format type='TXT' octets='15102' target='http://www.rfc-editor.org/rfc/rfc2587.txt' />
+</reference>

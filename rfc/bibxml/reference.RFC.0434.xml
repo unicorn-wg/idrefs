@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0434'>
+
+<front>
+<title>IMP/TIP memory retrofit schedule</title>
+<author initials='A.M.' surname='McKenzie' fullname='A.M. McKenzie'>
+<organization /></author>
+<date year='1973' month='January' /></front>
+
+<seriesInfo name='RFC' value='434' />
+<format type='TXT' octets='2242' target='http://www.rfc-editor.org/rfc/rfc434.txt' />
+</reference>

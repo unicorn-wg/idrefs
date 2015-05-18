@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3285'>
+
+<front>
+<title>Using Microsoft Word to create Internet Drafts and RFCs</title>
+<author initials='M.' surname='Gahrns' fullname='M. Gahrns'>
+<organization /></author>
+<author initials='T.' surname='Hain' fullname='T. Hain'>
+<organization /></author>
+<date year='2002' month='May' />
+<abstract>
+<t>This document describes the steps to configure the Microsoft Word application to produce documents in Internet Draft and RFC format.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='3285' />
+<format type='TXT' octets='34556' target='http://www.rfc-editor.org/rfc/rfc3285.txt' />
+</reference>

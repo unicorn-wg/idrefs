@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3990'>
+
+<front>
+<title>Configuration and Provisioning for Wireless Access Points (CAPWAP) Problem Statement</title>
+<author initials='B.' surname='O&apos;Hara' fullname='B. O&apos;Hara'>
+<organization /></author>
+<author initials='P.' surname='Calhoun' fullname='P. Calhoun'>
+<organization /></author>
+<author initials='J.' surname='Kempf' fullname='J. Kempf'>
+<organization /></author>
+<date year='2005' month='February' />
+<abstract>
+<t>This document describes the Configuration and Provisioning for Wireless Access Points (CAPWAP) problem statement.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='3990' />
+<format type='TXT' octets='11854' target='http://www.rfc-editor.org/rfc/rfc3990.txt' />
+</reference>

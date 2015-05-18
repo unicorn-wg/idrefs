@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0113'>
+
+<front>
+<title>Network activity report: UCSB Rand</title>
+<author initials='E.' surname='Harslem' fullname='E. F. Harslem'>
+<organization>Rand Corporation</organization></author>
+<author initials='J.' surname='Heafner' fullname='J. F. Heafner'>
+<organization>Rand Corporation</organization></author>
+<author initials='J.' surname='White' fullname='J. E. White'>
+<organization /></author>
+<date year='1971' day='5' month='April' /></front>
+
+<seriesInfo name='RFC' value='113' />
+<format type='TXT' octets='3442' target='http://www.rfc-editor.org/rfc/rfc113.txt' />
+</reference>

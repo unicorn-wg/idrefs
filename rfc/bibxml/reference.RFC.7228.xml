@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7228'>
+
+<front>
+<title>Terminology for Constrained-Node Networks</title>
+<author initials='C.' surname='Bormann' fullname='C. Bormann'>
+<organization /></author>
+<author initials='M.' surname='Ersue' fullname='M. Ersue'>
+<organization /></author>
+<author initials='A.' surname='Keranen' fullname='A. Keranen'>
+<organization /></author>
+<date year='2014' month='May' />
+<abstract>
+<t>The Internet Protocol Suite is increasingly used on small devices with severe constraints on power, memory, and processing resources, creating constrained-node networks.  This document provides a number of basic terms that have been useful in the standardization work for constrained-node networks.</t></abstract></front>
+
+<seriesInfo name='RFC' value='7228' />
+<format type='TXT' octets='37635' target='http://www.rfc-editor.org/rfc/rfc7228.txt' />
+</reference>

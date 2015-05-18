@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2529'>
+
+<front>
+<title abbrev='Transmission of IPv6 Packets over IPv4'>Transmission of IPv6 over IPv4 Domains without Explicit Tunnels</title>
+<author initials='B.' surname='Carpenter' fullname='Brian E. Carpenter'>
+<organization>IBM United Kingdom Laboratories</organization>
+<address>
+<postal>
+<street>Internet Division</street>
+<street>MP 185</street>
+<street>Hursley Park</street>
+<city>Winchester</city>
+<region>England</region>
+<code>S021 2JN</code>
+<country>UK</country></postal>
+<email>brian@hursley.ibm.com</email></address></author>
+<author initials='C.' surname='Jung' fullname='Cyndi Jung'>
+<organization>3Com Corporation</organization>
+<address>
+<postal>
+<street>5400 Bayfront Plaza</street>
+<street>Mailstop 3219</street>
+<city>Santa Clara</city>
+<region>CA</region>
+<code>95052-8145</code>
+<country>US</country></postal>
+<email>cmj@3Com.com</email></address></author>
+<date year='1999' month='March' />
+<abstract>
+<t>This memo specifies the frame format for transmission ofIPv6packets and the method of forming IPv6 link-local addresses over IPv4
+domains.
+It also specifies the content of the Source/Target Link-
+layer Address option used in the Router Solicitation, Router
+Advertisement, Neighbor Solicitation, and Neighbor Advertisement and
+Redirect messages, when those messages are transmitted on an IPv4
+multicast network.</t>
+<t>The motivation for this method is to allow isolated IPv6 hosts,
+located on a physical link which has no directly connected IPv6
+router, to become fully functional IPv6 hosts by using an IPv4 domain
+that supports IPv4 multicast as their virtual local link.
+It uses
+IPv4 multicast as a 'virtual Ethernet'.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2529' />
+<format type='TXT' octets='21049' target='http://www.rfc-editor.org/rfc/rfc2529.txt' />
+</reference>

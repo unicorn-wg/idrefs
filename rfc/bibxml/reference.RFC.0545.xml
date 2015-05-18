@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0545'>
+
+<front>
+<title>Of what quality be the UCSB resources evaluators?</title>
+<author initials='J.R.' surname='Pickens' fullname='J.R. Pickens'>
+<organization /></author>
+<date year='1973' month='July' /></front>
+
+<seriesInfo name='RFC' value='545' />
+<format type='TXT' octets='3754' target='http://www.rfc-editor.org/rfc/rfc545.txt' />
+</reference>

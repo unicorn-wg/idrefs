@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1347'>
+
+<front>
+<title abbrev='TUBA: A Proposal for Addressing and Routing'>TCP and UDP with Bigger Addresses (TUBA), A Simple Proposal for Internet Addressing and Routing</title>
+<author initials='R.' surname='Callon' fullname='Ross Callon'>
+<organization>Digital Equipment Corporation (DEC)</organization>
+<address>
+<postal>
+<street>550 King Street</street>
+<street>LKG 1-2/A19</street>
+<city>Littleton</city>
+<region>MA</region>
+<code>01460-1289</code>
+<country>US</country></postal>
+<phone>+1 508 486 5009</phone>
+<email>Callon@bigfut.lkg.dec.com</email></address></author>
+<date year='1992' month='June' /></front>
+
+<seriesInfo name='RFC' value='1347' />
+<format type='TXT' octets='26563' target='http://www.rfc-editor.org/rfc/rfc1347.txt' />
+<format type='PS' octets='42398' target='http://www.rfc-editor.org/rfc/rfc1347.ps' />
+<format type='PDF' octets='22398' target='http://www.rfc-editor.org/rfc/rfc1347.pdf' />
+</reference>

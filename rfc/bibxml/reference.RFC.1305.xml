@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1305'>
+
+<front>
+<title>Network Time Protocol (Version 3) Specification, Implementation</title>
+<author initials='D.' surname='Mills' fullname='David L. Mills'>
+<organization>University of Delaware, Electrical Engineering Department</organization>
+<address>
+<postal>
+<street />
+<city>Newark</city>
+<region>DE</region>
+<code>19716</code>
+<country>US</country></postal>
+<phone>+1 302 451 8247</phone>
+<email>mills@udel.edu</email></address></author>
+<date year='1992' month='March' />
+<abstract>
+<t>This document describes the Network Time Protocol (NTP), specifies its normal structure and summarizes information useful for its implementation. NTP provides the mechanisms to synchronize time and coordinate time distribution in a large, diverse internet operating at rates from mundane to lightwave. It uses a returnable-time design in which a distributed subnet of time servers operating in a self-organizing, hierarchical-master-slave configuration synchronizes local clocks within the subnet and to national time standards via wire or radio. The servers can also redistribute reference time via local routing algorithms and time daemons.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1305' />
+<format type='TXT' octets='307085' target='http://www.rfc-editor.org/rfc/rfc1305.txt' />
+<format type='PDF' octets='442493' target='http://www.rfc-editor.org/rfc/rfc1305.pdf' />
+</reference>

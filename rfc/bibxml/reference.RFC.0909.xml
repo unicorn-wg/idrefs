@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0909'>
+
+<front>
+<title abbrev='LDP Specification'>Loader Debugger Protocol</title>
+<author initials='C.' surname='Welles' fullname='Christopher Welles'>
+<organization>Bolt Baranek and Newman Communications Corporation (BBNCC)</organization></author>
+<author initials='W.' surname='Milliken' fullname='Walter Milliken'>
+<organization>Bolt Baranek and Newman (BBN) Laboratories</organization></author>
+<date year='1984' day='1' month='July' /></front>
+
+<seriesInfo name='RFC' value='909' />
+<format type='TXT' octets='209813' target='http://www.rfc-editor.org/rfc/rfc909.txt' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0949'>
+
+<front>
+<title>FTP unique-named store command</title>
+<author initials='M.' surname='Padlipsky' fullname='Mike Padlipsky'>
+<organization>Mitre</organization></author>
+<date year='1985' day='1' month='July' /></front>
+
+<seriesInfo name='RFC' value='949' />
+<format type='TXT' octets='4017' target='http://www.rfc-editor.org/rfc/rfc949.txt' />
+</reference>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1687'>
+
+<front>
+<title>A Large Corporate User's View of IPng</title>
+<author initials='E.' surname='Fleischman' fullname='Eric Fleischman'>
+<organization>Boeing Computer Services</organization>
+<address>
+<postal>
+<street>P.O. Box 24346</street>
+<street>MS 7M-HA</street>
+<city>Seattle</city>
+<region>WA</region>
+<code>98124-0346</code>
+<country>US</country></postal>
+<email>ericf@atc.boeing.com</email></address></author>
+<date year='1994' month='August' />
+<abstract>
+<t>This document was submitted to the IETF IPng area in response to RFC 1550.  Publication of this document does not imply acceptance by the IPng area of any ideas expressed within.  Comments should be submitted to the big-internet@munnari.oz.au mailing list.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1687' />
+<format type='TXT' octets='34120' target='http://www.rfc-editor.org/rfc/rfc1687.txt' />
+</reference>

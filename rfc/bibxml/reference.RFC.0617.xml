@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0617'>
+
+<front>
+<title>Note on socket number assignment</title>
+<author initials='E.' surname='Taft' fullname='Edward Taft'>
+<organization>Xerox Palo Alto Research Center (PARC), MAXC</organization></author>
+<date year='1974' day='19' month='February' /></front>
+
+<seriesInfo name='RFC' value='617' />
+<format type='TXT' octets='8062' target='http://www.rfc-editor.org/rfc/rfc617.txt' />
+</reference>

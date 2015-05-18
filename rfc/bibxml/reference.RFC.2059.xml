@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2059'>
+
+<front>
+<title>RADIUS Accounting</title>
+<author initials='C.' surname='Rigney' fullname='Carl Rigney'>
+<organization>Livingston Enterprises</organization>
+<address>
+<postal>
+<street>6920 Koll Center Parkway</street>
+<street>Suite 220</street>
+<city>Pleasanton</city>
+<region>CA</region>
+<code>94566</code>
+<country>US</country></postal>
+<email>cdr@livingston.com</email></address></author>
+<date year='1997' month='January' />
+<abstract>
+<t>This document describes a protocol for carrying accounting information between a Network Access Server and a shared Accounting Server.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2059' />
+<format type='TXT' octets='44237' target='http://www.rfc-editor.org/rfc/rfc2059.txt' />
+</reference>

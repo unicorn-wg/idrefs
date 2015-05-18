@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0894'>
+
+<front>
+<title>Standard for the transmission of IP datagrams over Ethernet networks</title>
+<author initials='C.' surname='Hornig' fullname='Charles Hornig'>
+<organization>Symbolics Cambridge Research Center</organization></author>
+<date year='1984' day='1' month='April' /></front>
+
+<seriesInfo name='STD' value='41' />
+<seriesInfo name='RFC' value='894' />
+<format type='TXT' octets='5697' target='http://www.rfc-editor.org/rfc/rfc894.txt' />
+</reference>

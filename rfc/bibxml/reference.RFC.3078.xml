@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3078'>
+
+<front>
+<title>Microsoft Point-To-Point Encryption (MPPE) Protocol</title>
+<author initials='G.' surname='Pall' fullname='G. Pall'>
+<organization /></author>
+<author initials='G.' surname='Zorn' fullname='G. Zorn'>
+<organization /></author>
+<date year='2001' month='March' />
+<abstract>
+<t>This document describes the use of the Microsoft Point to Point Encryption (MPPE) to enhance the confidentiality of PPP-encapsulated packets.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='3078' />
+<format type='TXT' octets='22952' target='http://www.rfc-editor.org/rfc/rfc3078.txt' />
+</reference>

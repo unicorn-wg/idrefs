@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2107'>
+
+<front>
+<title abbrev='ATMP'>Ascend Tunnel Management Protocol - ATMP</title>
+<author initials='K.' surname='Hamzeh' fullname='Kory Hamzeh'>
+<organization>Ascend Communications</organization>
+<address>
+<postal>
+<street>1275 Harbor Bay Parkway</street>
+<street>Alameda</street>
+<street>CA 94502</street></postal>
+<email>kory@ascend.com</email></address></author>
+<date year='1997' month='February' />
+<area>Routing</area>
+<keyword>tunnel</keyword>
+<keyword>dial-in</keyword>
+<abstract>
+<t>
+   This note documents a private protocol for tunnel management.  This
+   protocol is NOT the product of an IETF working group nor is it a
+   standards track document. There is ongoing effort in an IETF working
+   group which could result in a standards track document which
+   specifies a protocol which provides similar functionality.
+</t>
+<t>
+   This document specifies a generic tunnel management protocol that
+   allows remote dial-in users to access their home network as if they
+   were directly attached to the home network.  The user&apos;s client
+   software uses an address contained in the home network address space
+   for the remote access.  Packets to and from the home network are
+   tunneled by the Network Access Server (NAS) to which the user
+   connects and a Home Agent (HA) on the user&apos;s home network.  This
+   allows for the support of access to Virtual Private Networks and also
+   allows for the use of protocols other than IP to be carried over the
+   tunnel.  An example of how the RADIUS (Remote Authentication Dial In
+   User Service) can be used to provide the necessary configuration
+   information to support this service is also provided.
+</t></abstract>
+<note title='IESG Note'>
+<t>
+   This note documents a private protocol for tunnel management.  This
+   protocol is NOT the product of an IETF working group nor is it a
+   standards track document. There is ongoing effort in an IETF working
+   group which could result in a standards track document which
+   specifies a protocol which provides similar functionality.
+</t></note></front>
+
+<seriesInfo name='RFC' value='2107' />
+<format type='TXT' octets='44300' target='http://www.rfc-editor.org/rfc/rfc2107.txt' />
+<format type='XML' octets='47784' target='http://xml.resource.org/public/rfc/xml/rfc2107.xml' />
+</reference>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2217'>
+
+<front>
+<title>Telnet Com Port Control Option</title>
+<author initials='G.' surname='Clark' fullname='Glen Clark, Software Architect'>
+<organization>Cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<street>San Jose</street>
+<street>CA  96134</street>
+<country>USA</country></postal>
+<email>glenc@cisco.com</email>
+<uri>www.cisco.com</uri></address></author>
+<date year='1997' month='October' />
+<area>Applications</area>
+<keyword>telnet</keyword></front>
+
+<seriesInfo name='RFC' value='2217' />
+<format type='TXT' octets='31664' target='http://www.rfc-editor.org/rfc/rfc2217.txt' />
+<format type='HTML' octets='47061' target='http://xml.resource.org/public/rfc/html/rfc2217.html' />
+<format type='XML' octets='31562' target='http://xml.resource.org/public/rfc/xml/rfc2217.xml' />
+</reference>

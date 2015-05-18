@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2674'>
+
+<front>
+<title abbrev='Bridge MIB Extensions'>Definitions of Managed Objects for Bridges with Traffic Classes, Multicast Filtering and Virtual LAN Extensions</title>
+<author initials='L.' surname='Bell' fullname='Les Bell'>
+<organization>3Com Europe Limited</organization>
+<address>
+<postal>
+<street>3Com Centre</street>
+<street>Boundary Way</street>
+<street>Hemel Hempstead</street>
+<city>Herts</city>
+<region>England</region>
+<code>HP2 7YU</code>
+<country>UK</country></postal>
+<phone>+44 1442 438025</phone>
+<email>Les_Bell@3Com.com</email></address></author>
+<author initials='A.' surname='Smith' fullname='Andrew Smith'>
+<organization>Extreme Networks</organization>
+<address>
+<postal>
+<street>3585 Monroe St.</street>
+<city>Santa Clara</city>
+<region>CA</region>
+<code>95051</code>
+<country>US</country></postal>
+<phone>+1 408 579 2821</phone>
+<email>andrew@extremenetworks.com</email></address></author>
+<author initials='P.' surname='Langille' fullname='Paul Langille'>
+<organization>Newbridge Networks</organization>
+<address>
+<postal>
+<street>5 Corporate Drive</street>
+<city>Andover</city>
+<region>MA</region>
+<code>01810</code>
+<country>US</country></postal>
+<phone>+1 978 691 4665</phone>
+<email>langille@newbridge.com</email></address></author>
+<author initials='A.' surname='Rijhsinghani' fullname='Anil Rijhsinghani'>
+<organization>Cabletron Systems</organization>
+<address>
+<postal>
+<street>50 Minuteman Road</street>
+<city>Andover</city>
+<region>MA</region>
+<code>01810</code>
+<country>US</country></postal>
+<phone>+1 978 684 1295</phone>
+<email>anil@cabletron.com</email></address></author>
+<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
+<organization>cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134-1706</code>
+<country>US</country></postal>
+<phone>+1 408 526 5260</phone>
+<email>kzm@cisco.com</email></address></author>
+<date year='1999' month='August' />
+<abstract>
+<t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP based internets. In particular, it defines two MIB modules for managing the new capabilities of MAC bridges defined by the IEEE 802.1D-1998 MAC Bridges and the IEEE 802.1Q-1998 Virtual LAN (VLAN) standards for bridging between Local Area Network (LAN) segments. One MIB module defines objects for managing the 'Traffic Classes' and 'Enhanced Multicast Filtering' components of IEEE 802.1D-1998. The other MIB module defines objects for managing IEEE 802.1Q VLANs.</t>
+<t>Provisions are made for support of transparent bridging. Provisions are also made so that these objects apply to bridges connected by subnetworks other than LAN segments. This memo also includes several MIB modules in a manner that is compliant to theSMIv2.</t>
+<t>This memo supplementsRFC 1493and (to a lesser extent)RFC 1525.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2674' />
+<format type='TXT' octets='159971' target='http://www.rfc-editor.org/rfc/rfc2674.txt' />
+</reference>

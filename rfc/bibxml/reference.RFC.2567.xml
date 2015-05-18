@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2567'>
+
+<front>
+<title abbrev='Internet Printing Design Goals'>Design Goals for an Internet Printing Protocol</title>
+<author initials='F.' surname='Wright' fullname='F.D. (Don) Wright'>
+<organization>Lexmark International</organization>
+<address>
+<postal>
+<street>740 New Circle Rd</street>
+<street>C14/035-3</street>
+<city>Lexington</city>
+<region>KY</region>
+<code>40550</code>
+<country>US</country></postal>
+<phone>+1 606 232 4808</phone>
+<facsimile>+1 606 232 6740</facsimile>
+<email>don@lexmark.com</email></address></author>
+<date year='1999' month='April' />
+<abstract>
+<t>This document is one of a set of documents, which together describe
+   all aspects of a new Internet Printing Protocol (IPP).  IPP is an
+   application level protocol that can be used for distributed printing
+   using Internet tools and technologies.  This document takes a broad
+   look at distributed printing functionality, and it enumerates real-
+   life scenarios that help to clarify the features that need to be
+   included in a printing protocol for the Internet.  It identifies
+   requirements for three types of users: end users, operators, and</t>
+<t>administrators.  The design goals document calls out a subset of end
+   user requirements that are satisfied in IPP/1.0. Operator and
+   administrator requirements are out of scope for version 1.0.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2567' />
+<format type='TXT' octets='90260' target='http://www.rfc-editor.org/rfc/rfc2567.txt' />
+</reference>

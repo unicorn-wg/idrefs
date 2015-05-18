@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1031'>
+
+<front>
+<title abbrev='MILNET DOMAIN TRANSITION'>MILNET name domain transition</title>
+<author initials='W.' surname='Lazear' fullname='W. Lazear'>
+<organization>MITRE</organization></author>
+<date year='1987' day='1' month='November' /></front>
+
+<seriesInfo name='RFC' value='1031' />
+<format type='TXT' octets='20137' target='http://www.rfc-editor.org/rfc/rfc1031.txt' />
+</reference>

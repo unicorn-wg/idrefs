@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0181'>
+
+<front>
+<title>Modifications to RFC 177</title>
+<author initials='J.' surname='McConnell' fullname='John McConnell'>
+<organization>AMES RESEARCH CENTER</organization></author>
+<date year='1971' day='21' month='July' />
+<abstract>
+<t>This RFC is intended to modifiy the proposal for a device independent graphical display description discussed in RFC #177.  Thanks are due to Stan Mantiply of Ames for his ideas.  The main changes are in the definition of coordinate areas to avoid one problem encountered with the old definition and to provide more flexibility.  Terms used are those defined in RFC #177.</t></abstract></front>
+
+<seriesInfo name='RFC' value='181' />
+<format type='TXT' octets='4892' target='http://www.rfc-editor.org/rfc/rfc181.txt' />
+</reference>

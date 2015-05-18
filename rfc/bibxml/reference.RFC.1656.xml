@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1656'>
+
+<front>
+<title abbrev='BGP-4 Implementation'>BGP-4 Protocol Document Roadmap and Implementation Experience</title>
+<author initials='P.' surname='Traina' fullname='Paul Traina'>
+<organization>cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>1525 O'Brien Drive</street>
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<email>pst@cisco.com</email></address></author>
+<date year='1994' month='July' /></front>
+
+<seriesInfo name='RFC' value='1656' />
+<format type='TXT' octets='7705' target='http://www.rfc-editor.org/rfc/rfc1656.txt' />
+</reference>

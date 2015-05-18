@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1916'>
+
+<front>
+<title abbrev='Enterprise Renumbering Solicitation'>Enterprise Renumbering: Experience and Information Solicitation</title>
+<author initials='H.' surname='Berkowitz' fullname='Howard C. Berkowitz'>
+<organization>PSC International</organization>
+<address>
+<postal>
+<street>8260 Greensboro Drive</street>
+<street>Suite 330</street>
+<city>McLean</city>
+<region>VA</region>
+<code>22102</code>
+<country>US</country></postal>
+<phone>+1 703 998 5819</phone>
+<facsimile>+1 703 998 5058</facsimile>
+<email>hcb@clark.net</email></address></author>
+<author initials='P.' surname='Ferguson' fullname='Paul Ferguson'>
+<organization>cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>1835 Alexander Bell Drive</street>
+<street>Suite 100</street>
+<city>Reston</city>
+<region>VA</region>
+<code>22091</code>
+<country>US</country></postal>
+<phone>+1 703 716 9538</phone>
+<facsimile>+1 703 716 9538</facsimile>
+<email>pferguso@cisco.com</email></address></author>
+<author initials='W.' surname='Leland' fullname='Will E. Leland'>
+<organization>Bellcore</organization>
+<address>
+<postal>
+<street>445 South Street</street>
+<street>Room 1A-228B</street>
+<city>Morristown</city>
+<region>NJ</region>
+<code>07960-6438</code>
+<country>US</country></postal>
+<phone>+1 201 829 4376</phone>
+<facsimile>+1 201 829 2504</facsimile>
+<email>wel@bellcore.com</email></address></author>
+<author initials='P.' surname='Nesser' fullname='Philip J. Nesser II'>
+<organization>Nesser and Nesser Consulting</organization>
+<address>
+<postal>
+<street>16015 84th Ave. NE</street>
+<city>Bothell</city>
+<region>WA</region>
+<code>98011</code>
+<country>US</country></postal>
+<phone>+1 206 488 6268</phone>
+<email>pjnesser@rocket.com</email></address></author>
+<date year='1996' month='February' />
+<abstract>
+<t>Because of the urgent need for, and substantial difficulty in, renumbering IP networks, the PIER working group is compiling a series of documents to assist sites in their renumbering efforts.  The intent of these documents is to provide both educational and practical information to the Internet community. To this end the working group is soliciting information from organizations that already have gone through, or are in the process of going through, renumbering efforts. Case studies, tools, and lists of applications that require special attention are sought.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1916' />
+<format type='TXT' octets='16117' target='http://www.rfc-editor.org/rfc/rfc1916.txt' />
+</reference>

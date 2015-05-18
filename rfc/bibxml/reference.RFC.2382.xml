@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2382'>
+
+<front>
+<title abbrev='Integrated Services and RSVP over ATM'>A Framework for Integrated Services and RSVP over ATM</title>
+<author initials='E.S.' surname='Crawley' fullname='Eric S. Crawley'>
+<organization>Argon Networks</organization>
+<address>
+<postal>
+<street>25 Porter Road</street>
+<street>Littleton</street>
+<street>Ma 01460</street></postal>
+<phone>+1 978 486-0665</phone>
+<email>esc@argon.com</email></address></author>
+<author initials='L.' surname='Berger' fullname='Lou Berger'>
+<organization>FORE Systems</organization>
+<address>
+<postal>
+<street>6905 Rockledge Drive</street>
+<street>Suite 800</street>
+<street>Bethesda</street>
+<street>MD 20817</street></postal>
+<phone>+1 301 571-2534</phone>
+<email>lberger@fore.com</email></address></author>
+<author initials='S.' surname='Berson' fullname='Steven Berson'>
+<organization>USC Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<street>Marina del Rey</street>
+<street>CA 90292</street></postal>
+<phone>+1 310 822-1511</phone>
+<email>berson@isi.edu</email></address></author>
+<author initials='F.' surname='Baker' fullname='Fred Baker'>
+<organization>Cisco Systems</organization>
+<address>
+<postal>
+<street>519 Lado Drive</street>
+<street>Santa Barbara</street>
+<street>California 93111</street></postal>
+<phone>+1 805 681-0115</phone>
+<email>fred@cisco.com</email></address></author>
+<author initials='M.' surname='Borden' fullname='Marty Borden'>
+<organization>Bay Networks</organization>
+<address>
+<postal>
+<street>125 Nagog Park</street>
+<street>Acton</street>
+<street>MA 01720</street></postal>
+<phone>+1 978 266-1011</phone>
+<email>mborden@baynetworks.com</email></address></author>
+<author initials='J.J.' surname='Krawczyk' fullname='John J. Krawczyk'>
+<organization>ArrowPoint Communications</organization>
+<address>
+<postal>
+<street>235 Littleton Road</street>
+<street>Westford</street>
+<street>Massachusetts 01886</street></postal>
+<phone>+1 978 692-5875</phone>
+<email>jj@arrowpoint.com</email></address></author>
+<date year='1998' month='August' />
+<area>Transport</area>
+<keyword>RSVP</keyword>
+<keyword>asynchronous transfer mode</keyword>
+<keyword>integrated services</keyword>
+<keyword>resource reservation protocol</keyword>
+<abstract>
+<t>
+   This document outlines the issues and framework related to providing
+   IP Integrated Services with RSVP over ATM. It provides an overall
+   approach to the problem(s) and related issues.  These issues and
+   problems are to be addressed in further documents from the ISATM
+   subgroup of the ISSLL working group.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2382' />
+<format type='TXT' octets='73865' target='http://www.rfc-editor.org/rfc/rfc2382.txt' />
+<format type='XML' octets='81240' target='http://xml.resource.org/public/rfc/xml/rfc2382.xml' />
+</reference>

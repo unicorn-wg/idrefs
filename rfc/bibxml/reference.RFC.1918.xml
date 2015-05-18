@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1918'>
+
+<front>
+<title>Address Allocation for Private Internets</title>
+<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
+<organization>Cisco systems</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134-1706</code>
+<country>US</country></postal>
+<phone>+1 914 528 0090</phone>
+<facsimile>+1 408 526 4952</facsimile>
+<email>yakov@cisco.com</email></address></author>
+<author initials='R.' surname='Moskowitz' fullname='Robert G. Moskowitz'>
+<organization>Chrysler Corporation</organization>
+<address>
+<postal>
+<street>25999 Lawrence Ave</street>
+<city>Center Line</city>
+<region>MI</region>
+<code>48015</code>
+<country>US</country></postal>
+<phone>+1 810 758 8212</phone>
+<facsimile>+1 810 758 8173</facsimile>
+<email>rgm3@is.chrysler.com</email></address></author>
+<author initials='D.' surname='Karrenberg' fullname='Daniel Karrenberg'>
+<organization>RIPE Network Coordination Centre</organization>
+<address>
+<postal>
+<street>Kruislaan 409</street>
+<city>Amsterdam</city>
+<region />
+<code>1098 SJ</code>
+<country>NL</country></postal>
+<phone>+31 20 5925065</phone>
+<facsimile>+31 20 5925090</facsimile>
+<email>Daniel.Karrenberg@ripe.net</email></address></author>
+<author initials='G.' surname='Groot' fullname='Geert Jan de Groot'>
+<organization>RIPE Network Coordination Centre</organization>
+<address>
+<postal>
+<street>Kruislaan 409</street>
+<city>Amsterdam</city>
+<region />
+<code>1098 SJ</code>
+<country>NL</country></postal>
+<phone>+31 20 5925065</phone>
+<facsimile>+31 20 5925090</facsimile>
+<email>GeertJan.deGroot@ripe.net</email></address></author>
+<author initials='E.' surname='Lear' fullname='Eliot Lear'>
+<organization>Silicon Graphics, Inc.</organization>
+<address>
+<postal>
+<street>2011 N. Shoreline Blvd.</street>
+<street>Mail Stop 15-730</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043-1389</code>
+<country>US</country></postal>
+<phone>+1 415 960 1980</phone>
+<facsimile>+1 415 961 9584</facsimile>
+<email>lear@sgi.com</email></address></author>
+<date year='1996' month='February' /></front>
+
+<seriesInfo name='BCP' value='5' />
+<seriesInfo name='RFC' value='1918' />
+<format type='TXT' octets='22270' target='http://www.rfc-editor.org/rfc/rfc1918.txt' />
+</reference>

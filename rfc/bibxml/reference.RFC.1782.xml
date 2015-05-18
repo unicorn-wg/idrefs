@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1782'>
+
+<front>
+<title>TFTP Option Extension</title>
+<author initials='G.' surname='Malkin' fullname='Gary Scott Malkin'>
+<organization>Xylogics, Inc.</organization>
+<address>
+<postal>
+<street>53 Third Avenue</street>
+<city>Burlington</city>
+<region>MA</region>
+<code>01803</code>
+<country>US</country></postal>
+<phone>+1 617 272 8140</phone>
+<email>gmalkin@xylogics.com</email></address></author>
+<author initials='A.' surname='Harkin' fullname='Art Harkin'>
+<organization>Internet Services Project, Information Networks Division</organization>
+<address>
+<postal>
+<street>19420 Homestead Road</street>
+<street>MS 43LN</street>
+<city>Cupertino</city>
+<region>CA</region>
+<code>95014</code>
+<country>US</country></postal>
+<phone>+1 408 447 3755</phone>
+<email>ash@cup.hp.com</email></address></author>
+<date year='1995' month='March' />
+<abstract>
+<t>The Trivial File Transfer Protocolis a simple, lock-step, file transfer protocol which allows a client to get or put a file onto a remote host.  This document describes a simple extension to TFTP to allow option negotiation prior to the file transfer.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1782' />
+<format type='TXT' octets='11508' target='http://www.rfc-editor.org/rfc/rfc1782.txt' />
+</reference>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2030'>
+
+<front>
+<title abbrev='SNTPv4 for IPv4, IPv6 and OSI'>Simple Network Time Protocol (SNTP) Version 4 for IPv4, IPv6 and OSI</title>
+<author initials='D.' surname='Mills' fullname='David L. Mills'>
+<organization>University of Delaware, Electrical Engineering Department</organization>
+<address>
+<postal>
+<street />
+<city>Newark</city>
+<region>DE</region>
+<code>19716</code>
+<country>US</country></postal>
+<phone>+1 302 831 8247</phone></address></author>
+<date year='1996' month='October' />
+<abstract>
+<t>This memorandum describes the Simple Network Time Protocol (SNTP) Version 4, which is an adaptation of the Network Time Protocol (NTP) used to synchronize computer clocks in the Internet. SNTP can be used when the ultimate performance of the full NTP implementation described in RFC-1305 is not needed or justified. When operating with current and previous NTP and SNTP versions, SNTP Version 4 involves no changes to the NTP specification or known implementations, but rather a clarification of certain design features of NTP which allow operation in a simple, stateless remote-procedure call (RPC) mode with accuracy and reliability expectations similar to the UDP/TIME protocol described in RFC-868.</t>
+<t>The only significant protocol change in SNTP Version 4 over previous versions of NTP and SNTP is a modified header interpretation to accommodate Internet Protocol Version 6 (IPv6)and OSIaddressing. However, SNTP Version 4 includes certain optional extensions to the basic Version 3 model, including an anycast mode and an authentication scheme designed specifically for multicast and anycast modes. While the anycast mode extension is described in this document, the authentication scheme extension will be described in another document to be published later. Until such time that a definitive specification is published, these extensions should be considered provisional.</t>
+<t>This memorandum obsoletes RFC-1769, which describes SNTP Version 3. Its purpose is to correct certain inconsistencies in the previous document and to clarify header formats and protocol operations for current NTP Version 3 (IPv4) and proposed NTP Version 4 (IPv6 and OSI), which are also used for SNTP. A working knowledge of the NTP Version 3  specification RFC-1305 is not required for an implementation of SNTP.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2030' />
+<format type='TXT' octets='48620' target='http://www.rfc-editor.org/rfc/rfc2030.txt' />
+</reference>

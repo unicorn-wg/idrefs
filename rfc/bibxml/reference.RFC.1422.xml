@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1422'>
+
+<front>
+<title abbrev='Certificate-Based Key Management'>Privacy Enhancement for Internet Electronic Mail: Part II: Certificate-Based Key Management</title>
+<author initials='S.' surname='Kent' fullname='Steve Kent'>
+<organization>BBN Communications</organization>
+<address>
+<postal>
+<street>50 Moulton Street</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal>
+<phone>+1 617 873 3988</phone>
+<email>kent@BBN.COM</email></address></author>
+<date year='1993' month='February' /></front>
+
+<seriesInfo name='RFC' value='1422' />
+<format type='TXT' octets='86085' target='http://www.rfc-editor.org/rfc/rfc1422.txt' />
+</reference>

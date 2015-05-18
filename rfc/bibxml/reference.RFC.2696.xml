@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2696'>
+
+<front>
+<title abbrev='LDAP Control Ext. for Simple Paged Results'>LDAP Control Extension for Simple Paged Results Manipulation</title>
+<author initials='C.' surname='Weider' fullname='Chris Weider'>
+<organization>Microsoft Corporation</organization>
+<address>
+<postal>
+<street>1 Microsoft Way</street>
+<city>Redmond</city>
+<region>WA</region>
+<code>98052</code>
+<country>US</country></postal>
+<phone>+1 425 882 8080</phone>
+<email>cweider@microsoft.com</email></address></author>
+<author initials='A.' surname='Herron' fullname='Andy Herron'>
+<organization>Microsoft Corporation</organization>
+<address>
+<postal>
+<street>1 Microsoft Way</street>
+<city>Redmond</city>
+<region>WA</region>
+<code>98052</code>
+<country>US</country></postal>
+<phone>+1 425 882 8080</phone>
+<email>andyhe@microsoft.com</email></address></author>
+<author initials='A.' surname='Anantha' fullname='A. Anantha'>
+<organization>Microsoft Corporation</organization>
+<address>
+<postal>
+<street>1 Microsoft Way</street>
+<city>Redmond</city>
+<region>WA</region>
+<code>98052</code>
+<country>US</country></postal>
+<phone>+1 425 882 8080</phone>
+<email>anoopa@microsoft.com</email></address></author>
+<author initials='T.' surname='Howes' fullname='T. Howes'>
+<organization>Netscape Communications Corporation</organization>
+<address>
+<postal>
+<street>501 East Middlefield Road</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<phone>+1 415 937 2600</phone>
+<email>howes@netscape.com</email></address></author>
+<date year='1999' month='September' />
+<abstract>
+<t>This document describes an LDAPv3 control extension for simple
+paging of search results.
+This control extension allows a client to control the rate at which an
+LDAP server returns the results of an LDAP search operation.
+This control may be useful when the LDAP client has limited resources
+and may not be able to process the entire result set from a given LDAP
+query, or when the LDAP client is connected over a low-bandwidth connection.
+Other operations on the result set are not defined in this extension.
+This extension is not designed to provide more sophisticated result
+set management.</t>
+<t>The key words "MUST", "SHOULD", and "MAY" used in this document are
+to be interpreted as described in.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2696' />
+<format type='TXT' octets='12809' target='http://www.rfc-editor.org/rfc/rfc2696.txt' />
+</reference>

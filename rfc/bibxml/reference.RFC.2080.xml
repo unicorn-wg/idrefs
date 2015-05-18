@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2080'>
+
+<front>
+<title>RIPng for IPv6</title>
+<author initials='G.' surname='Malkin' fullname='Gary Scott Malkin'>
+<organization>Xylogics, Inc.</organization>
+<address>
+<postal>
+<street>53 Third Avenue</street>
+<city>Burlington</city>
+<region>MA</region>
+<code>01803</code>
+<country>US</country></postal>
+<phone>+1 617 272 8140</phone>
+<email>gmalkin@Xylogics.COM</email></address></author>
+<author initials='R.' surname='Minnear' fullname='Robert E. Minnear'>
+<organization>Ipsilon Networks, Inc.</organization>
+<address>
+<postal>
+<street>2191 E. Bayshore Road</street>
+<street>Suite 100</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94303</code>
+<country>US</country></postal>
+<phone>+1 415 846 4614</phone>
+<email>minnear@ipsilon.com</email></address></author>
+<date year='1997' month='January' />
+<abstract>
+<t>This document specifies a routing protocol for an IPv6 internet.  It is based on protocols and algorithms currently in wide use in the IPv4 Internet.</t>
+<t>This specification represents the minimum change to the Routing Information Protocol (RIP), as specified in RFC 1058and RFC 1723, necessary for operation over IPv6.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2080' />
+<format type='TXT' octets='47534' target='http://www.rfc-editor.org/rfc/rfc2080.txt' />
+</reference>

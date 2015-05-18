@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1923'>
+
+<front>
+<title>RIPv1 Applicability Statement for Historic Status</title>
+<author initials='J.' surname='Halpern' fullname='Joel M. Halpern'>
+<organization>Newbridge Networks Inc.</organization>
+<address>
+<postal>
+<street>593 Herndon Parkway</street>
+<city>Herndon</city>
+<region>VA</region>
+<code>22070-5241</code>
+<country>US</country></postal>
+<phone>+1 703 708 5954</phone>
+<email>jhalpern@newbridge.com</email></address></author>
+<author initials='S.' surname='Bradner' fullname='Scott Bradner'>
+<organization>Harvard University</organization>
+<address>
+<postal>
+<street>1350 Mass Ave</street>
+<street>Room 813</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal>
+<phone>+1 617 495 3864</phone>
+<email>sob@harvard.edu</email></address></author>
+<date year='1996' month='March' />
+<abstract>
+<t>RIP Version 1has been declared an historic document. This Applicability statement provides the supporting motivation for that declaration.  The primary reason, as described below, is the Classful nature of RIPv1.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1923' />
+<format type='TXT' octets='5560' target='http://www.rfc-editor.org/rfc/rfc1923.txt' />
+</reference>

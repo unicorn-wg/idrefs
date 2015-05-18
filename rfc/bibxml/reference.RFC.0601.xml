@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0601'>
+
+<front>
+<title>Traffic statistics (November 1973)</title>
+<author initials='A.' surname='McKenzie' fullname='A. McKenzie'>
+<organization>Bolt Beranek and Newman Inc. (BBN), Network Control Center (NET)</organization></author>
+<date year='1973' day='14' month='December' /></front>
+
+<seriesInfo name='RFC' value='601' />
+<format type='TXT' octets='9100' target='http://www.rfc-editor.org/rfc/rfc601.txt' />
+</reference>

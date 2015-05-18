@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0101'>
+
+<front>
+<title>Notes on the Network Working Group meeting, Urbana, Illinois, February 17, 1971</title>
+<author initials='R.' surname='Watson' fullname='Richard W. Watson'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
+<date year='1971' day='23' month='February' /></front>
+
+<seriesInfo name='RFC' value='101' />
+<format type='TXT' octets='30343' target='http://www.rfc-editor.org/rfc/rfc101.txt' />
+</reference>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1915'>
+
+<front>
+<title abbrev='PPP ECP and CCP Variance'>Variance for The PPP Connection Control Protocol and The PPP Encryption Control Protocol</title>
+<author initials='F.' surname='Kastenholz' fullname='Frank Kastenholz'>
+<organization>FTP Software, Inc</organization>
+<address>
+<postal>
+<street>2 High Street</street>
+<city>North Andover</city>
+<region>MA</region>
+<code>01845-2620</code>
+<country>US</country></postal>
+<email>kasten@ftp.com</email></address></author>
+<date year='1996' month='February' /></front>
+
+<seriesInfo name='BCP' value='3' />
+<seriesInfo name='RFC' value='1915' />
+<format type='TXT' octets='14347' target='http://www.rfc-editor.org/rfc/rfc1915.txt' />
+</reference>

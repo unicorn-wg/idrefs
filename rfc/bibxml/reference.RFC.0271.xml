@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0271'>
+
+<front>
+<title>IMP System change notifications</title>
+<author initials='B.' surname='Cosell' fullname='Bernard Cosell'>
+<organization>Bolt Baranek and Newman (BBN)</organization></author>
+<date year='1972' day='3' month='January' />
+<abstract>
+<t>We are planning to install a new version of the IMP System, version 2514.  The new version is scheduled for field installation Thursday, January 13, 1972 between noon and 1 PM EST, and will require the assistance of IMP-site personnel at each site.</t></abstract></front>
+
+<seriesInfo name='RFC' value='271' />
+<format type='TXT' octets='4022' target='http://www.rfc-editor.org/rfc/rfc271.txt' />
+</reference>

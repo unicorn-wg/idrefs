@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0642'>
+
+<front>
+<title>Ready line philosophy and implementation</title>
+<author initials='J.' surname='Burchfiel' fullname='Jerry Burchfiel'>
+<organization>Bolt Baranek and Newman (BBN)</organization></author>
+<date year='1974' day='5' month='July' /></front>
+
+<seriesInfo name='RFC' value='642' />
+<format type='TXT' octets='8414' target='http://www.rfc-editor.org/rfc/rfc642.txt' />
+</reference>

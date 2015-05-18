@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2654'>
+
+<front>
+<title abbrev='Tagged Index Object for use in CIP'>A Tagged Index Object for use in the Common Indexing Protocol</title>
+<author initials='R.' surname='Hedberg' fullname='Roldan Hedberg'>
+<organization>Catalogix</organization>
+<address>
+<postal>
+<street>Dalsveien 53</street>
+<city>Oslo</city>
+<code>0387</code>
+<country>NO</country></postal>
+<email>roland@catalogix.ac.se</email></address></author>
+<author initials='B.' surname='Greenblatt' fullname='Bruce Greenblatt'>
+<organization>Directory Tools and Application Services, Inc.</organization>
+<address>
+<postal>
+<street>6841 Heaton Moor Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95119</code>
+<country>US</country></postal>
+<phone>+1 408 224 5349</phone>
+<email>bgreenblatt@directory-applications.com</email></address></author>
+<author initials='R.' surname='Moats' fullname='Ryan Moats'>
+<organization>AT&amp;T</organization>
+<address>
+<postal>
+<street>15621 Drexel Circle</street>
+<city>Omaha</city>
+<region>NE</region>
+<code>68135-2358</code>
+<country>US</country></postal>
+<phone>+1 402 894 9456</phone>
+<email>jayhawk@att.com</email></address></author>
+<author initials='M.' surname='Wahl' fullname='Mark Wahl'>
+<organization>Innosoft International, Inc.</organization>
+<address>
+<postal>
+<street>8911 Capital of Texas Highway</street>
+<street>Suite 4140</street>
+<city>Austin</city>
+<region>TX</region>
+<code>78759</code>
+<country>US</country></postal>
+<phone>+1 626 919 3600</phone>
+<email>Mark.Wahl@innosoft.com</email></address></author>
+<date year='1999' month='August' />
+<abstract>
+<t>This document defines a mechanism by which information servers can exchange indices of information from their databases by making use of the Common Indexing Protocol (CIP). This document defines the structure of the index information being exchanged, as well as the appropriate meanings for the headers that are defined in the Common Indexing Protocol.
+It is assumed that the structures defined here can be used by X.500 DSAs, LDAP servers, Whois++ servers, CSO Ph servers and many others.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2654' />
+<format type='TXT' octets='46739' target='http://www.rfc-editor.org/rfc/rfc2654.txt' />
+</reference>

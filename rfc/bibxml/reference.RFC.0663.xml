@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0663'>
+
+<front>
+<title>Lost message detection and recovery protocol</title>
+<author initials='R.' surname='Kanodia' fullname='Rajendra K. Kanodia'>
+<organization>Massachusetts Institute of Technology (MIT), Project MAC</organization></author>
+<date year='1974' day='29' month='November' /></front>
+
+<seriesInfo name='RFC' value='663' />
+<format type='TXT' octets='44702' target='http://www.rfc-editor.org/rfc/rfc663.txt' />
+</reference>

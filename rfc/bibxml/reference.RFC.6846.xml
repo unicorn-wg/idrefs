@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6846'>
+
+<front>
+<title>RObust Header Compression (ROHC): A Profile for TCP/IP (ROHC-TCP)</title>
+<author initials='G.' surname='Pelletier' fullname='G. Pelletier'>
+<organization /></author>
+<author initials='K.' surname='Sandlund' fullname='K. Sandlund'>
+<organization /></author>
+<author initials='L-E.' surname='Jonsson' fullname='L-E. Jonsson'>
+<organization /></author>
+<author initials='M.' surname='West' fullname='M. West'>
+<organization /></author>
+<date year='2013' month='January' />
+<abstract>
+<t>This document specifies a RObust Header Compression (ROHC) profile for compression of TCP/IP packets. The profile, called ROHC-TCP, provides efficient and robust compression of TCP headers, including frequently used TCP options such as selective acknowledgments (SACKs) and Timestamps.&lt;/t>&lt;t> ROHC-TCP works well when used over links with significant error rates and long round-trip times. For many bandwidth-limited links where header compression is essential, such characteristics are common.&lt;/t>&lt;t> This specification obsoletes RFC 4996. It fixes a technical issue with the SACK compression and clarifies other compression methods used. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='6846' />
+<format type='TXT' octets='187518' target='http://www.rfc-editor.org/rfc/rfc6846.txt' />
+</reference>

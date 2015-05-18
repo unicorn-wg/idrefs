@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1193'>
+
+<front>
+<title abbrev='Requirements for Real-Time Services'>Client requirements for real-time communication services</title>
+<author initials='D.' surname='Ferrari' fullname='Domenico Ferrari'>
+<organization>University of California, Berkeley, Computer Science Division, EECS Department</organization>
+<address>
+<postal>
+<street />
+<city>Berkeley</city>
+<region>CA</region>
+<code>94720</code>
+<country>US</country></postal>
+<phone>+1 415 642 3806</phone>
+<email>ferrari@UCBVAX.BERKELEY.EDU</email></address></author>
+<date year='1990' day='1' month='November' />
+<abstract>
+<t>A real-time communication service provides its clients with the ability to specify their performance requirements and to obtain guarantees about the satisfaction of those requirements.  In this paper, we propose a set of performance specifications that seem appropriate for such services; they include various types of delay bounds, throughput bounds, and reliability bounds.  We also describe other requirements and desirable properties from a client's viewpoint, and the ways in which each requirement is to be translated to make it suitable for lower levels in the protocol hierarchy. Finally, we present some examples of requirements specification, and discuss some of the possible objections to our approach.</t>
+<t>This research has been supported in part by AT&amp;T Bell Laboratories, the University of California under a MICRO grant, and the International Computer Science Institute.  The views and conclusions in this document are those of the author and should not be interpreted as representing official policies, either expressed or implied, of any of the sponsoring organizations.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1193' />
+<format type='TXT' octets='61540' target='http://www.rfc-editor.org/rfc/rfc1193.txt' />
+</reference>

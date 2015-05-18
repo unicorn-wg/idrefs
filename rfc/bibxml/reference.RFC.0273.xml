@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0273'>
+
+<front>
+<title abbrev='More on Standard Names'>More on standard host names</title>
+<author initials='R.' surname='Watson' fullname='Richard W. Watson'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
+<date year='1971' day='18' month='October' />
+<abstract>
+<t>The Network Information Center is a logical place to handle this problem of Standard Host Names and so the ball now rests here. This is clearly a delicate subject with people having strong feelings and attachments to names.  No past proposal, including RFC 247, NIC 7668, has yet achieved any acceptance.  This identification seems a natural thing and should be taken into account in setting up a naming scheme.  Therefore, the following proposal is offered which I hope may be satisfactory to everyone.</t></abstract></front>
+
+<seriesInfo name='RFC' value='273' />
+<format type='TXT' octets='4589' target='http://www.rfc-editor.org/rfc/rfc273.txt' />
+</reference>

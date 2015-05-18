@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2237'>
+
+<front>
+<title abbrev='Japanese Character Encoding'>Japanese Character Encoding for Internet Messages</title>
+<author initials='K.' surname='Tamaru' fullname='Kenzaburo Tamaru'>
+<organization>Microsoft Corporation</organization>
+<address>
+<postal>
+<street>One Microsoft Way</street>
+<street>Redmond</street>
+<street>WA 98052-6399</street></postal>
+<email>kenzat@microsoft.com</email></address></author>
+<date year='1997' month='November' />
+<area>Applications</area>
+<keyword>Japanese</keyword>
+<keyword>character encoding</keyword>
+<keyword>internet message</keyword></front>
+
+<seriesInfo name='RFC' value='2237' />
+<format type='TXT' octets='11628' target='http://www.rfc-editor.org/rfc/rfc2237.txt' />
+<format type='HTML' octets='21987' target='http://xml.resource.org/public/rfc/html/rfc2237.html' />
+<format type='XML' octets='9336' target='http://xml.resource.org/public/rfc/xml/rfc2237.xml' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2801'>
+
+<front>
+<title>Internet Open Trading Protocol - IOTP Version 1.0</title>
+<author initials='D.' surname='Burdett' fullname='D. Burdett'>
+<organization /></author>
+<date year='2000' month='April' />
+<abstract>
+<t>This document discusses the Internet Open Trading Protocol (IOTP) and its provision of an interoperable framework for Internet commerce.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2801' />
+<format type='TXT' octets='598794' target='http://www.rfc-editor.org/rfc/rfc2801.txt' />
+</reference>

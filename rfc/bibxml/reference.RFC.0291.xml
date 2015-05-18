@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0291'>
+
+<front>
+<title>Data Management Meeting Announcement</title>
+<author initials='D.' surname='McKay' fullname='D. B. McKay'>
+<organization>International Business Machines (IBM)</organization>
+<address>
+<phone>+1 914 945 1159</phone></address></author>
+<date year='1972' day='14' month='January' /></front>
+
+<seriesInfo name='RFC' value='291' />
+<format type='TXT' octets='3375' target='http://www.rfc-editor.org/rfc/rfc291.txt' />
+</reference>

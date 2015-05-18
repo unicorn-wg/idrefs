@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1789'>
+
+<front>
+<title abbrev='Telephone Service and Servers on Internet'>INETPhone: Telephone Services and Servers on Internet</title>
+<author initials='C.' surname='Yang' fullname='Cui-Qing Yang'>
+<organization>University of North Texas, Dept. of Computer Science</organization>
+<address>
+<postal>
+<street>P.O. Box 13886</street>
+<city>Denton</city>
+<region>TX</region>
+<code>76203</code>
+<country>US</country></postal>
+<phone>+1 817 565 2822</phone>
+<facsimile>+1 817 565 2799</facsimile>
+<email>cqyang@cs.unt.edu</email></address></author>
+<date year='1995' month='April' />
+<abstract>
+<t>INETPhone is a true telephone service through the Internet. It integrates the local telephone networks and the Internet using INETPhone servers. Thus a long distance call can be split into two local calls and an Internet connection, which is transparent to end users. Such a phone service through Internet will be a major step towards integrated services on Internet. In order to support the INETPhone and lay down the ground rules of the service, a scheme of "open partnership" is proposed, so that the entire Internet community can have the equal opportunity and benefits from the INETPhone service.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1789' />
+<format type='TXT' octets='14186' target='http://www.rfc-editor.org/rfc/rfc1789.txt' />
+</reference>

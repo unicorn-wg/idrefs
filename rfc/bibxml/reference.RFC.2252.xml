@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2252'>
+
+<front>
+<title abbrev='LADPv3 Attributes'>Lightweight Directory Access Protocol (v3): Attribute Syntax Definitions</title>
+<author initials='M.' surname='Wahl' fullname='Mark Wahl'>
+<organization>Critical Angle Inc.</organization>
+<address>
+<postal>
+<street>4815 West Braker Lane #502-385</street>
+<street>Austin</street>
+<street>TX 78759</street>
+<country>USA</country></postal>
+<phone>+1 512 372-3160</phone>
+<email>M.Wahl@critical-angle.com</email></address></author>
+<author initials='A.' surname='Coulbeck' fullname='Andy Coulbeck'>
+<organization>Isode Inc.</organization>
+<address>
+<postal>
+<street>9390 Research Blvd Suite 305</street>
+<street>Austin</street>
+<street>TX 78759</street>
+<country>USA</country></postal>
+<phone>+1 512 231-8993</phone>
+<email>A.Coulbeck@isode.com</email></address></author>
+<author initials='T.' surname='Howes' fullname='Tim Howes'>
+<organization>Netscape Communications Corp.</organization>
+<address>
+<postal>
+<street>501 E. Middlefield Rd</street>
+<street>MS MV068</street>
+<street>Mountain View</street>
+<street>CA 94043</street>
+<country>USA</country></postal>
+<phone>+1 650 937-3419</phone>
+<email>howes@netscape.com</email></address></author>
+<author initials='S.' surname='Kille' fullname='Steve Kille'>
+<organization>Isode Limited</organization>
+<address>
+<postal>
+<street>The Dome</street>
+<street>The Square</street>
+<street>Richmond</street>
+<street>TW9 1DT</street>
+<country>UK</country></postal>
+<phone>+44-181-332-9091</phone>
+<email>S.Kille@isode.com</email></address></author>
+<date year='1997' month='December' />
+<area>Applications</area>
+<keyword>LDAP</keyword>
+<keyword>ITU directory service protocol</keyword>
+<keyword>directory</keyword>
+<keyword>lightweight directory access protocol</keyword>
+<note title='IESG Note'>
+<t>
+This RFC contained boilerplate in this section which has been moved
+to the RFC2223-compliant unnumbered section &quot;Status of this Memo.&quot;
+</t>
+<t>
+   This document describes a directory access protocol that provides
+   both read and update access.  Update access requires secure
+   authentication, but this document does not mandate implementation of
+   any satisfactory authentication mechanisms.
+</t>
+<t>
+   In accordance with RFC 2026, section 4.4.1, this specification is
+   being approved by IESG as a Proposed Standard despite this
+   limitation, for the following reasons:
+
+<list>
+<t>
+   a. to encourage implementation and interoperability testing of
+      these protocols (with or without update access) before they
+      are deployed, and
+</t>
+<t>
+   b. to encourage deployment and use of these protocols in read-only
+      applications.  (e.g. applications where LDAPv3 is used as
+      a query language for directories which are updated by some
+      secure mechanism other than LDAP), and
+</t>
+<t>
+   c. to avoid delaying the advancement and deployment of other Internet
+      standards-track protocols which require the ability to query, but
+      not update, LDAPv3 directory servers.
+</t></list></t>
+<t>
+   Readers are hereby warned that until mandatory authentication
+   mechanisms are standardized, clients and servers written according to
+   this specification which make use of update functionality are
+   UNLIKELY TO INTEROPERATE, or MAY INTEROPERATE ONLY IF AUTHENTICATION
+   IS REDUCED TO AN UNACCEPTABLY WEAK LEVEL.
+</t>
+<t>
+   Implementors are hereby discouraged from deploying LDAPv3 clients or
+   servers which implement the update functionality, until a Proposed
+   Standard for mandatory authentication in LDAPv3 has been approved and
+   published as an RFC.
+</t></note></front>
+
+<seriesInfo name='RFC' value='2252' />
+<format type='TXT' octets='60204' target='http://www.rfc-editor.org/rfc/rfc2252.txt' />
+<format type='XML' octets='71986' target='http://xml.resource.org/public/rfc/xml/rfc2252.xml' />
+</reference>

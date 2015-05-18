@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4694'>
+
+<front>
+<title>Number Portability Parameters for the "tel" URI</title>
+<author initials='J.' surname='Yu' fullname='J. Yu'>
+<organization /></author>
+<date year='2006' month='October' />
+<abstract>
+<t>This document defines five parameters in the "tel" Uniform Resource Identifier (URI) to carry the number portability (NP)-related information.  Those parameters can be passed to the next-hop network node after an NP database dip has been performed. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='4694' />
+<format type='TXT' octets='36910' target='http://www.rfc-editor.org/rfc/rfc4694.txt' />
+</reference>

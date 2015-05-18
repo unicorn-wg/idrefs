@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0869'>
+
+<front>
+<title>Host Monitoring Protocol</title>
+<author initials='R.' surname='Hinden' fullname='Robert M. Hinden'>
+<organization>Bolt Baranek and Newman Communications Corporation (BBNCC)</organization></author>
+<date year='1983' day='1' month='December' /></front>
+
+<seriesInfo name='RFC' value='869' />
+<format type='TXT' octets='94550' target='http://www.rfc-editor.org/rfc/rfc869.txt' />
+</reference>

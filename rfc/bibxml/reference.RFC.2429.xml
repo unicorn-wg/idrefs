@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2429'>
+
+<front>
+<title abbrev='H.263+'>RTP Payload Format for the 1998 Version of ITU-T Rec. H.263 Video (H.263+)</title>
+<author initials='C.' surname='Bormann' fullname='Carsten Bormann'>
+<organization>Universitaet Bremen FB3 TZI</organization>
+<address>
+<postal>
+<street>Postfach 330440</street>
+<street>D-28334 Bremen</street>
+<country>GERMANY</country></postal>
+<phone>+49.421.218-7024</phone>
+<facsimile>+49.421.218-7000</facsimile>
+<email>cabo@tzi.org</email></address></author>
+<author initials='L.' surname='Cline' fullname='Linda Cline'>
+<organization>Intel Corp. M/S JF3-206</organization>
+<address>
+<postal>
+<street>2111 NE 25th Avenue</street>
+<street>Hillsboro</street>
+<street>OR 97124</street>
+<country>USA</country></postal>
+<phone>+1 503 264 3501</phone>
+<facsimile>+1 503 264 3483</facsimile>
+<email>lscline@jf.intel.com</email></address></author>
+<author initials='G.' surname='Deisher' fullname='Gim Deisher'>
+<organization>Intel Corp. M/S JF2-78</organization>
+<address>
+<postal>
+<street>2111 NE 25th Avenue</street>
+<street>Hillsboro</street>
+<street>OR 97124</street>
+<country>USA</country></postal>
+<phone>+1 503 264 3758</phone>
+<facsimile>+1 503 264 9372</facsimile>
+<email>gim.l.deisher@intel.com</email></address></author>
+<author initials='T.' surname='Gardos' fullname='Tom Gardos'>
+<organization>Intel Corp. M/S JF2-78</organization>
+<address>
+<postal>
+<street>2111 NE 25th Avenue</street>
+<street>Hillsboro</street>
+<street>OR 97124</street>
+<country>USA</country></postal>
+<phone>+1 503 264 6459</phone>
+<facsimile>+1 503 264 9372</facsimile>
+<email>thomas.r.gardos@intel.com</email></address></author>
+<author initials='C.' surname='Maciocco' fullname='Christian Maciocco'>
+<organization>Intel Corp. M/S JF3-206</organization>
+<address>
+<postal>
+<street>2111 NE 25th Avenue</street>
+<street>Hillsboro</street>
+<street>OR 97124</street>
+<country>USA</country></postal>
+<phone>+1 503 264 1770</phone>
+<facsimile>+1 503 264 9428</facsimile>
+<email>christian.maciocco@intel.com</email></address></author>
+<author initials='D.' surname='Newell' fullname='Donald Newell'>
+<organization>Intel Corp. M/S JF3-206</organization>
+<address>
+<postal>
+<street>2111 NE 25th Avenue</street>
+<street>Hillsboro</street>
+<street>OR 97124</street>
+<country>USA</country></postal>
+<phone>+1 503 264 9234</phone>
+<facsimile>+1 503 264 9428</facsimile>
+<email>donald.newell@intel.com</email></address></author>
+<author initials='J.' surname='Ott' fullname='Joerg Ott'>
+<organization>Universitaet Bremen FB3 TZI</organization>
+<address>
+<postal>
+<street>Postfach 330440</street>
+<street>D-28334 Bremen</street>
+<country>GERMANY</country></postal>
+<phone>+49.421.218-7024</phone>
+<facsimile>+49.421.218-7000</facsimile>
+<email>jo@tzi.org</email></address></author>
+<author initials='G.' surname='Sullivan' fullname='Gary Sullivan'>
+<organization>PictureTel Corp. M/S 635</organization>
+<address>
+<postal>
+<street>100 Minuteman Road</street>
+<street>Andover</street>
+<street>MA 01810</street>
+<country>USA</country></postal>
+<phone>+1 978 623 4324</phone>
+<facsimile>+1 978 749 2804</facsimile>
+<email>garys@pictel.com</email></address></author>
+<author initials='S.' surname='Wenger' fullname='Stephan Wenger'>
+<organization>Technische Universitaet Berlin FB13</organization>
+<address>
+<postal>
+<street>Sekr. FR 6-3</street>
+<street>Franklinstr. 28/29</street>
+<street>D-10587 Berlin</street>
+<country>GERMANY</country></postal>
+<phone>+49.30.314-73160</phone>
+<facsimile>+49.30.314-25156</facsimile>
+<email>stewe@cs.tu-berlin.de</email></address></author>
+<author initials='C.' surname='Zhu' fullname='Chad Zhu'>
+<organization>Intel Corp. M/S JF3-202</organization>
+<address>
+<postal>
+<street>2111 NE 25th Avenue</street>
+<street>Hillsboro</street>
+<street>OR 97124</street>
+<country>USA</country></postal>
+<phone>+1 503 264 6004</phone>
+<facsimile>+1 503 264 1805</facsimile>
+<email>czhu@ix.netcom.com</email></address></author>
+<date year='1998' month='October' />
+<area>Transport</area>
+<area>Applications</area>
+<keyword>International Telecommunications Union</keyword>
+<keyword>International Telecommunications Union:Telecommunication Standardization Bureau</keyword>
+<keyword>real-time transport protocol</keyword>
+<keyword>RTP</keyword>
+<keyword>video</keyword></front>
+
+<seriesInfo name='RFC' value='2429' />
+<format type='TXT' octets='43166' target='http://www.rfc-editor.org/rfc/rfc2429.txt' />
+<format type='XML' octets='45036' target='http://xml.resource.org/public/rfc/xml/rfc2429.xml' />
+</reference>

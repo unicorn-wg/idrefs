@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3386'>
+
+<front>
+<title>Network Hierarchy and Multilayer Survivability</title>
+<author initials='W.' surname='Lai' fullname='W. Lai'>
+<organization /></author>
+<author initials='D.' surname='McDysan' fullname='D. McDysan'>
+<organization /></author>
+<date year='2002' month='November' /></front>
+
+<seriesInfo name='RFC' value='3386' />
+<format type='TXT' octets='65345' target='http://www.rfc-editor.org/rfc/rfc3386.txt' />
+</reference>

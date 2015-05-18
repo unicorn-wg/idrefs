@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2448'>
+
+<front>
+<title abbrev='AT&amp;T&apos;s Error Resilient'>AT&amp;T&apos;s Error Resilient Video Transmission Technique</title>
+<author initials='M.R.' surname='Civanlar' fullname='M. Reha Civanlar'>
+<organization>AT&amp;T Labs-Research</organization>
+<address>
+<postal>
+<street>100 Schultz Drive</street>
+<street>Red Bank</street>
+<street>NJ 07701</street>
+<country>USA</country></postal>
+<email>civanlar@research.att.com</email></address></author>
+<author initials='G.L.' surname='Cash' fullname='Glenn L. Cash'>
+<organization>AT&amp;T Labs-Research</organization>
+<address>
+<postal>
+<street>100 Schultz Drive</street>
+<street>Red Bank</street>
+<street>NJ 07701</street>
+<country>USA</country></postal>
+<email>glenn@research.att.com</email></address></author>
+<author initials='B.G.' surname='Haskell' fullname='Barry G. Haskell'>
+<organization>AT&amp;T Labs-Research</organization>
+<address>
+<postal>
+<street>100 Schultz Drive</street>
+<street>Red Bank</street>
+<street>NJ 07701</street>
+<country>USA</country></postal>
+<email>bgh@research.att.com</email></address></author>
+<date year='1998' month='November' />
+<area>Applications</area>
+<keyword>compress</keyword>
+<keyword>video</keyword>
+<abstract>
+<t>
+   This document describes a set of techniques for packet loss resilient
+   transmission of compressed video bitstreams based on reliable
+   delivery of their vital information-carrying segments. The described
+   techniques can be used over packet networks without packet
+   prioritization. These techniques are related to AT&amp;T/Lucent patents
+   [1, 2].
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2448' />
+<format type='TXT' octets='14655' target='http://www.rfc-editor.org/rfc/rfc2448.txt' />
+<format type='XML' octets='16144' target='http://xml.resource.org/public/rfc/xml/rfc2448.xml' />
+</reference>

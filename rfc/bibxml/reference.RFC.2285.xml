@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2285'>
+
+<front>
+<title abbrev='Benchmarking Terminology'>Benchmarking Terminology for LAN Switching Devices</title>
+<author initials='R.' surname='Mandeville' fullname='Robert Mandeville'>
+<organization>European Network Laboratories (ENL)</organization>
+<address>
+<postal>
+<street>2</street>
+<street>rue Helene Boucher</street>
+<street>78286 Guyancourt Cedex</street>
+<country>France</country></postal>
+<phone>+ 33 1 39 44 12 05</phone>
+<facsimile>+ 33 1 39 44 12 06</facsimile>
+<email>bob.mandeville@eunet.fr</email></address></author>
+<date year='1998' month='February' />
+<area>Operations</area>
+<keyword>local area network</keyword>
+<keyword>Benchmarking</keyword></front>
+
+<seriesInfo name='RFC' value='2285' />
+<format type='TXT' octets='43130' target='http://www.rfc-editor.org/rfc/rfc2285.txt' />
+<format type='XML' octets='42866' target='http://xml.resource.org/public/rfc/xml/rfc2285.xml' />
+</reference>

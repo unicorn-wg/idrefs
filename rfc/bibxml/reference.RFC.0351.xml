@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0351'>
+
+<front>
+<title>Graphics information form for the ARPANET graphics resources notebook</title>
+<author initials='D.' surname='Crocker' fullname='D. Crocker'>
+<organization /></author>
+<date year='1972' month='June' /></front>
+
+<seriesInfo name='RFC' value='351' />
+<format type='TXT' octets='2150' target='http://www.rfc-editor.org/rfc/rfc351.txt' />
+</reference>

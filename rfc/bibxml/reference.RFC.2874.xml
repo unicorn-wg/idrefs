@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2874'>
+
+<front>
+<title>DNS Extensions to Support IPv6 Address Aggregation and Renumbering</title>
+<author initials='M.' surname='Crawford' fullname='M. Crawford'>
+<organization /></author>
+<author initials='C.' surname='Huitema' fullname='C. Huitema'>
+<organization /></author>
+<date year='2000' month='July' />
+<abstract>
+<t>This document defines changes to the Domain Name System to support renumberable and aggregatable IPv6 addressing. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='2874' />
+<format type='TXT' octets='44204' target='http://www.rfc-editor.org/rfc/rfc2874.txt' />
+</reference>

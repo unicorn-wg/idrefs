@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3059'>
+
+<front>
+<title>Attribute List Extension for the Service Location Protocol</title>
+<author initials='E.' surname='Guttman' fullname='E. Guttman'>
+<organization /></author>
+<date year='2001' month='February' />
+<abstract>
+<t>This document specifies a SLPv2 extension which allows a User Agent (UA) to request a service's attributes be included as an extension to Service Reply messages.  This will eliminate the need for multiple round trip messages for a UA to acquire all service information. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='3059' />
+<format type='TXT' octets='11208' target='http://www.rfc-editor.org/rfc/rfc3059.txt' />
+</reference>

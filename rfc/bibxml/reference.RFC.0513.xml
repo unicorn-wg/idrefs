@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0513'>
+
+<front>
+<title>Comments on the new Telnet specifications</title>
+<author initials='W.' surname='Hathaway' fullname='Wayne Hathaway'>
+<organization>AMES-67</organization></author>
+<date year='1973' day='30' month='May' />
+<abstract>
+<t>I would like to make the following comments on the proposed new TELNET Protocol Specification (NIC # 15372) and TELNET Option Specification (NIC 15373).  In general I feel the new TELNET protocol is far superior to the previous version.  There are, however, a few items of substance which I feel should be changed, as well as some recommended editorial changes.</t></abstract></front>
+
+<seriesInfo name='RFC' value='513' />
+<format type='TXT' octets='7980' target='http://www.rfc-editor.org/rfc/rfc513.txt' />
+</reference>

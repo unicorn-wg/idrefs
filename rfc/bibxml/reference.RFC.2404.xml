@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2404'>
+
+<front>
+<title>The Use of HMAC-SHA-1-96 within ESP and AH</title>
+<author initials='C.' surname='Madson' fullname='Cheryl Madson'>
+<organization>Cisco Systems, Inc.</organization>
+<address>
+<email>cmadson@cisco.com</email></address></author>
+<author initials='R.' surname='Glenn' fullname='Rob Glenn'>
+<organization>NIST</organization>
+<address>
+<email>rob.glenn@nist.gov</email></address></author>
+<date year='1998' month='November' />
+<area>Security</area>
+<area>Internet</area>
+<keyword>IP security protocol</keyword>
+<keyword>authentication</keyword>
+<keyword>cryptographic hash message authentication codes</keyword>
+<keyword>encapsulate</keyword>
+<keyword>encapsulating security payload</keyword>
+<keyword>secure hash algorithm</keyword>
+<keyword>security</keyword>
+<abstract>
+<t>
+   This memo describes the use of the HMAC algorithm  in
+   conjunction with the SHA-1 algorithm  as an
+   authentication mechanism within the revised IPSEC Encapsulating
+   Security Payload  and the revised IPSEC Authentication Header
+   . HMAC with SHA-1 provides data origin authentication and
+   integrity protection.
+</t>
+<t>
+   Further information on the other components necessary for ESP and AH
+   implementations is provided by .
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2404' />
+<format type='TXT' octets='13089' target='http://www.rfc-editor.org/rfc/rfc2404.txt' />
+<format type='XML' octets='15398' target='http://xml.resource.org/public/rfc/xml/rfc2404.xml' />
+</reference>

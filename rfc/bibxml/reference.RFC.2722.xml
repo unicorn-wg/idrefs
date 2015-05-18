@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2722'>
+
+<front>
+<title>Traffic Flow Measurement: Architecture</title>
+<author initials='N.' surname='Brownlee' fullname='Nevil Brownlee'>
+<organization>The University of Auckland,  Information Technology Systems &amp; Services</organization>
+<address>
+<postal>
+<street>Private Bag 92-019</street>
+<city>Auckland</city>
+<region />
+<code />
+<country>NZ</country></postal>
+<phone>+64 9 3737599x8941</phone>
+<email>n.brownlee@auckland.ac.nz</email></address></author>
+<author initials='C.' surname='Mills' fullname='Cyndi Mills'>
+<organization>GTE Laboratories, Inc</organization>
+<address>
+<postal>
+<street>40 Sylvan Rd.</street>
+<city>Waltham</city>
+<region>MA</region>
+<code>02451</code>
+<country>US</country></postal>
+<phone>+1 781 466 4278</phone>
+<email>cmills@gte.com</email></address></author>
+<author initials='G.' surname='Ruth' fullname='Greg Ruth'>
+<organization>GTE Internetworking</organization>
+<address>
+<postal>
+<street>3 Van de Graaff Drive</street>
+<street>P.O. Box 3073</street>
+<city>Burlington</city>
+<region>MA</region>
+<code>01803</code>
+<country>US</country></postal>
+<phone>+1 781 262 4831</phone>
+<email>gruth@bbn.com</email></address></author>
+<date year='1999' month='October' />
+<abstract>
+<t>This document provides a general framework for describing network traffic flows, presents an architecture for traffic flow measurement and reporting, discusses how this relates to an overall network traffic flow architecture and indicates how it can be used within the Internet.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2722' />
+<format type='TXT' octets='114064' target='http://www.rfc-editor.org/rfc/rfc2722.txt' />
+</reference>

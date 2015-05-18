@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0442'>
+
+<front>
+<title>Current flow-control scheme for IMPSYS</title>
+<author initials='V.' surname='Cerf' fullname='V. Cerf'>
+<organization /></author>
+<date year='1973' month='January' /></front>
+
+<seriesInfo name='RFC' value='442' />
+<format type='TXT' octets='16315' target='http://www.rfc-editor.org/rfc/rfc442.txt' />
+</reference>

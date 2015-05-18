@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1014'>
+
+<front>
+<title abbrev='External Data Representation'>XDR: External Data Representation standard</title>
+<author>
+<organization>Sun Microsystems, Inc.</organization></author>
+<date year='1987' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='1014' />
+<format type='TXT' octets='39316' target='http://www.rfc-editor.org/rfc/rfc1014.txt' />
+</reference>

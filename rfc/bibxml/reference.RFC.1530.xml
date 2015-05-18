@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1530'>
+
+<front>
+<title abbrev='General Principles and Policy'>Principles of Operation for the TPC.INT Subdomain: General Principles and Policy</title>
+<author initials='C.' surname='Malamud' fullname='Carl Malamud'>
+<organization>Internet Multicasting Service</organization>
+<address>
+<postal>
+<street>The National Press Building</street>
+<street>Suite 1155</street>
+<city>Washington</city>
+<region>DC</region>
+<code>20045</code>
+<country>US</country></postal>
+<phone>+1 202 628 2044</phone>
+<facsimile>+1 202 628 2042</facsimile>
+<email>carl@malamud.com</email></address></author>
+<author initials='M.' surname='Rose' fullname='Marshall T. Rose'>
+<organization>Dover Beach Consulting, Inc.</organization>
+<address>
+<postal>
+<street>420 Whisman Court</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043-2186</code>
+<country>US</country></postal>
+<phone>+1 415 968 1052</phone>
+<facsimile>+1 415 968 2510</facsimile>
+<email>mrose@dbc.mtview.ca.us</email></address></author>
+<date year='1993' month='October' />
+<abstract>
+<t>This document defines the initial principles of operation for the tpc.int subdomain, a collection of service listings accessible over the Internet infrastructure through an administered namespace contained within the Domain Name System,.</t>
+<t>This document is informational and applies only to those Internet sites that choose to register themselves within the tpc.int subdomain.  The tpc.int subdomain is organized as a cooperative of the sites that provide access within the context of the subdomain. Policy for the subdomain is set by a board responsible to the cooperative.</t>
+<t>The primary purpose of the tpc.int subdomain is to provide transparent mapping between general-purpose computers on the Internet and special-purpose devices directly connected to the telephone network.  Initially, a remote printing service is defined,which ties together G3-compatible facsimile devices on the telephone network with users of electronic mail in the Internet and associated message-handling domains connected to the Internet by application-layer gateways.</t>
+<t>It should be noted that remote printer gateways have long been technically feasible and have become an integral part of many individual networks.  The tpc.int subdomain integrates individual sites into a common namespace, transforming remote printing from a single-site, value-added service into an integral transparent service in the global Internet.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1530' />
+<format type='TXT' octets='15031' target='http://www.rfc-editor.org/rfc/rfc1530.txt' />
+</reference>

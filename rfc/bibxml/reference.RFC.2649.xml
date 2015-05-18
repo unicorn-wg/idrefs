@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2649'>
+
+<front>
+<title abbrev='LDAP Control and Schema'>An LDAP Control and Schema for Holding Operation Signatures</title>
+<author initials='B.' surname='Greenblatt' fullname='Bruce Greenblatt'>
+<organization />
+<address>
+<postal>
+<street />
+<city>San Jose</city>
+<region>CA</region>
+<code>95119</code>
+<country>US</country></postal>
+<phone>+1 408 224 5349</phone>
+<email>bgreenblatt@directory-applications.com</email></address></author>
+<author initials='P.' surname='Richard' fullname='Pat Richard'>
+<organization>Xcert Software, Inc.</organization>
+<address>
+<postal>
+<street>701 West Georgia</street>
+<street>Suite 1001</street>
+<city>Vancouver</city>
+<region>British Columbia</region>
+<code>V6G 1C9</code>
+<country>CA</country></postal>
+<email>patr@xcert.com</email></address></author>
+<date year='1999' month='August' />
+<abstract>
+<t>In many environments clients require the ability to validiate the source and integrity of information provided by the directory. This document describes an LDAP message control which allows for the retrieval of digitally signed information. This document defines an LDAP v3 based mechanism for signing directory operations in order to create a secure journal of changes that have been made to each directory entry. Both client and server based signatures are supported. An object class for subsequent retrieval are "journal entries" is also defined. This document specifies LDAP v3 controls that enable this functionality. It also defines an LDAP v3 schema that allows for subsequent browsing of the journal information.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2649' />
+<format type='TXT' octets='20470' target='http://www.rfc-editor.org/rfc/rfc2649.txt' />
+</reference>

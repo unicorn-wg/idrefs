@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2533'>
+
+<front>
+<title>A Syntax for Describing Media Feature Sets</title>
+<author initials='G.' surname='Klyne' fullname='Graham Klyne'>
+<organization>Content Technologies Ltd.</organization>
+<address>
+<postal>
+<street>Forum 1</street>
+<street>Station Road</street>
+<city>Theale</city>
+<region>Reading</region>
+<code>RG7 4RA</code>
+<country>UK</country></postal>
+<phone>+44 118 9301300</phone>
+<facsimile>+44 118 9301301</facsimile>
+<email>GK@ACM.ORG</email></address></author>
+<date year='1999' month='March' />
+<abstract>
+<t>A number of Internet application protocols have a need to provide content negotiation for the resources with which they interact. A framework for such negotiation is described in, part of which is a way to describe the range of media features which can be handled by the sender, recipient or document transmission format of a message.  A format for a vocabulary of individual media features and procedures for feature registration are presented in.</t>
+<t>This document introduces and describes a syntax that can be used to define feature sets which are formed from combinations and relations involving individual media features.  Such feature sets are used to describe the media feature handling capabilities of message senders, recipients and file formats.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2533' />
+<format type='TXT' octets='79057' target='http://www.rfc-editor.org/rfc/rfc2533.txt' />
+</reference>

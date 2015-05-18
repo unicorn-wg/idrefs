@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1416'>
+
+<front>
+<title>Telnet Authentication Option</title>
+<author initials='D.A.' surname='Borman' fullname='David A. Borman'>
+<organization>Cray Research, Inc.</organization>
+<address>
+<postal>
+<street>655F Lone Oak Drive</street>
+<city>Eagan</city>
+<region>MN</region>
+<code>55123</code>
+<country>US</country></postal>
+<phone>+1 612 452 6650</phone>
+<email>dab@CRAY.COM</email></address></author>
+<date year='1993' month='February' /></front>
+
+<seriesInfo name='RFC' value='1416' />
+<format type='TXT' octets='13270' target='http://www.rfc-editor.org/rfc/rfc1416.txt' />
+</reference>

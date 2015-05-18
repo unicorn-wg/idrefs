@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2032'>
+
+<front>
+<title abbrev='RTP Payload Format for H.261 Video'>RTP Payload Format for H.261 Video Streams</title>
+<author initials='T.' surname='Turletti' fullname='Thierry Turletti'>
+<organization>INRIA - RODEO Project</organization>
+<address>
+<postal>
+<street>2004 route des Lucioles</street>
+<street>BP 93</street>
+<street>06902 Sophia Antipolis</street>
+<country>FRANCE</country></postal>
+<email>huitema@bellcore.com</email>
+<uri>etti@sophia.inria.fr</uri></address></author>
+<date year='1996' month='October' />
+<area>Transport</area>
+<keyword>RTP</keyword>
+<keyword>multimedia</keyword>
+<keyword>real-time transport protocol</keyword>
+<keyword>video</keyword></front>
+
+<seriesInfo name='RFC' value='2032' />
+<format type='TXT' octets='27488' target='http://www.rfc-editor.org/rfc/rfc2032.txt' />
+<format type='XML' octets='28835' target='http://xml.resource.org/public/rfc/xml/rfc2032.xml' />
+</reference>

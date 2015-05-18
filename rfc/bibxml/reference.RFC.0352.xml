@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0352'>
+
+<front>
+<title>TIP Site Information Form</title>
+<author initials='D.' surname='Crocker' fullname='David H. Crocker'>
+<organization>University of California, Los Angeles (UCLA), School of Engineering and Applied Science, Computer Science Department</organization>
+<address>
+<postal>
+<street>3804 Boelter Hall</street>
+<city>Los Angeles</city>
+<region>CA</region>
+<code>90024</code>
+<country>US</country></postal></address></author>
+<date year='1972' day='5' month='June' />
+<abstract>
+<t>(tips) Information form about ARPANET TIPS:</t>
+<t>We are attempting to provide additional information for TIP users of the NET.  The availability of such information should allow more flexibility to TIP users and thereby make NET use easier.</t></abstract></front>
+
+<seriesInfo name='RFC' value='352' />
+<format type='TXT' octets='2266' target='http://www.rfc-editor.org/rfc/rfc352.txt' />
+</reference>

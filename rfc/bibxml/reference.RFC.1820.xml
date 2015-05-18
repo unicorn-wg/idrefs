@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1820'>
+
+<front>
+<title abbrev='MIME User Agent Checklist'>Multimedia E-mail (MIME) User Agent Checklist</title>
+<author initials='E.' surname='Huizer' fullname='Erik Huizer'>
+<organization>SURFnet bv</organization>
+<address>
+<postal>
+<street>P.O. Box 19035</street>
+<city>Utrecht</city>
+<code>3501 DA</code>
+<country>NL</country></postal>
+<phone>+31 30 305305</phone>
+<facsimile>+31 30 305329</facsimile>
+<email>Erik.Huizer@SURFnet.nl</email></address></author>
+<date year='1995' month='August' />
+<abstract>
+<t>This document presents a checklist to facilitate evaluation of MIME capable User Agents. Access to a MIME test-responder, that generates test-messages is described.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1820' />
+<format type='TXT' octets='14672' target='http://www.rfc-editor.org/rfc/rfc1820.txt' />
+</reference>

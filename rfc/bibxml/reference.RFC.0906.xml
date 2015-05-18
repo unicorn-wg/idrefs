@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0906'>
+
+<front>
+<title>Bootstrap loading using TFTP</title>
+<author initials='R.' surname='Finlayson' fullname='Ross Finlayson'>
+<organization>Stanford University</organization></author>
+<date year='1984' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='906' />
+<format type='TXT' octets='10102' target='http://www.rfc-editor.org/rfc/rfc906.txt' />
+</reference>

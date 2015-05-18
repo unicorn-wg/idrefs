@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2085'>
+
+<front>
+<title abbrev='HMAC-MD5'>HMAC-MD5 IP Authentication with Replay Prevention</title>
+<author initials='M.' surname='Oehler' fullname='Michael J. Oehler'>
+<organization>National Security Agency, INFOSEC Research and Development</organization>
+<address>
+<postal>
+<street>9800 Savage Road</street>
+<street>R23</street>
+<city>Fort Meade</city>
+<region>MD</region>
+<code>20755</code>
+<country>US</country></postal>
+<email>mjo@tycho.ncsc.mil</email></address></author>
+<author initials='R.' surname='Glenn' fullname='Robert Glenn'>
+<organization>NIST</organization>
+<address>
+<postal>
+<street>Building 820</street>
+<street>Room 455</street>
+<city>Gaithersburg</city>
+<region>MD</region>
+<code>20899</code>
+<country>US</country></postal>
+<email>rob.glenn@nist.gov</email></address></author>
+<date year='1997' month='February' />
+<abstract>
+<t>This document describes a keyed-MD5 transform to be used in conjunction with the IP Authentication Header. The particular transform is based on.  An option is also specified to guard against replay attacks.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2085' />
+<format type='TXT' octets='13399' target='http://www.rfc-editor.org/rfc/rfc2085.txt' />
+</reference>

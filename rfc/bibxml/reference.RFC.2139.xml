@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2139'>
+
+<front>
+<title>RADIUS Accounting</title>
+<author initials='C.' surname='Rigney' fullname='Carl Rigney'>
+<organization>Livingston Enterprises</organization>
+<address>
+<postal>
+<street>4464 Willow Road</street>
+<street>Pleasanton</street>
+<street>California  94588</street></postal>
+<phone>+1 510 426 0770</phone>
+<email>cdr@livingston.com</email></address></author>
+<author initials='C.' surname='Rigney' fullname='Carl Rigney'>
+<organization>Livingston Enterprises</organization>
+<address>
+<postal>
+<street>4464 Willow Road</street>
+<street>Pleasanton</street>
+<street>California  94588</street></postal>
+<email>cdr@livingston.com</email></address></author>
+<date year='1997' month='April' />
+<area>Security</area>
+<keyword>Radius</keyword>
+<keyword>accounting</keyword>
+<keyword>authentication</keyword>
+<keyword>remote authentication dial in user service</keyword>
+<abstract>
+<t>
+   This document describes a protocol for carrying accounting
+   information between a Network Access Server and a shared Accounting
+   Server.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2139' />
+<format type='TXT' octets='44919' target='http://www.rfc-editor.org/rfc/rfc2139.txt' />
+<format type='XML' octets='45934' target='http://xml.resource.org/public/rfc/xml/rfc2139.xml' />
+</reference>

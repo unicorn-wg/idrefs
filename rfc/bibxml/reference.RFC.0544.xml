@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0544'>
+
+<front>
+<title>Locating on-line documentation at SRI-ARC</title>
+<author initials='D.' surname='Meyer' fullname='Dean Meyer'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
+<author initials='K.' surname='Kelley' fullname='Kirk Kelley'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
+<date year='1973' day='13' month='July' /></front>
+
+<seriesInfo name='RFC' value='544' />
+<format type='TXT' octets='1541' target='http://www.rfc-editor.org/rfc/rfc544.txt' />
+</reference>

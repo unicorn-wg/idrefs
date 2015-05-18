@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2024'>
+
+<front>
+<title abbrev='DLSw MIB using SMIv2'>Definitions of Managed Objects for Data Link Switching using SMIv2</title>
+<author initials='D.D.' surname='Chen' fullname='David D. Chen'>
+<organization>IBM Networking Systems</organization>
+<address>
+<postal>
+<street>P. O. Box 12195</street>
+<city>Research Triangle Park</city>
+<region>NC</region>
+<code>27709</code>
+<country>US</country></postal>
+<phone>+1 919 254 6182</phone>
+<email>dchen@vnet.ibm.com</email></address></author>
+<author initials='P.W.' surname='Gayek' fullname='Peter W. Gayek'>
+<organization>IBM Networking Systems</organization>
+<address>
+<postal>
+<street>P. O. Box 12195</street>
+<city>Research Triangle Park</city>
+<region>NC</region>
+<code>27709</code>
+<country>US</country></postal>
+<phone>+1 919 254 1808</phone>
+<email>gayek@vnet.ibm.com</email></address></author>
+<author initials='S.' surname='Nix' fullname='Shannon Nix'>
+<organization>Metaplex, Inc.</organization>
+<address>
+<postal>
+<street>7025 Kit Creek Road</street>
+<street>P. O. Box 14987</street>
+<city>Research Triangle Park</city>
+<region>NC</region>
+<code>27709</code>
+<country>US</country></postal>
+<phone>+1 919 472 2388</phone>
+<email>snix@metaplex.com</email></address></author>
+<date year='1996' month='October' />
+<abstract>
+<t>This specification defines an extension to the Management Information Base (MIB) for use with SNMP-based network management.  In particular, it defines objects for configuring, monitoring, and controlling Data Link Switches (DLSw).</t>
+<t>This memo specifies a MIB module in a manner that is both compliant to the SNMPv2 SMI, and semantically identical to the SNMPv1 definitions.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2024' />
+<format type='TXT' octets='173952' target='http://www.rfc-editor.org/rfc/rfc2024.txt' />
+</reference>

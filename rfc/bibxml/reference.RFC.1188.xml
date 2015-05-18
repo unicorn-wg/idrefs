@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1188'>
+
+<front>
+<title abbrev='IP and ARP on FDDI Networks'>Proposed Standard for the Transmission of IP Datagrams over FDDI Networks</title>
+<author initials='D.' surname='Katz' fullname='Dave Katz'>
+<organization>Merit/NSFNET</organization>
+<address>
+<postal>
+<street>1075 Beal Ave.</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48109</code>
+<country>US</country></postal>
+<phone>+1 313 763 4898</phone>
+<email>dkatz@merit.edu</email></address></author>
+<date year='1990' day='1' month='October' />
+<abstract>
+<t>This document specifies a method for the use of IP and ARP on FDDI networks.  The encapsulation method used is described, as well as various media-specific issues.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1188' />
+<format type='TXT' octets='22424' target='http://www.rfc-editor.org/rfc/rfc1188.txt' />
+</reference>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2622'>
+
+<front>
+<title abbrev='RPSL'>Routing Policy Specification Language (RPSL)</title>
+<author initials='C.' surname='Alaettinoglu' fullname='Cengiz Alaettinoglu'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone>
+<email>cengiz@isi.edu</email></address></author>
+<author initials='C.' surname='Villamizar' fullname='Curtis Villamizar'>
+<organization>Avici Systems</organization>
+<address>
+<email>curtis@avici.com</email></address></author>
+<author initials='E.' surname='Gerich' fullname='Elise Gerich'>
+<organization>At Home Network</organization>
+<address>
+<email>epg@home.net</email></address></author>
+<author initials='D.' surname='Kessens' fullname='David Kessens'>
+<organization>Qwest Communications</organization>
+<address>
+<email>David.Kessens@qwest.net</email></address></author>
+<author initials='D.' surname='Meyer' fullname='David Meyer'>
+<organization>University of Oregon</organization>
+<address>
+<email>meyer@antc.uoregon.edu</email></address></author>
+<author initials='T.' surname='Bates' fullname='Tony Bates'>
+<organization>Cisco Systems, Inc.</organization>
+<address>
+<email>tbates@cisco.com</email></address></author>
+<author initials='D.' surname='Karrenberg' fullname='Daniel Karrenberg'>
+<organization>RIPE NCC</organization>
+<address>
+<email>dfk@ripe.net</email></address></author>
+<author initials='M.' surname='Terpstra' fullname='Marten Terpstra'>
+<organization>Bay Networks, Inc.</organization>
+<address>
+<email>marten@BayNetworks.com</email></address></author>
+<date year='1999' month='June' />
+<abstract>
+<t>RPSL allows a network operator to be able to specify routing policies at various levels in the Internet hierarchy; for example at the Autonomous System (AS) level. At the same time, policies can be specified with sufficient detail in RPSL so that low level router configurations can be generated from them.
+RPSL is extensible; new routing protocols and new protocol features can be introduced at any time.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2622' />
+<format type='TXT' octets='140811' target='http://www.rfc-editor.org/rfc/rfc2622.txt' />
+</reference>

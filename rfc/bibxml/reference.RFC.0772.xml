@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0772'>
+
+<front>
+<title>Mail Transfer Protocol</title>
+<author initials='S.' surname='Sluizer' fullname='S. Sluizer'>
+<organization>University of Southern California (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<author initials='J.' surname='Postel' fullname='J. Postel'>
+<organization>University of Southern California (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<date year='1980' day='1' month='September' /></front>
+
+<seriesInfo name='RFC' value='772' />
+<format type='TXT' octets='61061' target='http://www.rfc-editor.org/rfc/rfc772.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4831'>
+
+<front>
+<title>Goals for Network-Based Localized Mobility Management (NETLMM)</title>
+<author initials='J.' surname='Kempf' fullname='J. Kempf'>
+<organization /></author>
+<date year='2007' month='April' />
+<abstract>
+<t>In this document, design goals for a network-based localized mobility management (NETLMM) protocol are discussed.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='4831' />
+<format type='TXT' octets='35232' target='http://www.rfc-editor.org/rfc/rfc4831.txt' />
+</reference>

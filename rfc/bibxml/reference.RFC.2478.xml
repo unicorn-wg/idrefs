@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2478'>
+
+<front>
+<title abbrev='GSS-API Negotiation Mechanism'>The Simple and Protected GSS-API Negotiation Mechanism</title>
+<author initials='E.' surname='Baize' fullname='Eric Baize'>
+<organization>Bull - 300 Concord Road</organization>
+<address>
+<phone>+1 978 294 61 37</phone>
+<facsimile>+1 978 294 61 09</facsimile>
+<email>Eric.Baize@bull.com</email></address></author>
+<author initials='D.' surname='Pinkas' fullname='Denis Pinkas'>
+<organization>Bull</organization>
+<address>
+<postal>
+<street>Rue Jean-Jaures</street>
+<street>BP 68</street>
+<street>78340 Les Clayes-sous-Bois - FRANCE</street></postal>
+<phone>+33 1 30 80 34 87</phone>
+<facsimile>+33 1 30 80 33 21</facsimile>
+<email>Denis.Pinkas@bull.net</email></address></author>
+<date year='1998' month='December' />
+<keyword>application program interface</keyword>
+<keyword>generic security service</keyword>
+<keyword>security</keyword></front>
+
+<seriesInfo name='RFC' value='2478' />
+<format type='TXT' octets='35581' target='http://www.rfc-editor.org/rfc/rfc2478.txt' />
+<format type='HTML' octets='47178' target='http://xml.resource.org/public/rfc/html/rfc2478.html' />
+<format type='XML' octets='32918' target='http://xml.resource.org/public/rfc/xml/rfc2478.xml' />
+</reference>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2269'>
+
+<front>
+<title abbrev='MARS Model in non-ATM NBMA Networks'>Using the MARS Model in non-ATM NBMA Networks</title>
+<author initials='G.' surname='Armitage' fullname='Grenville Armitage'>
+<organization>Bell Laboratories, Lucent Technologies.</organization>
+<address>
+<postal>
+<street>101 Crawfords Corner Rd</street>
+<street>Holmdel</street>
+<street>NJ</street>
+<street>07733</street>
+<country>USA</country></postal>
+<email>gja@lucent.com</email></address></author>
+<date year='1998' month='January' />
+<area>Internet</area>
+<keyword>asynchronous transfer mode</keyword>
+<keyword>non-broadcast multiple access</keyword>
+<abstract>
+<t>
+   Initially developed for IP over ATM, the RFC 2022 (MARS) model is
+   also applicable to other NBMA networks that provide the equivalent of
+   switched, point to multipoint connections. This short document is
+   intended to state the obvious equivalences, and explain the less
+   obvious implications. No changes to the MARS model per se are
+   suggested or required. RFC 2022 is not required over NBMA networks
+   that offer Ethernet-like group addressing functionality.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2269' />
+<format type='TXT' octets='12094' target='http://www.rfc-editor.org/rfc/rfc2269.txt' />
+<format type='XML' octets='12529' target='http://xml.resource.org/public/rfc/xml/rfc2269.xml' />
+</reference>

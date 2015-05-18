@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2152'>
+
+<front>
+<title abbrev='UTF-7'>UTF-7 A Mail-Safe Transformation Format of Unicode</title>
+<author initials='D.' surname='Goldsmith' fullname='David Goldsmith'>
+<organization>Apple Computer, Inc.</organization>
+<address>
+<postal>
+<street>2 Infinite Loop</street>
+<street>MS: 302-2IS</street>
+<street>Cupertino</street>
+<street>CA 95014</street></postal>
+<phone>408-974-1957</phone>
+<facsimile>408-862-4566</facsimile>
+<email>goldsmith@apple.com</email></address></author>
+<author initials='M.' surname='Davis' fullname='Mark Davis'>
+<organization>Taligent, Inc.</organization>
+<address>
+<postal>
+<street>10201 N. DeAnza Blvd.</street>
+<street>Cupertino</street>
+<street>CA 95014-2233</street></postal>
+<phone>408-777-5116</phone>
+<facsimile>408-777-5081</facsimile>
+<email>mark_davis@taligent.com</email></address></author>
+<date year='1997' month='May' />
+<area>Applications</area>
+<keyword>Unicode</keyword>
+<keyword>Amercian Standard Code for Information Interchange</keyword>
+<keyword>UCS transformation format</keyword>
+<keyword>mail</keyword>
+<keyword>multipurpose internet mail extensions</keyword>
+<keyword>universal multilingual character set</keyword>
+<abstract>
+<t>
+   The Unicode Standard, version 2.0, and ISO/IEC 10646-1:1993(E) (as
+   amended) jointly define a character set (hereafter referred to as
+   Unicode) which encompasses most of the world&apos;s writing systems.
+   However, Internet mail (STD 11, RFC 822) currently supports only 7-
+   bit US ASCII as a character set. MIME (RFC 2045 through 2049) extends
+   Internet mail to support different media types and character sets,
+   and thus could support Unicode in mail messages. MIME neither defines
+   Unicode as a permitted character set nor specifies how it would be
+   encoded, although it does provide for the registration of additional
+   character sets over time.
+</t>
+<t>
+   This document describes a transformation format of Unicode that
+   contains only 7-bit ASCII octets and is intended to be readable by
+   humans in the limiting case that the document consists of characters
+   from the US-ASCII repertoire. It also specifies how this
+   transformation format is used in the context of MIME and RFC 1641,
+   &quot;Using Unicode with MIME&quot;.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2152' />
+<format type='TXT' octets='28065' target='http://www.rfc-editor.org/rfc/rfc2152.txt' />
+<format type='XML' octets='29121' target='http://xml.resource.org/public/rfc/xml/rfc2152.xml' />
+</reference>

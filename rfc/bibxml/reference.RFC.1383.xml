@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1383'>
+
+<front>
+<title abbrev='DNS based IP routing'>An Experiment in DNS Based IP Routing</title>
+<author initials='C.' surname='Huitema' fullname='Christian Huitema'>
+<organization>INRIA, Sophia-Antipolis</organization>
+<address>
+<postal>
+<street>2004 Route des Lucioles</street>
+<street>BP 109</street>
+<city>Valbonne Cedex</city>
+<region />
+<code>F-06561</code>
+<country>FR</country></postal>
+<phone>+33 93 657715</phone>
+<email>Christian.Huitema@MIRSA.INRIA.FR</email></address></author>
+<date year='1992' month='December' /></front>
+
+<seriesInfo name='RFC' value='1383' />
+<format type='TXT' octets='32680' target='http://www.rfc-editor.org/rfc/rfc1383.txt' />
+</reference>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1557'>
+
+<front>
+<title abbrev='Korean Character Encoding'>Korean Character Encoding for Internet Messages</title>
+<author initials='U.' surname='Choi' fullname='Uhhyung Choi'>
+<organization>Korea Advanced Institute of Science and Technology (KAIST), Department of Computer Science</organization>
+<address>
+<postal>
+<street />
+<city>Taejon</city>
+<region />
+<code>305-701</code>
+<country>KR</country></postal>
+<phone>+82 42 8698718</phone>
+<facsimile>+82 42 8693510</facsimile>
+<email>uhhyung@kaist.ac.kr</email></address></author>
+<author initials='K.' surname='Chon' fullname='Kilnam Chon'>
+<organization>Korea Advanced Institute of Science and Technology (KAIST), Department of Computer Science</organization>
+<address>
+<postal>
+<street />
+<city>Taejon</city>
+<region />
+<code>305-701</code>
+<country>KR</country></postal>
+<phone>+82 42 8693514</phone>
+<facsimile>+82 42 8693510</facsimile>
+<email>chon@cosmos.kaist.ac.kr</email></address></author>
+<author initials='H.' surname='Park' fullname='Hyunje Park'>
+<organization>Solvit Chosun Media, Inc.</organization>
+<address>
+<postal>
+<street>748-16 Yeoksam-Dong</street>
+<street>Kangnam-Gu</street>
+<city>Seoul</city>
+<region />
+<code>135-080</code>
+<country>KR</country></postal>
+<phone>+82 2 5610361</phone>
+<facsimile>+82 2 5694847</facsimile>
+<email>hjpark@dino.media.co.kr</email></address></author>
+<date year='1993' month='December' />
+<abstract>
+<t></t></abstract></front>
+
+<seriesInfo name='RFC' value='1557' />
+<format type='TXT' octets='8736' target='http://www.rfc-editor.org/rfc/rfc1557.txt' />
+</reference>

@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2050'>
+
+<front>
+<title abbrev='Internet Registry IP Allocation Guidelines'>INTERNET REGISTRY IP ALLOCATION GUIDELINES</title>
+<author initials='K.' surname='Hubbard' fullname='Kim Hubbard'>
+<organization>InterNIC Registration Services</organization>
+<address>
+<postal>
+<street>c/o Network Solutions</street>
+<street>505 Huntmar Park Drive</street>
+<street>Herndon</street>
+<street>VA 22070</street></postal>
+<phone>(703) 742-4870</phone>
+<email>kimh@internic.net</email></address></author>
+<author initials='M.' surname='Kosters' fullname='Mark Kosters'>
+<organization>InterNIC Registration Services</organization>
+<address>
+<postal>
+<street>c/o Network Solutions</street>
+<street>505 Huntmar Park Drive</street>
+<street>Herndon</street>
+<street>VA 22070</street></postal>
+<phone>(703) 742-4795</phone>
+<email>markk@internic.net</email></address></author>
+<author initials='D.' surname='Conrad' fullname='David Conrad'>
+<organization>Asia Pacific Network Information Center</organization>
+<address>
+<postal>
+<street>c/o United Nations University</street>
+<street>53-70 Jingumae 5-chome</street>
+<street>Shibuya-ku</street>
+<street>Tokyo 150</street>
+<country>JP</country></postal>
+<phone>+81-3-5467-7014</phone>
+<email>davidc@APNIC.NET</email></address></author>
+<author initials='D.' surname='Karrenberg' fullname='Daniel Karrenberg'>
+<organization>RIPE NCC</organization>
+<address>
+<postal>
+<street>Kruislaan 409</street>
+<street>SJ Amsterdam NL-1098</street>
+<country>NL</country></postal>
+<phone>+31 20 592 5065</phone>
+<email>dfk@RIPE.NET</email></address></author>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<street>Marina del Rey</street>
+<street>CA  90292</street></postal>
+<phone>310-822-1511</phone>
+<email>Postel@ISI.EDU</email></address></author>
+<date year='1996' month='November' />
+<area>Routing</area>
+<keyword>CIDR</keyword>
+<keyword>classless inter-domain routing</keyword>
+<abstract>
+<t>
+   By approving this document as a Best Current Practice,the IESG
+   asserts its belief that this policy described herein is an accurate
+   representation of the current practice of the IP address registries
+   with respect to address assignment.  This does not constitute
+   endorsement or recommendation of this policy by the IESG. The IESG
+   will reevaluate its approval of this document in December 1997 taking
+   into consideration the results of the discussions that will be take
+   place in the IRE Working Group between now and then.
+</t>
+<t>
+   This document describes the registry system for the distribution of
+   globally unique Internet address space and registry operations.
+   Particularly this document describes the rules and guidelines
+   governing the distribution of this address space.
+</t>
+<t>
+   This document describes the IP assignment policies currently used by
+   the Regional Registries to implement the guidelines developed by the
+   IANA. The guidelines and these policies are subject to revision at
+   the direction of the IANA. The registry working group (IRE WG) will
+   be discussing these issues and may provide advice to the IANA about
+   possible revisions.
+</t>
+<t>
+   This document replaces RFC 1466, with all the guidelines and
+   procedures updated and modified in the light of experience.
+   This document does not describe private Internet address space and
+   multicast address space.  It also does not describe regional and
+   local refinements of the global rules and guidelines.
+</t>
+<t>
+   This document can be considered the base set of operational
+   guidelines in use by all registries.  Additional guidelines may be
+   imposed by a particular registry as appropriate.
+</t></abstract>
+<note title='IESG Note'>
+<t>
+   By approving this document as a Best Current Practice,the IESG
+   asserts its belief that this policy described herein is an accurate
+   representation of the current practice of the IP address registries
+   with respect to address assignment.  This does not constitute
+   endorsement or recommendation of this policy by the IESG. The IESG
+   will reevaluate its approval of this document in December 1997 taking
+   into consideration the results of the discussions that will be take
+   place in the IRE Working Group between now and then.
+</t></note></front>
+
+<seriesInfo name='BCP' value='12' />
+<seriesInfo name='RFC' value='2050' />
+<format type='TXT' octets='28975' target='http://www.rfc-editor.org/rfc/rfc2050.txt' />
+<format type='HTML' octets='48860' target='http://xml.resource.org/public/rfc/html/rfc2050.html' />
+<format type='XML' octets='31291' target='http://xml.resource.org/public/rfc/xml/rfc2050.xml' />
+</reference>

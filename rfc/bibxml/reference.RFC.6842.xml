@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6842'>
+
+<front>
+<title>Client Identifier Option in DHCP Server Replies</title>
+<author initials='N.' surname='Swamy' fullname='N. Swamy'>
+<organization /></author>
+<author initials='G.' surname='Halwasia' fullname='G. Halwasia'>
+<organization /></author>
+<author initials='P.' surname='Jhingran' fullname='P. Jhingran'>
+<organization /></author>
+<date year='2013' month='January' />
+<abstract>
+<t>This document updates RFC 2131 "Dynamic Host Configuration Protocol" by addressing the issues arising from that document's specification that the server MUST NOT return the 'client identifier' option to the client. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='6842' />
+<format type='TXT' octets='10030' target='http://www.rfc-editor.org/rfc/rfc6842.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0506'>
+
+<front>
+<title>FTP command naming problem</title>
+<author initials='M.' surname='Padlipsky' fullname='M.A. Padlipsky'>
+<organization>Massachusetts Institute of Technology (MIT), Multics</organization></author>
+<date year='1973' day='26' month='June' />
+<abstract>
+<t>In using the File Transfer Protocol, I've noticed that the choice of names for two crucial commands is faulty.</t></abstract></front>
+
+<seriesInfo name='RFC' value='506' />
+<format type='TXT' octets='1974' target='http://www.rfc-editor.org/rfc/rfc506.txt' />
+</reference>

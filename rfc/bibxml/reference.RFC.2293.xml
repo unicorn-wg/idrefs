@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2293'>
+
+<front>
+<title abbrev='Table and Subtrees in the X.500'>Representing Tables and Subtrees in the X.500 Directory</title>
+<author initials='S.' surname='Kille' fullname='Steve Kille'>
+<organization>Isode Ltd</organization>
+<address>
+<postal>
+<street>The Dome</street>
+<street>The Square</street>
+<street>Richmond</street>
+<street>TW9 1DT</street>
+<street>England</street></postal>
+<phone>+44-181-332-9091</phone>
+<email>S.Kille@ISODE.COM</email></address></author>
+<date year='1998' month='March' />
+<area>Applications</area>
+<keyword>ITU directory service protocol</keyword>
+<keyword>directory</keyword>
+<abstract>
+<t>
+   This document defines techniques for representing two types of
+   information mapping in the OSI Directory .
+
+<list>
+<t>
+   1.  Mapping from a key to a value (or set of values), as might
+       be done in a table lookup.
+</t>
+<t>
+   2.  Mapping from a distinguished name to an associated
+       value (or values), where the values are not defined by the owner
+       of the entry.  This is achieved by use of a directory subtree.
+</t></list></t>
+<t>
+   These techniques were developed for supporting MHS use of Directory
+   , but are specified separately as they have more general
+   applicability.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2293' />
+<format type='TXT' octets='12539' target='http://www.rfc-editor.org/rfc/rfc2293.txt' />
+<format type='XML' octets='12237' target='http://xml.resource.org/public/rfc/xml/rfc2293.xml' />
+</reference>

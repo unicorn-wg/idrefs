@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2340'>
+
+<front>
+<title abbrev='Nortel&apos;s VNS'>Nortel's Virtual Network Switching (VNS) Overview</title>
+<author initials='B.' surname='Jamoussi' fullname='Bilel Jamoussi'>
+<organization>Nortel (Northern Telecom), Ltd.</organization>
+<address>
+<postal>
+<street>PO Box 3511 Station C</street>
+<street>Ottawa ON K1Y 4H7</street>
+<country>Canada</country></postal>
+<email>jamoussi@Nortel.ca</email></address></author>
+<author initials='D.' surname='Jamieson' fullname='Dwight Jamieson'>
+<organization>Nortel (Northern Telecom), Ltd.</organization>
+<address>
+<postal>
+<street>PO Box 3511 Station C</street>
+<street>Ottawa ON K1Y 4H7</street>
+<country>Canada</country></postal>
+<email>djamies@Nortel.ca</email></address></author>
+<author initials='D.' surname='Williston' fullname='Dan Williston'>
+<organization>Nortel (Northern Telecom), Ltd.</organization>
+<address>
+<postal>
+<street>PO Box 3511 Station C</street>
+<street>Ottawa ON K1Y 4H7</street>
+<country>Canada</country></postal>
+<email>danwil@Nortel.ca</email></address></author>
+<author initials='S.' surname='Gabe' fullname='Stephen Gabe'>
+<organization>Nortel (Northern Telecom), Ltd.</organization>
+<address>
+<postal>
+<street>PO Box 3511 Station C</street>
+<street>Ottawa ON K1Y 4H7</street>
+<country>Canada</country></postal>
+<email>spgabe@Nortel.ca</email></address></author>
+<date year='1998' month='May' />
+<area>Internet</area>
+<keyword>frame relay</keyword>
+<keyword>multicast</keyword>
+<keyword>routing</keyword>
+<keyword>security</keyword>
+<abstract>
+<t>
+This document provides an overview of Virtual Network Switching
+   (VNS).
+</t>
+<t>
+   VNS is a multi-protocol switching architecture that provides COS-
+   sensitive packet switching, reduces the complexity of operating
+   protocols like PPP and frame relay, provides logical networks and
+   traffic segregation for Virtual Private Networks (VPNs), security and
+   traffic engineering, enables efficient WAN broadcasting and
+   multicasting, and reduces address space requirements. VNS reduces the
+   number of routing hops over the WAN by switching packets based on
+   labels.
+</t>
+<t>
+   VNS has been proven in production networks for several years.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2340' />
+<format type='TXT' octets='30731' target='http://www.rfc-editor.org/rfc/rfc2340.txt' />
+<format type='HTML' octets='43053' target='http://xml.resource.org/public/rfc/html/rfc2340.html' />
+<format type='XML' octets='26918' target='http://xml.resource.org/public/rfc/xml/rfc2340.xml' />
+</reference>

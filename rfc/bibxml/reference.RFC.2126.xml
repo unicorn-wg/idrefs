@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2126'>
+
+<front>
+<title abbrev='ITOT'>ISO Transport Service on top of TCP (ITOT)</title>
+<author initials='Y.' surname='Pouffary' fullname='Yanick Pouffary'>
+<organization>End Systems Networking</organization>
+<address>
+<postal>
+<street>Digital Equipment Corporation</street>
+<street>Centre Technique (Europe)</street>
+<street>B.P. 027</street>
+<street>950 Routes des colles</street>
+<street>06901 Sophia antipolis</street>
+<country>France</country></postal>
+<phone>+33 92-95-62-85</phone>
+<facsimile>+33 92-95-62-35</facsimile>
+<email>pouffary@taec.enet.dec.com</email></address></author>
+<author initials='A.' surname='Young' fullname='Alan Young'>
+<organization>ISODE Consortium</organization>
+<address>
+<postal>
+<street>The Dome</street>
+<street>The Square</street>
+<street>Richmond</street>
+<country>UK</country></postal>
+<phone>+44 181 332 9091</phone>
+<facsimile>+44 181 332 9019</facsimile>
+<email>A.Young@isode.com</email></address></author>
+<date year='1997' month='March' />
+<area>Transport</area>
+<keyword>ISO Transport Service on top of TCP</keyword>
+<keyword>International Organization for Standardization</keyword>
+<keyword>transmission control protocol</keyword>
+<abstract>
+<t>
+   This document is a revision to STD35, RFC1006 written by Marshall T.
+   Rose and Dwight E. Cass. Since the release of RFC1006 in May 1987,
+   much experience has been gained in using ISO transport services on
+   top of TCP. This document refines the protocol and will eventually
+   supersede RFC1006.
+</t>
+<t>
+   This document describes the mechanism to allow ISO Transport Services
+   to run over TCP over IPv4 or IPv6. It also defines a number of new
+   features, which are not provided in RFC1006.
+</t>
+<t>
+   The goal of this version is to minimise the number of changes to
+   RFC1006 and ISO 8073 transport protocol definitions, while maximising
+   performance, extending its applicability and protecting the installed
+   base of RFC1006 users.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2126' />
+<format type='TXT' octets='51032' target='http://www.rfc-editor.org/rfc/rfc2126.txt' />
+<format type='XML' octets='53288' target='http://xml.resource.org/public/rfc/xml/rfc2126.xml' />
+</reference>

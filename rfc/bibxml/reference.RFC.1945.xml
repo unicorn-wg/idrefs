@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1945'>
+
+<front>
+<title abbrev='HTTP/1.0'>Hypertext Transfer Protocol -- HTTP/1.0</title>
+<author initials='T.' surname='Berners-Lee' fullname='Tim Berners-Lee'>
+<organization>MIT, Laboratory for Computer Science</organization>
+<address>
+<postal>
+<street>545 Technology Square</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02139</code>
+<country>US</country></postal>
+<facsimile>+1 617 258 8682</facsimile>
+<email>timbl@w3.org</email></address></author>
+<author initials='R.T.' surname='Fielding' fullname='Roy T. Fielding'>
+<organization>University of California, Irvine, Department of Information and Computer Science</organization>
+<address>
+<postal>
+<street />
+<city>Irvine</city>
+<region>CA</region>
+<code>92717-3425</code>
+<country>US</country></postal>
+<facsimile>+1 714 824 4056</facsimile>
+<email>fielding@ics.uci.edu</email></address></author>
+<author initials='H.F.' surname='Nielsen' fullname='Henrik Frystyk Nielsen'>
+<organization>W3 Consortium, MIT Laboratory for Computer Science</organization>
+<address>
+<postal>
+<street>545 Technology Square</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02139</code>
+<country>US</country></postal>
+<facsimile>+1 617 258 8682</facsimile>
+<email>frystyk@w3.org</email></address></author>
+<date year='1996' month='May' />
+<abstract>
+<t>The Hypertext Transfer Protocol (HTTP) is an application-level protocol with the lightness and speed necessary for distributed, collaborative, hypermedia information systems. It is a generic, stateless, object-oriented protocol which can be used for many tasks, such as name servers and distributed object management systems, through extension of its request methods (commands). A feature of HTTP is the typing of data representation, allowing systems to be built independently of the data being transferred.</t>
+<t>HTTP has been in use by the World-Wide Web global information initiative since 1990. This specification reflects common usage of the protocol referred to as "HTTP/1.0".</t></abstract></front>
+
+<seriesInfo name='RFC' value='1945' />
+<format type='TXT' octets='137582' target='http://www.rfc-editor.org/rfc/rfc1945.txt' />
+</reference>

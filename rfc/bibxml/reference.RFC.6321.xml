@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6321'>
+
+<front>
+<title>xCal: The XML Format for iCalendar</title>
+<author initials='C.' surname='Daboo' fullname='C. Daboo'>
+<organization /></author>
+<author initials='M.' surname='Douglass' fullname='M. Douglass'>
+<organization /></author>
+<author initials='S.' surname='Lees' fullname='S. Lees'>
+<organization /></author>
+<date year='2011' month='August' />
+<abstract>
+<t>This specification defines "xCal", an XML format for iCalendar data. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='6321' />
+<format type='TXT' octets='79701' target='http://www.rfc-editor.org/rfc/rfc6321.txt' />
+</reference>

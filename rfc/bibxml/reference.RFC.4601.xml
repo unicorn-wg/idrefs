@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4601'>
+
+<front>
+<title>Protocol Independent Multicast - Sparse Mode (PIM-SM): Protocol Specification (Revised)</title>
+<author initials='B.' surname='Fenner' fullname='B. Fenner'>
+<organization /></author>
+<author initials='M.' surname='Handley' fullname='M. Handley'>
+<organization /></author>
+<author initials='H.' surname='Holbrook' fullname='H. Holbrook'>
+<organization /></author>
+<author initials='I.' surname='Kouvelas' fullname='I. Kouvelas'>
+<organization /></author>
+<date year='2006' month='August' />
+<abstract>
+<t>This document specifies Protocol Independent Multicast - Sparse Mode (PIM-SM). PIM-SM is a multicast routing protocol that can use the underlying unicast routing information base or a separate multicast-capable routing information base. It builds unidirectional shared trees rooted at a Rendezvous Point (RP) per group, and optionally creates shortest-path trees per source.&lt;/t>&lt;t> This document obsoletes RFC 2362, an Experimental version of PIM-SM. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='4601' />
+<format type='TXT' octets='340632' target='http://www.rfc-editor.org/rfc/rfc4601.txt' />
+<format type='PDF' octets='304538' target='http://www.rfc-editor.org/rfc/rfc4601.pdf' />
+</reference>

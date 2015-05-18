@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1691'>
+
+<front>
+<title abbrev='CDL Document Architecture'>The Document Architecture for the Cornell Digital Library</title>
+<author initials='W.' surname='Turner' fullname='William Turner'>
+<organization>Cornell University, Library Technology</organization>
+<address>
+<postal>
+<street>502 Olin Library</street>
+<city>Ithaca</city>
+<region>NY</region>
+<code>14853</code>
+<country>US</country></postal>
+<phone>+1 607 255 9098</phone>
+<facsimile>+1 607 255 9346</facsimile>
+<email>wrt1@cornell.edu</email></address></author>
+<date year='1994' month='August' />
+<abstract>
+<t>This memo defines an architecture for the storage and retrieval of the digital representations for books, journals, photographic images, etc., which are collected in a large organized digital library.</t>
+<t>Two unique features of this architecture are the ability to generate reference documents and the ability to create multiple views of a document.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1691' />
+<format type='TXT' octets='20438' target='http://www.rfc-editor.org/rfc/rfc1691.txt' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1019'>
+
+<front>
+<title>Report of the Workshop on Environments for Computational Mathematics</title>
+<author initials='D.' surname='Arnon' fullname='D. Arnon'>
+<organization>Xerox PARC</organization></author>
+<date year='1987' day='1' month='September' /></front>
+
+<seriesInfo name='RFC' value='1019' />
+<format type='TXT' octets='21151' target='http://www.rfc-editor.org/rfc/rfc1019.txt' />
+</reference>

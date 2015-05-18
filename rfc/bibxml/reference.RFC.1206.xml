@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1206'>
+
+<front>
+<title abbrev='FYI Q/A - for New Internet Users'>FYI on Questions and Answers: Answers to commonly asked "new Internet user" questions</title>
+<author initials='G.' surname='Malkin' fullname='Gary Scott Malkin'>
+<organization>FTP Software, Inc.</organization>
+<address>
+<postal>
+<street>26 Princess Street</street>
+<city>Wakefield</city>
+<region>MA</region>
+<code>01880</code>
+<country>US</country></postal>
+<phone>+1 617 246 0900</phone>
+<email>gmalkin@ftp.com</email></address></author>
+<author initials='A.' surname='Marine' fullname='April N. Marine'>
+<organization>SRI International, Network Information Systems Center</organization>
+<address>
+<postal>
+<street>333 Ravenswood Avenue</street>
+<street>EJ294</street>
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<phone>+1 415 859 5318</phone>
+<email>APRIL@nic.ddn.mil</email></address></author>
+<date year='1991' day='1' month='February' /></front>
+
+<seriesInfo name='RFC' value='1206' />
+<format type='TXT' octets='72479' target='http://www.rfc-editor.org/rfc/rfc1206.txt' />
+</reference>

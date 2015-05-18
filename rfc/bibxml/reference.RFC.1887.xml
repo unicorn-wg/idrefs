@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1887'>
+
+<front>
+<title abbrev='IPv6 Unicast Address Allocation Architecture'>An Architecture for IPv6 Unicast Address Allocation</title>
+<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
+<organization>cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>470 Tasman Dr.</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134</code>
+<country>US</country></postal>
+<phone>+1 914 528 0090</phone>
+<email>yakov@cisco.com</email></address></author>
+<author initials='T.' surname='Li' fullname='Tony Li'>
+<organization>cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>470 Tasman Dr.</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134</code>
+<country>US</country></postal>
+<phone>+1 408 526 8186</phone>
+<email>tli@cisco.com</email></address></author>
+<date year='1995' month='December' />
+<abstract>
+<t>This document provides an architecture for allocating IPv6unicast addresses in the Internet. The overall IPv6 addressing architecture is defined in.  This document does not go into the details of an addressing plan.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1887' />
+<format type='TXT' octets='66066' target='http://www.rfc-editor.org/rfc/rfc1887.txt' />
+</reference>

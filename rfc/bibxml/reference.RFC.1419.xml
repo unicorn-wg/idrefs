@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1419'>
+
+<front>
+<title>SNMP over AppleTalk</title>
+<author initials='G.' surname='Minshall' fullname='Greg Minshall'>
+<organization>Novell, Inc.</organization>
+<address>
+<postal>
+<street>1340 Treat Blvd</street>
+<street>ste. 500</street>
+<city>Walnut Creek</city>
+<region>CA</region>
+<code>94596</code>
+<country>US</country></postal>
+<phone>+1 510 947 0998</phone>
+<facsimile>+1 510 947 1238</facsimile>
+<email>minshall@wc.novell.com</email></address></author>
+<author initials='M.' surname='Ritter' fullname='Mike Ritter'>
+<organization>Apple Computer, Inc.</organization>
+<address>
+<postal>
+<street>10500 North De Anza Boulevard</street>
+<street>MS: 35-K</street>
+<city>Cupertino</city>
+<region>CA</region>
+<code>95014</code>
+<country>US</country></postal>
+<phone>+1 408 862 8088</phone>
+<facsimile>+1 408 862 1159</facsimile>
+<email>MWRITTER@applelink.apple.com</email></address></author>
+<date year='1993' month='March' /></front>
+
+<seriesInfo name='RFC' value='1419' />
+<format type='TXT' octets='16470' target='http://www.rfc-editor.org/rfc/rfc1419.txt' />
+</reference>

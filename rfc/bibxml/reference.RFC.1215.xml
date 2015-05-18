@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1215'>
+
+<front>
+<title abbrev='Convention for Defining Traps'>Convention for defining traps for use with the SNMP</title>
+<author initials='M.' surname='Rose' fullname='Marshall T. Rose'>
+<organization>Performance Systems International</organization>
+<address>
+<postal>
+<street>5201 Great America Parkway</street>
+<street>Suite 3106</street>
+<city>Santa Clara</city>
+<region>CA</region>
+<code>95054</code>
+<country>US</country></postal>
+<phone>+1 408 562 6222</phone>
+<email>mrose@psi.com</email></address></author>
+<date year='1991' day='1' month='March' /></front>
+
+<seriesInfo name='RFC' value='1215' />
+<format type='TXT' octets='19336' target='http://www.rfc-editor.org/rfc/rfc1215.txt' />
+</reference>

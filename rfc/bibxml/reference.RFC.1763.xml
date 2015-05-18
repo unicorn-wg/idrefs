@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1763'>
+
+<front>
+<title abbrev='PPP BVCP'>The PPP Banyan Vines Control Protocol (BVCP)</title>
+<author initials='S.' surname='Senum' fullname='Steven J. Senum'>
+<organization>DigiBoard</organization>
+<address>
+<postal>
+<street>6400 Flying Cloud Drive</street>
+<city>Eden Prairie</city>
+<region>MN</region>
+<code>55344</code>
+<country>US</country></postal>
+<phone>+1 612 943 9020</phone>
+<email>sjs@digibd.com</email></address></author>
+<date year='1995' month='March' />
+<abstract>
+<t>The Point-to-Point Protocol (PPP)provides a standard method for transporting multi-protocol datagrams over point-to-point links.  PPP defines an extensible Link Control Protocol, and proposes a family of Network Control Protocols for establishing and configuring different network-layer protocols.</t>
+<t>This document defines the Network Control Protocol for establishing and configuring the Banyan VINES protocol over PPP.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1763' />
+<format type='TXT' octets='17817' target='http://www.rfc-editor.org/rfc/rfc1763.txt' />
+</reference>

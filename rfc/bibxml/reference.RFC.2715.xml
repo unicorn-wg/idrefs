@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2715'>
+
+<front>
+<title abbrev='Interop Rules'>Interoperability Rules for Multicast Routing Protocols</title>
+<author initials='D.' surname='Thaler' fullname='Dave Thaler'>
+<organization>Microsoft</organization>
+<address>
+<postal>
+<street>One Microsoft Way</street>
+<city>Redmond</city>
+<region>WA</region>
+<code>98052</code>
+<country>US</country></postal>
+<phone>+1 425 703 8835</phone>
+<email>dthaler@microsoft.com</email></address></author>
+<date year='1999' month='October' />
+<abstract>
+<t>The rules described in this document will allow efficient interoperation among multiple independent multicast routing domains. Specific instantiations of these rules are given for the DVMRP, MOSPF, PIM-DM, PIM-SM, and CBT multicast routing protocols, as well as for IGMP-only links.  Future versions of these protocols, and any other multicast routing protocols, may describe their interoperability procedure by stating how the rules described herein apply to them.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2715' />
+<format type='TXT' octets='49638' target='http://www.rfc-editor.org/rfc/rfc2715.txt' />
+</reference>

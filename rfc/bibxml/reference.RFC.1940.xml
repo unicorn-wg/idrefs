@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1940'>
+
+<front>
+<title abbrev='SDRv1'>Source Demand Routing: Packet Format and Forwarding Specification (Version 1)</title>
+<author initials='D.' surname='Estrin' fullname='Deborah Estrin'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292-6695</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511 x253</phone>
+<email>estrin@isi.edu</email></address></author>
+<author initials='T.' surname='Li' fullname='Tony Li'>
+<organization>cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>1525 O'Brien Drive</street>
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<phone>+1 415 526 8186</phone>
+<email>tli@cisco.com</email></address></author>
+<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
+<organization>Cisco systems</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134-1706</code>
+<country>US</country></postal>
+<phone>+1 914 528 0090</phone>
+<facsimile>+1 408 526 4952</facsimile>
+<email>yakov@cisco.com</email></address></author>
+<author initials='K.' surname='Varadhan' fullname='Kannan Varadhan'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292-6695</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511 x402</phone>
+<email>kannan@isi.edu</email></address></author>
+<author initials='D.' surname='Zappala' fullname='Daniel Zappala'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292-6695</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511 x352</phone>
+<email>daniel@isi.edu</email></address></author>
+<date year='1996' month='May' /></front>
+
+<seriesInfo name='RFC' value='1940' />
+<format type='TXT' octets='60858' target='http://www.rfc-editor.org/rfc/rfc1940.txt' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0096'>
+
+<front>
+<title>An Interactive Network Experiment to Study Modes of Access the Network Information Center</title>
+<author initials='R.' surname='Watson' fullname='Richard W. Watson'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
+<date year='1971' day='12' month='February' /></front>
+
+<seriesInfo name='RFC' value='96' />
+<format type='TXT' octets='11334' target='http://www.rfc-editor.org/rfc/rfc96.txt' />
+</reference>

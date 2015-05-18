@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1024'>
+
+<front>
+<title abbrev='HEMS Definitions'>HEMS variable definitions</title>
+<author initials='C.' surname='Partridge' fullname='C. Partridge'>
+<organization>Bolt Baranek and Newman (BBN)/NNSC</organization></author>
+<author initials='G.' surname='Trewitt' fullname='G. Trewitt'>
+<organization>Stanford University</organization></author>
+<date year='1987' day='1' month='October' /></front>
+
+<seriesInfo name='RFC' value='1024' />
+<format type='TXT' octets='126536' target='http://www.rfc-editor.org/rfc/rfc1024.txt' />
+</reference>

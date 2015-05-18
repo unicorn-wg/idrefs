@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4853'>
+
+<front>
+<title>Cryptographic Message Syntax (CMS) Multiple Signer Clarification</title>
+<author initials='R.' surname='Housley' fullname='R. Housley'>
+<organization /></author>
+<date year='2007' month='April' />
+<abstract>
+<t>This document updates the Cryptographic Message Syntax (CMS), which is published in RFC 3852.  This document clarifies the proper handling of the SignedData protected content type when more than one digital signature is present. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='4853' />
+<format type='TXT' octets='10146' target='http://www.rfc-editor.org/rfc/rfc4853.txt' />
+</reference>

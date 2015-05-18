@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1018'>
+
+<front>
+<title>Some comments on SQuID</title>
+<author initials='A.' surname='McKenzie' fullname='A. McKenzie'>
+<organization>Bolt Baranek and Newman (BBN) Labs</organization></author>
+<date year='1987' day='1' month='August' /></front>
+
+<seriesInfo name='RFC' value='1018' />
+<format type='TXT' octets='7931' target='http://www.rfc-editor.org/rfc/rfc1018.txt' />
+</reference>

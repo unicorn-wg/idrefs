@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0971'>
+
+<front>
+<title>Survey of data representation standards</title>
+<author initials='A.' surname='DeSchon' fullname='Annette L. DeSchon'>
+<organization>University of Southern California (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<date year='1986' day='1' month='January' /></front>
+
+<seriesInfo name='RFC' value='971' />
+<format type='TXT' octets='22883' target='http://www.rfc-editor.org/rfc/rfc971.txt' />
+</reference>

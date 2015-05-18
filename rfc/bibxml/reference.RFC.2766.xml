@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2766'>
+
+<front>
+<title abbrev='NAT-PT'>Network Address Translation - Protocol Translation (NAT-PT)</title>
+<author initials='G.' surname='Tsirtsis' fullname='George Tsirtsis'>
+<organization>Internet Futures</organization>
+<address>
+<postal>
+<street>BT Adastral Park</street>
+<street>B29 Room 129</street>
+<city>Ipswich</city>
+<region>England</region>
+<code>IP5 3RE</code>
+<country>UK</country></postal>
+<phone>+44 181 8260073</phone>
+<facsimile>+44 181 8260073</facsimile>
+<email>george.tsirtsis@bt.com</email></address></author>
+<author initials='P.' surname='Srisuresh' fullname='Pyda Srisuresh'>
+<organization>Campio Communications</organization>
+<address>
+<postal>
+<street>630 Alder Drive</street>
+<city>Milpitas</city>
+<region>CA</region>
+<code>95035</code>
+<country>US</country></postal>
+<phone>+1 408 519 3849</phone>
+<email>srisuresh@yahoo.com</email></address></author>
+<date year='2000' month='February' />
+<abstract>
+<t>This document specifies an IPv4-to-IPv6 transition mechanism, in addition to those already specified in. This solution attempts to provide transparent routing, as defined in, to end-nodes in V6 realm trying to communicate with end-nodes in V4 realm and vice versa. This is achieved using a combination of Network Address Translation and Protocol Translation. The scheme described does not mandate dual-stacks (i.e., IPv4 as well as V6 protocol support) or special purpose routing requirements (such as requiring tunneling support) on end nodes. This scheme is based on a combination of address translation theme as described inand V6/V4 protocol translation theme as described in.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2766' />
+<format type='TXT' octets='49836' target='http://www.rfc-editor.org/rfc/rfc2766.txt' />
+</reference>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2739'>
+
+<front>
+<title abbrev='Locating a Calendar User'>Calendar Attributes for vCard and LDAP</title>
+<author initials='T.' surname='Small' fullname='T. Small'>
+<organization>XpertSite.Com</organization></author>
+<author initials='D.' surname='Hennessy' fullname='D. Hennessy'>
+<organization>ISOCOR</organization></author>
+<author initials='F.' surname='Dawson' fullname='F. Dawson'>
+<organization>Lotus</organization></author>
+<date year='2000' month='January' />
+<abstract>
+<t>When scheduling a calendar entity, such as an event, it is a prerequisite that an organizer has the calendar address of each attendee that will be invited to the event. Additionally, access to an attendee's current "busy time" provides an a priori indication of whether the attendee will be free to participate in the event.</t>
+<t>In order to meet these challenges, a calendar user agent (CUA) needs a mechanism to locate (URI) individual user's calendar and free/busy time.</t>
+<t>This memo defines three mechanisms for obtaining a URI to a user's calendar and free/busy time. These include: 
+- Manual transfer of the information;
+- Personal data exchange using the vCard format; and
+ - Directory lookup using the LDAP protocol.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2739' />
+<format type='TXT' octets='25892' target='http://www.rfc-editor.org/rfc/rfc2739.txt' />
+</reference>

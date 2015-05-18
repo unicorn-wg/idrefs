@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1075'>
+
+<front>
+<title>Distance Vector Multicast Routing Protocol</title>
+<author initials='D.' surname='Waitzman' fullname='D. Waitzman'>
+<organization>Bolt Baranek and Newman (BBN)/STC</organization></author>
+<author initials='C.' surname='Partridge' fullname='C. Partridge'>
+<organization>Bolt Baranek and Newman (BBN)/STC</organization></author>
+<author initials='S.' surname='Deering' fullname='S. Deering'>
+<organization>Stanford University</organization></author>
+<date year='1988' day='1' month='November' /></front>
+
+<seriesInfo name='RFC' value='1075' />
+<format type='TXT' octets='54731' target='http://www.rfc-editor.org/rfc/rfc1075.txt' />
+</reference>

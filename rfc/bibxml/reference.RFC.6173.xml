@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6173'>
+
+<front>
+<title>Definitions of Managed Objects for the Internet Fibre Channel Protocol (iFCP)</title>
+<author initials='P.' surname='Venkatesen' fullname='P. Venkatesen'>
+<organization /></author>
+<date year='2011' month='March' />
+<abstract>
+<t>This document defines Management Information Base (MIB) objects to monitor and control the Internet Fibre Channel Protocol (iFCP) gateway instances and their associated sessions, for use with network management protocols.&lt;/t>&lt;t> This document obsoletes RFC 4369. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='6173' />
+<format type='TXT' octets='63695' target='http://www.rfc-editor.org/rfc/rfc6173.txt' />
+</reference>

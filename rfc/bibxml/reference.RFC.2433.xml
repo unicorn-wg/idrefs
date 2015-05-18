@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2433'>
+
+<front>
+<title>Microsoft PPP CHAP Extensions</title>
+<author initials='G.' surname='Zorn' fullname='Glen Zorn'>
+<organization>Microsoft Corporation</organization>
+<address>
+<postal>
+<street>One Microsoft Way</street>
+<street>Redmond</street>
+<street>Washington 98052</street></postal>
+<phone>+1 425 703 1559</phone>
+<facsimile>+1 425 936 7329</facsimile>
+<email>glennz@microsoft.com</email></address></author>
+<author initials='S.' surname='Cobb' fullname='Steve Cobb'>
+<organization>Microsoft Corporation</organization>
+<address>
+<postal>
+<street>One Microsoft Way</street>
+<street>Redmond</street>
+<street>Washington 98052</street></postal>
+<email>stevec@microsoft.com</email></address></author>
+<date year='1998' month='October' />
+<area>Internet</area>
+<keyword>authentication</keyword>
+<keyword>challenge handshake authentication protocol</keyword>
+<keyword>point-to-point protocol</keyword>
+<keyword>PPP</keyword>
+<note title='IESG Note'>
+<t>
+   The protocol described here has significant vulnerabilities.  People
+   planning on implementing or using this protocol should read section
+   12, &quot;Security Considerations&quot;.
+</t></note></front>
+
+<seriesInfo name='RFC' value='2433' />
+<format type='TXT' octets='34502' target='http://www.rfc-editor.org/rfc/rfc2433.txt' />
+<format type='XML' octets='35380' target='http://xml.resource.org/public/rfc/xml/rfc2433.xml' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0466'>
+
+<front>
+<title>Telnet logger/server for host LL-67</title>
+<author initials='J.M.' surname='Winett' fullname='J.M. Winett'>
+<organization /></author>
+<date year='1973' month='February' /></front>
+
+<seriesInfo name='RFC' value='466' />
+<format type='TXT' octets='17595' target='http://www.rfc-editor.org/rfc/rfc466.txt' />
+</reference>

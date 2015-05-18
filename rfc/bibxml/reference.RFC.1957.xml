@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1957'>
+
+<front>
+<title>Some Observations on Implementations of the Post Office Protocol (POP3)</title>
+<author initials='R.' surname='Nelson' fullname='Russell Nelson'>
+<organization>Crynwr Software</organization>
+<address>
+<postal>
+<street>521 Pleasant Valley Rd.</street>
+<city>Potsdam</city>
+<region>NY</region>
+<code>13676</code>
+<country>US</country></postal>
+<phone>+1 315 268 1925</phone>
+<facsimile>+1 315 268 9201</facsimile>
+<email>nelson@crynwr.com</email></address></author>
+<date year='1996' month='June' /></front>
+
+<seriesInfo name='RFC' value='1957' />
+<format type='TXT' octets='2325' target='http://www.rfc-editor.org/rfc/rfc1957.txt' />
+</reference>

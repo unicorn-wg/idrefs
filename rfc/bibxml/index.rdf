@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<rdf:RDF 
+  xmlns='http://purl.org/rss/1.0/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+
+    <channel rdf:about='http://xml.resource.org/public/rfc/bibxml/index.rdf'>
+        <title>Recent RFCs</title>
+        <link>http://xml.resource.org/public/rfc/bibxml/index.rdf</link>
+        <description>Automatically generated from rfc-index.txt</description>
+        <dc:language>en-us</dc:language>
+        <dc:date>2007-05-31T23:58:48-00:00</dc:date>
+
+        <items><rdf:Seq>
+            <rdf:li resource='http://www.rfc-editor.org/rfc/rfc7540.txt' />
+            <rdf:li resource='http://www.rfc-editor.org/rfc/rfc7554.txt' />
+            <rdf:li resource='http://www.rfc-editor.org/rfc/rfc7541.txt' />
+            <rdf:li resource='http://www.rfc-editor.org/rfc/rfc7547.txt' />
+            <rdf:li resource='http://www.rfc-editor.org/rfc/rfc7539.txt' />
+            <rdf:li resource='http://www.rfc-editor.org/rfc/rfc7534.txt' />
+            <rdf:li resource='http://www.rfc-editor.org/rfc/rfc7509.txt' />
+            <rdf:li resource='http://www.rfc-editor.org/rfc/rfc7546.txt' />
+            <rdf:li resource='http://www.rfc-editor.org/rfc/rfc7551.txt' />
+            <rdf:li resource='http://www.rfc-editor.org/rfc/rfc7524.txt' />
+            <rdf:li resource='http://www.rfc-editor.org/rfc/rfc7548.txt' />
+            <rdf:li resource='http://www.rfc-editor.org/rfc/rfc7535.txt' />
+        </rdf:Seq></items>
+    </channel>
+
+<item rdf:about='http://www.rfc-editor.org/rfc/rfc7540.txt'>
+    <link>http://www.rfc-editor.org/rfc/rfc7540.txt</link>
+    <title>RFC 7540: Hypertext Transfer Protocol Version 2 (HTTP/2), M. Belshe, R. Peon, M. Thomson</title>
+    <dc:date>2015-05-01T07:00:00-00:00</dc:date>
+    <description>This specification describes an optimized expression of the semantics of the Hypertext Transfer Protocol (HTTP), referred to as HTTP version 2 (HTTP/2). HTTP/2 enables a more efficient use of network resources and a reduced perception of latency by introducing header field compression and allowing multiple concurrent exchanges on the same connection. It also introduces unsolicited push of representations from servers to clients.&lt;/t>&lt;t> This specification is an alternative to, but does not obsolete, the HTTP/1.1 message syntax. HTTP's existing semantics remain unchanged.</description>
+</item>
+
+<item rdf:about='http://www.rfc-editor.org/rfc/rfc7554.txt'>
+    <link>http://www.rfc-editor.org/rfc/rfc7554.txt</link>
+    <title>RFC 7554: Using IEEE 802.15.4e Time-Slotted Channel Hopping (TSCH) in the Internet of Things (IoT): Problem Statement, T. Watteyne, M. Palattella, L. Grieco</title>
+    <dc:date>2015-05-01T07:00:00-00:00</dc:date>
+    <description>This document describes the environment, problem statement, and goals for using the Time-Slotted Channel Hopping (TSCH) Medium Access Control (MAC) protocol of IEEE 802.14.4e in the context of Low-Power and Lossy Networks (LLNs).  The set of goals enumerated in this document form an initial set only.</description>
+</item>
+
+<item rdf:about='http://www.rfc-editor.org/rfc/rfc7541.txt'>
+    <link>http://www.rfc-editor.org/rfc/rfc7541.txt</link>
+    <title>RFC 7541: HPACK: Header Compression for HTTP/2, R. Peon, H. Ruellan</title>
+    <dc:date>2015-05-01T07:00:00-00:00</dc:date>
+    <description>This specification defines HPACK, a compression format for efficiently representing HTTP header fields, to be used in HTTP/2.</description>
+</item>
+
+<item rdf:about='http://www.rfc-editor.org/rfc/rfc7547.txt'>
+    <link>http://www.rfc-editor.org/rfc/rfc7547.txt</link>
+    <title>RFC 7547: Management of Networks with Constrained Devices: Problem Statement and Requirements, M. Ersue, D. Romascanu, J. Schoenwaelder, U. Herberg</title>
+    <dc:date>2015-05-01T07:00:00-00:00</dc:date>
+    <description>This document provides a problem statement, deployment and management topology options, as well as requirements addressing the different use cases of the management of networks where constrained devices are involved.</description>
+</item>
+
+<item rdf:about='http://www.rfc-editor.org/rfc/rfc7539.txt'>
+    <link>http://www.rfc-editor.org/rfc/rfc7539.txt</link>
+    <title>RFC 7539: ChaCha20 and Poly1305 for IETF Protocols, Y. Nir, A. Langley</title>
+    <dc:date>2015-05-01T07:00:00-00:00</dc:date>
+    <description>This document defines the ChaCha20 stream cipher as well as the use of the Poly1305 authenticator, both as stand-alone algorithms and as a "combined mode", or Authenticated Encryption with Associated Data (AEAD) algorithm.&lt;/t>&lt;t> This document does not introduce any new crypto, but is meant to serve as a stable reference and an implementation guide. It is a product of the Crypto Forum Research Group (CFRG).</description>
+</item>
+
+<item rdf:about='http://www.rfc-editor.org/rfc/rfc7534.txt'>
+    <link>http://www.rfc-editor.org/rfc/rfc7534.txt</link>
+    <title>RFC 7534: AS112 Nameserver Operations, J. Abley, W. Sotomayor</title>
+    <dc:date>2015-05-01T07:00:00-00:00</dc:date>
+    <description>Many sites connected to the Internet make use of IPv4 addresses that are not globally unique. Examples are the addresses designated in RFC 1918 for private use within individual sites.&lt;/t>&lt;t> Devices in such environments may occasionally originate Domain Name System (DNS) queries (so-called "reverse lookups") corresponding to those private-use addresses. Since the addresses concerned have only local significance, it is good practice for site administrators to ensure that such queries are answered locally. However, it is not uncommon for such queries to follow the normal delegation path in the public DNS instead of being answered within the site.&lt;/t>&lt;t> It is not possible for public DNS servers to give useful answers to such queries. In addition, due to the wide deployment of private-use addresses and the continuing growth of the Internet, the volume of such queries is large and growing. The AS112 project aims to provide a distributed sink for such queries in order to reduce the load on the corresponding authoritative servers. The AS112 project is named after the Autonomous System Number (ASN) that was assigned to it.&lt;/t>&lt;t> This document describes the steps required to install a new AS112 node and offers advice relating to such a node's operation.&lt;/t>&lt;t> This document obsoletes RFC 6304.</description>
+</item>
+
+<item rdf:about='http://www.rfc-editor.org/rfc/rfc7509.txt'>
+    <link>http://www.rfc-editor.org/rfc/rfc7509.txt</link>
+    <title>RFC 7509: RTP Control Protocol (RTCP) Extended Report (XR) for Post-Repair Loss Count Metrics, R. Huang, V. Singh</title>
+    <dc:date>2015-05-01T07:00:00-00:00</dc:date>
+    <description>This document defines an RTP Control Protocol (RTCP) Extended Report (XR) block that allows reporting of a post-repair loss count metric for a range of RTP applications.  In addition, another metric, repaired loss count, is also introduced in this report block for calculating the pre-repair loss count when needed, so that the RTP sender or a third-party entity is able to evaluate the effectiveness of the repair methods used by the system.</description>
+</item>
+
+<item rdf:about='http://www.rfc-editor.org/rfc/rfc7546.txt'>
+    <link>http://www.rfc-editor.org/rfc/rfc7546.txt</link>
+    <title>RFC 7546: Structure of the Generic Security Service (GSS) Negotiation Loop, B. Kaduk</title>
+    <dc:date>2015-05-01T07:00:00-00:00</dc:date>
+    <description>This document specifies the generic structure of the negotiation loop to establish a Generic Security Service (GSS) security context between initiator and acceptor.  The control flow of the loop is indicated for both parties, including error conditions, and indications are given for where application-specific behavior must be specified.</description>
+</item>
+
+<item rdf:about='http://www.rfc-editor.org/rfc/rfc7551.txt'>
+    <link>http://www.rfc-editor.org/rfc/rfc7551.txt</link>
+    <title>RFC 7551: RSVP-TE Extensions for Associated Bidirectional Label Switched Paths (LSPs), F. Zhang, R. Jing, R. Gandhi</title>
+    <dc:date>2015-05-01T07:00:00-00:00</dc:date>
+    <description>This document describes Resource Reservation Protocol (RSVP) extensions to bind two point-to-point unidirectional Label Switched Paths (LSPs) into an associated bidirectional LSP.  The association is achieved by defining new Association Types for use in ASSOCIATION and in Extended ASSOCIATION Objects.  One of these types enables independent provisioning of the associated bidirectional LSPs on both sides, while the other enables single-sided provisioning.  The REVERSE_LSP Object is also defined to enable a single endpoint to trigger creation of the reverse LSP and to specify parameters of the reverse LSP in the single-sided provisioning case.</description>
+</item>
+
+<item rdf:about='http://www.rfc-editor.org/rfc/rfc7524.txt'>
+    <link>http://www.rfc-editor.org/rfc/rfc7524.txt</link>
+    <title>RFC 7524: Inter-Area Point-to-Multipoint (P2MP) Segmented Label Switched Paths (LSPs), Y. Rekhter, E. Rosen, R. Aggarwal, T. Morin, I. Grosclaude, N. Leymann, S. Saad</title>
+    <dc:date>2015-05-01T07:00:00-00:00</dc:date>
+    <description>This document describes procedures for building inter-area point-to-multipoint (P2MP) segmented service label switched paths (LSPs) by partitioning such LSPs into intra-area segments and using BGP as the inter-area routing and Label Distribution Protocol (LDP).  Within each IGP area, the intra-area segments are either carried over intra-area P2MP LSPs, using P2MP LSP hierarchy, or instantiated using ingress replication.  The intra-area P2MP LSPs may be signaled using P2MP RSVP-TE or P2MP multipoint LDP (mLDP).  If ingress replication is used within an IGP area, then (multipoint-to-point) LDP LSPs or (point-to-point) RSVP-TE LSPs may be used in the IGP area.  The applications/services that use such inter-area service LSPs may be BGP Multicast VPN, Virtual Private LAN Service (VPLS) multicast, or global table multicast over MPLS.</description>
+</item>
+
+<item rdf:about='http://www.rfc-editor.org/rfc/rfc7548.txt'>
+    <link>http://www.rfc-editor.org/rfc/rfc7548.txt</link>
+    <title>RFC 7548: Management of Networks with Constrained Devices: Use Cases, M. Ersue, D. Romascanu, J. Schoenwaelder, A. Sehgal</title>
+    <dc:date>2015-05-01T07:00:00-00:00</dc:date>
+    <description>This document discusses use cases concerning the management of networks in which constrained devices are involved.  A problem statement, deployment options, and the requirements on the networks with constrained devices can be found in the companion document on "Management of Networks with Constrained Devices: Problem Statement and Requirements" (RFC 7547).</description>
+</item>
+
+<item rdf:about='http://www.rfc-editor.org/rfc/rfc7535.txt'>
+    <link>http://www.rfc-editor.org/rfc/rfc7535.txt</link>
+    <title>RFC 7535: AS112 Redirection Using DNAME, J. Abley, B. Dickson, W. Kumari, G. Michaelson</title>
+    <dc:date>2015-05-01T07:00:00-00:00</dc:date>
+    <description>AS112 provides a mechanism for handling reverse lookups on IP addresses that are not unique (e.g., RFC 1918 addresses). This document describes modifications to the deployment and use of AS112 infrastructure that will allow zones to be added and dropped much more easily, using DNAME resource records.&lt;/t>&lt;t> This approach makes it possible for any DNS zone administrator to sink traffic relating to parts of the global DNS namespace under their control to the AS112 infrastructure without coordination with the operators of AS112 infrastructure.</description>
+</item>
+
+
+</rdf:RDF>

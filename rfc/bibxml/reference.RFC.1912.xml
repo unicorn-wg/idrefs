@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1912'>
+
+<front>
+<title abbrev='Common DNS Errors'>Common DNS Operational and Configuration Errors</title>
+<author initials='D.' surname='Barr' fullname='David Barr'>
+<organization>The Pennsylvania State University, Department of Mathematics</organization>
+<address>
+<postal>
+<street>334 Whitmore Building</street>
+<city>University Park</city>
+<region>PA</region>
+<code>16802</code>
+<country>US</country></postal>
+<phone>+1 814 863 7374</phone>
+<facsimile>+1 814 863 8311</facsimile>
+<email>barr@math.psu.edu</email></address></author>
+<date year='1996' month='February' />
+<abstract>
+<t>This memo describes errors often found in both the operation of Domain Name System (DNS) servers, and in the data that these DNS servers contain.  This memo tries to summarize current Internet requirements as well as common practice in the operation and configuration of the DNS.  This memo also tries to summarize or expand upon issues raised in.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1912' />
+<format type='TXT' octets='38252' target='http://www.rfc-editor.org/rfc/rfc1912.txt' />
+</reference>

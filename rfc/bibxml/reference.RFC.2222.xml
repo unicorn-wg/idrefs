@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2222'>
+
+<front>
+<title abbrev='SASL'>Simple Authentication and Security Layer (SASL)</title>
+<author initials='J.G.' surname='Myers' fullname='John G. Myers'>
+<organization>Netscape Communications</organization>
+<address>
+<postal>
+<street>501 E. Middlefield Road</street>
+<street>Mail Stop MV-029</street>
+<street>Mountain View</street>
+<street>CA 94043-4042</street></postal>
+<email>jgmyers@netscape.com</email></address></author>
+<date year='1997' month='October' />
+<area>Security</area>
+<keyword>authentication</keyword>
+<keyword>security</keyword></front>
+
+<seriesInfo name='RFC' value='2222' />
+<format type='TXT' octets='35010' target='http://www.rfc-editor.org/rfc/rfc2222.txt' />
+<format type='XML' octets='33951' target='http://xml.resource.org/public/rfc/xml/rfc2222.xml' />
+</reference>

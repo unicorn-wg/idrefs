@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1037'>
+
+<front>
+<title>NFILE - a file access protocol</title>
+<author initials='B.' surname='Greenberg' fullname='B. Greenberg'>
+<organization /></author>
+<author initials='S.' surname='Keene' fullname='S. Keene'>
+<organization /></author>
+<date year='1987' day='1' month='December' /></front>
+
+<seriesInfo name='RFC' value='1037' />
+<format type='TXT' octets='197312' target='http://www.rfc-editor.org/rfc/rfc1037.txt' />
+</reference>

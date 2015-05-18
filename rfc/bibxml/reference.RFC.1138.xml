@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1138'>
+
+<front>
+<title abbrev='Mapping X.400(88) and 822'>Mapping between X.400(1988) / ISO 10021 and RFC 822</title>
+<author initials='S.' surname='Kille' fullname='Steve Kille'>
+<organization>University College London</organization>
+<address>
+<postal>
+<street>Gower Street</street>
+<city>London</city>
+<region>England</region>
+<code>WC1E 6BT</code>
+<country>UK</country></postal>
+<phone>+44 1 3807294</phone>
+<email>S.Kille@Cs.Ucl.AC.UK</email></address></author>
+<date year='1989' day='1' month='December' /></front>
+
+<seriesInfo name='RFC' value='1138' />
+<format type='TXT' octets='191029' target='http://www.rfc-editor.org/rfc/rfc1138.txt' />
+</reference>

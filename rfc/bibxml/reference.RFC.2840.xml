@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2840'>
+
+<front>
+<title>TELNET KERMIT OPTION</title>
+<author initials='J.' surname='Altman' fullname='J. Altman'>
+<organization /></author>
+<author initials='F.' surname='da Cruz' fullname='F. da Cruz'>
+<organization /></author>
+<date year='2000' month='May' />
+<abstract>
+<t>This document describes an extension to the Telnet protocol to allow the negotiation, coordination, and use of the Kermit file transfer and management protocol over an existing Telnet protocol connection.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2840' />
+<format type='TXT' octets='22519' target='http://www.rfc-editor.org/rfc/rfc2840.txt' />
+</reference>

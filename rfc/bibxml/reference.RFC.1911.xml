@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1911'>
+
+<front>
+<title abbrev='MIME Voice Profile'>Voice Profile for Internet Mail</title>
+<author initials='G.' surname='Vaudreuil' fullname='Gregory M. Vaudreuil'>
+<organization>Octel Network Services</organization>
+<address>
+<postal>
+<street>17080 Dallas Parkway</street>
+<city>Dallas</city>
+<region>TX</region>
+<code>75248-1905</code>
+<country>US</country></postal>
+<phone>+1 214 733 2722</phone>
+<facsimile>+1 214 733 2722</facsimile>
+<email>Greg.Vaudreuil@Octel.Com</email></address></author>
+<date year='1996' month='February' />
+<abstract>
+<t>A class of special-purpose computers has evolved to provide voice messaging services.  These machines generally interface to a telephone switch and provide call answering and voice messaging services.  Traditionally, messages sent to a non-local machine are transported using analog networking protocols based on DTMF signaling and analog voice playback.  As the demand for networking increases, there is a need for a standard high-quality digital protocol to connect these machines.  The following document is a profile of the
+   Internet standard MIME and ESMTP protocols for use as a digital voice networking protocol.</t>
+<t>This profile is based on an earlier effort in the Audio Message Interchange Specification (AMIS) group to define a voice messaging protocol based on X.400 technology.  This protocol is intended to satisfy the user requirements statement from that earlier work with the industry standard ESMTP/MIME mail protocol infrastructures already used within corporate internets.  This profile will be called the voice profile in this document.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1911' />
+<format type='TXT' octets='50242' target='http://www.rfc-editor.org/rfc/rfc1911.txt' />
+</reference>

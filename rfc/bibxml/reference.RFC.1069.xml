@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1069'>
+
+<front>
+<title abbrev='IP ISO Addressing'>Guidelines for the use of Internet-IP addresses in the ISO Connectionless-Mode Network Protocol</title>
+<author initials='R.' surname='Callon' fullname='R. Callon'>
+<organization>Digital Equipment Corporation (DEC)</organization></author>
+<author initials='H.' surname='Braun' fullname='H.W. Braun'>
+<organization>University of Michigan</organization></author>
+<date year='1989' day='1' month='February' /></front>
+
+<seriesInfo name='RFC' value='1069' />
+<format type='TXT' octets='24268' target='http://www.rfc-editor.org/rfc/rfc1069.txt' />
+</reference>

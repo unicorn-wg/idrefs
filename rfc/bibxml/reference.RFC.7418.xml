@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7418'>
+
+<front>
+<title>An IRTF Primer for IETF Participants</title>
+<author initials='S.' surname='Dawkins' fullname='S. Dawkins'>
+<organization /></author>
+<date year='2014' month='December' />
+<abstract>
+<t>This document provides a high-level description of things for Internet Engineering Task Force (IETF) participants to consider when bringing proposals for new research groups (RGs) into the Internet Research Task Force (IRTF).  This document emphasizes differences in expectations between the two organizations.</t></abstract></front>
+
+<seriesInfo name='RFC' value='7418' />
+<format type='TXT' octets='14467' target='http://www.rfc-editor.org/rfc/rfc7418.txt' />
+</reference>

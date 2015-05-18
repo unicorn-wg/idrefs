@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1716'>
+
+<front>
+<title>Towards Requirements for IP Routers</title>
+<author initials='P.' surname='Almquist' fullname='Philip Almquist'>
+<organization /></author>
+<author initials='F.' surname='Kastenholz' fullname='Frank J. Kastenholz'>
+<organization>FTP Software</organization>
+<address>
+<postal>
+<street>2 High Street</street>
+<city>North Andover</city>
+<region>MA</region>
+<code>01845-2620</code>
+<country>US</country></postal>
+<phone>+1 508 685 4000</phone>
+<email>kasten@ftp.com</email></address></author>
+<date year='1994' month='November' /></front>
+
+<seriesInfo name='RFC' value='1716' />
+<format type='TXT' octets='432330' target='http://www.rfc-editor.org/rfc/rfc1716.txt' />
+</reference>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0057'>
+
+<front>
+<title>Thoughts and Reflections on NWG/RFC 54</title>
+<author initials='M.' surname='Kraley' fullname='Mike Kraley'>
+<organization>Harvard University</organization></author>
+<author initials='J.' surname='Newkirk' fullname='John Newkirk'>
+<organization>Harvard University</organization></author>
+<date year='1970' day='19' month='June' />
+<abstract>
+<t>In the course of writing NWG/RFC #54several new ideas became apparent.  Since these ideas had not previously been discussed by the NWG, or were sufficiently imprecise, it was decided not to include them in the official protocol proffering.  We thought, however, that they might be proper subjects for discussion and later inclusion in the second level protocol.</t></abstract></front>
+
+<seriesInfo name='RFC' value='57' />
+<format type='TXT' octets='8360' target='http://www.rfc-editor.org/rfc/rfc57.txt' />
+</reference>

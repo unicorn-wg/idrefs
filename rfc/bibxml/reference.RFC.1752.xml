@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1752'>
+
+<front>
+<title abbrev='Recommendation for IPng'>The Recommendation for the IP Next Generation Protocol</title>
+<author initials='S.' surname='Bradner' fullname='Scott Bradner'>
+<organization>Harvard University</organization>
+<address>
+<postal>
+<street>10 Ware St.</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal>
+<phone>+1 617 495 3864</phone>
+<email>sob@harvard.edu</email></address></author>
+<author initials='A.' surname='Mankin' fullname='Allison Mankin'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4350 North Fairfax Drive</street>
+<street>Suite 400</street>
+<city>Arlington</city>
+<region>VA</region>
+<code>22303</code>
+<country>US</country></postal>
+<phone>+1 703 807 0132</phone>
+<email>mankin@isi.edu</email></address></author>
+<date year='1995' month='January' />
+<abstract>
+<t>This document presents the recommendation of the IPng Area Directors on what should be used to replace the current version of the Internet Protocol.  This recommendation was accepted by the Internet Engineering Steering Group (IESG).</t></abstract></front>
+
+<seriesInfo name='RFC' value='1752' />
+<format type='TXT' octets='127784' target='http://www.rfc-editor.org/rfc/rfc1752.txt' />
+</reference>

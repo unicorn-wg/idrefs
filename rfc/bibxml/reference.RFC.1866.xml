@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1866'>
+
+<front>
+<title>Hypertext Markup Language - 2.0</title>
+<author initials='T.' surname='Berners-Lee' fullname='Tim Berners-Lee'>
+<organization>MIT Laboratory for Computer Science</organization>
+<address>
+<postal>
+<street>545 Technology Square</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02139</code>
+<country>US</country></postal>
+<phone>+1 617 253 9670</phone>
+<facsimile>+1 617 258 8682</facsimile>
+<email>timbl@w3.org</email></address></author>
+<author initials='D.W.' surname='Connolly' fullname='Daniel W. Connolly'>
+<organization>MIT Laboratory for Computer Science, W3 Consortium</organization>
+<address>
+<postal>
+<street>545 Technology Square</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02139</code>
+<country>US</country></postal>
+<phone>+1 617 258 8682</phone>
+<email>connolly@w3.org</email>
+<uri>http://www.w3.org/hypertext/WWW/People/Connolly/</uri></address></author>
+<date year='1995' month='November' />
+<abstract>
+<t>The Hypertext Markup Language (HTML) is a simple markup language used to create hypertext documents that are platform independent. HTML documents are SGML documents with generic semantics that are appropriate for representing information from a wide range of domains. HTML markup can represent hypertext news, mail, documentation, and hypermedia; menus of options; database query results; simple structured documents with in-lined graphics; and hypertext views of existing bodies of information.</t>
+<t>HTML has been in use by the World Wide Web (WWW) global information initiative since 1990. This specification roughly corresponds to the capabilities of HTML in common use prior to June 1994. HTML is an application of ISO Standard 8879:1986 Information Processing Text and Office Systems; Standard Generalized Markup Language (SGML).</t>
+<t>The "text/html" Internet Media Type (RFC 1590) and MIME Content Type (RFC 1521) is defined by this specification.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1866' />
+<format type='TXT' octets='146904' target='http://www.rfc-editor.org/rfc/rfc1866.txt' />
+</reference>

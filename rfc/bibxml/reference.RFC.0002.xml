@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0002'>
+
+<front>
+<title>Host software</title>
+<author initials='B.' surname='Duvall' fullname='Bill Duvall'>
+<organization>Stanford Research Institute (SRI)</organization></author>
+<date year='1969' day='9' month='April' /></front>
+
+<seriesInfo name='RFC' value='2' />
+<format type='TXT' octets='17145' target='http://www.rfc-editor.org/rfc/rfc2.txt' />
+</reference>

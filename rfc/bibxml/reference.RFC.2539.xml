@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2539'>
+
+<front>
+<title abbrev='Diffie-Hellman Keys in the DNS'>Storage of Diffie-Hellman Keys in the Domain Name System (DNS)</title>
+<author initials='D.E.' surname='Eastlake' fullname='Donald E. Eastlake 3rd'>
+<organization>IBM</organization>
+<address>
+<postal>
+<street>65 Shindegan Hill Road</street>
+<street>RR #1</street>
+<city>Carmel</city>
+<region>NY</region>
+<code>10512</code>
+<country>US</country></postal>
+<phone>+1 914 276 2668</phone>
+<facsimile>+1 914 784 3833</facsimile>
+<email>dee3@us.ibm.com</email></address></author>
+<date year='1999' month='March' />
+<abstract>
+<t>A standard method for storing Diffie-Hellman keys in the Domain Name System is described which utilizes DNS KEY resource records.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2539' />
+<format type='TXT' octets='21049' target='http://www.rfc-editor.org/rfc/rfc2539.txt' />
+</reference>

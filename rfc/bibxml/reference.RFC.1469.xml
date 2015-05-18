@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1469'>
+
+<front>
+<title abbrev='IP Multicast over Token-Ring LANs'>IP Multicast over Token-Ring Local Area Networks</title>
+<author initials='T.J.' surname='Pusateri' fullname='Thomas J. Pusateri'>
+<organization />
+<address>
+<postal>
+<street>11820 Edgewater Ct.</street>
+<city>Raleigh</city>
+<region>NC</region>
+<code>27614</code>
+<country>US</country></postal>
+<email>pusateri@cs.duke.edu</email></address></author>
+<date year='1993' month='June' />
+<abstract>
+<t>This document specifies a method for the transmission of IP multicast datagrams over Token-Ring Local Area Networks.  Although an interim solution has emerged and is currently being used, it is the intention of this document to specify a more efficient means of transmission using an assigned Token-Ring functional address.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1469' />
+<format type='TXT' octets='8189' target='http://www.rfc-editor.org/rfc/rfc1469.txt' />
+</reference>

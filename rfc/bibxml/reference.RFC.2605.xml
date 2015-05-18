@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2605'>
+
+<front>
+<title>Directory Server Monitoring MIB</title>
+<author initials='G.' surname='Mansfield' fullname='Glenn Mansfield'>
+<organization>Cyber Solutions Inc.</organization>
+<address>
+<postal>
+<street>6-6-3 Minami Yoshinari</street>
+<city>Aoba-ku</city>
+<region>Sendai</region>
+<code>989-3204</code>
+<country>JP</country></postal>
+<phone>+81 22 3034012</phone>
+<email>glenn@cysols.com</email></address></author>
+<author initials='S.' surname='Kille' fullname='Steve E. Kille'>
+<organization>MessagingDirect Ltd.</organization>
+<address>
+<postal>
+<street>The Dome, The Square</street>
+<city>Richmond</city>
+<region>England</region>
+<code>TW9 1DT</code>
+<country>UK</country></postal>
+<phone>+44 181 3329091</phone>
+<email>Steve.Kille@MessagingDirect.com</email></address></author>
+<date year='1999' month='June' />
+<abstract>
+<t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community. This memo obsoletes RFC 1567, "X.500 Directory Monitoring MIB". This memo extends that specification to a more generic MIB for monitoring one or more directory servers each of which may support multiple access protocols. The MIB defined in this memo will be used in conjunction with the NETWORK-SERVICES-MIBfor monitoring Directory Servers.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2605' />
+<format type='TXT' octets='49166' target='http://www.rfc-editor.org/rfc/rfc2605.txt' />
+</reference>

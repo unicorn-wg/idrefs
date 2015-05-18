@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1851'>
+
+<front>
+<title abbrev='ESP 3DES'>The ESP Triple DES Transform</title>
+<author initials='P.' surname='Karn' fullname='Phil Karn'>
+<organization>Qualcomm, Inc.</organization>
+<address>
+<postal>
+<street>6455 Lusk Blvd.</street>
+<city>San Diego</city>
+<region>CA</region>
+<code>92121-2779</code>
+<country>US</country></postal>
+<email>karn@unix.ka9q.ampr.org</email></address></author>
+<author initials='P.' surname='Metzger' fullname='Perry Metzger'>
+<organization>Piermont Information Systems Inc.</organization>
+<address>
+<postal>
+<street>160 Cabrini Blvd.</street>
+<street>Suite #2</street>
+<city>New York</city>
+<region>NY</region>
+<code>10033</code>
+<country>US</country></postal>
+<email>perry@piermont.com</email></address></author>
+<author initials='W.' surname='Simpson' fullname='William Allen Simpson'>
+<organization>Daydreamer, Computer Systems Consulting Services</organization>
+<address>
+<postal>
+<street>1384 Fontaine</street>
+<city>Madison Heights</city>
+<region>MI</region>
+<code>48071</code>
+<country>US</country></postal>
+<email>Bill.Simpson@um.cc.umich.edu</email></address></author>
+<date year='1995' month='September' />
+<abstract>
+<t>This document describes the Triple DES-CBC security transform for the IP Encapsulating Security Payload (ESP).</t></abstract></front>
+
+<seriesInfo name='RFC' value='1851' />
+<format type='TXT' octets='20000' target='http://www.rfc-editor.org/rfc/rfc1851.txt' />
+</reference>

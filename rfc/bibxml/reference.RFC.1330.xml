@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1330'>
+
+<front>
+<title abbrev='X.500 and X.400 Plans for ESnet'>Recommendations for the Phase I Deployment of OSI Directory Services (X.500) and OSI Message Handling Services (X.400) within the ESNET Community</title>
+<author initials='A.' surname='Sturtevant' fullname='Allen Sturtevant'>
+<organization>Lawrence Livermore National Laboratory</organization>
+<address>
+<postal>
+<street>P.O. Box 5509; L-561</street>
+<city>Livermore</city>
+<region>CA</region>
+<code>94551</code>
+<country>US</country></postal>
+<phone>+1 510 422 8266</phone>
+<email>sturtevant@es.net</email></address></author>
+<author initials='T.' surname='Genovese' fullname='Tony Genovese'>
+<organization>Lawrence Livermore National Laboratory</organization>
+<address>
+<postal>
+<street>P.O. Box 5509; L-561</street>
+<city>Livermore</city>
+<region>CA</region>
+<code>94551</code>
+<country>US</country></postal>
+<phone>+1 510 423 2471</phone>
+<email>genovese@es.net</email></address></author>
+<author initials='A.' surname='Getchell' fullname='Arlene Getchell'>
+<organization>Lawrence Livermore National Laboratory</organization>
+<address>
+<postal>
+<street>P.O. Box 5509; L-561</street>
+<city>Livermore</city>
+<region>CA</region>
+<code>94551</code>
+<country>US</country></postal>
+<phone>+1 510 423 6349</phone>
+<email>getchell@es.net</email></address></author>
+<author initials='H.' surname='Kippenhan' fullname='H. A. Kippenhan Jr.'>
+<organization>Fermi National Accelerator Laboratory</organization>
+<address>
+<postal>
+<street>Wilson Hall 6W</street>
+<street>MS-234</street>
+<street>P.O. Box 500</street>
+<city>Batavia</city>
+<region>IL</region>
+<code>60150</code>
+<country>US</country></postal>
+<phone>+1 708 840 8068</phone>
+<email>kippenhan@fnal.fnal.gov</email></address></author>
+<author initials='K.' surname='Oberman' fullname='Kevin Oberman'>
+<organization>Lawrence Livermore National Laboratory</organization>
+<address>
+<postal>
+<street>P.O. Box 5509; L-156</street>
+<city>Livermore</city>
+<region>CA</region>
+<code>94551</code>
+<country>US</country></postal>
+<phone>+1 510 422 6955</phone>
+<email>oberman1@llnl.gov</email></address></author>
+<author initials='A.' surname='Turner' fullname='Alan Turner'>
+<organization>Pacific Northwest Laboratory</organization>
+<address>
+<postal>
+<street>P.O. Box 999; K7-57</street>
+<city>Richland</city>
+<region>WA</region>
+<code>99352</code>
+<country>US</country></postal>
+<phone>+1 509 375 6670</phone>
+<email>ae_turner@pnl.gov</email></address></author>
+<author initials='L.' surname='Winkler' fullname='Linda Winkler'>
+<organization>Argonne National Laboratory</organization>
+<address>
+<postal>
+<street>9700 South Cass Avenue</street>
+<street>Building 221 B251</street>
+<city>Argonne</city>
+<region>IL</region>
+<code>60439</code>
+<country>US</country></postal>
+<phone>+1 708 252 7236</phone>
+<email>lwinkler@anl.gov</email></address></author>
+<author initials='R.' surname='Wright' fullname='Russ Wright'>
+<organization>Lawrence Berkeley Laboratory</organization>
+<address>
+<postal>
+<street>1 Cyclotron Road</street>
+<street>MS 50B-2258</street>
+<city>Berkeley</city>
+<region>CA</region>
+<code>94720</code>
+<country>US</country></postal>
+<phone>+1 510 486 6965</phone>
+<email>wright@lbl.gov</email></address></author>
+<date year='1992' month='May' />
+<abstract>
+<t>This document recommends an initial approach for the Phase I deployment of OSI Directory Services (X.500) and OSI Message Handling Services (X.400) within the ESnet community.  It is anticipated that directly connected ESnet backbone sites will participate and follow the suggestions set forth in this document.</t>
+<t>Section 7 of the "ESnet Program Plan" (DOE/OER-0486T, dated March 1991) cites the need for further research and investigation in the  areas of electronic mail and directory services.  The ESCC X.500/X.400 Task Force was created to address this need. Additionally, the task force is addressing the issues of a coordinated, interoperable deployment of OSI Directory Services and OSI Message Handling within the entire ESnet community.  Since only a small subset of this community is actively pursuing these avenues, considerable effort must be made to establish the necessary "base" to build upon.  If directly connected ESnet sites participate in these services, a consistent transition path will be ensured and the services provided will be mutually valuable and useful.</t>
+<t>X.500 and X.400 are continuously evolving standards, and are typically updated every four years.  U.S. GOSIP (Government OSI Profile) Requirements are updated to define additional functionality as needed by the U.S. Federal Government, usually every two years. As the X.500 and X.400 standards evolve and U.S. GOSIP Requirements are extended, consideration must be given as to the effect this may have on these existing services in the ESnet community.  At these cross-roads, or when a sizeable increase in service functionality is desired, another "phase of deployment" may be in order.  In this sense, there isn't a specific "final phase" goal, but rather several new releases (updates) to the level of existing services.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1330' />
+<format type='TXT' octets='192925' target='http://www.rfc-editor.org/rfc/rfc1330.txt' />
+</reference>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2750'>
+
+<front>
+<title>RSVP Extensions for Policy Control</title>
+<author initials='S.' surname='Herzog' fullname='Shai Herzog'>
+<organization>IPHighway, Inc.</organization>
+<address>
+<postal>
+<street>55 New York Avenue</street>
+<city>Framingham</city>
+<region>MA</region>
+<code>01701</code>
+<country>US</country></postal>
+<phone>+1 508 620 1141</phone>
+<email>herzog@iphighway.com</email></address></author>
+<date year='2000' month='January' />
+<abstract>
+<t>This memo presents a set of extensions for supporting generic policy based admission control in RSVP. It should be perceived as an extension to the RSVP functional  specifications.</t>
+<t>These extensions include the standard format of POLICY_DATA objects, and a description of RSVP's handling of policy events.</t>
+<t>This document does not advocate particular policy control mechanisms; however, a Router/Server Policy Protocol description for these extensions can be found in,,.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2750' />
+<format type='TXT' octets='26379' target='http://www.rfc-editor.org/rfc/rfc2750.txt' />
+</reference>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0216'>
+
+<front>
+<title>Telnet Access to UCSB's On-Line System</title>
+<author initials='J.E.' surname='White' fullname='J.E. White'>
+<organization /></author>
+<date year='1971' month='September' /></front>
+
+<seriesInfo name='RFC' value='216' />
+<format type='TXT' octets='37570' target='http://www.rfc-editor.org/rfc/rfc216.txt' />
+<format type='PDF' octets='908675' target='http://www.rfc-editor.org/rfc/rfc216.pdf' />
+</reference>

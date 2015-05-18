@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5972'>
+
+<front>
+<title>General Internet Signaling Transport (GIST) State Machine</title>
+<author initials='T.' surname='Tsenov' fullname='T. Tsenov'>
+<organization /></author>
+<author initials='H.' surname='Tschofenig' fullname='H. Tschofenig'>
+<organization /></author>
+<author initials='X.' surname='Fu' fullname='X. Fu'>
+<organization /></author>
+<author initials='C.' surname='Aoun' fullname='C. Aoun'>
+<organization /></author>
+<author initials='E.' surname='Davies' fullname='E. Davies'>
+<organization /></author>
+<date year='2010' month='October' /></front>
+
+<seriesInfo name='RFC' value='5972' />
+<format type='TXT' octets='53461' target='http://www.rfc-editor.org/rfc/rfc5972.txt' />
+</reference>

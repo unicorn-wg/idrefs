@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1686'>
+
+<front>
+<title abbrev='A Cable Television Industry Viewpoint on IPng'>IPng Requirements: A Cable Television Industry Viewpoint</title>
+<author initials='M.' surname='Vecchi' fullname='Mario P. Vecchi'>
+<organization>Time Warner Cable</organization>
+<address>
+<postal>
+<street>160 Inverness Drive West</street>
+<city>Englewood</city>
+<region>CO</region>
+<code>80112</code>
+<country>US</country></postal>
+<phone>+1 303 799 5540</phone>
+<facsimile>+1 303 799 5651</facsimile>
+<email>mpvecchi@twcable.com</email></address></author>
+<date year='1994' month='August' />
+<abstract>
+<t>This document was submitted to the IETF IPng area in response to RFC 1550.  Publication of this document does not imply acceptance by the IPng area of any ideas expressed within.  The statements in this paper are intended as input to the technical discussions within IETF, and do not represent any endorsement or commitment on the part of the cable television industry or any of its companies.  Comments should be submitted to the big-internet@munnari.oz.au mailing list.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1686' />
+<format type='TXT' octets='39052' target='http://www.rfc-editor.org/rfc/rfc1686.txt' />
+</reference>

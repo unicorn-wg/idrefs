@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2075'>
+
+<front>
+<title>IP Echo Host Service</title>
+<author initials='C.' surname='Partridge' fullname='Craig Partridge'>
+<organization>BBN Corporation</organization>
+<address>
+<postal>
+<street>10 Moulton St</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal>
+<email>craig@bbn.com</email></address></author>
+<date year='1997' month='January' />
+<abstract>
+<t>This memo describes how to implement an IP echo host.  IP echo hosts send back IP datagrams after exchanging the source and destination IP addresses.  The effect is that datagrams sent to the echo host are sent back to the source, as if they originated at the echo host.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2075' />
+<format type='TXT' octets='12536' target='http://www.rfc-editor.org/rfc/rfc2075.txt' />
+</reference>

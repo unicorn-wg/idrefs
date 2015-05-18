@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6687'>
+
+<front>
+<title>Performance Evaluation of the Routing Protocol for Low-Power and Lossy Networks (RPL)</title>
+<author initials='J.' surname='Tripathi' fullname='J. Tripathi'>
+<organization /></author>
+<author initials='J.' surname='de Oliveira' fullname='J. de Oliveira'>
+<organization /></author>
+<author initials='JP.' surname='Vasseur' fullname='JP. Vasseur'>
+<organization /></author>
+<date year='2012' month='October' />
+<abstract>
+<t>This document presents a performance evaluation of the Routing Protocol for Low-Power and Lossy Networks (RPL) for a small outdoor deployment of sensor nodes and for a large-scale smart meter network.  Detailed simulations are carried out to produce several routing performance metrics using these real-life deployment scenarios.  Please refer to the PDF version of this document, which includes several plots for the performance metrics not shown in the plain-text version.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t></abstract></front>
+
+<seriesInfo name='RFC' value='6687' />
+<format type='TXT' octets='63624' target='http://www.rfc-editor.org/rfc/rfc6687.txt' />
+<format type='PDF' octets='589296' target='http://www.rfc-editor.org/rfc/rfc6687.pdf' />
+</reference>

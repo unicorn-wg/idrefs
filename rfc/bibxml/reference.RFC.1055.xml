@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1055'>
+
+<front>
+<title abbrev='Serial Line IP'>Nonstandard for transmission of IP datagrams over serial lines: SLIP</title>
+<author initials='J.' surname='Romkey' fullname='J. Romkey'>
+<organization /></author>
+<date year='1988' day='1' month='June' /></front>
+
+<seriesInfo name='STD' value='47' />
+<seriesInfo name='RFC' value='1055' />
+<format type='TXT' octets='12911' target='http://www.rfc-editor.org/rfc/rfc1055.txt' />
+</reference>

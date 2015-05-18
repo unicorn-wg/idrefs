@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1606'>
+
+<front>
+<title abbrev='Historical Perspective Usage of IP V9'>A Historical Perspective On The Usage Of IP Version 9</title>
+<author initials='J.' surname='Onions' fullname='Julian Onions'>
+<organization>Nexor Ltd.</organization>
+<address>
+<postal>
+<street>PO Box 132</street>
+<city>Nottingham</city>
+<region>ENGLAND</region>
+<code>NG7 2UU</code>
+<country>UK</country></postal>
+<phone>+44 602 520580</phone>
+<email>j.onions@nexor.co.uk</email></address></author>
+<date year='1994' day='1' month='April' />
+<abstract>
+<t>This paper reviews the usages of the old IP version protocol. It considers some of its successes and its failures.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1606' />
+<format type='TXT' octets='8398' target='http://www.rfc-editor.org/rfc/rfc1606.txt' />
+</reference>

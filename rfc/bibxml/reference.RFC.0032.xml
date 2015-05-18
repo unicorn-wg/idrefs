@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0032'>
+
+<front>
+<title>Connecting M.I.T</title>
+<author initials='J.' surname='Cole' fullname='Jerry Cole'>
+<organization>University of California, Los Angeles (UCLA)</organization></author>
+<date year='1969' day='5' month='February' />
+<abstract>
+<t>Re: NWG/RFC's #28 and 29,.</t>
+<t>The addition of a clock in one or more of the network HOST's seems to be very desireable since it (or they) would allow user-oriented message delay measurements.</t></abstract></front>
+
+<seriesInfo name='RFC' value='32' />
+<format type='TXT' octets='2216' target='http://www.rfc-editor.org/rfc/rfc32.txt' />
+</reference>

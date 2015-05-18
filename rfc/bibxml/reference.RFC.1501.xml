@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1501'>
+
+<front>
+<title>OS/2 User Group</title>
+<author initials='E.' surname='Brunsen' fullname='Eric Brunsen'>
+<organization>Eastern New Mexico University</organization>
+<address>
+<postal>
+<street>Station 15</street>
+<city>Portales</city>
+<region>NM</region>
+<code>88130</code>
+<country>US</country></postal>
+<phone>+1 505 562 2694</phone>
+<facsimile>+1 505 562 2349</facsimile>
+<email>BRUNSENE@EMAIL.ENMU.EDU</email></address></author>
+<date year='1993' month='August' />
+<abstract>
+<t></t></abstract></front>
+
+<seriesInfo name='RFC' value='1501' />
+<format type='TXT' octets='3636' target='http://www.rfc-editor.org/rfc/rfc1501.txt' />
+</reference>

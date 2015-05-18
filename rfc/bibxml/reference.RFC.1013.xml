@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1013'>
+
+<front>
+<title>X Window System Protocol, version 11: Alpha update April 1987</title>
+<author initials='R.' surname='Scheifler' fullname='Robert W. Scheifler'>
+<organization>Laboratory for Computer Science</organization>
+<address>
+<postal>
+<street>545 Technology Square</street>
+<street>Room 418</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02139</code>
+<country>US</country></postal></address></author>
+<date year='1987' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='1013' />
+<format type='TXT' octets='244905' target='http://www.rfc-editor.org/rfc/rfc1013.txt' />
+</reference>

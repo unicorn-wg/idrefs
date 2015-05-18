@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0897'>
+
+<front>
+<title abbrev='Domain Implementation Schedule'>Domain name system implementation schedule</title>
+<author initials='J.' surname='Postel' fullname='J. Postel'>
+<organization>University of Southern California (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<date year='1984' day='1' month='February' /></front>
+
+<seriesInfo name='RFC' value='897' />
+<format type='TXT' octets='15683' target='http://www.rfc-editor.org/rfc/rfc897.txt' />
+</reference>

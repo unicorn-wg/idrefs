@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1097'>
+
+<front>
+<title abbrev='SUBLIMINAL'>Telnet subliminal-message option</title>
+<author initials='B.' surname='Miller' fullname='B. Miller'>
+<organization>CMU-NetDev</organization></author>
+<date year='1989' day='1' month='April' /></front>
+
+<seriesInfo name='RFC' value='1097' />
+<format type='TXT' octets='5490' target='http://www.rfc-editor.org/rfc/rfc1097.txt' />
+</reference>

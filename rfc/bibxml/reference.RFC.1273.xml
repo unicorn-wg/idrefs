@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1273'>
+
+<front>
+<title abbrev='A Measurement Study'>Measurement Study of Changes in Service-Level Reachability in the Global TCP/IP Internet: Goals, Experimental Design, Implementation, and Policy Considerations</title>
+<author initials='M.' surname='Schwartz' fullname='Michael F. Schwartz'>
+<organization>University of Colorado, Department of Computer Science</organization>
+<address>
+<postal>
+<street>Campus Box 430</street>
+<city>Boulder</city>
+<region>CO</region>
+<code>80309-0430</code>
+<country>US</country></postal>
+<phone>+1 303 492 3902</phone>
+<email>schwartz@cs.colorado.edu</email></address></author>
+<date year='1991' day='1' month='November' />
+<abstract>
+<t>In this report we discuss plans to carry out a longitudinal measurement study of changes in service-level reachability in the global TCP/IP Internet.  We overview our experimental design, considerations of network and remote site load, mechanisms used to control the measurement collection process, and network appropriate use and privacy issues, including our efforts to inform sites measured by this study.  A list of references and information on how to contact the Principal Investigator are included.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1273' />
+<format type='TXT' octets='19949' target='http://www.rfc-editor.org/rfc/rfc1273.txt' />
+</reference>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1743'>
+
+<front>
+<title>IEEE 802.5 MIB using SMIv2</title>
+<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
+<organization>cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134-1706</code>
+<country>US</country></postal>
+<phone>+1 408 526 5260</phone>
+<email>kzm@cisco.com</email></address></author>
+<author initials='E.' surname='Decker' fullname='Eric B. Decker'>
+<organization>cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>1525 O'Brien Dr.</street>
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<phone>+1 415 688 8241</phone>
+<email>cire@cisco.com</email></address></author>
+<date year='1994' month='December' /></front>
+
+<seriesInfo name='RFC' value='1743' />
+<format type='TXT' octets='43224' target='http://www.rfc-editor.org/rfc/rfc1743.txt' />
+</reference>

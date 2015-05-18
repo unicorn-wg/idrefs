@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6902'>
+
+<front>
+<title>JavaScript Object Notation (JSON) Patch</title>
+<author initials='P.' surname='Bryan' fullname='P. Bryan'>
+<organization /></author>
+<author initials='M.' surname='Nottingham' fullname='M. Nottingham'>
+<organization /></author>
+<date year='2013' month='April' />
+<abstract>
+<t>JSON Patch defines a JSON document structure for expressing a sequence of operations to apply to a JavaScript Object Notation (JSON) document; it is suitable for use with the HTTP PATCH method.  The "application/json-patch+json" media type is used to identify such patch documents.</t></abstract></front>
+
+<seriesInfo name='RFC' value='6902' />
+<format type='TXT' octets='26405' target='http://www.rfc-editor.org/rfc/rfc6902.txt' />
+</reference>

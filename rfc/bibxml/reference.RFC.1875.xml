@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1875'>
+
+<front>
+<title>UNINETT PCA Policy Statements</title>
+<author initials='N.' surname='Berge' fullname='Nils Harald Berge'>
+<organization>Norwegian Computing Center</organization>
+<address>
+<postal>
+<street>Gaustadallien 23</street>
+<street>P.O.Box 114 Blindern</street>
+<city>Oslo</city>
+<region />
+<code>N-0314</code>
+<country>NO</country></postal>
+<phone>+47 22 852500</phone>
+<facsimile>+47 22 697660</facsimile>
+<email>Nils.Harald.Berge@nr.no</email></address></author>
+<date year='1995' month='December' /></front>
+
+<seriesInfo name='RFC' value='1875' />
+<format type='TXT' octets='19089' target='http://www.rfc-editor.org/rfc/rfc1875.txt' />
+</reference>

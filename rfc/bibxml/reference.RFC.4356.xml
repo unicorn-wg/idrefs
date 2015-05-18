@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4356'>
+
+<front>
+<title>Mapping Between the Multimedia Messaging Service (MMS) and Internet Mail</title>
+<author initials='R.' surname='Gellens' fullname='R. Gellens'>
+<organization /></author>
+<date year='2006' month='January' />
+<abstract>
+<t>The cellular telephone industry has defined a service known as the Multimedia Messaging Service (MMS). This service uses formats and protocols that are similar to, but differ in key ways from, those used in Internet mail.&lt;/t>&lt;t> One important difference between MMS and Internet Mail is that MMS uses headers that start with "X-Mms-" to carry a variety of user agent- and server-related information elements.&lt;/t>&lt;t> This document specifies how to exchange messages between these two services, including mapping information elements as used in MMS X-Mms-* headers as well as delivery and disposition reports, to and from that used in SMTP and Internet message headers. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='4356' />
+<format type='TXT' octets='69427' target='http://www.rfc-editor.org/rfc/rfc4356.txt' />
+</reference>

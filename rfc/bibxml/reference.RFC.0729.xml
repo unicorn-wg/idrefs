@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0729'>
+
+<front>
+<title>Telnet byte macro option</title>
+<author initials='D.' surname='Crocker' fullname='Dave Crocker'>
+<organization>Rand Corporation, ISD</organization>
+<address>
+<email>Dcrocker@Rand-Unix</email></address></author>
+<date year='1977' day='13' month='May' /></front>
+
+<seriesInfo name='RFC' value='729' />
+<format type='TXT' octets='6509' target='http://www.rfc-editor.org/rfc/rfc729.txt' />
+</reference>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1378'>
+
+<front>
+<title abbrev='PPP ATCP'>The PPP AppleTalk Control Protocol (ATCP)</title>
+<author initials='B.' surname='Parker' fullname='Brad Parker'>
+<organization>Cayman Systems, Inc.</organization>
+<address>
+<postal>
+<street>26 Landsdowne Street</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02139</code>
+<country>US</country></postal>
+<email>brad@cayman.com</email></address></author>
+<date year='1992' month='November' />
+<abstract>
+<t>The Point-to-Point Protocol (PPP)provides a standard method of encapsulating Network Layer protocol information over point-to-point links.  PPP also defines an extensible Link Control Protocol, and proposes a family of Network Control Protocols (NCPs) for establishing and configuring different network-layer protocols.</t>
+<t>This document defines the NCP for establishing and configuring the AppleTalk Protocolover PPP.</t>
+<t>This memo is a joint effort of the AppleTalk-IP Working Group and the Point-to-Point Protocol Working Group of the Internet Engineering Task Force (IETF).  Comments on this memo should be submitted to the ietf-ppp@ucdavis.edu mailing list.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1378' />
+<format type='TXT' octets='28496' target='http://www.rfc-editor.org/rfc/rfc1378.txt' />
+</reference>

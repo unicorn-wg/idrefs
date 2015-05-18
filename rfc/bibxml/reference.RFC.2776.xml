@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2776'>
+
+<front>
+<title abbrev='MZAP'>Multicast-Scope Zone Announcement Protocol (MZAP)</title>
+<author initials='M.' surname='Handley' fullname='Mark Handley'>
+<organization>AT&amp;T Center for Internet Research at ICSI</organization>
+<address>
+<postal>
+<street>1947 Center St</street>
+<street>Suite 600</street>
+<city>Berkeley</city>
+<region>CA</region>
+<code>94704</code>
+<country>US</country></postal>
+<email>mjh@aciri.org</email></address></author>
+<author initials='D.' surname='Thaler' fullname='David Thaler'>
+<organization>Microsoft</organization>
+<address>
+<postal>
+<street>One Microsoft Way</street>
+<city>Redmond</city>
+<region>WA</region>
+<code>98052</code>
+<country>US</country></postal>
+<email>dthaler@microsoft.com</email></address></author>
+<author initials='R.' surname='Kermode' fullname='Roger Kermode'>
+<organization>Motorola Australian Research Centre</organization>
+<address>
+<postal>
+<street>12 Lord St</street>
+<city>Botany</city>
+<region>NSW</region>
+<code>2019</code>
+<country>AU</country></postal>
+<email>Roger.Kermode@motorola.com</email></address></author>
+<date year='2000' month='February' />
+<abstract>
+<t>This document defines a protocol, the Multicast-Scope Zone Announcement Protocol (MZAP), for discovering the multicast administrative scope zones that are relevant at a particular location.  MZAP also provides mechanisms whereby common misconfigurations of administrative scope zones can be discovered.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2776' />
+<format type='TXT' octets='61628' target='http://www.rfc-editor.org/rfc/rfc2776.txt' />
+</reference>

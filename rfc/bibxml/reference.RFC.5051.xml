@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5051'>
+
+<front>
+<title>i;unicode-casemap - Simple Unicode Collation Algorithm</title>
+<author initials='M.' surname='Crispin' fullname='M. Crispin'>
+<organization /></author>
+<date year='2007' month='October' />
+<abstract>
+<t>This document describes "i;unicode-casemap", a simple case-insensitive collation for Unicode strings.  It provides equality, substring, and ordering operations. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='5051' />
+<format type='TXT' octets='14965' target='http://www.rfc-editor.org/rfc/rfc5051.txt' />
+</reference>

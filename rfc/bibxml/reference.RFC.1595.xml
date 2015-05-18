@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1595'>
+
+<front>
+<title abbrev='SONET/SDH Objects'>Definitions of Managed Objects for the SONET/SDH Interface Type</title>
+<author initials='T.' surname='Brown' fullname='Tracy A. Brown'>
+<organization>Bell Communications Research</organization>
+<address>
+<postal>
+<street>331 Newman Springs Road</street>
+<street>P.O. Box 7020</street>
+<city>Red Bank</city>
+<region>NJ</region>
+<code>07701-7020</code>
+<country>US</country></postal>
+<phone>+1 908 758 2107</phone>
+<email>tacox@mail.bellcore.com</email></address></author>
+<author initials='K.' surname='Tesink' fullname='Kaj Tesink'>
+<organization>Bell Communications Research</organization>
+<address>
+<postal>
+<street>331 Newman Springs Road</street>
+<street>P.O. Box 7020</street>
+<city>Red Bank</city>
+<region>NJ</region>
+<code>07701-7020</code>
+<country>US</country></postal>
+<phone>+1 908 758 5254</phone>
+<email>kaj@cc.bellcore.com</email></address></author>
+<date year='1994' month='March' />
+<abstract>
+<t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets. In particular, it defines objects for managing Synchronous Optical Network/Synchronous Digital Hierarchy (SONET/SDH) objects.  This document is a companion document with Definitions of Managed Objects for the DS1/E1 and DS3/E3 Interface Types, RFC1406and RFC1407.</t>
+<t>This memo specifies a MIB module in a manner that is both compliant to the SNMPv2 SMI, and semantically identical to the peer SNMPv1 definitions.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1595' />
+<format type='TXT' octets='121937' target='http://www.rfc-editor.org/rfc/rfc1595.txt' />
+</reference>

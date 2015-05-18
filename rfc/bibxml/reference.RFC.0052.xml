@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0052'>
+
+<front>
+<title>Updated distribution list</title>
+<author initials='J.' surname='Postel' fullname='J. Postel'>
+<organization>University California Los Angeles (UCLA)</organization></author>
+<author initials='S.' surname='Crocker' fullname='S. Crocker'>
+<organization>University California Los Angeles (UCLA)</organization></author>
+<date year='1970' day='1' month='July' /></front>
+
+<seriesInfo name='RFC' value='52' />
+<format type='TXT' octets='5088' target='http://www.rfc-editor.org/rfc/rfc52.txt' />
+</reference>

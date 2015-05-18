@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2361'>
+
+<front>
+<title>WAVE and AVI Codec Registries</title>
+<author initials='E.' surname='Fleischman' fullname='Eric Fleischman'>
+<organization>Microsoft Corporation</organization>
+<address>
+<postal>
+<street>One Microsoft Way</street>
+<street>Redmond</street>
+<street>WA 98052-6399</street>
+<country>USA</country></postal>
+<email>ericfl@microsoft.com</email>
+<uri>http://www.microsoft.com/asf/</uri></address></author>
+<date year='1998' month='June' />
+<area>Applications</area>
+<keyword>audio</keyword>
+<keyword>video</keyword>
+<abstract>
+<t>
+   Internet applications may reference specific codecs within the WAVE
+   and AVI registries as follows:
+
+<list>
+<t>
+   * video/vnd.avi; codec=XXX identifies a specific video codec (i.e.,
+     XXX) within the AVI Registry.
+</t>
+<t>
+   * audio/vnd.wave; codec=YYY identifies a specific audio codec
+     (i.e., YYY) within the WAVE Registry.
+</t></list></t>
+<t>
+   Appendix A and Appendix B provides an authoritative reference for the
+   interpretation of the required &quot;codec&quot; parameter. That is, the
+   current set of audio codecs that are registered within the WAVE
+   Registry are enumerated in Appendix A. Appendix B enumerates the
+   current set of video codecs that have been registered to date within
+   the AVI Registry.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2361' />
+<format type='TXT' octets='97796' target='http://www.rfc-editor.org/rfc/rfc2361.txt' />
+<format type='XML' octets='89069' target='http://xml.resource.org/public/rfc/xml/rfc2361.xml' />
+</reference>

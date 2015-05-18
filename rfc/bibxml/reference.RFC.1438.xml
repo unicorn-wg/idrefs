@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1438'>
+
+<front>
+<title abbrev='IETF SOBs'>Internet Engineering Task Force Statements Of Boredom (SOBs)</title>
+<author initials='A.L.' surname='Chapin' fullname='A. Lyman Chapin'>
+<organization>Bolt, Beranek &amp; Newman</organization>
+<address>
+<postal>
+<street>150 Cambridge Park Drive</street>
+<street>Mail Stop 20/5b</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02140</code>
+<country>US</country></postal>
+<phone>+1 617 873 3133</phone>
+<email>Lyman@BBN.COM</email></address></author>
+<author initials='C.' surname='Huitema' fullname='Christian Huitema'>
+<organization>INRIA, Sophia-Antipolis</organization>
+<address>
+<postal>
+<street>2004 Route des Lucioles</street>
+<street>BP 109</street>
+<city>Valbonne Cedex</city>
+<code>F-06561</code>
+<country>FR</country></postal>
+<phone>+33 93 657715</phone>
+<email>Christian.Huitema@MIRSA.INRIA.FR</email></address></author>
+<date year='1993' day='1' month='April' /></front>
+
+<seriesInfo name='RFC' value='1438' />
+<format type='TXT' octets='3044' target='http://www.rfc-editor.org/rfc/rfc1438.txt' />
+</reference>

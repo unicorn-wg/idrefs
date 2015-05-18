@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0965'>
+
+<front>
+<title>Format for a graphical communication protocol</title>
+<author initials='L.' surname='Aguilar' fullname='Lorenzo Aguilar'>
+<organization>SRI International</organization></author>
+<date year='1985' day='1' month='December' />
+<abstract>
+<t>This paper describes the requirements for a graphical format on which to base a graphical on-line communication protocol. It is argued that on-line graphical communication is similar to graphical session capture, and thus we propose an Interactive Graphical Communication Format using the GKSM session metafile.</t>
+<t>We discuss the items that we believe complement the GKSM metafile as a format for on-line interactive exchanges. One key application area of such a format is multi-media on-line conferencing; therefore, we  present a conferencing software architecture for processing the proposed format. We make this format specification available to those planning multi-media conferencing systems as a contribution toward the development of a graphical communication protocol that will permit the interoperation of these systems.</t>
+<t>We hope this contribution will encourage the discussion of multimedia data exchange and the proposal of solutions. At SRI, we stay open to the exploration of alternatives and we will continue our research and development work in this problem area.</t></abstract></front>
+
+<seriesInfo name='RFC' value='965' />
+<format type='TXT' octets='105456' target='http://www.rfc-editor.org/rfc/rfc965.txt' />
+</reference>

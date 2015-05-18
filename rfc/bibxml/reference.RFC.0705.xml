@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0705'>
+
+<front>
+<title>Front-end Protocol B6700 version</title>
+<author initials='R.' surname='Bryan' fullname='Roland Bryan'>
+<organization>University of Southern California (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone>
+<email>BRYAN@ISI</email></address></author>
+<author initials='G.' surname='Bailey' fullname='Gerald Bailey'>
+<organization>NSA</organization></author>
+<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
+<organization>NSA</organization></author>
+<author initials='D.' surname='Grothe' fullname='David Grothe'>
+<organization>ACC</organization></author>
+<date year='1975' day='5' month='November' />
+<abstract>
+<t>This is a working document which has been developed as the specification and guideline for design of a Burroughs B6700 attachment to an ARPA-Style network.</t>
+<t>The approach is to utilize a front-end processor with a new protocol for network operation.  That protocol, described herein, has been built upon the concepts expressed by M.A. Padlipsky, et al, in NIC# 31117, RFC# 647..</t>
+<t>This proposed, site-specific, FEP implementation is the work of Gerald Bailey and Keith McCloghrie of NSA and of David Grothe of ACC.  It has already sustained some corrections provided by MAP.  It will be helpful if interested networkers will review and provide comments to us.</t></abstract></front>
+
+<seriesInfo name='RFC' value='705' />
+<format type='TXT' octets='70998' target='http://www.rfc-editor.org/rfc/rfc705.txt' />
+</reference>

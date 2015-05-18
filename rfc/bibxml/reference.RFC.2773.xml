@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2773'>
+
+<front>
+<title>Encryption using KEA and SKIPJACK</title>
+<author initials='R.' surname='Housley' fullname='Russell Housley'>
+<organization>SPYRUS</organization>
+<address>
+<postal>
+<street>381 Elden Street</street>
+<street>Suite 1120</street>
+<city>Herndon</city>
+<region>VA</region>
+<code>20170</code>
+<country>US</country></postal>
+<phone>+1 703 707 0696</phone>
+<email>housley@spyrus.com</email></address></author>
+<author initials='P.' surname='Yee' fullname='Peter Yee'>
+<organization>SPYRUS</organization>
+<address>
+<postal>
+<street>5303 Betsy Ross Drive</street>
+<city>Santa Clara</city>
+<region>CA</region>
+<code>95054</code>
+<country>US</country></postal>
+<phone>+1 408 327 1901</phone>
+<email>yee@spyrus.com</email></address></author>
+<date year='2000' month='February' />
+<abstract>
+<t>This document defines a method to encrypt a file transfer using the FTP specification STD 9, RFC 959, "File Transfer Protocol (FTP)", (October 1985)and RFC 2228, "FTP Security Extensions" (October 1997). This method will use the Key Exchange Algorithm (KEA) to give mutual authentication and establish the data encryption keys.  SKIPJACK is used to encrypt file data and the FTP command channel.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2773' />
+<format type='TXT' octets='20008' target='http://www.rfc-editor.org/rfc/rfc2773.txt' />
+</reference>

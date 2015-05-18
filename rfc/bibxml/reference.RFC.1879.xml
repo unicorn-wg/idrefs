@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1879'>
+
+<front>
+<title abbrev='Class A Subnet Experiment'>Class A Subnet Experiment Results and Recommendations</title>
+<author initials='B.' surname='Manning' fullname='Bill Manning'>
+<organization>University of Southern California, Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292-6695</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511 x387</phone>
+<facsimile>+1 310 823 6714</facsimile>
+<email>bmanning@isi.edu</email></address></author>
+<date year='1996' month='January' /></front>
+
+<seriesInfo name='RFC' value='1879' />
+<format type='TXT' octets='10589' target='http://www.rfc-editor.org/rfc/rfc1879.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5955'>
+
+<front>
+<title>The application/timestamped-data Media Type</title>
+<author initials='A.' surname='Santoni' fullname='A. Santoni'>
+<organization /></author>
+<date year='2010' month='August' />
+<abstract>
+<t>This document defines a new media type for TimeStampedData envelopes as described in RFC 5544.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t></abstract></front>
+
+<seriesInfo name='RFC' value='5955' />
+<format type='TXT' octets='4527' target='http://www.rfc-editor.org/rfc/rfc5955.txt' />
+</reference>

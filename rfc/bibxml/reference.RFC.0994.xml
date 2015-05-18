@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0994'>
+
+<front>
+<title abbrev='ISO 8473'>Final text of DIS 8473, Protocol for Providing the Connectionless-mode Network Service</title>
+<author>
+<organization>International Organization for Standardization (ISO)</organization></author>
+<author>
+<organization>American National Standards Institute (ANSI)</organization></author>
+<date year='1986' day='1' month='March' /></front>
+
+<seriesInfo name='RFC' value='994' />
+<format type='TXT' octets='129006' target='http://www.rfc-editor.org/rfc/rfc994.txt' />
+</reference>

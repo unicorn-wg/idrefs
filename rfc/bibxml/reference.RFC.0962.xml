@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0962'>
+
+<front>
+<title>TCP-4 prime</title>
+<author initials='M.A.' surname='Padlipsky' fullname='M.A. Padlipsky'>
+<organization>Mitre-Bedford</organization></author>
+<date year='1985' day='1' month='November' /></front>
+
+<seriesInfo name='RFC' value='962' />
+<format type='TXT' octets='2773' target='http://www.rfc-editor.org/rfc/rfc962.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0423'>
+
+<front>
+<title>UCLA Campus Computing Network Liaison Staff for ARPANET</title>
+<author initials='B.' surname='Noble' fullname='Barbara B. Noble'>
+<organization>University of California, Los Angeles (UCLA), Campus Computing Network (CCN)</organization>
+<address>
+<phone>+1 213 825 7438</phone></address></author>
+<date year='1972' day='12' month='December' /></front>
+
+<seriesInfo name='RFC' value='423' />
+<format type='TXT' octets='2890' target='http://www.rfc-editor.org/rfc/rfc423.txt' />
+</reference>

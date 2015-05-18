@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1796'>
+
+<front>
+<title>Not All RFCs are Standards</title>
+<author initials='C.' surname='Huitema' fullname='Christian Huitema'>
+<organization>INRIA, Sophia-Antipolis</organization>
+<address>
+<postal>
+<street>2004 Route des Lucioles</street>
+<street>BP 109</street>
+<city>Valbonne Cedex</city>
+<region />
+<code>F-06561</code>
+<country>FR</country></postal>
+<phone>+33 93 657715</phone>
+<email>Christian.Huitema@MIRSA.INRIA.FR</email></address></author>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511</phone>
+<email>Postel@ISI.EDU</email></address></author>
+<author initials='S.' surname='Crocker' fullname='Steve Crocker'>
+<organization>CyberCash, Inc.</organization>
+<address>
+<postal>
+<street>2086 Hunters Crest Way</street>
+<city>Vienna</city>
+<region>VA</region>
+<code>22181</code>
+<country>US</country></postal>
+<phone>+1 703 620 1222</phone>
+<email>crocker@cybercash.com</email></address></author>
+<date year='1995' month='April' />
+<abstract>
+<t>This document discusses the relationship of the Request for Comments (RFCs) notes to Internet Standards.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1796' />
+<format type='TXT' octets='7049' target='http://www.rfc-editor.org/rfc/rfc1796.txt' />
+</reference>

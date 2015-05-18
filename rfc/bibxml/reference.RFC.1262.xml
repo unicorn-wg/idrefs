@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1262'>
+
+<front>
+<title abbrev='Measurement Guidelines'>Guidelines for Internet Measurement Activities</title>
+<author initials='V.' surname='Cerf' fullname='Vinton G. Cerf'>
+<organization>Corporation for National Research Initiatives (CNRI), Internet Activities Board (IAB)</organization>
+<address>
+<postal>
+<street>1895 Preston White Drive</street>
+<street>Suite 100</street>
+<city>Reston</city>
+<region>VA</region>
+<code>22091</code>
+<country>US</country></postal>
+<phone>+1 703 620 8990</phone>
+<email>VCerf@NRI.RESTON.VA.US</email></address></author>
+<date year='1991' day='1' month='October' /></front>
+
+<seriesInfo name='RFC' value='1262' />
+<format type='TXT' octets='6381' target='http://www.rfc-editor.org/rfc/rfc1262.txt' />
+</reference>

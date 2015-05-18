@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0614'>
+
+<front>
+<title>Response to RFC 607: "Comments on the File Transfer Protocol"</title>
+<author initials='K.' surname='Pogran' fullname='K. Pogran'>
+<organization>Massachusetts Institute of Technology (MIT), Multics</organization></author>
+<author initials='N.' surname='Neigus' fullname='N. Neigus'>
+<organization>Bolt Beranek and Newman Inc. (BBN), Network Control Center (NET)</organization></author>
+<date year='1974' day='28' month='January' /></front>
+
+<seriesInfo name='RFC' value='614' />
+<format type='TXT' octets='11409' target='http://www.rfc-editor.org/rfc/rfc614.txt' />
+</reference>

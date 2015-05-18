@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1761'>
+
+<front>
+<title abbrev='Snoop Packet Capture File Format'>Snoop Version 2 Packet Capture File Format</title>
+<author initials='B.' surname='Callaghan' fullname='Brent Callaghan'>
+<organization>Sun Microsystems, Inc.</organization>
+<address>
+<postal>
+<street>2550 Garcia Avenue</street>
+<street>Mailstop UMTV05-44</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043-1100</code>
+<country>US</country></postal>
+<phone>+1 415 336 1051</phone>
+<email>brent.callaghan@eng.sun.com</email></address></author>
+<author initials='R.E.' surname='Gilligan' fullname='Robert E. Gilligan'>
+<organization>Sun Microsystems, Inc.</organization>
+<address>
+<postal>
+<street>2550 Garcia Avenue</street>
+<street>Mailstop UMTV05-44</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043-1100</code>
+<country>US</country></postal>
+<phone>+1 415 336 1012</phone>
+<email>bob.gilligan@eng.sun.com</email></address></author>
+<date year='1995' month='February' />
+<abstract>
+<t>This paper describes the file format used by "snoop", a packet monitoring and capture program developed by Sun.  This paper is provided so that people can write compatible programs to generate and interpret snoop packet capture files.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1761' />
+<format type='TXT' octets='10761' target='http://www.rfc-editor.org/rfc/rfc1761.txt' />
+</reference>

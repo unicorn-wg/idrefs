@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2406'>
+
+<front>
+<title>IP Encapsulating Security Payload (ESP)</title>
+<author initials='S.' surname='Kent' fullname='Stephen Kent'>
+<organization>BBN Corporation</organization>
+<address>
+<postal>
+<street>70 Fawcett Street</street>
+<street>Cambridge</street>
+<street>MA  02140</street>
+<country>USA</country></postal>
+<phone>+1 (617) 873-3988</phone>
+<email>kent@bbn.com</email></address></author>
+<author initials='R.' surname='Atkinson' fullname='Randall Atkinson'>
+<organization>@Home Network</organization>
+<address>
+<postal>
+<street>425 Broadway</street>
+<street>Redwood City</street>
+<street>CA  94063</street>
+<country>USA</country></postal>
+<phone>+1 (415) 569-5000</phone>
+<email>rja@corp.home.net</email></address></author>
+<date year='1998' month='November' />
+<area>Security</area>
+<area>Internet</area>
+<keyword>IP security protocol</keyword>
+<keyword>encapsulate</keyword>
+<keyword>encapsulating security payload</keyword>
+<keyword>internet protocol version 6</keyword>
+<keyword>security</keyword></front>
+
+<seriesInfo name='RFC' value='2406' />
+<format type='TXT' octets='54202' target='http://www.rfc-editor.org/rfc/rfc2406.txt' />
+<format type='XML' octets='54023' target='http://xml.resource.org/public/rfc/xml/rfc2406.xml' />
+</reference>

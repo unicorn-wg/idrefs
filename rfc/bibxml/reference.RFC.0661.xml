@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0661'>
+
+<front>
+<title>Protocol information</title>
+<author initials='J.' surname='Postel' fullname='J. Postel'>
+<organization /></author>
+<date year='1974' month='November' />
+<abstract>
+<t>An old version; see RFC 694.</t></abstract></front>
+
+<seriesInfo name='RFC' value='661' />
+<format type='TXT' octets='29534' target='http://www.rfc-editor.org/rfc/rfc661.txt' />
+<format type='PDF' octets='1071305' target='http://www.rfc-editor.org/rfc/rfc661.pdf' />
+</reference>

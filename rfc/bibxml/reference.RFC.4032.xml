@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4032'>
+
+<front>
+<title>Update to the Session Initiation Protocol (SIP) Preconditions Framework</title>
+<author initials='G.' surname='Camarillo' fullname='G. Camarillo'>
+<organization /></author>
+<author initials='P.' surname='Kyzivat' fullname='P. Kyzivat'>
+<organization /></author>
+<date year='2005' month='March' />
+<abstract>
+<t>This document updates RFC 3312, which defines the framework for preconditions in SIP.  We provide guidelines for authors of new precondition types and describe how to use SIP preconditions in situations that involve session mobility. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='4032' />
+<format type='TXT' octets='20492' target='http://www.rfc-editor.org/rfc/rfc4032.txt' />
+</reference>

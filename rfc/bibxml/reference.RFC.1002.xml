@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1002'>
+
+<front>
+<title>Protocol standard for a NetBIOS service on a TCP/UDP transport: Detailed specifications</title>
+<author>
+<organization>NetBIOS Working Group</organization></author>
+<date year='1987' day='1' month='March' />
+<abstract>
+<t>This RFC defines a proposed standard protocol to support NetBIOS services in a TCP/IP environment.  Both local network and internet operation are supported.  Various node types are defined to accommodate local and internet topologies and to allow operation with or without the use of IP broadcast.</t>
+<t>This RFC gives the detailed specifications of the NetBIOS-over-TCP packets, protocols, and defined constants and variables.  A more general overview is found in a companion RFC, "Protocol Standard For a NetBIOS Service on a TCP/UDP Transport: Concepts and Methods".</t></abstract></front>
+
+<seriesInfo name='STD' value='19' />
+<seriesInfo name='RFC' value='1002' />
+<format type='TXT' octets='170262' target='http://www.rfc-editor.org/rfc/rfc1002.txt' />
+</reference>

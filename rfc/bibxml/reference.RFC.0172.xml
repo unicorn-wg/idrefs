@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0172'>
+
+<front>
+<title>The File Transfer Protocol</title>
+<author initials='A.' surname='Bhushan' fullname='Abhay Bhushan'>
+<organization>Massachusetts Institute of Technology (MIT)</organization></author>
+<author initials='B.' surname='Braden' fullname='Bob Braden'>
+<organization>University of California, Los Angeles (UCLA)</organization></author>
+<author initials='W.' surname='Crowther' fullname='Will Crowther'>
+<organization>Bolt Beranek and Newman (BBN)</organization></author>
+<author initials='E.' surname='Harslem' fullname='Eric Harslem'>
+<organization>The Rand Corporation</organization></author>
+<author initials='J.' surname='Heafner' fullname='John Heafner'>
+<organization>The Rand Corporation</organization></author>
+<author initials='A.' surname='McKenzie' fullname='Alex McKenzie'>
+<organization>Bolt Beranek and Newman (BBN)</organization></author>
+<author initials='J.' surname='Melvin' fullname='John Melvin'>
+<organization>Stanford Research Institute (SRI)</organization></author>
+<author initials='B.' surname='Sundberg' fullname='Bob Sundberg'>
+<organization>Harvard University</organization></author>
+<author initials='D.' surname='Watson' fullname='Dick Watson'>
+<organization>Stanford Research Institute (SRI)</organization></author>
+<author initials='J.' surname='White' fullname='Jim White'>
+<organization>University of California, Santa Barbara (UCSB)</organization></author>
+<date year='1971' day='23' month='June' /></front>
+
+<seriesInfo name='RFC' value='172' />
+<format type='TXT' octets='21328' target='http://www.rfc-editor.org/rfc/rfc172.txt' />
+</reference>

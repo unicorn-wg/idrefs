@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6445'>
+
+<front>
+<title>Multiprotocol Label Switching (MPLS) Traffic Engineering Management Information Base for Fast Reroute</title>
+<author initials='T.' surname='Nadeau' fullname='T. Nadeau'>
+<organization /></author>
+<author initials='A.' surname='Koushik' fullname='A. Koushik'>
+<organization /></author>
+<author initials='R.' surname='Cetin' fullname='R. Cetin'>
+<organization /></author>
+<date year='2011' month='November' />
+<abstract>
+<t>This memo defines a portion of the Management Information Base for use with network management protocols in the Internet community.  In particular, it describes managed objects used to support two fast reroute (FRR) methods for Multiprotocol Label Switching (MPLS)-based traffic engineering (TE).  The two methods are the one-to-one backup method and the facility backup method. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='6445' />
+<format type='TXT' octets='101627' target='http://www.rfc-editor.org/rfc/rfc6445.txt' />
+</reference>

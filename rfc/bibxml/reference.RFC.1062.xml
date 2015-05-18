@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1062'>
+
+<front>
+<title abbrev='Internet Numbers'>Internet numbers</title>
+<author initials='S.' surname='Romano' fullname='S. Romano'>
+<organization /></author>
+<author initials='M.' surname='Stahl' fullname='M. Stahl'>
+<organization /></author>
+<author initials='M.' surname='Recker' fullname='M. Recker'>
+<organization /></author>
+<date year='1988' day='1' month='August' /></front>
+
+<seriesInfo name='RFC' value='1062' />
+<format type='TXT' octets='198729' target='http://www.rfc-editor.org/rfc/rfc1062.txt' />
+</reference>

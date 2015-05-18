@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1209'>
+
+<front>
+<title>Transmission of IP datagrams over the SMDS Service</title>
+<author initials='D.' surname='Piscitello' fullname='Dave Piscitello'>
+<organization>Bell Communications Research</organization>
+<address>
+<postal>
+<street>331 Newman Springs Road</street>
+<city>Red Bank</city>
+<region>NJ</region>
+<code>07701</code>
+<country>US</country></postal>
+<phone>+1 908 758 2286</phone>
+<email>dave@sabre.bellcore.com</email></address></author>
+<author initials='J.' surname='Lawrence' fullname='Joseph Lawrence'>
+<organization>Bell Communications Research</organization>
+<address>
+<postal>
+<street>331 Newman Springs Road</street>
+<city>Red Bank</city>
+<region>NJ</region>
+<code>07701</code>
+<country>US</country></postal>
+<phone>+1 908 758 4146</phone>
+<email>jcl@sabre.bellcore.com</email></address></author>
+<date year='1991' day='1' month='March' />
+<abstract>
+<t>This memo describes an initial use of IP and ARP in an SMDS service environment configured as a logical IP subnetwork, LIS (described below).  The encapsulation method used is described, as well as various service-specific issues.  This memo does not preclude subsequent treatment of the SMDS Service in configurations other than LIS; specifically, public or inter-company, inter-enterprise configurations may be treated differently and will be described in future documents.  This document considers only directly connected IP end-stations or routers; issues raised by MAC level bridging are beyond the scope of this paper.</t></abstract></front>
+
+<seriesInfo name='STD' value='52' />
+<seriesInfo name='RFC' value='1209' />
+<format type='TXT' octets='25280' target='http://www.rfc-editor.org/rfc/rfc1209.txt' />
+</reference>

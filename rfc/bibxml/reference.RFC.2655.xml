@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2655'>
+
+<front>
+<title>CIP Index Object Format for SOIF Objects</title>
+<author initials='T.' surname='Hardie' fullname='Ted Hardie'>
+<organization>Equinix</organization>
+<address>
+<postal>
+<street>901 Marshall Street</street>
+<city>Redwood City</city>
+<region>CA</region>
+<code>94063</code>
+<country>US</country></postal>
+<email>hardie@equinix.com</email></address></author>
+<author initials='M.' surname='Bowman' fullname='Mic Bowman'>
+<organization>Transarc Corporation</organization>
+<address>
+<postal>
+<street>The Gulf Tower</street>
+<street>707 Grant Street</street>
+<city>Pittsburgh</city>
+<region>PA</region>
+<code>15219</code>
+<country>US</country></postal>
+<phone>+1 412 338 4400</phone>
+<email>mic@transarc.com</email></address></author>
+<author initials='D.' surname='Hardy' fullname='Darren Hardy'>
+<organization>Netscape Communications Corp.</organization>
+<address>
+<postal>
+<street>685 Eeast Middlefield Road</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<phone>+1 415 937 2555</phone>
+<email>dhardy@netscape.com</email></address></author>
+<author initials='M.' surname='Schwartz' fullname='Mike Schwartz'>
+<organization>Affinia, Inc.</organization>
+<address>
+<postal>
+<street>621 17th Street</street>
+<street>Suite 1700</street>
+<city>Denver</city>
+<region>CO</region>
+<code>80293</code>
+<country>US</country></postal>
+<phone>+1 303 292 4818</phone>
+<email>mfs@affinia.net</email></address></author>
+<author initials='D.' surname='Wessels' fullname='Duane Wessels'>
+<organization>National Laboratory for Applied Network Research</organization>
+<address>
+<phone>+1 303 497 1822</phone>
+<email>wessels@nlanr.net</email></address></author>
+<date year='1999' month='August' />
+<abstract>
+<t>The Common Indexing Protocol (CIP) allows servers to form a referral mesh for query handling by defining a mechanism by which cooperating servers exchange hints about the searchable indices they maintain. The structure and transport of CIP are described in, as are general rules for the definition of index object types. This document describes SOIF, the Summary Object Interchange Format, as an index object type in the context of the CIP framework. SOIF is a machine-readable syntax for transmitting structured summary objects, currently used primarily in the context of the World Wide Web.</t>
+<t>Query referral has often been dismissed as an ineffective strategy for handling searches of Web resources, and Web resources certainly present challenges not present in structured directory services like Rwhois. In situations where a keyword-based free text search is desired, query referral is not likely to be effective because the query will probably be routed to every server participating in the referral mesh. Where a search can be limited by reference to a specific resource attribute, however, query referral is an effective tool. SOIF can be used to create such a known-attribute query mesh because it provides a method for associating attributes with net addressable resources.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2655' />
+<format type='TXT' octets='34285' target='http://www.rfc-editor.org/rfc/rfc2655.txt' />
+</reference>

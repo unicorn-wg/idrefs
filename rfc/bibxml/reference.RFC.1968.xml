@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1968'>
+
+<front>
+<title>The PPP Encryption Control Protocol (ECP)</title>
+<author initials='G.' surname='Meyer' fullname='Gerry Meyer'>
+<organization>Spider Systems</organization>
+<address>
+<postal>
+<street>Stanwell Street</street>
+<city>Edinburgh</city>
+<region>Scotland</region>
+<code>EH6 5NG</code>
+<country>UK</country></postal>
+<phone>+44 131 5549424</phone>
+<facsimile>+44 131 5540649</facsimile>
+<email>gerry@spider.co.uk</email></address></author>
+<author initials='K.' surname='Fox' fullname='Karl Fox'>
+<organization>Ascend Communications</organization>
+<address>
+<postal>
+<street>3518 Riverside Drive</street>
+<street>Suite 101</street>
+<city>Columbus</city>
+<region>OH</region>
+<code>43221</code>
+<country>US</country></postal>
+<email>karl@ascend.com</email></address></author>
+<date year='1996' month='June' />
+<abstract>
+<t>The Point-to-Point Protocol (PPP)
+provides a standard method for transporting multi-protocol datagrams over point-to-point links.  PPP also defines an extensible Link Control Protocol.</t>
+<t>This document defines a method for negotiating data encryption over PPP links.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1968' />
+<format type='TXT' octets='20781' target='http://www.rfc-editor.org/rfc/rfc1968.txt' />
+</reference>

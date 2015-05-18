@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1672'>
+
+<front>
+<title>Accounting Requirements for IPng</title>
+<author initials='N.' surname='Brownlee' fullname='Nevil Brownlee'>
+<organization>The University of Auckland, Computer Centre</organization>
+<address>
+<postal>
+<street>Private Bag 92019</street>
+<city>Auckland</city>
+<region />
+<code />
+<country>NZ</country></postal>
+<phone>+64 9 3737599</phone>
+<facsimile>+64 9 3737425</facsimile>
+<email>n.brownlee@auckland.ac.nz</email></address></author>
+<date year='1994' month='August' />
+<abstract>
+<t>This document was submitted to the IETF IPng area in response to RFC 1550.  Publication of this document does not imply acceptance by the IPng area of any ideas expressed within.  Comments should be submitted to the big-internet@munnari.oz.au mailing list.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1672' />
+<format type='TXT' octets='6185' target='http://www.rfc-editor.org/rfc/rfc1672.txt' />
+</reference>

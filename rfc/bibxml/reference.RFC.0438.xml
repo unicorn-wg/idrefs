@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0438'>
+
+<front>
+<title>FTP server-server interaction</title>
+<author initials='R.' surname='Thomas' fullname='R. Thomas'>
+<organization /></author>
+<author initials='R.' surname='Clements' fullname='R. Clements'>
+<organization /></author>
+<date year='1973' month='January' /></front>
+
+<seriesInfo name='RFC' value='438' />
+<format type='TXT' octets='6514' target='http://www.rfc-editor.org/rfc/rfc438.txt' />
+</reference>

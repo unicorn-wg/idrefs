@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0015'>
+
+<front>
+<title>Network subsystem for time sharing hosts</title>
+<author initials='C.' surname='Carr' fullname='C. Stephen Carr'>
+<organization>University of Utah</organization></author>
+<date year='1969' day='25' month='September' /></front>
+
+<seriesInfo name='RFC' value='15' />
+<format type='TXT' octets='10695' target='http://www.rfc-editor.org/rfc/rfc15.txt' />
+</reference>

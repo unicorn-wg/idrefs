@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1104'>
+
+<front>
+<title>Models of policy based routing</title>
+<author initials='H.' surname='Braun' fullname='Hans-Werner Braun'>
+<organization>University of Michigan, Merit Computer Network</organization>
+<address>
+<postal>
+<street>1075 Beal Avenue</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48109</code>
+<country>US</country></postal>
+<phone>+1 313 763 4897</phone>
+<facsimile>+1 313 747 3745</facsimile>
+<email>hwb@merit.edu</email></address></author>
+<date year='1989' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='1104' />
+<format type='TXT' octets='25468' target='http://www.rfc-editor.org/rfc/rfc1104.txt' />
+</reference>

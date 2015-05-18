@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7095'>
+
+<front>
+<title>jCard: The JSON Format for vCard</title>
+<author initials='P.' surname='Kewisch' fullname='P. Kewisch'>
+<organization /></author>
+<date year='2014' month='January' />
+<abstract>
+<t>This specification defines "jCard", a JSON format for vCard data.  The vCard data format is a text format for representing and exchanging information about individuals and other entities, for example, telephone numbers, email addresses, structured names, and delivery addresses.  JSON is a lightweight, text-based, language- independent data interchange format commonly used in Internet applications.</t></abstract></front>
+
+<seriesInfo name='RFC' value='7095' />
+<format type='TXT' octets='59088' target='http://www.rfc-editor.org/rfc/rfc7095.txt' />
+</reference>

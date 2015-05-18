@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0256'>
+
+<front>
+<title>IMPSYS change notification</title>
+<author initials='B.' surname='Cosell' fullname='B. Cosell'>
+<organization>Bolt Baranek and Newman (BBN)</organization></author>
+<date year='1971' day='3' month='November' />
+<abstract>
+<t>We will shortly install (or perhaps will have already installed) a new version of the IMP system, Version 2513.  The new version incorporates two principal changes:</t></abstract></front>
+
+<seriesInfo name='RFC' value='256' />
+<format type='TXT' octets='1240' target='http://www.rfc-editor.org/rfc/rfc256.txt' />
+</reference>

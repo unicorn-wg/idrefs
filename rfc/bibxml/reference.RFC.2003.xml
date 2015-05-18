@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2003'>
+
+<front>
+<title abbrev='IP-within-IP'>IP Encapsulation within IP</title>
+<author initials='C.' surname='Perkins' fullname='Charles Perkins'>
+<organization>Room H3-D34</organization>
+<address>
+<postal>
+<street>T. J. Watson Research Center</street>
+<street>IBM Corporation</street>
+<street>30 Saw Mill River Rd.</street>
+<street>Hawthorne</street>
+<street>NY  10532</street></postal>
+<facsimile>+1-914-784-6205</facsimile>
+<email>perk@watson.ibm.com</email></address></author>
+<date year='1996' month='October' />
+<area>Internet</area>
+<keyword>encapsulate</keyword>
+<keyword>mobile ip</keyword>
+<keyword>routing</keyword>
+<keyword>wireless</keyword>
+<abstract>
+<t>
+   This document specifies a method by which an IP datagram may be
+   encapsulated (carried as payload) within an IP datagram.
+   Encapsulation is suggested as a means to alter the normal IP routing
+   for datagrams, by delivering them to an intermediate destination that
+   would otherwise not be selected by the (network part of the) IP
+   Destination Address field in the original IP header.  Encapsulation
+   may serve a variety of purposes, such as delivery of a datagram to a
+   mobile node using Mobile IP.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2003' />
+<format type='TXT' octets='30291' target='http://www.rfc-editor.org/rfc/rfc2003.txt' />
+<format type='XML' octets='33602' target='http://xml.resource.org/public/rfc/xml/rfc2003.xml' />
+</reference>

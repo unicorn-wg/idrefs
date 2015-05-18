@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2435'>
+
+<front>
+<title abbrev='RTP Payload Format for JPEG'>RTP Payload Format for JPEG-compressed Video</title>
+<author initials='L.M.' surname='Berc' fullname='Lance M. Berc'>
+<organization>Systems Research Center</organization>
+<address>
+<postal>
+<street>Digital Equipment Corporation</street>
+<street>130 Lytton Ave</street>
+<street>Palo Alto CA 94301</street></postal>
+<phone>+1 650 853 2100</phone>
+<email>berc@pa.dec.com</email></address></author>
+<author initials='W.C.' surname='Fenner' fullname='William C. Fenner'>
+<organization>Xerox PARC</organization>
+<address>
+<postal>
+<street>3333 Coyote Hill Road</street>
+<street>Palo Alto</street>
+<street>CA 94304</street></postal>
+<phone>+1 650 812 4816</phone>
+<email>fenner@parc.xerox.com</email></address></author>
+<author initials='R.' surname='Frederick' fullname='Ron Frederick'>
+<organization>Xerox PARC</organization>
+<address>
+<postal>
+<street>3333 Coyote Hill Road</street>
+<street>Palo Alto</street>
+<street>CA 94304</street></postal>
+<phone>+1 650 812 4459</phone>
+<email>frederick@parc.xerox.com</email></address></author>
+<author initials='S.' surname='McCanne' fullname='Steven McCanne'>
+<organization>University of California at Berkeley</organization>
+<address>
+<postal>
+<street>Electrical Engineering and Computer Science</street>
+<street>633 Soda Hall</street>
+<street>Berkeley</street>
+<street>CA 94720</street></postal>
+<phone>+1 510 642 0865</phone>
+<email>mccanne@cs.berkeley.edu</email></address></author>
+<author initials='P.' surname='Stewart' fullname='Paul Stewart'>
+<organization>Xerox PARC</organization>
+<address>
+<postal>
+<street>3333 Coyote Hill Road</street>
+<street>Palo Alto</street>
+<street>CA 94304</street></postal>
+<phone>+1 650 812 4821</phone>
+<email>stewart@parc.xerox.com</email></address></author>
+<date year='1998' month='October' />
+<area>Applications</area>
+<keyword>compress</keyword>
+<keyword>joint photographic experts group</keyword>
+<keyword>JPEG</keyword>
+<keyword>multimedia</keyword>
+<keyword>real-time transport protocol</keyword>
+<keyword>RTP</keyword>
+<keyword>video</keyword>
+<abstract>
+<t>
+   This memo describes the RTP payload format for JPEG video streams.
+   The packet format is optimized for real-time video streams where
+   codec parameters change rarely from frame to frame.
+</t>
+<t>
+   This document is a product of the Audio-Video Transport working group
+   within the Internet Engineering Task Force.  Comments are solicited
+   and should be addressed to the working group&apos;s mailing list at rem-
+   conf@es.net and/or the author(s).
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2435' />
+<format type='TXT' octets='54173' target='http://www.rfc-editor.org/rfc/rfc2435.txt' />
+<format type='XML' octets='49614' target='http://xml.resource.org/public/rfc/xml/rfc2435.xml' />
+</reference>

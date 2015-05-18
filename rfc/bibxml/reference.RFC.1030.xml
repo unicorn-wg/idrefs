@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1030'>
+
+<front>
+<title abbrev='Testing the NETBLT Protocol'>On testing the NETBLT Protocol over divers networks</title>
+<author initials='M.' surname='Lambert' fullname='M. Lambert'>
+<organization>Massechusetts Institute of Technology (MIT), Laboratory for Computer Science</organization></author>
+<date year='1987' day='1' month='November' /></front>
+
+<seriesInfo name='RFC' value='1030' />
+<format type='TXT' octets='40964' target='http://www.rfc-editor.org/rfc/rfc1030.txt' />
+</reference>

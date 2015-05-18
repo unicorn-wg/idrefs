@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0934'>
+
+<front>
+<title abbrev='Message Encapsulation'>Proposed standard for message encapsulation</title>
+<author initials='M.' surname='Rose' fullname='Marshall T. Rose'>
+<organization>University of Delaware, Department of Computer and Information Sciences</organization>
+<address>
+<postal>
+<street />
+<city>Newark</city>
+<region>DE</region>
+<code>19716</code>
+<country>US</country></postal>
+<email>MRose@UDel.ARPA</email></address></author>
+<author initials='E.' surname='Stefferud' fullname='Einar A. Stefferud'>
+<organization>Network Management Associates, Inc.</organization>
+<address>
+<postal>
+<street>17301 Drey Lane</street>
+<city>Huntington Beach</city>
+<region>CA</region>
+<code>92647</code>
+<country>US</country></postal>
+<email>Stef@UCI.ARPA</email></address></author>
+<date year='1985' day='1' month='January' /></front>
+
+<seriesInfo name='RFC' value='934' />
+<format type='TXT' octets='21770' target='http://www.rfc-editor.org/rfc/rfc934.txt' />
+</reference>

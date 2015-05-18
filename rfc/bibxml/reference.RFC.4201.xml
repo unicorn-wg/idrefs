@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4201'>
+
+<front>
+<title>Link Bundling in MPLS Traffic Engineering (TE)</title>
+<author initials='K.' surname='Kompella' fullname='K. Kompella'>
+<organization /></author>
+<author initials='Y.' surname='Rekhter' fullname='Y. Rekhter'>
+<organization /></author>
+<author initials='L.' surname='Berger' fullname='L. Berger'>
+<organization /></author>
+<date year='2005' month='October' />
+<abstract>
+<t>For the purpose of Generalized Multi-Protocol Label Switching (GMPLS) signaling, in certain cases a combination of &amp;lt;link identifier, label&amp;gt; is not sufficient to unambiguously identify the appropriate resource used by a Label Switched Path (LSP).  Such cases are handled by using the link bundling construct, which is described in this document.  This document updates the interface identification TLVs, which are defined in the GMPLS Signaling Functional Description. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='4201' />
+<format type='TXT' octets='27033' target='http://www.rfc-editor.org/rfc/rfc4201.txt' />
+</reference>

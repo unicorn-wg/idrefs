@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2280'>
+
+<front>
+<title abbrev='Routing Policy'>Routing Policy Specification Language (RPSL)</title>
+<author initials='C.' surname='Alaettinoglu' fullname='Cengiz Alaettinoglu'>
+<organization>USC Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<street>Suite 1001</street>
+<street>Marina del Rey</street>
+<street>CA  90292</street></postal>
+<email>cengiz@isi.edu</email></address></author>
+<author initials='T.' surname='Bates' fullname='Tony Bates'>
+<organization>Cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<street>San Jose</street>
+<street>CA 95134</street></postal>
+<email>tbates@cisco.com</email></address></author>
+<author initials='E.' surname='Gerich' fullname='Elise Gerich'>
+<organization>At Home Network</organization>
+<address>
+<postal>
+<street>385 Ravendale Drive</street>
+<street>Mountain View</street>
+<street>CA 94043</street></postal>
+<email>epg@home.net</email></address></author>
+<author initials='D.' surname='Karrenberg' fullname='Daniel Karrenberg'>
+<organization>RIPE Network Coordination Centre (NCC)</organization>
+<address>
+<postal>
+<street>Kruislaan 409</street>
+<street>NL-1098 SJ Amsterdam</street>
+<country>Netherlands</country></postal>
+<email>dfk@ripe.net</email></address></author>
+<author initials='D.' surname='Meyer' fullname='David Meyer'>
+<organization>University of Oregon</organization>
+<address>
+<postal>
+<street>Eugene</street>
+<street>OR 97403</street></postal>
+<email>meyer@antc.uoregon.edu</email></address></author>
+<author initials='M.' surname='Terpstra' fullname='Marten Terpstra'>
+<organization>c/o Bay Networks, Inc.</organization>
+<address>
+<postal>
+<street>2 Federal</street>
+<street>Billerica MA 01821</street>
+<country>St</country></postal>
+<email>marten@BayNetworks.com</email></address></author>
+<author initials='C.' surname='Villamizar' fullname='Curtis Villamizar'>
+<organization>ANS</organization>
+<address>
+<email>curtis@ans.net</email></address></author>
+<date year='1998' month='January' />
+<area>Routing</area>
+<keyword>RPSL</keyword>
+<keyword>routing</keyword></front>
+
+<seriesInfo name='RFC' value='2280' />
+<format type='TXT' octets='114985' target='http://www.rfc-editor.org/rfc/rfc2280.txt' />
+<format type='XML' octets='118095' target='http://xml.resource.org/public/rfc/xml/rfc2280.xml' />
+</reference>

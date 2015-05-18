@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2183'>
+
+<front>
+<title abbrev='Content-Disposition'>Communicating Presentation Information in Internet Messages: The Content-Disposition Header Field</title>
+<author initials='R.' surname='Troost' fullname='Rens Troost'>
+<organization>New Century Systems</organization>
+<address>
+<postal>
+<street>324 East 41st Street #804</street>
+<street>New York</street>
+<street>NY</street>
+<street>10017</street>
+<country>USA</country></postal>
+<phone>+1 (212) 557-2050</phone>
+<facsimile>+1 (212) 557-2049</facsimile>
+<email>rens@century.com</email></address></author>
+<author initials='S.' surname='Dorner' fullname='Steve Dorner'>
+<organization>QUALCOMM Incorporated</organization>
+<address>
+<postal>
+<street>6455 Lusk Boulevard</street>
+<street>San Diego</street>
+<street>CA 92121</street>
+<country>USA</country></postal>
+<email>sdorner@qualcomm.com</email></address></author>
+<author initials='K.' surname='Moore' fullname='Keith Moore'>
+<organization>Department of Computer Science</organization>
+<address>
+<postal>
+<street>University of Tennessee</street>
+<street>Knoxville</street>
+<street>107 Ayres Hall</street>
+<street>Knoxville TN  37996-1301</street>
+<country>USA</country></postal>
+<phone>+1 (423) 974-5067</phone>
+<facsimile>+1 (423) 974-8296</facsimile>
+<email>moore@cs.utk.edu</email></address></author>
+<date year='1997' month='August' />
+<area>Applications</area>
+<keyword>MIME</keyword>
+<keyword>internet message</keyword>
+<keyword>multipurpose internet mail extensions</keyword>
+<abstract>
+<t>
+   This memo provides a mechanism whereby messages conforming to the
+   MIME specifications [RFC 2045, RFC 2046, RFC 2047, RFC 2048, RFC
+   2049] can convey presentational information.  It specifies the
+   &quot;Content-Disposition&quot; header field, which is optional and valid for
+   any MIME entity (&quot;message&quot; or &quot;body part&quot;).  Two values for this
+   header field are described in this memo; one for the ordinary linear
+   presentation of the body part, and another to facilitate the use of
+   mail to transfer files.  It is expected that more values will be
+   defined in the future, and procedures are defined for extending this
+    set of values.
+</t>
+<t>
+   This document is intended as an extension to MIME.  As such, the
+   reader is assumed to be familiar with the MIME specifications, and
+   [RFC 822].  The information presented herein supplements but does not
+   replace that found in those documents.
+</t>
+<t>
+   This document is a revision to the Experimental protocol defined in
+   RFC 1806.  As compared to RFC 1806, this document contains minor
+   editorial updates, adds new parameters needed to support the File
+   Transfer Body Part, and references a separate specification for the
+   handling of non-ASCII and/or very long parameter values.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2183' />
+<format type='TXT' octets='23150' target='http://www.rfc-editor.org/rfc/rfc2183.txt' />
+<format type='HTML' octets='42590' target='http://xml.resource.org/public/rfc/html/rfc2183.html' />
+<format type='XML' octets='24289' target='http://xml.resource.org/public/rfc/xml/rfc2183.xml' />
+</reference>

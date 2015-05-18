@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2589'>
+
+<front>
+<title abbrev='LDAPv3 Extensions for Dynamic Directory Services'>Lightweight Directory Access Protocol (v3): Extensions for Dynamic Directory Services</title>
+<author initials='Y.' surname='Yaacovi' fullname='Yoram Yaacovi'>
+<organization>Microsoft</organization>
+<address>
+<postal>
+<street>One Microsoft way</street>
+<city>Redmond</city>
+<region>WA</region>
+<code>98052</code>
+<country>US</country></postal>
+<phone>+1 206 936 9629</phone>
+<email>yoramy@microsoft.com</email></address></author>
+<author initials='M.' surname='Wahl' fullname='Mark Wahl'>
+<organization>Innosoft International, Inc.</organization>
+<address>
+<postal>
+<street>8911 Capital of Texas Highway</street>
+<street>Suite 4140</street>
+<city>Austin</city>
+<region>TX</region>
+<code>78759</code>
+<country>US</country></postal>
+<email>M.Wahl@innosoft.com</email></address></author>
+<author initials='T.' surname='Genovese' fullname='Tony Genovese'>
+<organization>Microsoft</organization>
+<address>
+<postal>
+<street>One Microsoft way</street>
+<city>Redmond</city>
+<region>WA</region>
+<code>98052</code>
+<country>US</country></postal>
+<phone>+1 206 703 0852</phone>
+<email>tonyg@microsoft.com</email></address></author>
+<date year='1999' month='May' />
+<abstract>
+<t>This document defines the requirements for dynamic
+directory services 
+and specifies the format of request and response extended operations
+for supporting client-server interoperation in a dynamic directories
+environment.</t>
+<t>TheLightweight Directory Access Protocol (LDAP)supports
+lightweight access to static directory services, allowing relatively
+fast search and update access.
+Static directory services store
+information about people that persists in its accuracy and value over
+a long period of time.</t>
+<t>Dynamic directory services are different in that they store
+information that only persists in its accuracy and value when it is
+being periodically refreshed.
+This information is stored as dynamic
+entries in the directory.
+A typical use will be a client or a person
+that is either online - in which case it has an entry in the
+directory, or is offline - in which case its entry disappears from
+the directory.
+Though the protocol operations and attributes used by
+dynamic directory services are similar to the ones used for static
+directory services, clients that store dynamic information in the
+directory need to periodically refresh this information, in order to
+prevent it from disappearing.
+If dynamic entries are not refreshed
+within a given timeout, they will be removed from the directory.
+For
+example, this will happen if the client that set them goes offline.</t>
+<t>A flow control mechanism from the server is also described that
+allows a server to inform clients how often they should refresh their
+presence.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2589' />
+<format type='TXT' octets='26855' target='http://www.rfc-editor.org/rfc/rfc2589.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0417'>
+
+<front>
+<title>Link usage violation</title>
+<author initials='J.' surname='Postel' fullname='J. Postel'>
+<organization /></author>
+<author initials='C.' surname='Kline' fullname='C. Kline'>
+<organization /></author>
+<date year='1972' month='December' /></front>
+
+<seriesInfo name='RFC' value='417' />
+<format type='TXT' octets='901' target='http://www.rfc-editor.org/rfc/rfc417.txt' />
+</reference>

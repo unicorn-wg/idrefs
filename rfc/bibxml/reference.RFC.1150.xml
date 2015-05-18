@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1150'>
+
+<front>
+<title abbrev='F.Y.I. on F.Y.I.'>FYI on FYI: Introduction to the FYI Notes</title>
+<author initials='G.' surname='Malkin' fullname='Gary Scott Malkin'>
+<organization>Proteon, Inc.</organization>
+<address>
+<postal>
+<street>2 Technology Drive</street>
+<city>Westborough</city>
+<region>MA</region>
+<code>01581-5008</code>
+<country>US</country></postal>
+<phone>+1 508 898 2800</phone>
+<email>gmalkin@proteon.com</email></address></author>
+<author initials='J.' surname='Reynolds' fullname='Joyce K. Reynolds'>
+<organization>University of Southern California (USC), Information Sciences Institute (ISI)</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292-6695</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone>
+<email>jkrey@isi.edu</email></address></author>
+<date year='1990' day='1' month='March' /></front>
+
+<seriesInfo name='RFC' value='1150' />
+<format type='TXT' octets='7867' target='http://www.rfc-editor.org/rfc/rfc1150.txt' />
+</reference>

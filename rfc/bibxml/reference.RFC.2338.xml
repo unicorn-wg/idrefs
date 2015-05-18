@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2338'>
+
+<front>
+<title abbrev='VRRP'>Virtual Router Redundancy Protocol</title>
+<author initials='S.' surname='Knight' fullname='S. Knight'>
+<organization>Ascend Communications, Inc.</organization></author>
+<author initials='D.' surname='Weaver' fullname='D. Weaver'>
+<organization>Ascend Communications, Inc.</organization></author>
+<author initials='D.' surname='Whipple' fullname='D. Whipple'>
+<organization>Microsoft, Inc.</organization></author>
+<author initials='R.' surname='Hinden' fullname='R. Hinden'>
+<organization>Nokia</organization></author>
+<author initials='D.' surname='Mitzel' fullname='D. Mitzel'>
+<organization>Nokia</organization></author>
+<author initials='P.' surname='Hunt' fullname='P. Hunt'>
+<organization>Nokia</organization></author>
+<author initials='P.' surname='Higginson' fullname='P. Higginson'>
+<organization>Digital Equipment Corp.</organization></author>
+<author initials='M.' surname='Shand' fullname='M. Shand'>
+<organization>Digital Equipment Corp.</organization></author>
+<author initials='A.' surname='Lindem' fullname='A. Lindem'>
+<organization>IBM Corporation</organization></author>
+<date year='1998' month='April' />
+<area>Routing</area>
+<keyword>router</keyword>
+<keyword>VRRP</keyword>
+<keyword>routing</keyword>
+<abstract>
+<t>
+   This memo defines the Virtual Router Redundancy Protocol (VRRP).
+
+   VRRP specifies an election protocol that dynamically assigns
+
+   responsibility for a virtual router to one of the VRRP routers on a
+
+   LAN.  The VRRP router controlling the IP address(es) associated with
+
+   a virtual router is called the Master, and forwards packets sent to
+
+   these IP addresses.  The election process provides dynamic fail over
+
+   in the forwarding responsibility should the Master become
+
+   unavailable.  This allows any of the virtual router IP addresses on
+
+   the LAN to be used as the default first hop router by end-hosts.  The
+
+   advantage gained from using VRRP is a higher availability default
+
+   path without requiring configuration of dynamic routing or router
+
+   discovery protocols on every end-host.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2338' />
+<format type='TXT' octets='59871' target='http://www.rfc-editor.org/rfc/rfc2338.txt' />
+<format type='XML' octets='60366' target='http://xml.resource.org/public/rfc/xml/rfc2338.xml' />
+</reference>

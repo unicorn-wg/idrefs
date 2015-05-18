@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0993'>
+
+<front>
+<title>PCMAIL: A distributed mail system for personal computers</title>
+<author initials='D.' surname='Clark' fullname='David D. Clark'>
+<organization>Massachusetts Institute of Technology (MIT)</organization></author>
+<author initials='M.' surname='Lambert' fullname='Mark L. Lambert'>
+<organization>Massachusetts Institute of Technology (MIT)</organization></author>
+<date year='1986' day='1' month='December' /></front>
+
+<seriesInfo name='RFC' value='993' />
+<format type='TXT' octets='71725' target='http://www.rfc-editor.org/rfc/rfc993.txt' />
+</reference>

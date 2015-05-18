@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3062'>
+
+<front>
+<title>LDAP Password Modify Extended Operation</title>
+<author initials='K.' surname='Zeilenga' fullname='K. Zeilenga'>
+<organization /></author>
+<date year='2001' month='February' />
+<abstract>
+<t>This document describes an LDAP extended operation to allow modification of user passwords which is not dependent upon the form of the authentication identity nor the password storage mechanism used. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='3062' />
+<format type='TXT' octets='11807' target='http://www.rfc-editor.org/rfc/rfc3062.txt' />
+</reference>

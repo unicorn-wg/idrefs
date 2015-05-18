@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0980'>
+
+<front>
+<title>Protocol document order information</title>
+<author initials='O.' surname='Jacobsen' fullname='Ole Jacobsen'>
+<organization>SRI International</organization>
+<address>
+<postal>
+<street>333 Ravenswood Avenue</street>
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<phone>+1 415 859 3695</phone></address></author>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>University of Southern California (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<date year='1986' day='1' month='March' /></front>
+
+<seriesInfo name='RFC' value='980' />
+<format type='TXT' octets='24416' target='http://www.rfc-editor.org/rfc/rfc980.txt' />
+</reference>

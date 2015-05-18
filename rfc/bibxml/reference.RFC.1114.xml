@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1114'>
+
+<front>
+<title abbrev='Mail Privacy: Key Management'>Privacy enhancement for Internet electronic mail: Part II - certificate-based key management</title>
+<author initials='S.' surname='Kent' fullname='Steve Kent'>
+<organization>Bolt Baranek and Newman Communications (BBNCC)</organization>
+<address>
+<postal>
+<street>50 Moulton Street</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal>
+<phone>+1 617 873 3988</phone>
+<email>kent@BBN.COM</email></address></author>
+<author initials='J.' surname='Linn' fullname='John Linn'>
+<organization>Digital Equipment Corporation (DEC), Secure Systems</organization>
+<address>
+<postal>
+<street>85 Swanson Road</street>
+<street>BXB1-2/D04</street>
+<city>Boxborough</city>
+<region>MA</region>
+<code>01719-1326</code>
+<country>US</country></postal>
+<phone>+1 508 264 5491</phone>
+<email>Linn@ultra.enet.dec.com</email></address></author>
+<date year='1989' day='1' month='August' /></front>
+
+<seriesInfo name='RFC' value='1114' />
+<format type='TXT' octets='69661' target='http://www.rfc-editor.org/rfc/rfc1114.txt' />
+</reference>

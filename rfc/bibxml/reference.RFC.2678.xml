@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2678'>
+
+<front>
+<title>IPPM Metrics for Measuring Connectivity</title>
+<author initials='J.' surname='Mahdavi' fullname='Jamshid Mahdavi'>
+<organization>Pittsburgh Supercomputing Center</organization>
+<address>
+<postal>
+<street>4400 5th Avenue</street>
+<city>Pittsburgh</city>
+<region>PA</region>
+<code>15213</code>
+<country>US</country></postal>
+<email>mahdavi@psc.edu</email></address></author>
+<author initials='V.' surname='Paxson' fullname='Vern Paxson'>
+<organization>Lawrence Berkeley National Laboratory</organization>
+<address>
+<postal>
+<street>University of California</street>
+<city>Berkeley</city>
+<region>CA</region>
+<code>94720</code>
+<country>US</country></postal>
+<phone>+1 510 486 7504</phone>
+<email>vern@ee.lbl.gov</email></address></author>
+<date year='1999' month='September' /></front>
+
+<seriesInfo name='RFC' value='2678' />
+<format type='TXT' octets='18087' target='http://www.rfc-editor.org/rfc/rfc2678.txt' />
+</reference>

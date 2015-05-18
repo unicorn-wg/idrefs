@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2103'>
+
+<front>
+<title abbrev='Nimrod Mobility'>Mobility Support for Nimrod: Challenges and Solution Approaches</title>
+<author initials='R.' surname='Ramanathan' fullname='Ram Ramanathan'>
+<organization>BBN Systems and Technologies</organization>
+<address>
+<postal>
+<street>10 Moulton Street</street>
+<street>Cambridge</street>
+<street>MA 02138</street></postal>
+<phone>(617) 873-2736</phone>
+<email>ramanath@bbn.com</email></address></author>
+<date year='1997' month='February' />
+<area>Routing</area>
+<keyword>Nimrod</keyword>
+<keyword>routing</keyword>
+<abstract>
+<t>
+   We discuss the issue of mobility in Nimrod.  While a mobility
+   solution is not part of the Nimrod architecture, Nimrod does require
+   that the solution have certain characteristics.  We identify the
+   requirements that Nimrod has of any solution for mobility support.
+   We also classify and compare existing approaches for supporting
+   mobility within an internetwork and discuss their advantages and
+   disadvantages.  Finally, as an example, we outline the mechanisms to
+   support mobility in Nimrod using the scheme currently being developed
+   within the IETF - namely, the Mobile-IP protocol.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2103' />
+<format type='TXT' octets='41352' target='http://www.rfc-editor.org/rfc/rfc2103.txt' />
+<format type='XML' octets='42479' target='http://xml.resource.org/public/rfc/xml/rfc2103.xml' />
+</reference>

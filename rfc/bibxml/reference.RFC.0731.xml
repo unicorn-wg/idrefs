@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0731'>
+
+<front>
+<title abbrev='Data Entry Terminal Option'>Telnet Data Entry Terminal option</title>
+<author initials='J.' surname='Day' fullname='John Day'>
+<organization /></author>
+<date year='1977' day='27' month='June' /></front>
+
+<seriesInfo name='RFC' value='731' />
+<format type='TXT' octets='61648' target='http://www.rfc-editor.org/rfc/rfc731.txt' />
+</reference>

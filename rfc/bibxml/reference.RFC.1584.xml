@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1584'>
+
+<front>
+<title>Multicast Extensions to OSPF</title>
+<author initials='J.' surname='Moy' fullname='John Moy'>
+<organization>Proteon, Inc.</organization>
+<address>
+<postal>
+<street>9 Technology Drive</street>
+<city>Westborough</city>
+<region>MA</region>
+<code>01581</code>
+<country>US</country></postal>
+<phone>+1 508 898 2800</phone>
+<email>jmoy@proteon.com</email></address></author>
+<date year='1994' month='March' />
+<abstract>
+<t>This memo documents enhancements to the OSPF protocol enabling the routing of IP multicast datagrams. In this proposal, an IP multicast packet is routed based both on the packet's source and its multicast destination (commonly referred to as source/destination routing). As it is routed, the multicast packet follows a shortest path to each multicast destination. During packet forwarding, any commonality of paths is exploited; when multiple hosts belong to a single multicast group, a multicast packet will be replicated only when the paths to the separate hosts diverge.</t>
+<t>OSPF, a link-state routing protocol, provides a database describing the Autonomous System's topology. A new OSPF link state advertisement is added describing the location of multicast destinations. A multicast packet's path is then calculated by building a pruned shortest-path tree rooted at the packet's IP source. These trees are built on demand, and the results of the calculation are cached for use by subsequent packets.</t>
+<t>The multicast extensions are built on top of OSPF Version 2. The extensions have been implemented so that a multicast routing capability can be introduced piecemeal into an OSPF Version 2 routing domain. Some of the OSPF Version 2 routers may run the multicast extensions, while others may continue to be restricted to the forwarding of regular IP traffic (unicasts).</t>
+<t>Please send comments to mospf@gated.cornell.edu.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1584' />
+<format type='TXT' octets='262463' target='http://www.rfc-editor.org/rfc/rfc1584.txt' />
+<format type='PS' octets='426358' target='http://www.rfc-editor.org/rfc/rfc1584.ps' />
+<format type='PDF' octets='243185' target='http://www.rfc-editor.org/rfc/rfc1584.pdf' />
+</reference>

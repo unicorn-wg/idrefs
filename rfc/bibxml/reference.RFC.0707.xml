@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0707'>
+
+<front>
+<title>High-level framework for network-based resource sharing</title>
+<author initials='J.' surname='White' fullname='James E. White'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization>
+<address>
+<postal>
+<street />
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<phone>+1 415 326 6200 x2960</phone></address></author>
+<date year='1975' day='23' month='December' />
+<abstract>
+<t>This paper proposes a high-level, application-independent protocol and software framework that would extend the local programming environment to embrace modules in other computers within a resource sharing computer network, and thereby facilitate the construction of distributed systems and encourage the sharing of resources.</t>
+<t>The work reported here was supported by the Advanced Research Projects Agency of the Department of Defense, and by the Rome Air Development Center of the Air Force.</t>
+<t>This paper has been submitted for publication in the Proceedings of the 1976 National Computer Conference.</t></abstract></front>
+
+<seriesInfo name='RFC' value='707' />
+<format type='TXT' octets='57254' target='http://www.rfc-editor.org/rfc/rfc707.txt' />
+</reference>

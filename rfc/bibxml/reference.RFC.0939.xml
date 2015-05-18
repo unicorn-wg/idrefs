@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0939'>
+
+<front>
+<title abbrev='Executive Summary of the NRC Report Transport on Protocols'>Executive summary of the NRC report on transport protocols for Department of Defense data networks</title>
+<author>
+<organization>National Research Council, Board on Telecommunications and Computer Applications Commission on Engineering and Technical Systems</organization>
+<address>
+<postal>
+<street>2101 Constitution Avenue NW</street>
+<city>Washington</city>
+<region>DC</region>
+<code>20418</code>
+<country>US</country></postal></address></author>
+<date year='1985' day='1' month='February' /></front>
+
+<seriesInfo name='RFC' value='939' />
+<format type='TXT' octets='42345' target='http://www.rfc-editor.org/rfc/rfc939.txt' />
+</reference>

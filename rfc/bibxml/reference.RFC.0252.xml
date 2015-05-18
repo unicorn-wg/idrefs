@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0252'>
+
+<front>
+<title>Network host status</title>
+<author initials='E.' surname='Westheimer' fullname='E. Westheimer'>
+<organization>Bolt Baranek and Newman (BBN)</organization></author>
+<date year='1971' day='8' month='October' />
+<abstract>
+<t>The purpose of this RFC is to report on the recent status of most Network Hosts.</t></abstract></front>
+
+<seriesInfo name='RFC' value='252' />
+<format type='TXT' octets='5531' target='http://www.rfc-editor.org/rfc/rfc252.txt' />
+</reference>

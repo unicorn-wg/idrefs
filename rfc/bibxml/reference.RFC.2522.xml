@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2522'>
+
+<front>
+<title abbrev='Photuris Protocol'>Photuris: Session-Key Management Protocol</title>
+<author initials='P.' surname='Karn' fullname='Phil Karn'>
+<organization>Qualcomm, Inc.</organization>
+<address>
+<postal>
+<street>6455 Lusk Boulevard</street>
+<city>San Diego</city>
+<region>CA</region>
+<code>92121-2779</code>
+<country>US</country></postal>
+<email>karn@unix.ka9q.ampr.org</email></address></author>
+<author initials='W.A.' surname='Simpson' fullname='William Allen Simpson'>
+<organization>DayDreamer</organization>
+<address>
+<postal>
+<street>Computer Systems Consulting Services</street>
+<street>1384 Fontaine</street>
+<city>Madison Heights</city>
+<region>MI</region>
+<code>48071</code>
+<country>US</country></postal>
+<email>wsimpson@GreenDragon.com</email></address></author>
+<date year='1999' month='March' />
+<abstract>
+<t>Photuris is a session-key management protocol intended for use with the IP Security Protocols (AH and ESP). This document defines the basic protocol mechanisms.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2522' />
+<format type='TXT' octets='157224' target='http://www.rfc-editor.org/rfc/rfc2522.txt' />
+</reference>

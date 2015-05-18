@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3311'>
+
+<front>
+<title>The Session Initiation Protocol (SIP) UPDATE Method</title>
+<author initials='J.' surname='Rosenberg' fullname='J. Rosenberg'>
+<organization /></author>
+<date year='2002' month='October' /></front>
+
+<seriesInfo name='RFC' value='3311' />
+<format type='TXT' octets='28125' target='http://www.rfc-editor.org/rfc/rfc3311.txt' />
+</reference>

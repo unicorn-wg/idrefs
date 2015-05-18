@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4126'>
+
+<front>
+<title>Max Allocation with Reservation Bandwidth Constraints Model for Diffserv-aware MPLS Traffic Engineering &amp; Performance Comparisons</title>
+<author initials='J.' surname='Ash' fullname='J. Ash'>
+<organization /></author>
+<date year='2005' month='June' />
+<abstract>
+<t>This document complements the Diffserv-aware MPLS Traffic Engineering (DS-TE) requirements document by giving a functional specification for the Maximum Allocation with Reservation (MAR) Bandwidth Constraints Model.  Assumptions, applicability, and examples of the operation of the MAR Bandwidth Constraints Model are presented.  MAR performance is analyzed relative to the criteria for selecting a Bandwidth Constraints Model, in order to provide guidance to user implementation of the model in their networks.  This memo defines an Experimental Protocol for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='4126' />
+<format type='TXT' octets='51232' target='http://www.rfc-editor.org/rfc/rfc4126.txt' />
+</reference>

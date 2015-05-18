@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2260'>
+
+<front>
+<title abbrev='Multihoming'>Scalable Support for Multi-homed Multi-provider Connectivity</title>
+<author initials='T.' surname='Bates' fullname='Tony Bates'>
+<organization>Cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<street>San Jose</street>
+<street>CA 95134</street></postal>
+<email>tbates@cisco.com</email></address></author>
+<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
+<organization>Cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<street>San Jose</street>
+<street>CA 95134</street></postal>
+<email>yakov@cisco.com</email></address></author>
+<date year='1998' month='January' />
+<area>Operations</area>
+<keyword>multihome</keyword>
+<keyword>routing</keyword></front>
+
+<seriesInfo name='RFC' value='2260' />
+<format type='TXT' octets='28085' target='http://www.rfc-editor.org/rfc/rfc2260.txt' />
+<format type='HTML' octets='42377' target='http://xml.resource.org/public/rfc/html/rfc2260.html' />
+<format type='XML' octets='26686' target='http://xml.resource.org/public/rfc/xml/rfc2260.xml' />
+</reference>

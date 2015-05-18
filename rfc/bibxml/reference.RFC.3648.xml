@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3648'>
+
+<front>
+<title abbrev='WebDAV Ordered Collections Protocol'>Web Distributed Authoring and Versioning (WebDAV) Ordered Collections Protocol</title>
+<author initials='J.' surname='Whitehead' fullname='Jim Whitehead'>
+<organization abbrev='U.C. Santa Cruz'>UC Santa Cruz, Dept. of Computer Science</organization>
+<address>
+<postal>
+<street>1156 High Street</street>
+<city>Santa Cruz</city>
+<region>CA</region>
+<code>95064</code>
+<country>US</country></postal>
+<email>ejw@cse.ucsc.edu</email></address></author>
+<author initials='J. F.' surname='Reschke' fullname='Julian F. Reschke' role='editor'>
+<organization abbrev='greenbytes'>greenbytes GmbH</organization>
+<address>
+<postal>
+<street>Salzmannstrasse 152</street>
+<city>Muenster</city>
+<region>NW</region>
+<code>48159</code>
+<country>Germany</country></postal>
+<phone>+49 251 2807760</phone>
+<facsimile>+49 251 2807761</facsimile>
+<email>julian.reschke@greenbytes.de</email>
+<uri>http://greenbytes.de/tech/webdav/</uri></address></author>
+<date year='2003' month='December' />
+<workgroup>WEBDAV Working Group</workgroup>
+<keyword>WebDAV</keyword>
+<keyword>ordering</keyword>
+<keyword>ordered collections</keyword>
+<keyword>protocol</keyword>
+<keyword>ORDERPATCH method</keyword>
+<keyword>Position header</keyword>
+<keyword>Ordering-Type header</keyword>
+<abstract>
+<t>
+        This specification extends the Web Distributed Authoring and Versioning (WebDAV) Protocol
+        to support the server-side ordering of collection members. Of particular 
+        interest are orderings that are not based on property values, and so 
+        cannot be achieved using a search protocol's ordering option and cannot 
+        be maintained automatically by the server.  Protocol elements are 
+        defined to let clients specify the position in the ordering of each 
+        collection member, as well as the semantics governing the ordering.        
+      </t></abstract></front>
+
+<seriesInfo name='RFC' value='3648' />
+<format type='TXT' octets='57147' target='http://www.rfc-editor.org/rfc/rfc3648.txt' />
+<format type='HTML' octets='90760' target='http://xml.resource.org/public/rfc/html/rfc3648.html' />
+<format type='XML' octets='62659' target='http://xml.resource.org/public/rfc/xml/rfc3648.xml' />
+</reference>

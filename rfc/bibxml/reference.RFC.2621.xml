@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2621'>
+
+<front>
+<title>RADIUS Accounting Server MIB</title>
+<author initials='G.' surname='Zorn' fullname='Glen Zorn'>
+<organization>Microsoft Corporation</organization>
+<address>
+<postal>
+<street>One Microsoft Way</street>
+<city>Redmond</city>
+<region>WA</region>
+<code>98052</code>
+<country>US</country></postal>
+<phone>+1 425 703 1559</phone>
+<email>glennz@microsoft.com</email></address></author>
+<author initials='B.' surname='Aboba' fullname='Bernard Aboba'>
+<organization>Microsoft Corporation</organization>
+<address>
+<postal>
+<street>One Microsoft Way</street>
+<city>Redmond</city>
+<region>WA</region>
+<code>98052</code>
+<country>US</country></postal>
+<phone>+1 425 936 6605</phone>
+<email>bernarda@microsoft.com</email></address></author>
+<date year='1999' month='June' />
+<abstract>
+<t>This memo defines a set of extensions which instrument RADIUS accounting server functions. These extensions represent a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  Using these extensions IP-based management stations can manage RADIUS accounting servers.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2621' />
+<format type='TXT' octets='27768' target='http://www.rfc-editor.org/rfc/rfc2621.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0567'>
+
+<front>
+<title>Cross Country Network Bandwidth</title>
+<author initials='L.' surname='Deutsch' fullname='L. Peter Deutsch'>
+<organization>Xerox Palo Alto Research Center (PARC). MAXC</organization></author>
+<date year='1973' day='6' month='September' />
+<abstract>
+<t>The following computation of cross-country network bandwidth was contributed by Butler Lampson of PARC.</t></abstract></front>
+
+<seriesInfo name='RFC' value='567' />
+<format type='TXT' octets='1529' target='http://www.rfc-editor.org/rfc/rfc567.txt' />
+</reference>

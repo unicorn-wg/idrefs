@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2307'>
+
+<front>
+<title abbrev='Using LDAP as a Network Information Service'>An Approach for Using LDAP as a Network Information Service</title>
+<author initials='L.' surname='Howard' fullname='Luke Howard'>
+<organization>PO Box 59</organization>
+<address>
+<postal>
+<street>Central Park Vic 3145</street>
+<country>Australia</country></postal>
+<email>lukeh@xedoc.com</email></address></author>
+<date year='1998' month='March' />
+<area>Applications</area>
+<keyword>ITU directory service protocol</keyword>
+<keyword>lightweight directory access protocol</keyword>
+<abstract>
+<t>
+
+   This document describes an experimental mechanism for mapping
+
+   entities related to TCP/IP and the UNIX system into X.500 [X500]
+
+   entries so that they may be resolved with the Lightweight Directory
+
+   Access Protocol [RFC2251]. A set of attribute types and object
+
+   classes are proposed, along with specific guidelines for interpreting
+
+   them.
+</t>
+<t>
+
+
+   The intention is to assist the deployment of LDAP as an
+
+   organizational nameservice. No proposed solutions are intended as
+
+   standards for the Internet. Rather, it is hoped that a general
+
+   consensus will emerge as to the appropriate solution to such
+
+   problems, leading eventually to the adoption of standards. The
+
+   proposed mechanism has already been implemented with some success.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2307' />
+<format type='TXT' octets='41396' target='http://www.rfc-editor.org/rfc/rfc2307.txt' />
+<format type='XML' octets='42655' target='http://xml.resource.org/public/rfc/xml/rfc2307.xml' />
+</reference>

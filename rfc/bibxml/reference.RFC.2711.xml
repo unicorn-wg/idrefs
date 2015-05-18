@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2711'>
+
+<front>
+<title>IPv6 Router Alert Option</title>
+<author initials='C.' surname='Partridge' fullname='Craig Partridge'>
+<organization>BBN Technologies</organization>
+<address>
+<postal>
+<street>10 Moulton Street</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal>
+<phone>+1 617 873 3000</phone>
+<email>craig@bbn.com</email></address></author>
+<author initials='A.' surname='Jackson' fullname='Alden Jackson'>
+<organization>BBN Technologies</organization>
+<address>
+<postal>
+<street>10 Moulton Street</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal>
+<phone>+1 617 873 3000</phone>
+<email>awjacks@bbn.com</email></address></author>
+<date year='1999' month='October' />
+<abstract>
+<t>This memo describes a new IPv6 Hop-by-Hop Option type that alerts transit routers to more closely examine the contents of an IP datagram.  This option is useful for situations where a datagram  addressed to a particular destination contains information that may require special processing by routers along the path.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2711' />
+<format type='TXT' octets='11973' target='http://www.rfc-editor.org/rfc/rfc2711.txt' />
+</reference>

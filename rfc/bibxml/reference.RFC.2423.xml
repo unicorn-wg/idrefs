@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2423'>
+
+<front>
+<title>VPIM Voice Message MIME Sub-type Registration</title>
+<author initials='G.' surname='Vaudreuil' fullname='G. Vaudreuil'>
+<organization /></author>
+<author initials='G.' surname='Parsons' fullname='G. Parsons'>
+<organization /></author>
+<date year='1998' month='September' />
+<abstract>
+<t>This document describes the registration of the MIME sub-type multipart/voice-message for use with the Voice Profile for Internet Mail (VPIM). [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='2423' />
+<format type='TXT' octets='10729' target='http://www.rfc-editor.org/rfc/rfc2423.txt' />
+</reference>

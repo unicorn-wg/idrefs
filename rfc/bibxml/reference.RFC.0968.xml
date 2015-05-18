@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0968'>
+
+<front>
+<title>Twas the night before start-up</title>
+<author initials='V.' surname='Cerf' fullname='V. Cerf'>
+<organization>MCI</organization></author>
+<date year='1985' day='1' month='December' /></front>
+
+<seriesInfo name='RFC' value='968' />
+<format type='TXT' octets='2459' target='http://www.rfc-editor.org/rfc/rfc968.txt' />
+</reference>

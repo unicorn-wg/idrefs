@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0463'>
+
+<front>
+<title>FTP comments and response to RFC 430</title>
+<author initials='A.' surname='Bhushan' fullname='Abhay K. Bhushan'>
+<organization>Massachusetts Institute of Technology (MIT), DMCG</organization></author>
+<date year='1973' day='21' month='February' />
+<abstract>
+<t>Most of the comments in RFC 430 by Bob Braden are useful suggestions which should be included in the forthcoming official FTP specification. This RFC represents my response to Braden's comments and other views.</t></abstract></front>
+
+<seriesInfo name='RFC' value='463' />
+<format type='TXT' octets='5729' target='http://www.rfc-editor.org/rfc/rfc463.txt' />
+</reference>

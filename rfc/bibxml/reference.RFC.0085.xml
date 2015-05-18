@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0085'>
+
+<front>
+<title>Network Working Group meeting</title>
+<author initials='S.' surname='Crocker' fullname='Steve Crocker'>
+<organization>University of California, Los Angeles (UCLA)</organization></author>
+<date year='1970' day='28' month='December' />
+<abstract>
+<t>In line with the consensus of the Houston Network Working Group meeting in November, we will hold general Network Working Group meetings approximately every three months.  The Spring and Fall meetings will be synchronized to the Joint Computer Conferences.  The others will be moved around in order to promote exposure to the various sites and spread the burden of hosting.</t></abstract></front>
+
+<seriesInfo name='RFC' value='85' />
+<format type='TXT' octets='1547' target='http://www.rfc-editor.org/rfc/rfc85.txt' />
+</reference>

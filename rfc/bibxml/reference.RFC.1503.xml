@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1503'>
+
+<front>
+<title abbrev='Automating Administration in SNMPv2 Manager'>Algorithms for Automating Administration in SNMPv2 Managers</title>
+<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
+<organization>Hughes LAN Systems</organization>
+<address>
+<postal>
+<street>1225 Charleston Road</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<phone>+1 415 966 7934</phone>
+<email>kzm@hls.com</email></address></author>
+<author initials='M.' surname='Rose' fullname='Marshall T. Rose'>
+<organization>Dover Beach Consulting, Inc.</organization>
+<address>
+<postal>
+<street>420 Whisman Court</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043-2186</code>
+<country>US</country></postal>
+<phone>+1 415 968 1052</phone>
+<email>mrose@dbc.mtview.ca.us</email></address></author>
+<date year='1993' month='August' />
+<abstract>
+<t></t></abstract></front>
+
+<seriesInfo name='RFC' value='1503' />
+<format type='TXT' octets='33542' target='http://www.rfc-editor.org/rfc/rfc1503.txt' />
+</reference>

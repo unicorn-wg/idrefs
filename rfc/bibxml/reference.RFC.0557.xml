@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0557'>
+
+<front>
+<title>REVELATIONS IN NETWORK HOST MEASUREMENTS</title>
+<author initials='B.D.' surname='Wessler' fullname='B.D. Wessler'>
+<organization /></author>
+<date year='1973' month='August' /></front>
+
+<seriesInfo name='RFC' value='557' />
+<format type='TXT' octets='3167' target='http://www.rfc-editor.org/rfc/rfc557.txt' />
+<format type='PDF' octets='90256' target='http://www.rfc-editor.org/rfc/rfc557.pdf' />
+</reference>

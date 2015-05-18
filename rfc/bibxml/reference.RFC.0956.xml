@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0956'>
+
+<front>
+<title>Algorithms for synchronizing network clocks</title>
+<author initials='D.' surname='Mills' fullname='D. L. Mills'>
+<organization>M/A-Com Linkabit</organization></author>
+<date year='1985' day='1' month='September' /></front>
+
+<seriesInfo name='RFC' value='956' />
+<format type='TXT' octets='67387' target='http://www.rfc-editor.org/rfc/rfc956.txt' />
+</reference>

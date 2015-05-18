@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0413'>
+
+<front>
+<title>Traffic statistics (October 1972)</title>
+<author initials='A.M.' surname='McKenzie' fullname='A.M. McKenzie'>
+<organization /></author>
+<date year='1972' month='November' /></front>
+
+<seriesInfo name='RFC' value='413' />
+<format type='TXT' octets='16145' target='http://www.rfc-editor.org/rfc/rfc413.txt' />
+</reference>

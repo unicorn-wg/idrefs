@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1047'>
+
+<front>
+<title>Duplicate messages and SMTP</title>
+<author initials='C.' surname='Partridge' fullname='Craig Partridge'>
+<organization>Bolt Baraneck and Newman (BBN)</organization></author>
+<date year='1988' day='1' month='February' /></front>
+
+<seriesInfo name='RFC' value='1047' />
+<format type='TXT' octets='5888' target='http://www.rfc-editor.org/rfc/rfc1047.txt' />
+</reference>

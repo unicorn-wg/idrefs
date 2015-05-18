@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2466'>
+
+<front>
+<title abbrev='IPv6 MIB: ICMPv6 Group'>Management Information Base for IP Version 6: ICMPv6 Group</title>
+<author initials='D.' surname='Haskin' fullname='Dimitry Haskin'>
+<organization>Bay Networks, Inc.</organization>
+<address>
+<postal>
+<street>600 Technology Park Drive</street>
+<city>Billerica</city>
+<region>MA</region>
+<code>01821</code>
+<country>USA</country></postal>
+<email>dhaskin@baynetworks.com</email></address></author>
+<author initials='S.' surname='Onishi' fullname='Steve Onishi'>
+<organization>Bay Networks, Inc.</organization>
+<address>
+<postal>
+<street>3 Federal Street</street>
+<city>Billerica</city>
+<region>MA</region>
+<code>01821</code>
+<country>USA</country></postal>
+<email>sonishi@baynetworks.com</email></address></author>
+<date year='1998' month='December' />
+<area>Management</area>
+<area>Internet</area>
+<keyword>Management Information Base</keyword>
+<keyword>internet protocol version 6</keyword>
+<keyword>ICMPv6</keyword>
+<abstract>
+<t>
+   This document is one in the series of documents that define various
+   MIB object groups for IPv6.  Specifically, the ICMPv6 group is
+   defined in this document.
+</t>
+<t>
+   This memo defines a portion of the Management Information Base (MIB)
+   for use with network management protocols in the IPv6-based
+   internets.
+</t>
+<t>
+   This document specifies a MIB module in a manner that is both
+   compliant to the SNMPv2 SMI, and semantically identical to the peer
+   SNMPv1 definitions.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2466' />
+<format type='TXT' octets='27547' target='http://www.rfc-editor.org/rfc/rfc2466.txt' />
+<format type='HTML' octets='43356' target='http://xml.resource.org/public/rfc/html/rfc2466.html' />
+<format type='XML' octets='38679' target='http://xml.resource.org/public/rfc/xml/rfc2466.xml' />
+</reference>

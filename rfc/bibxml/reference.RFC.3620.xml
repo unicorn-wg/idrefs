@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3620'>
+
+<front>
+<title abbrev='TUNNEL Profile'>The TUNNEL Profile</title>
+<author initials='D.' surname='New' fullname='Darren New'>
+<organization />
+<address>
+<postal>
+<street>5390 Caminito Exquisito</street>
+<city>San Diego</city>
+<region>CA</region>
+<code>92130</code>
+<country>US</country></postal>
+<phone>+1 858 350 9733</phone>
+<email>dnew@san.rr.com</email></address></author>
+<date year='2003' month='October' />
+<area>Security</area>
+<keyword>BEEP</keyword>
+<keyword>firewall</keyword>
+<keyword>proxy</keyword>
+<abstract>
+<t>This memo describes a BEEP profile that allows a BEEP peer to
+serve as an application-layer proxy.  It allows authorized users to access
+services through a firewall.</t></abstract></front>
+
+<seriesInfo name='RFC' value='3620' />
+<format type='TXT' octets='35365' target='http://www.rfc-editor.org/rfc/rfc3620.txt' />
+<format type='HTML' octets='51916' target='http://xml.resource.org/public/rfc/html/rfc3620.html' />
+<format type='XML' octets='41240' target='http://xml.resource.org/public/rfc/xml/rfc3620.xml' />
+</reference>

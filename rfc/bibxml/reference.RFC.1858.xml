@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1858'>
+
+<front>
+<title>Security Considerations for IP Fragment Filtering</title>
+<author initials='G.' surname='Ziemba' fullname='G. Paul Ziemba'>
+<organization>Alantec</organization>
+<address>
+<postal>
+<street>2115 O'Nel Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95131</code>
+<country>US</country></postal>
+<email>paul@alantec.com</email></address></author>
+<author initials='D.' surname='Reed' fullname='Darren Reed'>
+<organization>Cybersource</organization>
+<address>
+<postal>
+<street>1275A Malvern Rd</street>
+<city>Melbourne</city>
+<region>Victoria</region>
+<code>3144</code>
+<country>AU</country></postal>
+<email>darrenr@cyber.com.au</email></address></author>
+<author initials='P.' surname='Traina' fullname='Paul Traina'>
+<organization>cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 W. Tasman Dr.</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95028</code>
+<country>US</country></postal>
+<email>pst@cisco.com</email></address></author>
+<date year='1995' month='October' />
+<abstract>
+<t>IP fragmentation can be used to disguise TCP packets from IP filters used in routers and hosts. This document describes two methods of attack as well as remedies to prevent them.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1858' />
+<format type='TXT' octets='20468' target='http://www.rfc-editor.org/rfc/rfc1858.txt' />
+</reference>

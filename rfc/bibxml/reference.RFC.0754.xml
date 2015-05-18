@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0754'>
+
+<front>
+<title>Out-of-net host addresses for mail</title>
+<author initials='J.' surname='Postel' fullname='J. Postel'>
+<organization>University of Southern California (USC) / Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<date year='1979' day='6' month='April' />
+<abstract>
+<t>There is now interest in sustantially extending the scope of the computer mail system used in the ARPANET to allow communication of voice, fax, graphics, as well as text information between users in different networks as wells as within the ARPANET.</t>
+<t>The discussion of a transition from the current ARPANET sndmsg environment and mechanisms to a more general internet environment and richer mechanisms must consider techniques for continued activity during the transition.  In addition, there is a current need for a mechanism to support the interaction of the several already existing NSW-like message environments with the ARPANET message environment.</t>
+<t>This memo discusses some possible alternatives for computer mail addressing for hosts outside the ARPANET in the short term.  This memo is hopelessly Tenex oriented in its descriptions and examples.</t></abstract></front>
+
+<seriesInfo name='RFC' value='754' />
+<format type='TXT' octets='19212' target='http://www.rfc-editor.org/rfc/rfc754.txt' />
+</reference>

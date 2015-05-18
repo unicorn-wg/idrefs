@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1192'>
+
+<front>
+<title abbrev='Commercialization of the Internet'>Commercialization of the Internet summary report</title>
+<author initials='B.' surname='Kahin' fullname='Brian Kahin'>
+<organization>Harvard University, John F. Kennedy School of Government</organization>
+<address>
+<phone>+1 617 495 8903</phone>
+<email>kahin@hulaw.harvard.edu</email></address></author>
+<date year='1990' day='1' month='November' /></front>
+
+<seriesInfo name='RFC' value='1192' />
+<format type='TXT' octets='35253' target='http://www.rfc-editor.org/rfc/rfc1192.txt' />
+</reference>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0973'>
+
+<front>
+<title>Domain system changes and observations</title>
+<author initials='P.' surname='Mockapetris' fullname='P. Mockapetris'>
+<organization>University of Southern California (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<date year='1986' day='1' month='January' /></front>
+
+<seriesInfo name='RFC' value='973' />
+<format type='TXT' octets='22364' target='http://www.rfc-editor.org/rfc/rfc973.txt' />
+</reference>

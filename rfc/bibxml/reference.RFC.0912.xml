@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0912'>
+
+<front>
+<title>Authentication service</title>
+<author initials='M.' surname='St. Johns' fullname='Mike St. Johns'>
+<organization>TPSC</organization></author>
+<date year='1984' day='1' month='September' /></front>
+
+<seriesInfo name='RFC' value='912' />
+<format type='TXT' octets='4544' target='http://www.rfc-editor.org/rfc/rfc912.txt' />
+</reference>

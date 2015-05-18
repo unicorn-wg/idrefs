@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3389'>
+
+<front>
+<title>Real-time Transport Protocol (RTP) Payload for Comfort Noise (CN)</title>
+<author initials='R.' surname='Zopf' fullname='R. Zopf'>
+<organization /></author>
+<date year='2002' month='September' /></front>
+
+<seriesInfo name='RFC' value='3389' />
+<format type='TXT' octets='17018' target='http://www.rfc-editor.org/rfc/rfc3389.txt' />
+</reference>

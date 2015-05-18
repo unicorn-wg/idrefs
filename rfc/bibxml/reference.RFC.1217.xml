@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1217'>
+
+<front>
+<title abbrev='ULSNET BAA'>Memo from the Consortium for Slow Commotion Research (CSCR)</title>
+<author initials='V.' surname='Cerf' fullname='Vint Cerf'>
+<organization>Corporation for National Research Initiatives</organization>
+<address>
+<postal>
+<street>1895 Preston White Drive</street>
+<street>Suite 100</street>
+<city>Reston</city>
+<region>VA</region>
+<code>22091</code>
+<country>US</country></postal>
+<phone>+1 703 620 8990</phone>
+<email>CERF@NRI.RESTON.VA.US</email></address></author>
+<date year='1991' day='1' month='April' /></front>
+
+<seriesInfo name='RFC' value='1217' />
+<format type='TXT' octets='11079' target='http://www.rfc-editor.org/rfc/rfc1217.txt' />
+</reference>

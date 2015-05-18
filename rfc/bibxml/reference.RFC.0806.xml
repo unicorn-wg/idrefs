@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0806'>
+
+<front>
+<title>Proposed Federal Information Processing Standard: Specification for message format for computer based message systems</title>
+<author>
+<organization>National Bureau of Standards</organization></author>
+<date year='1981' day='1' month='September' /></front>
+
+<seriesInfo name='RFC' value='806' />
+<format type='TXT' octets='216377' target='http://www.rfc-editor.org/rfc/rfc806.txt' />
+</reference>

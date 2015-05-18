@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1400'>
+
+<front>
+<title abbrev='Transition of Registration Services'>Transition and Modernization of the Internet Registration Service</title>
+<author initials='S.' surname='Williamson' fullname='Scott Williamson'>
+<organization>Network Solutions, Inc.</organization>
+<address>
+<postal>
+<street>505 Huntmar Park Drive</street>
+<city>Herndon</city>
+<region>VA</region>
+<code>22070</code>
+<country>US</country></postal>
+<phone>+1 703 742 4820</phone>
+<email>scottw@internic.net</email></address></author>
+<date year='1993' month='March' /></front>
+
+<seriesInfo name='RFC' value='1400' />
+<format type='TXT' octets='13008' target='http://www.rfc-editor.org/rfc/rfc1400.txt' />
+</reference>

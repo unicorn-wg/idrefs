@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7147'>
+
+<front>
+<title>Definitions of Managed Objects for the Internet Small Computer System Interface (iSCSI)</title>
+<author initials='M.' surname='Bakke' fullname='M. Bakke'>
+<organization /></author>
+<author initials='P.' surname='Venkatesen' fullname='P. Venkatesen'>
+<organization /></author>
+<date year='2014' month='April' />
+<abstract>
+<t>This document defines a portion of the Management Information Base (MIB) for use with network management protocols. In particular, it defines objects for managing a client using the Internet Small Computer System Interface (iSCSI) protocol (SCSI over TCP).&lt;/t>&lt;t> This document obsoletes RFC 4544.</t></abstract></front>
+
+<seriesInfo name='RFC' value='7147' />
+<format type='TXT' octets='175936' target='http://www.rfc-editor.org/rfc/rfc7147.txt' />
+</reference>

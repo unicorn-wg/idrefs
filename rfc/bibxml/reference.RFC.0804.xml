@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0804'>
+
+<front>
+<title>CCITT draft recommendation T.4</title>
+<author>
+<organization>International Telephone and Telegraph Consultative Committee (CCITT)</organization></author>
+<date year='1981' day='1' month='January' /></front>
+
+<seriesInfo name='RFC' value='804' />
+<format type='TXT' octets='17025' target='http://www.rfc-editor.org/rfc/rfc804.txt' />
+</reference>

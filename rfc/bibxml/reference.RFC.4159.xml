@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4159'>
+
+<front>
+<title>Deprecation of "ip6.int"</title>
+<author initials='G.' surname='Huston' fullname='G. Huston'>
+<organization /></author>
+<date year='2005' month='August' />
+<abstract>
+<t>This document advises of the deprecation of the use of "ip6.int" for Standards Conformant IPv6 implementations.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t></abstract></front>
+
+<seriesInfo name='BCP' value='109' />
+<seriesInfo name='RFC' value='4159' />
+<format type='TXT' octets='5353' target='http://www.rfc-editor.org/rfc/rfc4159.txt' />
+</reference>

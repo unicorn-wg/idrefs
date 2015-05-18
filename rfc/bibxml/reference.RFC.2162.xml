@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2162'>
+
+<front>
+<title abbrev='MaXIM-11'>MaXIM-11 - Mapping between X.400 / Internet mail and Mail-11 mail</title>
+<author initials='C.' surname='Allocchio' fullname='Claudio Allocchio'>
+<organization>Sincrotrone Trieste</organization>
+<address>
+<postal>
+<street>SS 14 Km 163.5 Basovizza</street>
+<city>Trieste</city>
+<region />
+<code>I 34012</code>
+<country>IT</country></postal>
+<phone>+39 40 3758523</phone>
+<facsimile>+39 40 3758565</facsimile>
+<email>Claudio.Allocchio@elettra.Trieste.it</email></address></author>
+<date year='1998' month='January' />
+<abstract>
+<t>This document describes a set of mappings which will enable inter working between systems operating the ISO/IEC 10021 - CCITT (now ITU)  X.400 Recommendations on Message Handling Systems, and systems running the Mail-11 (also known as DECnet mail or VMSmail) protocol. The specifications are valid both within DECnet Phase IV and DECnet/OSI addressing and routing scheme.</t>
+<t>The complete scenario of X.400 / MIME / Mail-11 is also considered, in order to cover the possible complex cases arising in multiple gateway translations.</t>
+<t>This document covers mainly the X.400 O/R address to/from Mail-11 address mapping and the RFC822 to/from Mail-11 ones; other mappings are based on MIXER specifications. Bodypart mappings are not specified in this document: MIXER and MIME-MHS specifications can be applied to map bodyparts between X.400, MIME and Mail-11, too. In fact MIME encoding can be used without modifications within Mail-11 text bodyparts.</t>
+<t>This document obsoletes RFC 1405, which was a combined effort of TERENA Working Group on Messaging, and the IETF X.400 Ops Working Group. This update was prepared by IETF MIXER working group.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2162' />
+<format type='TXT' octets='58553' target='http://www.rfc-editor.org/rfc/rfc2162.txt' />
+</reference>

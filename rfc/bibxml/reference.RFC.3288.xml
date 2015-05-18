@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3288'>
+
+<front>
+<title abbrev='Using SOAP in BEEP'>Using the Simple Object Access Protocol (SOAP)
+in Blocks Extensible Exchange Protocol (BEEP)</title>
+<author initials='E.' surname='O&apos;Tuathail' fullname='Eamon O&apos;Tuathail'>
+<organization>Clipcode.com</organization>
+<address>
+<postal>
+<street>24 Thomastown Road</street>
+<street>Dun Laoghaire</street>
+<city></city>
+<region>Dublin</region>
+<code></code>
+<country>IE</country></postal>
+<phone>+353 1 2350 424</phone>
+<email>eamon.otuathail@clipcode.com</email>
+<uri>http://www.clipcode.com/</uri></address></author>
+<author initials='M.T.' surname='Rose' fullname='Marshall T. Rose'>
+<organization>Dover Beach Consulting, Inc.</organization>
+<address>
+<postal>
+<street>POB 255268</street>
+<city>Sacramento</city>
+<region>CA</region>
+<code>95865-5268</code>
+<country>US</country></postal>
+<phone>+1 916 483 8878</phone>
+<email>mrose@dbc.mtview.ca.us</email></address></author>
+<date year='2002' month='June' />
+<area>Applications</area>
+<keyword>BEEP</keyword>
+<keyword>SOAP</keyword>
+<abstract>
+<t>This memo specifies a Simple Object Access Protocol (SOAP) binding to
+the Blocks Extensible Exchange Protocol core (BEEP).
+A SOAP binding describes how SOAP messages are transmitted in the network.</t>
+<t>The SOAP is an XML-based (extensible markup language) messaging
+protocol used to implement a wide variety of distributed messaging
+models.
+It defines a message format and describes a variety of
+message patterns, including, but not limited to, RPC, asynchronous
+event notification, unacknowledged messages, and forwarding via SOAP
+intermediaries.</t></abstract></front>
+
+<seriesInfo name='RFC' value='3288' />
+<format type='TXT' octets='27434' target='http://www.rfc-editor.org/rfc/rfc3288.txt' />
+<format type='HTML' octets='56427' target='http://xml.resource.org/public/rfc/html/rfc3288.html' />
+<format type='XML' octets='46650' target='http://xml.resource.org/public/rfc/xml/rfc3288.xml' />
+</reference>

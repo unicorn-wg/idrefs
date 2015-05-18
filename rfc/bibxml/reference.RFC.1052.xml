@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1052'>
+
+<front>
+<title abbrev='Internet Management'>IAB recommendations for the development of Internet network management standards</title>
+<author initials='V.' surname='Cerf' fullname='Vint Cerf'>
+<organization>Corp. for National Research Initiatives (NRI)</organization>
+<address>
+<postal>
+<street>1895 Preston White Dr.</street>
+<street>Suite 100</street>
+<city>Reston</city>
+<region>VA</region>
+<code>22091</code>
+<country>US</country></postal>
+<phone>+1 703 620 8990</phone>
+<email>Cerf@ISI.EDU</email></address></author>
+<date year='1988' day='1' month='April' /></front>
+
+<seriesInfo name='RFC' value='1052' />
+<format type='TXT' octets='30569' target='http://www.rfc-editor.org/rfc/rfc1052.txt' />
+</reference>

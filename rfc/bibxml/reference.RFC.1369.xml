@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1369'>
+
+<front>
+<title abbrev='Ethernet MIB Implementations'>Implementation Notes and Experience for the Internet Ethernet MIB</title>
+<author initials='F.' surname='Kastenholz' fullname='Frank J. Kastenholz'>
+<organization>FTP Software</organization>
+<address>
+<postal>
+<street>2 High Street</street>
+<city>North Andover</city>
+<region>MA</region>
+<code>01845</code>
+<country>US</country></postal>
+<phone>+1 508 685 4000</phone>
+<email>kasten@ftp.com</email></address></author>
+<date year='1992' month='October' /></front>
+
+<seriesInfo name='RFC' value='1369' />
+<format type='TXT' octets='13961' target='http://www.rfc-editor.org/rfc/rfc1369.txt' />
+</reference>

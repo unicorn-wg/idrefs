@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2753'>
+
+<front>
+<title abbrev='Framework for Policy-based Admission Control'>A Framework for Policy-based Admission Control</title>
+<author initials='R.' surname='Yavatkar' fullname='Raj Yavatkar'>
+<organization>Intel Corporation</organization>
+<address>
+<postal>
+<street>2111 N.E. 25th Avenue</street>
+<city>Hillsboro</city>
+<region>OR</region>
+<code>97124</code>
+<country>US</country></postal>
+<phone>+1 503 264 9077</phone>
+<email>raj.yavatkar@intel.com</email></address></author>
+<author initials='D.' surname='Pendarakis' fullname='Dimitrios Pendarakis'>
+<organization>IBM T.J. Watson Research Center</organization>
+<address>
+<postal>
+<street>P.O. Box 704</street>
+<city>Yorktown Heights</city>
+<region>NY</region>
+<code>10598</code>
+<country>US</country></postal>
+<phone>+1 914 784 7536</phone>
+<email>dimitris@watson.ibm.com</email></address></author>
+<author initials='R.' surname='Guerin' fullname='Roch Guerin'>
+<organization>University of Pennsylvania, Dept. of Electrical Engineering</organization>
+<address>
+<postal>
+<street>200 South 33rd Street</street>
+<city>Philadelphia</city>
+<region>PA</region>
+<code>19104</code>
+<country>US</country></postal>
+<phone>+1 215 898 9351</phone>
+<email>guerin@ee.upenn.edu</email></address></author>
+<date year='2000' month='January' />
+<abstract>
+<t></t></abstract></front>
+
+<seriesInfo name='RFC' value='2753' />
+<format type='TXT' octets='49763' target='http://www.rfc-editor.org/rfc/rfc2753.txt' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0734'>
+
+<front>
+<title abbrev='SUPDUP Display Protocol'>SUPDUP Protocol</title>
+<author initials='M.' surname='Crispin' fullname='Mark Crispin'>
+<organization>Stanford University, Artifical Intelligence</organization></author>
+<date year='1977' day='7' month='October' /></front>
+
+<seriesInfo name='RFC' value='734' />
+<format type='TXT' octets='33256' target='http://www.rfc-editor.org/rfc/rfc734.txt' />
+</reference>

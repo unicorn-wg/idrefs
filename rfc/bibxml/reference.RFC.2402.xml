@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2402'>
+
+<front>
+<title>IP Authentication Header</title>
+<author initials='S.' surname='Kent' fullname='Stephen Kent'>
+<organization>BBN Corporation</organization>
+<address>
+<postal>
+<street>70 Fawcett Street</street>
+<street>Cambridge</street>
+<street>MA  02140</street>
+<country>USA</country></postal>
+<phone>+1 (617) 873-3988</phone>
+<email>kent@bbn.com</email></address></author>
+<author initials='R.' surname='Atkinson' fullname='Randall Atkinson'>
+<organization>@Home Network</organization>
+<address>
+<postal>
+<street>425 Broadway</street>
+<street>Redwood City</street>
+<street>CA  94063</street>
+<country>USA</country></postal>
+<phone>+1 (415) 569-5000</phone>
+<email>rja@corp.home.net</email></address></author>
+<date year='1998' month='November' />
+<area>Internet</area>
+<area>Security</area>
+<keyword>IP security protocol</keyword>
+<keyword>authentication</keyword>
+<keyword>internet protocol version 6</keyword></front>
+
+<seriesInfo name='RFC' value='2402' />
+<format type='TXT' octets='52831' target='http://www.rfc-editor.org/rfc/rfc2402.txt' />
+<format type='XML' octets='52165' target='http://xml.resource.org/public/rfc/xml/rfc2402.xml' />
+</reference>

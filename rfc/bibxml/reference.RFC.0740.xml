@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0740'>
+
+<front>
+<title>NETRJS Protocol</title>
+<author initials='R.' surname='Braden' fullname='R. Braden'>
+<organization>University of California, Los Angeles (UCLA), CCN</organization></author>
+<date year='1977' day='22' month='November' /></front>
+
+<seriesInfo name='RFC' value='740' />
+<format type='TXT' octets='38833' target='http://www.rfc-editor.org/rfc/rfc740.txt' />
+</reference>

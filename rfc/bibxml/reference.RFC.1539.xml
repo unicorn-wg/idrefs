@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1539'>
+
+<front>
+<title abbrev='The Tao of IETF'>The Tao of IETF - A Guide for New Attendees of the Internet Engineering Task Force</title>
+<author initials='G.S.' surname='Malkin' fullname='Gary Scott Malkin'>
+<organization>Xylogics, Inc.</organization>
+<address>
+<postal>
+<street>53 Third Avenue</street>
+<city>Burlington</city>
+<region>MA</region>
+<code>01803</code>
+<country>US</country></postal>
+<phone>+1 617 272 8140</phone>
+<email>gmalkin@Xylogics.COM</email></address></author>
+<date year='1993' month='October' />
+<abstract>
+<t>Over the last two years, the attendance at Internet Engineering Task Force (IETF) Plenary meetings has grown phenomenally.  Approximately 38% of the attendees are new to the IETF at each meeting.  About 33% of those go on to become regular attendees.  When the meetings were smaller, it wasn't very difficult for a newcomer to get to know people and get into the swing of things.  Today, however, a newcomer meets many more new people, some previously known only as the authors of Request For Comments (RFC) documents or thought provoking email messages.</t>
+<t>The purpose of this For Your Information (FYI) RFC is to explain to the newcomers how the IETF works.  This will give them a warm, fuzzy feeling and enable them to make the meeting more productive for everyone.  This FYI will also provide the mundane bits of information which everyone who attends an IETF meeting should know.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1539' />
+<format type='TXT' octets='48199' target='http://www.rfc-editor.org/rfc/rfc1539.txt' />
+</reference>

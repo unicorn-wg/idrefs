@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1200'>
+
+<front>
+<title abbrev='IAB Standards'>IAB official protocol standards</title>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone>
+<facsimile>+1 213 823 6714</facsimile>
+<email>Postel@ISI.EDU</email></address></author>
+<date year='1991' day='1' month='April' /></front>
+
+<seriesInfo name='RFC' value='1200' />
+<format type='TXT' octets='67069' target='http://www.rfc-editor.org/rfc/rfc1200.txt' />
+</reference>

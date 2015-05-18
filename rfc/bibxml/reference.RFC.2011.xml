@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2011'>
+
+<front>
+<title abbrev='IP MIB'>SNMPv2 Management Information Base for the Internet Protocol using SMIv2</title>
+<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
+<organization>Cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<street>San Jose</street>
+<street>CA  95134-1706</street>
+<country>US</country></postal>
+<phone>+1 408 526 5260</phone>
+<email>kzm@cisco.com</email></address></author>
+<date year='1996' month='November' />
+<area>Management</area>
+<area>Internet</area>
+<keyword>Management Information Base</keyword>
+<keyword>internet control message protocol</keyword>
+<keyword>simple network management protocol version 2</keyword>
+<keyword>structure of management information version 2</keyword>
+<note title='IESG Note'>
+<t>
+   The IP, UDP, and TCP MIB modules currently support only IPv4.  These
+   three modules use the IpAddress type defined as an OCTET STRING of
+   length 4 to represent the IPv4 32-bit internet addresses.  (See RFC
+   1902, SMI for SNMPv2.)  They do not support the new 128-bit IPv6
+   internet addresses.
+</t></note></front>
+
+<seriesInfo name='RFC' value='2011' />
+<format type='TXT' octets='31168' target='http://www.rfc-editor.org/rfc/rfc2011.txt' />
+<format type='XML' octets='31237' target='http://xml.resource.org/public/rfc/xml/rfc2011.xml' />
+</reference>

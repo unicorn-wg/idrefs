@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0074'>
+
+<front>
+<title>Specifications for Network Use of the UCSB On-Line System</title>
+<author initials='J.E.' surname='White' fullname='J.E. White'>
+<organization /></author>
+<date year='1970' month='October' /></front>
+
+<seriesInfo name='RFC' value='74' />
+<format type='TXT' octets='21368' target='http://www.rfc-editor.org/rfc/rfc74.txt' />
+<format type='PDF' octets='521403' target='http://www.rfc-editor.org/rfc/rfc74.pdf' />
+</reference>

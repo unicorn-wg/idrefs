@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0932'>
+
+<front>
+<title>Subnetwork addressing scheme</title>
+<author initials='D.' surname='Clark' fullname='David D. Clark'>
+<organization>Massachusetts Institute of Technology (MIT), LCS</organization></author>
+<date year='1985' day='1' month='January' /></front>
+
+<seriesInfo name='RFC' value='932' />
+<format type='TXT' octets='9283' target='http://www.rfc-editor.org/rfc/rfc932.txt' />
+</reference>

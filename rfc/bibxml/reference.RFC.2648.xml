@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2648'>
+
+<front>
+<title>A URN Namespace for IETF Documents</title>
+<author initials='R.' surname='Moats' fullname='Ryan Moats'>
+<organization>AT&amp;T</organization>
+<address>
+<postal>
+<street>15621 Drexel Circle</street>
+<city>Omaha</city>
+<region>NE</region>
+<code>68135-2358</code>
+<country>US</country></postal>
+<email>jayhawk@att.com</email></address></author>
+<date year='1999' month='August' />
+<abstract>
+<t>A system for Uniform Resource Names (URNs) must be capable of supporting new naming systems. As an example of proposing a new namespace, this document proposes the "ietf" namespace. This namespace consists of the RFC family of documents (RFCs, STDs, FYIs, and BCPs) developed by the IETF and published by the RFC Editor, the minutes of working groups (WG) and birds of a feather (BOF) meetings that occur during IETF conferences, and the Internet Drafts published by the Internet Drafts Editor. Both the current URN framework and URN syntax support this namespace.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2648' />
+<format type='TXT' octets='46826' target='http://www.rfc-editor.org/rfc/rfc2648.txt' />
+</reference>

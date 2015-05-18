@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2171'>
+
+<front>
+<title abbrev='MAPOS'>MAPOS - Multiple Access Protocol over SONET/SDH  Version 1</title>
+<author initials='K.' surname='Murakami' fullname='Ken Murakami'>
+<organization>NTT Software Laboratories</organization>
+<address>
+<postal>
+<street>3-9-11</street>
+<street>Midori-cho</street>
+<street>Musashino-shi</street>
+<street>Tokyo-180</street>
+<country>Japan</country></postal>
+<email>murakami@ntt-20.ecl.net</email></address></author>
+<author initials='M.' surname='Maruyama' fullname='Mitsuru Maruyama'>
+<organization>NTT Software Laboratories</organization>
+<address>
+<postal>
+<street>3-9-11</street>
+<street>Midori-cho</street>
+<street>Musashino-shi</street>
+<street>Tokyo-180</street>
+<country>Japan</country></postal>
+<email>mitsuru@ntt-20.ecl.net</email></address></author>
+<date year='1997' month='June' />
+<area>Internet</area>
+<keyword>SONET</keyword>
+<keyword>synchronous data hierarchy</keyword>
+<keyword>synchronous optical network</keyword></front>
+
+<seriesInfo name='RFC' value='2171' />
+<format type='TXT' octets='17480' target='http://www.rfc-editor.org/rfc/rfc2171.txt' />
+<format type='XML' octets='19882' target='http://xml.resource.org/public/rfc/xml/rfc2171.xml' />
+</reference>

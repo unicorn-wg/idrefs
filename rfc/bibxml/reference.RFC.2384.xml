@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2384'>
+
+<front>
+<title>POP URL Scheme</title>
+<author initials='R.' surname='Gellens' fullname='Randall Gellens'>
+<organization>QUALCOMM, Incorporated</organization>
+<address>
+<postal>
+<street>6455 Lusk Blvd.</street>
+<street>San Diego</street>
+<street>CA  92121-2779</street>
+<street>U.S.A.</street></postal>
+<phone>+1 619 651 5115</phone>
+<facsimile>+1 619 651 5334</facsimile>
+<email>Randy@Qualcomm.Com</email></address></author>
+<date year='1998' month='August' />
+<area>Applications</area>
+<keyword>POP</keyword>
+<keyword>post office protocol</keyword>
+<keyword>uniform resource</keyword></front>
+
+<seriesInfo name='RFC' value='2384' />
+<format type='TXT' octets='13649' target='http://www.rfc-editor.org/rfc/rfc2384.txt' />
+<format type='XML' octets='16503' target='http://xml.resource.org/public/rfc/xml/rfc2384.xml' />
+</reference>

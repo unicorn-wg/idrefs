@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2606'>
+
+<front>
+<title>Reserved Top Level DNS Names</title>
+<author initials='D.E.' surname='Eastlake' fullname='Donald E. Eastlake 3rd'>
+<organization>IBM</organization>
+<address>
+<postal>
+<street>65 Shindegan Hill Road</street>
+<street>RR #1</street>
+<city>Carmel</city>
+<region>NY</region>
+<code>10512</code>
+<country>US</country></postal>
+<phone>+1 914 276 1668</phone>
+<facsimile>+1 914 784 3833</facsimile>
+<email>dee3@us.ibm.com</email></address></author>
+<author initials='A.' surname='Panitz' fullname='Aliza R. Panitz'>
+<organization />
+<address>
+<postal>
+<street>500 Stamford Dr. No. 310</street>
+<city>Newark</city>
+<region>DE</region>
+<code>19711</code>
+<country>US</country></postal>
+<phone>+1 302 738 1554</phone>
+<email>buglady@fuschia.net</email></address></author>
+<date year='1999' month='June' />
+<abstract>
+<t>To reduce the likelihood of conflict and confusion, a few top level domain names are reserved for use in private testing, as examples in documentation, and the like.  In addition, a few second level domain names reserved for use as examples are documented.</t></abstract></front>
+
+<seriesInfo name='BCP' value='32' />
+<seriesInfo name='RFC' value='2606' />
+<format type='TXT' octets='8008' target='http://www.rfc-editor.org/rfc/rfc2606.txt' />
+</reference>

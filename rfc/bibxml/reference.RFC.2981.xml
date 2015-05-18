@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2981'>
+
+<front>
+<title>Event MIB</title>
+<author initials='R.' surname='Kavasseri' fullname='R. Kavasseri'>
+<organization /></author>
+<date year='2000' month='October' />
+<abstract>
+<t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects that can be used to manage and monitor MIB objects and take action through events. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='2981' />
+<format type='TXT' octets='98248' target='http://www.rfc-editor.org/rfc/rfc2981.txt' />
+</reference>

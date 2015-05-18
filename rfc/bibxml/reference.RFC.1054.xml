@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1054'>
+
+<front>
+<title>Host extensions for IP multicasting</title>
+<author initials='S.' surname='Deering' fullname='S. Deering'>
+<organization>Stanford University</organization></author>
+<date year='1988' day='1' month='May' /></front>
+
+<seriesInfo name='RFC' value='1054' />
+<format type='TXT' octets='45465' target='http://www.rfc-editor.org/rfc/rfc1054.txt' />
+</reference>

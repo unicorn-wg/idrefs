@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2177'>
+
+<front>
+<title>IMAP4 IDLE command</title>
+<author initials='B.' surname='Leiba' fullname='Barry Leiba'>
+<organization>IBM T.J. Watson Research Center</organization>
+<address>
+<postal>
+<street>30 Saw Mill River Road</street>
+<street>Hawthorne</street>
+<street>NY  10532</street></postal>
+<email>leiba@watson.ibm.com</email></address></author>
+<date year='1997' month='June' />
+<area>Applications</area>
+<keyword>IMAP</keyword>
+<keyword>internet message access protocol</keyword></front>
+
+<seriesInfo name='RFC' value='2177' />
+<format type='TXT' octets='6770' target='http://www.rfc-editor.org/rfc/rfc2177.txt' />
+<format type='XML' octets='8141' target='http://xml.resource.org/public/rfc/xml/rfc2177.xml' />
+</reference>

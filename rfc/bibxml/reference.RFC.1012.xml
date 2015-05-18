@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1012'>
+
+<front>
+<title abbrev='Bibliography of RFCs 1 - 999'>Bibliography of Request For Comments 1 through 999</title>
+<author initials='J.' surname='Reynolds' fullname='J. Reynolds'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<author initials='J.' surname='Postel' fullname='J. Postel'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<date year='1987' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='1012' />
+<format type='TXT' octets='129194' target='http://www.rfc-editor.org/rfc/rfc1012.txt' />
+</reference>

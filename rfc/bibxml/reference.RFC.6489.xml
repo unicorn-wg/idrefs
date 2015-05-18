@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6489'>
+
+<front>
+<title>Certification Authority (CA) Key Rollover in the Resource Public Key Infrastructure (RPKI)</title>
+<author initials='G.' surname='Huston' fullname='G. Huston'>
+<organization /></author>
+<author initials='G.' surname='Michaelson' fullname='G. Michaelson'>
+<organization /></author>
+<author initials='S.' surname='Kent' fullname='S. Kent'>
+<organization /></author>
+<date year='2012' month='February' />
+<abstract>
+<t>This document describes how a Certification Authority (CA) in the Resource Public Key Infrastructure (RPKI) performs a planned rollover of its key pair.  This document also notes the implications of this key rollover procedure for relying parties (RPs).  In general, RPs are expected to maintain a local cache of the objects that have been published in the RPKI repository, and thus the way in which a CA performs key rollover impacts RPs.  This memo documents an Internet Best Current Practice.</t></abstract></front>
+
+<seriesInfo name='BCP' value='174' />
+<seriesInfo name='RFC' value='6489' />
+<format type='TXT' octets='23060' target='http://www.rfc-editor.org/rfc/rfc6489.txt' />
+</reference>

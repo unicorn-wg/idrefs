@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2336'>
+
+<front>
+<title abbrev='IP and ARP over ATM to NHRP'>Classical IP and ARP over ATM to NHRP Transition</title>
+<author initials='J.V.' surname='Luciani' fullname='James V. Luciani'>
+<organization>Bay Networks</organization>
+<address>
+<postal>
+<street>3 Federal Street</street>
+<street>Mail Stop: BL3-03</street>
+<city>Billerica</city>
+<region>MA</region>
+<code>01821</code></postal>
+<email>luciani@baynetworks.com</email></address></author>
+<date year='1998' month='July' />
+<area>Internet</area>
+<keyword>ATM</keyword>
+<keyword>NHRP</keyword>
+<abstract>
+<t>
+   This document describes methods and procedures for the graceful
+
+   transition from an ATMARP LIS[1] to an NHRP LIS[2] network model over
+
+   ATM.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2336' />
+<format type='TXT' octets='10500' target='http://www.rfc-editor.org/rfc/rfc2336.txt' />
+<format type='XML' octets='11024' target='http://xml.resource.org/public/rfc/xml/rfc2336.xml' />
+</reference>

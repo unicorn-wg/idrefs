@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2351'>
+
+<front>
+<title abbrev='MATIP'>Mapping of Airline Reservation, Ticketing, and Messaging Traffic over IP</title>
+<author initials='A.' surname='Robert' fullname='Alain Robert'>
+<organization>S.I.T.A.</organization>
+<address>
+<postal>
+<street>18, rue Paul Lafargue</street>
+<street>92904 PARIS LA DEFENSE 10</street>
+<country>FRANCE</country></postal>
+<phone>33 1 46411491</phone>
+<facsimile>33 1 46411277</facsimile>
+<email>arobert@par1.par.sita.int</email></address></author>
+<date year='1998' month='May' />
+<area>Internet</area>
+<keyword>encapsulate</keyword>
+<abstract>
+<t>
+
+   This memo specifies a protocol for the encapsulation of the airline
+
+   specific protocol over IP.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2351' />
+<format type='TXT' octets='43440' target='http://www.rfc-editor.org/rfc/rfc2351.txt' />
+<format type='HTML' octets='59248' target='http://xml.resource.org/public/rfc/html/rfc2351.html' />
+<format type='XML' octets='43770' target='http://xml.resource.org/public/rfc/xml/rfc2351.xml' />
+</reference>

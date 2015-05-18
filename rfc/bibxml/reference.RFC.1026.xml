@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1026'>
+
+<front>
+<title>Addendum to RFC 987: (Mapping between X.400 and RFC-822)</title>
+<author initials='S.' surname='Kille' fullname='S. E. Kille'>
+<organization>University College London</organization></author>
+<date year='1987' day='1' month='September' /></front>
+
+<seriesInfo name='RFC' value='1026' />
+<format type='TXT' octets='7117' target='http://www.rfc-editor.org/rfc/rfc1026.txt' />
+</reference>

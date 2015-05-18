@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2729'>
+
+<front>
+<title abbrev='Taxonomy of Communication Requirements'>Taxonomy of Communication Requirements for Large-scale Multicast Applications</title>
+<author initials='P.' surname='Bagnall' fullname='Peter Bagnall'>
+<organization>BT Labs</organization>
+<address>
+<postal>
+<street>B54/77 Martlesham Heath</street>
+<city>Ipswich</city>
+<region>England</region>
+<code>IP5 3RE</code>
+<country>UK</country></postal>
+<email>pete@surfaceeffect.com</email></address></author>
+<author initials='B.' surname='Briscoe' fullname='Bob Briscoe'>
+<organization>BT Labs</organization>
+<address>
+<postal>
+<street>B54/77 Martlesham Heath</street>
+<city>Ipswich</city>
+<region>England</region>
+<code>IP5 3RE</code>
+<country>UK</country></postal>
+<phone>+44 1473 645196</phone>
+<facsimile>+44 1473 640929</facsimile>
+<email>bob.briscoe@bt.com</email></address></author>
+<author initials='A.' surname='Poppitt' fullname='Alan Poppitt'>
+<organization>BT Labs</organization>
+<address>
+<postal>
+<street>B54/77 Martlesham Heath</street>
+<city>Ipswich</city>
+<region>England</region>
+<code>IP5 3RE</code>
+<country>UK</country></postal>
+<phone>+44 1473 640889</phone>
+<facsimile>+44 1473 640929</facsimile>
+<email>apoppitt@jungle.bt.co.uk</email></address></author>
+<date year='1999' month='December' />
+<abstract>
+<t>The intention of this memo is to define a classification system for the communication requirements of any large-scale multicast application (LSMA). It is very unlikely one protocol can achieve a compromise between the diverse requirements of all the parties involved in any LSMA. It is therefore necessary to understand the worst-case scenarios in order to minimize the range of protocols needed. Dynamic protocol adaptation is likely to be necessary which will require logic to map particular combinations of requirements to particular mechanisms.  Standardizing the way that applications define their requirements is a necessary step towards this. Classification is a first step towards standardization.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2729' />
+<format type='TXT' octets='53322' target='http://www.rfc-editor.org/rfc/rfc2729.txt' />
+</reference>

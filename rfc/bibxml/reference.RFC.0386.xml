@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0386'>
+
+<front>
+<title>Letter to TIP users-2</title>
+<author initials='B.' surname='Cosell' fullname='Bernard P. Cosell'>
+<organization>Bolt Beranek and Newman Inc. (BBN)</organization></author>
+<author initials='D.' surname='Walden' fullname='David C. Walden'>
+<organization>Bolt Beranek and Newman Inc. (BBN)</organization></author>
+<date year='1972' day='16' month='August' />
+<abstract>
+<t>This is the second letter to TIP users.  The first was RFC #365. There will be more letters to TIP users as they seem to us to be a good way to keep you informed about what's going on.  We suggest you keep these letters with your TIP User's Guide (TUG) as we will use the letters to provide documentation of TIP system changes which are made before we can get TUG revisions printed and distributed. (It is almost inevitable that the TUG revisions follow actual system changes. Further more, these letters will allow us more discussion of new commands than in TUG.)</t></abstract></front>
+
+<seriesInfo name='RFC' value='386' />
+<format type='TXT' octets='12475' target='http://www.rfc-editor.org/rfc/rfc386.txt' />
+</reference>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2692'>
+
+<front>
+<title>SPKI Requirements</title>
+<author initials='C.' surname='Ellison' fullname='Carl M. Ellison'>
+<organization>Intel Corporation</organization>
+<address>
+<postal>
+<street>2111 NE 25th Avenue</street>
+<street>M/S JF3-212</street>
+<city>Hillsboro</city>
+<region>OR</region>
+<code>97124-5961</code>
+<country>US</country></postal>
+<phone>+1 503 264 2900</phone>
+<facsimile>+1 503 264 6225</facsimile>
+<email>carl.m.ellison@intel.com</email>
+<uri>http://www.pobox.com/~cme</uri></address></author>
+<date year='1999' month='September' />
+<abstract>
+<t>The IETF Simple Public Key Infrastructure (SPKI) Working Group is
+tasked with producing a certificate structure and operating procedure
+to meet the needs of the Internet community for trust management in as
+easy, simple and extensible a way as possible.</t>
+<t>The SPKI Working Group first established a list of things one might
+want to do with certificates (attached at the end of this document),
+and then summarized that list of desires into requirements.
+This document presents that summary of requirements.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2692' />
+<format type='TXT' octets='29569' target='http://www.rfc-editor.org/rfc/rfc2692.txt' />
+</reference>

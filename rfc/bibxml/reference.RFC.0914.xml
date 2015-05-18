@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0914'>
+
+<front>
+<title abbrev='Thinwire Protocol'>Thinwire protocol for connecting personal computers to the Internet</title>
+<author initials='D.' surname='Farber' fullname='David J. Farber'>
+<organization>University of Delaware</organization></author>
+<author initials='G.' surname='Delp' fullname='Gary S. Delp'>
+<organization>University of Delaware</organization></author>
+<author initials='T.' surname='Conte' fullname='Thomas M. Conte'>
+<organization>University of Delaware</organization></author>
+<date year='1984' day='1' month='September' /></front>
+
+<seriesInfo name='RFC' value='914' />
+<format type='TXT' octets='57288' target='http://www.rfc-editor.org/rfc/rfc914.txt' />
+</reference>

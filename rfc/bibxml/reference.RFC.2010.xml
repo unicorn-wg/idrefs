@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2010'>
+
+<front>
+<title abbrev='DNSSVR Criteria'>Operational Criteria for Root Name Servers</title>
+<author initials='B.' surname='Manning' fullname='Bill Manning'>
+<organization>USC/ISI</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<street>Marina del Rey</street>
+<street>CA 90292</street></postal>
+<phone>+1 310 822 1511</phone>
+<email>bmanning@isi.edu</email></address></author>
+<author initials='P.' surname='Vixie' fullname='Paul Vixie'>
+<organization>Internet Software Consortium</organization>
+<address>
+<postal>
+<street>Star Route Box 159A</street>
+<street>Woodside</street>
+<street>CA 94062</street></postal>
+<phone>+1 415 747 0204</phone>
+<email>paul@vix.com</email></address></author>
+<date year='1996' month='October' />
+<area>Applications</area>
+<keyword>DNS</keyword>
+<keyword>domain name system</keyword>
+<abstract>
+<t>
+   This document specifies the operational requirements of root name
+   servers, including host hardware capacities, name server software
+   revisions, network connectivity, and physical environment.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2010' />
+<format type='TXT' octets='14870' target='http://www.rfc-editor.org/rfc/rfc2010.txt' />
+<format type='HTML' octets='29297' target='http://xml.resource.org/public/rfc/html/rfc2010.html' />
+<format type='XML' octets='15912' target='http://xml.resource.org/public/rfc/xml/rfc2010.xml' />
+</reference>

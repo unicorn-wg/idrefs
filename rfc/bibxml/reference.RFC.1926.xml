@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1926'>
+
+<front>
+<title abbrev='IP over ATM'>An Experimental Encapsulation of IP Datagrams on Top of ATM</title>
+<author initials='J.' surname='Eriksson' fullname='Johnny Eriksson'>
+<organization>KTH NOC</organization>
+<address>
+<email>bygg@sunet.se</email></address></author>
+<date year='1996' month='April' day='1' />
+<abstract>
+<t>This RFC describes a method of encapsulating IP datagrams on top of Acoustical Transmission Media (ATM).  This is a non-recommended standard.  Distribution of this memo is unnecessary.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1926' />
+<format type='TXT' octets='2969' target='http://www.rfc-editor.org/rfc/rfc1926.txt' />
+</reference>

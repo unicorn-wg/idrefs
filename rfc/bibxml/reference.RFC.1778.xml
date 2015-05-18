@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1778'>
+
+<front>
+<title abbrev='Syntax Encoding'>The String Representation of Standard Attribute Syntaxes</title>
+<author initials='T.' surname='Howes' fullname='Tim Howes'>
+<organization>University of Michigan, ITD Research Systems</organization>
+<address>
+<postal>
+<street>535 W William St.</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48103-4943</code>
+<country>US</country></postal>
+<phone>+1 313 747 4454</phone>
+<email>tim@umich.edu</email></address></author>
+<author initials='S.' surname='Kille' fullname='Steve Kille'>
+<organization>ISODE Consortium</organization>
+<address>
+<postal>
+<street>POB 505</street>
+<city>London</city>
+<region>England</region>
+<code>SW11 1DX</code>
+<country>UK</country></postal>
+<phone>+44 71 2234062</phone>
+<email>S.Kille@isode.com</email></address></author>
+<author initials='W.' surname='Yeong' fullname='Wengyik Yeong'>
+<organization>PSI Inc.</organization>
+<address>
+<postal>
+<street>510 Huntmar Park Drive</street>
+<city>Herndon</city>
+<region>VA</region>
+<code>22070</code>
+<country>US</country></postal>
+<phone>+1 703 450 8001</phone>
+<email>yeongw@psilink.com</email></address></author>
+<author initials='C.' surname='Robbins' fullname='Colin Robbins'>
+<organization>NeXor Ltd</organization>
+<address>
+<postal>
+<street>University Park</street>
+<city>Nottingham</city>
+<region>England</region>
+<code>NG7 2RD</code>
+<country>UK</country></postal></address></author>
+<date year='1995' month='March' />
+<abstract>
+<t>The Lightweight Directory Access Protocol (LDAP)requires that the contents of AttributeValue fields in protocol elements be octet strings.  This document defines the requirements that must be satisfied by encoding rules used to render X.500 Directory attribute syntaxes into a form suitable for use in the LDAP, then goes on to define the encoding rules for the standard set of attribute syntaxes defined in,and.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1778' />
+<format type='TXT' octets='19053' target='http://www.rfc-editor.org/rfc/rfc1778.txt' />
+</reference>

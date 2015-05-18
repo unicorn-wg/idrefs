@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2291'>
+
+<front>
+<title abbrev='Distributed Authoring and Versioning'>Requirements for a Distributed Authoring and Versioning Protocol for the World Wide Web</title>
+<author initials='J.' surname='Slein' fullname='J. Slein'>
+<organization abbrev='Xerox'>Xerox Corporation</organization>
+<address>
+<postal>
+<street>800 Phillips Road 128-29E</street>
+<city>Webster</city>
+<region>NY</region>
+<code>14580</code></postal>
+<email>slein@wrc.xerox.com</email></address></author>
+<author initials='F.' surname='Vitali' fullname='Fabio Vitali'>
+<organization abbrev='University of Bologna'>Department of Computer Science, University of Bologna</organization>
+<address>
+<email>fabio@cs.unibo.it</email></address></author>
+<author initials='E.' surname='Whitehead' fullname='E. J. Whitehead, Jr.'>
+<organization abbrev='U.C. Irvine'>Dept. Of Information and Computer Science,
+    University of California, Irvine</organization>
+<address>
+<postal>
+<street />
+<city>Irvine</city>
+<region>CA</region>
+<code>92697-3425</code></postal>
+<facsimile>714-824-4056</facsimile>
+<email>ejw@ics.uci.edu</email></address></author>
+<author initials='D.' surname='Durand' fullname='David G. Durand'>
+<organization abbrev='Boston University'>Department of Computer Science,
+   Boston University</organization>
+<address>
+<postal>
+<street />
+<city>Boston</city>
+<region>MA</region></postal>
+<email>dgd@cs.bu.edu</email></address></author>
+<date year='1998' month='February' />
+<area>Applications</area>
+<abstract>
+<t>
+   Current World Wide Web (WWW or Web) standards provide simple support
+   for applications which allow remote editing of typed data. In
+   practice, the existing capabilities of the WWW have proven inadequate
+   to support efficient, scalable remote editing free of overwriting
+   conflicts. This document presents a list of features in the form of
+   requirements for a Web Distributed Authoring and Versioning protocol
+   which, if implemented, would improve the efficiency of common remote
+   editing operations, provide a locking mechanism to prevent overwrite
+   conflicts, improve link management support between non-HTML data
+   types, provide a simple attribute-value metadata facility, provide
+   for the creation and reading of container data types, and integrate
+   versioning into the WWW.
+  </t></abstract></front>
+
+<seriesInfo name='RFC' value='2291' />
+<format type='TXT' octets='44036' target='http://www.rfc-editor.org/rfc/rfc2291.txt' />
+<format type='HTML' octets='83431' target='http://xml.resource.org/public/rfc/html/rfc2291.html' />
+<format type='XML' octets='50752' target='http://xml.resource.org/public/rfc/xml/rfc2291.xml' />
+</reference>

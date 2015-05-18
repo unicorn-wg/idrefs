@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1125'>
+
+<front>
+<title abbrev='Policy Requirements'>Policy requirements for inter Administrative Domain routing</title>
+<author initials='D.' surname='Estrin' fullname='Deborah Estrin'>
+<organization>University of Southern California (USC), Computer Science Department</organization>
+<address>
+<postal>
+<street />
+<city>Los Angeles</city>
+<region>CA</region>
+<code>90089-0782</code>
+<country>US</country></postal>
+<phone>+1 213 743 7842</phone>
+<email>Estrin@OBERON.USC.EDU</email></address></author>
+<date year='1989' day='1' month='November' />
+<abstract>
+<t>Efforts are now underway to develop a new generation of routing protocol that will allow each Administrative Domain (AD) in the growing Internet (and internets in general) to independently express and enforce policies regarding the flow of packets to, from, and through its resources. (FOOTNOTE 1: The material presented here incorporates discussions held with members of the IAB Autonomous Networks Research Group and the Open Routing Working Group.)  This document articulates the requirements for policy based routing and should be used as input to the functional specification and evaluation of proposed protocols.</t>
+<t>Two critical assumptions will shape the type of routing mechanism that is devised: (1) the topological organization of ADs, and (2) the type and variability of policies expressed by ADs.  After justifying our assumptions regarding AD topology we present a taxonomy, and specific examples, of policies that must be supported by a PR protocol.  We conclude with a brief discussion of policy routing mechanisms proposed in previous RFCs (827, 1102, 1104, 1105).  Future RFCs will elaborate on the architecture and protocols needed to support the requirements presented here.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1125' />
+<format type='TXT' octets='55248' target='http://www.rfc-editor.org/rfc/rfc1125.txt' />
+<format type='PS' octets='282123' target='http://www.rfc-editor.org/rfc/rfc1125.ps' />
+<format type='PDF' octets='289862' target='http://www.rfc-editor.org/rfc/rfc1125.pdf' />
+</reference>

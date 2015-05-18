@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4132'>
+
+<front>
+<title>Addition of Camellia Cipher Suites to Transport Layer Security (TLS)</title>
+<author initials='S.' surname='Moriai' fullname='S. Moriai'>
+<organization /></author>
+<author initials='A.' surname='Kato' fullname='A. Kato'>
+<organization /></author>
+<author initials='M.' surname='Kanda' fullname='M. Kanda'>
+<organization /></author>
+<date year='2005' month='July' />
+<abstract>
+<t>This document proposes the addition of new cipher suites to the Transport Layer Security (TLS) protocol to support the Camellia encryption algorithm as a bulk cipher algorithm. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='4132' />
+<format type='TXT' octets='13590' target='http://www.rfc-editor.org/rfc/rfc4132.txt' />
+</reference>

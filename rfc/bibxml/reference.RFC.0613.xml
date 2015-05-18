@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0613'>
+
+<front>
+<title>Network connectivity: A response to RFC 603</title>
+<author initials='A.' surname='McKenzie' fullname='Alex McKenzie'>
+<organization>Bolt Baranek and Newman, Network Control Center (BBN), NET</organization></author>
+<date year='1974' day='21' month='January' /></front>
+
+<seriesInfo name='RFC' value='613' />
+<format type='TXT' octets='2557' target='http://www.rfc-editor.org/rfc/rfc613.txt' />
+</reference>

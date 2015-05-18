@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1058'>
+
+<front>
+<title>Routing Information Protocol</title>
+<author initials='C.' surname='Hedrick' fullname='C. Hedrick'>
+<organization>Rutgers University</organization></author>
+<date year='1988' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='1058' />
+<format type='TXT' octets='93285' target='http://www.rfc-editor.org/rfc/rfc1058.txt' />
+</reference>

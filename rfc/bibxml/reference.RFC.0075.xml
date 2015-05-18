@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0075'>
+
+<front>
+<title>Network Meeting</title>
+<author initials='S.' surname='Crocker' fullname='S. Crocker'>
+<organization>University of California, Los Angeles (UCLA)</organization></author>
+<date year='1970' day='14' month='October' />
+<abstract>
+<t>Taking advantage of the FJCC in Houston, I have scheduled a meeting of the Network Working Group in room Astro VII of the Astroworld Hotel at 8:00 p.m.  on Monday, November 16, 1970.</t></abstract></front>
+
+<seriesInfo name='RFC' value='75' />
+<format type='TXT' octets='1318' target='http://www.rfc-editor.org/rfc/rfc75.txt' />
+</reference>

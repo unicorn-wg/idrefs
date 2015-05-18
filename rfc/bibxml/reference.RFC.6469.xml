@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6469'>
+
+<front>
+<title>RTP Payload Format for DV (IEC 61834) Video</title>
+<author initials='K.' surname='Kobayashi' fullname='K. Kobayashi'>
+<organization /></author>
+<author initials='K.' surname='Mishima' fullname='K. Mishima'>
+<organization /></author>
+<author initials='S.' surname='Casner' fullname='S. Casner'>
+<organization /></author>
+<author initials='C.' surname='Bormann' fullname='C. Bormann'>
+<organization /></author>
+<date year='2011' month='December' />
+<abstract>
+<t>This document specifies the packetization scheme for encapsulating the compressed digital video data streams commonly known as "DV" into a payload format for the Real-Time Transport Protocol (RTP).  This document obsoletes RFC 3189. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='6469' />
+<format type='TXT' octets='38041' target='http://www.rfc-editor.org/rfc/rfc6469.txt' />
+</reference>

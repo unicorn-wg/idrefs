@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2223'>
+
+<front>
+<title>Instructions to RFC Authors</title>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<street>Marina del Rey</street>
+<street>CA  90292</street></postal>
+<phone>+1 310-822-1511</phone>
+<facsimile>+1 310-823-6714</facsimile>
+<email>Postel@ISI.EDU</email></address></author>
+<author initials='J.K.' surname='Reynolds' fullname='Joyce K. Reynolds'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<street>Marina del Rey</street>
+<street>CA  90292</street></postal>
+<phone>+1 310-822-1511</phone>
+<facsimile>+1 310-823-6714</facsimile>
+<email>jkrey@isi.edu</email></address></author>
+<date year='1997' month='October' />
+<area>General</area>
+<keyword>RFC authors</keyword></front>
+
+<seriesInfo name='RFC' value='2223' />
+<format type='TXT' octets='37948' target='http://www.rfc-editor.org/rfc/rfc2223.txt' />
+<format type='XML' octets='37561' target='http://xml.resource.org/public/rfc/xml/rfc2223.xml' />
+</reference>

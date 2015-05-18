@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3164'>
+
+<front>
+<title>The BSD Syslog Protocol</title>
+<author initials='C.' surname='Lonvick' fullname='C. Lonvick'>
+<organization /></author>
+<date year='2001' month='August' />
+<abstract>
+<t>This document describes the observed behavior of the syslog protocol.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='3164' />
+<format type='TXT' octets='72951' target='http://www.rfc-editor.org/rfc/rfc3164.txt' />
+</reference>

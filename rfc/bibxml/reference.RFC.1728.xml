@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1728'>
+
+<front>
+<title>Resource Transponders</title>
+<author initials='C.' surname='Weider' fullname='Chris Weider'>
+<organization>Bunyip Information Systems, Inc</organization>
+<address>
+<postal>
+<street>2001 S. Huron Parkway</street>
+<street>#12</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48104</code>
+<country>US</country></postal>
+<phone>+1 313 971 2223</phone>
+<facsimile>+1 313 971 2223</facsimile>
+<email>clw@bunyip.com</email></address></author>
+<date year='1994' month='December' />
+<abstract>
+<t>Although a number of systems have been created in the last several years to provide resource location and navigation on the Internet, the information contained in these systems must be maintained and updated by hand.  This paper describes an automatic mechanism, the resource transponder, for maintaining resource location information.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1728' />
+<format type='TXT' octets='12092' target='http://www.rfc-editor.org/rfc/rfc1728.txt' />
+</reference>

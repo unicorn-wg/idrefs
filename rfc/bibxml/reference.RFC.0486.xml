@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0486'>
+
+<front>
+<title>Data transfer revisited</title>
+<author initials='B.' surname='Bressler' fullname='Bob Bressler'>
+<organization>Bolt Beranek and Newman (BBN)</organization></author>
+<date year='1973' day='20' month='March' /></front>
+
+<seriesInfo name='RFC' value='486' />
+<format type='TXT' octets='4664' target='http://www.rfc-editor.org/rfc/rfc486.txt' />
+</reference>

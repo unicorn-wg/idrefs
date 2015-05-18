@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2371'>
+
+<front>
+<title>Transaction Internet Protocol Version 3.0</title>
+<author initials='J.' surname='Lyon' fullname='Jim Lyon'>
+<organization>Microsoft Corporation</organization>
+<address>
+<postal>
+<street>One Microsoft Way</street>
+<street>Redmond</street>
+<street>WA  98052-6399</street>
+<country>USA</country></postal>
+<phone>+1 (206) 936 0867</phone>
+<facsimile>+1 (206) 936 7329</facsimile>
+<email>JimLyon@Microsoft.Com</email></address></author>
+<author initials='K.' surname='Evans' fullname='Keith Evans'>
+<organization>Tandem Computers, Inc.</organization>
+<address>
+<postal>
+<street>5425 Stevens Creek Blvd</street>
+<street>Santa Clara</street>
+<street>CA 95051-7200</street>
+<country>USA</country></postal>
+<phone>+1 (408) 285 5314</phone>
+<facsimile>+1 (408) 285 5245</facsimile>
+<email>Keith.Evans@Tandem.Com</email></address></author>
+<author initials='J.' surname='Klein' fullname='Johannes Klein'>
+<organization>Tandem Computers Inc.</organization>
+<address>
+<postal>
+<street>10555 Ridgeview Court</street>
+<street>Cupertino</street>
+<street>CA 95014-0789</street>
+<country>USA</country></postal>
+<phone>+1 (408) 285 0453</phone>
+<facsimile>+1 (408) 285 9818</facsimile>
+<email>Johannes.Klein@Tandem.Com</email></address></author>
+<date year='1998' month='July' />
+<area>Applications</area>
+<keyword>transaction</keyword>
+<abstract>
+<t>
+   In many applications where different nodes cooperate on some work,
+   there is a need to guarantee that the work happens atomically. That
+   is, each node must reach the same conclusion as to whether the work
+   is to be completed, even in the face of failures.  This document
+   proposes a simple, easily-implemented protocol for achieving this
+   end.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2371' />
+<format type='TXT' octets='71399' target='http://www.rfc-editor.org/rfc/rfc2371.txt' />
+<format type='XML' octets='72843' target='http://xml.resource.org/public/rfc/xml/rfc2371.xml' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0221'>
+
+<front>
+<title>Mail Box Protocol: Version 2</title>
+<author initials='R.W.' surname='Watson' fullname='R.W. Watson'>
+<organization /></author>
+<date year='1971' month='August' /></front>
+
+<seriesInfo name='RFC' value='221' />
+<format type='TXT' octets='9805' target='http://www.rfc-editor.org/rfc/rfc221.txt' />
+</reference>

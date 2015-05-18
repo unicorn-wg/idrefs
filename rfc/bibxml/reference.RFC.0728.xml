@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0728'>
+
+<front>
+<title>Minor pitfall in the Telnet Protocol</title>
+<author initials='J.' surname='Day' fullname='John Day'>
+<organization /></author>
+<date year='1977' day='27' month='April' />
+<abstract>
+<t>Designers of Telnet options should be aware of the following possible case in the Telnet protocol which may generate unexpected behavior on either end of the connection. Although at present none of the existing options are susceptible to this problem, it could arise in the future.</t></abstract></front>
+
+<seriesInfo name='RFC' value='728' />
+<format type='TXT' octets='2224' target='http://www.rfc-editor.org/rfc/rfc728.txt' />
+</reference>

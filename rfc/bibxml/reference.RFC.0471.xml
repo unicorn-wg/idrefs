@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0471'>
+
+<front>
+<title abbrev='Workshop On Multi Site Executive Programs'>Workshop on multi-site executive programs</title>
+<author initials='B.' surname='Thomas' fullname='Bob Thomas'>
+<organization>Bolt Beranek and Newman, Inc. (BBN), TENEX</organization>
+<address>
+<postal>
+<street>50 Moulton Street</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02139</code>
+<country>US</country></postal>
+<phone>+1 617 491 1850 x483</phone>
+<email>BTHOMAS@BBN-TENEX</email></address></author>
+<date year='1973' day='13' month='March' />
+<abstract>
+<t>An executive program is one which accepts and interprets commands from a user, calling upon other programs to provide the resources required to satisfy each command. There is currently interest in making resources on the ARPANET available to the user via a standard, conversational facility which one might call an ARPANET Executive.</t></abstract></front>
+
+<seriesInfo name='RFC' value='471' />
+<format type='TXT' octets='3339' target='http://www.rfc-editor.org/rfc/rfc471.txt' />
+</reference>

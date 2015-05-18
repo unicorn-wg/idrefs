@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2762'>
+
+<front>
+<title abbrev='RTP Sampling'>Sampling of the Group Membership in RTP</title>
+<author initials='J.' surname='Rosenberg' fullname='Jonathan Rosenberg'>
+<organization>dynamicsoft</organization>
+<address>
+<postal>
+<street>200 Executive Drive</street>
+<city>West Orange</city>
+<region>NJ</region>
+<code>07052</code>
+<country>US</country></postal>
+<email>jdrosen@dynamicsoft.com</email></address></author>
+<author initials='H.' surname='Schulzrinne' fullname='Henning Schulzrinne'>
+<organization>Columbia University</organization>
+<address>
+<postal>
+<street>1214 Amsterdam Ave.</street>
+<street>M/S 0401</street>
+<city>New York</city>
+<region>NY</region>
+<code>10027-7003</code>
+<country>US</country></postal>
+<email>schulzrinne@cs.columbia.edu</email></address></author>
+<date year='2000' month='February' />
+<abstract>
+<t>In large multicast groups, the size of the group membership table maintained by RTP (Real Time Transport Protocol) participants may become unwieldy, particularly for embedded devices with limited memory and processing power. This document discusses mechanisms for sampling of this group membership table in order to reduce the memory
+ requirements. Several mechanisms are proposed, and the performance of each is considered.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2762' />
+<format type='TXT' octets='25796' target='http://www.rfc-editor.org/rfc/rfc2762.txt' />
+</reference>

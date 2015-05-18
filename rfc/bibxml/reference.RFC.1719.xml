@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1719'>
+
+<front>
+<title>A Direction for IPng</title>
+<author initials='P.' surname='Gross' fullname='Phill Gross'>
+<organization>MCI Data Services Division</organization>
+<address>
+<postal>
+<street>2100 Reston Parkway</street>
+<street>FL 6</street>
+<city>Reston</city>
+<region>VA</region>
+<code>22091</code>
+<country>US</country></postal>
+<phone>+1 703 715 7431</phone>
+<email>phill_gross@mcimail.com</email></address></author>
+<date year='1994' month='December' />
+<abstract>
+<t>This document was submitted to the IPng Area in response to RFC 1550.  Publication of this document does not imply acceptance by the IPng Area of any ideas expressed within.  Comments should be submitted to the big-internet@munnari.oz.au mailing list.  This RFC specifies criteria related to mobility for consideration in design and selection of the Next Generation of IP.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1719' />
+<format type='TXT' octets='11118' target='http://www.rfc-editor.org/rfc/rfc1719.txt' />
+</reference>

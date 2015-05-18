@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0929'>
+
+<front>
+<title>Proposed Host-Front End Protocol</title>
+<author initials='J.' surname='Lilienkamp' fullname='Joel Lilienkamp'>
+<organization>SDC</organization></author>
+<author initials='R.' surname='Mandell' fullname='Richard Mandell'>
+<organization>SDC</organization></author>
+<author initials='M.' surname='Padlipsky' fullname='Michael Padlipsky'>
+<organization>Mitre Corporation</organization></author>
+<date year='1984' day='1' month='December' /></front>
+
+<seriesInfo name='RFC' value='929' />
+<format type='TXT' octets='135042' target='http://www.rfc-editor.org/rfc/rfc929.txt' />
+</reference>

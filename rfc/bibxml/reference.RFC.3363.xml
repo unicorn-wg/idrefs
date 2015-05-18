@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3363'>
+
+<front>
+<title>Representing Internet Protocol version 6 (IPv6) Addresses in the Domain Name System (DNS)</title>
+<author initials='R.' surname='Bush' fullname='R. Bush'>
+<organization /></author>
+<author initials='A.' surname='Durand' fullname='A. Durand'>
+<organization /></author>
+<author initials='B.' surname='Fink' fullname='B. Fink'>
+<organization /></author>
+<author initials='O.' surname='Gudmundsson' fullname='O. Gudmundsson'>
+<organization /></author>
+<author initials='T.' surname='Hain' fullname='T. Hain'>
+<organization /></author>
+<date year='2002' month='August' /></front>
+
+<seriesInfo name='RFC' value='3363' />
+<format type='TXT' octets='11055' target='http://www.rfc-editor.org/rfc/rfc3363.txt' />
+</reference>

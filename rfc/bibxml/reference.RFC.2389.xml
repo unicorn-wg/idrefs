@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2389'>
+
+<front>
+<title abbrev='Feature negotiation mechanism'>Feature negotiation mechanism for the File Transfer Protocol</title>
+<author initials='P.' surname='Hethmon' fullname='Paul Hethmon'>
+<organization>Hethmon Brothers</organization>
+<address>
+<postal>
+<street>2305 Chukar Road</street>
+<street>Knoxville</street>
+<street>TN 37923</street>
+<country>USA</country></postal>
+<phone>+1 423 690 8990</phone>
+<email>phethmon@hethmon.com</email></address></author>
+<author initials='R.' surname='Elz' fullname='Robert Elz'>
+<organization>University of Melbourne</organization>
+<address>
+<postal>
+<street>Department of Computer Science</street>
+<street>Parkville</street>
+<street>Vic   3052</street>
+<country>Australia</country></postal>
+<email>kre@munnari.OZ.AU</email></address></author>
+<date year='1998' month='August' />
+<area>Applications</area>
+<keyword>FTP</keyword>
+<keyword>file transfer</keyword>
+<keyword>file transfer protocol</keyword>
+<abstract>
+<t>
+   The File Transfer Protocol is, from time to time, extended with new
+   commands, or facilities.  Implementations of the FTP protocol cannot
+   be assumed to all immediately implement all newly defined mechanisms.
+   This document provides a mechanism by which clients of the FTP
+   protocol can discover which new features are supported by a
+   particular FTP server.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2389' />
+<format type='TXT' octets='18536' target='http://www.rfc-editor.org/rfc/rfc2389.txt' />
+<format type='XML' octets='17891' target='http://xml.resource.org/public/rfc/xml/rfc2389.xml' />
+</reference>

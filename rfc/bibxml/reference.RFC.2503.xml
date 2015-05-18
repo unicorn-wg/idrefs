@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2503'>
+
+<front>
+<title abbrev='ISO ILL Protocol MIME Types'>MIME Types for Use with the ISO ILL Protocol</title>
+<author initials='R.' surname='Moulton' fullname='Ruth Moulton'>
+<organization />
+<address>
+<postal>
+<street>65 Tetherdown</street>
+<city>London</city>
+<region>England</region>
+<code>N10 1NH</code>
+<country>UK</country></postal>
+<phone>+44 181 8835823</phone>
+<email>ruth@muswell.demon.co.uk</email></address></author>
+<author initials='M.' surname='Needleman' fullname='Mark H. Needleman'>
+<organization>Data Research Associates, Inc.</organization>
+<address>
+<postal>
+<street>1276 North Warson Road</street>
+<street>POB 8495</street>
+<city>Saint Louis</city>
+<region>MO</region>
+<code>63132-1806</code>
+<country>US</country></postal>
+<phone>+1 314 432 1100 x318</phone>
+<email>mneedleman@dra.com</email></address></author>
+<date year='1999' month='February' />
+<abstract>
+<t>This memorandum describes a set of MIME types for use with the ISO Interlibrary Loan Protocol (,).Two MIME types are specified below.</t>
+<t>The first is a media type to carry objects which areBERencoded ISO ILL Protocol Data Units (PDU's).BER are the basic Encoding Rules used to encode  PDU's which have been described usingASN.1(Abstract Syntax Notation 1).</t>
+<t>The second is for use with the associated document delivery instructions. Document Delivery Instructions (DDI) is an emerging protocol which enables automatic electronic delivery of items. It allows a request management system (which might have received a request for an item via the ISO Interlibrary Loan Protocol (,) to pass details of the request, item, and delivery, to a delivery module, and to receive back reports on the delivery process or arrival of an item. It is currently being submitted to the ISO TC46/SC4/WG4 committee for approval as an ISO standard.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2503' />
+<format type='TXT' octets='9078' target='http://www.rfc-editor.org/rfc/rfc2503.txt' />
+</reference>

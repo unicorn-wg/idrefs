@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6597'>
+
+<front>
+<title>RTP Payload Format for Society of Motion Picture and Television Engineers (SMPTE) ST 336 Encoded Data</title>
+<author initials='J.' surname='Downs' fullname='J. Downs'>
+<organization /></author>
+<author initials='J.' surname='Arbeiter' fullname='J. Arbeiter'>
+<organization /></author>
+<date year='2012' month='April' />
+<abstract>
+<t>This document specifies the payload format for packetization of KLV (Key-Length-Value) Encoded Data, as defined by the Society of Motion Picture and Television Engineers (SMPTE) in SMPTE ST 336, into the Real-time Transport Protocol (RTP). [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='6597' />
+<format type='TXT' octets='27339' target='http://www.rfc-editor.org/rfc/rfc6597.txt' />
+</reference>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1665'>
+
+<front>
+<title abbrev='SNANAU MIB'>Definitions of Managed Objects for SNA NAUs using SMIv2</title>
+<author initials='Z.' surname='Kielczewski' fullname='Zbigniew Kielczewski'>
+<organization>Eicon Technology Corporation</organization>
+<address>
+<postal>
+<street>2196 32nd Avenue</street>
+<city>Montreal</city>
+<region>Quebec</region>
+<code>H8T 3H7</code>
+<country>CA</country></postal>
+<phone>+1 514 631 2592</phone>
+<email>zbig@eicon.qc.ca</email></address></author>
+<author initials='D.' surname='Kostick' fullname='Deirdre Kostick'>
+<organization>Bell Communications Research</organization>
+<address>
+<postal>
+<street />
+<city>Red Bank</city>
+<region>NJ</region>
+<code>07701</code>
+<country>US</country></postal>
+<phone>+1 908 758 2642</phone>
+<email>dck2@mail.bellcore.com</email></address></author>
+<author initials='K.' surname='Shih' fullname='Kitty Shih'>
+<organization>Novell</organization>
+<address>
+<postal>
+<street>890 Ross Drive</street>
+<city>Sunnyvale</city>
+<region>CA</region>
+<code>94089</code>
+<country>US</country></postal>
+<phone>+1 408 747 4305</phone>
+<email>kmshih@novell.com</email></address></author>
+<date year='1994' month='July' /></front>
+
+<seriesInfo name='RFC' value='1665' />
+<format type='TXT' octets='133381' target='http://www.rfc-editor.org/rfc/rfc1665.txt' />
+</reference>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2386'>
+
+<front>
+<title abbrev='A Framework for QoS-based Routing'>A Framework for QoS-based Routing in the Internet</title>
+<author initials='E.S.' surname='Crawley' fullname='Eric S. Crawley'>
+<organization>Argon Networks, Inc.</organization>
+<address>
+<postal>
+<street>25 Porter Rd.</street>
+<street>U.S.A</street>
+<city>Littelton</city>
+<region>MA</region>
+<code>01460</code></postal>
+<phone>+1-508-486-0665</phone>
+<email>esc@argon.com</email></address></author>
+<author initials='R.' surname='Nair' fullname='Raj Nair'>
+<organization>Arrowpoint</organization>
+<address>
+<postal>
+<street>235 Littleton Rd.</street>
+<street>U.S.A</street>
+<city>Westford</city>
+<region>MA</region>
+<code>01886</code></postal>
+<phone>+1-508-692-5875, x29</phone>
+<email>nair@arrowpoint.com</email></address></author>
+<author initials='B.' surname='Rajagopalan' fullname='Bala Rajagopalan'>
+<organization>NEC USA, C&amp;C Research Labs</organization>
+<address>
+<postal>
+<street>4 Independence Way</street>
+<street>U.S.A</street>
+<city>Princeton</city>
+<region>NJ</region>
+<code>08540</code></postal>
+<phone>+1-609-951-2969</phone>
+<email>braja@ccrl.nj.nec.com</email></address></author>
+<author initials='H.' surname='Sandick' fullname='Hal Sandick'>
+<organization>Bay Networks, Inc.</organization>
+<address>
+<postal>
+<street>1009 Slater Rd., Suite 220</street>
+<street>U.S.A</street>
+<city>Durham</city>
+<region>NC</region>
+<code>27703</code></postal>
+<phone>+1-919-941-1739</phone>
+<email>Hsandick@baynetworks.com</email></address></author>
+<date year='1998' month='August' />
+<area>Routing</area>
+<keyword>quality of service</keyword>
+<keyword>routing</keyword>
+<abstract>
+<t>
+   QoS-based routing has been recognized as a missing piece in the
+
+   evolution of QoS-based service offerings in the Internet. This
+
+   document describes some of the QoS-based routing issues and
+
+   requirements, and proposes a framework for QoS-based routing in the
+
+   Internet. This framework is based on extending the current Internet
+
+   routing model of intra and interdomain routing to support QoS.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2386' />
+<format type='TXT' octets='93459' target='http://www.rfc-editor.org/rfc/rfc2386.txt' />
+<format type='XML' octets='104690' target='http://xml.resource.org/public/rfc/xml/rfc2386.xml' />
+</reference>

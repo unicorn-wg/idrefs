@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3840'>
+
+<front>
+<title>Indicating User Agent Capabilities in the Session Initiation Protocol (SIP)</title>
+<author initials='J.' surname='Rosenberg' fullname='J. Rosenberg'>
+<organization /></author>
+<author initials='H.' surname='Schulzrinne' fullname='H. Schulzrinne'>
+<organization /></author>
+<author initials='P.' surname='Kyzivat' fullname='P. Kyzivat'>
+<organization /></author>
+<date year='2004' month='August' />
+<abstract>
+<t>This specification defines mechanisms by which a Session Initiation Protocol (SIP) user agent can convey its capabilities and characteristics to other user agents and to the registrar for its domain.  This information is conveyed as parameters of the Contact header field. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='3840' />
+<format type='TXT' octets='81360' target='http://www.rfc-editor.org/rfc/rfc3840.txt' />
+</reference>

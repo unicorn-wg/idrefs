@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1718'>
+
+<front>
+<title abbrev='The Tao of IETF'>The Tao of IETF - A Guide for New Attendees of the Internet Engineering Task Force</title>
+<author>
+<organization>Corporation for National Research Initiatives</organization>
+<address>
+<postal>
+<street>1895 Preston White Drive</street>
+<street>Suite 100</street>
+<city>Reston</city>
+<region>VA</region>
+<code>22091</code>
+<country>US</country></postal>
+<phone>+1 703 620 8990</phone>
+<facsimile>+1 703 620 0913</facsimile>
+<email>ietf-info@cnri.reston.va.us</email></address></author>
+<author initials='G.S.' surname='Malkin' fullname='Gary Scott Malkin'>
+<organization>Xylogics, Inc.</organization>
+<address>
+<postal>
+<street>53 Third Avenue</street>
+<city>Burlington</city>
+<region>MA</region>
+<code>01803</code>
+<country>US</country></postal>
+<phone>+1 617 272 8140</phone>
+<email>gmalkin@Xylogics.COM</email></address></author>
+<date year='1994' month='November' />
+<abstract>
+<t>Over the last two years, the attendance at Internet Engineering Task Force (IETF) plenary meetings has grown phenomenally.  Approximately one third of the attendees are new to the IETF at each meeting, and many of those go on to become regular attendees.  When the meetings were smaller, it wasn't very difficult for a newcomer to get into the swing of things.  Today, however, a newcomer meets many more new people, some previously known only as the authors of documents or thought provoking e-mail messages.</t>
+<t>The purpose of this For Your Information (FYI) RFC is to explain to the newcomers how the IETF works.  This will give them a warm, fuzzy feeling and enable them to make the meeting more productive for everyone.  This FYI will also provide the mundane bits of information which everyone who attends an IETF meeting should know.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1718' />
+<format type='TXT' octets='50458' target='http://www.rfc-editor.org/rfc/rfc1718.txt' />
+</reference>

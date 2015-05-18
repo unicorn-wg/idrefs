@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0718'>
+
+<front>
+<title>Comments on RCTE from the Tenex Implementation Experience</title>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
+<date year='1976' day='30' month='June' /></front>
+
+<seriesInfo name='RFC' value='718' />
+<format type='TXT' octets='3829' target='http://www.rfc-editor.org/rfc/rfc718.txt' />
+</reference>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2315'>
+
+<front>
+<title abbrev='PKCS #7: Crytographic Message Syntax'>PKCS #7: Cryptographic Message Syntax Version 1.5</title>
+<author initials='B.' surname='Kaliski' fullname='Burt Kaliski'>
+<organization>RSA Laboratories East</organization>
+<address>
+<postal>
+<street>20 Crosby Drive</street>
+<city>Bedford</city>
+<region>MA</region>
+<code>01730</code></postal>
+<phone>(617) 687-7000</phone>
+<email>burt@rsa.com</email></address></author>
+<date year='1998' month='March' />
+<area>Security</area>
+<keyword>authentication</keyword>
+<keyword>cryptographic</keyword>
+<keyword>digital signature</keyword>
+<keyword>public key cryptography standards</keyword></front>
+
+<seriesInfo name='RFC' value='2315' />
+<format type='TXT' octets='69679' target='http://www.rfc-editor.org/rfc/rfc2315.txt' />
+<format type='HTML' octets='80081' target='http://xml.resource.org/public/rfc/html/rfc2315.html' />
+<format type='XML' octets='67201' target='http://xml.resource.org/public/rfc/xml/rfc2315.xml' />
+</reference>

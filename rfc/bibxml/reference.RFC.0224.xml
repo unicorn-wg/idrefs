@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0224'>
+
+<front>
+<title>Comments on Mailbox Protocol</title>
+<author initials='A.' surname='McKenzie' fullname='Alex McKenzie'>
+<organization>Bolt Baranek and Newman (BBN)</organization></author>
+<date year='1971' day='14' month='September' />
+<abstract>
+<t>It should be noted that the Terminal IMP will be unable to directly implement the currently-proposed mailbox protocol for the following reasons:</t></abstract></front>
+
+<seriesInfo name='RFC' value='224' />
+<format type='TXT' octets='3583' target='http://www.rfc-editor.org/rfc/rfc224.txt' />
+</reference>

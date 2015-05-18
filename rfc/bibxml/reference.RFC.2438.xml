@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2438'>
+
+<front>
+<title abbrev='Advancement of MIB specifications'>Advancement of MIB specifications on the IETF Standards Track</title>
+<author initials='M.D.' surname='O&apos;Dell' fullname='Michael D. O&apos;Dell'>
+<organization>UUNET</organization>
+<address>
+<postal>
+<street>3060 Williams Drive</street>
+<city>Fairfax</city>
+<region>VA</region>
+<code>22031</code>
+<country>US</country></postal>
+<phone>+1 703 206 5890</phone>
+<email>mo@uu.net</email></address></author>
+<author initials='H.T.' surname='Alvestrand' fullname='Harald T. Alvestrand'>
+<organization>Maxware</organization>
+<address>
+<postal>
+<street>Pirsenteret</street>
+<street>N-7005 Trondheim</street>
+<country>Norway</country></postal>
+<phone>+47-73-54-57-94</phone>
+<email>Harald.Alvestrand@maxware.no</email></address></author>
+<author initials='B.' surname='Wijnen' fullname='Bert Wijnen'>
+<organization>IBM T. J. Watson Research</organization>
+<address>
+<postal>
+<street>Schagen 33</street>
+<street>3461 GL Linschoten</street>
+<country>Netherlands</country></postal>
+<phone>+31-348-432-794</phone>
+<email>wijnen@vnet.ibm.com</email></address></author>
+<author initials='S.' surname='Bradner' fullname='Scott Bradner'>
+<organization>Harvard University</organization>
+<address>
+<postal>
+<street>1350 Mass. Ave.</street>
+<street>Cambridge MA 02138</street></postal>
+<phone>+1-617-495-3864</phone>
+<email>sob@harvard.edu</email></address></author>
+<date year='1998' month='October' />
+<area>Management</area>
+<keyword>Internet Engineering Task Force</keyword>
+<keyword>Management Information Base</keyword>
+<keyword>MIB</keyword>
+<abstract>
+<t>
+   The Internet Standards Process [1] requires that all IETF Standards
+   Track specifications must have &quot;multiple, independent, and
+   interoperable implementations&quot; before they can be advanced beyond
+   Proposed Standard status.  This document specifies the process which
+   the IESG will use to determine if a MIB specification document meets
+   these requirements.  It also discusses the rationale for this
+   process.
+</t></abstract></front>
+
+<seriesInfo name='BCP' value='27' />
+<seriesInfo name='RFC' value='2438' />
+<format type='TXT' octets='13633' target='http://www.rfc-editor.org/rfc/rfc2438.txt' />
+<format type='XML' octets='13637' target='http://xml.resource.org/public/rfc/xml/rfc2438.xml' />
+</reference>

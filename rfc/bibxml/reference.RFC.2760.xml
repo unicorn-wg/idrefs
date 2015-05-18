@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2760'>
+
+<front>
+<title>Ongoing TCP Research Related to Satellites</title>
+<author initials='M.' surname='Allman' fullname='Mark Allman'>
+<organization>NASA Glenn Research Center/BBN Technologies, Lewis Field</organization>
+<address>
+<postal>
+<street>21000 Brookpark Rd.</street>
+<street>MS 54-2</street>
+<city>Cleveland</city>
+<region>OH</region>
+<code>44135</code>
+<country>US</country></postal>
+<email>mallman@grc.nasa.gov</email></address></author>
+<author initials='S.' surname='Dawkins' fullname='Spencer Dawkins'>
+<organization>Nortel</organization>
+<address>
+<postal>
+<street>P.O.Box 833805</street>
+<city>Richardson</city>
+<region>TX</region>
+<code>75083-3805</code>
+<country>US</country></postal>
+<email>Spencer.Dawkins.sdawkins@nt.com</email></address></author>
+<author initials='D.' surname='Glover' fullname='Dan Glover'>
+<organization>NASA Glenn Research Center, Lewis Field</organization>
+<address>
+<postal>
+<street>21000 Brookpark Rd.</street>
+<street>MS 3-6</street>
+<city>Cleveland</city>
+<region>OH</region>
+<code>44135</code>
+<country>US</country></postal>
+<email>Daniel.R.Glover@grc.nasa.gov</email></address></author>
+<author initials='J.' surname='Griner' fullname='Jim Griner'>
+<organization>NASA Glenn Research Center, Lewis Field</organization>
+<address>
+<postal>
+<street>21000 Brookpark Rd.</street>
+<street>MS 54-2</street>
+<city>Cleveland</city>
+<region>OH</region>
+<code>44135</code>
+<country>US</country></postal>
+<email>jgriner@grc.nasa.gov</email></address></author>
+<author initials='D.' surname='Tran' fullname='Diepchi Tran'>
+<organization>NASA Glenn Research Center, Lewis Field</organization>
+<address>
+<postal>
+<street>21000 Brookpark Rd.</street>
+<street>MS 54-2</street>
+<city>Cleveland</city>
+<region>OH</region>
+<code>44135</code>
+<country>US</country></postal>
+<email>dtran@grc.nasa.gov</email></address></author>
+<author initials='T.' surname='Henderson' fullname='Tom Henderson'>
+<organization>University of California at Berkeley</organization>
+<address>
+<postal>
+<street />
+<city>Berkeley</city>
+<region>CA</region>
+<code>94720</code>
+<country>US</country></postal>
+<phone>+1 510 642 8919</phone>
+<email>tomh@cs.berkeley.edu</email></address></author>
+<author initials='J.' surname='Heidemann' fullname='John Heidemann'>
+<organization>University of Southern California/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292-6695</code>
+<country>US</country></postal>
+<email>johnh@isi.edu</email></address></author>
+<author initials='J.' surname='Touch' fullname='Joe Touch'>
+<organization>University of Southern California/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292-6601</code>
+<country>US</country></postal>
+<phone>+1 310 448 9151</phone>
+<facsimile>+1 310 823 6714</facsimile>
+<email>touch@isi.edu</email></address></author>
+<author initials='H.' surname='Kruse' fullname='Hans Kruse'>
+<organization>Ohio University,  J. Warren McClure School of Communication Systems Management</organization>
+<address>
+<postal>
+<street>9 S. College Street</street>
+<city>Athens</city>
+<region>OH</region>
+<code>45701</code>
+<country>US</country></postal>
+<phone>+1 740 593 4891</phone>
+<facsimile>+1 740 593 4889</facsimile>
+<email>hkruse1@ohiou.edu</email></address></author>
+<author initials='S.' surname='Ostermann' fullname='Shawn Ostermann'>
+<organization>Ohio University, School of Electrical Engineering and Computer Science</organization>
+<address>
+<postal>
+<street>416 Morton Hall</street>
+<city>Athens</city>
+<region>OH</region>
+<code>45701</code>
+<country>US</country></postal>
+<phone>+1 740 593 1234</phone>
+<email>ostermann@cs.ohiou.edu</email></address></author>
+<author initials='K.' surname='Scott' fullname='Keith Scott'>
+<organization>The MITRE Corporation</organization>
+<address>
+<postal>
+<street>1820 Dolley Madison Blvd.</street>
+<street>M/S W650</street>
+<city>McLean</city>
+<region>VA</region>
+<code>22102-3481</code>
+<country>US</country></postal>
+<email>kscott@mitre.org</email></address></author>
+<author initials='J.' surname='Semke' fullname='Jeffrey Semke'>
+<organization>Pittsburgh Supercomputing Center</organization>
+<address>
+<postal>
+<street>4400 Fifth Ave.</street>
+<city>Pittsburgh</city>
+<region>PA</region>
+<code>15213</code>
+<country>US</country></postal>
+<email>semke@psc.edu</email></address></author>
+<date year='2000' month='February' />
+<abstract>
+<t>This document outlines possible TCP enhancements that may allow TCP to better utilize the available bandwidth provided by networks containing satellite links.  The algorithms and mechanisms outlined have not been judged to be mature enough to be recommended by the IETF.  The goal of this document is to educate researchers as to the
+ current work and progress being done in TCP research related to satellite networks.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2760' />
+<format type='TXT' octets='111141' target='http://www.rfc-editor.org/rfc/rfc2760.txt' />
+</reference>

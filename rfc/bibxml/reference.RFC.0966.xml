@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0966'>
+
+<front>
+<title>Host groups: A multicast extension to the Internet Protocol</title>
+<author initials='S.' surname='Deering' fullname='S. E. Deering'>
+<organization>Stanford University</organization></author>
+<author initials='D.' surname='Cheriton' fullname='D. R. Cheriton'>
+<organization>Stanford University</organization></author>
+<date year='1985' day='1' month='December' /></front>
+
+<seriesInfo name='RFC' value='966' />
+<format type='TXT' octets='59469' target='http://www.rfc-editor.org/rfc/rfc966.txt' />
+</reference>

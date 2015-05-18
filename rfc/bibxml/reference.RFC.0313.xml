@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0313'>
+
+<front>
+<title>Computer based instruction</title>
+<author initials='T.' surname='O&apos;Sullivan' fullname='Tom O&apos;Sullivan'>
+<organization>Raytheon Corporation</organization></author>
+<date year='1972' day='6' month='March' />
+<abstract>
+<t>Current development of Computer Based Instruction (CBI) systems seem to be directed toward two types of system:</t>
+<t>1.)  Small to medium scale, dedicated, stand alone systems (such as the IBM 1130, 1500, 1800 complexes) or medium scale systems with dedicated network implications (such as TICKET), and 2.)  Large, centralized, dedicated systems with dedicated network implications (such as PLATO).</t></abstract></front>
+
+<seriesInfo name='RFC' value='313' />
+<format type='TXT' octets='19880' target='http://www.rfc-editor.org/rfc/rfc313.txt' />
+</reference>

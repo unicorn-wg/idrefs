@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2303'>
+
+<front>
+<title abbrev='Minimal PSTN in Internet Mail'>Minimal PSTN address format in Internet Mail</title>
+<author initials='C.' surname='Allocchio' fullname='C. Allocchio'>
+<organization>GARR-Italy</organization>
+<address>
+<postal>
+<street>Sincrotrone Trieste</street>
+<street>SS 14 Km 163.5 Basovizza</street>
+<city>Trieste</city>
+<code>I 34012</code>
+<country>Italy</country></postal>
+<phone>+39 40 3758523</phone>
+<facsimile>+39 40 3758565</facsimile>
+<email>Claudio.Allocchio@elettra.trieste.it</email></address></author>
+<date year='1998' month='March' />
+<area>Applications</area>
+<keyword>mail</keyword>
+<note title='IESG Note'>
+<t>
+   This memo describes a simple method of encoding PSTN addresses in the
+
+   local-part of Internet email addresses, along with an extension
+
+   mechanism to allow encoding of additional standard attributes needed
+
+   for email gateways to PSTN-based services.
+</t>
+<t>
+
+
+   As with all Internet mail addresses, the left-hand-side (local- part)
+
+   of an address generated according to this specification, is not to be
+
+   interpreted except by the MTA that is named on the right-hand-side
+
+   (domain).
+</t></note></front>
+
+<seriesInfo name='RFC' value='2303' />
+<format type='TXT' octets='14625' target='http://www.rfc-editor.org/rfc/rfc2303.txt' />
+<format type='XML' octets='16336' target='http://xml.resource.org/public/rfc/xml/rfc2303.xml' />
+</reference>

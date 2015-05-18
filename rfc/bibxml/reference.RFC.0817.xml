@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0817'>
+
+<front>
+<title>Modularity and efficiency in protocol implementation</title>
+<author initials='D.' surname='Clark' fullname='David D. Clark'>
+<organization>Massachusetts Institute of Technology (MIT), Laboratory for Computer Science, Computer Systems and Communications Group</organization></author>
+<date year='1982' day='1' month='July' /></front>
+
+<seriesInfo name='RFC' value='817' />
+<format type='TXT' octets='45931' target='http://www.rfc-editor.org/rfc/rfc817.txt' />
+</reference>

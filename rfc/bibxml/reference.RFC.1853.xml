@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1853'>
+
+<front>
+<title abbrev='IP Tunnelling'>IP in IP Tunneling</title>
+<author initials='W.' surname='Simpson' fullname='William Allen Simpson'>
+<organization>Daydreamer, Computer Systems Consulting Services</organization>
+<address>
+<postal>
+<street>1384 Fontaine</street>
+<city>Madison Heights</city>
+<region>MI</region>
+<code>48071</code>
+<country>US</country></postal>
+<email>Bill.Simpson@um.cc.umich.edu</email></address></author>
+<date year='1995' month='October' />
+<abstract>
+<t>This document discusses implementation techniques for using IP Protocol/Payload number 4 Encapsulation for tunneling with IP Security and other protocols.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1853' />
+<format type='TXT' octets='14803' target='http://www.rfc-editor.org/rfc/rfc1853.txt' />
+</reference>

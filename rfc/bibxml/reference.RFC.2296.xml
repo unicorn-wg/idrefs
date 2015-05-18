@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2296'>
+
+<front>
+<title abbrev='HTTP RVSA/1.0'>HTTP Remote Variant Selection Algorithm -- RVSA/1.0</title>
+<author initials='K.' surname='Holtman' fullname='Koen Holtman'>
+<organization>Technische Universiteit Eindhoven</organization>
+<address>
+<postal>
+<street>Postbus 513</street>
+<street>Kamer HG 6.57</street>
+<street>5600 MB Eindhoven (The Netherlands)</street></postal>
+<email>koen@win.tue.nl</email></address></author>
+<author initials='A.H.' surname='Mutz' fullname='Andrew H. Mutz'>
+<organization>Hewlett-Packard Company</organization>
+<address>
+<postal>
+<street>1501 Page Mill Road 3U-3</street>
+<street>Palo Alto CA 94304</street>
+<country>USA</country></postal>
+<facsimile>+1 415 857 4691</facsimile>
+<email>mutz@hpl.hp.com</email></address></author>
+<date year='1998' month='March' />
+<area>Applications</area>
+<keyword>hypertext transfer protocol</keyword>
+<abstract>
+<t>
+   HTTP allows web site authors to put multiple versions of the same
+   information under a single URL.  Transparent content negotiation is a
+   mechanism for automatically selecting the best version when the URL
+   is accessed.  A remote variant selection algorithm can be used to
+   speed up the transparent negotiation process. This document defines
+   the remote variant selection algorithm with the version number 1.0.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2296' />
+<format type='TXT' octets='26932' target='http://www.rfc-editor.org/rfc/rfc2296.txt' />
+<format type='XML' octets='25836' target='http://xml.resource.org/public/rfc/xml/rfc2296.xml' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4127'>
+
+<front>
+<title>Russian Dolls Bandwidth Constraints Model for Diffserv-aware MPLS Traffic Engineering</title>
+<author initials='F.' surname='Le Faucheur' fullname='F. Le Faucheur'>
+<organization /></author>
+<date year='2005' month='June' />
+<abstract>
+<t>This document provides specifications for one Bandwidth Constraints Model for Diffserv-aware MPLS Traffic Engineering, which is referred to as the Russian Dolls Model.  This memo defines an Experimental Protocol for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='4127' />
+<format type='TXT' octets='23694' target='http://www.rfc-editor.org/rfc/rfc4127.txt' />
+</reference>

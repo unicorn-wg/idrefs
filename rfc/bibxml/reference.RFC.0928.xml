@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0928'>
+
+<front>
+<title abbrev='Introduction to H-FP'>Introduction to proposed DoD standard H-FP</title>
+<author initials='M.' surname='Padlipsky' fullname='M. A. Padlipsky'>
+<organization>Mitre Corporation</organization></author>
+<date year='1984' day='1' month='December' /></front>
+
+<seriesInfo name='RFC' value='928' />
+<format type='TXT' octets='60461' target='http://www.rfc-editor.org/rfc/rfc928.txt' />
+</reference>

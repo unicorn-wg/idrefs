@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4365'>
+
+<front>
+<title>Applicability Statement for BGP/MPLS IP Virtual Private Networks (VPNs)</title>
+<author initials='E.' surname='Rosen' fullname='E. Rosen'>
+<organization /></author>
+<date year='2006' month='February' />
+<abstract>
+<t>This document provides an Applicability Statement for the Virtual Private Network (VPN) solution described in RFC 4364 and other documents listed in the References section.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='4365' />
+<format type='TXT' octets='77924' target='http://www.rfc-editor.org/rfc/rfc4365.txt' />
+</reference>

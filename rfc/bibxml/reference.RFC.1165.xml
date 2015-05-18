@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1165'>
+
+<front>
+<title abbrev='NTP over OSI'>Network Time Protocol (NTP) over the OSI Remote Operations Service</title>
+<author initials='J.' surname='Crowcroft' fullname='Jon Crowcroft'>
+<organization>University College London, Computer Science Department</organization>
+<address>
+<postal>
+<street>Gower Street</street>
+<city>London</city>
+<region>England</region>
+<code>WC1E 6BT</code>
+<country>UK</country></postal>
+<email>JON@CS.UCL.AC.UK</email></address></author>
+<author initials='J.' surname='Onions' fullname='Julian P. Onions'>
+<organization>Nottingham University, Computer Science Department</organization>
+<address>
+<postal>
+<street>University Park</street>
+<city>Nottingham</city>
+<region>England</region>
+<code>NG7 2RD</code>
+<country>UK</country></postal>
+<email>JPO@CS.NOTT.AC.UK</email></address></author>
+<date year='1990' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='1165' />
+<format type='TXT' octets='18277' target='http://www.rfc-editor.org/rfc/rfc1165.txt' />
+</reference>

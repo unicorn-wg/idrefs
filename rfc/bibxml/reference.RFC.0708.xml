@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0708'>
+
+<front>
+<title>Elements of a Distributed Programming System</title>
+<author initials='J.' surname='White' fullname='James E. White'>
+<organization>Stanford Research Institute (SRI), Augmentation Research Center (ARC)</organization>
+<address>
+<postal>
+<street />
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<phone>+1 415 326 6200 x2960</phone></address></author>
+<date year='1976' day='28' month='January' />
+<abstract>
+<t>This paper suggests some extensions to the simple Procedure Call Protocol described in a previous paper (27197).  By expanding the procedure call model and standardizing other common forms of inter-process interaction, such extensions would provide the applications programmer with an even more powerful distributed programming system.</t></abstract></front>
+
+<seriesInfo name='RFC' value='708' />
+<format type='TXT' octets='57888' target='http://www.rfc-editor.org/rfc/rfc708.txt' />
+</reference>

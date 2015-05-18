@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1027'>
+
+<front>
+<title>Using ARP to implement transparent subnet gateways</title>
+<author initials='S.' surname='Carl-Mitchell' fullname='Smoot Carl-Mitchell'>
+<organization>Texas Internet Consulting</organization></author>
+<author initials='J.' surname='Quarterman' fullname='John S. Quarterman'>
+<organization>Texas Internet Consulting</organization></author>
+<date year='1987' day='1' month='October' /></front>
+
+<seriesInfo name='RFC' value='1027' />
+<format type='TXT' octets='21297' target='http://www.rfc-editor.org/rfc/rfc1027.txt' />
+</reference>

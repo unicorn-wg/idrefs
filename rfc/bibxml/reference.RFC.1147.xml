@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1147'>
+
+<front>
+<title abbrev='FYI: Network Management Tool Catalog'>FYI on a Network Management Tool Catalog: Tools for Monitoring and Debugging TCP/IP Internets and Interconnected Devices</title>
+<author initials='R.' surname='Stine' fullname='Robert H. Stine'>
+<organization>SPARTA, Inc.</organization>
+<address>
+<postal>
+<street>7926 Jones Branch Drive</street>
+<street>Suite 1070</street>
+<city>McLean</city>
+<region>VA</region>
+<code>22102</code>
+<country>US</country></postal>
+<email>STINE@SPARTA.COM</email></address></author>
+<date year='1990' day='1' month='April' /></front>
+
+<seriesInfo name='RFC' value='1147' />
+<format type='TXT' octets='336906' target='http://www.rfc-editor.org/rfc/rfc1147.txt' />
+<format type='PS' octets='555225' target='http://www.rfc-editor.org/rfc/rfc1147.ps' />
+<format type='PDF' octets='308602' target='http://www.rfc-editor.org/rfc/rfc1147.pdf' />
+</reference>

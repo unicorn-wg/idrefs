@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2866'>
+
+<front>
+<title>RADIUS Accounting</title>
+<author initials='C.' surname='Rigney' fullname='C. Rigney'>
+<organization /></author>
+<date year='2000' month='June' />
+<abstract>
+<t>This document describes a protocol for carrying accounting information between a Network Access Server and a shared Accounting Server.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2866' />
+<format type='TXT' octets='51135' target='http://www.rfc-editor.org/rfc/rfc2866.txt' />
+</reference>

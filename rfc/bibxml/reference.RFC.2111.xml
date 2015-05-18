@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2111'>
+
+<front>
+<title abbrev='CID and MID URLs'>Content-ID and Message-ID Uniform Resource Locators</title>
+<author initials='E.' surname='Levinson' fullname='Edward Levinson'>
+<organization />
+<address>
+<postal>
+<street>47 Clive Street</street>
+<street>Metuchen</street>
+<street>NJ  08840-1060</street>
+<country>USA</country></postal>
+<phone>+1 908 549 3716</phone>
+<email>XIson@cnj.digex.net</email></address></author>
+<date year='1997' month='March' />
+<area>Applications</area>
+<keyword>content-type</keyword>
+<keyword>encapsulate</keyword>
+<keyword>hypertext markup language</keyword>
+<keyword>multipurpose internet mail extensions</keyword>
+<keyword>uniform resource</keyword>
+<abstract>
+<t>
+   The Uniform Resource Locator (URL) schemes, &quot;cid:&quot; and &quot;mid:&quot; allow
+   references to messages and the body parts of messages.  For example,
+   within a single multipart message, one HTML body part might include
+   embedded references to other parts of the same message.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2111' />
+<format type='TXT' octets='9099' target='http://www.rfc-editor.org/rfc/rfc2111.txt' />
+<format type='XML' octets='11602' target='http://xml.resource.org/public/rfc/xml/rfc2111.xml' />
+</reference>

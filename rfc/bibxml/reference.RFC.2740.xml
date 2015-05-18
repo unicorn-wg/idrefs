@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2740'>
+
+<front>
+<title>OSPF for IPv6</title>
+<author initials='R.' surname='Coltun' fullname='Rob Coltun'>
+<organization>Siara Systems</organization>
+<address>
+<postal>
+<street>300 Ferguson Drive</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<phone>+1 650 390 9030</phone>
+<email>rcoltun@siara.com</email></address></author>
+<author initials='D.' surname='Ferguson' fullname='Dennis Ferguson'>
+<organization>Juniper Networks</organization>
+<address>
+<postal>
+<street>385 Ravendale Drive</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<phone>+1 650 526 8004</phone>
+<email>dennis@juniper.com</email></address></author>
+<author initials='J.' surname='Moy' fullname='John Moy'>
+<organization>Sycamore Networks, Inc.</organization>
+<address>
+<postal>
+<street>10 Elizabeth Drive</street>
+<city>Chelmsford</city>
+<region>MA</region>
+<code>01824</code>
+<country>US</country></postal>
+<phone>+1 978 367 2161</phone>
+<facsimile>+1 978 250 3350</facsimile>
+<email>jmoy@sycamorenet.com</email></address></author>
+<date year='1999' month='December' />
+<abstract>
+<t>This document describes the modifications to OSPF to support version 6 of the Internet Protocol (IPv6).  The fundamental mechanisms of OSPF (flooding, DR election, area support, SPF calculations, etc.) remain unchanged. However, some changes have been necessary, either due to changes in protocol semantics between IPv4 and IPv6, or simply to handle the increased address size of IPv6.</t>
+<t>Changes between OSPF for IPv4 and this document include the following. Addressing semantics have been removed from OSPF packets and the basic LSAs. New LSAs have been created to carry IPv6 addresses and prefixes. OSPF now runs on a per-link basis, instead of on a per-IP-subnet basis. Flooding scope for LSAs has been generalized. Authentication has been removed from the OSPF protocol itself, instead relying on IPv6's Authentication Header and Encapsulating Security Payload.</t>
+<t>Most packets in OSPF for IPv6 are almost as compact as those in OSPF for IPv4, even with the larger IPv6 addresses. Most field-XSand packet-size limitations present in OSPF for IPv4 have been relaxed. In addition, option handling has been made more flexible.</t>
+<t>All of OSPF for IPv4's optional capabilities, including on-demand circuit support, NSSA areas, and the multicast extensions to OSPF (MOSPF) are also supported in OSPF for IPv6.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2740' />
+<format type='TXT' octets='189810' target='http://www.rfc-editor.org/rfc/rfc2740.txt' />
+</reference>

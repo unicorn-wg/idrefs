@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2825'>
+
+<front>
+<title>A Tangled Web: Issues of I18N, Domain Names, and the Other Internet protocols</title>
+<author>
+<organization>IAB</organization></author>
+<author initials='L.' surname='Daigle' fullname='L. Daigle'>
+<organization /></author>
+<date year='2000' month='May' />
+<abstract>
+<t>This document is a statement by the Internet Architecture Board.  It is not a protocol specification, but an attempt to clarify the range of architectural issues that the internationalization of domain names faces.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2825' />
+<format type='TXT' octets='15612' target='http://www.rfc-editor.org/rfc/rfc2825.txt' />
+</reference>

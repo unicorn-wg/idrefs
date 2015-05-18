@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1092'>
+
+<front>
+<title abbrev='IP EGP and Policy Based Routing'>EGP and policy based routing in the new NSFNET backbone</title>
+<author initials='J.' surname='Rekhter' fullname='Jacob Rekhter'>
+<organization>International Business Machines Corporation (IBM), T.J. Watson Research Center</organization>
+<address>
+<postal>
+<street>P.O. Box 218</street>
+<city>Yorktown Heights</city>
+<region>NY</region>
+<code>10598</code>
+<country>US</country></postal>
+<phone>+1 914 945 3896</phone>
+<email>YAKOV@IBM.COM</email></address></author>
+<date year='1989' day='1' month='February' /></front>
+
+<seriesInfo name='RFC' value='1092' />
+<format type='TXT' octets='11865' target='http://www.rfc-editor.org/rfc/rfc1092.txt' />
+</reference>

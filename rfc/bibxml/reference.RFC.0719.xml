@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0719'>
+
+<front>
+<title>Discussion on RCTE</title>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
+<date year='1976' day='22' month='July' />
+<abstract>
+<t>The following is the significant portion of a dialog on RCTE that has followed the publication of RFC 718.</t></abstract></front>
+
+<seriesInfo name='RFC' value='719' />
+<format type='TXT' octets='4708' target='http://www.rfc-editor.org/rfc/rfc719.txt' />
+</reference>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0573'>
+
+<front>
+<title>DATA AND FILE TRANSFER - SOME MEASUREMENT RESULTS</title>
+<author initials='A.' surname='Bhushan' fullname='A. Bhushan'>
+<organization /></author>
+<date year='1973' month='September' /></front>
+
+<seriesInfo name='RFC' value='573' />
+<format type='TXT' octets='19474' target='http://www.rfc-editor.org/rfc/rfc573.txt' />
+<format type='PDF' octets='543794' target='http://www.rfc-editor.org/rfc/rfc573.pdf' />
+</reference>

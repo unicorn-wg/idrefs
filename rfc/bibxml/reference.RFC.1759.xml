@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1759'>
+
+<front>
+<title>Printer MIB</title>
+<author initials='R.' surname='Smith' fullname='Ronald L. Smith'>
+<organization>Texas Instruments</organization>
+<address>
+<phone>+1 817 774 6151</phone>
+<email>rlsmith@nb.ppd.ti.com</email></address></author>
+<author initials='F.' surname='Wright' fullname='F. D. Wright'>
+<organization>Lexmark International</organization>
+<address>
+<phone>+1 606 232 4808</phone>
+<email>don@lexmark.com</email></address></author>
+<author initials='T.' surname='Hastings' fullname='Thomas N. Hastings'>
+<organization>Xerox Corporation</organization>
+<address>
+<phone>+1 310 333 6413</phone>
+<email>hastings@cp10.es.xerox.com</email></address></author>
+<author initials='S.' surname='Zilles' fullname='Stephen N. Zilles'>
+<organization>Adobe Systems, Inc.</organization>
+<address>
+<phone>+1 415 962 4766</phone>
+<email>szilles@mv.us.adobe.com</email></address></author>
+<author initials='J.' surname='Gyllenskog' fullname='Joel Gyllenskog'>
+<organization>Hewlett-Packard Company</organization>
+<address>
+<phone>+1 208 396 4515</phone>
+<email>jgyllens@hpdmd48.boi.hp.com</email></address></author>
+<date year='1995' month='March' /></front>
+
+<seriesInfo name='RFC' value='1759' />
+<format type='TXT' octets='239228' target='http://www.rfc-editor.org/rfc/rfc1759.txt' />
+</reference>

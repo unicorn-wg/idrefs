@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0126'>
+
+<front>
+<title>Graphics Facilities at Ames Research Center</title>
+<author initials='J.' surname='McConnell' fullname='John McConnell'>
+<organization>Ames Research Center</organization></author>
+<date year='1971' day='18' month='April' />
+<abstract>
+<t>This note is intended as a response to an RFC which suggested that nodes describe their graphics environment.</t></abstract></front>
+
+<seriesInfo name='RFC' value='126' />
+<format type='TXT' octets='1974' target='http://www.rfc-editor.org/rfc/rfc126.txt' />
+</reference>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0581'>
+
+<front>
+<title>Corrections to RFC 560: Remote Controlled Transmission and Echoing Telnet Option</title>
+<author initials='D.' surname='Crocker' fullname='D. Crocker'>
+<organization /></author>
+<author initials='J.' surname='Postel' fullname='J. Postel'>
+<organization /></author>
+<date year='1973' month='November' /></front>
+
+<seriesInfo name='RFC' value='581' />
+<format type='TXT' octets='11060' target='http://www.rfc-editor.org/rfc/rfc581.txt' />
+<format type='PDF' octets='385657' target='http://www.rfc-editor.org/rfc/rfc581.pdf' />
+</reference>

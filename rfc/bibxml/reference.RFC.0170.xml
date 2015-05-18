@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0170'>
+
+<front>
+<title>RFC List by Number</title>
+<author>
+<organization /></author>
+<date year='1971' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='170' />
+<format type='TXT' octets='17670' target='http://www.rfc-editor.org/rfc/rfc170.txt' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0748'>
+
+<front>
+<title>Telnet randomly-lose option</title>
+<author initials='M.' surname='Crispin' fullname='M. Crispin'>
+<organization>Stanford University, Artifical Intelligence</organization></author>
+<date year='1978' day='1' month='April' /></front>
+
+<seriesInfo name='RFC' value='748' />
+<format type='TXT' octets='2741' target='http://www.rfc-editor.org/rfc/rfc748.txt' />
+</reference>

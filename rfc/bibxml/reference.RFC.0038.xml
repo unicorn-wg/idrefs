@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0038'>
+
+<front>
+<title>Comments on Network Protocol from NWG/RFC #36</title>
+<author initials='S.' surname='Wolfe' fullname='Stephen M. Wolfe'>
+<organization>University of California, Los Angeles (UCLA), Campus Computing Network (CCN)</organization></author>
+<date year='1970' day='20' month='March' />
+<abstract>
+<t>The proposed protocol does not allow for the possible multiplexing of connections over links.</t></abstract></front>
+
+<seriesInfo name='RFC' value='38' />
+<format type='TXT' octets='2536' target='http://www.rfc-editor.org/rfc/rfc38.txt' />
+</reference>

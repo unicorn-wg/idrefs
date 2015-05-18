@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0339'>
+
+<front>
+<title>MLTNET: A "Multi Telnet" Subsystem for Tenex</title>
+<author initials='R.' surname='Thomas' fullname='R.Thomas'>
+<organization>Bolt Beranek and Newman (BBN)</organization></author>
+<date year='1972' day='5' month='May' /></front>
+
+<seriesInfo name='RFC' value='339' />
+<format type='TXT' octets='7941' target='http://www.rfc-editor.org/rfc/rfc339.txt' />
+</reference>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2029'>
+
+<front>
+<title abbrev='RTP Payload Format'>RTP Payload Format of Sun&apos;s CellB Video Encoding</title>
+<author initials='M.F.' surname='Speer' fullname='Michael F. Speer'>
+<organization>Sun Microsystems Computer Corporation</organization>
+<address>
+<postal>
+<street>2550 Garcia Ave MailStop UMPK14-305</street>
+<street>Mountain View</street>
+<street>CA 94043</street></postal>
+<facsimile>+1 415 786 6445</facsimile>
+<email>michael.speer@eng.sun.com</email></address></author>
+<author initials='D.' surname='Hoffman' fullname='Don Hoffman'>
+<organization>Sun Microsystems Computer Corporation</organization>
+<address>
+<postal>
+<street>2550 Garcia Ave MailStop UMPK14-305</street>
+<street>Mountain View</street>
+<street>CA 94043</street></postal>
+<facsimile>+1 415 786 6445</facsimile>
+<email>don.hoffman@eng.sun.com</email></address></author>
+<date year='1996' month='October' />
+<area>Transport</area>
+<keyword>RTP</keyword>
+<keyword>multimedia</keyword>
+<keyword>real-time transport protocol</keyword>
+<keyword>video</keyword>
+<abstract>
+<t>
+   This memo describes a packetization scheme for the CellB video
+   encoding. The scheme proposed allows applications to transport CellB
+   video flows over protocols used by RTP.  This document is meant for
+   implementors of video applications that want to use RTP and CellB.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2029' />
+<format type='TXT' octets='11216' target='http://www.rfc-editor.org/rfc/rfc2029.txt' />
+<format type='XML' octets='13955' target='http://xml.resource.org/public/rfc/xml/rfc2029.xml' />
+</reference>

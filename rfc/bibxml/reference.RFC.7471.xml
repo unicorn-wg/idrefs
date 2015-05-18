@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7471'>
+
+<front>
+<title>OSPF Traffic Engineering (TE) Metric Extensions</title>
+<author initials='S.' surname='Giacalone' fullname='S. Giacalone'>
+<organization /></author>
+<author initials='D.' surname='Ward' fullname='D. Ward'>
+<organization /></author>
+<author initials='J.' surname='Drake' fullname='J. Drake'>
+<organization /></author>
+<author initials='A.' surname='Atlas' fullname='A. Atlas'>
+<organization /></author>
+<author initials='S.' surname='Previdi' fullname='S. Previdi'>
+<organization /></author>
+<date year='2015' month='March' />
+<abstract>
+<t>In certain networks, such as, but not limited to, financial information networks (e.g., stock market data providers), network performance information (e.g., link propagation delay) is becoming critical to data path selection.&lt;/t>&lt;t> This document describes common extensions to RFC 3630 "Traffic Engineering (TE) Extensions to OSPF Version 2" and RFC 5329 "Traffic Engineering Extensions to OSPF Version 3" to enable network performance information to be distributed in a scalable fashion. The information distributed using OSPF TE Metric Extensions can then be used to make path selection decisions based on network performance.&lt;/t>&lt;t> Note that this document only covers the mechanisms by which network performance information is distributed. The mechanisms for measuring network performance information or using that information, once distributed, are outside the scope of this document.</t></abstract></front>
+
+<seriesInfo name='RFC' value='7471' />
+<format type='TXT' octets='38803' target='http://www.rfc-editor.org/rfc/rfc7471.txt' />
+</reference>

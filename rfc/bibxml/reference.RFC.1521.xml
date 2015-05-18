@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1521'>
+
+<front>
+<title abbrev='MIME'>MIME (Multipurpose Internet Mail Extensions) Part One: Mechanisms for Specifying and Describing the Format of Internet Message Bodies</title>
+<author initials='N.S.' surname='Borenstein' fullname='Nathaniel S. Borenstein'>
+<organization>Bellcore</organization>
+<address>
+<postal>
+<street>445 South St.</street>
+<street>MRE 2D-296</street>
+<city>Morristown</city>
+<region>NJ</region>
+<code>07962-1910</code>
+<country>US</country></postal>
+<phone>+1 201 829 4270</phone>
+<facsimile>+1 201 829 7019</facsimile>
+<email>nsb@bellcore.com</email></address></author>
+<author initials='N.' surname='Freed' fullname='Ned Freed'>
+<organization>Innosoft International, Inc.</organization>
+<address>
+<postal>
+<street>250 West First Street</street>
+<street>Suite 240</street>
+<city>Claremont</city>
+<region>CA</region>
+<code>91711</code>
+<country>US</country></postal>
+<phone>+1 909 624 7907</phone>
+<facsimile>+1 909 621 5319</facsimile>
+<email></email></address></author>
+<date year='1993' month='September' />
+<abstract>
+<t>STD 11, RFC 822 defines a message representation protocol which specifies considerable detail about message headers, but which leaves the message content, or message body, as flat ASCII text.  This document redefines the format of message bodies to allow multi-part textual and non-textual message bodies to be represented and exchanged without loss of information.  This is based on earlier work documented in RFC 934 and STD 11, RFC 1049, but extends and revises that work.  Because RFC 822 said so little about message bodies, this document is largely orthogonal to (rather than a revision of) RFC 822.</t>
+<t>In particular, this document is designed to provide facilities to include multiple objects in a single message, to represent body text in character sets other than US-ASCII, to represent formatted multi- font text messages, to represent non-textual material such as images and audio fragments, and generally to facilitate later extensions defining new types of Internet mail for use by cooperating mail agents.</t>
+<t>This document does NOT extend Internet mail header fields to permit anything other than US-ASCII text data.  Such extensions are the subject of a companion document.</t>
+<t>This document is a revision of RFC 1341.  Significant differences from RFC 1341 are summarized in Appendix H.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1521' />
+<format type='TXT' octets='187424' target='http://www.rfc-editor.org/rfc/rfc1521.txt' />
+<format type='PS' octets='393670' target='http://www.rfc-editor.org/rfc/rfc1521.ps' />
+<format type='PDF' octets='205091' target='http://www.rfc-editor.org/rfc/rfc1521.pdf' />
+</reference>

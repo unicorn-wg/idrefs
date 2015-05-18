@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1790'>
+
+<front>
+<title abbrev='ISOC - SUN Agreement: ONC RPC and XDR Protocols'>An Agreement between the Internet Society and Sun Microsystems, Inc</title>
+<author initials='V.' surname='Cerf' fullname='Vinton G. Cerf'>
+<organization>Internet Society</organization>
+<address>
+<postal>
+<street>12020 Sunrise Valley Dr</street>
+<street>suite 270</street>
+<city>Reston</city>
+<region>VA</region>
+<code>22091</code>
+<country>US</country></postal>
+<phone>+1 703 648 9888</phone>
+<email>vcerf@isoc.org</email></address></author>
+<date year='1995' month='April' />
+<abstract>
+<t></t></abstract></front>
+
+<seriesInfo name='RFC' value='1790' />
+<format type='TXT' octets='8226' target='http://www.rfc-editor.org/rfc/rfc1790.txt' />
+</reference>

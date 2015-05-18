@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0846'>
+
+<front>
+<title>Who talks TCP? - survey of 22 February 1983</title>
+<author initials='D.' surname='Smallberg' fullname='D. Smallberg'>
+<organization /></author>
+<date year='1983' day='23' month='February' />
+<abstract>
+<t>The list of hosts was taken from the NIC hostname table of 18-Feb-83.</t></abstract></front>
+
+<seriesInfo name='RFC' value='846' />
+<format type='TXT' octets='45597' target='http://www.rfc-editor.org/rfc/rfc846.txt' />
+</reference>

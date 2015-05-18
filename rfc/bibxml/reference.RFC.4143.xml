@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4143'>
+
+<front>
+<title>Facsimile Using Internet Mail (IFAX) Service of ENUM</title>
+<author initials='K.' surname='Toyoda' fullname='K. Toyoda'>
+<organization /></author>
+<author initials='D.' surname='Crocker' fullname='D. Crocker'>
+<organization /></author>
+<date year='2005' month='November' />
+<abstract>
+<t>This document describes the functional specification and definition of the ENUM Naming Authority Pointer (NAPTR) record for IFax service.  IFax is "facsimile using Internet mail".  For this use, the Domain Name System (DNS) returns the email address of the referenced IFax system.  This mechanism allows email-based fax communication to use telephone numbers instead of requiring the sender to already know the recipient email address. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='4143' />
+<format type='TXT' octets='8642' target='http://www.rfc-editor.org/rfc/rfc4143.txt' />
+</reference>

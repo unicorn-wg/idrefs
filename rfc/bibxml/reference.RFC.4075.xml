@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4075'>
+
+<front>
+<title>Simple Network Time Protocol (SNTP) Configuration Option for DHCPv6</title>
+<author initials='V.' surname='Kalusivalingam' fullname='V. Kalusivalingam'>
+<organization /></author>
+<date year='2005' month='May' />
+<abstract>
+<t>This document describes a new DHCPv6 option for passing a list of Simple Network Time Protocol (SNTP) server addresses to a client. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='4075' />
+<format type='TXT' octets='9424' target='http://www.rfc-editor.org/rfc/rfc4075.txt' />
+</reference>

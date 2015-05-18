@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2329'>
+
+<front>
+<title>OSPF Standardization Report</title>
+<author initials='J.' surname='Moy' fullname='John Moy'>
+<organization>Ascend Communications, Inc.</organization>
+<address>
+<postal>
+<street>1 Robbins Road</street>
+<city>Westford</city>
+<region>MA</region>
+<code>01886</code>
+<country>US</country></postal>
+<phone>+1 978 952 1367</phone>
+<facsimile>+1 978 392 2075</facsimile>
+<email>jmoy@casc.com</email></address></author>
+<date year='1998' month='April' />
+<abstract>
+<t>This memo documents how the requirements for advancing a routing protocol to Full Standard, set out in, have been met for OSPFv2.</t>
+<t>Please send comments to ospf@gated.cornell.edu.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2329' />
+<format type='TXT' octets='15130' target='http://www.rfc-editor.org/rfc/rfc2329.txt' />
+</reference>

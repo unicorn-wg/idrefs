@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2388'>
+
+<front>
+<title abbrev='multipart/form-data'>Returning Values from Forms:  multipart/form-data</title>
+<author initials='L.' surname='Masinter' fullname='Larry Masinter'>
+<organization>Xerox Palo Alto Research Center</organization>
+<address>
+<postal>
+<street>3333 Coyote Hill Road</street>
+<street>Palo Alto</street>
+<street>CA 94304</street></postal>
+<facsimile>+1 650 812 4333</facsimile>
+<email>masinter@parc.xerox.com</email></address></author>
+<date year='1998' month='August' />
+<area>Applications</area>
+<keyword>media type</keyword></front>
+
+<seriesInfo name='RFC' value='2388' />
+<format type='TXT' octets='16531' target='http://www.rfc-editor.org/rfc/rfc2388.txt' />
+<format type='XML' octets='18506' target='http://xml.resource.org/public/rfc/xml/rfc2388.xml' />
+</reference>

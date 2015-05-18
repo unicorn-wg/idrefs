@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2294'>
+
+<front>
+<title abbrev='Directory Information Tree'>Representing the O/R Address hierarchy in the X.500 Directory Information Tree</title>
+<author initials='S.' surname='Kille' fullname='Steve Kille'>
+<organization>Isode Ltd.</organization>
+<address>
+<postal>
+<street>The Dome</street>
+<street>The Square</street>
+<street>Richmond</street>
+<street>TW9 1DT</street>
+<street>England</street></postal>
+<phone>+44-181-332-9091</phone>
+<email>S.Kille@ISODE.COM</email></address></author>
+<date year='1998' month='March' />
+<area>Applications</area>
+<keyword>ITU directory service protocol</keyword>
+<keyword>ITU message handling service protocol</keyword>
+<keyword>directory</keyword>
+<keyword>routing</keyword>
+<abstract>
+<t>
+   This document defines a representation of the O/R Address hierarchy
+   in the Directory Information Tree [6, 1].  This is useful for a range
+   of purposes, including:
+</t>
+<t>
+    o  Support for MHS Routing .
+</t>
+<t>
+    o  Support for X.400/RFC 822 address mappings [2, 5].
+</t>
+<t>
+   Please send comments to the author or to the discussion group &lt;mhs-
+   ds@mercury.udev.cdc.com&gt;.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2294' />
+<format type='TXT' octets='22059' target='http://www.rfc-editor.org/rfc/rfc2294.txt' />
+<format type='XML' octets='21803' target='http://xml.resource.org/public/rfc/xml/rfc2294.xml' />
+</reference>

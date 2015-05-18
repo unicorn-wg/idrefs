@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3307'>
+
+<front>
+<title>Allocation Guidelines for IPv6 Multicast Addresses</title>
+<author initials='B.' surname='Haberman' fullname='B. Haberman'>
+<organization /></author>
+<date year='2002' month='August' /></front>
+
+<seriesInfo name='RFC' value='3307' />
+<format type='TXT' octets='15742' target='http://www.rfc-editor.org/rfc/rfc3307.txt' />
+</reference>

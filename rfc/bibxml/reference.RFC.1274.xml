@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1274'>
+
+<front>
+<title abbrev='COSINE and Internet X.500 Schema'>The COSINE and Internet X.500 Schema</title>
+<author initials='P.' surname='Barker' fullname='Paul Barker'>
+<organization>University College London, Department of Computer Science</organization>
+<address>
+<postal>
+<street>Gower Street</street>
+<city>London</city>
+<region>England</region>
+<code>WC1E 6BT</code>
+<country>UK</country></postal>
+<phone>+44 71 3807366</phone>
+<email>P.Barker@cs.ucl.ac.uk</email></address></author>
+<author initials='S.' surname='Kille' fullname='Steve Kille'>
+<organization>University College London, Department of Computer Science</organization>
+<address>
+<postal>
+<street>Gower Street</street>
+<city>London</city>
+<region>England</region>
+<code>WC1E 6BT</code>
+<country>UK</country></postal>
+<phone>+44 71 3807294</phone>
+<email>S.Kille@cs.ucl.ac.uk</email></address></author>
+<date year='1991' month='November' />
+<abstract>
+<t>This document suggests an X.500 Directory Schema, or Naming Architecture, for use in the COSINE and Internet X.500 pilots.  The schema is independent of any specific implementation.  As well as indicating support for the standard object classes and attributes, a large number of generally useful object classes and attributes are also defined.  An appendix to this document includes a machine processable version of the schema.</t>
+<t>This document also proposes a mechanism for allowing the schema to evolve in line with emerging requirements.  Proformas to support this process are included.</t>
+<t>Corrections and additions to the schema should be sent to na-update@cs.ucl.ac.uk list, as described within.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1274' />
+<format type='TXT' octets='92827' target='http://www.rfc-editor.org/rfc/rfc1274.txt' />
+</reference>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2242'>
+
+<front>
+<title abbrev='NetWare/IP'>NetWare/IP Domain Name and Information</title>
+<author initials='R.' surname='Droms' fullname='Ralph Droms'>
+<organization>Computer Science Department</organization>
+<address>
+<postal>
+<street>323 Dana Engineering</street>
+<street>Bucknell University</street>
+<street>Lewisburg</street>
+<street>PA 17837</street></postal>
+<phone>(717) 524-1145</phone>
+<email>droms@bucknell.edu</email></address></author>
+<author initials='K.' surname='Fong' fullname='Kester Fong'>
+<organization>Information Access Division</organization>
+<address>
+<postal>
+<street>Novell Inc.</street>
+<street>SJF-8-265</street>
+<street>2010 Fortune Dr</street>
+<street>San Jose</street>
+<street>CA95131</street></postal>
+<phone>(408)-577-8959</phone>
+<email>kfong@novell.com</email></address></author>
+<date year='1997' month='November' />
+<area>Internet</area>
+<keyword>Novell internetwork packet exchange</keyword>
+<keyword>domain name</keyword>
+<keyword>dynamic host configuration protocol</keyword></front>
+
+<seriesInfo name='RFC' value='2242' />
+<format type='TXT' octets='10653' target='http://www.rfc-editor.org/rfc/rfc2242.txt' />
+<format type='XML' octets='11515' target='http://xml.resource.org/public/rfc/xml/rfc2242.xml' />
+</reference>

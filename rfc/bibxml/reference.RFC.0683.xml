@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0683'>
+
+<front>
+<title>FTPSRV - Tenex extension for paged files</title>
+<author initials='R.' surname='Clements' fullname='R. Clements'>
+<organization>Bolt Beranek and Newman (BBN)</organization></author>
+<date year='1975' day='3' month='April' /></front>
+
+<seriesInfo name='RFC' value='683' />
+<format type='TXT' octets='8806' target='http://www.rfc-editor.org/rfc/rfc683.txt' />
+</reference>

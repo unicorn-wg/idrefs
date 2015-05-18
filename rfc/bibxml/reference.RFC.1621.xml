@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1621'>
+
+<front>
+<title>Pip Near-term Architecture</title>
+<author initials='P.' surname='Francis' fullname='Paul Francis'>
+<organization>NTT Software Lab</organization>
+<address>
+<postal>
+<street>3-9-11 Midori-cho Musashino-shi</street>
+<city>Tokyo</city>
+<region />
+<code>180</code>
+<country>JP</country></postal>
+<phone>+81 422 593843</phone>
+<facsimile>+81 422 593765</facsimile>
+<email>francis@cactus.ntt.jp</email></address></author>
+<date year='1994' month='May' />
+<abstract>
+<t>Pip is an internet protocol intended as the replacement for IP version 4.  Pip is a general purpose internet protocol, designed to evolve to all forseeable internet protocol requirements.  This specification describes the routing and addressing architecture for near-term Pip deployment.  We say near-term only because Pip is designed with evolution in mind, so other architectures are expected in the future.  This document, however, makes no reference to such future architectures.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1621' />
+<format type='TXT' octets='128905' target='http://www.rfc-editor.org/rfc/rfc1621.txt' />
+</reference>

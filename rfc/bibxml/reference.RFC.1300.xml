@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1300'>
+
+<front>
+<title>Remembrances of Things Past</title>
+<author initials='S.' surname='Greenfield' fullname='Stanley R. Greenfield'>
+<organization>Ziff-Davis</organization>
+<address>
+<postal>
+<street>One Park Avenue</street>
+<city>New York</city>
+<region>NY</region>
+<code>10016</code>
+<country>US</country></postal>
+<email>0004689513@mcimail.com</email></address></author>
+<date year='1992' month='February' /></front>
+
+<seriesInfo name='RFC' value='1300' />
+<format type='TXT' octets='4963' target='http://www.rfc-editor.org/rfc/rfc1300.txt' />
+</reference>

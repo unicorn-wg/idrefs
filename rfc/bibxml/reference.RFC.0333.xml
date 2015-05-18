@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0333'>
+
+<front>
+<title>Proposed experiment with a Message Switching Protocol</title>
+<author initials='R.D.' surname='Bressler' fullname='R.D. Bressler'>
+<organization /></author>
+<author initials='D.' surname='Murphy' fullname='D. Murphy'>
+<organization /></author>
+<author initials='D.C.' surname='Walden' fullname='D.C. Walden'>
+<organization /></author>
+<date year='1972' month='May' /></front>
+
+<seriesInfo name='RFC' value='333' />
+<format type='TXT' octets='62507' target='http://www.rfc-editor.org/rfc/rfc333.txt' />
+</reference>

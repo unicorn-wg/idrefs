@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1891'>
+
+<front>
+<title abbrev='SMTP Delivery Status Notifications'>SMTP Service Extension for Delivery Status Notifications</title>
+<author initials='K.' surname='Moore' fullname='Keith Moore'>
+<organization>University of Tennessee</organization>
+<address>
+<postal>
+<street>107 Ayres Hall</street>
+<city>Knoxville</city>
+<region>TN</region>
+<code>37996-1301</code>
+<country>US</country></postal>
+<email>moore@cs.utk.edu</email></address></author>
+<date year='1996' month='January' />
+<abstract>
+<t>This memo defines an extension to the SMTP service, which allows an SMTP client to specify (a) that delivery status notifications (DSNs) should be generated under certain conditions, (b) whether such notifications should return the contents of the message, and (c) additional information, to be returned with a DSN, that allows the sender to identify both the recipient(s) for which the DSN was issued, and the transaction in which the original message was sent.</t>
+<t>Any questions, comments, and reports of defects or ambiguities in this specification may be sent to the mailing list for the NOTARY working group of the IETF, using the address &lt;notifications@cs.utk.edu&gt;.  Requests to subscribe to the mailing list should be addressed to &lt;notifications-request@cs.utk.edu&gt;. Implementors of this specification are encouraged to subscribe to the mailing list, so that they will quickly be informed of any problems which might hinder interoperability.</t>
+<t>NOTE: This document is a Proposed Standard.  If and when this protocol is submitted for Draft Standard status, any normative text (phrases containing SHOULD, SHOULD NOT, MUST, MUST NOT, or MAY) in this document will be re-evaluated in light of implementation experience, and are thus subject to change.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1891' />
+<format type='TXT' octets='65192' target='http://www.rfc-editor.org/rfc/rfc1891.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0281'>
+
+<front>
+<title>Suggested addition to File Transfer Protocol</title>
+<author initials='A.' surname='McKenzie' fullname='A. McKenzie'>
+<organization>Bolt Baranek and Newman (BBN)</organization></author>
+<date year='1971' day='8' month='December' />
+<abstract>
+<t>On November 16, an informal meeting was held at UCLA to discuss prospects for a network standard Remote Job Service (RJS) protocol.</t></abstract></front>
+
+<seriesInfo name='RFC' value='281' />
+<format type='TXT' octets='12006' target='http://www.rfc-editor.org/rfc/rfc281.txt' />
+</reference>

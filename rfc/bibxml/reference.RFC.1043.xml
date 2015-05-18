@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1043'>
+
+<front>
+<title abbrev='Data Entry Terminal - DODIIS'>Telnet Data Entry Terminal option: DODIIS implementation</title>
+<author initials='A.' surname='Yasuda' fullname='A. Yasuda'>
+<organization>Defense Intelligence Agency</organization></author>
+<author initials='T.' surname='Thompson' fullname='T. Thompson'>
+<organization>Defense Intelligence Agency</organization></author>
+<date year='1988' day='1' month='February' /></front>
+
+<seriesInfo name='RFC' value='1043' />
+<format type='TXT' octets='59478' target='http://www.rfc-editor.org/rfc/rfc1043.txt' />
+</reference>

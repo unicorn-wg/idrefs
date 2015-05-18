@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1085'>
+
+<front>
+<title abbrev='ISO Presentation Services'>ISO presentation services on top of TCP/IP based internets</title>
+<author initials='M.' surname='Rose' fullname='Marshall T. Rose'>
+<organization>The Wollongong Group</organization>
+<address>
+<postal>
+<street>1129 San Antonio Road</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94303</code>
+<country>US</country></postal>
+<phone>+1 415 962 7100</phone>
+<email>mrose@TWG.COM</email></address></author>
+<date year='1988' day='1' month='December' /></front>
+
+<seriesInfo name='RFC' value='1085' />
+<format type='TXT' octets='64643' target='http://www.rfc-editor.org/rfc/rfc1085.txt' />
+</reference>

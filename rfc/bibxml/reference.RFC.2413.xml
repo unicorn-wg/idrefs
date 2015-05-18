@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2413'>
+
+<front>
+<title abbrev='DC Metadata for Resource Discovery'>
+Dublin Core Metadata for Resource Discovery</title>
+<author initials='S.L.' surname='Weibel' fullname='Stuart L. Weibel'>
+<organization>OCLC Online Computer Library Center, Inc., Office of Research</organization>
+<address>
+<postal>
+<street>6565 Frantz Rd.</street>
+<city>Dublin</city>
+<region>OH</region>
+<code>43017</code>
+<country>USA</country></postal>
+<phone>+1 614 764 6081</phone>
+<facsimile>+1 614 764 2344</facsimile>
+<email>weibel@oclc.org</email></address></author>
+<author initials='J.A.' surname='Kunze' fullname='John A. Kunze'>
+<organization>University of California, San Francisco, Center for Knowledge Management</organization>
+<address>
+<postal>
+<street>530 Parnassus Ave, Box 0840</street>
+<city>San Francisco</city>
+<region>CA</region>
+<code>94143-0840</code>
+<country>USA</country></postal>
+<phone>+1 510 525 8575</phone>
+<facsimile>+1 415 476 4653</facsimile>
+<email>jak@ckm.ucsf.edu</email></address></author>
+<author initials='C.' surname='Lagoze' fullname='Carl Lagoze'>
+<organization>Cornell University, University Library and Department of Computer Science</organization>
+<address>
+<postal>
+<street />
+<city>Ithaca</city>
+<region>NY</region>
+<code>14853</code>
+<country>USA</country></postal>
+<phone>+1 607 255 6046</phone>
+<facsimile>+1 607 255 4428</facsimile>
+<email>lagoze@cs.cornell.edu</email></address></author>
+<author initials='M.' surname='Wolf' fullname='Misha Wolf'>
+<organization>Reuters Limited</organization>
+<address>
+<postal>
+<street>85 Fleet Street</street>
+<city>London</city>
+<code>EC4P 4AJ</code>
+<country>UK</country></postal>
+<phone>+44 171 542 6722</phone>
+<facsimile>+44 171 542 8314</facsimile>
+<email>misha.wolf@reuters.com</email></address></author>
+<date year='1998' month='September' />
+<area>Applications</area>
+<keyword>discovery</keyword>
+<keyword>Dublin Core</keyword>
+<keyword>metadata</keyword></front>
+
+<seriesInfo name='RFC' value='2413' />
+<format type='TXT' octets='15501' target='http://www.rfc-editor.org/rfc/rfc2413.txt' />
+<format type='HTML' octets='37209' target='http://xml.resource.org/public/rfc/html/rfc2413.html' />
+<format type='XML' octets='18011' target='http://xml.resource.org/public/rfc/xml/rfc2413.xml' />
+</reference>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1426'>
+
+<front>
+<title abbrev='SMTP 8bit-MIMEtransport'>SMTP Service Extension for 8bit-MIMEtransport</title>
+<author initials='J.' surname='Klensin' fullname='John Klensin'>
+<organization>United Nations University</organization>
+<address>
+<postal>
+<street>Charles Street Station</street>
+<street>PO Box 500</street>
+<city>Boston</city>
+<region>MA</region>
+<code>02114-0500</code>
+<country>US</country></postal>
+<phone>+1 617 227 8747</phone>
+<facsimile>+1 617 491 6266</facsimile>
+<email>klensin@infoods.unu.edu</email></address></author>
+<author initials='N.' surname='Freed' fullname='Ned Freed'>
+<organization>Innosoft International, Inc.</organization>
+<address>
+<postal>
+<street>250 West First Street</street>
+<street>Suite 240</street>
+<city>Claremont</city>
+<region>CA</region>
+<code>91711</code>
+<country>US</country></postal>
+<phone>+1 909 624 7907</phone>
+<facsimile>+1 909 621 5319</facsimile>
+<email>ned@innosoft.com</email></address></author>
+<author initials='M.' surname='Rose' fullname='Marshall T. Rose'>
+<organization>Dover Beach Consulting, Inc.</organization>
+<address>
+<postal>
+<street>420 Whisman Court</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043-2186</code>
+<country>US</country></postal>
+<phone>+1 415 968 1052</phone>
+<facsimile>+1 415 968 2510</facsimile>
+<email>mrose@dbc.mtview.ca.us</email></address></author>
+<author initials='E.' surname='Stefferud' fullname='Einar A. Stefferud'>
+<organization>Network Management Associates, Inc.</organization>
+<address>
+<postal>
+<street>17301 Drey Lane</street>
+<city>Huntington Beach</city>
+<region>CA</region>
+<code>92647-5615</code>
+<country>US</country></postal>
+<phone>+1 714 842 3711</phone>
+<facsimile>+1 714 848 2091</facsimile>
+<email>stef@nma.com</email></address></author>
+<author initials='D.H.' surname='Crocker' fullname='David H. Crocker'>
+<organization>The Branch Office</organization>
+<address>
+<postal>
+<street>675 Spruce Drive</street>
+<city>Sunnyvale</city>
+<region>CA</region>
+<code>94086</code>
+<country>US</country></postal>
+<email>dcrocker@mordor.stanford.edu</email></address></author>
+<date year='1993' month='February' />
+<abstract>
+<t>This memo defines an extension to the SMTP service whereby an SMTP content body containing octets outside of the US ASCII octet range (hex 00-7F) may be relayed using SMTP.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1426' />
+<format type='TXT' octets='11661' target='http://www.rfc-editor.org/rfc/rfc1426.txt' />
+</reference>

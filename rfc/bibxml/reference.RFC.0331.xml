@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0331'>
+
+<front>
+<title>IMP System Change Notification</title>
+<author initials='J.' surname='McQuillan' fullname='J. McQuillan'>
+<organization>Bolt Beranek and Newman (BBN), NET</organization></author>
+<date year='1972' day='19' month='April' />
+<abstract>
+<t>We are planning to release IMPSYS 2600 on May 15, 1972, between 12 noon and 3 p.m. E.D.T.  As discussed at the March 16 seminar held at BBN, this release constitutes a major change to the IMP program. Because of the magnitude of the change, the system will be released on an experimental basis.  If problems develop, then the current system, IMPSYS 2514, will be reloaded and the cutover for IMPSYS 2600 will be rescheduled for some later time.</t></abstract></front>
+
+<seriesInfo name='RFC' value='331' />
+<format type='TXT' octets='2339' target='http://www.rfc-editor.org/rfc/rfc331.txt' />
+</reference>

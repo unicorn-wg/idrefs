@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3349'>
+
+<front>
+<title abbrev='Transient IDs for BEEP Profiles'>A Transient Prefix
+for Identifying Profiles under Development by the Working Groups of
+the Internet Engineering Task Force</title>
+<author initials='M.T.' surname='Rose' fullname='Marshall T. Rose'>
+<organization>Dover Beach Consulting, Inc.</organization>
+<address>
+<postal>
+<street>POB 255268</street>
+<city>Sacramento</city>
+<region>CA</region>
+<code>95865-5268</code>
+<country>US</country></postal>
+<phone>+1 916 483 8878</phone>
+<email>mrose@dbc.mtview.ca.us</email></address></author>
+<date year='2002' month='July' />
+<abstract>
+<t>As a part of their deliverables,
+working groups of the IETF may develop BEEP profiles.
+During the development process,
+it is desirable to assign a transient identifier to each profile.
+If the profile is subsequently published as an RFC,
+then a permanent identifier is subsequently assigned by the
+IANA.</t></abstract></front>
+
+<seriesInfo name='BCP' value='59' />
+<seriesInfo name='RFC' value='3349' />
+<format type='TXT' octets='7916' target='http://www.rfc-editor.org/rfc/rfc3349.txt' />
+<format type='HTML' octets='20348' target='http://xml.resource.org/public/rfc/html/rfc3349.html' />
+<format type='XML' octets='11017' target='http://xml.resource.org/public/rfc/xml/rfc3349.xml' />
+</reference>

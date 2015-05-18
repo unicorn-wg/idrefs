@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0717'>
+
+<front>
+<title>Assigned Network Numbers</title>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
+<date year='1976' day='1' month='July' /></front>
+
+<seriesInfo name='RFC' value='717' />
+<format type='TXT' octets='2322' target='http://www.rfc-editor.org/rfc/rfc717.txt' />
+</reference>

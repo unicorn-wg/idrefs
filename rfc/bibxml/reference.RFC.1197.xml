@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1197'>
+
+<front>
+<title abbrev='Using ODA'>Using ODA for translating multimedia information</title>
+<author initials='M.' surname='Sherman' fullname='Mark Sherman'>
+<organization>Carnegie Mellon University , Information Technology Center</organization>
+<address>
+<postal>
+<street>4910 Forbes Avenue</street>
+<city>Pittsburgh</city>
+<region>PA</region>
+<code>15213</code>
+<country>US</country></postal>
+<phone>+1 412 268 6727</phone>
+<facsimile>+1 412 268 6787</facsimile>
+<email>mss+@andrew.cmu.edu</email></address></author>
+<date year='1990' day='1' month='December' /></front>
+
+<seriesInfo name='RFC' value='1197' />
+<format type='TXT' octets='3620' target='http://www.rfc-editor.org/rfc/rfc1197.txt' />
+</reference>

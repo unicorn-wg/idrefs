@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0969'>
+
+<front>
+<title>NETBLT: A bulk data transfer protocol</title>
+<author initials='D.' surname='Clark' fullname='David D. Clark'>
+<organization>Massachusetts Institute of Technology (MIT), Laboratory for Computer Science</organization></author>
+<author initials='M.' surname='Lambert' fullname='Mark L. Lambert'>
+<organization>Massachusetts Institute of Technology (MIT), Laboratory for Computer Science</organization></author>
+<author initials='L.' surname='Zhang' fullname='Lixia Zhang'>
+<organization>Massachusetts Institute of Technology (MIT), Laboratory for Computer Science</organization></author>
+<date year='1985' day='1' month='December' /></front>
+
+<seriesInfo name='RFC' value='969' />
+<format type='TXT' octets='40040' target='http://www.rfc-editor.org/rfc/rfc969.txt' />
+</reference>

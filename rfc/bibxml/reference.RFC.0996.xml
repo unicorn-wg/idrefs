@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0996'>
+
+<front>
+<title>Statistics server</title>
+<author initials='D.' surname='Mills' fullname='D. L. Mills'>
+<organization>University of Delaware</organization></author>
+<date year='1987' day='1' month='February' /></front>
+
+<seriesInfo name='RFC' value='996' />
+<format type='TXT' octets='6127' target='http://www.rfc-editor.org/rfc/rfc996.txt' />
+</reference>

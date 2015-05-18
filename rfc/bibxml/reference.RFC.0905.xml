@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0905'>
+
+<front>
+<title>ISO Transport Protocol specification ISO DP 8073</title>
+<author>
+<organization>International Organization for Standardization (ISO)</organization></author>
+<date year='1984' day='1' month='April' /></front>
+
+<seriesInfo name='RFC' value='905' />
+<format type='TXT' octets='249214' target='http://www.rfc-editor.org/rfc/rfc905.txt' />
+</reference>

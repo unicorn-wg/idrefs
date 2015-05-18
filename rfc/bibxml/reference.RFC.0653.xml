@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0653'>
+
+<front>
+<title>Telnet output horizontal tabstops option</title>
+<author initials='D.' surname='Crocker' fullname='D. Crocker'>
+<organization>University of California, Los Angeles (UCLA), NMC</organization></author>
+<date year='1974' day='25' month='October' /></front>
+
+<seriesInfo name='RFC' value='653' />
+<format type='TXT' octets='4694' target='http://www.rfc-editor.org/rfc/rfc653.txt' />
+</reference>

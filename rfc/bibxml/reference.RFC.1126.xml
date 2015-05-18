@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1126'>
+
+<front>
+<title abbrev='Inter-Autonomous System Routing'>Goals and functional requirements for inter-autonomous system routing</title>
+<author initials='M.' surname='Little' fullname='Mike Little'>
+<organization>Science Applications International Corporation (SAIC)</organization>
+<address>
+<postal>
+<street>8619 Westwood Center Drive</street>
+<city>Vienna</city>
+<region>VA</region>
+<code>22182</code>
+<country>US</country></postal>
+<phone>+1 703 734 9000</phone>
+<email>little@SAIC.COM</email></address></author>
+<date year='1989' day='1' month='October' /></front>
+
+<seriesInfo name='RFC' value='1126' />
+<format type='TXT' octets='62725' target='http://www.rfc-editor.org/rfc/rfc1126.txt' />
+</reference>

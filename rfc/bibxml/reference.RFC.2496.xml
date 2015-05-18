@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2496'>
+
+<front>
+<title abbrev='DS3/E3 MIB'>Definitions of Managed Objects for the DS3/E3 Interface Type</title>
+<author initials='D.' surname='Fowler' fullname='David Fowler'>
+<organization>Newbridge Networks</organization>
+<address>
+<postal>
+<street>600 March Road</street>
+<street>Kanata</street>
+<street>Ontario</street>
+<street>Canada K2K 2E6</street></postal>
+<phone>(613) 599-3600, ext 6559</phone>
+<email>davef@newbridge.com</email></address></author>
+<date year='1999' month='January' />
+<area>Management</area>
+<area>Internet</area>
+<keyword>Management Information Base</keyword>
+<keyword>T-3 44.746 megabits/sec synchronous lines</keyword>
+<keyword>managed object</keyword>
+<keyword>synchronous optical network</keyword>
+<keyword>DS3</keyword>
+<keyword>E3</keyword>
+<abstract>
+<t>
+   This memo defines a portion of the Management Information Base (MIB)
+   for use with network management protocols in the Internet community.
+   In particular, it describes objects used for managing DS3 and E3
+   interfaces.  This document is a companion document with Definitions
+   of Managed Objects for the DS0 (RFC 2494 ), DS1/E1/DS2/E2 (RFC
+   2495 ), and the work in progress SONET/SDH Interface Types.
+</t>
+<t>
+   This memo specifies a MIB module in a manner that is both compliant
+   to the SNMPv2 SMI, and semantically identical to the peer SNMPv1
+   definitions.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2496' />
+<format type='TXT' octets='124251' target='http://www.rfc-editor.org/rfc/rfc2496.txt' />
+<format type='XML' octets='125402' target='http://xml.resource.org/public/rfc/xml/rfc2496.xml' />
+</reference>

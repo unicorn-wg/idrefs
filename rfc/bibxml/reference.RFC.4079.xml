@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4079'>
+
+<front>
+<title>A Presence Architecture for the Distribution of GEOPRIV Location Objects</title>
+<author initials='J.' surname='Peterson' fullname='J. Peterson'>
+<organization /></author>
+<date year='2005' month='July' />
+<abstract>
+<t>GEOPRIV defines the concept of a 'using protocol' -- a protocol that carries GEOPRIV location objects.  GEOPRIV also defines various scenarios for the distribution of location objects that require the concepts of subscriptions and asynchronous notifications.  This document examines some existing IETF work on the concept of presence, shows how presence architectures map onto GEOPRIV architectures, and moreover demonstrates that tools already developed for presence could be reused to simplify the standardization and implementation of GEOPRIV.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='4079' />
+<format type='TXT' octets='16718' target='http://www.rfc-editor.org/rfc/rfc4079.txt' />
+</reference>

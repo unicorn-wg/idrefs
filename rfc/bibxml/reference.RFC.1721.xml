@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1721'>
+
+<front>
+<title abbrev='RIP-2 Analysis'>RIP Version 2 Protocol Analysis</title>
+<author initials='G.' surname='Malkin' fullname='Gary Scott Malkin'>
+<organization>Xylogics, Inc.</organization>
+<address>
+<postal>
+<street>53 Third Avenue</street>
+<city>Burlington</city>
+<region>MA</region>
+<code>01803</code>
+<country>US</country></postal>
+<phone>+1 617 272 8140</phone>
+<email>gmalkin@Xylogics.COM</email></address></author>
+<date year='1994' month='November' />
+<abstract>
+<t>As required by Routing Protocol Criteria (RFC 1264), this report documents the key features of the RIP-2 protocol and the current implementation experience.  This report is a prerequisite to advancing RIP-2 on the standards track.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1721' />
+<format type='TXT' octets='6680' target='http://www.rfc-editor.org/rfc/rfc1721.txt' />
+</reference>

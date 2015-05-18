@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2227'>
+
+<front>
+<title abbrev='Hit-Metering and Usage-Limiting'>Simple Hit-Metering and Usage-Limiting for HTTP</title>
+<author initials='J.' surname='Mogul' fullname='Jeffrey C. Mogul'>
+<organization>Western Research Laboratory, Digital Equipment Corporation</organization>
+<address>
+<postal>
+<street>250 University Avenue</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94301</code>
+<country>US</country></postal>
+<phone>+1 415 617 3304</phone>
+<email>mogul@wrl.dec.com</email></address></author>
+<author initials='P.J.' surname='Leach' fullname='Paul J. Leach'>
+<organization>Microsoft</organization>
+<address>
+<postal>
+<street>1 Microsoft Way</street>
+<city>Redmond</city>
+<region>WA</region>
+<code>98052</code>
+<country>US</country></postal>
+<email>paulle@microsoft.com</email></address></author>
+<date year='1997' month='October' />
+<abstract>
+<t>This document proposes a simple extension to HTTP, using a new "Meter" header, which permits a limited form of demographic information (colloquially called "hit-counts") to be reported by caches to origin servers, in a more efficient manner than the "cache-busting" techniques currently used.  It also permits an origin server to control the number of times a cache uses a cached response, and outlines a technique that origin servers can use to capture referral information without "cache-busting."</t></abstract></front>
+
+<seriesInfo name='RFC' value='2227' />
+<format type='TXT' octets='85127' target='http://www.rfc-editor.org/rfc/rfc2227.txt' />
+</reference>

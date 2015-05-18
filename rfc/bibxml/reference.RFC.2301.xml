@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2301'>
+
+<front>
+<title>File Format for Internet Fax</title>
+<author initials='L.' surname='McIntyre' fullname='L. McIntyre'>
+<organization>Xerox Corporation</organization></author>
+<author initials='S.' surname='Zilles' fullname='S. Zilles'>
+<organization>Adobe Systems, Inc.</organization></author>
+<author initials='R.' surname='Buckley' fullname='R. Buckley'>
+<organization>Xerox Corporation</organization></author>
+<author initials='D.' surname='Venable' fullname='D. Venable'>
+<organization>Xerox Corporation</organization></author>
+<author initials='G.' surname='Parsons' fullname='G. Parsons'>
+<organization>Northern Telecom</organization></author>
+<author initials='J.' surname='Rafferty' fullname='J. Rafferty'>
+<organization>Human Communications</organization></author>
+<date year='1998' month='March' />
+<area>Applications</area>
+<keyword>content-type</keyword>
+<keyword>facsimile</keyword>
+<keyword>multipurpose internet mail extensions</keyword>
+<abstract>
+<t>
+
+   This document describes the TIFF (Tag Image File Format)
+
+   representation of image data specified by the ITU-T Recommendations
+
+   for black-and-white and color facsimile. This file format
+
+   specification is commonly known as TIFF-FX. It formally defines
+
+   minimal, extended and lossless JBIG modes (Profiles S, F, J) for
+
+   black-and-white fax, and base JPEG, lossless JBIG and Mixed Raster
+
+   Content modes (Profiles C, L, M) for color and grayscale fax. These
+
+   modes or profiles correspond to the content of the applicable ITU-T
+
+   Recommendations. Files formatted according to this specification use
+
+   the image/tiff MIME Content Type.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2301' />
+<format type='TXT' octets='200525' target='http://www.rfc-editor.org/rfc/rfc2301.txt' />
+<format type='XML' octets='196784' target='http://xml.resource.org/public/rfc/xml/rfc2301.xml' />
+</reference>

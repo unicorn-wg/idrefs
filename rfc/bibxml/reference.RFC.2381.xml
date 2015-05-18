@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2381'>
+
+<front>
+<title abbrev='Interoperation of CLS and GS with ATM'>Interoperation of Controlled-Load Service and Guaranteed Service with ATM</title>
+<author initials='M.W.' surname='Garrett' fullname='Mark W. Garrett'>
+<organization>Bellcore</organization>
+<address>
+<postal>
+<street>445 South Street</street>
+<street>Morristown</street>
+<street>NJ 07960</street>
+<country>USA</country></postal>
+<phone>+1 201 829-4439</phone>
+<email>mwg@bellcore.com</email></address></author>
+<author initials='M.' surname='Borden' fullname='Marty Borden'>
+<organization>Bay Networks</organization>
+<address>
+<postal>
+<street>42 Nagog Park</street>
+<street>Acton</street>
+<street>01720</street>
+<country>USA</country></postal>
+<phone>+1 508 266-1011</phone>
+<email>mborden@baynetworks.com</email></address></author>
+<date year='1998' month='August' />
+<area>Internet</area>
+<keyword>asynchronous transfer mode</keyword>
+<keyword>quality of service</keyword>
+<abstract>
+<t>
+   This document provides guidelines for mapping service classes, and
+   traffic management features and parameters between Internet and ATM
+   technologies.  The service mappings are useful for providing
+   effective interoperation and end-to-end Quality of Service for IP
+   Integrated Services networks containing ATM subnetworks.
+</t>
+<t>
+   The discussion and specifications given here support the IP
+   integrated services protocols for Guaranteed Service (GS),
+   Controlled-Load Service (CLS) and the ATM Forum UNI specification,
+   versions 3.0, 3.1 and 4.0.  Some discussion of IP best effort service
+   over ATM is also included.
+</t>
+<t>
+   The key words &quot;MUST&quot;, &quot;MUST NOT&quot;, &quot;REQUIRED&quot;, &quot;SHALL&quot;, &quot;SHALL NOT&quot;,
+   &quot;SHOULD&quot;, &quot;SHOULD NOT&quot;, &quot;RECOMMENDED&quot;, &quot;MAY&quot;, and &quot;OPTIONAL&quot; in this
+   document are to be interpreted as described in RFC 2119 .  (Note,
+   in many cases the use of &quot;MUST&quot; or &quot;REQUIRED&quot; reflects our
+   interpretation of the requirements of a related standard, e.g., ATM
+   Forum UNI 4.0, rsvp, etc.)
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2381' />
+<format type='TXT' octets='107299' target='http://www.rfc-editor.org/rfc/rfc2381.txt' />
+<format type='XML' octets='109980' target='http://xml.resource.org/public/rfc/xml/rfc2381.xml' />
+</reference>

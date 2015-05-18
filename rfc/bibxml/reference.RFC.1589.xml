@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1589'>
+
+<front>
+<title abbrev='Kernel Model for Precision Timekeeping'>A Kernel Model for Precision Timekeeping</title>
+<author initials='D.' surname='Mills' fullname='David L. Mills'>
+<organization>University of Delaware, Electrical Engineering Department</organization>
+<address>
+<postal>
+<street />
+<city>Newark</city>
+<region>DE</region>
+<code>19716</code>
+<country>US</country></postal>
+<phone>+1 302 831 8247</phone>
+<email>mills@udel.edu</email></address></author>
+<date year='1994' month='March' /></front>
+
+<seriesInfo name='RFC' value='1589' />
+<format type='TXT' octets='88129' target='http://www.rfc-editor.org/rfc/rfc1589.txt' />
+</reference>

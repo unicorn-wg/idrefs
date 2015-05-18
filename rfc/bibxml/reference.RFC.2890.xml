@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2890'>
+
+<front>
+<title>Key and Sequence Number Extensions to GRE</title>
+<author initials='G.' surname='Dommety' fullname='G. Dommety'>
+<organization /></author>
+<date year='2000' month='September' />
+<abstract>
+<t>This document describes extensions by which two fields, Key and Sequence Number, can be optionally carried in the GRE Header. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='2890' />
+<format type='TXT' octets='14503' target='http://www.rfc-editor.org/rfc/rfc2890.txt' />
+</reference>

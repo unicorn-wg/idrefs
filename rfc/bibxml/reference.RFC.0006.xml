@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0006'>
+
+<front>
+<title>Conversation with Bob Kahn</title>
+<author initials='S.' surname='Crocker' fullname='Steve Crocker'>
+<organization>University California Los Angeles (UCLA)</organization></author>
+<date year='1969' day='10' month='April' />
+<abstract>
+<t>I talked with Bob Kahn at BB&amp;N yesterday.  We talked about code conversion in the IMP's, the IMP-HOST communication and HOST software.</t></abstract></front>
+
+<seriesInfo name='RFC' value='6' />
+<format type='TXT' octets='1568' target='http://www.rfc-editor.org/rfc/rfc6.txt' />
+</reference>

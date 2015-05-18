@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1240'>
+
+<front>
+<title abbrev='OSI on top of UDP'>OSI connectionless transport services on top of UDP: Version 1</title>
+<author initials='C.' surname='Shue' fullname='Chikong Shue'>
+<organization>Open Software Foundation, Inc.</organization>
+<address>
+<postal>
+<street>11 Cambridge Center</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02142</code>
+<country>US</country></postal>
+<phone>+1 617 621 8972</phone>
+<email>chi@osf.org</email></address></author>
+<author initials='W.' surname='Haggerty' fullname='William Haggerty'>
+<organization>Wang Laboratories, Inc.</organization>
+<address>
+<postal>
+<street>1 Industrial Ave</street>
+<city>Lowell</city>
+<region>MA</region>
+<code>01851</code>
+<country>US</country></postal>
+<phone>+1 508 967 3403</phone>
+<email>bill@comm.wang.com</email></address></author>
+<author initials='K.' surname='Dobbins' fullname='Kurt Dobbins'>
+<organization>Cabletron, Inc.</organization>
+<address>
+<postal>
+<street>35 Industrial Way</street>
+<city>Rochester</city>
+<region>NH</region>
+<code>03867</code>
+<country>US</country></postal>
+<phone>+1 603 332 9400</phone></address></author>
+<date year='1991' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='1240' />
+<format type='TXT' octets='18140' target='http://www.rfc-editor.org/rfc/rfc1240.txt' />
+</reference>

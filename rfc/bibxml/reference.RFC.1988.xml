@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1988'>
+
+<front>
+<title>Conditional Grant of Rights to Specific Hewlett-Packard Patents In Conjunction With the Internet Engineering Task Force's Internet-Standard Network Management Framework</title>
+<author initials='G.' surname='McAnally' fullname='Gary McAnally'>
+<organization>Hewlett-Packard Company</organization>
+<address>
+<postal>
+<street>8000 Foothills Blvd.</street>
+<city>Roseville</city>
+<region>CA</region>
+<code>95747</code>
+<country>US</country></postal></address></author>
+<author initials='D.' surname='Gilbert' fullname='Douglas Gilbert'>
+<organization>Hewlett-Packard Company</organization>
+<address>
+<postal>
+<street>3000 Hanover Street</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94304</code>
+<country>US</country></postal></address></author>
+<author initials='J.' surname='Flick' fullname='John Flick'>
+<organization>Hewlett-Packard Company</organization>
+<address>
+<postal>
+<street>8000 Foothills Blvd. M.S. 5556</street>
+<city>Roseville</city>
+<region>CA</region>
+<code>95747-5556</code>
+<country>US</country></postal>
+<phone>+1 916 785 4018</phone>
+<email>johnf@hprnd.rose.hp.com</email></address></author>
+<date year='1996' month='August' /></front>
+
+<seriesInfo name='RFC' value='1988' />
+<format type='TXT' octets='3821' target='http://www.rfc-editor.org/rfc/rfc1988.txt' />
+</reference>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2027'>
+
+<front>
+<title abbrev='IAB and IESG Selection'>IAB and IESG Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees</title>
+<author initials='J.M.' surname='Galvin' fullname='James M. Galvin'>
+<organization>CommerceNet</organization>
+<address>
+<postal>
+<street>P.O. Box 220</street>
+<street>Glenwood</street>
+<street>MD 21738</street></postal>
+<phone>+1 410.795.6882</phone>
+<email>galvin@commerce.net</email></address></author>
+<date year='1996' month='October' />
+<area>General</area>
+<keyword>Internet Architecture Board</keyword>
+<keyword>Internet Engineering Steering Group</keyword>
+<abstract>
+<t>
+   The process by which the members of the IAB and IESG are selected,
+   confirmed, and recalled has been exercised four times since its
+   formal creation.  The evolution of the process has relied principally
+   on oral tradition as a means by which the lessons learned could be
+   passed on to successive committees.  This document is a self-
+   consistent, organized compilation of the process as it is known
+   today.
+</t></abstract></front>
+
+<seriesInfo name='BCP' value='10' />
+<seriesInfo name='RFC' value='2027' />
+<format type='TXT' octets='24207' target='http://www.rfc-editor.org/rfc/rfc2027.txt' />
+<format type='HTML' octets='38072' target='http://xml.resource.org/public/rfc/html/rfc2027.html' />
+<format type='XML' octets='24573' target='http://xml.resource.org/public/rfc/xml/rfc2027.xml' />
+</reference>

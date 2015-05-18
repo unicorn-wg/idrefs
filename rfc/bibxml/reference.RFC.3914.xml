@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3914'>
+
+<front>
+<title>Open Pluggable Edge Services (OPES) Treatment of IAB Considerations</title>
+<author initials='A.' surname='Barbir' fullname='A. Barbir'>
+<organization /></author>
+<author initials='A.' surname='Rousskov' fullname='A. Rousskov'>
+<organization /></author>
+<date year='2004' month='October' />
+<abstract>
+<t>IETF Internet Architecture Board (IAB) expressed nine architecture-level considerations for the Open Pluggable Edge Services (OPES) framework.  This document describes how OPES addresses those considerations.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='3914' />
+<format type='TXT' octets='37411' target='http://www.rfc-editor.org/rfc/rfc3914.txt' />
+</reference>

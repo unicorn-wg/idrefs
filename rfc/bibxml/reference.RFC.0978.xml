@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0978'>
+
+<front>
+<title abbrev='Voice File Interchange Protocol'>Voice File Interchange Protocol (VFIP)</title>
+<author initials='J.' surname='Reynolds' fullname='J. K. Reynolds'>
+<organization>University of Southern California (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<author initials='R.' surname='Gillmann' fullname='R. Gillmann'>
+<organization>Inner Loop</organization></author>
+<author initials='W.' surname='Brackenridge' fullname='W. A. Brackenridge'>
+<organization>Alembic</organization></author>
+<author initials='A.' surname='Witkowski' fullname='A. Witkowski'>
+<organization>Inner Loop</organization></author>
+<author initials='J.' surname='Postel' fullname='J. Postel'>
+<organization>University of Southern California (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<date year='1986' day='1' month='February' /></front>
+
+<seriesInfo name='RFC' value='978' />
+<format type='TXT' octets='9223' target='http://www.rfc-editor.org/rfc/rfc978.txt' />
+</reference>

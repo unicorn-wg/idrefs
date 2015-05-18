@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0469'>
+
+<front>
+<title>Network mail meeting summary</title>
+<author initials='M.' surname='Kudlick' fullname='Michael D. Kudlick'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
+<date year='1973' day='8' month='March' /></front>
+
+<seriesInfo name='RFC' value='469' />
+<format type='TXT' octets='17774' target='http://www.rfc-editor.org/rfc/rfc469.txt' />
+</reference>

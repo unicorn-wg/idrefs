@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1664'>
+
+<front>
+<title abbrev='Internet DNS for Mail Mapping Tables'>Using the Internet DNS to Distribute RFC1327 Mail Address Mapping Tables</title>
+<author initials='C.' surname='Allocchio' fullname='Claudio Allocchio'>
+<organization>Sincrotrone Trieste</organization>
+<address>
+<postal>
+<street>Padriciano 99</street>
+<city>Trieste</city>
+<region />
+<code>I 34012</code>
+<country>IT</country></postal>
+<phone>+39 40 3758523</phone>
+<facsimile>+39 40 226338</facsimile>
+<email>Claudio.Allocchio@elettra.trieste.it</email></address></author>
+<author initials='A.' surname='Bonito' fullname='Antonio Blasco Bonito'>
+<organization>CNUCE - CNR</organization>
+<address>
+<postal>
+<street>Reparto infr. reti</street>
+<street>Viale S. Maria 36</street>
+<city>Pisa</city>
+<region />
+<code>I 56126</code>
+<country>IT</country></postal>
+<phone>+39 50 593246</phone>
+<facsimile>+39 50 589354</facsimile>
+<email>bonito@cnuce.cnr.it</email></address></author>
+<author initials='B.' surname='Cole' fullname='Bruce Cole'>
+<organization>Cisco Systems Inc.</organization>
+<address>
+<postal>
+<street>P.O. Box 3075</street>
+<street>1525 O'Brien Drive</street>
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94026</code>
+<country>US</country></postal>
+<phone>+1 415 688 8245</phone>
+<facsimile>+1 415 688 4575</facsimile>
+<email>bcole@cisco.com</email></address></author>
+<author initials='S.' surname='Giordano' fullname='Silvia Giordano'>
+<organization>Centro Svizzero di Calcolo Scientifico</organization>
+<address>
+<postal>
+<street>Via Cantonale</street>
+<city>Manno</city>
+<region />
+<code>CH 6928</code>
+<country>CH</country></postal>
+<phone>+41 91 508213</phone>
+<facsimile>+41 91 506711</facsimile>
+<email>giordano@cscs.ch</email></address></author>
+<author initials='R.' surname='Hagens' fullname='Robert Hagens'>
+<organization>Advanced Network and Services</organization>
+<address>
+<postal>
+<street>1875 Campus Commons Drive</street>
+<city>Reston</city>
+<region>VA</region>
+<code>22091</code>
+<country>US</country></postal>
+<phone>+1 703 758 7700</phone>
+<email>hagens@ans.net</email></address></author>
+<date year='1994' month='August' />
+<abstract>
+<t>This memo defines how to store in the Internet Domain Name System the mapping information needed by e-mail gateways and other tools to map RFC822 domain names into X.400 O/R names and vice versa.  Mapping information can be managed in a distributed rather than a centralised way. Gateways located on Internet hosts can retrieve the mapping information querying the DNS instead of having fixed tables which need to be centrally updated and distributed.  This memo is a joint effort of X400 operation working group (x400ops) and RARE Mail and Messaging working group (WG-MSG).</t></abstract></front>
+
+<seriesInfo name='RFC' value='1664' />
+<format type='TXT' octets='50783' target='http://www.rfc-editor.org/rfc/rfc1664.txt' />
+</reference>

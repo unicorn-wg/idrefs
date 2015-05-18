@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1872'>
+
+<front>
+<title abbrev='Multipart/Related'>The MIME Multipart/Related Content-type</title>
+<author initials='E.' surname='Levinson' fullname='Edward Levinson'>
+<organization>Accurate Information Systems, Inc.</organization>
+<address>
+<postal>
+<street>2 Industrial Way</street>
+<city>Eatontown</city>
+<region>NJ</region>
+<code>07724-2265</code>
+<country>US</country></postal>
+<phone>+1 908 389 5550</phone>
+<email>ELevinson@Accurate.com</email></address></author>
+<date year='1995' month='December' />
+<abstract>
+<t>The Multipart/Related content-type provides a common mechanism for representing objects that are aggregates of related MIME body parts. This document defines the Multipart/Related content-type and provides examples of its use.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1872' />
+<format type='TXT' octets='15565' target='http://www.rfc-editor.org/rfc/rfc1872.txt' />
+</reference>

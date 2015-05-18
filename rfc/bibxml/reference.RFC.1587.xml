@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1587'>
+
+<front>
+<title abbrev='OSPF NSSA Option'>The OSPF NSSA Option</title>
+<author initials='R.' surname='Coltun' fullname='Rob Coltun'>
+<organization>RainbowBridge Communications</organization>
+<address>
+<phone>+1 301 340 9416</phone>
+<email>rcoltun@rainbow-bridge.com</email></address></author>
+<author initials='V.' surname='Fuller' fullname='Vince Fuller'>
+<organization>Stanford University, BARRNet</organization>
+<address>
+<postal>
+<street>Pine Hall 115</street>
+<city>Stanford</city>
+<region>CA</region>
+<code>94305-4122</code>
+<country>US</country></postal>
+<phone>+1 415 723 6860</phone>
+<email>vaf@Valinor.Stanford.EDU</email></address></author>
+<date year='1994' month='March' />
+<abstract>
+<t>This document describes a new optional type of OSPF area, somewhat humorously referred to as a "not-so-stubby" area (or NSSA).  NSSAs are similar to the existing OSPF stub area configuration option but have the additional capability of importing AS external routes in a limited fashion.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1587' />
+<format type='TXT' octets='37412' target='http://www.rfc-editor.org/rfc/rfc1587.txt' />
+</reference>

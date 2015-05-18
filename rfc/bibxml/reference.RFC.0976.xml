@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0976'>
+
+<front>
+<title>UUCP mail interchange format standard</title>
+<author initials='M.' surname='Horton' fullname='Mark. R. Horton'>
+<organization>Bell Laboratories</organization></author>
+<date year='1986' day='1' month='February' /></front>
+
+<seriesInfo name='RFC' value='976' />
+<format type='TXT' octets='26814' target='http://www.rfc-editor.org/rfc/rfc976.txt' />
+</reference>

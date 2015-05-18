@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2101'>
+
+<front>
+<title>IPv4 Address Behaviour Today</title>
+<author initials='B.E.' surname='Carpenter' fullname='Brian E. Carpenter'>
+<organization>Computing and Networks Division</organization>
+<address>
+<postal>
+<street>CERN</street>
+<street>European Laboratory for Particle Physics</street>
+<street>1211 Geneva 23</street>
+<country>Switzerland</country></postal>
+<email>brian@dxcoms.cern.ch</email></address></author>
+<author initials='J.' surname='Crowcroft' fullname='Jon Crowcroft'>
+<organization>Dept. of Computer Science</organization>
+<address>
+<postal>
+<street>University College London</street>
+<street>London WC1E 6BT</street>
+<country>UK</country></postal>
+<email>j.crowcroft@cs.ucl.ac.uk</email></address></author>
+<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
+<organization>Cisco systems</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<street>San Jose</street>
+<country>USA</country></postal>
+<phone>+1 914 528 0090</phone>
+<facsimile>+1 408 526-4952</facsimile>
+<email>yakov@cisco.com</email></address></author>
+<date year='1997' month='February' />
+<area>Internet</area>
+<keyword>internet protocol version 4</keyword>
+<abstract>
+<t>
+   The main purpose of this note is to clarify the current
+   interpretation of the 32-bit IP version 4 address space, whose
+   significance has changed substantially since it was originally
+   defined.  A short section on IPv6 addresses mentions the main points
+   of similarity with, and difference from, IPv4.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2101' />
+<format type='TXT' octets='31407' target='http://www.rfc-editor.org/rfc/rfc2101.txt' />
+<format type='XML' octets='36308' target='http://xml.resource.org/public/rfc/xml/rfc2101.xml' />
+</reference>

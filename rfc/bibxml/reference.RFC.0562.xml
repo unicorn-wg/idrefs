@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0562'>
+
+<front>
+<title>Modifications to the TELNET Specification</title>
+<author initials='A.M.' surname='McKenzie' fullname='A.M. McKenzie'>
+<organization /></author>
+<date year='1973' month='August' /></front>
+
+<seriesInfo name='RFC' value='562' />
+<format type='TXT' octets='2760' target='http://www.rfc-editor.org/rfc/rfc562.txt' />
+<format type='PDF' octets='79307' target='http://www.rfc-editor.org/rfc/rfc562.pdf' />
+</reference>

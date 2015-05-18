@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1709'>
+
+<front>
+<title>K-12 Internetworking Guidelines</title>
+<author initials='J.' surname='Gargano' fullname='Joan C. Gargano'>
+<organization>University of California, Davis, Information Technology, Distributed Computing Analysis and Support</organization>
+<address>
+<postal>
+<street />
+<city>Davis</city>
+<region>CA</region>
+<code>95616</code>
+<country>US</country></postal>
+<email>jcgargano@ucdavis.edu</email></address></author>
+<author initials='D.' surname='Wasley' fullname='David L. Wasley'>
+<organization>University of California, Berkeley, Data Communication &amp; Network Services, Information Systems and Technology</organization>
+<address>
+<postal>
+<street />
+<city>Berkeley</city>
+<region>CA</region>
+<code>94720</code>
+<country>US</country></postal>
+<email>dlw@berkeley.edu</email></address></author>
+<date year='1994' month='November' />
+<abstract>
+<t></t></abstract></front>
+
+<seriesInfo name='RFC' value='1709' />
+<format type='TXT' octets='66659' target='http://www.rfc-editor.org/rfc/rfc1709.txt' />
+<format type='PS' octets='662030' target='http://www.rfc-editor.org/rfc/rfc1709.ps' />
+<format type='PDF' octets='134065' target='http://www.rfc-editor.org/rfc/rfc1709.pdf' />
+</reference>

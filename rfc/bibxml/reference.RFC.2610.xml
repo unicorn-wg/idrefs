@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2610'>
+
+<front>
+<title>DHCP Options for Service Location Protocol</title>
+<author initials='C.' surname='Perkins' fullname='Charles E. Perkins'>
+<organization>Sun Microsystems, Inc., Technology Development Group</organization>
+<address>
+<postal>
+<street>15 Network Circle</street>
+<street>Mail Stop MPK15-214</street>
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<phone>+1 650 786 6464</phone>
+<facsimile>+1 650 786 6445</facsimile>
+<email>Charles.Perkins@Sun.Com</email>
+<uri>http://www.svrloc.org/~charliep</uri></address></author>
+<author initials='E.' surname='Guttman' fullname='Erik Guttman'>
+<organization>Sun Microsystems, Inc., Technology Development Group</organization>
+<address>
+<postal>
+<street>Bahnstr. 2</street>
+<street>Mail Stop UFRA02</street>
+<city>Waibstadt</city>
+<region />
+<code>74915</code>
+<country>DE</country></postal>
+<phone>+49 7263 911701</phone>
+<facsimile>+1 650 786 5992</facsimile>
+<email>Erik.Guttman@Sun.Com</email></address></author>
+<date year='1999' month='June' />
+<abstract>
+<t>The Dynamic Host Configuration Protocol provides a framework for passing configuration information to hosts on a TCP/IP network. Entities using the Service Location Protocol need to find out the address of Directory Agents in order to transact messages.  Another option provides an assignment of scope for configuration of SLP User and Service Agents.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2610' />
+<format type='TXT' octets='10859' target='http://www.rfc-editor.org/rfc/rfc2610.txt' />
+</reference>

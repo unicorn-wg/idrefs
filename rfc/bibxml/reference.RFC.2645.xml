@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2645'>
+
+<front>
+<title abbrev='On-Demand Mail Relay'>ON-DEMAND MAIL RELAY (ODMR) SMTP with Dynamic IP Addresses</title>
+<author initials='R.' surname='Gellens' fullname='Randall Gellens'>
+<organization>QUALCOMM Incorporated</organization>
+<address>
+<postal>
+<street>5775 Morehouse Drive</street>
+<city>San Diego</city>
+<region>CA</region>
+<code>92121-2779</code>
+<country>US</country></postal>
+<phone>+1 619 651 5115</phone>
+<email>randy@qualcomm.com</email></address></author>
+<date year='1999' month='August' />
+<abstract>
+<t>With the spread of low-cost computer systems and Internet connectivity, the demand for local mail servers has been rising. Many people now want to operate a mail server on a system which has only an intermittent connection to a service provider. If the system has a static IP address, theESMTP ETRN commandcan be used.However, systems with dynamic IP addresses (which are very common with low-cost connections) have no widely-deployed solution.</t>
+<t>This memo proposes a new service, On-Demand Mail Relay (ODMR), which is a profile of SMTP, providing for a secure, extensible, easy to implement approach to the problem.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2645' />
+<format type='TXT' octets='16302' target='http://www.rfc-editor.org/rfc/rfc2645.txt' />
+</reference>

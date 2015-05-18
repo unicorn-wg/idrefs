@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1949'>
+
+<front>
+<title>Scalable Multicast Key Distribution</title>
+<author initials='T.' surname='Ballardie' fullname='Tony Ballardie,'>
+<organization>University College London, Department of Computer Science</organization>
+<address>
+<postal>
+<street>Gower Street</street>
+<city>London</city>
+<region>England</region>
+<code>WC1E 6BT</code>
+<country>UK</country></postal>
+<phone>+44 71 4193462</phone>
+<email>A.Ballardie@cs.ucl.ac.uk</email></address></author>
+<date year='1996' month='May' />
+<abstract>
+<t>The benefits of multicasting are becoming ever-more apparent, and its use much more widespread. This is evident from the growth of the MBONE. Providing security services for multicast, such as traffic integrity, authentication, and confidentiality, is particularly problematic since it requires securely distributing a group (session) key to each of a group's receivers.  Traditionally, the key distribution function has been assigned to a central network entity, or Key Distribution Centre (KDC), but this method does not scale for wide-area multicasting, where group members may be widely-distributed across the internetwork, and a wide-area group may be densely populated.</t>
+<t>Even more problematic is the scalable distribution of sender-specific keys. Sender-specific keys are required if data traffic is to be authenticated on a per-sender basis.</t>
+<t>This memo provides a scalable solution to the multicast key distribution problem.</t>
+<t>NOTE: this proposal requires some simple support mechanisms, which, it is recommended here, be integrated into version 3 of IGMP. This support is described in Appendix B.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1949' />
+<format type='TXT' octets='41853' target='http://www.rfc-editor.org/rfc/rfc1949.txt' />
+</reference>

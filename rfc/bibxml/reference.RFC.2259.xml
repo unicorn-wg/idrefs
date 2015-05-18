@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2259'>
+
+<front>
+<title abbrev='SNQP'>Simple Nomenclator Query Protocol (SNQP)</title>
+<author initials='J.' surname='Elliott' fullname='Jim Elliott'>
+<organization>Epic Systems Corporation</organization>
+<address>
+<postal>
+<street>5301 Tokay Boulevard</street>
+<street>Madison</street>
+<street>WI 53711</street>
+<country>USA</country></postal>
+<email>jim@apocalypse.org</email></address></author>
+<author initials='J.J.' surname='Ordille' fullname='Joann J. Ordille'>
+<organization>Bell Labs, Lucent Technologies</organization>
+<address>
+<postal>
+<street>Computing Sciences Research Center</street>
+<street>700 Mountain Avenue</street>
+<street>Rm 2C-301</street>
+<street>Murray Hill</street>
+<street>NJ 07974</street>
+<country>USA</country></postal>
+<email>joann@bell-labs.com</email></address></author>
+<date year='1998' month='January' />
+<area>Applications</area>
+<keyword>SNQP</keyword>
+<abstract>
+<t>
+   The Simple Nomenclator Query Protocol (SNQP) allows a client to
+   communicate with a descriptive name service or other relational-style
+   query service.  The protocol is useful to services that search many
+   data repositories for query responses.  Clients can pose queries on
+   relations, list descriptions of relations, and obtain advice on
+   reducing the search time and cost of their queries.  Clients are
+   informed of the age of information in caches, and may request more
+   recent information.  SNQP provides support for graphical user
+   interfaces.  It also supports different types of comparison
+   operators, so services can use SNQP with a variety of back-end
+   servers, e.g. relational database servers, CCSO servers, and servers
+   providing relational views of X.500.
+</t>
+<t>
+   SNQP is an ASCII protocol in the request-reply style of SMTP.  It was
+   specifically designed for use with the Nomenclator name and
+   information service, and has been useful elsewhere.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2259' />
+<format type='TXT' octets='58508' target='http://www.rfc-editor.org/rfc/rfc2259.txt' />
+<format type='XML' octets='59985' target='http://xml.resource.org/public/rfc/xml/rfc2259.xml' />
+</reference>

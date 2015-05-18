@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1642'>
+
+<front>
+<title abbrev='UTF-7'>UTF-7 - A Mail-Safe Transformation Format of Unicode</title>
+<author initials='D.' surname='Goldsmith' fullname='David Goldsmith'>
+<organization>Taligent, Inc.</organization>
+<address>
+<postal>
+<street>10201 N. DeAnza Blvd.</street>
+<city>Cupertino</city>
+<region>CA</region>
+<code>95014-2233</code>
+<country>US</country></postal>
+<phone>+1 408 777 5225</phone>
+<facsimile>+1 408 777 5081</facsimile>
+<email>david_goldsmith@taligent.com</email></address></author>
+<author initials='M.' surname='Davis' fullname='Mark Davis'>
+<organization>Taligent, Inc.</organization>
+<address>
+<postal>
+<street>10201 N. DeAnza Blvd.</street>
+<city>Cupertino</city>
+<region>CA</region>
+<code>95014-2233</code>
+<country>US</country></postal>
+<phone>+1 408 777 5116</phone>
+<facsimile>+1 408 777 5081</facsimile>
+<email>mark_davis@taligent.com</email></address></author>
+<date year='1994' month='July' />
+<abstract>
+<t>The Unicode Standard, version 1.1, and ISO/IEC 10646-1:1993(E) jointly define a 16 bit character set (hereafter referred to as Unicode) which encompasses most of the world's writing systems. However, Internet mail (STD 11, RFC 822) currently supports only 7-bit US ASCII as a character set. MIME (RFC 1521 and RFC 1522) extends Internet mail to support different media types and character sets, and thus could support Unicode in mail messages. MIME neither defines Unicode as a permitted character set nor specifies how it would be
+ encoded, although it does provide for the registration of additional character sets over time.</t>
+<t>This document describes a new transformation format of Unicode that contains only 7-bit ASCII characters and is intended to be readable by humans in the limiting case that the document consists of characters from the US-ASCII repertoire. It also specifies how this transformation format is used in the context of RFC 1521, RFC 1522, and the document "Using Unicode with MIME".</t></abstract></front>
+
+<seriesInfo name='RFC' value='1642' />
+<format type='TXT' octets='27770' target='http://www.rfc-editor.org/rfc/rfc1642.txt' />
+<format type='PS' octets='50907' target='http://www.rfc-editor.org/rfc/rfc1642.ps' />
+<format type='PDF' octets='29573' target='http://www.rfc-editor.org/rfc/rfc1642.pdf' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0231'>
+
+<front>
+<title>Service center standards for remote usage: A user's view</title>
+<author initials='J.' surname='Heafner' fullname='J. Heafner'>
+<organization>The Rand Corporation</organization></author>
+<author initials='E.' surname='Harslem' fullname='E. Harslem'>
+<organization>The Rand Corporation</organization></author>
+<date year='1971' day='21' month='September' /></front>
+
+<seriesInfo name='RFC' value='231' />
+<format type='TXT' octets='9692' target='http://www.rfc-editor.org/rfc/rfc231.txt' />
+</reference>

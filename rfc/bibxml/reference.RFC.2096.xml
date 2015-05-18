@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2096'>
+
+<front>
+<title>IP Forwarding Table MIB</title>
+<author initials='F.' surname='Baker' fullname='Fred Baker'>
+<organization>Cisco Systems</organization>
+<address>
+<postal>
+<street>519 Lado Drive</street>
+<city>Santa Barbara</city>
+<region>CA</region>
+<code>93111</code>
+<country>US</country></postal>
+<phone>+1 805 681 0115</phone>
+<email>fred@cisco.com</email></address></author>
+<date year='1997' month='January' /></front>
+
+<seriesInfo name='RFC' value='2096' />
+<format type='TXT' octets='35930' target='http://www.rfc-editor.org/rfc/rfc2096.txt' />
+</reference>

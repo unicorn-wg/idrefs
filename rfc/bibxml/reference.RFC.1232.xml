@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1232'>
+
+<front>
+<title abbrev='DS1 Interface Objects'>Definitions of managed objects for the DS1 Interface type</title>
+<author initials='F.' surname='Baker' fullname='Fred Baker'>
+<organization>Advanced Computer Communications, Inc.</organization>
+<address>
+<postal>
+<street>720 Santa Barbara Street</street>
+<city>Santa Barbara</city>
+<region>CA</region>
+<code>93101</code>
+<country>US</country></postal>
+<phone>+1 805 963 9431</phone>
+<email>fbaker@acc.com</email></address></author>
+<author initials='C.' surname='Kolb' fullname='Christopher P. Kolb'>
+<organization>Performance Systems International, Inc., Reston International Center</organization>
+<address>
+<postal>
+<street>11800 Sunrise Valley Drive</street>
+<street>Suite 1100</street>
+<city>Reston</city>
+<region>VA</region>
+<code>22091</code>
+<country>US</country></postal>
+<phone>+1 703 620 6651</phone>
+<email>kolb@psi.com</email></address></author>
+<date year='1991' day='1' month='May' />
+<abstract>
+<t>This memo defines an experimental portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, this memo defines MIB objects for representing DS1 physical interfaces.  Implementors should consult in addition to this memo the companion document that describes that DS3 managed objects.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1232' />
+<format type='TXT' octets='60757' target='http://www.rfc-editor.org/rfc/rfc1232.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1029'>
+
+<front>
+<title abbrev='Fault Tolerant ARP for Multi-LANs'>More fault tolerant approach to address resolution for a Multi-LAN system of Ethernets</title>
+<author initials='G.' surname='Parr' fullname='G. Parr'>
+<organization>University of Ulster</organization></author>
+<date year='1988' day='1' month='May' />
+<abstract>
+<t>Executing a protocol P, a sending host S decides, through P's routing mechanism, that it wants to transmit to a target host T located somewhere on a connected piece of 10Mbit Ethernet cable which conforms to IEEE 802.3.  To actually transmit the Ethernet packet, a 48 bit Ethernet/hardware address must be generated.  The addresses assigned to hosts within protocol P are not always compatible with the corresponding Ethernet address (being different address space byte orderings or values).  A protocol is presented which allows dynamic distribution of the information required to build tables that translate a host's address in protocol P's address space into a 48 bit Ethernet address.  An extension is incorporated to allow such a protocol to be flexible enough to exist in a Transparent Bridge, or generic Host.  The capability of the Bridge to detect host reboot conditions in a multi-LAN environment is also discussed, emphasising particularly the effect on channel bandwidth.  To illustrate the operation of the protocol mechanisms, the Internet Protocol (IP) is used as a benchmark [6], [8].  Part 1 presents an introduction to Address Resolution, whilst Part 2 discusses a reboot detection process.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1029' />
+<format type='TXT' octets='44019' target='http://www.rfc-editor.org/rfc/rfc1029.txt' />
+</reference>

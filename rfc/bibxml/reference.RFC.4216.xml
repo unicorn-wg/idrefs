@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4216'>
+
+<front>
+<title>MPLS Inter-Autonomous System (AS) Traffic Engineering (TE) Requirements</title>
+<author initials='R.' surname='Zhang' fullname='R. Zhang'>
+<organization /></author>
+<author initials='J.-P.' surname='Vasseur' fullname='J.-P. Vasseur'>
+<organization /></author>
+<date year='2005' month='November' />
+<abstract>
+<t>This document discusses requirements for the support of inter-AS MPLS Traffic Engineering (MPLS TE).  Its main objective is to present a set of requirements and scenarios which would result in general guidelines for the definition, selection, and specification development for any technical solution(s) meeting these requirements and supporting the scenarios.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='4216' />
+<format type='TXT' octets='64640' target='http://www.rfc-editor.org/rfc/rfc4216.txt' />
+</reference>

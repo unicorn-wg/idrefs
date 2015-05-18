@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2362'>
+
+<front>
+<title abbrev='PIM-SM'>Protocol Independent Multicast-Sparse Mode (PIM-SM): Protocol Specification</title>
+<author initials='D.' surname='Estrin' fullname='Deborah Estrin'>
+<organization>Computer Science Dept/ISI</organization>
+<address>
+<postal>
+<street>University of Southern Calif.</street>
+<city>Los Angeles</city>
+<region>CA</region>
+<code>90089</code></postal>
+<email>estrin@usc.edu</email></address></author>
+<author initials='D.' surname='Farinacci' fullname='Dino Farinacci'>
+<organization>Cisco Systems Inc.</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive,</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134</code></postal>
+<email>dino@cisco.com</email></address></author>
+<author initials='A.' surname='Helmy' fullname='Ahmed Helmy'>
+<organization>Computer Science Dept.</organization>
+<address>
+<postal>
+<street>University of Southern Calif.</street>
+<city>Los Angeles</city>
+<region>CA</region>
+<code>90089</code></postal>
+<email>ahelmy@catarina.usc.edu</email></address></author>
+<author initials='D.' surname='Thaler' fullname='David Thaler'>
+<organization>EECS Department</organization>
+<address>
+<postal>
+<street>University of Michigan</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48109</code></postal>
+<email>thalerd@eecs.umich.edu</email></address></author>
+<author initials='S.' surname='Deering' fullname='Stephen Deering'>
+<organization>Xerox PARC</organization>
+<address>
+<postal>
+<street>3333 Coyote Hill Road</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94304</code></postal>
+<email>deering@parc.xerox.com</email></address></author>
+<author initials='M.' surname='Handley' fullname='Mark Handley'>
+<organization>Department of Computer Science</organization>
+<address>
+<postal>
+<street>University College London</street>
+<street>Gower Street</street>
+<street>London, WC1E 6BT</street>
+<country>UK</country></postal>
+<email>m.handley@cs.ucl.ac.uk</email></address></author>
+<author initials='V.' surname='Jacobson' fullname='Van Jacobson'>
+<organization>Lawrence Berkeley Laboratory</organization>
+<address>
+<postal>
+<street>1 Cyclotron Road</street>
+<city>Berkeley</city>
+<region>CA</region>
+<code>94720</code></postal>
+<email>van@ee.lbl.gov</email></address></author>
+<date year='1998' month='June' />
+<area>Internet</area>
+<keyword>multicast</keyword>
+<keyword>PIM</keyword>
+<keyword>routing</keyword></front>
+
+<seriesInfo name='RFC' value='2362' />
+<format type='TXT' octets='159833' target='http://www.rfc-editor.org/rfc/rfc2362.txt' />
+<format type='HTML' octets='178047' target='http://xml.resource.org/public/rfc/html/rfc2362.html' />
+<format type='XML' octets='159290' target='http://xml.resource.org/public/rfc/xml/rfc2362.xml' />
+</reference>

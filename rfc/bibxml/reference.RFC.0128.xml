@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0128'>
+
+<front>
+<title>Bytes</title>
+<author initials='J.' surname='Postel' fullname='J. Postel'>
+<organization /></author>
+<date year='1971' month='April' /></front>
+
+<seriesInfo name='RFC' value='128' />
+<format type='TXT' octets='2745' target='http://www.rfc-editor.org/rfc/rfc128.txt' />
+</reference>

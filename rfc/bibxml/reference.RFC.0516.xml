@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0516'>
+
+<front>
+<title>Lost message detection</title>
+<author initials='J.' surname='Postel' fullname='Jonathan B. Postel'>
+<organization>University of California, Los Angeles (UCLA), NMC</organization></author>
+<date year='1973' day='18' month='May' /></front>
+
+<seriesInfo name='RFC' value='516' />
+<format type='TXT' octets='4086' target='http://www.rfc-editor.org/rfc/rfc516.txt' />
+</reference>

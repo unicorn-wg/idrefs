@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2321'>
+
+<front>
+<title abbrev='RITA                      1'>RITA -- The Reliable Internetwork Troubleshooting Agent</title>
+<author initials='A.K.' surname='Bressen' fullname='Andrew K. Bressen'>
+<organization />
+<address>
+<postal>
+<street>72 Endicott Street</street>
+<city>Somerville</city>
+<region>MA</region></postal>
+<phone>617-776-2373</phone>
+<email>bressen@leftbank.com,</email></address></author>
+<date year='1998' day='1' month='April' />
+<area>Operations</area>
+<keyword>agent</keyword>
+<abstract>
+<t>
+
+   A Description of the usage of Nondeterministic Troubleshooting and
+
+   Diagnostic Methodologies as applied to today's complex
+
+   nondeterministic networks and environments.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2321' />
+<format type='TXT' octets='12302' target='http://www.rfc-editor.org/rfc/rfc2321.txt' />
+<format type='XML' octets='11791' target='http://xml.resource.org/public/rfc/xml/rfc2321.xml' />
+</reference>

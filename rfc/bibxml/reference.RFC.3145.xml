@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3145'>
+
+<front>
+<title>L2TP Disconnect Cause Information</title>
+<author initials='R.' surname='Verma' fullname='R. Verma'>
+<organization /></author>
+<author initials='M.' surname='Verma' fullname='M. Verma'>
+<organization /></author>
+<author initials='J.' surname='Carlson' fullname='J. Carlson'>
+<organization /></author>
+<date year='2001' month='July' />
+<abstract>
+<t>This document provides an extension to the Layer 2 Tunneling Protocol ("L2TP"), a mechanism for tunneling Point-to-Point Protocol (PPP) sessions. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='3145' />
+<format type='TXT' octets='17421' target='http://www.rfc-editor.org/rfc/rfc3145.txt' />
+</reference>

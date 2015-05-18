@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0008'>
+
+<front>
+<title>ARPA Network Functional Specifications</title>
+<author initials='G.' surname='Deloche' fullname='G. Deloche'>
+<organization /></author>
+<date year='1969' month='May' /></front>
+
+<seriesInfo name='RFC' value='8' />
+<format type='PDF' octets='750612' target='http://www.rfc-editor.org/rfc/rfc8.pdf' />
+</reference>

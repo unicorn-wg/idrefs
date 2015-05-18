@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0280'>
+
+<front>
+<title>A Draft of Host Names</title>
+<author initials='R.' surname='Watson' fullname='Richard W. Watson'>
+<organization>Stanford Research Institute (SRI), Augmentation Research Center (ARC)</organization></author>
+<date year='1971' day='17' month='November' />
+<abstract>
+<t>The enclosed list of host names is a draft.</t></abstract></front>
+
+<seriesInfo name='RFC' value='280' />
+<format type='TXT' octets='3629' target='http://www.rfc-editor.org/rfc/rfc280.txt' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0454'>
+
+<front>
+<title>File Transfer Protocol - meeting announcement and a new proposed document</title>
+<author initials='A.M.' surname='McKenzie' fullname='A.M. McKenzie'>
+<organization /></author>
+<date year='1973' month='February' /></front>
+
+<seriesInfo name='RFC' value='454' />
+<format type='TXT' octets='78966' target='http://www.rfc-editor.org/rfc/rfc454.txt' />
+</reference>

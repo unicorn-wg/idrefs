@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2735'>
+
+<front>
+<title>NHRP Support for Virtual Private Networks</title>
+<author initials='B.A.' surname='Fox' fullname='Barbara A. Fox'>
+<organization>Equipe Communications</organization>
+<address>
+<postal>
+<street>100 Nagog Park</street>
+<city>Acton</city>
+<region>MA</region>
+<code>01720</code>
+<country>US</country></postal>
+<phone>+1 978 795 2009</phone>
+<email>bfox@equipecom.com</email></address></author>
+<author initials='B.' surname='Petri' fullname='Bernhard Petri'>
+<organization>Siemens AG</organization>
+<address>
+<postal>
+<street>Hofmannstr. 51</street>
+<city>Munich</city>
+<region />
+<code>D-81359</code>
+<country>DE</country></postal>
+<phone>+49 89 72234578</phone>
+<email>bernhard.petri@icn.siemens.de</email></address></author>
+<date year='1999' month='December' />
+<abstract>
+<t>The NBMA Next Hop Resolution Protocol (NHRP) is used to determine the NBMA subnetwork addresses of the "NBMA next hop" towards a public internetworking layer address (see].  This document describes the enhancements necessary to enable NHRP to perform the same function for private internetworking layer addresses available within the framework of a Virtual Private Network (VPN) service on a shared NBMA network.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2735' />
+<format type='TXT' octets='26451' target='http://www.rfc-editor.org/rfc/rfc2735.txt' />
+</reference>

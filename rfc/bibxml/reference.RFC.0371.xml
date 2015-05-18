@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0371'>
+
+<front>
+<title>Demonstration at International Computer Communications Conference</title>
+<author initials='R.' surname='Kahn' fullname='Robert Kahn'>
+<organization>Bolt Baranek and Newman (BBN)</organization></author>
+<date year='1972' day='12' month='July' />
+<abstract>
+<t>The International Computer Communications Conference, scheduled for 24-26 October 1972 at the Washington, D.C. Hilton Hotel, is a newly organized conference intended to address a broad set of issues in the Computer Communications field.  Approximately 17 sessions are currently planned for the conference.  The social implications of this field are a matter of widespread interest that reaches society in almost all walks of life; education, medicine, research, business and government.  All these areas will be affected as the field develops.</t></abstract></front>
+
+<seriesInfo name='RFC' value='371' />
+<format type='TXT' octets='3728' target='http://www.rfc-editor.org/rfc/rfc371.txt' />
+</reference>

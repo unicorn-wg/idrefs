@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0133'>
+
+<front>
+<title>File Transfer and Recovery</title>
+<author initials='R.L.' surname='Sunberg' fullname='R.L. Sunberg'>
+<organization>Harvard University</organization></author>
+<date year='1971' day='27' month='April' /></front>
+
+<seriesInfo name='RFC' value='133' />
+<format type='TXT' octets='8322' target='http://www.rfc-editor.org/rfc/rfc133.txt' />
+</reference>

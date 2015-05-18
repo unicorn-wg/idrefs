@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2780'>
+
+<front>
+<title abbrev='IANA Assignments'>IANA Allocation Guidelines For Values In the Internet Protocol and Related Headers</title>
+<author initials='S.' surname='Bradner' fullname='Scott Bradner'>
+<organization>Harvard University</organization>
+<address>
+<postal>
+<street />
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal>
+<phone>+1 617 495 3864</phone>
+<email>sob@harvard.edu</email></address></author>
+<author initials='V.' surname='Paxson' fullname='Vern Paxson'>
+<organization>ACIRI / ICSI</organization>
+<address>
+<postal>
+<street>1947 Center Street</street>
+<street>Suite 600</street>
+<city>Berkeley</city>
+<region>CA</region>
+<code>94704-1198</code>
+<country>US</country></postal>
+<phone>+1 510 666 2882</phone>
+<email>vern@aciri.org</email></address></author>
+<date year='2000' month='March' />
+<abstract>
+<t>This memo provides guidance for the IANA to use in assigning parameters for fields in the IPv4, IPv6, ICMP, UDP and TCP protocol headers.</t></abstract></front>
+
+<seriesInfo name='BCP' value='37' />
+<seriesInfo name='RFC' value='2780' />
+<format type='TXT' octets='18954' target='http://www.rfc-editor.org/rfc/rfc2780.txt' />
+</reference>

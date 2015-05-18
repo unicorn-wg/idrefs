@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0194'>
+
+<front>
+<title>The Data Reconfiguration Service -- Compiler/Interpreter Implementation Notes</title>
+<author initials='V.' surname='Cerf' fullname='Vint Cerf'>
+<organization>University California Los Angeles (UCLA)</organization></author>
+<author initials='E.' surname='Harslem' fullname='Eric Harslem'>
+<organization>Rand Corporation</organization></author>
+<author initials='J.' surname='Heafner' fullname='John Heafner'>
+<organization>Rand Corporation</organization></author>
+<author initials='B.' surname='Metcalfe' fullname='Bob Metcalfe'>
+<organization>Massachusetts Institute of Technology (MIT)</organization></author>
+<author initials='J.' surname='White' fullname='Jim White'>
+<organization>University California Santa Barbara (UCSB)</organization></author>
+<date year='1971' day='14' month='July' /></front>
+
+<seriesInfo name='RFC' value='194' />
+<format type='TXT' octets='32716' target='http://www.rfc-editor.org/rfc/rfc194.txt' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0543'>
+
+<front>
+<title>Network journal submission and delivery</title>
+<author initials='N.D.' surname='Meyer' fullname='N.D. Meyer'>
+<organization /></author>
+<date year='1973' month='July' /></front>
+
+<seriesInfo name='RFC' value='543' />
+<format type='TXT' octets='15621' target='http://www.rfc-editor.org/rfc/rfc543.txt' />
+</reference>

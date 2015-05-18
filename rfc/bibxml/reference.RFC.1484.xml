@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1484'>
+
+<front>
+<title abbrev='User Friendly Naming'>Using the OSI Directory to achieve User Friendly Naming (OSI-DS 24 (v1.2))</title>
+<author initials='S.' surname='Hardcastle-Kille' fullname='Steve Hardcastle-Kille'>
+<organization>ISODE Consortium</organization>
+<address>
+<postal>
+<street>POB 505</street>
+<city>London</city>
+<region>England</region>
+<code>SW11 1DX</code>
+<country>UK</country></postal>
+<phone>+44 71 2234062</phone>
+<email>S.Kille@ISODE.COM</email></address></author>
+<date year='1993' month='July' />
+<abstract>
+<t>The OSI Directory has user friendly naming as a goal.  A simple minded usage of the directory does not achieve this.  Two aspects not achieved are:</t>
+<t>o A user oriented notation</t>
+<t>o Guessability</t>
+<t>This proposal sets out some conventions for representing names in a friendly manner, and shows how this can be used to achieve really friendly naming.  This then leads to a specification of a format for representing names, and to procedures to resolve them.  This leads to a specification which allows directory names to be communicated between humans.  The format in this specification is identical to that defined in [HK93], and it is intended that these specifications are compatible.  Please send comments to the author or to the discussion group: osi-ds@CS.UCL.AC.UK.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1484' />
+<format type='TXT' octets='48974' target='http://www.rfc-editor.org/rfc/rfc1484.txt' />
+</reference>

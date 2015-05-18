@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2133'>
+
+<front>
+<title abbrev='IPv6 Socket Interface'>Basic Socket Interface Extensions for IPv6</title>
+<author initials='R.E.' surname='Gilligan' fullname='Robert E. Gilligan'>
+<organization>Freegate Corporation</organization>
+<address>
+<postal>
+<street>710 Lakeway Dr.  STE 230</street>
+<street>Sunnyvale</street>
+<street>CA 94086</street></postal>
+<phone>+1 408 524 4804</phone>
+<email>gilligan@freegate.net</email></address></author>
+<author initials='S.' surname='Thomson' fullname='Susan Thomson'>
+<organization>Bell Communications Research</organization>
+<address>
+<postal>
+<street>MRE 2P-343</street>
+<street>445 South Street</street>
+<street>Morristown</street>
+<street>NJ 07960</street></postal>
+<phone>+1 201 829 4514</phone>
+<email>set@thumper.bellcore.com</email></address></author>
+<author initials='J.' surname='Bound' fullname='Jim Bound'>
+<organization>Digital Equipment Corporation</organization>
+<address>
+<postal>
+<street>110 Spitbrook Road ZK3-3/U14</street>
+<street>Nashua</street>
+<street>NH 03062-2698</street></postal>
+<phone>+1 603 881 0400</phone>
+<email>bound@zk3.dec.com</email></address></author>
+<author initials='W.R.' surname='Stevens' fullname='W. Richard Stevens'>
+<organization />
+<address>
+<postal>
+<street>1202 E. Paseo del Zorro</street>
+<street>Tucson</street>
+<street>AZ 85718-2826</street></postal>
+<phone>+1 520 297 9416</phone>
+<email>rstevens@kohala.com</email></address></author>
+<date year='1997' month='April' />
+<area>Internet</area>
+<keyword>IPv6</keyword>
+<keyword>internet protocol version 6</keyword>
+<keyword>socket</keyword>
+<abstract>
+<t>
+   The de facto standard application program interface (API) for TCP/IP
+   applications is the &quot;sockets&quot; interface.  Although this API was
+   developed for Unix in the early 1980s it has also been implemented on
+   a wide variety of non-Unix systems.  TCP/IP applications written
+   using the sockets API have in the past enjoyed a high degree of
+   portability and we would like the same portability with IPv6
+   applications.  But changes are required to the sockets API to support
+   IPv6 and this memo describes these changes.  These include a new
+   socket address structure to carry IPv6 addresses, new address
+   conversion functions, and some new socket options.  These extensions
+   are designed to provide access to the basic IPv6 features required by
+   TCP and UDP applications, including multicasting, while introducing a
+   minimum of change into the system and providing complete
+   compatibility for existing IPv4 applications.  Additional extensions
+   for advanced IPv6 features (raw sockets and access to the IPv6
+   extension headers) are defined in another document .
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2133' />
+<format type='TXT' octets='69737' target='http://www.rfc-editor.org/rfc/rfc2133.txt' />
+<format type='XML' octets='71381' target='http://xml.resource.org/public/rfc/xml/rfc2133.xml' />
+</reference>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1650'>
+
+<front>
+<title abbrev='Ethernet-Like MIB'>Definitions of Managed Objects for the Ethernet-like Interface Types using SMIv2</title>
+<author initials='F.' surname='Kastenholz' fullname='Frank Kastenholz'>
+<organization>FTP Software, Inc.</organization>
+<address>
+<postal>
+<street>2 High Street</street>
+<city>North Andover</city>
+<region>MA</region>
+<code>01845</code>
+<country>US</country></postal>
+<phone>+1 508 685 4000</phone>
+<email>kasten@ftp.com</email></address></author>
+<date year='1994' month='August' /></front>
+
+<seriesInfo name='RFC' value='1650' />
+<format type='TXT' octets='40484' target='http://www.rfc-editor.org/rfc/rfc1650.txt' />
+</reference>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6532'>
+
+<front>
+<title>Internationalized Email Headers</title>
+<author initials='A.' surname='Yang' fullname='A. Yang'>
+<organization /></author>
+<author initials='S.' surname='Steele' fullname='S. Steele'>
+<organization /></author>
+<author initials='N.' surname='Freed' fullname='N. Freed'>
+<organization /></author>
+<date year='2012' month='February' />
+<abstract>
+<t>Internet mail was originally limited to 7-bit ASCII. MIME added support for the use of 8-bit character sets in body parts, and also defined an encoded-word construct so other character sets could be used in certain header field values. However, full internationalization of electronic mail requires additional enhancements to allow the use of Unicode, including characters outside the ASCII repertoire, in mail addresses as well as direct use of Unicode in header fields like "From:", "To:", and "Subject:", without requiring the use of complex encoded-word constructs. This document specifies an enhancement to the Internet Message Format and to MIME that allows use of Unicode in mail addresses and most header field content.&lt;/t>&lt;t> This specification updates Section 6.4 of RFC 2045 to eliminate the restriction prohibiting the use of non-identity content-transfer- encodings on subtypes of "message/". [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='6532' />
+<format type='TXT' octets='22725' target='http://www.rfc-editor.org/rfc/rfc6532.txt' />
+</reference>

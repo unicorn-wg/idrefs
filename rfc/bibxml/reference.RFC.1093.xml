@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1093'>
+
+<front>
+<title abbrev='NSFNET Routing Architecture'>NSFNET routing architecture</title>
+<author initials='H.' surname='Braun' fullname='Hans-Werner Braun'>
+<organization>University of Michigan, Computing Center</organization>
+<address>
+<postal>
+<street>1075 Beal Avenue</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48109</code>
+<country>US</country></postal>
+<phone>+1 313 763 4897</phone>
+<email>HWB@MCR.UMICH.EDU</email></address></author>
+<date year='1989' day='1' month='February' /></front>
+
+<seriesInfo name='RFC' value='1093' />
+<format type='TXT' octets='20629' target='http://www.rfc-editor.org/rfc/rfc1093.txt' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1050'>
+
+<front>
+<title abbrev='Remote Procedure Call'>RPC: Remote Procedure Call Protocol specification</title>
+<author>
+<organization>Sun Microsystems</organization></author>
+<date year='1988' day='1' month='April' /></front>
+
+<seriesInfo name='RFC' value='1050' />
+<format type='TXT' octets='51540' target='http://www.rfc-editor.org/rfc/rfc1050.txt' />
+</reference>

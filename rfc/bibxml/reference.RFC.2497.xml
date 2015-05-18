@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2497'>
+
+<front>
+<title abbrev='IPv6 Datagrams on ARCnet'>Transmission of IPv6 Packets over ARCnet Networks</title>
+<author initials='I.' surname='Souvatzis' fullname='Ignatios Souvatzis'>
+<organization>The NetBSD Project</organization>
+<address>
+<postal>
+<street>Stationenweg 29</street>
+<city>Bornheim</city>
+<region />
+<code>D-53332</code>
+<country>DE</country></postal>
+<phone>+49 228 734316</phone>
+<email>is@netbsd.org</email></address></author>
+<date year='1999' month='January' /></front>
+
+<seriesInfo name='RFC' value='2497' />
+<format type='TXT' octets='10304' target='http://www.rfc-editor.org/rfc/rfc2497.txt' />
+</reference>

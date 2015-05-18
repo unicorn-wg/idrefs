@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1614'>
+
+<front>
+<title>Network Access to Multimedia Information</title>
+<author initials='C.' surname='Adie' fullname='Chris Adie'>
+<organization>University of Edinburgh, University Library</organization>
+<address>
+<postal>
+<street>George Square</street>
+<city>Edinburgh</city>
+<region>Scotland</region>
+<code>EH8 9LJ</code>
+<country>UK</country></postal>
+<phone>+44 31 6503363</phone>
+<facsimile>+44 31 6624809</facsimile>
+<email>C.J.Adie@edinburgh.ac.uk</email></address></author>
+<date year='1994' month='May' />
+<abstract>
+<t>This report summarises the requirements of research and academic network users for network access to multimedia information.  It does this by investigating some of the projects planned or currently underway in the community.  Existing information systems such as Gopher, WAIS and World-Wide Web are examined from the point of view of multimedia support, and some interesting hypermedia systems emerging from the research community are also studied.  Relevant existing and developing standards in this area are discussed.  The report identifies the gaps between the capabilities of currentlydeployed systems and the user requirements, and proposes further work centred on the World-Wide Web system to rectify this.</t>
+<t>The report is in some places very detailed, so it is preceded by an extended summary, which outlines the findings of the report.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1614' />
+<format type='TXT' octets='187253' target='http://www.rfc-editor.org/rfc/rfc1614.txt' />
+</reference>

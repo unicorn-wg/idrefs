@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5402'>
+
+<front>
+<title>Compressed Data within an Internet Electronic Data Interchange (EDI) Message</title>
+<author initials='T.' surname='Harding' fullname='T. Harding'>
+<organization /></author>
+<date year='2010' month='February' />
+<abstract>
+<t>This document explains the rules and procedures for utilizing compression (RFC 3274) within an Internet EDI (Electronic Data Interchange) 'AS' message, as defined in RFCs 3335, 4130, and 4823.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t></abstract></front>
+
+<seriesInfo name='RFC' value='5402' />
+<format type='TXT' octets='14469' target='http://www.rfc-editor.org/rfc/rfc5402.txt' />
+</reference>

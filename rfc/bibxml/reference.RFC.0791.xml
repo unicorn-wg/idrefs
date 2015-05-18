@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0791'>
+
+<front>
+<title abbrev='Internet Protocol'>Internet Protocol</title>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>University of Southern California (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal></address></author>
+<date year='1981' day='1' month='September' /></front>
+
+<seriesInfo name='STD' value='5' />
+<seriesInfo name='RFC' value='791' />
+<format type='TXT' octets='97779' target='http://www.rfc-editor.org/rfc/rfc791.txt' />
+</reference>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2230'>
+
+<front>
+<title abbrev='DNS Key Exchange Delegation Record'>Key Exchange Delegation Record for the DNS</title>
+<author initials='R.' surname='Atkinson' fullname='Randall Atkinson'>
+<organization>Code 5544</organization>
+<address>
+<postal>
+<street>Naval Research Laboratory</street>
+<street>4555 Overlook Avenue</street>
+<street>SW</street>
+<street>Washington</street>
+<street>DC 20375-5337</street></postal>
+<phone>(DSN) 354-8590</phone>
+<email>atkinson@itd.nrl.navy.mil</email></address></author>
+<date year='1997' month='November' />
+<area>Security</area>
+<keyword>domain name system</keyword>
+<keyword>key exchange</keyword>
+<keyword>security</keyword>
+<abstract>
+<t>
+   This note describes a mechanism whereby authorisation for one node to
+   act as key exchanger for a second node is delegated and made
+   available via the Secure DNS.  This mechanism is intended to be used
+   only with the Secure DNS.  It can be used with several security
+   services.  For example, a system seeking to use IP Security [RFC-
+   1825, RFC-1826, RFC-1827] to protect IP packets for a given
+   destination can use this mechanism to determine the set of authorised
+   remote key exchanger systems for that destination.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2230' />
+<format type='TXT' octets='25563' target='http://www.rfc-editor.org/rfc/rfc2230.txt' />
+<format type='XML' octets='26506' target='http://xml.resource.org/public/rfc/xml/rfc2230.xml' />
+</reference>

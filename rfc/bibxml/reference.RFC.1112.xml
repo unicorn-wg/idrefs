@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1112'>
+
+<front>
+<title>Host extensions for IP multicasting</title>
+<author initials='S.' surname='Deering' fullname='Steve Deering'>
+<organization>Stanford University, Computer Science Department</organization>
+<address>
+<postal>
+<street />
+<city>Stanford</city>
+<region>CA</region>
+<code>94305-2140</code>
+<country>US</country></postal>
+<phone>+1 415 723 9427</phone>
+<email>deering@PESCADERO.STANFORD.EDU</email></address></author>
+<date year='1989' day='1' month='August' /></front>
+
+<seriesInfo name='STD' value='5' />
+<seriesInfo name='RFC' value='1112' />
+<format type='TXT' octets='39904' target='http://www.rfc-editor.org/rfc/rfc1112.txt' />
+</reference>

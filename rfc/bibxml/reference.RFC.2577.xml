@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2577'>
+
+<front>
+<title>FTP Security Considerations</title>
+<author initials='M.' surname='Allman' fullname='Mark Allman'>
+<organization>NASA Glenn Research Center/Sterling Software</organization>
+<address>
+<postal>
+<street>21000 Brookpark Rd.</street>
+<street>MS 54-2</street>
+<city>Cleveland</city>
+<region>OH</region>
+<code>44135</code>
+<country>US</country></postal>
+<email>mallman@grc.nasa.gov</email></address></author>
+<author initials='S.' surname='Ostermann' fullname='Shawn Ostermann'>
+<organization>Ohio University, School of Electrical Engineering and Computer Science</organization>
+<address>
+<postal>
+<street>416 Morton Hall</street>
+<city>Athens</city>
+<region>OH</region>
+<code>45701</code>
+<country>US</country></postal>
+<email>ostermann@cs.ohiou.edu</email></address></author>
+<date year='1999' month='May' />
+<abstract>
+<t>The specification for the File Transfer Protocol (FTP) contains a
+   number of mechanisms that can be used to compromise network security.
+   The FTP specification allows a client to instruct a server to
+   transfer files to a third machine.  This third-party mechanism, known
+   as proxy FTP, causes a well known security problem.  The FTP
+   specification also allows an unlimited number of attempts at entering
+   a user's password.  This allows brute force "password guessing"
+   attacks.  This document provides suggestions for system
+   administrators and those implementing FTP servers that will decrease
+   the security problems associated with FTP.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2577' />
+<format type='TXT' octets='17870' target='http://www.rfc-editor.org/rfc/rfc2577.txt' />
+</reference>

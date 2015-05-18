@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2580'>
+
+<front>
+<title>Conformance Statements for SMIv2</title>
+<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
+<organization>Cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134-1706</code>
+<country>US</country></postal>
+<phone>+1 408 526 5260</phone>
+<email>kzm@cisco.com</email></address></author>
+<author initials='D.' surname='Perkins' fullname='David Perkins'>
+<organization>SNMPinfo</organization>
+<address>
+<postal>
+<street>3763 Benton Street</street>
+<city>Santa Clara</city>
+<region>CA</region>
+<code>95051</code>
+<country>US</country></postal>
+<phone>+1 408 221 8702</phone>
+<email>dperkins@snmpinfo.com</email></address></author>
+<author initials='J.' surname='Schoenwaelder' fullname='Juergen Schoenwaelder'>
+<organization>TU Braunschweig</organization>
+<address>
+<postal>
+<street>Bueltenweg 74/75</street>
+<city>Braunschweig</city>
+<code>38106</code>
+<country>DE</country></postal>
+<phone>+49 531 3913283</phone>
+<email>schoenw@ibr.cs.tu-bs.de</email></address></author>
+<date year='1999' month='April' /></front>
+
+<seriesInfo name='STD' value='58' />
+<seriesInfo name='RFC' value='2580' />
+<format type='TXT' octets='54253' target='http://www.rfc-editor.org/rfc/rfc2580.txt' />
+</reference>

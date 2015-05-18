@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0329'>
+
+<front>
+<title>ARPA Network Mailing Lists</title>
+<author>
+<organization>SRI/Network Information Center</organization></author>
+<date year='1972' month='May' /></front>
+
+<seriesInfo name='RFC' value='329' />
+<format type='TXT' octets='23861' target='http://www.rfc-editor.org/rfc/rfc329.txt' />
+</reference>

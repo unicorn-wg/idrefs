@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0666'>
+
+<front>
+<title>Specification of the Unified User-Level Protocol</title>
+<author initials='M.A.' surname='Padlipsky' fullname='M.A. Padlipsky'>
+<organization /></author>
+<date year='1974' month='November' />
+<abstract>
+<t>Discusses and proposes a common command language.</t></abstract></front>
+
+<seriesInfo name='RFC' value='666' />
+<format type='TXT' octets='49024' target='http://www.rfc-editor.org/rfc/rfc666.txt' />
+</reference>

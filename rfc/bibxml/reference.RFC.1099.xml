@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1099'>
+
+<front>
+<title abbrev='Summary of 1000-1099'>Request for Comments Summary: RFC Numbers 1000-1099</title>
+<author initials='J.' surname='Reynolds' fullname='Joyce K. Reynolds'>
+<organization>University of Southern California (USC), Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511</phone>
+<email>JKREY@ISI.EDU</email></address></author>
+<date year='1991' month='December' /></front>
+
+<seriesInfo name='RFC' value='1099' />
+<format type='TXT' octets='49108' target='http://www.rfc-editor.org/rfc/rfc1099.txt' />
+</reference>

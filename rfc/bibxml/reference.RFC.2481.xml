@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2481'>
+
+<front>
+<title abbrev='ECN to IP'>A Proposal to add Explicit Congestion Notification (ECN) to IP</title>
+<author initials='K.K.' surname='Ramakrishnan' fullname='K. K. Ramakrishnan'>
+<organization>AT&amp;T Labs. Research</organization>
+<address>
+<phone>+1 973 360 8766 </phone>
+<email>kkrama@research.att.com</email>
+<uri>http://www.research.att.com/info/kkrama</uri></address></author>
+<author initials='S.' surname='Floyd' fullname='Sally Floyd'>
+<organization>Lawrence Berkeley National Laboratory</organization>
+<address>
+<phone>+1 510 486 7518</phone>
+<email>floyd@ee.lbl.gov</email>
+<uri>http://www-nrg.ee.lbl.gov/floyd/</uri></address></author>
+<date year='1999' month='January' />
+<area>Internet</area>
+<keyword>congestion</keyword>
+<keyword>multicast</keyword>
+<abstract>
+<t>
+   This note describes a proposed addition of ECN (Explicit Congestion
+   Notification) to IP.  TCP is currently the dominant transport
+   protocol used in the Internet. We begin by describing TCP&apos;s use of
+   packet drops as an indication of congestion.  Next we argue that with
+   the addition of active queue management (e.g., RED) to the Internet
+   infrastructure, where routers detect congestion before the queue
+   overflows, routers are no longer limited to packet drops as an
+   indication of congestion.  Routers could instead set a Congestion
+   Experienced (CE) bit in the packet header of packets from ECN-capable
+   transport protocols.  We describe when the CE bit would be set in the
+   routers, and describe what modifications would be needed to TCP to
+   make it ECN-capable.  Modifications to other transport protocols
+   (e.g., unreliable unicast or multicast, reliable multicast, other
+   reliable unicast transport protocols) could be considered as those
+   protocols are developed and advance through the standards process.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2481' />
+<format type='TXT' octets='64559' target='http://www.rfc-editor.org/rfc/rfc2481.txt' />
+<format type='HTML' octets='101815' target='http://xml.resource.org/public/rfc/html/rfc2481.html' />
+<format type='XML' octets='95810' target='http://xml.resource.org/public/rfc/xml/rfc2481.xml' />
+</reference>

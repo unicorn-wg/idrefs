@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1474'>
+
+<front>
+<title abbrev='PPP/Bridge MIB'>The Definitions of Managed Objects for the Bridge Network Control Protocol of the Point-to-Point Protocol</title>
+<author initials='F.' surname='Kastenholz' fullname='Frank Kastenholz'>
+<organization>FTP Software, Inc.</organization>
+<address>
+<postal>
+<street>2 High Street</street>
+<city>North Andover</city>
+<region>MA</region>
+<code>01845</code>
+<country>US</country></postal>
+<phone>+1 508 685 4000</phone>
+<email>kasten@ftp.com</email></address></author>
+<date year='1993' month='June' />
+<abstract>
+<t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets. In particular, it describes managed objects used for managing the bridge Network Control Protocolon subnetwork interfaces using the family of Point-to-Point Protocols.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1474' />
+<format type='TXT' octets='31846' target='http://www.rfc-editor.org/rfc/rfc1474.txt' />
+</reference>

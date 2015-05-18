@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1134'>
+
+<front>
+<title abbrev='PPP'>Point-to-Point Protocol: A proposal for multi-protocol transmission of datagrams over Point-to-Point links</title>
+<author initials='D.' surname='Perkins' fullname='Drew Perkins'>
+<organization>University of California, Davis, Computing Services</organization></author>
+<date year='1989' day='1' month='November' />
+<abstract>
+<t>The Point-to-Point Protocol (PPP) provides a method for transmitting datagrams over serial point-to-point links.  PPP is composed of three parts:</t>
+<t>1. A method for encapsulating datagrams over serial links.</t>
+<t>2. An extensible Link Control Protocol (LCP).</t>
+<t>3. A family of Network Control Protocols (NCP) for establishing and configuring different network-layer protocols.</t>
+<t>This document defines the encapsulation scheme, the basic LCP, and an NCP for establishing and configuring the Internet Protocol (IP) (called the IP Control Protocol, IPCP).</t>
+<t>The options and facilities used by the LCP and the IPCP are defined in separate documents.  Control protocols for configuring and utilizing other network-layer protocols besides IP (e.g., DECNET, OSI) are expected to be developed as needed.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1134' />
+<format type='TXT' octets='87352' target='http://www.rfc-editor.org/rfc/rfc1134.txt' />
+</reference>

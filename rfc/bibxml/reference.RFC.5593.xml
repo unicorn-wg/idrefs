@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5593'>
+
+<front>
+<title>Internet Message Access Protocol (IMAP) - URL Access Identifier Extension</title>
+<author initials='N.' surname='Cook' fullname='N. Cook'>
+<organization /></author>
+<date year='2009' month='June' />
+<abstract>
+<t>The existing IMAP URL specification (RFC 5092) lists several &amp;lt;access&amp;gt; identifiers and &amp;lt;access&amp;gt; identifier prefixes that can be used to restrict access to URLAUTH-generated URLs. However, these identifiers do not provide facilities for new services such as streaming. This document proposes a set of new &amp;lt;access&amp;gt; identifiers as well as an IANA mechanism to register new &amp;lt;access&amp;gt; identifiers for future applications.&lt;/t>&lt;t> This document updates RFC 5092. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='5593' />
+<format type='TXT' octets='18149' target='http://www.rfc-editor.org/rfc/rfc5593.txt' />
+</reference>

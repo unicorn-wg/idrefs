@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0974'>
+
+<front>
+<title>Mail routing and the domain system</title>
+<author initials='C.' surname='Partridge' fullname='Craig Partridge'>
+<organization>Bolt Baranek and Newman (BBN) Laboratories Inc., CSNET CIC</organization></author>
+<date year='1986' day='1' month='January' /></front>
+
+<seriesInfo name='RFC' value='974' />
+<format type='TXT' octets='18581' target='http://www.rfc-editor.org/rfc/rfc974.txt' />
+</reference>

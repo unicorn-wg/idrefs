@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2458'>
+
+<front>
+<title abbrev='Pre-PINT Implementations'>Toward the PSTN/Internet Inter-Networking --Pre-PINT Implementations</title>
+<author initials='H.' surname='Lu' fullname='Hui-Lan Lu'>
+<organization>Bell Laboratories, Lucent Technologies</organization>
+<address>
+<postal>
+<street>Room 4K-309</street>
+<street>101 Crawfords Corner Road</street>
+<city>Holmdel</city>
+<region>NJ</region>
+<code>07733-3030</code>
+<country>USA</country></postal>
+<phone>+1 732 949 0321</phone>
+<facsimile>+1 732 949 1196</facsimile>
+<email>hui-lan.lu@bell-labs.com</email></address></author>
+<author initials='M.' surname='Krishnaswamy' fullname='Murali Krishnaswamy'>
+<organization>Lucent Technologies, Bell Laboratories</organization>
+<address>
+<postal>
+<street>Room 2G-527a</street>
+<street>101 Crawfords Corner Road</street>
+<city>Holmdel</city>
+<region>NJ</region>
+<code>07733-3030</code>
+<country>USA</country></postal>
+<phone>+1 732 949 3611</phone>
+<facsimile>+1 732 949 3210</facsimile>
+<email>murali@bell-labs.com</email></address></author>
+<author initials='L.' surname='Conroy' fullname='Lawrence Conroy'>
+<organization>Roke Manor Research Limited, IT&amp;N-INIA Group</organization>
+<address>
+<postal>
+<street>Roke Manor, Old Salisbury Lane,</street>
+<city>Romsey</city>
+<region>Hampshire</region>
+<code>SO51 0ZN</code>
+<country>U.K.</country></postal>
+<phone>+44 1794 833666</phone>
+<facsimile>+44 1794 833434</facsimile>
+<email>lwc@roke.co.uk</email></address></author>
+<author initials='S.' surname='Bellovin' fullname='Steve Bellovin'>
+<organization>AT&amp;T Labs</organization>
+<address>
+<postal>
+<street>180 Park Ave., Bldg. 103, Room B135</street>
+<city>Florham Park</city>
+<region>NJ</region>
+<code>07932-0000</code>
+<country>USA</country></postal>
+<phone>+1 973 360 8656</phone>
+<facsimile>+1 973 360 8077</facsimile>
+<email>smb@research.att.com</email></address></author>
+<author initials='F.M.' surname='Burg' fullname='Fred M. Burg'>
+<organization>AT&amp;T Labs</organization>
+<address>
+<postal>
+<street>Room 1N-117</street>
+<street>307 Middletown Lincroft Road</street>
+<region>NJ</region>
+<code>07738</code>
+<country>USA</country></postal>
+<phone>+1 732 576 4322</phone>
+<facsimile>+1 732 576 4317</facsimile>
+<email>fburg@hogpb.att.com</email></address></author>
+<author initials='A.' surname='DeSimone' fullname='A. DeSimone'>
+<organization>Lucent Technologies</organization>
+<address>
+<postal>
+<street>Room 6H510</street>
+<street>600-700 Mountain Avenue</street>
+<street>Murray Hill</street>
+<street>NJ  07974-0636</street>
+<country>USA</country></postal>
+<phone>+1 908 582 2382</phone>
+<facsimile>+1 908 582 1086</facsimile>
+<email>tds@lucent.com</email></address></author>
+<author initials='K.T.' surname='Tewani' fullname='Kamlesh T. Tewani'>
+<organization>AT&amp;T Labs</organization>
+<address>
+<postal>
+<street>Room 1K-334</street>
+<street>101, Crawfords Corner Rd.</street>
+<street>Holmdel</street>
+<street>NJ 07733</street>
+<country>USA</country></postal>
+<phone>+1 732 949 5369</phone>
+<facsimile>+1 732 949 8569</facsimile>
+<email>tewani@att.com</email></address></author>
+<author initials='P.' surname='Davidson' fullname='Paul Davidson'>
+<organization>Nortel</organization>
+<address>
+<postal>
+<street>P.O.Box 3511 Station &quot;C&quot;</street>
+<street>Mail Stop 242</street>
+<city>Ottawa</city>
+<region>Ontario</region>
+<code>K1Y 4H7</code>
+<country>Canada</country></postal>
+<phone>+1 613 763 4234</phone>
+<email>pauldav@nortel.ca</email></address></author>
+<author initials='H.' surname='Schulzrinne' fullname='Henning Schulzrinne'>
+<organization>Columbia University, Dept. of Computer Science</organization>
+<address>
+<postal>
+<street />
+<street>New York</street>
+<street>NY 10027</street>
+<country>USA</country></postal>
+<phone>+1 212 939 7042</phone>
+<facsimile>+1 212 666 0140</facsimile>
+<email>schulzrinne@cs.columbia.edu</email></address></author>
+<author initials='K.' surname='Vishwanathan' fullname='Kumar Vishwanathan'>
+<organization>Isochrone</organization>
+<address>
+<email>kumar@isochrone.com</email></address></author>
+<date year='1998' month='November' />
+<area>Internet</area>
+<keyword>public switched telephone network</keyword>
+<keyword>PSTN</keyword>
+<keyword>PINT</keyword>
+<abstract>
+<t>
+   This document contains the information relevant to the development of
+   the inter-networking interfaces underway in the Public Switched
+   Telephone Network (PSTN)/Internet Inter-Networking (PINT) Working
+   Group. It addresses technologies, architectures, and several (but by
+   no means all) existing pre-PINT implementations of the arrangements
+   through which Internet applications can request and enrich PSTN
+   telecommunications services. The common denominator of the enriched
+   services (a.k.a. PINT services) is that they combine the Internet and
+   PSTN services in such a way that the Internet is used for non-voice
+   interactions, while the voice (and fax) are carried entirely over the
+   PSTN. One key observation is that the pre-PINT implementations, being
+   developed independently, do not inter-operate. It is a task of the
+   PINT Working Group to define the inter-networking interfaces that
+   will support inter-operation of the future implementations of PINT
+   services.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2458' />
+<format type='TXT' octets='139100' target='http://www.rfc-editor.org/rfc/rfc2458.txt' />
+<format type='HTML' octets='169896' target='http://xml.resource.org/public/rfc/html/rfc2458.html' />
+<format type='XML' octets='140221' target='http://xml.resource.org/public/rfc/xml/rfc2458.xml' />
+</reference>

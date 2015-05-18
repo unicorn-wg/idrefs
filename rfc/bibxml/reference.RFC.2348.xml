@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2348'>
+
+<front>
+<title>TFTP Blocksize Option</title>
+<author initials='G.S.' surname='Malkin' fullname='Gary Scott Malkin'>
+<organization>Bay Networks</organization>
+<address>
+<postal>
+<street>8 Federal Street</street>
+<city>Billerica</city>
+<region>MA</region>
+<code>10821</code></postal>
+<phone>(978) 916-4237</phone>
+<email>gmalkin@baynetworks.com</email></address></author>
+<author initials='A.' surname='Harkin' fullname='Art Harkin'>
+<organization>Networked Computing Division</organization>
+<address>
+<postal>
+<street>Hewlett-Packard Company</street>
+<street>19420 Homestead Road MS 43LN</street>
+<city>Cupertino</city>
+<region>CA</region>
+<code>95014</code></postal>
+<phone>(408) 447-3755</phone>
+<email>ash@cup.hp.com</email></address></author>
+<date year='1998' month='May' />
+<area>Applications</area>
+<keyword>trivial file transfer protocol</keyword>
+<keyword>TFTP</keyword>
+<abstract>
+<t>
+
+   The Trivial File Transfer Protocol [1] is a simple, lock-step, file
+
+   transfer protocol which allows a client to get or put a file onto a
+
+   remote host.  One of its primary uses is the booting of diskless
+
+   nodes on a Local Area Network.  TFTP is used because it is very
+
+   simple to implement in a small node's limited ROM space.  However,
+
+   the choice of a 512-octet blocksize is not the most efficient for use
+
+   on a LAN whose MTU may 1500 octets or greater.
+
+</t>
+<t>
+
+   This document describes a TFTP option which allows the client and
+
+   server to negotiate a blocksize more applicable to the network
+
+   medium.  The TFTP Option Extension mechanism is described in [2].
+
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2348' />
+<format type='TXT' octets='9515' target='http://www.rfc-editor.org/rfc/rfc2348.txt' />
+<format type='XML' octets='8355' target='http://xml.resource.org/public/rfc/xml/rfc2348.xml' />
+</reference>

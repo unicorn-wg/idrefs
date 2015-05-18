@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0071'>
+
+<front>
+<title>Reallocation in Case of Input Error</title>
+<author initials='T.' surname='Schipper' fullname='Tjaart Schipper'>
+<organization>University of California, Los Angeles (UCLA), Campus Computing Network (CCN)</organization></author>
+<date year='1970' day='25' month='September' />
+<abstract>
+<t>In case of reading a message from the IMP, it may be impossible for the receiving NCP to determine the length of the message if an input error occurs. The following protocol will be used at the CCN-Host at UCLA to resynchronize flow control.</t></abstract></front>
+
+<seriesInfo name='RFC' value='71' />
+<format type='TXT' octets='1265' target='http://www.rfc-editor.org/rfc/rfc71.txt' />
+</reference>

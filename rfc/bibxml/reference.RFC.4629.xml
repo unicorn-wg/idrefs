@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4629'>
+
+<front>
+<title>RTP Payload Format for ITU-T Rec</title>
+<author initials='H.263Video.J.' surname='Ott' fullname='H.263Video.J. Ott'>
+<organization /></author>
+<author initials='C.' surname='Bormann' fullname='C. Bormann'>
+<organization /></author>
+<author initials='G.' surname='Sullivan' fullname='G. Sullivan'>
+<organization /></author>
+<author initials='S.' surname='Wenger' fullname='S. Wenger'>
+<organization /></author>
+<author initials='R.' surname='Even' fullname='R. Even'>
+<organization /></author>
+<date year='2007' month='January' />
+<abstract>
+<t>This document describes a scheme to packetize an H.263 video stream for transport using the Real-time Transport Protocol (RTP) with any of the underlying protocols that carry RTP.&lt;/t>&lt;t> The document also describes the syntax and semantics of the Session Description Protocol (SDP) parameters needed to support the H.263 video codec.&lt;/t>&lt;t> The document obsoletes RFC 2429 and updates the H263-1998 and H263-2000 MIME media type in RFC 3555. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='4629' />
+<format type='TXT' octets='67231' target='http://www.rfc-editor.org/rfc/rfc4629.txt' />
+</reference>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1673'>
+
+<front>
+<title abbrev='EPRI Comments on IPng'>Electric Power Research Institute Comments on IPng</title>
+<author initials='R.' surname='Skelton' fullname='Ron Skelton'>
+<organization>Electric Power Research Institute, Advanced IT Group</organization>
+<address>
+<postal>
+<street />
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94303</code>
+<country>US</country></postal>
+<email>RSKELTON@msm.epri.com</email></address></author>
+<date year='1994' month='August' />
+<abstract>
+<t>This document was submitted to the IETF IPng area in response to RFC 1550.  Publication of this document does not imply acceptance by the IPng area of any ideas expressed within.  Comments should be submitted to the big-internet@munnari.oz.au mailing list.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1673' />
+<format type='TXT' octets='7476' target='http://www.rfc-editor.org/rfc/rfc1673.txt' />
+</reference>

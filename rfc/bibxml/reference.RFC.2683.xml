@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2683'>
+
+<front>
+<title>IMAP4 Implementation Recommendations</title>
+<author initials='B.' surname='Leiba' fullname='Barry Leiba'>
+<organization>IBM T.J. Watson Research Center</organization>
+<address>
+<postal>
+<street>30 Saw Mill River Road</street>
+<city>Hawthorne</city>
+<region>NY</region>
+<code>10532</code>
+<country>US</country></postal>
+<phone>+1 914 784 7941</phone>
+<email>leiba@watson.ibm.com</email></address></author>
+<date year='1999' month='September' />
+<abstract>
+<t>TheIMAP4 specificationdescribes a rich protocol for use in building clients nd servers for storage, retrieval, and manipulation of electronic mail. Because the protocol is so rich and has so many implementation choices, there are often trade-offs that must be made and issues that must be considered when designing such clients and servers. This document attempts to outline these issues and to make recommendations in order to make the end products as interoperable as possible.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2683' />
+<format type='TXT' octets='56300' target='http://www.rfc-editor.org/rfc/rfc2683.txt' />
+</reference>

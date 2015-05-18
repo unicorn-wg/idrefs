@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0995'>
+
+<front>
+<title abbrev='ISO N4053'>End System to Intermediate System Routing Exchange Protocol for use in conjunction with ISO 8473</title>
+<author>
+<organization>International Organization for Standardization</organization></author>
+<author>
+<organization>American National Standards Institute (ANSI)</organization></author>
+<date year='1986' day='1' month='April' /></front>
+
+<seriesInfo name='RFC' value='995' />
+<format type='TXT' octets='94069' target='http://www.rfc-editor.org/rfc/rfc995.txt' />
+</reference>

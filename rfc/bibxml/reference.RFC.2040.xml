@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2040'>
+
+<front>
+<title abbrev='RC5, RC5-CBC, RC5-CBC-Pad, and RC5-CTS'>The RC5, RC5-CBC, RC5-CBC-Pad, and RC5-CTS Algorithms</title>
+<author initials='R.' surname='Baldwin' fullname='Robert W. Baldwin'>
+<organization>RSA Data Security, Inc.</organization>
+<address>
+<postal>
+<street>100 Marine Parkway</street>
+<city>Redwood City</city>
+<region>CA</region>
+<code>94065</code>
+<country>US</country></postal>
+<phone>+1 415 595 8782</phone>
+<facsimile>+1 415 595 1873</facsimile>
+<email>baldwin@rsa.com, or baldwin@lcs.mit.edu</email></address></author>
+<author initials='R.' surname='Rivest' fullname='Ronald L. Rivest'>
+<organization>Massachusetts Institute of Technology, Laboratory for Computer Science</organization>
+<address>
+<postal>
+<street>545 Technology Square</street>
+<street>NE43-324</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02139-1986</code>
+<country>US</country></postal>
+<phone>+1 617 253 5880</phone>
+<email>rivest@theory.lcs.mit.edu</email></address></author>
+<date year='1996' month='October' />
+<abstract>
+<t></t></abstract></front>
+
+<seriesInfo name='RFC' value='2040' />
+<format type='TXT' octets='54598' target='http://www.rfc-editor.org/rfc/rfc2040.txt' />
+</reference>

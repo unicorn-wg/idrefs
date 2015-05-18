@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5665'>
+
+<front>
+<title>IANA Considerations for Remote Procedure Call (RPC) Network Identifiers and Universal Address Formats</title>
+<author initials='M.' surname='Eisler' fullname='M. Eisler'>
+<organization /></author>
+<date year='2010' month='January' />
+<abstract>
+<t>This document lists IANA Considerations for Remote Procedure Call (RPC) Network Identifiers (netids) and RPC Universal Network Addresses (uaddrs).  This document updates, but does not replace, RFC 1833. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='5665' />
+<format type='TXT' octets='28706' target='http://www.rfc-editor.org/rfc/rfc5665.txt' />
+</reference>

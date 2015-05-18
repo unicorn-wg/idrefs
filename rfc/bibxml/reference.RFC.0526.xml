@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0526'>
+
+<front>
+<title abbrev='Digital Image Processing Software Systems Meeting'>Technical meeting: Digital image processing software systems</title>
+<author initials='W.' surname='Pratt' fullname='William K. Pratt'>
+<organization>University of Southern California (USC)</organization>
+<address>
+<postal>
+<street>University Park, Olin Hall</street>
+<street>Room 330H</street>
+<city>Los Angeles</city>
+<region>CA</region>
+<code>90007</code>
+<country>US</country></postal>
+<phone>+1 213 746 2694</phone></address></author>
+<date year='1973' day='25' month='June' /></front>
+
+<seriesInfo name='RFC' value='526' />
+<format type='TXT' octets='4062' target='http://www.rfc-editor.org/rfc/rfc526.txt' />
+</reference>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1824'>
+
+<front>
+<title abbrev='TESS'>The Exponential Security System TESS: An Identity-Based Cryptographic Protocol for Authenticated Key-Exchange (E.I.S.S.-Report 1995/4)</title>
+<author initials='H.' surname='Danisch' fullname='Hadmut Danisch'>
+<organization>University of Karlsruhe, European Institute for System Security (E.I.S.S.), Institut fuer Algorithmen und Kognitive Systeme (IAKS)</organization>
+<address>
+<postal>
+<street />
+<city>Karlsruhe</city>
+<region />
+<code>D-76128</code>
+<country>DE</country></postal>
+<phone>+49 721 9640018</phone>
+<facsimile>+49 721 696893</facsimile>
+<email>danisch@ira.uka.de</email>
+<uri>http://avalon.ira.uka.de/personal/danisch.html</uri></address></author>
+<date year='1995' month='August' />
+<abstract>
+<t>This informational RFC describes the basic mechanisms  and  functions of  an identity based system for the secure authenticated exchange of cryptographic keys, the generation of signatures, and  the  authentic distribution of public keys.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1824' />
+<format type='TXT' octets='45540' target='http://www.rfc-editor.org/rfc/rfc1824.txt' />
+</reference>

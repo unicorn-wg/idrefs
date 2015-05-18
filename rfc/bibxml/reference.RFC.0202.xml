@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0202'>
+
+<front>
+<title>Possible Deadlock in ICP</title>
+<author initials='S.' surname='Wolfe' fullname='Steve Wolfe'>
+<organization>University California Los Angeles (UCLA), CCN</organization></author>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>University California Los Angeles (UCLA), NMC</organization></author>
+<date year='1971' day='26' month='July' />
+<abstract>
+<t>We have noticed a possible deadlock situation which may arise using the Initial Connection Protocol (ICP) specified in Document #2 (NIC #7101 in the Current Network Protocols Notebook NIC #7104).</t></abstract></front>
+
+<seriesInfo name='RFC' value='202' />
+<format type='TXT' octets='2796' target='http://www.rfc-editor.org/rfc/rfc202.txt' />
+</reference>

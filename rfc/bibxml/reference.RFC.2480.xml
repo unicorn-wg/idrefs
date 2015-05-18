@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2480'>
+
+<front>
+<title>Gateways and MIME Security Multiparts</title>
+<author initials='N.' surname='Freed' fullname='Ned Freed'>
+<organization>Innosoft International, Inc.</organization>
+<address>
+<postal>
+<street>1050 Lakes Drive</street>
+<city>West Covina</city>
+<region>CA</region>
+<code>91790</code>
+<country>USA</country></postal>
+<phone>+1 626 919 3600</phone>
+<facsimile>+1 626 919 3614</facsimile>
+<email>ned.freed@innosoft.com</email></address></author>
+<date year='1999' month='January' />
+<area>Applications</area>
+<keyword>MIME</keyword>
+<keyword>mail gateway</keyword>
+<keyword>multipurpose internet mail extensions</keyword>
+<keyword>security</keyword></front>
+
+<seriesInfo name='RFC' value='2480' />
+<format type='TXT' octets='11751' target='http://www.rfc-editor.org/rfc/rfc2480.txt' />
+<format type='HTML' octets='26362' target='http://xml.resource.org/public/rfc/html/rfc2480.html' />
+<format type='XML' octets='24347' target='http://xml.resource.org/public/rfc/xml/rfc2480.xml' />
+</reference>

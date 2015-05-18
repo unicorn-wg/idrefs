@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3922'>
+
+<front>
+<title abbrev='XMPP to CPIM'>Mapping the Extensible Messaging and Presence Protocol (XMPP) to Common Presence and Instant Messaging (CPIM)</title>
+<author initials='P.' surname='Saint-Andre' fullname='Peter Saint-Andre'>
+<organization>Jabber Software Foundation</organization>
+<address>
+<email>stpeter@jabber.org</email></address></author>
+<date year='2004' month='October' />
+<area>Applications</area>
+<workgroup>XMPP Working Group</workgroup>
+<keyword>RFC</keyword>
+<keyword>Request for Comments</keyword>
+<keyword>I-D</keyword>
+<keyword>Internet-Draft</keyword>
+<keyword>XMPP</keyword>
+<keyword>Extensible Messaging and Presence Protocol</keyword>
+<keyword>Jabber</keyword>
+<keyword>IM</keyword>
+<keyword>Instant Messaging</keyword>
+<keyword>Presence</keyword>
+<keyword>CPIM</keyword>
+<keyword>Common Presence and Instant Messaging</keyword>
+<keyword>XML</keyword>
+<keyword>Extensible Markup Language</keyword>
+<abstract>
+<t>This memo describes a mapping between the Extensible Messaging and Presence Protocol (XMPP) and the Common Presence and Instant Messaging (CPIM) specifications.</t></abstract></front>
+
+<seriesInfo name='RFC' value='3922' />
+<format type='TXT' octets='70790' target='http://www.rfc-editor.org/rfc/rfc3922.txt' />
+<format type='HTML' octets='112444' target='http://xml.resource.org/public/rfc/html/rfc3922.html' />
+<format type='XML' octets='89156' target='http://xml.resource.org/public/rfc/xml/rfc3922.xml' />
+</reference>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1181'>
+
+<front>
+<title>RIPE Terms of Reference</title>
+<author initials='R.' surname='Blokzijl' fullname='Rob Blokzijl'>
+<organization>Reseaux IP Europeens (RIPE)/NIKHEF</organization>
+<address>
+<postal>
+<street>P.O.B. 41882</street>
+<city>Amsterdam</city>
+<region />
+<code>NL-1009 DB</code>
+<country>NL</country></postal>
+<phone>+31 20 5920413</phone>
+<email>k13@nikhef.nl</email></address></author>
+<date year='1990' day='1' month='September' /></front>
+
+<seriesInfo name='RFC' value='1181' />
+<format type='TXT' octets='2523' target='http://www.rfc-editor.org/rfc/rfc1181.txt' />
+</reference>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7195'>
+
+<front>
+<title>Session Description Protocol (SDP) Extension for Setting Audio and Video Media Streams over Circuit-Switched Bearers in the Public Switched Telephone Network (PSTN)</title>
+<author initials='M.' surname='Garcia-Martin' fullname='M. Garcia-Martin'>
+<organization /></author>
+<author initials='S.' surname='Veikkolainen' fullname='S. Veikkolainen'>
+<organization /></author>
+<date year='2014' month='May' />
+<abstract>
+<t>This memo describes use cases, requirements, and protocol extensions for using the Session Description Protocol (SDP) offer/answer model for establishing audio and video media streams over circuit-switched bearers in the Public Switched Telephone Network (PSTN).</t></abstract></front>
+
+<seriesInfo name='RFC' value='7195' />
+<format type='TXT' octets='92699' target='http://www.rfc-editor.org/rfc/rfc7195.txt' />
+</reference>

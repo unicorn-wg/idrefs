@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0810'>
+
+<front>
+<title abbrev='Host Table Specification'>DoD Internet host table specification</title>
+<author initials='E.' surname='Feinler' fullname='Elizabeth Feinler'>
+<organization /></author>
+<author initials='K.' surname='Harrenstien' fullname='Ken Harrenstien'>
+<organization /></author>
+<author initials='Z.' surname='Su' fullname='Zaw-Sing Su'>
+<organization /></author>
+<author initials='V.' surname='White' fullname='Vic White'>
+<organization>SRI International, Network Information Center</organization></author>
+<date year='1982' day='1' month='March' /></front>
+
+<seriesInfo name='RFC' value='810' />
+<format type='TXT' octets='14196' target='http://www.rfc-editor.org/rfc/rfc810.txt' />
+</reference>

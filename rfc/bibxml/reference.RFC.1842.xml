@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1842'>
+
+<front>
+<title abbrev='ASCII/Chinese Character Encoding'>ASCII Printable Characters-Based Chinese Character Encoding for Internet Messages</title>
+<author initials='Y.' surname='Wei' fullname='Ya-Gui Wei'>
+<organization>AsiaInfo Services Inc.</organization>
+<address>
+<postal>
+<street>One Galleria Tower</street>
+<street>13355 Noel Rd. Suite 1340</street>
+<city>Dallas</city>
+<region>TX</region>
+<code>75240</code>
+<country>US</country></postal>
+<phone>+1 214 788 4141</phone>
+<facsimile>+1 214 788 0729</facsimile>
+<email>HZRFC@usai.asiainfo.com</email></address></author>
+<author initials='Y.' surname='Zhang' fullname='Yun Fei Zhang'>
+<organization>Harvard University, CfA</organization>
+<address>
+<postal>
+<street>60 Garden St.</street>
+<street>MS 66</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal>
+<phone>+1 617 860 9444</phone>
+<email>zhang@orion.harvard.edu</email></address></author>
+<author initials='J.' surname='Li' fullname='Jian Q. Li'>
+<organization>Rice University</organization>
+<address>
+<postal>
+<street>P.O. Box 1892</street>
+<street>ONS - MS 119</street>
+<city>Houston</city>
+<region>TX</region>
+<code>77251-1892</code>
+<country>US</country></postal>
+<phone>+1 713 285 5328</phone>
+<email>jian@is.rice.edu</email></address></author>
+<author initials='J.' surname='Ding' fullname='Jian Ding'>
+<organization>AsiaInfo Services Inc.</organization>
+<address>
+<postal>
+<street>15 Fuxing Road,  ISTIC Bldg</street>
+<street>Room 431</street>
+<city>Beijing</city>
+<region />
+<code>100038</code>
+<country>CN</country></postal>
+<phone>+86 10 8537120</phone>
+<facsimile>+86 10 8537123</facsimile>
+<email>ding@Beijing.AsiaInfo.com</email></address></author>
+<author initials='Y.' surname='Jiang' fullname='Yuan Jiang'>
+<organization>University of Maryland, Electrical Engineering Department</organization>
+<address>
+<postal>
+<street />
+<city>College Park</city>
+<region>MD</region>
+<code>200742</code>
+<country>US</country></postal>
+<phone>+1 301 405 3729</phone>
+<email>yjj@eng.umd.edu</email></address></author>
+<date year='1995' month='August' />
+<abstract>
+<t>This document describes the encoding used in electronic mailand network newsmessages over the Internet. The 7-bit representation of GB 2312 Chinese text was specified by Fung Fung Lee of Stanford Universityand implemented in various software packages under different platforms (see appendix for a partial list of the available software packages that support this encoding method). It is further tested and used in the usenet newsgroups alt.chinese.text and chinese.* as well as various other network forums with considerable success. Future extensions of this encoding method can accommodate additional GB character sets and other east    asian language character sets.</t>
+<t>The name given to this encoding is "HZ-GB-2312", which is intended to be used in the "charset" parameter field of MIME headers (seeand).</t></abstract></front>
+
+<seriesInfo name='RFC' value='1842' />
+<format type='TXT' octets='24143' target='http://www.rfc-editor.org/rfc/rfc1842.txt' />
+</reference>

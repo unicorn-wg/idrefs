@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0745'>
+
+<front>
+<title abbrev='JANUS Interface Specifications'>JANUS interface specifications</title>
+<author initials='M.' surname='Beeler' fullname='Michael Beeler'>
+<organization>Bolt Beranek and Newman (BBN)</organization></author>
+<date year='1978' day='30' month='March' /></front>
+
+<seriesInfo name='RFC' value='745' />
+<format type='TXT' octets='21453' target='http://www.rfc-editor.org/rfc/rfc745.txt' />
+</reference>

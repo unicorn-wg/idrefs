@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2033'>
+
+<front>
+<title abbrev='Local Mail'>Local Mail Transfer Protocol</title>
+<author initials='J.G.' surname='Myers' fullname='John G. Myers'>
+<organization>Carnegie-Mellon University</organization>
+<address>
+<postal>
+<street>5000 Forbes Ave.</street>
+<street>Pittsburgh</street>
+<street>15213-3890</street>
+<country>PA</country></postal>
+<email>jgm+@cmu.edu</email></address></author>
+<date year='1996' month='October' />
+<area>Applications</area>
+<keyword>mail</keyword></front>
+
+<seriesInfo name='RFC' value='2033' />
+<format type='TXT' octets='14711' target='http://www.rfc-editor.org/rfc/rfc2033.txt' />
+<format type='XML' octets='17562' target='http://xml.resource.org/public/rfc/xml/rfc2033.xml' />
+</reference>

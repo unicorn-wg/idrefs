@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1332'>
+
+<front>
+<title abbrev='PPP IPCP'>The PPP Internet Protocol Control Protocol (IPCP)</title>
+<author initials='G.' surname='McGregor' fullname='Glenn McGregor'>
+<organization>Merit Network, Inc.</organization>
+<address>
+<postal>
+<street>1071 Beal Avenue</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48109-2103</code>
+<country>US</country></postal>
+<phone>+1 313 763 1203</phone>
+<email>Glenn.McGregor@Merit.edu</email></address></author>
+<date year='1992' month='May' />
+<abstract>
+<t>The Point-to-Point Protocol (PPP)provides a standard method of encapsulating Network Layer protocol information over point-to-point links.  PPP also defines an extensible Link Control Protocol, and proposes a family of Network Control Protocols (NCPs) for establishing and configuring different network-layer protocols.</t>
+<t>This document defines the NCP for establishing and configuring the Internet Protocolover PPP, and a method to negotiate and use Van Jacobson TCP/IP header compressionwith PPP.</t>
+<t>This RFC is a product of the Point-to-Point Protocol Working Group of the Internet Engineering Task Force (IETF).</t></abstract></front>
+
+<seriesInfo name='RFC' value='1332' />
+<format type='TXT' octets='17613' target='http://www.rfc-editor.org/rfc/rfc1332.txt' />
+</reference>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1510'>
+
+<front>
+<title abbrev='Kerberos'>The Kerberos Network Authentication Service (V5)</title>
+<author initials='J.' surname='Kohl' fullname='John Kohl'>
+<organization>Digital Equipment Corporation (DEC)</organization>
+<address>
+<postal>
+<street>110 Spit Brook Road</street>
+<street>M/S ZKO3-3/U14</street>
+<city>Nashua</city>
+<region>NH</region>
+<code>03062</code>
+<country>US</country></postal>
+<phone>+1 603 881 2481</phone>
+<email>jtkohl@zk3.dec.com</email></address></author>
+<author initials='B.' surname='Neuman' fullname='B. Clifford Neuman'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way #1001</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292-6695</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511</phone>
+<email>bcn@isi.edu</email></address></author>
+<date year='1993' month='September' />
+<abstract>
+<t>This document gives an overview and specification of Version 5 of the protocol for the Kerberos network authentication system. Version 4, described elsewhere,is presently in production use at MIT's Project Athena, and at other Internet sites.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1510' />
+<format type='TXT' octets='275395' target='http://www.rfc-editor.org/rfc/rfc1510.txt' />
+</reference>

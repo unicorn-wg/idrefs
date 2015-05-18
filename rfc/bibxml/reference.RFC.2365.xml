@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2365'>
+
+<front>
+<title>Administratively Scoped IP Multicast</title>
+<author initials='D.' surname='Meyer' fullname='David Meyer'>
+<organization>Cisco Systems</organization>
+<address>
+<postal>
+<street>San Jose</street>
+<country>CA</country></postal>
+<email>dmm@cisco.com</email></address></author>
+<date year='1998' month='July' />
+<area>Internet</area>
+<keyword>multicast</keyword></front>
+
+<seriesInfo name='BCP' value='23' />
+<seriesInfo name='RFC' value='2365' />
+<format type='TXT' octets='17770' target='http://www.rfc-editor.org/rfc/rfc2365.txt' />
+<format type='XML' octets='20044' target='http://xml.resource.org/public/rfc/xml/rfc2365.xml' />
+</reference>

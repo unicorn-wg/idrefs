@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0229'>
+
+<front>
+<title>Standard host names</title>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>University California Los Angeles (UCLA), Computer Science Department, Network Measurement Center (NMC)</organization></author>
+<date year='1971' day='22' month='September' />
+<abstract>
+<t>I suggest 8 character names and the following list:</t></abstract></front>
+
+<seriesInfo name='RFC' value='229' />
+<format type='TXT' octets='3388' target='http://www.rfc-editor.org/rfc/rfc229.txt' />
+</reference>

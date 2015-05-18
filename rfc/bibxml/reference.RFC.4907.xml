@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4907'>
+
+<front>
+<title>Architectural Implications of Link Indications</title>
+<author initials='B.' surname='Aboba' fullname='B. Aboba'>
+<organization /></author>
+<date year='2007' month='June' />
+<abstract>
+<t>A link indication represents information provided by the link layer to higher layers regarding the state of the link.  This document describes the role of link indications within the Internet architecture.  While the judicious use of link indications can provide performance benefits, inappropriate use can degrade both robustness and performance.  This document summarizes current proposals, describes the architectural issues, and provides examples of appropriate and inappropriate uses of link indications.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='4907' />
+<format type='TXT' octets='160604' target='http://www.rfc-editor.org/rfc/rfc4907.txt' />
+</reference>

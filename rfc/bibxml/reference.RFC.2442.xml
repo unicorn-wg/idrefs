@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2442'>
+
+<front>
+<title abbrev='Batch SMTP Media Type'>The Batch SMTP Media Type</title>
+<author initials='N.' surname='Freed' fullname='Ned Freed'>
+<organization>Innosoft International, Inc.</organization>
+<address>
+<postal>
+<street>1050 Lakes Drive</street>
+<street>West Covina</street>
+<street>CA 91790</street>
+<country>USA</country></postal>
+<phone>+1 626 919 3600</phone>
+<facsimile>+1 626 919 3614</facsimile>
+<email>ned.freed@innosoft.com</email></address></author>
+<author initials='D.' surname='Newman' fullname='Dan Newman'>
+<organization>Innosoft International, Inc.</organization>
+<address>
+<postal>
+<street>1050 Lakes Drive</street>
+<street>West Covina</street>
+<street>CA 91790</street>
+<country>USA</country></postal>
+<phone>+1 626 919 3600</phone>
+<facsimile>+1 626 919 3614</facsimile>
+<email>dan.newman@innosoft.com</email></address></author>
+<author initials='M.' surname='Hoy' fullname='Mark Hoy'>
+<organization>Mainbrace Corporation</organization>
+<address>
+<postal>
+<street>1136 West Evelyn Avenue</street>
+<street>Sunnyvale</street>
+<street>CA 94086</street></postal>
+<phone>+1 408 774 5265</phone>
+<facsimile>+1 408 774 5290</facsimile>
+<email>mark.hoy@mainbrace.com</email></address></author>
+<author>
+<organization />
+<address>
+<email>jacques.belissent@eng.sun.com</email></address></author>
+<date year='1998' month='November' />
+<area>Applications</area>
+<keyword>content-type</keyword>
+<keyword>media type</keyword>
+<keyword>multipurpose internet mail extensions</keyword>
+<keyword>security</keyword>
+<keyword>simple mail transfer protocol</keyword>
+<keyword>tunnel</keyword>
+<abstract>
+<t>
+   This document defines a MIME content type suitable for tunneling an
+   ESMTP [RFC-821, RFC-1869] transaction through any MIME-capable
+   transport.  This type can be used for a variety of purposes,
+   including:  Extending end-to-end MIME-based security services (e.g.,
+   ) to cover message envelope information as well as message
+   content.  Making it possible to use specific SMTP extensions such as
+   NOTARY [RFC-1891] over unextended SMTP transport infrastructure.
+   Enabling the transfer of multiple separate messages in a single
+   transactional unit.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2442' />
+<format type='TXT' octets='18384' target='http://www.rfc-editor.org/rfc/rfc2442.txt' />
+<format type='XML' octets='18751' target='http://xml.resource.org/public/rfc/xml/rfc2442.xml' />
+</reference>

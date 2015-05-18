@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2241'>
+
+<front>
+<title abbrev='DHCP Options'>DHCP Options for Novell Directory Services</title>
+<author initials='D.' surname='Provan' fullname='Don Provan'>
+<organization>Novell, Inc.</organization>
+<address>
+<postal>
+<street>2180 Fortune Drive</street>
+<street>San Jose</street>
+<street>California</street>
+<street>95131</street></postal>
+<phone>+1 408 577 8440</phone>
+<email>donp@Novell.Com</email></address></author>
+<date year='1997' month='November' />
+<area>Internet</area>
+<keyword>directory</keyword>
+<keyword>dynamic host configuration protocol</keyword>
+<abstract>
+<t>
+   This document defines three new DHCP options for delivering
+   configuration information to clients of the Novell Directory
+   Services. The first option carries a list of NDS servers. The second
+   option carries the name of the client&apos;s NDS tree. The third carries
+   the initial NDS context. These three options provide an NDS client
+   with enough information to connect to an NDS tree without manual
+   configuration of the client.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2241' />
+<format type='TXT' octets='8419' target='http://www.rfc-editor.org/rfc/rfc2241.txt' />
+<format type='HTML' octets='22259' target='http://xml.resource.org/public/rfc/html/rfc2241.html' />
+<format type='XML' octets='8602' target='http://xml.resource.org/public/rfc/xml/rfc2241.xml' />
+</reference>

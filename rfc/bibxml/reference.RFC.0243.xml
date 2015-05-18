@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0243'>
+
+<front>
+<title>Network and data sharing bibliography</title>
+<author initials='A.' surname='Mullery' fullname='Alvin P. Mullery'>
+<organization>International Business Machines (IBM), Thomas J. Watson Research Center</organization></author>
+<date year='1971' day='5' month='October' /></front>
+
+<seriesInfo name='RFC' value='243' />
+<format type='TXT' octets='12432' target='http://www.rfc-editor.org/rfc/rfc243.txt' />
+</reference>

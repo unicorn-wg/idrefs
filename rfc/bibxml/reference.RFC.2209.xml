@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2209'>
+
+<front>
+<title abbrev='RSVP-Message Processing'>Resource ReSerVation Protocol (RSVP) -- Version 1 Message Processing Rules</title>
+<author initials='B.' surname='Braden' fullname='Bob Braden'>
+<organization>USC Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<street>Marina del Rey</street>
+<street>CA 90292</street></postal>
+<phone>(310) 822-1511</phone>
+<email>Braden@ISI.EDU</email></address></author>
+<author initials='L.' surname='Zhang' fullname='Lixia Zhang'>
+<organization>UCLA Computer Science Department</organization>
+<address>
+<postal>
+<street>4531G Boelter Hall</street>
+<street>Los Angeles</street>
+<street>CA 90095-1596</street>
+<country>USA</country></postal>
+<phone>310-825-2695</phone>
+<email>lixia@cs.ucla.edu</email></address></author>
+<date year='1997' month='September' />
+<area>Transport</area>
+<keyword>RSVP</keyword>
+<keyword>resource reservation protocol</keyword>
+<abstract>
+<t>
+   This memo contains an algorithmic description of the rules used by an
+   RSVP implementation for processing messages.  It is intended to
+   clarify the version 1 RSVP protocol specification.
+</t>
+<t>
+   This memo provides a generic description of the rules for the
+   operation of Version 1 of RSVP .  It is intended to outline
+   a set of algorithms that will accomplish the needed function,
+   omitting many details.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2209' />
+<format type='TXT' octets='51690' target='http://www.rfc-editor.org/rfc/rfc2209.txt' />
+<format type='XML' octets='53402' target='http://xml.resource.org/public/rfc/xml/rfc2209.xml' />
+</reference>

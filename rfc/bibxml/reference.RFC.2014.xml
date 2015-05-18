@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2014'>
+
+<front>
+<title abbrev='IRTF Research Group Guidelines'>IRTF Research Group Guidelines and Procedures</title>
+<author initials='A.' surname='Weinrib' fullname='Abel Weinrib'>
+<organization>Intel Corporation, MS JF2-74</organization>
+<address>
+<postal>
+<street>2111 NE 25th Ave.</street>
+<street>Hillsboro</street>
+<street>OR 97124</street></postal>
+<phone>503-264-8972</phone>
+<email>weinrib@intel.com</email></address></author>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>USC - ISI, Suite 1001</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<street>Marina del Rey</street>
+<street>CA  90292-6695</street></postal>
+<phone>310-822-1511</phone>
+<email>postel@isi.edu</email></address></author>
+<date year='1996' month='October' />
+<area>General</area>
+<keyword>Internet Architecture Board</keyword>
+<keyword>Internet Research Task Force</keyword>
+<abstract>
+<t>
+   The Internet Research Task Force (IRTF) has responsibility for
+   organizing groups to investigate research topics related to the
+   Internet protocols, applications, and technology. IRTF activities are
+   organized into Research Groups.  This document describes the
+   guidelines and procedures for formation and operation of IRTF
+   Research Groups.  It describes the relationship between IRTF
+   participants, Research Groups, the Internet Research Steering Group
+   (IRSG) and the Internet Architecture Board (IAB).  The basic duties
+   of IRTF participants, including the IRTF Chair, Research Group Chairs
+   and IRSG members are defined.
+</t></abstract></front>
+
+<seriesInfo name='BCP' value='8' />
+<seriesInfo name='RFC' value='2014' />
+<format type='TXT' octets='27507' target='http://www.rfc-editor.org/rfc/rfc2014.txt' />
+<format type='XML' octets='29801' target='http://xml.resource.org/public/rfc/xml/rfc2014.xml' />
+</reference>

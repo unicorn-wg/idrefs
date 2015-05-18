@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1674'>
+
+<front>
+<title>A Cellular Industry View of IPng</title>
+<author initials='M.' surname='Taylor' fullname='Mark S. Taylor'>
+<organization>McCaw Cellular Communications, Inc., Wireless Data Division</organization>
+<address>
+<postal>
+<street>10230 NE Points Drive</street>
+<city>Kirkland</city>
+<region>WA</region>
+<code>98033-7869</code>
+<country>US</country></postal>
+<email>mark.s.taylor@airdata.com</email></address></author>
+<date year='1994' month='August' />
+<abstract>
+<t>This memo is a response to RFC 1550, "IP: Next Generation (IPng) White Paper Solicitation".  The statements in this paper are intended as input to the technical discussions within IETF, and do not represent any endorsement or commitment on the part of the cellular industry, the Cellular Digital Packet Data (CDPD) consortium of service providers or any of its constituent companies.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1674' />
+<format type='TXT' octets='6157' target='http://www.rfc-editor.org/rfc/rfc1674.txt' />
+</reference>

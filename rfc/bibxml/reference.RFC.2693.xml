@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2693'>
+
+<front>
+<title>SPKI Certificate Theory</title>
+<author initials='C.' surname='Ellison' fullname='Carl M. Ellison'>
+<organization>Intel Corporation</organization>
+<address>
+<postal>
+<street>2111 NE 25th Avenue</street>
+<street>M/S JF3-212</street>
+<city>Hillsboro</city>
+<region>OR</region>
+<code>97124-5961</code>
+<country>US</country></postal>
+<phone>+1 503 264 2900</phone>
+<facsimile>+1 503 264 6225</facsimile>
+<email>carl.m.ellison@intel.com</email>
+<uri>http://www.pobox.com/~cme</uri></address></author>
+<author initials='B.' surname='Frantz' fullname='Bill Frantz'>
+<organization>Electric Communities</organization>
+<address>
+<postal>
+<street>10101 De Anza Boulevard</street>
+<city>Cupertino</city>
+<region>CA</region>
+<code>95014</code>
+<country>US</country></postal>
+<phone>+1 408 342 9576</phone>
+<email>frantz@netcom.com</email></address></author>
+<author initials='B.' surname='Lampson' fullname='Butler Lampson'>
+<organization>Microsoft</organization>
+<address>
+<postal>
+<street>180 Lake View Avenue</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal>
+<phone>+1 617 547 9580</phone>
+<email>blampson@microsoft.com</email></address></author>
+<author initials='R.' surname='Rivest' fullname='Ron Rivest'>
+<organization>Massachusetts Institute of Technology</organization>
+<address>
+<postal>
+<street>Room 324</street>
+<street>MIT Laboratory for Computer Science</street>
+<street>545 Technology Square</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02139</code>
+<country>US</country></postal>
+<phone>+1 617 253 5880</phone>
+<facsimile>+1 617 258 9738</facsimile>
+<email>rivest@theory.lcs.mit.edu</email>
+<uri>http://theory.lcs.mit.edu/~rivest</uri></address></author>
+<author initials='B.' surname='Thomas' fullname='Brian Thomas'>
+<organization>Southwestern Bell</organization>
+<address>
+<postal>
+<street>One Bell Center</street>
+<street>Room 34G3</street>
+<city>Saint Louis</city>
+<region>MO</region>
+<code>63101</code>
+<country>US</country></postal>
+<phone>+1 314 235 3141</phone>
+<facsimile>+1 314 235 0162</facsimile>
+<email>bt0008@sbc.com</email></address></author>
+<author initials='T.' surname='Ylonen' fullname='Tatu Ylonen'>
+<organization>SSH Communications Security Ltd.</organization>
+<address>
+<postal>
+<street>Tekniikantie 12</street>
+<region>ESPOO</region>
+<code>FIN-02150</code>
+<country>FI</country></postal>
+<email>ylo@ssh.fi</email></address></author>
+<date year='1999' month='September' />
+<abstract>
+<t>The SPKI Working Group has developed a standard form for digital
+certificates whose main purpose is authorization rather than
+authentication.
+These structures bind either names or explicit authorizations to keys
+or other objects.
+The binding to a key can be directly to an explicit key, or indirectly
+through the hash of the key or a name for it.
+The name and authorization structures can be used separately or together.
+We use S-expressions as the standard format for these certificates and
+define a canonical form for those S-expressions.
+As part of this development, a mechanism for deriving authorization
+decisions from a mixture of certificate types was developed and is
+presented in this document.</t>
+<t>This document gives the theory behind SPKI certificates and ACLs
+without going into technical detail about those structures or their
+uses.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2693' />
+<format type='TXT' octets='96699' target='http://www.rfc-editor.org/rfc/rfc2693.txt' />
+</reference>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2287'>
+
+<front>
+<title abbrev='System-Level Managed Objects'>Definitions of System-Level Managed Objects for Applications</title>
+<author initials='C.' surname='Krupczak' fullname='Cheryl Krupczak'>
+<organization>Empire Technologies, Inc.</organization>
+<address>
+<postal>
+<street>541 Tenth Street</street>
+<street>NW Suite 169</street>
+<street>Atlanta</street>
+<street>GA 30318</street></postal>
+<phone>770.384.0184</phone>
+<email>cheryl@empiretech.com</email></address></author>
+<author initials='J.' surname='Saperia' fullname='Jonathan Saperia'>
+<organization>BGS Systems Inc.</organization>
+<address>
+<email>saperia@networks.bgs.com</email></address></author>
+<date year='1998' month='February' />
+<area>Management</area>
+<keyword>Management Information Base</keyword>
+<keyword>managed object</keyword>
+<abstract>
+<t>
+   This memo defines a portion of the Management Information Base (MIB)
+   for use with network management protocols in the Internet community.
+   In particular, it describes a basic set of managed objects for fault,
+   configuration and performance management of applications from a
+   systems perspective.  More specifically, the managed objects are
+   restricted to information that can be determined from the system
+   itself and which does not require special instrumentation within the
+   applications to make the information available.
+</t>
+<t>
+   This memo does not specify a standard for the Internet community.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2287' />
+<format type='TXT' octets='98210' target='http://www.rfc-editor.org/rfc/rfc2287.txt' />
+<format type='XML' octets='94787' target='http://xml.resource.org/public/rfc/xml/rfc2287.xml' />
+</reference>

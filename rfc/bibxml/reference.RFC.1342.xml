@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1342'>
+
+<front>
+<title abbrev='Non-ASCII Mail Headers'>Representation of Non-ASCII Text in Internet Message Headers</title>
+<author initials='K.' surname='Moore' fullname='Keith Moore'>
+<organization>University of Tennessee</organization>
+<address>
+<postal>
+<street>107 Ayres Hall</street>
+<city>Knoxville</city>
+<region>TN</region>
+<code>37996-1301</code>
+<country>US</country></postal>
+<email>moore@cs.utk.edu</email></address></author>
+<date year='1992' month='June' />
+<abstract>
+<t>This memo describes an extension to the message format defined in(known to the IETF Mail Extensions Working Group as "RFC 1341"), to allow the representation of character sets other than ASCII in RFC 822 message headers.  The extensions described were designed to be highly compatible with existing Internet mail handling software, and to be easily implemented in mail readers that support RFC 1341.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1342' />
+<format type='TXT' octets='15845' target='http://www.rfc-editor.org/rfc/rfc1342.txt' />
+</reference>

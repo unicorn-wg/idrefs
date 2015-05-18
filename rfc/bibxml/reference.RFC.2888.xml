@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2888'>
+
+<front>
+<title>Secure Remote Access with L2TP</title>
+<author initials='P.' surname='Srisuresh' fullname='P. Srisuresh'>
+<organization /></author>
+<date year='2000' month='August' />
+<abstract>
+<t>The objective of this document is to extend security characteristics of IPsec to remote access users, as they dial-in through the Internet.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2888' />
+<format type='TXT' octets='41255' target='http://www.rfc-editor.org/rfc/rfc2888.txt' />
+</reference>

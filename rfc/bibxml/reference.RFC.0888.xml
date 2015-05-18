@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0888'>
+
+<front>
+<title>"STUB" Exterior Gateway Protocol</title>
+<author initials='L.' surname='Seamonson' fullname='Linda J. Seamonson'>
+<organization>BBN Communications</organization></author>
+<author initials='E.' surname='Rosen' fullname='Eric C. Rosen'>
+<organization>BBN Communications</organization></author>
+<date year='1984' day='1' month='January' />
+<abstract>
+<t>This note describes the Exterior Gateway Protocol used to connect Stub Gateways to an Autonomous System of core Gateways.  This document specifies the working protocol, and defines an ARPA official protocol.  All implementers of Gateways should carefully review this document.</t></abstract></front>
+
+<seriesInfo name='RFC' value='888' />
+<format type='TXT' octets='53227' target='http://www.rfc-editor.org/rfc/rfc888.txt' />
+</reference>

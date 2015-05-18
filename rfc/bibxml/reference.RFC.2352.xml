@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2352'>
+
+<front>
+<title abbrev='Legal Names'>A Convention For Using Legal Names as Domain Names</title>
+<author initials='O.' surname='Vaughan' fullname='Owain Vaughan'>
+<organization>Vaughan Enterprises</organization>
+<address>
+<postal>
+<street>PO Box 155</street>
+<street>Newport NP9 6YX</street>
+<country>UK</country></postal>
+<phone>+44 1633 677849/822164</phone>
+<facsimile>+44 1633 663706</facsimile>
+<email>owain@vaughan.com</email></address></author>
+<date year='1998' month='May' />
+<area>General</area>
+<area>Applications</area>
+<keyword>legal name</keyword>
+<keyword>domain name</keyword>
+<note title='IESG Note'>
+<t>
+   This RFC is an independent submission that discusses a possible
+   convention for allocating domain names based on corporate and other
+   names as registered by law.
+</t>
+<t>
+   It appears to depend on corporations changing their domain names from
+   their present form to more cumbersome handles, such as changing
+   cisco.com to cisco-systems.co.ca.us or ibm.com to international-
+   business-machines.co.ny.us, without giving them an incentive to do
+   so, such as deprecating the .com and .net gTLDs.  It also appears to
+   legislate the structure each national registry applies to its name
+   space, something which the document itself asserts is within national
+   purview and not for global standardization.
+</t>
+<t>
+   It may not be politically feasible to implement as described.
+</t></note></front>
+
+<seriesInfo name='RFC' value='2352' />
+<format type='TXT' octets='16354' target='http://www.rfc-editor.org/rfc/rfc2352.txt' />
+<format type='XML' octets='15936' target='http://xml.resource.org/public/rfc/xml/rfc2352.xml' />
+</reference>

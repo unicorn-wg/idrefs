@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2092'>
+
+<front>
+<title abbrev='Triggered RIP Protocol Analysis'>Protocol Analysis for Triggered RIP</title>
+<author initials='S.' surname='Sherry' fullname='Steve Sherry'>
+<organization>Xyplex</organization>
+<address>
+<postal>
+<street>295 Foster St.</street>
+<city>Littleton</city>
+<region>MA</region>
+<code>01460</code>
+<country>US</country></postal>
+<phone>+1 508 952 4745</phone>
+<facsimile>+1 508 952 4887</facsimile>
+<email>shs@xyplex.com</email></address></author>
+<author initials='G.' surname='Meyer' fullname='Gerry Meyer'>
+<organization>Shiva Europe Ltd</organization>
+<address>
+<postal>
+<street>Stanwell Street</street>
+<city>Edinburgh</city>
+<region>Scotland</region>
+<code>EH6 5NG</code>
+<country>UK</country></postal>
+<phone>+44 131 5614223</phone>
+<facsimile>+44 131 5614083</facsimile>
+<email>gerry@europe.shiva.com</email></address></author>
+<date year='1997' month='January' />
+<abstract>
+<t>As required by Routing Protocol Criteria, this report documents the key features of Triggered Extensions to RIP to Support Demand Circuitsand the current implementation experience.</t>
+<t>As a result of the improved characteristics of Triggered RIP, it is proposed that Demand RIPbe obsoleted.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2092' />
+<format type='TXT' octets='10865' target='http://www.rfc-editor.org/rfc/rfc2092.txt' />
+</reference>

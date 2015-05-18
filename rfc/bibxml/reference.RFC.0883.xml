@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0883'>
+
+<front>
+<title>Domain names: Implementation specification</title>
+<author initials='P.' surname='Mockapetris' fullname='Mockapetris'>
+<organization>University of Southern California (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<date year='1983' day='1' month='November' />
+<abstract>
+<t>This memo discusses the implementation of domain name servers and resolvers, specifies the format of transactions, and discusses the use of domain names in the context of existing mail systems and other network software</t>
+<t>This memo assumes that the reader is familiar with RFC 882, "Domain Names - Concepts and Facilities" which discusses the basic principles of domain names and their use</t>
+<t>The algorithms and internal data structures used in this memo are offered as suggestions rather than requirements; implementers are free to design their own structures so long as the same external behavior is achieved</t></abstract></front>
+
+<seriesInfo name='RFC' value='883' />
+<format type='TXT' octets='175067' target='http://www.rfc-editor.org/rfc/rfc883.txt' />
+</reference>

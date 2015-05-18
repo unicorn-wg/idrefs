@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0385'>
+
+<front>
+<title>Comments on the File Transfer Protocol</title>
+<author initials='A.' surname='Bhushan' fullname='Abhay K. Bhushan'>
+<organization>Massachusetts Institute of Technology (MIT), Project MAC</organization></author>
+<date year='1972' day='18' month='August' />
+<abstract>
+<t>The following comments pertain to the File Transfer Protocol, NWG/RFC 354. The comments include errata, further discussion, emphasis points, and additions to the protocol.  I shall incorporate these comments into the main protocol document after we have had sufficient experience.</t></abstract></front>
+
+<seriesInfo name='RFC' value='385' />
+<format type='TXT' octets='13030' target='http://www.rfc-editor.org/rfc/rfc385.txt' />
+</reference>

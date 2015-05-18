@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1337'>
+
+<front>
+<title abbrev='TCP TIME-WAIT Hazards'>TIME-WAIT Assassination Hazards in TCP</title>
+<author initials='B.' surname='Braden' fullname='Bob Braden'>
+<organization>University of Southern California (USC), Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone>
+<email>EMail: Braden@ISI.EDU</email></address></author>
+<date year='1992' month='May' />
+<abstract>
+<t>This note describes some theoretically-possible failure modes for TCP connections and discusses possible remedies.  In particular, one very simple fix is identified.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1337' />
+<format type='TXT' octets='22887' target='http://www.rfc-editor.org/rfc/rfc1337.txt' />
+</reference>

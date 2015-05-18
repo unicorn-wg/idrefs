@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2757'>
+
+<front>
+<title>Long Thin Networks</title>
+<author initials='G.E.' surname='Montenegro' fullname='Gabriel E. Montenegro'>
+<organization>Sun Microsystems, Inc., Sun Labs Networking and Security Group</organization>
+<address>
+<postal>
+<street>901 San Antonio Road</street>
+<street>Mailstop UMPK 15-214</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94303</code>
+<country>US</country></postal>
+<phone>+1 650 786 6288</phone>
+<facsimile>+1 650 786 6445</facsimile>
+<email>gab@sun.com</email></address></author>
+<author initials='S.' surname='Dawkins' fullname='Spencer Dawkins'>
+<organization>Nortel Networks</organization>
+<address>
+<postal>
+<street>P.O. Box 833805</street>
+<city>Richardson</city>
+<region>TX</region>
+<code>75083-3805</code>
+<country>US</country></postal>
+<phone>+1 972 684 4827</phone>
+<facsimile>+1 972 685 3292</facsimile>
+<email>sdawkins@nortel.com</email></address></author>
+<author initials='M.' surname='Kojo' fullname='Markku Kojo'>
+<organization>University of Helsinki, Department of Computer Science</organization>
+<address>
+<postal>
+<street>P.O. Box 26 (Teollisuuskatu 23)</street>
+<city>Helsinki</city>
+<region />
+<code>FIN-00014</code>
+<country>FI</country></postal>
+<phone>+358 9 19144179</phone>
+<facsimile>+358 9 19144441</facsimile>
+<email>kojo@cs.helsinki.fi</email></address></author>
+<author initials='V.' surname='Magret' fullname='Vincent Magret'>
+<organization>Alcatel Network Systems, Inc,  Corporate Research Center</organization>
+<address>
+<postal>
+<street>1201 Campbell</street>
+<street>M/S 446-310</street>
+<city>Richardson</city>
+<region>TX</region>
+<code>75081</code>
+<country>US</country></postal>
+<phone>+1 972 996 2625</phone>
+<facsimile>+1 972 996 5902</facsimile>
+<email>vincent.magret@aud.alcatel.com</email></address></author>
+<author initials='N.' surname='Vaidya' fullname='Nitin Vaidya'>
+<organization>Texas A&amp;M University, Dept. of Computer Science</organization>
+<address>
+<postal>
+<street />
+<city>College Station</city>
+<region>TX</region>
+<code>77843-3112</code>
+<country>US</country></postal>
+<phone>+1 979 845 0512</phone>
+<facsimile>+1 979 847 8578</facsimile>
+<email>vaidya@cs.tamu.edu</email></address></author>
+<date year='2000' month='January' />
+<abstract>
+<t>In view of the unpredictable and problematic nature of long thin networks (for example, wireless WANs), arriving at an optimized transport is a daunting task.  We have  reviewed the existing proposals along with future research items. Based on this overview, we also recommend mechanisms for implementation in long thin networks.</t>
+<t>Our goal is to identify a TCP that works for all users, including users of long thin networks. We started from the working recommendations of the IETF TCP Over Satellite Links (tcpsat) working group with this end in mind.</t>
+<t>We recognize that not every tcpsat recommendation will be required for long thin networks as well, and work toward a set of TCP recommendations that are 'benign' in environments that do not require them.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2757' />
+<format type='TXT' octets='112988' target='http://www.rfc-editor.org/rfc/rfc2757.txt' />
+</reference>

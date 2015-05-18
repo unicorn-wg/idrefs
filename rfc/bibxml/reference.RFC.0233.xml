@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0233'>
+
+<front>
+<title>Standardization of host call letters</title>
+<author initials='A.' surname='Bhushan' fullname='Abhay Bhushan'>
+<organization>Massachusetts Institute of Technology (MIT)</organization></author>
+<author initials='B.' surname='Metcalfe' fullname='Bob Metcalfe'>
+<organization>Massachusetts Institute of Technology (MIT)</organization></author>
+<date year='1971' day='28' month='September' />
+<abstract>
+<t>We agree with Peggy Karp (See RFC #226) that there would be some benefit in standardizing the symbolic host names used in TELNET programs.</t></abstract></front>
+
+<seriesInfo name='RFC' value='233' />
+<format type='TXT' octets='3206' target='http://www.rfc-editor.org/rfc/rfc233.txt' />
+</reference>

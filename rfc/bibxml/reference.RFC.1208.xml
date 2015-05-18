@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1208'>
+
+<front>
+<title abbrev='INTEROP Pocket Glossary'>Glossary of networking terms</title>
+<author initials='O.' surname='Jacobsen' fullname='Ole J. Jacobsen'>
+<organization>Interop, Inc.</organization>
+<address>
+<postal>
+<street>480 San Antonio Road</street>
+<street>Suite 100</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94040</code>
+<country>US</country></postal>
+<phone>+1 415 941 3399</phone>
+<email>OLE@CSLI.STANFORD.EDU</email></address></author>
+<author initials='D.' surname='Lynch' fullname='Daniel C. Lynch'>
+<organization>Interop, Inc.</organization>
+<address>
+<postal>
+<street>480 San Antonio Road</street>
+<street>Suite 100</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94040</code>
+<country>US</country></postal>
+<phone>+1 415 941 3399</phone>
+<email>Lynch@ISI.EDU</email></address></author>
+<date year='1991' day='1' month='March' /></front>
+
+<seriesInfo name='RFC' value='1208' />
+<format type='TXT' octets='41156' target='http://www.rfc-editor.org/rfc/rfc1208.txt' />
+</reference>

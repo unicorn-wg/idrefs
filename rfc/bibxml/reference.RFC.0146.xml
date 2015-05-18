@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0146'>
+
+<front>
+<title>Views on issues relevant to data sharing on computer networks</title>
+<author initials='P.' surname='Karp' fullname='P. M. Karp'>
+<organization>Mitre Corporation</organization></author>
+<author initials='D.' surname='McKay' fullname='D. B. McKay'>
+<organization>International Business Machines (IBM)</organization></author>
+<author initials='D.' surname='Wood' fullname='D. C. Wood'>
+<organization>Mitre Corporation</organization></author>
+<date year='1971' day='12' month='May' />
+<abstract>
+<t>The formation of a committee to address the problems of achieving data sharing on the ARPA Network, as suggested by Arie Shoshani (RFC #140) is desirable at this point of network development.</t></abstract></front>
+
+<seriesInfo name='RFC' value='146' />
+<format type='TXT' octets='9828' target='http://www.rfc-editor.org/rfc/rfc146.txt' />
+</reference>

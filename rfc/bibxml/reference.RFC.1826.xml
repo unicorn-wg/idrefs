@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1826'>
+
+<front>
+<title>IP Authentication Header</title>
+<author initials='R.' surname='Atkinson' fullname='Randall Atkinson'>
+<organization>Naval Research Laboratory, Information Technology Division</organization>
+<address>
+<postal>
+<street />
+<city>Washington</city>
+<region>DC</region>
+<code>20375-5320</code>
+<country>US</country></postal>
+<phone>+1 202 767 2389</phone>
+<facsimile>+1 202 404 8590</facsimile>
+<email>atkinson@itd.nrl.navy.mil</email></address></author>
+<date year='1995' month='August' />
+<abstract>
+<t>This document describes a mechanism for providing cryptographic authentication for IPv4 and IPv6 datagrams.  An Authentication Header (AH) is normally inserted after an IP header and before the other information being authenticated.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1826' />
+<format type='TXT' octets='27583' target='http://www.rfc-editor.org/rfc/rfc1826.txt' />
+</reference>

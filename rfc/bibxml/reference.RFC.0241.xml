@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0241'>
+
+<front>
+<title>Connecting computers to MLC ports</title>
+<author initials='A.' surname='McKenzie' fullname='A. McKenzie'>
+<organization>Bolt Baranek and Newman (BBN)</organization></author>
+<date year='1971' day='29' month='September' />
+<abstract>
+<t>Several times we have been asked if computers can be connected through serial communication lines to ports on the Terminal IMP's Multi-Line Controller (MLC) [related questions about the level of software support provided by the Terminal IMP to such a connection, have also been raised].  In the past we have said, "Please don't!" We now say, "Sure, but will that really help you the way you think it will?"</t></abstract></front>
+
+<seriesInfo name='RFC' value='241' />
+<format type='TXT' octets='3739' target='http://www.rfc-editor.org/rfc/rfc241.txt' />
+</reference>

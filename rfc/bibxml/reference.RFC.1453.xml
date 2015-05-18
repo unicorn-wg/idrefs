@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1453'>
+
+<front>
+<title abbrev='Comments on Video Conferencing'>A Comment on Packet Video Remote Conferencing and the Transport/Network Layers</title>
+<author initials='W.J.' surname='Chimiak' fullname='William J. Chimiak'>
+<organization>Bowman Gray School of Medicine, Department of Radiology</organization>
+<address>
+<postal>
+<street>Medical Center Boulevard</street>
+<city>Winston-Salem</city>
+<region>NC</region>
+<code>27157-1022</code>
+<country>US</country></postal>
+<phone>+1 919 716 2815</phone>
+<email>chim@relito.medeng.wfu.edu</email></address></author>
+<date year='1993' month='April' />
+<abstract>
+<t>The new generation of multimedia applications demands new features and new mechanisms for proper performance.  ATM technology has moved from concept to reality, delivering very high bandwidths and new capabilities to the data link layer user.  In an effort to anticipate the high bandwidth-delay data link layer, Delta-t, NETBLT, and VMTPwere developed.  The excellent insights and mechanisms pioneered by the creators of these experimental Internet protocols were used in the design of Xpress Transfer Protocol (XTP)with the goal of eventually delivering ATM bandwidths to a user process.  This RFC is a vehicle to inform the Internet community about XTP as it benefits from past Internet activity and targets general-purpose applications and multimedia applications with the emerging ATM networks in mind.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1453' />
+<format type='TXT' octets='23563' target='http://www.rfc-editor.org/rfc/rfc1453.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0155'>
+
+<front>
+<title>ARPA Network mailing lists</title>
+<author initials='J.B.' surname='North' fullname='J.B. North'>
+<organization>ARPA Network</organization></author>
+<date year='1971' day='1' month='May' />
+<abstract>
+<t>Note:  This list includes all Network Liaisons and others who should receive initial distribution of formal documents.  It supersedes RFC 95, and corresponds to Current Directory of Network Participants, NIC 5799.</t></abstract></front>
+
+<seriesInfo name='RFC' value='155' />
+<format type='TXT' octets='11054' target='http://www.rfc-editor.org/rfc/rfc155.txt' />
+</reference>

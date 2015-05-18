@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2345'>
+
+<front>
+<title>Domain Names and Company Name Retrieval</title>
+<author initials='J.C.' surname='Klensin' fullname='John C. Klensin'>
+<organization>MCI Internet Architecture</organization>
+<address>
+<postal>
+<street>800 Boylston St, 7th floor</street>
+<city>Boston</city>
+<region>MA</region>
+<code>02199</code>
+<country>USA</country></postal>
+<phone>+1 617 960 1011</phone>
+<email>klensin@mci.net</email></address></author>
+<author initials='T.W.' surname='Jr' fullname='Ted Wolf, Jr.'>
+<organization>Electronic Commerce</organization>
+<address>
+<postal>
+<street>Dun &amp; Bradstreet Information Services</street>
+<street>3 Sylvan Way</street>
+<city>Parsippany</city>
+<region>NJ</region>
+<code>07054</code>
+<country>USA</country></postal>
+<phone>+1 201 605 6308</phone>
+<email>ted@usa.net</email></address></author>
+<author initials='G.W.' surname='Oglesby' fullname='Gary W. Oglesby'>
+<organization>MCI Internet Architecture</organization>
+<address>
+<postal>
+<street>842 N. Ahoy Dr.</street>
+<city>Gilbert</city>
+<region>AZ</region>
+<code>85234</code>
+<country>USA</country></postal>
+<phone>+1 415 538 1100</phone>
+<email>gary@mci.net</email></address></author>
+<date year='1998' month='May' />
+<area>Applications</area>
+<keyword>domain name</keyword>
+<keyword>URL</keyword>
+<abstract>
+<t>
+
+   Location of web information for particular companies based on their
+
+   names has become an increasingly difficult problem as the Internet
+
+   and the web grow.   The use of a naming convention and the domain
+
+   name system (DNS) for that purpose has caused complications for the
+
+   latter while not solving the problem.  While there have been several
+
+   proposals to use contemporary, high-capability, directory service and
+
+   search protocols to reduce the dependencies on DNS conventions, none
+
+   of them have been significantly deployed.
+
+
+</t>
+<t>
+   This document proposes a company name to URL mapping service based on
+
+   the oldest and least complex of Internet directory protocols, whois,
+
+   in order to explore whether an extremely simple and widely-deployed
+
+   protocol can succeed where more complex and powerful options have
+
+   failed or been excessively delayed.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2345' />
+<format type='TXT' octets='29707' target='http://www.rfc-editor.org/rfc/rfc2345.txt' />
+<format type='XML' octets='31309' target='http://xml.resource.org/public/rfc/xml/rfc2345.xml' />
+</reference>

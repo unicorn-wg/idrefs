@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0992'>
+
+<front>
+<title>On communication support for fault tolerant process groups</title>
+<author initials='K.' surname='Birman' fullname='K. P. Birman'>
+<organization>Cornell University, Dept. of Computer Science</organization>
+<address>
+<postal>
+<street />
+<city>Ithaca</city>
+<region>NY</region>
+<code>14853</code>
+<country>US</country></postal>
+<phone>+1 607 255 9199</phone></address></author>
+<author initials='T.' surname='Joseph' fullname='T. A. Joseph'>
+<organization>Cornell University, Dept. of Computer Science</organization>
+<address>
+<postal>
+<street />
+<city>Ithaca</city>
+<region>NY</region>
+<code>14853</code>
+<country>US</country></postal>
+<phone>+1 607 255 9199</phone></address></author>
+<date year='1986' day='1' month='November' /></front>
+
+<seriesInfo name='RFC' value='992' />
+<format type='TXT' octets='52313' target='http://www.rfc-editor.org/rfc/rfc992.txt' />
+</reference>

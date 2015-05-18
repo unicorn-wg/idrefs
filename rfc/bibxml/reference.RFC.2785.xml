@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2785'>
+
+<front>
+<title abbrev='Methods for Avoiding Small-Subgroup  Attacks'>Methods for Avoiding the "Small-Subgroup" Attacks on the Diffie-Hellman Key Agreement Method for S/MIME</title>
+<author initials='R.' surname='Zuccherato' fullname='Robert Zuccherato'>
+<organization>Entrust Technologies</organization>
+<address>
+<postal>
+<street>750 Heron Road</street>
+<city>Ottawa</city>
+<region>Ontario</region>
+<code>K1V 1A7</code>
+<country>CA</country></postal>
+<email>robert.zuccherato@entrust.com</email></address></author>
+<date year='2000' month='March' />
+<abstract>
+<t>In some circumstances the use of the Diffie-Hellman key agreement scheme in a prime order subgroup of a large prime p is vulnerable to certain attacks known as "small-subgroup" attacks.  Methods exist, however, to prevent these attacks.  This document will describe the situations relevant to implementations of S/MIME version 3 in which protection is necessary and the methods that can be used to prevent these attacks.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2785' />
+<format type='TXT' octets='24415' target='http://www.rfc-editor.org/rfc/rfc2785.txt' />
+</reference>

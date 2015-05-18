@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1479'>
+
+<front>
+<title abbrev='IDPR Protocol'>Inter-Domain Policy Routing Protocol Specification: Version 1</title>
+<author initials='M.' surname='Steenstrup' fullname='Martha Steenstrup'>
+<organization>BBN Systems and Technologies</organization>
+<address>
+<postal>
+<street>10 Moulton Street</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal>
+<phone>+1 617 873 3192</phone>
+<email>msteenst@bbn.com</email></address></author>
+<date year='1993' month='July' />
+<abstract>
+<t>We present the set of protocols and procedures that constitute Inter-Domain Policy Routing (IDPR).  IDPR includes the virtual gateway protocol, the flooding protocol, the route server query protocol, the route generation procedure, the path control protocol, and the data message forwarding procedure.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1479' />
+<format type='TXT' octets='275823' target='http://www.rfc-editor.org/rfc/rfc1479.txt' />
+</reference>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2106'>
+
+<front>
+<title abbrev='DLSRAP'>Data Link Switching Remote Access Protocol</title>
+<author initials='S.T.' surname='Chiang' fullname='Steve T. Chiang'>
+<organization>InterWorks Business Unit</organization>
+<address>
+<postal>
+<street>Cisco Systems</street>
+<street>Inc.</street>
+<street>170 Tasman Drive</street>
+<street>San Jose</street>
+<street>CA 95134</street></postal>
+<phone>(408) 526-5189</phone>
+<email>schiang@cisco.com</email></address></author>
+<author initials='J.S.' surname='Lee' fullname='Joseph S. Lee'>
+<organization>InterWorks Business Unit</organization>
+<address>
+<postal>
+<street>Cisco Systems</street>
+<street>Inc.</street>
+<street>170 Tasman Drive</street>
+<street>San Jose</street>
+<street>CA 95134</street></postal>
+<phone>(408) 526-5232</phone>
+<email>jolee@cisco.com</email></address></author>
+<author initials='H.' surname='Yasuda' fullname='Hideaki Yasuda'>
+<organization>System Product Center</organization>
+<address>
+<postal>
+<street>Network Products Department</street>
+<street>Network Software Products Section B</street>
+<street>Mitsubishi Electric Corp.</street>
+<street>Information Systems Engineering Center</street>
+<street>325</street>
+<street>Kamimachiya Kamakura Kanagawa 247</street>
+<country>Japan</country></postal>
+<phone>+81-467-47-2120</phone>
+<email>yasuda@eme068.cow.melco.co.jp</email></address></author>
+<date year='1997' month='February' />
+<area>Routing</area>
+<keyword>DLSRAP</keyword>
+<keyword>SNA/NetBIOS</keyword>
+<keyword>data link</keyword>
+<abstract>
+<t>
+   This memo describes the Data Link Switching Remote Access Protocol
+   that is used between workstations and routers to transport SNA/
+   NetBIOS traffic over TCP sessions. Any questions or comments should
+   be sent to drap@cisco.com.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2106' />
+<format type='TXT' octets='40819' target='http://www.rfc-editor.org/rfc/rfc2106.txt' />
+<format type='XML' octets='41801' target='http://xml.resource.org/public/rfc/xml/rfc2106.xml' />
+</reference>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2372'>
+
+<front>
+<title abbrev='TIP'>Transaction Internet Protocol - Requirements and Supplemental Information</title>
+<author initials='K.' surname='Evans' fullname='Keith Evans'>
+<organization>Tandem Computers Inc, LOC 252-30</organization>
+<address>
+<postal>
+<street>5425 Stevens Creek Blvd</street>
+<street>Santa Clara</street>
+<street>CA 95051-7200</street>
+<country>USA</country></postal>
+<phone>+1 (408) 285 5314</phone>
+<facsimile>+1 (408) 285 5245</facsimile>
+<email>Keith.Evans@Tandem.Com</email></address></author>
+<author initials='J.' surname='Klein' fullname='Johannes Klein'>
+<organization>Tandem Computers Inc.</organization>
+<address>
+<postal>
+<street>10555 Ridgeview Court</street>
+<street>Cupertino</street>
+<street>CA 95014-0789</street>
+<country>USA</country></postal>
+<phone>+1 (408) 285 0453</phone>
+<facsimile>+1 (408) 285 9818</facsimile>
+<email>Johannes.Klein@Tandem.Com</email></address></author>
+<author initials='J.' surname='Lyon' fullname='Jim Lyon'>
+<organization>Microsoft Corporation</organization>
+<address>
+<postal>
+<street>One Microsoft Way</street>
+<street>Redmond</street>
+<street>WA  98052-6399</street>
+<country>USA</country></postal>
+<phone>+1 (206) 936 0867</phone>
+<facsimile>+1 (206) 936 7329</facsimile>
+<email>JimLyon@Microsoft.Com</email></address></author>
+<date year='1998' month='July' />
+<area>Applications</area>
+<keyword>transaction</keyword>
+<abstract>
+<t>
+   This document describes the purpose (usage scenarios), and
+   requirements for the Transaction Internet Protocol . It is
+   intended to help qualify the necessary features and functions of the
+   protocol. It also provides supplemental information to aid
+   understanding and facilitate implementation of the TIP protocol.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2372' />
+<format type='TXT' octets='53699' target='http://www.rfc-editor.org/rfc/rfc2372.txt' />
+<format type='XML' octets='51926' target='http://xml.resource.org/public/rfc/xml/rfc2372.xml' />
+</reference>

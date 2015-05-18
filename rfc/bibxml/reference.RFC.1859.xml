@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1859'>
+
+<front>
+<title abbrev='ISO Transport and Flow Control'>ISO Transport Class 2 Non-use of Explicit Flow Control over TCP RFC1006 extension</title>
+<author initials='Y.' surname='Pouffary' fullname='Yanick Pouffary'>
+<organization>Digital Equipment Corporation, End Systems Networking,  Centre Technique (Europe)</organization>
+<address>
+<postal>
+<street>950 Routes des colles</street>
+<street>B.P. 027</street>
+<city>Sophia antipolis</city>
+<region />
+<code>06901</code>
+<country>FR</country></postal>
+<phone>+33 92 956285</phone>
+<facsimile>+33 92 956232</facsimile>
+<email>pouffary@taec.enet.dec.com</email></address></author>
+<date year='1995' month='October' /></front>
+
+<seriesInfo name='RFC' value='1859' />
+<format type='TXT' octets='14572' target='http://www.rfc-editor.org/rfc/rfc1859.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0410'>
+
+<front>
+<title>Removal of the 30-Second Delay When Hosts Come Up</title>
+<author initials='J.' surname='McQuillan' fullname='John M. McQuillan'>
+<organization>Bolt Beranek and Newman (BBN)</organization></author>
+<date year='1972' day='10' month='November' />
+<abstract>
+<t>The IMP currently delays accepting input from a Host for 30 seconds after the Host has come up.  This delay serves to allow the fact that the Host is up to propagate through the network.</t></abstract></front>
+
+<seriesInfo name='RFC' value='410' />
+<format type='TXT' octets='3964' target='http://www.rfc-editor.org/rfc/rfc410.txt' />
+</reference>

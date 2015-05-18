@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0518'>
+
+<front>
+<title>ARPANET accounts</title>
+<author initials='N.' surname='Vaughan' fullname='N. Vaughan'>
+<organization /></author>
+<author initials='E.J.' surname='Feinler' fullname='E.J. Feinler'>
+<organization /></author>
+<date year='1973' month='June' /></front>
+
+<seriesInfo name='RFC' value='518' />
+<format type='TXT' octets='12880' target='http://www.rfc-editor.org/rfc/rfc518.txt' />
+</reference>

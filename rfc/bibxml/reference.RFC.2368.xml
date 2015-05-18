@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2368'>
+
+<front>
+<title>The mailto URL scheme</title>
+<author initials='P.E.' surname='Hoffman' fullname='Paul E. Hoffman'>
+<organization>Internet Mail Consortium</organization>
+<address>
+<postal>
+<street>127 Segre Place</street>
+<street>Santa Cruz</street>
+<street>CA  95060</street>
+<country>USA</country></postal>
+<email>phoffman@imc.org</email></address></author>
+<author initials='L.' surname='Masinter' fullname='Larry Masinter'>
+<organization>Xerox Corporation</organization>
+<address>
+<postal>
+<street>3333 Coyote Hill Road</street>
+<street>Palo Alto</street>
+<street>CA 94304</street>
+<country>USA</country></postal>
+<email>masinter@parc.xerox.com</email></address></author>
+<author initials='J.' surname='Zawinski' fullname='Jamie Zawinski'>
+<organization>Netscape Communications Corp.</organization>
+<address>
+<postal>
+<street>501 East Middlefield Road</street>
+<street>Mountain View</street>
+<street>CA 94043</street>
+<country>USA</country></postal>
+<email>jwz@netscape.com</email></address></author>
+<date year='1998' month='July' />
+<area>Applications</area>
+<keyword>mailto</keyword>
+<keyword>mail</keyword>
+<keyword>uniform resource locator</keyword>
+<keyword>URL</keyword>
+<abstract>
+<t>
+   This document defines the format of Uniform Resource Locators (URL)
+   for designating electronic mail addresses. It is one of a suite of
+   documents which replace RFC 1738, &apos;Uniform Resource Locators&apos;, and
+   RFC 1808, &apos;Relative Uniform Resource Locators&apos;. The syntax of
+   &apos;mailto&apos; URLs from RFC 1738 is extended to allow creation of more RFC
+   822 messages by allowing the URL to express additional header and
+   body fields.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2368' />
+<format type='TXT' octets='16502' target='http://www.rfc-editor.org/rfc/rfc2368.txt' />
+<format type='XML' octets='17465' target='http://xml.resource.org/public/rfc/xml/rfc2368.xml' />
+</reference>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1132'>
+
+<front>
+<title abbrev='802.2 Packets over IPX Networks'>Standard for the transmission of 802.2 packets over IPX networks</title>
+<author initials='L.' surname='McLaughlin' fullname='Leo J. McLaughlin III'>
+<organization>The Wollongong Group</organization>
+<address>
+<postal>
+<street>1129 San Antonio Road</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94303</code>
+<country>US</country></postal>
+<phone>+1 415 962 7100</phone>
+<email>ljm@TWG.COM</email></address></author>
+<date year='1989' day='1' month='November' /></front>
+
+<seriesInfo name='STD' value='49' />
+<seriesInfo name='RFC' value='1132' />
+<format type='TXT' octets='8128' target='http://www.rfc-editor.org/rfc/rfc1132.txt' />
+</reference>

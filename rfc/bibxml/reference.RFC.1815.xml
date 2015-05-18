@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1815'>
+
+<front>
+<title>Character Sets ISO-10646 and ISO-10646-J-1</title>
+<author initials='M.' surname='Ohta' fullname='Masataka Ohta'>
+<organization>Tokyo Institute of Technology</organization>
+<address>
+<postal>
+<street>2-12-1, O-okayama</street>
+<street>Meguro-ku</street>
+<city>Tokyo</city>
+<region />
+<code>152</code>
+<country>JP</country></postal>
+<phone>+81 3 54997084</phone>
+<facsimile>+81 3 37291940</facsimile>
+<email>mohta@cc.titech.ac.jp</email></address></author>
+<date year='1995' month='July' />
+<abstract>
+<t>Though the ISO character set standard of ISO 10646 is specified reasonably well about European characters, it is not so useful in an fully internationalized environment.</t>
+<t>For the practical use of ISO 10646, a lot of external profiling such as restriction of characters, restriction of combination of characters and addition of language information is necessary.</t>
+<t>This memo provides information on such profiling, along with charset names to each profiled instance.</t>
+<t>Though all the effort is done to make the resulting charset as useful 10646 based charset as possible, the result is not so good.  So, the charsets defined in this memo are only for reference purpose and its use for practical purpose is strongly discouraged.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1815' />
+<format type='TXT' octets='11823' target='http://www.rfc-editor.org/rfc/rfc1815.txt' />
+</reference>

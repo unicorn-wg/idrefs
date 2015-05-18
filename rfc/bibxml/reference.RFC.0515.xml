@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0515'>
+
+<front>
+<title>Specifications for Datalanguage, Version 0/9</title>
+<author initials='R.' surname='Winter' fullname='R. Winter'>
+<organization /></author>
+<date year='1973' month='June' /></front>
+
+<seriesInfo name='RFC' value='515' />
+<format type='TXT' octets='60557' target='http://www.rfc-editor.org/rfc/rfc515.txt' />
+</reference>

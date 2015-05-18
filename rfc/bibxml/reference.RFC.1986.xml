@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1986'>
+
+<front>
+<title>Experiments with a Simple File Transfer Protocol for Radio Links using Enhanced Trivial File Transfer Protocol (ETFTP)</title>
+<author initials='W.J.' surname='Polites' fullname='William J. Polites'>
+<organization>The Mitre Corporation</organization>
+<address>
+<postal>
+<street>145 Wyckoff Rd.</street>
+<city>Eatontown</city>
+<region>NJ</region>
+<code>07724</code>
+<country>US</country></postal>
+<phone>+1 908 544 1414</phone>
+<email>wpolites@mitre.org</email></address></author>
+<author initials='W.' surname='Wollman' fullname='William Wollman'>
+<organization>The Mitre Corporation</organization>
+<address>
+<postal>
+<street>145 Wyckoff Rd.</street>
+<city>Eatontown</city>
+<region>NJ</region>
+<code>07724</code>
+<country>US</country></postal>
+<phone>+1 908 544 1414</phone>
+<email>wwollman@mitre.org</email></address></author>
+<author initials='D.' surname='Woo' fullname='David Woo'>
+<organization>The Mitre Corporation</organization>
+<address>
+<postal>
+<street>145 Wyckoff Rd.</street>
+<city>Eatontown</city>
+<region>NJ</region>
+<code>07724</code>
+<country>US</country></postal>
+<phone>+1 908 544 1414</phone>
+<email>dwoo@mitre.org</email></address></author>
+<author initials='R.' surname='Langan' fullname='Russ Langan'>
+<organization>U.S. Army Communications Electronics Command (CECOM)</organization>
+<address>
+<postal>
+<street>AMSEL-RD-ST-SP</street>
+<street>ATTN: Russell Langan</street>
+<city>Fort Monmouth</city>
+<region>NJ</region>
+<code>07703</code>
+<country>US</country></postal>
+<phone>+1 908 427 2064</phone>
+<facsimile>+1 908 427 2822</facsimile>
+<email>langanr@doim6.monmouth.army.mil</email></address></author>
+<date year='1996' month='August' /></front>
+
+<seriesInfo name='RFC' value='1986' />
+<format type='TXT' octets='49772' target='http://www.rfc-editor.org/rfc/rfc1986.txt' />
+</reference>

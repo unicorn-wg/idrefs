@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1934'>
+
+<front>
+<title abbrev='Multilink Protocol Plus'>Ascend's Multilink Protocol Plus (MP+)</title>
+<author initials='K.' surname='Smith' fullname='Kevin Smith'>
+<organization>Ascend Communications</organization>
+<address>
+<postal>
+<street>1275 Harbor Bay Parkway</street>
+<city>Alameda</city>
+<region>CA</region>
+<code>94502</code>
+<country>US</country></postal>
+<phone>+1 510 769 6001</phone>
+<facsimile>+1 510 814 2300</facsimile>
+<email>ksmith@ascend.com</email></address></author>
+<date year='1996' month='April' />
+<abstract>
+<t>This document proposes an extension to the PPP Multilink Protocol (MP). Multilink Protocol Plus (MP+) is a new control protocol for managing multiple data links that are bundled by MP.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1934' />
+<format type='TXT' octets='87072' target='http://www.rfc-editor.org/rfc/rfc1934.txt' />
+</reference>

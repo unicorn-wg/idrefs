@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0303'>
+
+<front>
+<title>ARPA Network mailing lists</title>
+<author>
+<organization /></author>
+<date year='1972' day='3' month='March' />
+<abstract>
+<t>The following are three lists to be used for distribution of Network documents.</t></abstract></front>
+
+<seriesInfo name='RFC' value='303' />
+<format type='TXT' octets='18193' target='http://www.rfc-editor.org/rfc/rfc303.txt' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1033'>
+
+<front>
+<title abbrev='DOMAIN OPERATIONS GUIDE'>Domain administrators operations guide</title>
+<author initials='M.' surname='Lottor' fullname='M. Lottor'>
+<organization>SRI International</organization></author>
+<date year='1987' day='1' month='November' /></front>
+
+<seriesInfo name='RFC' value='1033' />
+<format type='TXT' octets='37263' target='http://www.rfc-editor.org/rfc/rfc1033.txt' />
+</reference>

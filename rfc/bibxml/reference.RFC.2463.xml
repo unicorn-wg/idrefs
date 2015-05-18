@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2463'>
+
+<front>
+<title abbrev='ICMPv6 (ICMP for IPv6)'>Internet Control Message Protocol (ICMPv6) for the Internet Protocol Version 6 (IPv6) Specification</title>
+<author initials='A.' surname='Conta' fullname='Alex Conta'>
+<organization>Lucent Technologies Inc.</organization>
+<address>
+<postal>
+<street>300 Baker Ave</street>
+<street>Suite 100</street>
+<city>Concord</city>
+<region>MA</region>
+<code>01742</code>
+<country>USA</country></postal>
+<phone>+1 978 287 2842</phone>
+<email>aconta@lucent.com</email></address></author>
+<author initials='S.' surname='Deering' fullname='Stephen Deering'>
+<organization>Cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134-1706</code>
+<country>USA</country></postal>
+<phone>+1 408 527 8213</phone>
+<email>deering@cisco.com</email></address></author>
+<date year='1998' month='December' />
+<area>Internet</area>
+<keyword>internet control message protocol</keyword>
+<keyword>internet protocol version 6</keyword>
+<keyword>ICMP</keyword>
+<keyword>IPv6</keyword>
+<abstract>
+<t>
+   This document specifies a set of Internet Control Message Protocol
+   (ICMP) messages for use with version 6 of the Internet Protocol
+   (IPv6).
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2463' />
+<format type='TXT' octets='34190' target='http://www.rfc-editor.org/rfc/rfc2463.txt' />
+<format type='HTML' octets='55346' target='http://xml.resource.org/public/rfc/html/rfc2463.html' />
+<format type='XML' octets='45015' target='http://xml.resource.org/public/rfc/xml/rfc2463.xml' />
+</reference>

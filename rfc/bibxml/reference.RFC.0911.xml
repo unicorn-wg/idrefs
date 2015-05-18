@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0911'>
+
+<front>
+<title>EGP Gateway under Berkeley UNIX 4.2</title>
+<author initials='P.' surname='Kirton' fullname='Paul Kirton'>
+<organization>University of Southern California (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<date year='1984' day='22' month='August' />
+<abstract>
+<t>This  report  describes an implementation of the Exterior Gateway Protocol that runs under the Unix 4.2 BSD operating system.  Some  issues  related  to  local network configurations are also discussed.</t></abstract></front>
+
+<seriesInfo name='RFC' value='911' />
+<format type='TXT' octets='55908' target='http://www.rfc-editor.org/rfc/rfc911.txt' />
+</reference>

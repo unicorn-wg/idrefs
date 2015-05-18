@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1091'>
+
+<front>
+<title>Telnet terminal-type option</title>
+<author initials='J.' surname='VanBokkelen' fullname='James VanBokkelen'>
+<organization>FTP Software, Inc.</organization>
+<address>
+<postal>
+<street>26 Princess Street</street>
+<city>Wakefield</city>
+<region>MA</region>
+<code>01880-3004</code>
+<country>US</country></postal>
+<phone>+1 617 246 0900</phone>
+<email>jbvb@ftp.com</email></address></author>
+<date year='1989' day='1' month='February' /></front>
+
+<seriesInfo name='RFC' value='1091' />
+<format type='TXT' octets='13439' target='http://www.rfc-editor.org/rfc/rfc1091.txt' />
+</reference>

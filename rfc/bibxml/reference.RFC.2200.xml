@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2200'>
+
+<front>
+<title>INTERNET OFFICIAL PROTOCOL STANDARDS</title>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<street>Marina del Rey</street>
+<street>CA 90292</street></postal>
+<phone>310-822-1511</phone>
+<facsimile>310-823-6714</facsimile>
+<email>Postel@ISI.EDU</email></address></author>
+<date year='1997' month='June' />
+<keyword>Internet Architecture Board</keyword>
+<keyword>official internet protocol</keyword></front>
+
+<seriesInfo name='STD' value='1' />
+<seriesInfo name='RFC' value='2200' />
+<format type='TXT' octets='94506' target='http://www.rfc-editor.org/rfc/rfc2200.txt' />
+<format type='HTML' octets='114757' target='http://xml.resource.org/public/rfc/html/rfc2200.html' />
+<format type='XML' octets='91137' target='http://xml.resource.org/public/rfc/xml/rfc2200.xml' />
+</reference>

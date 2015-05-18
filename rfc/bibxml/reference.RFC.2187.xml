@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2187'>
+
+<front>
+<title abbrev='ICP Application'>Application of Internet Cache Protocol (ICP), version 2</title>
+<author initials='D.' surname='Wessels' fullname='Duane Wessels'>
+<organization>National Laboratory for Applied Network Research</organization>
+<address>
+<postal>
+<street>10100 Hopkins Drive</street>
+<street>La Jolla</street>
+<street>CA 92093</street></postal>
+<email>wessels@nlanr.net</email></address></author>
+<author initials='K.' surname='Claffy' fullname='K. Claffy'>
+<organization>National Laboratory for Applied Network Research</organization>
+<address>
+<postal>
+<street>10100 Hopkins Drive</street>
+<street>La Jolla</street>
+<street>CA 92093</street></postal>
+<email>kc@nlanr.net</email></address></author>
+<date year='1997' month='September' />
+<area>Applications</area>
+<keyword>cache</keyword>
+<keyword>world wide web</keyword>
+<abstract>
+<t>
+   This document describes the application of ICPv2 (Internet Cache
+   Protocol version 2, RFC2186) to Web caching.  ICPv2 is a lightweight
+   message format used for communication among Web caches.  Several
+   independent caching implementations now use ICP[3,5], making it
+   important to codify the existing practical uses of ICP for those
+   trying to implement, deploy, and extend its use.
+</t>
+<t>
+   ICP queries and replies refer to the existence of URLs (or objects)
+   in neighbor caches.  Caches exchange ICP messages and use the
+   gathered information to select the most appropriate location from
+   which to retrieve an object.  A companion document (RFC2186)
+   describes the format and syntax of the protocol itself.  In this
+   document we focus on issues of ICP deployment, efficiency, security,
+   and interaction with other aspects of Web traffic behavior.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2187' />
+<format type='TXT' octets='51662' target='http://www.rfc-editor.org/rfc/rfc2187.txt' />
+<format type='XML' octets='54407' target='http://xml.resource.org/public/rfc/xml/rfc2187.xml' />
+</reference>

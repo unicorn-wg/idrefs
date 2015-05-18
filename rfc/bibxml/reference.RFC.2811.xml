@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2811'>
+
+<front>
+<title>Internet Relay Chat: Channel Management</title>
+<author initials='C.' surname='Kalt' fullname='C. Kalt'>
+<organization /></author>
+<date year='2000' month='April' />
+<abstract>
+<t>This document specifies how channels, their characteristics and properties are managed by IRC servers.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2811' />
+<format type='TXT' octets='40788' target='http://www.rfc-editor.org/rfc/rfc2811.txt' />
+</reference>

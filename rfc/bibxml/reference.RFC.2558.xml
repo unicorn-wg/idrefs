@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2558'>
+
+<front>
+<title abbrev='SONET/SDH Objects'>Definitions of Managed Objects for the SONET/SDH Interface Type</title>
+<author initials='K.' surname='Tesink' fullname='Kaj Tesink'>
+<organization>Telcordia Technologies</organization>
+<address>
+<postal>
+<street>331 Newman Springs Road</street>
+<street>P.O. Box 7020</street>
+<city>Red Bank</city>
+<region>NJ</region>
+<code>07701-7020</code>
+<country>US</country></postal>
+<phone>+1 732 758 5254</phone>
+<email>kaj@research.telcordia.com</email></address></author>
+<date year='1999' month='March' />
+<abstract>
+<t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets. In particular, it defines objects for managing Synchronous Optical Network/Synchronous Digital Hierarchy (SONET/SDH) interfaces. This document is a companion to the documents that define Managed Objects for the DS1/E1/DS2/E2 and DS3/E3 Interface Types \\,.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2558' />
+<format type='TXT' octets='138550' target='http://www.rfc-editor.org/rfc/rfc2558.txt' />
+</reference>

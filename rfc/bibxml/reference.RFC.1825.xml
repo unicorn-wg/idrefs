@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1825'>
+
+<front>
+<title abbrev='Security Architecture for IP'>Security Architecture for the Internet Protocol</title>
+<author initials='R.' surname='Atkinson' fullname='Randall Atkinson'>
+<organization>Naval Research Laboratory, Information Technology Division</organization>
+<address>
+<postal>
+<street />
+<city>Washington</city>
+<region>DC</region>
+<code>20375-5320</code>
+<country>US</country></postal>
+<phone>+1 202 767 2389</phone>
+<facsimile>+1 202 404 8590</facsimile>
+<email>atkinson@itd.nrl.navy.mil</email></address></author>
+<date year='1995' month='August' />
+<abstract>
+<t></t></abstract></front>
+
+<seriesInfo name='RFC' value='1825' />
+<format type='TXT' octets='56772' target='http://www.rfc-editor.org/rfc/rfc1825.txt' />
+</reference>

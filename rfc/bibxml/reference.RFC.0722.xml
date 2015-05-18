@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0722'>
+
+<front>
+<title>Thoughts on Interactions in Distributed Services</title>
+<author initials='J.' surname='Haverty' fullname='Jack Haverty'>
+<organization>Massachusetts Institute of Technology (MIT)</organization></author>
+<date year='1976' day='16' month='September' />
+<abstract>
+<t>This paper addresses some issues concerned with the design of distributed services.  In particular, it is concerned with the characteristics of the interactions, between programs which support some service at various network sites.  The ideas presented are derived mainly from experience with various service protocolson the ARPANET.</t>
+<t>A model is developed of interactions between programs. Salient features of this model which promote and simplify the construction of reliable, responsive services are identified.  These dualities are motivated by problems experienced with various ARPANET protocols and in the design and maintenance of programs which use these protocols in the performance of some service.</t>
+<t>Using this model as a template, the general architecture of one possible interaction protocol is presented.  This mechanism provides a foundation on which protocols would be constructed for particular services, simplifying the process of creating services which are easy to implement and maintain, and appear reliable and responsive to the customer.  This presentation is meant to serve as an introduction to a specific instance of such a protocol, called the RRP, which is defined in one of the references.</t></abstract></front>
+
+<seriesInfo name='RFC' value='722' />
+<format type='TXT' octets='29478' target='http://www.rfc-editor.org/rfc/rfc722.txt' />
+</reference>

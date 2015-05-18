@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2052'>
+
+<front>
+<title abbrev='DNS SRV RR'>A DNS RR for specifying the location of services (DNS SRV)</title>
+<author initials='A.' surname='Gulbrandsen' fullname='Arnt Gulbrandsen'>
+<organization>Troll Tech</organization>
+<address>
+<postal>
+<street>Postboks 6133 Etterstad</street>
+<city>Oslo</city>
+<code>N-0602</code>
+<country>NO</country></postal>
+<phone>+47 22 646966</phone>
+<email>agulbra@troll.no</email></address></author>
+<author initials='P.' surname='Vixie' fullname='Paul Vixie'>
+<organization>Vixie Enterprises</organization>
+<address>
+<postal>
+<street>Star Route 159A</street>
+<city>Woodside</city>
+<region>CA</region>
+<code>94062</code>
+<country>US</country></postal>
+<phone>+1 415 747 0204</phone>
+<email>paul@vix.com</email></address></author>
+<date year='1996' month='October' />
+<abstract>
+<t>This document describes a DNS RR which specifies the location of the server(s) for a specific protocol and domain (like a more general form of MX).</t></abstract></front>
+
+<seriesInfo name='RFC' value='2052' />
+<format type='TXT' octets='19257' target='http://www.rfc-editor.org/rfc/rfc2052.txt' />
+</reference>

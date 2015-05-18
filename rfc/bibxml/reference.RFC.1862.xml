@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1862'>
+
+<front>
+<title abbrev='IAB Workshop Report'>Report of the IAB Workshop on Internet Information Infrastructure, October 12-14, 1994</title>
+<author initials='M.' surname='McCahill' fullname='Mark McCahill'>
+<organization>University of Minnesota, Shepherd Labs</organization>
+<address>
+<postal>
+<street>100 Union Street SE</street>
+<street>room 190</street>
+<city>Minneapolis</city>
+<region>MN</region>
+<code>55455</code>
+<country>US</country></postal>
+<email>mpm@boombox.micro.umn.edu</email></address></author>
+<author initials='J.' surname='Romkey' fullname='John Romkey'>
+<organization />
+<address>
+<postal>
+<street>1770 Massachusetts Ave. #331</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02140</code>
+<country>US</country></postal>
+<email>romkey@apocalypse.org</email></address></author>
+<author initials='M.' surname='Schwartz' fullname='Michael F.  Schwartz'>
+<organization>University of Colorado, Department of Computer Science</organization>
+<address>
+<postal>
+<street />
+<city>Boulder</city>
+<region>CO</region>
+<code>80309-0430</code>
+<country>US</country></postal>
+<email>schwartz@cs.colorado.edu</email></address></author>
+<author initials='K.' surname='Sollins' fullname='Karen Sollins'>
+<organization>MIT Laboratory for Computer Science</organization>
+<address>
+<postal>
+<street>545 Technology Square</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02139-1986</code>
+<country>US</country></postal>
+<email>sollins@lcs.mit.edu</email></address></author>
+<author initials='T.' surname='Verschuren' fullname='Ton Verschuren'>
+<organization>SURFNet</organization>
+<address>
+<postal>
+<street>P.O. Box 19035</street>
+<street>3501 DA Utrecht</street>
+<country>NL</country></postal>
+<email>Ton.Verschuren@surfnet.nl</email></address></author>
+<author initials='C.' surname='Weider' fullname='Chris Weider'>
+<organization>Bunyip Information Systems</organization>
+<address>
+<postal>
+<street>310 St. Catherine St. West</street>
+<street>Suite 300</street>
+<city>Montreal</city>
+<region>Quebec</region>
+<code>H2A 2X1</code>
+<country>CA</country></postal>
+<email>clw@bunyip.com</email></address></author>
+<date year='1995' month='November' />
+<abstract>
+<t>This document is a report on an Internet architecture workshop, initiated by the IAB and held at MCI on October 12-14, 1994.  This workshop generally focused on aspects of the information infrastructure on the Internet.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1862' />
+<format type='TXT' octets='62483' target='http://www.rfc-editor.org/rfc/rfc1862.txt' />
+</reference>

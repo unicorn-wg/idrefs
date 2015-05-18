@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2073'>
+
+<front>
+<title abbrev='IPv6 Provider-Based Unicast Address Format'>An IPv6 Provider-Based Unicast Address Format</title>
+<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
+<organization>Cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134-1706</code>
+<country>US</country></postal>
+<phone>+1 914 528 0090</phone>
+<email>yakov@cisco.com</email></address></author>
+<author initials='P.' surname='Lothberg' fullname='Peter Lothberg'>
+<organization>STUPI.AB</organization>
+<address>
+<postal>
+<street>Box 9129</street>
+<city>Stockholm</city>
+<region />
+<code>S-102 72</code>
+<country>SE</country></postal>
+<phone>+46 8 6699720</phone>
+<email>roll@Stupi.SE</email></address></author>
+<author initials='R.' surname='Hinden' fullname='Robert M. Hinden'>
+<organization>Ipsilon Networks, Inc.</organization>
+<address>
+<postal>
+<street>2191 E. Bayshore Road</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94303</code>
+<country>US</country></postal>
+<phone>+1 415 846 4604</phone>
+<email>hinden@ipsilon.com</email></address></author>
+<author initials='S.' surname='Deering' fullname='Stephen E. Deering'>
+<organization>Xerox Palo Alto Research Center</organization>
+<address>
+<postal>
+<street>3333 Coyote Hill Road</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94304</code>
+<country>US</country></postal>
+<phone>+1 415 812 4839</phone>
+<facsimile>+1 415 812 4471</facsimile>
+<email>deering@parc.xerox.com</email></address></author>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>USC, Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292-6695</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511</phone>
+<facsimile>+1 310 823 6714</facsimile>
+<email>postel@isi.edu</email></address></author>
+<date year='1997' month='January' />
+<abstract>
+<t></t></abstract></front>
+
+<seriesInfo name='RFC' value='2073' />
+<format type='TXT' octets='15549' target='http://www.rfc-editor.org/rfc/rfc2073.txt' />
+</reference>

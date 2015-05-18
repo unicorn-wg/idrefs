@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1889'>
+
+<front>
+<title abbrev='RTP'>RTP: A Transport Protocol for Real-Time Applications</title>
+<author initials='H.' surname='Schulzrinne' fullname='Henning Schulzrinne'>
+<organization>GMD Fokus</organization>
+<address>
+<postal>
+<street>Hardenbergplatz 2</street>
+<city>Berlin</city>
+<region />
+<code>D-10623</code>
+<country>DE</country></postal>
+<email>schulzrinne@fokus.gmd.de</email></address></author>
+<author initials='S.' surname='Casner' fullname='Stephen L. Casner'>
+<organization>Precept Software, Inc.</organization>
+<address>
+<postal>
+<street>21580 Stevens Creek Boulevard</street>
+<street>Suite 207</street>
+<city>Cupertino</city>
+<region>CA</region>
+<code>95014</code>
+<country>US</country></postal>
+<email>casner@precept.com</email></address></author>
+<author initials='R.' surname='Frederick' fullname='Ron Frederick'>
+<organization>Xerox Palo Alto Research Center</organization>
+<address>
+<postal>
+<street>3333 Coyote Hill Road</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94304</code>
+<country>US</country></postal>
+<email>frederic@parc.xerox.com</email></address></author>
+<author initials='V.' surname='Jacobson' fullname='Van Jacobson'>
+<organization>Lawrence Berkeley National Laboratory</organization>
+<address>
+<postal>
+<street>MS 46a-1121</street>
+<city>Berkeley</city>
+<region>CA</region>
+<code>94720</code>
+<country>US</country></postal>
+<email>van@ee.lbl.gov</email></address></author>
+<date year='1996' month='January' />
+<abstract>
+<t>This memorandum describes RTP, the real-time transport protocol. RTP provides end-to-end network transport functions suitable for applications transmitting real-time data, such as audio, video or simulation data, over multicast or unicast network services. RTP does not address resource reservation and does not guarantee quality-of- service for real-time services. The data transport is augmented by a control protocol (RTCP) to allow monitoring of the data delivery in a manner scalable to large multicast networks, and to provide minimal control and identification functionality. RTP and RTCP are designed to be independent of the underlying transport and network layers. The protocol supports the use of RTP-level translators and mixers.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1889' />
+<format type='TXT' octets='188544' target='http://www.rfc-editor.org/rfc/rfc1889.txt' />
+</reference>

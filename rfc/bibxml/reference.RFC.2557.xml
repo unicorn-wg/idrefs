@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2557'>
+
+<front>
+<title abbrev='MIME Encapsulation of Aggregate Documents'>MIME Encapsulation of Aggregate Documents, such as HTML (MHTML)</title>
+<author initials='F.' surname='Palme' fullname='Jacob Palme'>
+<organization>Stockholm University and KTH</organization>
+<address>
+<postal>
+<street>Electrum 230</street>
+<street>S-164 40 Kista</street>
+<country>SE</country></postal>
+<phone>+46 8 161667</phone>
+<facsimile>+46 8 7830829</facsimile>
+<email>jpalme@dsv.su.se</email></address></author>
+<author initials='A.' surname='Hopmann' fullname='Alex Hopmann'>
+<organization>Microsoft Corporation</organization>
+<address>
+<postal>
+<street>One Microsoft Way</street>
+<city>Redmond</city>
+<region>WA</region>
+<code>98052</code>
+<country>US</country></postal>
+<phone>+1 425 703 8238</phone>
+<email>alexhop@microsoft.com</email></address></author>
+<author initials='N.' surname='Shelness' fullname='Nick Shelness'>
+<organization>Lotus Development Corporation</organization>
+<address>
+<postal>
+<street>55 Cambridge Parkway</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02142-1295</code>
+<country>US</country></postal>
+<email>Shelness@lotus.com</email></address></author>
+<author initials='E.' surname='Stefferud' fullname='Einar Stefferud'>
+<organization />
+<address>
+<email>stef@nma.com</email></address></author>
+<date year='1999' month='March' />
+<abstract>
+<t>HTMLdefines a powerful means of specifying multimedia documents. These multimedia documents consist of a text/html root resource (object) and other subsidiary resources (image, video clip, applet, etc. objects) referenced by Uniform Resource Identifiers (URIs) within the text/html root resource. When an HTML multimedia document is retrieved by a browser, each of these component resources is individually retrieved in real time from a location, and using a protocol, specified by each URI.</t>
+<t>In order to transfer a complete HTML multimedia document in a single e-mail message, it is necessary to: a) aggregate a text/html root resource and all of the subsidiary resources it references into a single composite message structure, and b) define a means by which URIs in the text/html root can reference subsidiary resources within that composite message structure.</t>
+<t>This document a) defines the use of a MIME multipart/related structure to aggregate a text/html root resource and the subsidiary resources it references, and b) specifies a MIME content-header (Content-Location) that allow URIs in a multipart/related text/html root body part to reference subsidiary resources in other body parts of the same multipart/related structure.</t>
+<t>While initially designed to support e-mail transfer of complete multi-resource HTML multimedia documents, these conventions can also be employed to resources retrieved by other transfer protocols such as HTTP and FTP to retrieve a complete multi-resource HTML multimedia document in a single transfer or for storage and archiving of complete HTML-documents.</t>
+<t>Differences between this and a previous version of this standard, which was published as RFC 2110, are summarized in chapter 12.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2557' />
+<format type='TXT' octets='61854' target='http://www.rfc-editor.org/rfc/rfc2557.txt' />
+</reference>

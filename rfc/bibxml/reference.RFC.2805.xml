@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2805'>
+
+<front>
+<title>Media Gateway Control Protocol Architecture and Requirements</title>
+<author initials='N.' surname='Greene' fullname='Nancy Greene'>
+<organization>Nortel Networks</organization>
+<address>
+<postal>
+<street>P.O. Box 3511 Stn C</street>
+<city>Ottawa</city>
+<region>Ontario</region>
+<code />
+<country>CA</country></postal>
+<phone>+1 514 271 7221</phone>
+<email>ngreene@nortelnetworks.com</email></address></author>
+<author initials='M.' surname='Ramalho' fullname='Michael Ramalho'>
+<organization>Cisco Systems</organization>
+<address>
+<postal>
+<street>1802 Rue de la Port</street>
+<city>Belmar</city>
+<region>NJ</region>
+<code>07719</code>
+<country>US</country></postal>
+<phone>+1 732 449 5762</phone>
+<email>mramalho@cisco.com</email></address></author>
+<author initials='B.' surname='Rosen' fullname='B. Rosen'>
+<organization>Marconi</organization>
+<address>
+<postal>
+<street>1000 ORE Drive</street>
+<city>Warrendale</city>
+<region>PA</region>
+<code>15086</code>
+<country>US</country></postal>
+<phone>+1 724 742 6826</phone>
+<email>brosen@eng.fore.com</email></address></author>
+<date year='2000' month='April' />
+<abstract>
+<t>This document describes protocol requirements for the Media Gateway Control Protocol between a Media Gateway Controller and a Media Gateway.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2805' />
+<format type='TXT' octets='88190' target='http://www.rfc-editor.org/rfc/rfc2805.txt' />
+</reference>

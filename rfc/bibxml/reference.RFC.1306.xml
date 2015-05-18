@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1306'>
+
+<front>
+<title abbrev='Experiences with Circuit-Switched T3'>Experiences Supporting By-Request Circuit-Switched T3 Networks</title>
+<author initials='A.' surname='Nicholson' fullname='Andy Nicholson'>
+<organization>Cray Research, Inc.</organization>
+<address>
+<postal>
+<street>655F Lone Oak Drive</street>
+<city>Eagan</city>
+<region>MN</region>
+<code>55123</code>
+<country>US</country></postal>
+<phone>+1 612 452 6650</phone>
+<email>droid@cray.com</email></address></author>
+<author initials='J.' surname='Young' fullname='Jeff Young'>
+<organization>Cray Research, Inc.</organization>
+<address>
+<postal>
+<street>655F Lone Oak Drive</street>
+<city>Eagan</city>
+<region>MN</region>
+<code>55123</code>
+<country>US</country></postal>
+<phone>+1 612 452 6650</phone>
+<email>jsy@cray.com</email></address></author>
+<date year='1992' month='March' />
+<abstract>
+<t>This memo describes the experiences of a project team at Cray Research, Inc., in implementing support for circuit-switched T3 services.  While the issues discussed may not be directly relevant to the research problems of the Internet, they may be interesting to a number of researchers and implementers.</t>
+<t>Developers at Cray Research, Inc. were presented with an opportunity to use a circuit-switched T3 network for wide area networking.  They devised an architectural model for using this new resource.  This involves activating the circuit-switched connection when an application program engages in a bulk data transfer, and releasing the connection when the transfer is complete.</t>
+<t>Three software implementations for this feature have been tested, and the results documented here.  A variety of issues are involved, and further research is necessary.  Network users are beginning to recognize the value of this service, and are planning to make use of by-request circuit-switched networks.  A standard method of access will be needed to ensure interoperability among vendors of circuit-switched network support products.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1306' />
+<format type='TXT' octets='25788' target='http://www.rfc-editor.org/rfc/rfc1306.txt' />
+</reference>

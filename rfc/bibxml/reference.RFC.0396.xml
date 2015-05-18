@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0396'>
+
+<front>
+<title>Network Graphics Working Group Meeting - Second Iteration</title>
+<author initials='S.' surname='Bunch' fullname='Steve Bunch'>
+<organization>University of Illinois, Center for Advanced Computation, ANTS</organization>
+<address>
+<phone>+1 217 333 9354</phone></address></author>
+<date year='1972' day='13' month='November' />
+<abstract>
+<t>I have obtained some feedback concerning my suggestion in RFC 474 that the Working Group meeting be held here on May 11, 1973.</t></abstract></front>
+
+<seriesInfo name='RFC' value='396' />
+<format type='TXT' octets='2224' target='http://www.rfc-editor.org/rfc/rfc396.txt' />
+</reference>

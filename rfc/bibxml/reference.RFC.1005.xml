@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1005'>
+
+<front>
+<title>ARPANET AHIP-E Host Access Protocol (enhanced AHIP)</title>
+<author initials='A.' surname='Khanna' fullname='Atul Khanna'>
+<organization>BBN Communications Corp.</organization></author>
+<author initials='A.' surname='Malis' fullname='Andy Malis'>
+<organization>BBN Communications Corp.</organization></author>
+<date year='1987' day='1' month='May' /></front>
+
+<seriesInfo name='RFC' value='1005' />
+<format type='TXT' octets='69957' target='http://www.rfc-editor.org/rfc/rfc1005.txt' />
+</reference>

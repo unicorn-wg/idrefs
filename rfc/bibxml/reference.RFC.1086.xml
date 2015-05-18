@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1086'>
+
+<front>
+<title>ISO-TP0 bridge between TCP and X.25</title>
+<author initials='J.' surname='Onions' fullname='Julian P. Onions'>
+<organization>Nottingham University, Computer Science Department</organization>
+<address>
+<postal>
+<street>University Park</street>
+<city>Nottingham</city>
+<region>England</region>
+<code>NG7 2RD</code>
+<country>UK</country></postal>
+<email>JPO@CS.NOTT.AC.UK</email></address></author>
+<author initials='M.' surname='Rose' fullname='Marshall T. Rose'>
+<organization>The Wollongong Group</organization>
+<address>
+<postal>
+<street>1129 San Antonio Road</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94303</code>
+<country>US</country></postal>
+<phone>+1 415 962 7100</phone>
+<email>mrose@TWG.COM</email></address></author>
+<date year='1988' day='1' month='December' /></front>
+
+<seriesInfo name='RFC' value='1086' />
+<format type='TXT' octets='19934' target='http://www.rfc-editor.org/rfc/rfc1086.txt' />
+</reference>

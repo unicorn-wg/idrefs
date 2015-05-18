@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2056'>
+
+<front>
+<title abbrev='URLs for Z39.50'>Uniform Resource Locators for Z39.50</title>
+<author initials='R.' surname='Denenberg' fullname='Ray Denenberg'>
+<organization>Library of Congress, Collections Services, Network Development/MSO</organization>
+<address>
+<postal>
+<street />
+<city>Washington</city>
+<region>DC</region>
+<code>20540</code>
+<country>US</country></postal>
+<phone>+1 202 707 5795</phone>
+<facsimile>+1 202 707 0115</facsimile>
+<email>ray@rden.loc.gov</email></address></author>
+<author initials='J.' surname='Kunze' fullname='John A. Kunze'>
+<organization>University of California, San Francisco, Center for Knowledge Management</organization>
+<address>
+<postal>
+<street>530 Parnassus Ave</street>
+<street>Box 0840</street>
+<city>San Francisco</city>
+<region>CA</region>
+<code>94143-0840</code>
+<country>US</country></postal>
+<phone>+1 415 502 6660</phone>
+<facsimile>+1 415 476 4653</facsimile>
+<email>jak@ckm.ucsf.edu</email></address></author>
+<author initials='D.' surname='Lynch' fullname='Denis Lynch'>
+<organization>SilverPlatter Information Ltd.</organization>
+<address>
+<postal>
+<street>10 Barely Mow Passage</street>
+<city>Chiswick, London</city>
+<region>England</region>
+<code>W4 4PH</code>
+<country>UK</country></postal>
+<phone>+44 181 9958242</phone>
+<facsimile>+44 181 9955159</facsimile>
+<email>DenisL@SilverPlatter.com</email></address></author>
+<date year='1996' month='November' />
+<abstract>
+<t></t></abstract></front>
+
+<seriesInfo name='RFC' value='2056' />
+<format type='TXT' octets='14204' target='http://www.rfc-editor.org/rfc/rfc2056.txt' />
+</reference>

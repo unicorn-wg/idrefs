@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5742'>
+
+<front>
+<title>IESG Procedures for Handling of Independent and IRTF Stream Submissions</title>
+<author initials='H.' surname='Alvestrand' fullname='H. Alvestrand'>
+<organization /></author>
+<author initials='R.' surname='Housley' fullname='R. Housley'>
+<organization /></author>
+<date year='2009' month='December' />
+<abstract>
+<t>This document describes the procedures used by the IESG for handling documents submitted for RFC publication from the Independent Submission and IRTF streams.&lt;/t>&lt;t> This document updates procedures described in RFC 2026 and RFC 3710. This memo documents an Internet Best Current Practice.</t></abstract></front>
+
+<seriesInfo name='BCP' value='92' />
+<seriesInfo name='RFC' value='5742' />
+<format type='TXT' octets='21067' target='http://www.rfc-editor.org/rfc/rfc5742.txt' />
+</reference>

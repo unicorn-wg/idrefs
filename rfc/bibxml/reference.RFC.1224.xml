@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1224'>
+
+<front>
+<title abbrev='Managing Asynchronously Generated Alerts'>Techniques for managing asynchronously generated alerts</title>
+<author initials='L.' surname='Steinberg' fullname='Lou Steinberg'>
+<organization>IBM, NSFNET Software Development</organization>
+<address>
+<postal>
+<street>472 Wheelers Farms Rd</street>
+<street>M/S 91</street>
+<city>Milford</city>
+<region>CT</region>
+<code>06460</code>
+<country>US</country></postal>
+<phone>+1 203 783 7175</phone>
+<email>LOUISS@IBM.COM</email></address></author>
+<date year='1991' day='1' month='May' />
+<abstract>
+<t>This RFC explores mechanisms to prevent a remotely managed entity from burdening a manager or network with an unexpected amount of network management information, and to ensure delivery of "important" information.  The focus is on controlling the flow of asynchronously generated information, and not how the information is generated.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1224' />
+<format type='TXT' octets='54303' target='http://www.rfc-editor.org/rfc/rfc1224.txt' />
+</reference>

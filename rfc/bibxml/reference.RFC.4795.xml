@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4795'>
+
+<front>
+<title>Link-local Multicast Name Resolution (LLMNR)</title>
+<author initials='B.' surname='Aboba' fullname='B. Aboba'>
+<organization /></author>
+<author initials='D.' surname='Thaler' fullname='D. Thaler'>
+<organization /></author>
+<author initials='L.' surname='Esibov' fullname='L. Esibov'>
+<organization /></author>
+<date year='2007' month='January' />
+<abstract>
+<t>The goal of Link-Local Multicast Name Resolution (LLMNR) is to enable name resolution in scenarios in which conventional DNS name resolution is not possible.  LLMNR supports all current and future DNS formats, types, and classes, while operating on a separate port from DNS, and with a distinct resolver cache.  Since LLMNR only operates on the local link, it cannot be considered a substitute for DNS.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='4795' />
+<format type='TXT' octets='71969' target='http://www.rfc-editor.org/rfc/rfc4795.txt' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0036'>
+
+<front>
+<title>Protocol Notes</title>
+<author initials='S.' surname='Crocker' fullname='Steve Crocker'>
+<organization>University California Los Angeles (UCLA)</organization></author>
+<date year='1970' day='16' month='March' /></front>
+
+<seriesInfo name='RFC' value='36' />
+<format type='TXT' octets='13893' target='http://www.rfc-editor.org/rfc/rfc36.txt' />
+</reference>

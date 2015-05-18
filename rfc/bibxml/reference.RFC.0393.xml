@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0393'>
+
+<front>
+<title>Comments on Telnet Protocol Changes</title>
+<author initials='J.' surname='Winett' fullname='Joel M. Winett'>
+<organization>Massachusetts Institute of Technology (MIT), Lincoln Laboratory (LL)</organization></author>
+<date year='1972' day='3' month='October' />
+<abstract>
+<t>Through this RFC, I am registering my objection to two of the three suggestions for changing the TELNET protocol as described in RFC 328 and am adding my suggestion for the interpretation of the TELNET Reverse Break Control Code.</t></abstract></front>
+
+<seriesInfo name='RFC' value='393' />
+<format type='TXT' octets='9435' target='http://www.rfc-editor.org/rfc/rfc393.txt' />
+</reference>

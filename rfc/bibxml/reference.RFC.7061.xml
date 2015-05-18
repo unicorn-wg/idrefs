@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7061'>
+
+<front>
+<title>eXtensible Access Control Markup Language (XACML) XML Media Type</title>
+<author initials='R.' surname='Sinnema' fullname='R. Sinnema'>
+<organization /></author>
+<author initials='E.' surname='Wilde' fullname='E. Wilde'>
+<organization /></author>
+<date year='2013' month='November' />
+<abstract>
+<t>This specification registers an XML-based media type for the eXtensible Access Control Markup Language (XACML).</t></abstract></front>
+
+<seriesInfo name='RFC' value='7061' />
+<format type='TXT' octets='14666' target='http://www.rfc-editor.org/rfc/rfc7061.txt' />
+</reference>

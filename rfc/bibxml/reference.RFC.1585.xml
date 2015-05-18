@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1585'>
+
+<front>
+<title>MOSPF: Analysis and Experience</title>
+<author initials='J.' surname='Moy' fullname='John Moy'>
+<organization>Proteon, Inc.</organization>
+<address>
+<postal>
+<street>9 Technology Drive</street>
+<city>Westborough</city>
+<region>MA</region>
+<code>01581</code>
+<country>US</country></postal>
+<phone>+1 508 898 2800</phone>
+<email>jmoy@proteon.com</email></address></author>
+<date year='1994' month='March' />
+<abstract>
+<t>This memo documents how the MOSPF protocol satisfies the requirements imposed on Internet routing protocols by "Internet Engineering Task Force internet routing protocol standardization criteria" ().</t>
+<t>Please send comments to mospf@gated.cornell.edu.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1585' />
+<format type='TXT' octets='29754' target='http://www.rfc-editor.org/rfc/rfc1585.txt' />
+</reference>

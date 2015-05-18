@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1289'>
+
+<front>
+<title abbrev='DECnet Phase IV MIB'>DECnet Phase IV MIB Extensions</title>
+<author initials='J.' surname='Saperia' fullname='Jon Saperia'>
+<organization>Digital Equipment Corporation (DEC)</organization>
+<address>
+<postal>
+<street>40 Old Bolton Road</street>
+<city>Stow</city>
+<region>MA</region>
+<code>01775-1215</code>
+<country>US</country></postal>
+<phone>+1 508 496 8333</phone>
+<email>saperia@enet.dec.com</email></address></author>
+<date year='1991' month='December' />
+<abstract>
+<t>This memo defines a set of DECnet Phase IV extensions that have been created for the Internet MIB.  When used in conjunction with the structure of management information (RFC 1155), the management information base for network management of TCP/IP-based internets (RFC 1213) and the Simple Network Management Protocol (RFC 1157), it will be possible to provide integrated network management of combined TCP/IP and DECnet Phase IV based internets. This document was produced by the DECnet Phase IV MIB working group of the Internet Engineering Task Force (IETF).</t></abstract></front>
+
+<seriesInfo name='RFC' value='1289' />
+<format type='TXT' octets='122272' target='http://www.rfc-editor.org/rfc/rfc1289.txt' />
+</reference>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6929'>
+
+<front>
+<title>Remote Authentication Dial In User Service (RADIUS) Protocol Extensions</title>
+<author initials='A.' surname='DeKok' fullname='A. DeKok'>
+<organization /></author>
+<author initials='A.' surname='Lior' fullname='A. Lior'>
+<organization /></author>
+<date year='2013' month='April' />
+<abstract>
+<t>The Remote Authentication Dial-In User Service (RADIUS) protocol is nearing exhaustion of its current 8-bit Attribute Type space.  In addition, experience shows a growing need for complex grouping, along with attributes that can carry more than 253 octets of data.  This document defines changes to RADIUS that address all of the above problems.</t></abstract></front>
+
+<seriesInfo name='RFC' value='6929' />
+<format type='TXT' octets='133099' target='http://www.rfc-editor.org/rfc/rfc6929.txt' />
+</reference>

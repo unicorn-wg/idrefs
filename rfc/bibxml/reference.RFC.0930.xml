@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0930'>
+
+<front>
+<title>Telnet terminal type option</title>
+<author initials='M.' surname='Solomon' fullname='Marvin Solomon'>
+<organization>University of Wisconsin - Madison</organization></author>
+<author initials='E.' surname='Wimmers' fullname='Edward Wimmers'>
+<organization>University of Wisconsin - Madison</organization></author>
+<date year='1985' day='1' month='January' /></front>
+
+<seriesInfo name='RFC' value='930' />
+<format type='TXT' octets='6583' target='http://www.rfc-editor.org/rfc/rfc930.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5427'>
+
+<front>
+<title>Textual Conventions for Syslog Management</title>
+<author initials='G.' surname='Keeni' fullname='G. Keeni'>
+<organization /></author>
+<date year='2009' month='March' />
+<abstract>
+<t>This MIB module defines textual conventions to represent Facility and Severity information commonly used in syslog messages.  The intent is that these textual conventions will be imported and used in MIB modules that would otherwise define their own representations. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='5427' />
+<format type='TXT' octets='17829' target='http://www.rfc-editor.org/rfc/rfc5427.txt' />
+</reference>

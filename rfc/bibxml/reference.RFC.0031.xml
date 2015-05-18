@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0031'>
+
+<front>
+<title abbrev='Binary Message Forms'>Binary Message Forms in Computer</title>
+<author initials='D.' surname='Bobrow' fullname='Daniel Bobrow'>
+<organization>Bolt, Beranek, and Newman (BBN)</organization></author>
+<author initials='W.' surname='Sutherland' fullname='William R. Sutherland'>
+<organization>Massachusetts Institute of Technology (MIT), Lincoln Laboratory</organization></author>
+<date year='1968' day='1' month='February' /></front>
+
+<seriesInfo name='RFC' value='31' />
+<format type='TXT' octets='11191' target='http://www.rfc-editor.org/rfc/rfc31.txt' />
+</reference>

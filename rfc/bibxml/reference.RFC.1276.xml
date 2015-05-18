@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1276'>
+
+<front>
+<title abbrev='Internet Directory Replication'>Replication and Distributed Operations extensions to provide an Internet Directory using X.500</title>
+<author initials='S.' surname='Hardcastle-Kille' fullname='Steve Hardcastle-Kille'>
+<organization>University College London, Department of Computer Science</organization>
+<address>
+<postal>
+<street>Gower Street</street>
+<city>London</city>
+<region>England</region>
+<code>WC1E 6BT</code>
+<country>UK</country></postal>
+<phone>+44 71 3807294</phone>
+<email>S.Kille@CS.UCL.AC.UK</email></address></author>
+<date year='1991' month='November' />
+<abstract>
+<t>Some requirements on extensions to X.500 are described in the RFC, in order to build an Internet Directory using  X.500(1988).  This document specifies a set of solutions to the problems raised.  These solutions are based on some work done for the QUIPU implementation, and demonstrated to be effective in a number of directory pilots.  By documenting a de facto standard, rapid progress can be made towards a full-scale pilot. These procedures are an INTERIM approach.  There are known deficiencies, both in terms of manageability and scalability. Transition to standard approaches are planned when appropriate standards are available.  This RFCwill be obsoleted at this point.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1276' />
+<format type='TXT' octets='33731' target='http://www.rfc-editor.org/rfc/rfc1276.txt' />
+<format type='PS' octets='217170' target='http://www.rfc-editor.org/rfc/rfc1276.ps' />
+</reference>

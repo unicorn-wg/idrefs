@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2754'>
+
+<front>
+<title>RPS IANA Issues</title>
+<author initials='C.' surname='Alaettinoglu' fullname='Cengiz Alaettinoglu'>
+<organization>USC Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone>
+<email>cengiz@isi.edu</email></address></author>
+<author initials='C.' surname='Villamizar' fullname='Curtis Villamizar'>
+<organization>Avici Systems</organization>
+<address>
+<email>curtis@avici.com</email></address></author>
+<author initials='R.' surname='Govindan' fullname='Ramesh Govindan'>
+<organization>USC Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone>
+<email>govindan@isi.edu</email></address></author>
+<date year='2000' month='January' />
+<abstract>
+<t>RPS Securityrequires certain RPSLobjects in the IRR to be hierarchically delegated.  The set of objects that are at the root of this hierarchy needs to be created and digitally signed by IANA. This paper presents these seed objects and lists operations required from IANA.</t>
+<t>The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this
+ document are to be interpreted as described in RFC 2119.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2754' />
+<format type='TXT' octets='11582' target='http://www.rfc-editor.org/rfc/rfc2754.txt' />
+</reference>

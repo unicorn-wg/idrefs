@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7125'>
+
+<front>
+<title>Revision of the tcpControlBits IP Flow Information Export (IPFIX) Information Element</title>
+<author initials='B.' surname='Trammell' fullname='B. Trammell'>
+<organization /></author>
+<author initials='P.' surname='Aitken' fullname='P. Aitken'>
+<organization /></author>
+<date year='2014' month='February' />
+<abstract>
+<t>This document revises the tcpControlBits IP Flow Information Export (IPFIX) Information Element as originally defined in RFC 5102 to reflect changes to the TCP Flags header field since RFC 793.</t></abstract></front>
+
+<seriesInfo name='RFC' value='7125' />
+<format type='TXT' octets='11679' target='http://www.rfc-editor.org/rfc/rfc7125.txt' />
+</reference>

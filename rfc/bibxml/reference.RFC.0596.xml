@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0596'>
+
+<front>
+<title>Second thoughts on Telnet Go-Ahead</title>
+<author initials='E.' surname='Taft' fullname='E. Taft'>
+<organization>Xerox Palo Alto Research Center (PARC), MAXC</organization></author>
+<date year='1973' day='8' month='December' />
+<abstract>
+<t>In this RFC we present objections to the requirement that hosts implement the Telnet Go-Ahead (GA) command, as specified in the Telnet Protocol Specification (NIC #15372).</t></abstract></front>
+
+<seriesInfo name='RFC' value='596' />
+<format type='TXT' octets='11919' target='http://www.rfc-editor.org/rfc/rfc596.txt' />
+</reference>

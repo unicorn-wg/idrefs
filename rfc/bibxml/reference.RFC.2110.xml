@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2110'>
+
+<front>
+<title abbrev='MHTML'>MIME E-mail Encapsulation of Aggregate Documents, such as HTML (MHTML)</title>
+<author initials='J.' surname='Palme' fullname='Jacob Palme'>
+<organization>Stockholm University and KTH</organization>
+<address>
+<postal>
+<street>Electrum 230</street>
+<street>S-164 40 Kista</street>
+<country>Sweden</country></postal>
+<phone>+46-8-16 16 67</phone>
+<facsimile>+46-8-783 08 29</facsimile>
+<email>jpalme@dsv.su.se</email></address></author>
+<author initials='A.' surname='Hopmann' fullname='Alex Hopmann'>
+<organization>Microsoft Corporation</organization>
+<address>
+<postal>
+<street>3590 North First Street</street>
+<street>Suite 300</street>
+<street>San Jose</street>
+<street>CA 95134</street>
+<street>Working group chairman:</street></postal>
+<email>alexhop@microsoft.com</email></address></author>
+<date year='1997' month='March' />
+<area>Applications</area>
+<keyword>encapsulate</keyword>
+<keyword>hypertext markup language</keyword>
+<keyword>mail</keyword>
+<keyword>multipurpose internet mail extensions</keyword>
+<abstract>
+<t>
+   Although HTML [RFC 1866] was designed within the context of MIME,
+   more than the specification of HTML as defined in RFC 1866 is needed
+   for two electronic mail user agents to be able to interoperate using
+   HTML as a document format. These issues include the naming of objects
+   that are normally referred to by URIs, and the means of aggregating
+   objects that go together. This document describes a set of guidelines
+   that will allow conforming mail user agents to be able to send,
+   deliver and display these objects, such as HTML objects, that can
+   contain links represented by URIs. In order to be able to handle
+   inter-linked objects, the document uses the MIME type
+   multipart/related and specifies the MIME content-headers &quot;Content-
+   Location&quot; and &quot;Content-Base&quot;.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2110' />
+<format type='TXT' octets='41961' target='http://www.rfc-editor.org/rfc/rfc2110.txt' />
+<format type='XML' octets='45562' target='http://xml.resource.org/public/rfc/xml/rfc2110.xml' />
+</reference>

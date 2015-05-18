@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1023'>
+
+<front>
+<title abbrev='HEMS Language'>HEMS monitoring and control language</title>
+<author initials='G.' surname='Trewitt' fullname='G. Trewitt'>
+<organization>Stanford University</organization></author>
+<author initials='C.' surname='Partridge' fullname='C. Partridge'>
+<organization>BBN/NNSC</organization></author>
+<date year='1987' day='1' month='October' /></front>
+
+<seriesInfo name='RFC' value='1023' />
+<format type='TXT' octets='40992' target='http://www.rfc-editor.org/rfc/rfc1023.txt' />
+</reference>

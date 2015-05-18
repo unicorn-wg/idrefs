@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1231'>
+
+<front>
+<title abbrev='IEEE 802.5 MIB'>IEEE 802.5 Token Ring MIB</title>
+<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
+<organization>Hughes, LAN Systems, Inc.</organization>
+<address>
+<postal>
+<street>1225 Charleston Road</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<phone>+1 415 966 7934</phone>
+<email>kzm@hls.com</email></address></author>
+<author initials='R.' surname='Fox' fullname='Richard Fox'>
+<organization>Synoptics, Inc.</organization>
+<address>
+<postal>
+<street>4401 Great America Pkwy</street>
+<street>PO Box 58185</street>
+<city>Santa Clara</city>
+<region>CA</region>
+<code>95052</code>
+<country>US</country></postal>
+<phone>+1 408 764 1372</phone>
+<email>rfox@synoptics.com</email></address></author>
+<author initials='E.' surname='Decker' fullname='Eric Decker'>
+<organization>cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>1525 O'Brien Dr.</street>
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<phone>+1 415 688 8241</phone>
+<email>cire@cisco.com</email></address></author>
+<date year='1991' day='1' month='May' />
+<abstract>
+<t>This memo defines an experimental portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, this memo defines managed objects used for managing subnetworks which use the IEEE 802.5 Token Ring technology described in 802.5 Token Ring Access Method and Physical Layer Specifications, IEEE Standard 802.5-1989.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1231' />
+<format type='TXT' octets='53542' target='http://www.rfc-editor.org/rfc/rfc1231.txt' />
+</reference>

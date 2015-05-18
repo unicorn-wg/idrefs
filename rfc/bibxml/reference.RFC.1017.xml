@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1017'>
+
+<front>
+<title abbrev='Requirements for Scientific Research'>Network requirements for scientific research: Internet task force on scientific computing</title>
+<author initials='B.' surname='Leiner' fullname='Barry M. Leiner'>
+<organization>RIACS</organization></author>
+<date year='1987' day='1' month='August' /></front>
+
+<seriesInfo name='RFC' value='1017' />
+<format type='TXT' octets='49512' target='http://www.rfc-editor.org/rfc/rfc1017.txt' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0933'>
+
+<front>
+<title>Output marking Telnet option</title>
+<author initials='S.' surname='Silverman' fullname='S. Silverman'>
+<organization>MITRE-Washington</organization></author>
+<date year='1985' day='1' month='January' /></front>
+
+<seriesInfo name='RFC' value='933' />
+<format type='TXT' octets='6715' target='http://www.rfc-editor.org/rfc/rfc933.txt' />
+</reference>

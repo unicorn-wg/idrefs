@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0080'>
+
+<front>
+<title>Protocols and Data Formats</title>
+<author initials='E.' surname='Harslem' fullname='E. Harslem'>
+<organization /></author>
+<author initials='J.F.' surname='Heafner' fullname='J.F. Heafner'>
+<organization /></author>
+<date year='1970' month='December' /></front>
+
+<seriesInfo name='RFC' value='80' />
+<format type='TXT' octets='17620' target='http://www.rfc-editor.org/rfc/rfc80.txt' />
+</reference>

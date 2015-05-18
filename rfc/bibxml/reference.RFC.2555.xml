@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2555'>
+
+<front>
+<title>30 Years of RFCs</title>
+<author initials='R.' surname='Braden' fullname='Robert Braden'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way #1001</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511</phone>
+<facsimile>+1 310 823 6714</facsimile>
+<email>braden@isi.edu</email></address></author>
+<author initials='J.K.' surname='Reynolds' fullname='Joyce K. Reynolds'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way #1001</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511</phone>
+<facsimile>+1 310 823 6714</facsimile>
+<email>jkrey@isi.edu</email></address></author>
+<author initials='S.' surname='Crocker' fullname='Steve Crocker'>
+<organization>Steve Crocker Associates, LLC</organization>
+<address>
+<postal>
+<street>5110 Edgemoor Lane</street>
+<city>Bethesda</city>
+<region>MD</region>
+<code>20814</code>
+<country>US</country></postal>
+<phone>+1 301 654 4569</phone>
+<facsimile>+1 202 478 0458</facsimile>
+<email>crocker@mbl.edu</email></address></author>
+<author initials='V.' surname='Cerf' fullname='Vint Cerf'>
+<organization>MCI</organization>
+<address>
+<email>vcerf@mci.net</email></address></author>
+<author initials='J.' surname='Feinler' fullname='Jake Feinler'>
+<organization>SRI Network Information Center</organization>
+<address>
+<email>feinler@juno.com</email></address></author>
+<author initials='C.' surname='Anderson' fullname='Celeste Anderson'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way #1001</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511</phone>
+<facsimile>+1 310 823 6714</facsimile>
+<email>celeste@isi.edu</email></address></author>
+<date year='1999' month='April' day='7' /></front>
+
+<seriesInfo name='RFC' value='2555' />
+<format type='TXT' octets='42902' target='http://www.rfc-editor.org/rfc/rfc2555.txt' />
+</reference>

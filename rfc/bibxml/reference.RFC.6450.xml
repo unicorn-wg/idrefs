@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6450'>
+
+<front>
+<title>Multicast Ping Protocol</title>
+<author initials='S.' surname='Venaas' fullname='S. Venaas'>
+<organization /></author>
+<date year='2011' month='December' />
+<abstract>
+<t>The Multicast Ping Protocol specified in this document allows for checking whether an endpoint can receive multicast -- both Source-Specific Multicast (SSM) and Any-Source Multicast (ASM).  It can also be used to obtain additional multicast-related information, such as multicast tree setup time.  This protocol is based on an implementation of tools called "ssmping" and "asmping". [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='6450' />
+<format type='TXT' octets='59420' target='http://www.rfc-editor.org/rfc/rfc6450.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0215'>
+
+<front>
+<title>NCP, ICP, and Telnet: The Terminal IMP implementation</title>
+<author initials='A.' surname='McKenzie' fullname='A. McKenzie'>
+<organization>Bolt Baranek and Newman (BBN)</organization></author>
+<date year='1971' day='30' month='August' />
+<abstract>
+<t>By early December there will be six Terminal IMPs incorporated into the network, with additional Terminal IMPs scheduled for delivery at a rate of about one per month thereafter.  For this reason the implementation of network protocols (and deviations from them) may be of interest to the network community.  This note describes the choices made by the Terminal IMP system programmers where choices are permitted by the protocols, and documents some instances of non-compliance with protocols.</t></abstract></front>
+
+<seriesInfo name='RFC' value='215' />
+<format type='TXT' octets='16645' target='http://www.rfc-editor.org/rfc/rfc215.txt' />
+</reference>

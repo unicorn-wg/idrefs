@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2058'>
+
+<front>
+<title abbrev='RADIUS'>Remote Authentication Dial In User Service (RADIUS)</title>
+<author initials='C.' surname='Rigney' fullname='Carl Rigney'>
+<organization>Livingston Enterprises</organization>
+<address>
+<postal>
+<street>6920 Koll Center Parkway</street>
+<street>Suite 220</street>
+<city>Pleasanton</city>
+<region>CA</region>
+<code>94566</code>
+<country>US</country></postal>
+<phone>+1 510 426 0770</phone>
+<email>cdr@livingston.com</email></address></author>
+<author initials='A.C.' surname='Rubens' fullname='Allan C. Rubens'>
+<organization>Merit Network, Inc.</organization>
+<address>
+<postal>
+<street>4251 Plymouth Road</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48105-2785</code>
+<country>US</country></postal>
+<email>acr@merit.edu</email></address></author>
+<author initials='W.A.' surname='Simpson' fullname='William Allen Simpson'>
+<organization>Daydreamer, Computer Systems Consulting Services</organization>
+<address>
+<postal>
+<street>1384 Fontaine</street>
+<city>Madison Heights</city>
+<region>MI</region>
+<code>48071</code>
+<country>US</country></postal>
+<email>wsimpson@greendragon.com</email></address></author>
+<author initials='S.' surname='Willens' fullname='Steve Willens'>
+<organization>Livingston Enterprises</organization>
+<address>
+<postal>
+<street>6920 Koll Center Parkway</street>
+<street>Suite 220</street>
+<city>Pleasanton</city>
+<region>CA</region>
+<code>94566</code>
+<country>US</country></postal>
+<email>steve@livingston.com</email></address></author>
+<date year='1997' month='January' />
+<abstract>
+<t>This document describes a protocol for carrying authentication, authorization, and configuration information between a Network Access Server which desires to authenticate its links and a shared Authentication Server.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2058' />
+<format type='TXT' octets='118880' target='http://www.rfc-editor.org/rfc/rfc2058.txt' />
+</reference>

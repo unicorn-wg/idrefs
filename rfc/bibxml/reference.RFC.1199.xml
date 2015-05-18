@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1199'>
+
+<front>
+<title abbrev='Summary of 1100-1199'>Request for Comments Summary Notes: 1100-1199</title>
+<author initials='J.' surname='Reynolds' fullname='Joyce K. Reynolds'>
+<organization>University of Southern California (USC), Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511</phone>
+<email>JKREY@ISI.EDU</email></address></author>
+<date year='1991' day='1' month='December' /></front>
+
+<seriesInfo name='RFC' value='1199' />
+<format type='TXT' octets='46443' target='http://www.rfc-editor.org/rfc/rfc1199.txt' />
+</reference>

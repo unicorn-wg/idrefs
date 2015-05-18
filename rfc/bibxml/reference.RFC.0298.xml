@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0298'>
+
+<front>
+<title>Network host status</title>
+<author initials='E.' surname='Westheimer' fullname='E. Westheimer'>
+<organization /></author>
+<date year='1972' month='February' /></front>
+
+<seriesInfo name='RFC' value='298' />
+<format type='TXT' octets='8770' target='http://www.rfc-editor.org/rfc/rfc298.txt' />
+</reference>

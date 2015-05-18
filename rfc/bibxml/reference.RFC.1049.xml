@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1049'>
+
+<front>
+<title abbrev='Mail Content Type'>Content-type header field for Internet messages</title>
+<author initials='M.' surname='Sirbu' fullname='M. Sirbu'>
+<organization>Carnegie-Mellon University</organization></author>
+<date year='1988' day='1' month='March' />
+<abstract>
+<t>A standardized Content-type field allows mail reading systems to automatically identify the type of a structured message body and to process it for display accordingly.  The structured message body must still conform to the RFC-822 requirements concerning allowable characters.  A mail reading system need not take any specific action upon receiving a message with a valid Content-Type header field.  The ability to recognize this field and invoke the appropriate display process accordingly will, however, improve the readability of messages, and allow the exchange of messages containing mathematical symbols, or foreign language characters.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1049' />
+<format type='TXT' octets='18923' target='http://www.rfc-editor.org/rfc/rfc1049.txt' />
+</reference>

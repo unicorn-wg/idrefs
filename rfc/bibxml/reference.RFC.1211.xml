@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1211'>
+
+<front>
+<title abbrev='Problems with Mailing Lists'>Problems with the maintenance of large mailing lists</title>
+<author initials='A.' surname='Westine' fullname='Ann Westine'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292-6695</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone>
+<email>Westine@ISI.EDU</email></address></author>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292-6695</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone>
+<email>Postel@ISI.EDU</email></address></author>
+<date year='1991' day='1' month='March' /></front>
+
+<seriesInfo name='RFC' value='1211' />
+<format type='TXT' octets='96167' target='http://www.rfc-editor.org/rfc/rfc1211.txt' />
+</reference>

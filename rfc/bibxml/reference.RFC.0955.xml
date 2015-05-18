@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0955'>
+
+<front>
+<title abbrev='Transaction Protocol'>Towards a transport service for transaction processing applications</title>
+<author initials='R.' surname='Braden' fullname='R. Braden'>
+<organization>University of California, Los Angeles (UCLA), OAC</organization></author>
+<date year='1985' day='1' month='September' /></front>
+
+<seriesInfo name='RFC' value='955' />
+<format type='TXT' octets='22497' target='http://www.rfc-editor.org/rfc/rfc955.txt' />
+</reference>

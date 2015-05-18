@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1932'>
+
+<front>
+<title>IP over ATM: A Framework Document</title>
+<author initials='R.' surname='Cole' fullname='Robert G. Cole'>
+<organization>AT&amp;T Bell Laboratories</organization>
+<address>
+<postal>
+<street>101 Crawfords Corner Road</street>
+<street>Rm. 3L-533</street>
+<city>Holmdel</city>
+<region>NJ</region>
+<code>07733</code>
+<country>US</country></postal>
+<phone>+1 908 949 1950</phone>
+<facsimile>+1 908 949 8887</facsimile>
+<email>rgc@qsun.att.com</email></address></author>
+<author initials='D.' surname='Shur' fullname='David H. Shur'>
+<organization>AT&amp;T Bell Laboratories</organization>
+<address>
+<postal>
+<street>101 Crawfords Corner Road</street>
+<street>Rm. 1F-338</street>
+<city>Holmdel</city>
+<region>NJ</region>
+<code>07733</code>
+<country>US</country></postal>
+<phone>+1 908 949 6719</phone>
+<facsimile>+1 908 949 5775</facsimile>
+<email>d.shur@att.com</email></address></author>
+<author initials='C.' surname='Villamizar' fullname='Curtis Villamizar'>
+<organization>ANS</organization>
+<address>
+<postal>
+<street>100 Clearbrook Road</street>
+<city>Elmsford</city>
+<region>NY</region>
+<code>10523</code>
+<country>US</country></postal>
+<email>curtis@ans.net</email></address></author>
+<date year='1996' month='April' />
+<abstract>
+<t>The discussions of the IP over ATM working group over the last several years have produced a diverse set of proposals, some of which are no longer under active consideration.  A categorization is provided for the purpose of focusing discussion on the various proposals for IP over ATM deemed of primary interest by the IP over ATM working group.  The intent of this framework is to help clarify the differences between proposals and identify common features in order to promote convergence to a smaller and more mutually compatible set of standards.  In summary, it is hoped that this document, in classifying ATM approaches and issues will help to focus the IP over ATM working group's direction.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1932' />
+<format type='TXT' octets='68031' target='http://www.rfc-editor.org/rfc/rfc1932.txt' />
+</reference>

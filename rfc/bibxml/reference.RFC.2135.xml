@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2135'>
+
+<front>
+<title abbrev='ISOC By-Laws'>Internet Society By-Laws</title>
+<author>
+<organization>ISOC Board of Trustees</organization>
+<address>
+<postal>
+<street>12020 Sunrise Vally Drive - Suite 210</street>
+<street>Reston</street>
+<country>USA</country></postal>
+<phone>+1 703 648 9888</phone>
+<facsimile>+1 703 638 9887</facsimile>
+<email>isoc-trustees@isoc.org</email></address></author>
+<date year='1997' month='April' />
+<area>General</area>
+<keyword>Internet Society</keyword>
+<abstract>
+<t>
+   These are the by-laws of the Internet Society, as amended, as of June
+   1996.  They are published for the information of the IETF community
+   at the request of the poisson working group. Please refer to the ISOC
+   web page (www.isoc.org) for the current version of the by-laws.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2135' />
+<format type='TXT' octets='20467' target='http://www.rfc-editor.org/rfc/rfc2135.txt' />
+<format type='HTML' octets='34620' target='http://xml.resource.org/public/rfc/html/rfc2135.html' />
+<format type='XML' octets='21665' target='http://xml.resource.org/public/rfc/xml/rfc2135.xml' />
+</reference>

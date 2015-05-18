@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1735'>
+
+<front>
+<title abbrev='NBMA ARP (NARP)'>NBMA Address Resolution Protocol (NARP)</title>
+<author initials='J.' surname='Heinanen' fullname='Juha Heinanen'>
+<organization>Telecom Finland</organization>
+<address>
+<postal>
+<street>PO Box 228</street>
+<city>Tampere</city>
+<region />
+<code>SF-33101</code>
+<country>FI</country></postal>
+<phone>+358 3 49500958</phone>
+<email>Juha.Heinanen@datanet.tele.fi</email></address></author>
+<author initials='R.' surname='Govindan' fullname='Ramesh Govindan'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511</phone>
+<email>govindan@isi.edu</email></address></author>
+<date year='1994' month='December' />
+<abstract>
+<t>This document describes the NBMA Address Resolution Protocol (NARP). NARP can be used by a source terminal (host or router) connected to a Non-Broadcast, Multi-Access link layer (NBMA) network to find out the NBMA addresses of the a destination terminal provided that the destination terminal is connected to the same NBMA network.  Although this document focuses on NARP in the context of IP, the technique is applicable to other network layer protocols as well.  This RFC is a product of the Routing over Large Clouds Working Group of the IETF.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1735' />
+<format type='TXT' octets='24485' target='http://www.rfc-editor.org/rfc/rfc1735.txt' />
+</reference>

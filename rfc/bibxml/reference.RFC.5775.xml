@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5775'>
+
+<front>
+<title>Asynchronous Layered Coding (ALC) Protocol Instantiation</title>
+<author initials='M.' surname='Luby' fullname='M. Luby'>
+<organization /></author>
+<author initials='M.' surname='Watson' fullname='M. Watson'>
+<organization /></author>
+<author initials='L.' surname='Vicisano' fullname='L. Vicisano'>
+<organization /></author>
+<date year='2010' month='April' />
+<abstract>
+<t>This document describes the Asynchronous Layered Coding (ALC) protocol, a massively scalable reliable content delivery protocol.  Asynchronous Layered Coding combines the Layered Coding Transport (LCT) building block, a multiple rate congestion control building block and the Forward Error Correction (FEC) building block to provide congestion controlled reliable asynchronous delivery of content to an unlimited number of concurrent receivers from a single sender.  This document obsoletes RFC 3450. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='5775' />
+<format type='TXT' octets='59518' target='http://www.rfc-editor.org/rfc/rfc5775.txt' />
+</reference>

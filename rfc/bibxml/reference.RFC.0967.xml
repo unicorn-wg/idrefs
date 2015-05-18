@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0967'>
+
+<front>
+<title>All victims together</title>
+<author initials='M.' surname='Padlipsky' fullname='M. A. Padlipsky'>
+<organization>The Mitre Corporation</organization></author>
+<date year='1985' day='1' month='December' /></front>
+
+<seriesInfo name='RFC' value='967' />
+<format type='TXT' octets='4706' target='http://www.rfc-editor.org/rfc/rfc967.txt' />
+</reference>

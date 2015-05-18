@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4289'>
+
+<front>
+<title>Multipurpose Internet Mail Extensions (MIME) Part Four: Registration Procedures</title>
+<author initials='N.' surname='Freed' fullname='N. Freed'>
+<organization /></author>
+<author initials='J.' surname='Klensin' fullname='J. Klensin'>
+<organization /></author>
+<date year='2005' month='December' />
+<abstract>
+<t>This document specifies IANA registration procedures for MIME external body access types and content-transfer-encodings.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t></abstract></front>
+
+<seriesInfo name='BCP' value='13' />
+<seriesInfo name='RFC' value='4289' />
+<format type='TXT' octets='21502' target='http://www.rfc-editor.org/rfc/rfc4289.txt' />
+</reference>

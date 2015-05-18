@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6212'>
+
+<front>
+<title>Authentication-Results Registration for Vouch by Reference Results</title>
+<author initials='M.' surname='Kucherawy' fullname='M. Kucherawy'>
+<organization /></author>
+<date year='2011' month='April' />
+<abstract>
+<t>This memo updates the registry of properties in Authentication- Results: message header fields to allow relaying of the results of a Vouch By Reference query. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='6212' />
+<format type='TXT' octets='13199' target='http://www.rfc-editor.org/rfc/rfc6212.txt' />
+</reference>

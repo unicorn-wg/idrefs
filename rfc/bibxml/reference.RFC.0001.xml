@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0001'>
+
+<front>
+<title>Host Software</title>
+<author initials='S.' surname='Crocker' fullname='Steve Crocker'>
+<organization>University California Los Angeles (UCLA)</organization></author>
+<date year='1969' day='7' month='April' /></front>
+
+<seriesInfo name='RFC' value='1' />
+<format type='TXT' octets='21088' target='http://www.rfc-editor.org/rfc/rfc1.txt' />
+</reference>

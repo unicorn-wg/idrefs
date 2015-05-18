@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1579'>
+
+<front>
+<title>Firewall-Friendly FTP</title>
+<author initials='S.' surname='Bellovin' fullname='Steven M. Bellovin'>
+<organization>AT&amp;T Bell Laboratories</organization>
+<address>
+<postal>
+<street>600 Mountain Avenue</street>
+<city>Murray Hill</city>
+<region>NJ</region>
+<code>07974</code>
+<country>US</country></postal>
+<phone>+1 908 582 5886</phone>
+<email>smb@research.att.com</email></address></author>
+<date year='1994' month='February' />
+<abstract>
+<t>This memo describes a suggested change to the behavior of FTP client programs.  No protocol modifications are required, though we outline some that might be useful.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1579' />
+<format type='TXT' octets='8806' target='http://www.rfc-editor.org/rfc/rfc1579.txt' />
+</reference>

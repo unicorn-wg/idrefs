@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7300'>
+
+<front>
+<title>Reservation of Last Autonomous System (AS) Numbers</title>
+<author initials='J.' surname='Haas' fullname='J. Haas'>
+<organization /></author>
+<author initials='J.' surname='Mitchell' fullname='J. Mitchell'>
+<organization /></author>
+<date year='2014' month='July' />
+<abstract>
+<t>This document reserves two Autonomous System Numbers (ASNs) at the end of the 16-bit and 32-bit ranges, described in this document as "Last ASNs", and provides guidance to implementers and operators on their use.  This document updates Section 10 of RFC 1930.</t></abstract></front>
+
+<seriesInfo name='BCP' value='6' />
+<seriesInfo name='RFC' value='7300' />
+<format type='TXT' octets='7952' target='http://www.rfc-editor.org/rfc/rfc7300.txt' />
+</reference>

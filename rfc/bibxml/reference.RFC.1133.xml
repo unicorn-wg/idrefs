@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1133'>
+
+<front>
+<title>Routing between the NSFNET and the DDN</title>
+<author initials='J.' surname='Yu' fullname='Jessica (Jie Yun) Yu'>
+<organization>Merit Computer Network</organization>
+<address>
+<postal>
+<street>1075 Beal Avenue</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48109</code>
+<country>US</country></postal>
+<phone>+1 313 936 2655</phone>
+<facsimile>+1 313 747 3745</facsimile>
+<email>jyy@merit.edu</email></address></author>
+<author initials='H.' surname='Braun' fullname='Hans-Werner Braun'>
+<organization>Merit Computer Network</organization>
+<address>
+<postal>
+<street>1075 Beal Avenue</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48109</code>
+<country>US</country></postal>
+<phone>+1 313 763 4897</phone>
+<facsimile>+1 313 747 3745</facsimile>
+<email>hwb@merit.edu</email></address></author>
+<date year='1989' day='1' month='November' /></front>
+
+<seriesInfo name='RFC' value='1133' />
+<format type='TXT' octets='23169' target='http://www.rfc-editor.org/rfc/rfc1133.txt' />
+</reference>

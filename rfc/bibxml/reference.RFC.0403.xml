@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0403'>
+
+<front>
+<title>Desirability of a Network 1108 Service</title>
+<author initials='G.' surname='Hicks' fullname='G. Hicks'>
+<organization /></author>
+<date year='1973' month='January' /></front>
+
+<seriesInfo name='RFC' value='403' />
+<format type='TXT' octets='9750' target='http://www.rfc-editor.org/rfc/rfc403.txt' />
+<format type='PDF' octets='219744' target='http://www.rfc-editor.org/rfc/rfc403.pdf' />
+</reference>

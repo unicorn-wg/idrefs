@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0674'>
+
+<front>
+<title abbrev='PCP Announcement'>Procedure call documents: Version 2</title>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization>
+<address>
+<postal>
+<street />
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<phone>+1 415 326 6200 x3718</phone>
+<email>POSTEL@SRI-ARC</email></address></author>
+<author initials='J.' surname='White' fullname='James E. White'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization>
+<address>
+<postal>
+<street />
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<phone>+1 415 326 6200 x2960</phone>
+<email>WHITE@SRI-ARC</email></address></author>
+<date year='1974' day='12' month='December' />
+<abstract>
+<t>As many of you may know SRI is part of a team working on the National Software Works project. In the course of our work we have developed a Procedure Call Protocol to be used between the modules which make up the NSW.</t></abstract></front>
+
+<seriesInfo name='RFC' value='674' />
+<format type='TXT' octets='12178' target='http://www.rfc-editor.org/rfc/rfc674.txt' />
+</reference>

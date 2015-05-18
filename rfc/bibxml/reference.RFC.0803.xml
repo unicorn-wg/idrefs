@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0803'>
+
+<front>
+<title>Dacom 450/500 facsimile data transcoding</title>
+<author initials='A.' surname='Agarwal' fullname='A. Agarwal'>
+<organization /></author>
+<author initials='M.' surname='O&apos;Connor' fullname='M. J. O&apos;Connor'>
+<organization /></author>
+<author initials='D.' surname='Mills' fullname='D. L. Mills'>
+<organization /></author>
+<date year='1981' day='2' month='November' /></front>
+
+<seriesInfo name='RFC' value='803' />
+<format type='TXT' octets='33826' target='http://www.rfc-editor.org/rfc/rfc803.txt' />
+</reference>

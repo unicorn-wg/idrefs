@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2218'>
+
+<front>
+<title abbrev='Common Schema for IWPS'>A Common Schema for the Internet White Pages Service</title>
+<author initials='T.' surname='Genovese' fullname='Tony Genovese'>
+<organization>The Microsoft Corporation</organization>
+<address>
+<postal>
+<street>One Microsoft Way</street>
+<street>Redmond</street>
+<street>Washington 98007</street>
+<country>USA</country></postal>
+<phone>(206) 703-0852</phone>
+<email>TonyG@Microsoft.com</email></address></author>
+<author initials='B.' surname='Jennings' fullname='Barbara Jennings'>
+<organization>Sandia National Laboratories</organization>
+<address>
+<postal>
+<street>Albuquerque</street>
+<street>New Mexico 87106</street>
+<country>USA</country></postal>
+<phone>(505) 845-8554</phone>
+<email>jennings@sandia.gov</email></address></author>
+<date year='1997' month='October' />
+<area>Applications</area>
+<keyword>white pages</keyword>
+<abstract>
+<t>
+   This work is the result of the IETF Integrated Directory Services
+   (IDS) Working Group.  The IDS Working Group proposes a standard
+   specification for a simple Internet White Pages service by defining a
+   common schema for use by the various White Pages servers.  This
+   schema is independent of specific implementations of the White Pages
+   service.
+</t>
+<t>
+   This document specifies the minimum set of core attributes of a White
+   Pages entry for an individual and describes how new objects with
+   those attributes can be defined and published.  It does not describe
+   how to represent other objects in the White Pages service.  Further,
+   it does not address the search sort expectations within a particular
+   service.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2218' />
+<format type='TXT' octets='16258' target='http://www.rfc-editor.org/rfc/rfc2218.txt' />
+<format type='XML' octets='19548' target='http://xml.resource.org/public/rfc/xml/rfc2218.xml' />
+</reference>

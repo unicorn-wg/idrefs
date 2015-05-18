@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0193'>
+
+<front>
+<title>NETWORK CHECKOUT</title>
+<author initials='E.' surname='Harslem' fullname='E. Harslem'>
+<organization>Rand Corporation</organization></author>
+<author initials='J.' surname='Heafner' fullname='J. Heafner'>
+<organization>Rand Corporation</organization></author>
+<date year='1971' day='14' month='July' />
+<abstract>
+<t>As of 15 July we had contacted or been contacted by the sites listed below.  The matrix indicates the elements of Network software we have verified at each site.</t></abstract></front>
+
+<seriesInfo name='RFC' value='193' />
+<format type='TXT' octets='3622' target='http://www.rfc-editor.org/rfc/rfc193.txt' />
+</reference>

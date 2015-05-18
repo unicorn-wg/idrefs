@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3232'>
+
+<front>
+<title>Assigned Numbers: RFC 1700 is Replaced by an On-line Database</title>
+<author initials='J.' surname='Reynolds' fullname='J. Reynolds'>
+<organization /></author>
+<date year='2002' month='January' />
+<abstract>
+<t>This memo obsoletes RFC 1700 (STD 2) "Assigned Numbers", which contained an October 1994 snapshot of assigned Internet protocol parameters.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='3232' />
+<format type='TXT' octets='3849' target='http://www.rfc-editor.org/rfc/rfc3232.txt' />
+</reference>

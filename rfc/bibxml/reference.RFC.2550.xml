@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2550'>
+
+<front>
+<title>Y10K and Beyond</title>
+<author initials='S.' surname='Glassman' fullname='Steve Glassman'>
+<organization>Compaq Systems Research Center</organization>
+<address>
+<postal>
+<street>130 Lytton Avenue</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94301</code>
+<country>US</country></postal>
+<phone>+1 650 853 2166</phone>
+<email>steveg@pa.dec.com</email></address></author>
+<author initials='M.' surname='Manasse' fullname='Mark Manasse'>
+<organization>Compaq Systems Research Center</organization>
+<address>
+<postal>
+<street>130 Lytton Avenue</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94301</code>
+<country>US</country></postal>
+<phone>+1 650 853 2221</phone>
+<email>msm@pa.dec.com</email></address></author>
+<author initials='J.' surname='Mogul' fullname='Jeff Mogul'>
+<organization>Compaq Western Resarch Lab</organization>
+<address>
+<postal>
+<street>250 University Avenue</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94301</code>
+<country>US</country></postal>
+<phone>+1 650 617 3300</phone>
+<email>mogul@pa.dec.com</email></address></author>
+<date year='1999' month='April' day='1' />
+<abstract>
+<t>As we approach the end of the millennium, much attention has been paid to the so-called "Y2K" problem.  Nearly everyone now regrets the short-sightedness of the programmers of yore who wrote programs designed to fail in the year 2000.  Unfortunately, the current fixes for Y2K lead inevitably to a crisis in the year 10,000 when the programs are again designed to fail.</t>
+<t>This specification provides a solution to the "Y10K" problem which has also been called the "YAK" problem (hex) and the "YXK" problem (Roman numerals).</t></abstract></front>
+
+<seriesInfo name='RFC' value='2550' />
+<format type='TXT' octets='28011' target='http://www.rfc-editor.org/rfc/rfc2550.txt' />
+</reference>

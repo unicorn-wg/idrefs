@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0472'>
+
+<front>
+<title abbrev='Reply to Request for Graphics Information'>Illinois' reply to Maxwell's request for graphics information (NIC 14925)</title>
+<author initials='S.' surname='Bunch' fullname='Steve Bunch'>
+<organization>University of Illinois, Center for Advanced Computation, ANTS</organization></author>
+<date year='1973' day='1' month='March' />
+<abstract>
+<t>This is a reply to Craig Maxwell's (UCLA-NMC) "Request for graphics information" of 3/7/73.</t></abstract></front>
+
+<seriesInfo name='RFC' value='472' />
+<format type='TXT' octets='4780' target='http://www.rfc-editor.org/rfc/rfc472.txt' />
+</reference>

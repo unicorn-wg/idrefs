@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0435'>
+
+<front>
+<title>Telnet issues</title>
+<author initials='B.' surname='Cosell' fullname='B. Cosell'>
+<organization /></author>
+<author initials='D.C.' surname='Walden' fullname='D.C. Walden'>
+<organization /></author>
+<date year='1973' month='January' /></front>
+
+<seriesInfo name='RFC' value='435' />
+<format type='TXT' octets='23019' target='http://www.rfc-editor.org/rfc/rfc435.txt' />
+</reference>

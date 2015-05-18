@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2756'>
+
+<front>
+<title>Hyper Text Caching Protocol (HTCP/0.0)</title>
+<author initials='P.' surname='Vixie' fullname='Paul Vixie'>
+<organization>Internet Software Consortium</organization>
+<address>
+<postal>
+<street>950 Charter Street</street>
+<city>Redwood City</city>
+<region>CA</region>
+<code>94063</code>
+<country>US</country></postal>
+<phone>+1 650 779 7001</phone>
+<email>vixie@isc.org</email></address></author>
+<author initials='D.' surname='Wessels' fullname='Duane Wessels'>
+<organization>USCD, National Lab for Applied Network Research</organization>
+<address>
+<postal>
+<street>9500 Gilman Drive</street>
+<city>La Jolla</city>
+<region>CA</region>
+<code>92093</code>
+<country>US</country></postal>
+<phone>+1 303 497 1822</phone>
+<email>wessels@nlanr.net</email></address></author>
+<date year='2000' month='January' />
+<abstract>
+<t>This document describes HTCP, a protocol for discovering HTTP caches and cached data, managing sets of HTTP caches, and monitoring cache activity.  This is an experimental protocol, one among several proposals to perform these functions.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2756' />
+<format type='TXT' octets='32176' target='http://www.rfc-editor.org/rfc/rfc2756.txt' />
+</reference>

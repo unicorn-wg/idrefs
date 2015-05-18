@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7241'>
+
+<front>
+<title>The IEEE 802/IETF Relationship</title>
+<author initials='S.' surname='Dawkins' fullname='S. Dawkins'>
+<organization /></author>
+<author initials='P.' surname='Thaler' fullname='P. Thaler'>
+<organization /></author>
+<author initials='D.' surname='Romascanu' fullname='D. Romascanu'>
+<organization /></author>
+<author initials='B.' surname='Aboba' fullname='B. Aboba'>
+<organization /></author>
+<date year='2014' month='July' />
+<abstract>
+<t>This document describes the standardization cooperation between Project 802 of the Institute of Electrical and Electronics Engineers (IEEE) and the Internet Engineering Task Force (IETF). This document obsoletes RFC 4441.&lt;/t>&lt;t> Note: This document was collaboratively developed by authors from both the IEEE 802 and IETF leadership and was reviewed and approved by the IEEE 802 Executive Committee prior to publication.</t></abstract></front>
+
+<seriesInfo name='RFC' value='7241' />
+<format type='TXT' octets='80378' target='http://www.rfc-editor.org/rfc/rfc7241.txt' />
+</reference>

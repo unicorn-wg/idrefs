@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1514'>
+
+<front>
+<title>Host Resources MIB</title>
+<author initials='P.' surname='Grillo' fullname='Pete Grillo'>
+<organization>Intel Corporation, Network Innovations</organization>
+<address>
+<postal>
+<street>10915 NW Lost Park Drive</street>
+<city>Portland</city>
+<region>OR</region>
+<code>97229</code>
+<country>US</country></postal>
+<phone>+1 503 526 9766</phone>
+<email>pl0143@mail.psi.net</email></address></author>
+<author initials='S.' surname='Waldbusser' fullname='Steven Waldbusser'>
+<organization>Carnegie Mellon University</organization>
+<address>
+<postal>
+<street>4910 Forbes Ave.</street>
+<city>Pittsburgh</city>
+<region>PA</region>
+<code>15213</code>
+<country>US</country></postal>
+<phone>+1 412 268 6628</phone>
+<facsimile>+1 412 268 4987</facsimile>
+<email>waldbusser@cmu.edu</email></address></author>
+<date year='1993' month='September' />
+<abstract>
+<t>This memo defines a MIB for use with managing host systems.  The term host" is construed to mean any computer that communicates with other similar computers attached to the internet and that is directly used by one or more human beings. Although this MIB does not necessarily apply to devices whose primary function is communications services (e.g., terminal servers, routers, bridges, monitoring equipment), such relevance is not explicitly precluded.  This MIB instruments attributes common to all internet hosts including, for example, both personal computers and systems that run variants of Unix.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1514' />
+<format type='TXT' octets='63775' target='http://www.rfc-editor.org/rfc/rfc1514.txt' />
+</reference>

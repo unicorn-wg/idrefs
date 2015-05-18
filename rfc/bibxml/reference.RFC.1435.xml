@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1435'>
+
+<front>
+<title>IESG Advice from Experience with Path MTU Discovery</title>
+<author initials='S.' surname='Knowles' fullname='Stev Knowles'>
+<organization>ftp Software</organization>
+<address>
+<postal>
+<street>2 High Street</street>
+<city>North Andover</city>
+<region>MA</region>
+<code>01845</code>
+<country>US</country></postal>
+<email>stev@ftp.com</email></address></author>
+<date year='1993' month='March' />
+<abstract>
+<t>In the course of reviewing the MTU Discovery protocol for possible elevation to Draft Standard, a specific operational problem was uncovered.  The problem results from the optional suppression of ICMP messages implemented in some routers.  This memo outlines a modification to this practice to allow the correct functioning of MTU Discovery.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1435' />
+<format type='TXT' octets='2708' target='http://www.rfc-editor.org/rfc/rfc1435.txt' />
+</reference>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1727'>
+
+<front>
+<title abbrev='Resource Transponders'>A Vision of an Integrated Internet Information Service</title>
+<author initials='C.' surname='Weider' fullname='Chris Weider'>
+<organization>Bunyip Information Systems, Inc.</organization>
+<address>
+<postal>
+<street>2001 S. Huron Parkway #12</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48104</code>
+<country>US</country></postal>
+<phone>+1 313 971 2223</phone>
+<email>clw@bunyip.com</email></address></author>
+<author initials='P.' surname='Deutsch' fullname='Peter Deutsch'>
+<organization>Bunyip Information Systems, Inc.</organization>
+<address>
+<postal>
+<street>310 Ste. Catherine St. West</street>
+<street>Suite 202</street>
+<city>Montreal</city>
+<region>Quebec</region>
+<code />
+<country>CA</country></postal>
+<phone>+1 514 875 8611</phone>
+<email>peterd@bunyip.com</email></address></author>
+<date year='1994' month='December' />
+<abstract>
+<t>This paper lays out a vision of how Internet information services might be integrated over the next few years, and discusses in some detail what steps will be needed to achieve this integration.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1727' />
+<format type='TXT' octets='28468' target='http://www.rfc-editor.org/rfc/rfc1727.txt' />
+</reference>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1795'>
+
+<front>
+<title abbrev='Data Link Switching'>Data Link Switching: Switch-to-Switch Protocol AIW DLSw RIG: DLSw Closed Pages, DLSw Standard Version 1</title>
+<author initials='L.' surname='Wells' fullname='Louise Wells'>
+<organization>Internetwork Technology Institute</organization>
+<address>
+<postal>
+<street>2021 Stratford Dr.</street>
+<city>Milpitas</city>
+<region>CA</region>
+<code>95035</code>
+<country>US</country></postal>
+<email>lhwells@cup.portal.com</email></address></author>
+<author initials='A.' surname='Bartky' fullname='Alan K. Bartky'>
+<organization>Sync Research Inc.</organization>
+<address>
+<postal>
+<street>7 Studebaker</street>
+<city>Irvine</city>
+<region>CA</region>
+<code>91728-2013</code>
+<country>US</country></postal>
+<phone>+1 714 588 2070</phone>
+<email>alan@sync.com</email></address></author>
+<date year='1995' month='April' />
+<abstract>
+<t>This RFC describes use of Data Link Switching over TCP/IP. The RFC is being distributed to members of the Internet community in order to solicit their reactions to the proposals contained in it.  While the issues discussed may not be directly relevant to the research problems of the Internet, they may be interesting to a number of researchers and Implementers.</t>
+<t>This RFC was created as a joint effort of the Advanced Peer-to-Peer Networking (APPN) Implementers Workshop (AIW) Data Link Switching (DLSw) Related Interest Group (RIG).  The APPN Implementers Workshop is a group sponsored by IBM and consists of representatives of member companies implementing current and future IBM Networking interoperable products. The DLSw Related Interest Group was formed in this forum in order to produce a single version of the Switch to Switch Protocol (SSP) which could be implemented by all vendors, which would fix documentation problems with the existing RFC 1434, and which would enhance and evolve the protocol to add new functions and features.</t>
+<t>This document is based on RFC 1434.  This document contains significant changes to RFC 1434 and therefore obsoletes that document.</t>
+<t>Any questions or comments relative to the contents of this RFC should be sent to the following Internet address: aiw-dlsw@networking.raleigh.ibm.com.</t>
+<t>NOTE 1: This is a widely subscribed mailing list and messages sent to this address will be sent to all members of the DLSw mailing list. For specific questions relating to subscribing to the AIW and any of it's working groups send email to: appn@vnet.ibm.com</t>
+<t>Information regarding all of the AIW working groups and the work they are producing can be obtained by copying, via anonymous ftp, the file aiwinfo.psbin or aiwinfo.txt from the Internet host networking.raleigh.ibm.com, located in directory aiw.</t>
+<t>NOTE 2:  These mailing lists and addresses are subject to change.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1795' />
+<format type='TXT' octets='214848' target='http://www.rfc-editor.org/rfc/rfc1795.txt' />
+</reference>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2783'>
+
+<front>
+<title abbrev='Pulse-Per-Second API'>Pulse-Per-Second API for UNIX-like Operating Systems, Version 1.0</title>
+<author initials='J.' surname='Mogul' fullname='Jeffrey C. Mogul'>
+<organization>Compaq Computer Corporation, Western Research Laboratory</organization>
+<address>
+<postal>
+<street>250 University Avenue</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94301</code>
+<country>US</country></postal>
+<phone>+1 650 617 3304</phone>
+<email>mogul@wrl.dec.com</email></address></author>
+<author initials='D.' surname='Mills' fullname='David L. Mills'>
+<organization>University of Delaware, Electrical and Computer Engineering Department</organization>
+<address>
+<postal>
+<street />
+<city>Newark</city>
+<region>DE</region>
+<code>19716</code>
+<country>US</country></postal>
+<phone>+1 302 831 8247</phone>
+<email>mills@udel.edu</email></address></author>
+<author initials='J.' surname='Brittenson' fullname='Jan Brittenson'>
+<organization>Sun Microsystems, Inc.</organization>
+<address>
+<postal>
+<street>901 San Antonio Rd  M/S MPK17-202</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94303</code>
+<country>US</country></postal>
+<email>Jan.Brittenson@Eng.Sun.COM</email></address></author>
+<author initials='J.' surname='Stone' fullname='Jonathan Stone'>
+<organization>Stanford Distributed Systems Group</organization>
+<address>
+<postal>
+<street />
+<city>Stanford</city>
+<region>CA</region>
+<code>94305</code>
+<country>US</country></postal>
+<phone>+1 650 723 2513</phone>
+<email>jonathan@dsg.stanford.edu</email></address></author>
+<author initials='U.' surname='Windl' fullname='Ulrich Windl'>
+<organization>Universitaet Regensburg, Klinikum</organization>
+<address>
+<postal>
+<street />
+<city />
+<region />
+<code />
+<country>DE</country></postal>
+<email>ulrich.windl@rz.uni-regensburg.de</email></address></author>
+<date year='2000' month='March' />
+<abstract>
+<t>RFC 1589 describes a UNIX kernel implementation model for high-precision time-keeping.  This model is meant for use in conjunction with the Network Time Protocol (NTP, RFC 1305), or similar time synchronization protocols.  One aspect of this model is an accurate interface to the high-accuracy, one pulse-per-second (PPS) output typically available from precise time sources (such as a GPS or GOES receiver).  RFC 1589 did not define an API for managing the PPS facility, leaving implementors without a portable means for using PPS sources.  This document specifies such an API.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2783' />
+<format type='TXT' octets='61421' target='http://www.rfc-editor.org/rfc/rfc2783.txt' />
+</reference>

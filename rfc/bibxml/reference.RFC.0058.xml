@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0058'>
+
+<front>
+<title>Logical Message Synchronization</title>
+<author initials='T.' surname='Skinner' fullname='T. P. Skinner'>
+<organization>Massachusetts Institute of Technology (MIT),  Project MAC</organization></author>
+<date year='1970' day='26' month='June' />
+<abstract>
+<t>At the last network meeting, the question of logical and physical message distinctions was raised.  An argument was made in favor of never running two logical messages together as one or more physical messages.  Another method of stating this is that a logical message must begin on a physical message boundary.  This did not, however, solve the problem of locating the end of a logical message.  A rather poor technique was suggested by myself which consisted of using the first partial physical message as an indication of the last physical message of the logical message.  This technique was thrown out for a number of very valid reasons.  The solution that seemed most pleasing was the inclusion of some sort of a bit count or data type specification to precede the logical message.  Most everyone seemed to like this even though it was stated in a very general way.</t></abstract></front>
+
+<seriesInfo name='RFC' value='58' />
+<format type='TXT' octets='3767' target='http://www.rfc-editor.org/rfc/rfc58.txt' />
+</reference>

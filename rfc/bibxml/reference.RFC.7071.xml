@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7071'>
+
+<front>
+<title>A Media Type for Reputation Interchange</title>
+<author initials='N.' surname='Borenstein' fullname='N. Borenstein'>
+<organization /></author>
+<author initials='M.' surname='Kucherawy' fullname='M. Kucherawy'>
+<organization /></author>
+<date year='2013' month='November' />
+<abstract>
+<t>This document defines the format of reputation response data ("reputons"), the media type for packaging it, and definition of a registry for the names of reputation applications and response sets.</t></abstract></front>
+
+<seriesInfo name='RFC' value='7071' />
+<format type='TXT' octets='29541' target='http://www.rfc-editor.org/rfc/rfc7071.txt' />
+</reference>

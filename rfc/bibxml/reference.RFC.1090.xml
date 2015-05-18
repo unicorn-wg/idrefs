@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1090'>
+
+<front>
+<title>SMTP on X.25</title>
+<author initials='R.' surname='Ullmann' fullname='Robert Ullmann'>
+<organization>Prime Computer, Inc.</organization>
+<address>
+<postal>
+<street>Technology Drive</street>
+<city>Milford</city>
+<region>MA</region>
+<code>01757</code>
+<country>US</country></postal>
+<phone>+1 508 478 8600 x1736</phone>
+<email>Ariel@Relay.Prime.COM</email></address></author>
+<date year='1989' day='1' month='February' /></front>
+
+<seriesInfo name='RFC' value='1090' />
+<format type='TXT' octets='6141' target='http://www.rfc-editor.org/rfc/rfc1090.txt' />
+</reference>

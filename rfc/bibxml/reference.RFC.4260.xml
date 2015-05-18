@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4260'>
+
+<front>
+<title>Mobile IPv6 Fast Handovers for 802.11 Networks</title>
+<author initials='P.' surname='McCann' fullname='P. McCann'>
+<organization /></author>
+<date year='2005' month='November' />
+<abstract>
+<t>This document describes how a Mobile IPv6 Fast Handover could be implemented on link layers conforming to the 802.11 suite of specifications.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='4260' />
+<format type='TXT' octets='35276' target='http://www.rfc-editor.org/rfc/rfc4260.txt' />
+</reference>

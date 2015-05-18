@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0394'>
+
+<front>
+<title>Two Proposed Changes to the IMP-Host Protocol</title>
+<author initials='J.' surname='McQuillan' fullname='John M. McQuillan'>
+<organization>Bolt Beranek and Newman Inc. (BBN)</organization></author>
+<date year='1972' day='27' month='September' />
+<abstract>
+<t>This note describes two changes to the IMP-Host communication protocol described in BBN Report 1822 and revised in RFC 381.  The first deals with the IMP-to-Host interface and the 30-second timeout mechanism on each IMP transmission to the Host.  The second deals with the Host-to-IMP interface and proposes a new timeout mechanism.  These changes are independent; in statement and in implementation.  We invite comments on each proposal.  If no adverse comments are received, they will be installed in the network on Tuesday, October 10 (if serious adverse comments are received, action will be delayed until early November).</t></abstract></front>
+
+<seriesInfo name='RFC' value='394' />
+<format type='TXT' octets='5780' target='http://www.rfc-editor.org/rfc/rfc394.txt' />
+</reference>

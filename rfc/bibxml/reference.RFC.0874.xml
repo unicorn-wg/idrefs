@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0874'>
+
+<front>
+<title>Critique of X.25</title>
+<author initials='M.' surname='Padlipsky' fullname='M. A. Padlipsky'>
+<organization>The Mitre Corporation</organization>
+<address>
+<postal>
+<street>P.O. Box 208</street>
+<city>Bedford</city>
+<region>MA</region>
+<code>01730</code>
+<country>US</country></postal>
+<email>Padlipsky@ISIA</email></address></author>
+<date year='1982' day='1' month='September' />
+<abstract>
+<t>The widely touted network interface protocol, "X.25", and its attendant conceptual framework, the International Standards Organization's Reference Model for Open System Interconnection ISORM), are analyzed and found wanting.  The paper is a companion piece to M82-48, and M82-51</t></abstract></front>
+
+<seriesInfo name='RFC' value='874' />
+<format type='TXT' octets='36386' target='http://www.rfc-editor.org/rfc/rfc874.txt' />
+</reference>

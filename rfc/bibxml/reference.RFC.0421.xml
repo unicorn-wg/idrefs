@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0421'>
+
+<front>
+<title>Software Consulting Service for Network Users</title>
+<author initials='A.' surname='McKenzie' fullname='Alexander McKenzie'>
+<organization>Bolt Baranek and Newman (BBN)</organization></author>
+<date year='1972' day='27' month='November' />
+<abstract>
+<t>As actual or attempted Network use has grown, it has become increasingly apparent that users with real problems to solve are not afforded the kinds of software assistance and consulting services normally provided by computer service facilities.</t></abstract></front>
+
+<seriesInfo name='RFC' value='421' />
+<format type='TXT' octets='2483' target='http://www.rfc-editor.org/rfc/rfc421.txt' />
+</reference>

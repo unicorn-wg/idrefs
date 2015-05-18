@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2015'>
+
+<front>
+<title abbrev='MIME Security with PGP'>MIME Security with Pretty Good Privacy (PGP)</title>
+<author initials='M.' surname='Elkins' fullname='Michael Elkins'>
+<organization>P.O. Box 92957 - M1/102</organization>
+<address>
+<postal>
+<street>Los Angeles</street>
+<street>CA 90009-2957</street></postal>
+<phone>+1 310 336 8040</phone>
+<facsimile>+1 310 336 4402</facsimile></address></author>
+<date year='1996' month='October' />
+<area>Security</area>
+<area>Applications</area>
+<keyword>authentication</keyword>
+<keyword>content-type</keyword>
+<keyword>multipurpose internet mail extensions</keyword>
+<keyword>pretty good privacy</keyword>
+<keyword>security</keyword>
+<abstract>
+<t>
+   This document describes how Pretty Good Privacy (PGP) can be used to
+   provide privacy and authentication using the Multipurpose Internet
+   Mail Extensions (MIME) security content types described in RFC1847.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2015' />
+<format type='TXT' octets='14223' target='http://www.rfc-editor.org/rfc/rfc2015.txt' />
+<format type='XML' octets='16990' target='http://xml.resource.org/public/rfc/xml/rfc2015.xml' />
+</reference>

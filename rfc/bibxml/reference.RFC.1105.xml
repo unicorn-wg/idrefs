@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1105'>
+
+<front>
+<title abbrev='BGP'>Border Gateway Protocol (BGP)</title>
+<author initials='K.' surname='Lougheed' fullname='Kirk Lougheed'>
+<organization>cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>1360 Willow Road</street>
+<street>Suite 201</street>
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<phone>+1 415 326 1941</phone>
+<email>LOUGHEED@MATHOM.CISCO.COM</email></address></author>
+<author initials='J.' surname='Rekhter' fullname='Jacob Rekhter'>
+<organization>IBM Corporation, T.J. Watson Research Center</organization>
+<address>
+<postal>
+<street>P.O. Box 218</street>
+<city>Yorktown Heights</city>
+<region>NY</region>
+<code>10598</code>
+<country>US</country></postal>
+<phone>+1 914 945 3896</phone>
+<email>YAKOV@IBM.COM</email></address></author>
+<date year='1989' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='1105' />
+<format type='TXT' octets='37644' target='http://www.rfc-editor.org/rfc/rfc1105.txt' />
+</reference>

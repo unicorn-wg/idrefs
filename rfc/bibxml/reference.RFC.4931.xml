@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4931'>
+
+<front>
+<title>Extensible Provisioning Protocol (EPP) Domain Name Mapping</title>
+<author initials='S.' surname='Hollenbeck' fullname='S. Hollenbeck'>
+<organization /></author>
+<date year='2007' month='May' />
+<abstract>
+<t>This document describes an Extensible Provisioning Protocol (EPP) mapping for the provisioning and management of Internet domain names stored in a shared central repository.  Specified in XML, the mapping defines EPP command syntax and semantics as applied to domain names.  This document obsoletes RFC 3731. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='4931' />
+<format type='TXT' octets='88729' target='http://www.rfc-editor.org/rfc/rfc4931.txt' />
+</reference>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1807'>
+
+<front>
+<title>A Format for Bibliographic Records</title>
+<author initials='R.' surname='Lasher' fullname='Rebecca Lasher'>
+<organization>Stanford University, Mathematical and Computer Sciences Library</organization>
+<address>
+<postal>
+<street>M.S. 2125</street>
+<city>Stanford</city>
+<region>CA</region>
+<code>94305</code>
+<country>US</country></postal>
+<phone>+1 415 723 0864</phone>
+<email>rlasher@forsythe.stanford.edu</email></address></author>
+<author initials='D.' surname='Cohen' fullname='Danny Cohen'>
+<organization>Myricom</organization>
+<address>
+<postal>
+<street>325 N. Santa Anita Ave.</street>
+<city>Arcadia</city>
+<region>CA</region>
+<code>91006</code>
+<country>US</country></postal>
+<phone>+1 818 821 5555</phone>
+<email>Cohen@myri.com</email></address></author>
+<date year='1995' month='June' />
+<abstract>
+<t>This RFC defines a format for bibliographic records describing technical reports.  This format is used by the Cornell University Dienst protocol and the Stanford University SIFT system.  The original RFC (RFC 1357) was written by D. Cohen, ISI, July 1992. This is a revision of RFC 1357.  New fields include handle, other_access, keyword, and withdraw.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1807' />
+<format type='TXT' octets='29417' target='http://www.rfc-editor.org/rfc/rfc1807.txt' />
+</reference>

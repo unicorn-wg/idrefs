@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0823'>
+
+<front>
+<title abbrev='DARPA Internet Gateway'>DARPA Internet gateway</title>
+<author initials='R.' surname='Hinden' fullname='Robert Hinden'>
+<organization>Bolt Beranek and Newman Inc. (BBN)</organization>
+<address>
+<postal>
+<street>10 Moulton St.</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02238</code>
+<country>US</country></postal></address></author>
+<author initials='A.' surname='Sheltzer' fullname='Alan Sheltzer'>
+<organization>Bolt Beranek and Newman Inc. (BBN)</organization>
+<address>
+<postal>
+<street>10 Moulton St.</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02238</code>
+<country>US</country></postal></address></author>
+<author>
+<organization>Defense Advanced Research Projects Agency, Information Processing Techniques Office</organization>
+<address>
+<postal>
+<street>1400 Wilson Boulevard</street>
+<city>Arlington</city>
+<region>VA</region>
+<code>22209</code>
+<country>US</country></postal></address></author>
+<date year='1982' day='1' month='September' />
+<abstract>
+<t>This RFC is a status report on the Internet Gateway developed by BBN. It describes the Internet Gateway as of September 1982.  This memo presents detailed descriptions of message formats and gateway procedures, however this is not an implementation specification, and such details are subject to change.</t></abstract></front>
+
+<seriesInfo name='RFC' value='823' />
+<format type='TXT' octets='62620' target='http://www.rfc-editor.org/rfc/rfc823.txt' />
+</reference>

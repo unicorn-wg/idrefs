@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0232'>
+
+<front>
+<title>Postponement of network graphics meeting</title>
+<author initials='A.' surname='Vezza' fullname='A. Vezza'>
+<organization>Massachusetts Institute of Technology (MIT), Project MAC</organization></author>
+<date year='1971' day='23' month='September' />
+<abstract>
+<t>At the last Network Graphics meeting held in July at M.I.T., we tentatively scheduled the next Network Graphics meeting which is being hosted by Stanford AI, for October 17, 18, and 19.</t></abstract></front>
+
+<seriesInfo name='RFC' value='232' />
+<format type='TXT' octets='899' target='http://www.rfc-editor.org/rfc/rfc232.txt' />
+</reference>

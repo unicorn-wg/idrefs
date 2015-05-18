@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2652'>
+
+<front>
+<title abbrev='MIME Definitions for CIP'>MIME Object Definitions for the Common Indexing Protocol (CIP)</title>
+<author initials='J.' surname='Allen' fullname='Jeff Allen'>
+<organization />
+<address>
+<postal>
+<street>246 Hawthorne Street</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94301</code>
+<country>US</country></postal>
+<email>jeff.allen@acm.org</email></address></author>
+<author initials='M.' surname='Mealling' fullname='Michael Mealling'>
+<organization>Network Solutions, Inc.</organization>
+<address>
+<postal>
+<street>505 Huntmar Park Drive</street>
+<city>Herndon</city>
+<region>VA</region>
+<code>22070</code>
+<country>US</country></postal>
+<phone>+1 703 742 0400</phone>
+<email>michael.mealling@RWhois.net</email></address></author>
+<date year='1999' month='August' />
+<abstract>
+<t>The Common Indexing Protocol (CIP) is used to pass indexing information from server to server in order to facilitate query routing. The protocol is comprised of several MIME objects being passed from server to server. This document describes the definitions of those objects as well as the methods and requirements needed to define a new index type.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2652' />
+<format type='TXT' octets='42464' target='http://www.rfc-editor.org/rfc/rfc2652.txt' />
+</reference>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2229'>
+
+<front>
+<title>A Dictionary Server Protocol</title>
+<author initials='R.E.' surname='Faith' fullname='Rickard E. Faith'>
+<organization />
+<address>
+<email>faith@cs.unc.edu</email></address></author>
+<author initials='B.' surname='Martin' fullname='Bret Martin'>
+<organization />
+<address>
+<email>bamartin@miranda.org</email></address></author>
+<date year='1997' month='October' />
+<area>Applications</area>
+<keyword>dictionary</keyword>
+<abstract>
+<t>
+   The Dictionary Server Protocol (DICT) is a TCP transaction based
+   query/response protocol that allows a client to access dictionary
+   definitions from a set of natural language dictionary databases.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2229' />
+<format type='TXT' octets='59551' target='http://www.rfc-editor.org/rfc/rfc2229.txt' />
+<format type='XML' octets='64378' target='http://xml.resource.org/public/rfc/xml/rfc2229.xml' />
+</reference>

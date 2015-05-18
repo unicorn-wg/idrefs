@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7072'>
+
+<front>
+<title>A Reputation Query Protocol</title>
+<author initials='N.' surname='Borenstein' fullname='N. Borenstein'>
+<organization /></author>
+<author initials='M.' surname='Kucherawy' fullname='M. Kucherawy'>
+<organization /></author>
+<date year='2013' month='November' />
+<abstract>
+<t>This document defines a mechanism to conduct queries for reputation information over the HyperText Transfer Protocol (HTTP) using JavaScript Object Notation (JSON) as the payload meta-format.</t></abstract></front>
+
+<seriesInfo name='RFC' value='7072' />
+<format type='TXT' octets='17416' target='http://www.rfc-editor.org/rfc/rfc7072.txt' />
+</reference>

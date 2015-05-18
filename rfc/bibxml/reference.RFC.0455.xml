@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0455'>
+
+<front>
+<title>Traffic statistics (January 1973)</title>
+<author initials='A.M.' surname='McKenzie' fullname='A.M. McKenzie'>
+<organization /></author>
+<date year='1973' month='February' /></front>
+
+<seriesInfo name='RFC' value='455' />
+<format type='TXT' octets='5746' target='http://www.rfc-editor.org/rfc/rfc455.txt' />
+</reference>

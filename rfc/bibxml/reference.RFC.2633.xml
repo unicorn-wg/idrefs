@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2633'>
+
+<front>
+<title>S/MIME Version 3 Message Specification</title>
+<author initials='B.' surname='Ramsdell' fullname='Blake Ramsdell'>
+<organization>Worldtalk</organization>
+<address>
+<postal>
+<street>17720 NE 65th Street</street>
+<street>Suite 201</street>
+<city>Redmond</city>
+<region>WA</region>
+<code>98052</code>
+<country>US</country></postal>
+<phone>+1 425 376 0225</phone>
+<email>blaker@deming.com</email></address></author>
+<date year='1999' month='June' /></front>
+
+<seriesInfo name='RFC' value='2633' />
+<format type='TXT' octets='67870' target='http://www.rfc-editor.org/rfc/rfc2633.txt' />
+</reference>

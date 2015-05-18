@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4182'>
+
+<front>
+<title>Removing a Restriction on the use of MPLS Explicit NULL</title>
+<author initials='E.' surname='Rosen' fullname='E. Rosen'>
+<organization /></author>
+<date year='2005' month='September' />
+<abstract>
+<t>The label stack encoding for Multi-protocol Label Switching (MPLS) defines a reserved label value known as "IPv4 Explicit NULL" and a reserved label value known as "IPv6 Explicit NULL". Previously, these labels were only legal when they occurred at the bottom of the MPLS label stack. This restriction is now removed, so that these label values may legally occur anywhere in the stack.&lt;/t>&lt;t> This document updates RFC 3032. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='4182' />
+<format type='TXT' octets='14087' target='http://www.rfc-editor.org/rfc/rfc4182.txt' />
+</reference>

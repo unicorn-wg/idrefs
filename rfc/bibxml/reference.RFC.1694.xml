@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1694'>
+
+<front>
+<title abbrev='SMDS Interface Objects'>Definitions of Managed Objects for SMDS Interfaces using SMIv2</title>
+<author initials='T.' surname='Brown' fullname='Tracy A. Brown'>
+<organization>Bell Communications Research</organization>
+<address>
+<postal>
+<street>331 Newman Springs Road</street>
+<street>P.O. Box 7020</street>
+<city>Red Bank</city>
+<region>NJ</region>
+<code>07701-7020</code>
+<country>US</country></postal>
+<phone>+1 908 758 2107</phone>
+<email>tacox@mail.bellcore.com</email></address></author>
+<author initials='K.' surname='Tesink' fullname='Kaj Tesink'>
+<organization>Bell Communications Research</organization>
+<address>
+<postal>
+<street>331 Newman Springs Road</street>
+<street>P.O. Box 7020</street>
+<city>Red Bank</city>
+<region>NJ</region>
+<code>07701-7020</code>
+<country>US</country></postal>
+<phone>+1 908 758 5254</phone>
+<email>kaj@cc.bellcore.com</email></address></author>
+<date year='1994' month='August' />
+<abstract>
+<t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines objects for managing objects for SMDS access interfaces. This includes the following access protocols:</t>
+<t>SIPSIP/DXIandSIP/FRSIP/ATM</t>
+<t>This memo replaces RFC 1304, and defines a MIB module which is both compliant to the SNMPv2 SMI and semantically-identical to the existing RFC 1304-based definitions.</t>
+<t>This memo also assumes application of the MIB II Interfaces group as defined in.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1694' />
+<format type='TXT' octets='70856' target='http://www.rfc-editor.org/rfc/rfc1694.txt' />
+</reference>

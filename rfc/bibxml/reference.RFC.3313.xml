@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3313'>
+
+<front>
+<title>Private Session Initiation Protocol (SIP) Extensions for Media Authorization</title>
+<author initials='W.' surname='Marshall' fullname='W. Marshall'>
+<organization /></author>
+<date year='2003' month='January' /></front>
+
+<seriesInfo name='RFC' value='3313' />
+<format type='TXT' octets='36866' target='http://www.rfc-editor.org/rfc/rfc3313.txt' />
+</reference>

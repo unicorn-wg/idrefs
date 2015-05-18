@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2598'>
+
+<front>
+<title>An Expedited Forwarding PHB</title>
+<author initials='V.' surname='Jacobson' fullname='Van Jacobson'>
+<organization>Cisco Systems, Inc</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134-1706</code>
+<country>US</country></postal>
+<email>van@cisco.com</email></address></author>
+<author initials='K.' surname='Nichols' fullname='Kathleen Nichols'>
+<organization>Cisco Systems, Inc</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134-1706</code>
+<country>US</country></postal>
+<email>kmn@cisco.com</email></address></author>
+<author initials='K.' surname='Poduri' fullname='Kedarnath Poduri'>
+<organization>Bay Networks, Inc.</organization>
+<address>
+<postal>
+<street>4401 Great America Parkway</street>
+<city>Santa Clara</city>
+<region>CA</region>
+<code>95052-8185</code>
+<country>US</country></postal>
+<email>kpoduri@baynetworks.com</email></address></author>
+<date year='1999' month='June' />
+<abstract>
+<t>The definition of PHBs (per-hop forwarding behaviors) is
+a critical
+part of the work of the Diffserv Working Group.
+This document
+describes a PHB called Expedited Forwarding.
+We show the generality
+of this PHB by noting that it can be produced by more than one
+mechanism and give an example of its use to produce at least one
+service, a Virtual Leased Line.
+A recommended codepoint for this PHB
+is given.</t>
+<t>A pdf version of this document is available at.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2598' />
+<format type='TXT' octets='23656' target='http://www.rfc-editor.org/rfc/rfc2598.txt' />
+</reference>

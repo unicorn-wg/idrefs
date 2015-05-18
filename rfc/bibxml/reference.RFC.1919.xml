@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1919'>
+
+<front>
+<title>Classical versus Transparent IP Proxies</title>
+<author initials='M.' surname='Chatel' fullname='Marc Chatel'>
+<organization />
+<address>
+<postal>
+<street>9 avenue Jean Monnet</street>
+<city>Annecy-Le-Vieux</city>
+<region />
+<code>74940</code>
+<country>FR</country></postal>
+<email>mchatel@pax.eunet.ch</email></address></author>
+<date year='1996' month='March' />
+<abstract>
+<t>Many modern IP security systems (also called "firewalls" in the trade) make use of proxy technology to achieve access control.  This document explains "classical" and "transparent" proxy techniques and attempts to provide rules to help determine when each proxy system may be used without causing problems.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1919' />
+<format type='TXT' octets='87374' target='http://www.rfc-editor.org/rfc/rfc1919.txt' />
+</reference>

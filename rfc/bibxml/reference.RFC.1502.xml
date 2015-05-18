@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1502'>
+
+<front>
+<title>X.400 Use of Extended Character Sets</title>
+<author initials='H.' surname='Alvestrand' fullname='Harald Tveit Alvestrand'>
+<organization>SINTEF DELAB</organization>
+<address>
+<postal>
+<street />
+<city>Trondheim</city>
+<region />
+<code>N-7034</code>
+<country>NO</country></postal>
+<email>Harald.Alvestrand@delab.sintef.no</email></address></author>
+<date year='1993' month='August' />
+<abstract>
+<t></t></abstract></front>
+
+<seriesInfo name='RFC' value='1502' />
+<format type='TXT' octets='27976' target='http://www.rfc-editor.org/rfc/rfc1502.txt' />
+</reference>

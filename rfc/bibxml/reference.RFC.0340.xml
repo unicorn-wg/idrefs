@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0340'>
+
+<front>
+<title>Proposed Telnet Changes</title>
+<author initials='T.' surname='O&apos;Sullivan' fullname='Tom O&apos;Sullivan'>
+<organization>Raytheon Company</organization></author>
+<date year='1972' day='15' month='May' />
+<abstract>
+<t>The proposed change to the TELNET protocol calling for one standard protocol and dropping the idea of minimum implementation seems reasonable at this time.</t></abstract></front>
+
+<seriesInfo name='RFC' value='340' />
+<format type='TXT' octets='2656' target='http://www.rfc-editor.org/rfc/rfc340.txt' />
+</reference>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1174'>
+
+<front>
+<title abbrev='Identifier Assignment and Connected Status'>IAB recommended policy on distributing internet identifier assignment and IAB recommended policy change to internet "connected" status</title>
+<author initials='V.G.' surname='Cerf' fullname='Vinton G. Cerf'>
+<organization>Corporation for National Research Initiatives (CNRI)</organization>
+<address>
+<postal>
+<street>1895 Preston White Drive</street>
+<street>Suite 100</street>
+<city>Reston</city>
+<region>VA</region>
+<code>22091</code>
+<country>US</country></postal>
+<phone>+1 703 620 8990</phone>
+<email>vcerf@nri.reston.va.us</email></address></author>
+<date year='1990' day='1' month='August' /></front>
+
+<seriesInfo name='RFC' value='1174' />
+<format type='TXT' octets='21321' target='http://www.rfc-editor.org/rfc/rfc1174.txt' />
+</reference>

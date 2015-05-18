@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7417'>
+
+<front>
+<title>Extensions to Generic Aggregate RSVP for IPv4 and IPv6 Reservations over Pre-Congestion Notification (PCN) Domains</title>
+<author initials='G.' surname='Karagiannis' fullname='G. Karagiannis'>
+<organization /></author>
+<author initials='A.' surname='Bhargava' fullname='A. Bhargava'>
+<organization /></author>
+<date year='2014' month='December' />
+<abstract>
+<t>This document specifies extensions to Generic Aggregate RSVP (RFC 4860) for support of the Pre-Congestion Notification (PCN) Controlled Load (CL) and Single Marking (SM) edge behaviors over a Diffserv cloud using PCN.</t></abstract></front>
+
+<seriesInfo name='RFC' value='7417' />
+<format type='TXT' octets='79227' target='http://www.rfc-editor.org/rfc/rfc7417.txt' />
+</reference>

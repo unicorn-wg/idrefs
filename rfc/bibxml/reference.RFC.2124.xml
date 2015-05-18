@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2124'>
+
+<front>
+<title abbrev='Cabletron Flow Admission'>Cabletron&apos;s Light-weight Flow Admission Protocol Specification Version 1.0</title>
+<author initials='P.' surname='Amsden' fullname='Paul Amsden'>
+<organization />
+<address>
+<phone>+1 (603) 337-7408</phone>
+<email>amsden@ctron.com</email></address></author>
+<author initials='J.' surname='Amweg' fullname='Jim Amweg'>
+<organization />
+<address>
+<phone>+1 (603) 337-5247</phone>
+<email>amsden@ctron.com</email></address></author>
+<author initials='P.' surname='Calato' fullname='Paul Calato'>
+<organization />
+<address>
+<phone>+1 (603) 337-7625</phone>
+<email>amsden@ctron.com</email></address></author>
+<author initials='S.' surname='Bensley' fullname='Stephen Bensley'>
+<organization />
+<address>
+<phone>+1 (603) 337-7061</phone>
+<email>amsden@ctron.com</email></address></author>
+<author initials='G.' surname='Lyons' fullname='Gregory Lyons'>
+<organization />
+<address>
+<phone>+1 (603) 337-5318</phone>
+<email>amsden@ctron.com</email></address></author>
+<date year='1997' month='March' />
+<area>Routing</area>
+<keyword>Flow Admission Protocol</keyword>
+<abstract>
+<t>
+   Light-weight Flow Admission Protocol, LFAP, allows an external Flow
+   Admission Service (FAS) to manage flow admission at the switch,
+   allowing flexible Flow Admission Services to be deployed by a vendor
+   or customer without changes to, or undue burden on, the switch.
+</t>
+<t>
+   Specifically, this document specifies the protocol between the switch
+   Connection Control Entity (CCE) and the external FAS. Using LFAP, a
+   Flow Admission Service can: allow or disallow flows, define the
+   parameters under which a given flow is to operate (operating policy)
+   or, redirect the flow to an alternate destination. The FAS may also
+   maintain details of current or historical flows for billing, capacity
+   planning and other purposes.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2124' />
+<format type='TXT' octets='47912' target='http://www.rfc-editor.org/rfc/rfc2124.txt' />
+<format type='XML' octets='49037' target='http://xml.resource.org/public/rfc/xml/rfc2124.xml' />
+</reference>

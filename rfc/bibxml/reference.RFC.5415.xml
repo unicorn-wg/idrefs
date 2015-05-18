@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5415'>
+
+<front>
+<title>Control And Provisioning of Wireless Access Points (CAPWAP) Protocol Specification</title>
+<author initials='P.' surname='Calhoun' fullname='P. Calhoun'>
+<organization /></author>
+<author initials='M.' surname='Montemurro' fullname='M. Montemurro'>
+<organization /></author>
+<author initials='D.' surname='Stanley' fullname='D. Stanley'>
+<organization /></author>
+<date year='2009' month='March' />
+<abstract>
+<t>This specification defines the Control And Provisioning of Wireless Access Points (CAPWAP) Protocol, meeting the objectives defined by the CAPWAP Working Group in RFC 4564.  The CAPWAP protocol is designed to be flexible, allowing it to be used for a variety of wireless technologies.  This document describes the base CAPWAP protocol, while separate binding extensions will enable its use with additional wireless technologies. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='5415' />
+<format type='TXT' octets='345381' target='http://www.rfc-editor.org/rfc/rfc5415.txt' />
+</reference>

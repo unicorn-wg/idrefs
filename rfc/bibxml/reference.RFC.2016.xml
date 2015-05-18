@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2016'>
+
+<front>
+<title abbrev='Uniform Resource Agents'>Uniform Resource Agents (URAs)</title>
+<author initials='L.' surname='Daigle' fullname='Leslie Daigle'>
+<organization>Peter Deutsch</organization>
+<address>
+<postal>
+<street>Bill Heelan</street>
+<street>Chris Alpaugh</street>
+<street>Mary Maclachlan</street></postal>
+<phone>(514) 875-8611</phone>
+<email>ura-bunyip@bunyip.com</email></address></author>
+<date year='1996' month='October' />
+<area>Applications</area>
+<keyword>agent</keyword>
+<keyword>encapsulate</keyword>
+<keyword>uniform resource</keyword>
+<keyword>uniform resource agent</keyword>
+<abstract>
+<t>
+   This paper presents an experimental architecture for an agent system
+   that provides sophisticated Internet information access and
+   management.  Not a generalized architecture for active objects that
+   roam the Internet, these agents are modeled as extensions of existing
+   pieces of the Internet information infrastructure.  This experimental
+   agent technology focuses on the necessary information structures to
+   encapsulate Internet activities into objects that can be activated,
+   transformed, and combined into larger structured activities.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2016' />
+<format type='TXT' octets='38355' target='http://www.rfc-editor.org/rfc/rfc2016.txt' />
+<format type='XML' octets='39803' target='http://xml.resource.org/public/rfc/xml/rfc2016.xml' />
+</reference>

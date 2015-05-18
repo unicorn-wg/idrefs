@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1494'>
+
+<front>
+<title abbrev='X.400/MIME Body Equivalences'>Equivalences between 1988 X.400 and RFC-822 Message Bodies</title>
+<author initials='H.T.' surname='Alvestrand' fullname='Harald Tveit Alvestrand'>
+<organization>SINTEF DELAB</organization>
+<address>
+<postal>
+<street />
+<city>Trondheim</city>
+<region />
+<code>N-7034</code>
+<country>NO</country></postal>
+<email>Harald.Alvestrand@delab.sintef.no</email></address></author>
+<author initials='S.J.' surname='Thompson' fullname='Steven J. Thompson'>
+<organization>Soft*Switch, Inc.</organization>
+<address>
+<postal>
+<street>640 Lee Road</street>
+<city>Wayne</city>
+<region>PA</region>
+<code>19087</code>
+<country>US</country></postal>
+<phone>+1 215 640 7556</phone>
+<email>sjt@gateway.ssw.com</email></address></author>
+<date year='1993' month='August' /></front>
+
+<seriesInfo name='RFC' value='1494' />
+<format type='TXT' octets='37273' target='http://www.rfc-editor.org/rfc/rfc1494.txt' />
+</reference>

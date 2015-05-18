@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0311'>
+
+<front>
+<title>New Console Attachments to the USCB Host</title>
+<author initials='R.' surname='Bryan' fullname='Roland F. Bryan'>
+<organization>University California Santa Barbara (UCSB), Computer Research Laboratory</organization></author>
+<date year='1972' day='29' month='February' /></front>
+
+<seriesInfo name='RFC' value='311' />
+<format type='TXT' octets='3141' target='http://www.rfc-editor.org/rfc/rfc311.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0373'>
+
+<front>
+<title>Arbitrary Character Sets</title>
+<author initials='J.' surname='McCarthy' fullname='John McCarthy'>
+<organization>Stanford University, Artificial Intelligence (AI)</organization></author>
+<date year='1972' day='14' month='July' />
+<abstract>
+<t>It would be nice to be able to have documents stored in computers that could include arbitrary characters and to be able to display them on any CRT screen, edit them using any keyboard, and print them on any printer.  The object of this memorandum is to suggest how to get there from here with special reference to the ARPA network.</t></abstract></front>
+
+<seriesInfo name='RFC' value='373' />
+<format type='TXT' octets='7783' target='http://www.rfc-editor.org/rfc/rfc373.txt' />
+</reference>

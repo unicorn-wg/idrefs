@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0165'>
+
+<front>
+<title>Proffered Official Initial Connection Protocol</title>
+<author initials='J.' surname='Postel' fullname='J. Postel'>
+<organization /></author>
+<date year='1971' month='May' /></front>
+
+<seriesInfo name='RFC' value='165' />
+<format type='TXT' octets='8488' target='http://www.rfc-editor.org/rfc/rfc165.txt' />
+<format type='PDF' octets='248876' target='http://www.rfc-editor.org/rfc/rfc165.pdf' />
+</reference>

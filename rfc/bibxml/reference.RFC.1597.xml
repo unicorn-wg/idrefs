@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1597'>
+
+<front>
+<title>Address Allocation for Private Internets</title>
+<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
+<organization>IBM Corp, T.J. Watson Research Center</organization>
+<address>
+<postal>
+<street>P.O. Box 218</street>
+<city>Yorktown Heights</city>
+<region>NY</region>
+<code>10598</code>
+<country>US</country></postal>
+<phone>+1 914 945 3896</phone>
+<facsimile>+1 914 945 2141</facsimile>
+<email>yakov@watson.ibm.com</email></address></author>
+<author initials='R.G.' surname='Moskowitz' fullname='Robert G Moskowitz'>
+<organization>Chrysler Corporation</organization>
+<address>
+<postal>
+<street>25999 Lawrence Ave</street>
+<street>CIMS: 424-73-00</street>
+<city>Center Line</city>
+<region>MI</region>
+<code>48015</code>
+<country>US</country></postal>
+<phone>+1 810 758 8212</phone>
+<facsimile>+1 810 758 8173</facsimile>
+<email>3858921@mcimail.com</email></address></author>
+<author initials='D.' surname='Karrenberg' fullname='Daniel Karrenberg'>
+<organization>RIPE Network Coordination Centre</organization>
+<address>
+<postal>
+<street>Kruislaan 409</street>
+<city>Amsterdam</city>
+<region />
+<code>1098 SJ</code>
+<country>NL</country></postal>
+<phone>+31 20 5925065</phone>
+<facsimile>+31 20 5925090</facsimile>
+<email>Daniel.Karrenberg@ripe.net</email></address></author>
+<author initials='G.J.' surname='de Groot' fullname='Geert Jan de Groot'>
+<organization>RIPE Network Coordination Centre</organization>
+<address>
+<postal>
+<street>Kruislaan 409</street>
+<city>Amsterdam</city>
+<region />
+<code>1098 SJ</code>
+<country>NL</country></postal>
+<phone>+31 20 5925065</phone>
+<facsimile>+31 20 5925090</facsimile>
+<email>GeertJan.deGroot@ripe.net</email></address></author>
+<date year='1994' month='March' /></front>
+
+<seriesInfo name='RFC' value='1597' />
+<format type='TXT' octets='17430' target='http://www.rfc-editor.org/rfc/rfc1597.txt' />
+</reference>

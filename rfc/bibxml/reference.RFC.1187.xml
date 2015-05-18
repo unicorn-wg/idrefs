@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1187'>
+
+<front>
+<title>Bulk Table Retrieval with the SNMP</title>
+<author initials='M.' surname='Rose' fullname='Marshall T. Rose'>
+<organization>Performance Systems International, Inc.</organization>
+<address>
+<postal>
+<street>P.O. Box 391776</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94039</code>
+<country>US</country></postal>
+<phone>+1 415 961 3380</phone>
+<email>mrose@PSI.COM</email></address></author>
+<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
+<organization>Hughes, LAN Systems</organization>
+<address>
+<postal>
+<street>1225 Charleston Road</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<phone>+1 415 966 7934</phone>
+<email>KZM@HLS.COM</email></address></author>
+<author initials='J.' surname='Davin' fullname='James R. Davin'>
+<organization>Massechusetts Institute of Technology (MIT), Laboratory for Computer Science</organization>
+<address>
+<postal>
+<street>545 Technology Square</street>
+<street>NE43-507</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02139</code>
+<country>US</country></postal>
+<phone>+1 617 253 6020</phone>
+<email>jrd@ptt.lcs.mit.edu</email></address></author>
+<date year='1990' day='1' month='October' />
+<abstract>
+<t>This memo reports an interesting family of algorithms for bulk table retrieval using the Simple Network Management Protocol (RFC 1157). The reader is expected to be familiar with both the Simple Network Management Protocol and SNMP's powerful get-next operator.  Please send comments to: Marshall T. Rose (mrose@psi.com).</t></abstract></front>
+
+<seriesInfo name='RFC' value='1187' />
+<format type='TXT' octets='27220' target='http://www.rfc-editor.org/rfc/rfc1187.txt' />
+</reference>

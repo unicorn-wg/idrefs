@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1493'>
+
+<front>
+<title abbrev='Bridge MIB'>Definitions of Managed Objects for Bridges</title>
+<author initials='E.B.' surname='Decker' fullname='Eric B. Decker'>
+<organization>cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>1525 O'Brien Dr.</street>
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<phone>+1 415 326 1941</phone>
+<email>cire@cisco.com</email></address></author>
+<author initials='P.' surname='Langille' fullname='Paul Langille'>
+<organization>Digital Equipment Corporation (DEC)</organization>
+<address>
+<postal>
+<street>Digital Drive</street>
+<street>MK02-2/K03</street>
+<city>Merrimack</city>
+<region>NH</region>
+<code>03054</code>
+<country>US</country></postal>
+<phone>+1 603 884 4045</phone>
+<email>langille@edwin.enet.dec.com</email></address></author>
+<author initials='A.' surname='Rijsinghani' fullname='Anil Rijsinghani'>
+<organization>Digital Equipment Corporation (DEC)</organization>
+<address>
+<postal>
+<street>550 King Street</street>
+<city>Littleton</city>
+<region>MA</region>
+<code>01460</code>
+<country>US</country></postal>
+<phone>+1 508 486 6786</phone>
+<email>anil@levers.enet.dec.com</email></address></author>
+<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
+<organization>Hughes LAN Systems, Inc.</organization>
+<address>
+<postal>
+<street>1225 Charleston Road</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<phone>+1 415 966 7934</phone>
+<email>kzm@hls.com</email></address></author>
+<date year='1993' month='July' />
+<abstract>
+<t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP based internets. In particular it defines objects for managing MAC bridges based on the IEEE 802.1D-1990 standard between Local Area Network (LAN) segments.  Provisions are made for support of transparent bridging. Provisions are also made so that these objects apply to bridges connected by subnetworks other than LAN segments.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1493' />
+<format type='TXT' octets='74493' target='http://www.rfc-editor.org/rfc/rfc1493.txt' />
+</reference>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1303'>
+
+<front>
+<title abbrev='Convention for Describing SNMP Agents'>A Convention for Describing SNMP-based Agents</title>
+<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
+<organization>Hughes, LAN Systems</organization>
+<address>
+<postal>
+<street>1225 Charleston Road</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<phone>+1 415 966 7934</phone>
+<email>kzm@hls.com</email></address></author>
+<author initials='M.' surname='Rose' fullname='Marshall T. Rose'>
+<organization>Dover Beach Consulting, Inc.</organization>
+<address>
+<postal>
+<street>420 Whisman Court</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043-2112</code>
+<country>US</country></postal>
+<phone>+1 415 968 1052</phone>
+<email>mrose@dbc.mtview.ca.us</email></address></author>
+<date year='1992' month='February' />
+<abstract>
+<t>This memo suggests a straight-forward approach towards describing SNMP-based agents.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1303' />
+<format type='TXT' octets='22915' target='http://www.rfc-editor.org/rfc/rfc1303.txt' />
+</reference>

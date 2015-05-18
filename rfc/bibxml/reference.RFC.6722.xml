@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6722'>
+
+<front>
+<title>Publishing the "Tao of the IETF" as a Web Page</title>
+<author initials='P.' surname='Hoffman' fullname='P. Hoffman'>
+<organization /></author>
+<date year='2012' month='August' />
+<abstract>
+<t>This document describes how the "Tao of the IETF", which has been published as a series of RFCs in the past, is instead being published as a web page.  It also contains the procedure for publishing and editing that web page.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t></abstract></front>
+
+<seriesInfo name='RFC' value='6722' />
+<format type='TXT' octets='6192' target='http://www.rfc-editor.org/rfc/rfc6722.txt' />
+</reference>

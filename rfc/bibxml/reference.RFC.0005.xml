@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0005'>
+
+<front>
+<title>Decode Encode Language (DEL)</title>
+<author initials='J.' surname='Rulifson' fullname='Jeff Rulifson'>
+<organization>Stanford Research Institute (SRI) International</organization>
+<address>
+<postal>
+<street>333 Ravenswood</street>
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<phone>+1 415 326 6200 x4116</phone></address></author>
+<date year='1969' day='2' month='June' />
+<abstract>
+<t>The Decode-Encode Language (DEL) is a machine independent language tailored to two specific computer network tasks:</t>
+<t>accepting input codes from interactive consoles, giving immediate feedback, and packing the resulting information into message  packets for network transmissin.</t>
+<t>and accepting message packets from another computer, unpacking them, building trees of display information, and sending other information to the user at his interactive station.</t>
+<t>This is a working document for the evolution of the DEL language. Comments should be made through Jeff Rulifson at SRI.</t></abstract></front>
+
+<seriesInfo name='RFC' value='5' />
+<format type='TXT' octets='26408' target='http://www.rfc-editor.org/rfc/rfc5.txt' />
+</reference>

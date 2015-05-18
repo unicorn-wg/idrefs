@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1008'>
+
+<front>
+<title>Implementation guide for the ISO Transport Protocol</title>
+<author initials='W.' surname='McCoy' fullname='Wayne McCoy'>
+<organization /></author>
+<date year='1987' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='1008' />
+<format type='TXT' octets='204664' target='http://www.rfc-editor.org/rfc/rfc1008.txt' />
+</reference>

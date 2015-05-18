@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2170'>
+
+<front>
+<title abbrev='AREQUIPA'>Application REQuested IP over ATM (AREQUIPA)</title>
+<author initials='W.' surname='Almesberger' fullname='Werner Almesberger'>
+<organization>Jean-Yves Le Boudec,</organization>
+<address>
+<postal>
+<street>Philippe Oechslin (contact author)</street></postal>
+<email>{almesber,</email></address></author>
+<date year='1997' month='July' />
+<area>Internet</area>
+<keyword>asynchronous transfer mode</keyword>
+<abstract>
+<t>
+   This RFC has not had the benefit of the rigorous peer review that is
+   part of the process in an IETF working group.  The technology it
+   describes has been implemented and is now undergoing testing. It
+   would be wise to analyze the results of this testing as well as to
+   understand alternatives before committing to this approach for IP
+   over ATM with QoS guarantees.
+</t>
+<t>
+   This document specifies a method for allowing ATM-attached hosts that
+   have direct ATM connectivity to set up end-to-end IP over ATM
+   connections within the reachable ATM cloud, on request from
+   applications, and for the exclusive use by the requesting
+   applications. This allows the requesting applications to benefit in a
+   straightforward way from ATM&apos;s inherent ability to guarantee the
+   quality of service (QoS).
+</t>
+<t>
+   Given a mapping from service classes, as defined by INTSERV, to
+   ATM traffic descriptors, Arequipa can be used to implement integrated
+   services over ATM link layers. Usage of Arequipa to provide
+   integrated services even if ATM is only available for intermediate
+   links is not discussed in this document but should be straight-
+   forward.
+</t>
+<t>
+   The major advantage of using an approach like Arequipa is that it
+   needs to be implemented only on the hosts using it. It requires no
+   extra service (eg. NHRP or RSVP) to be deployed on the switches or
+   routers of the ATM cloud.
+   We discuss the implementation of Arequipa for hosts running IPv4 and
+   IPv6. As an illustration, we also discuss how World-Wide-Web
+   applications can use Arequipa to deliver documents with a guaranteed
+   quality of service.
+</t>
+<t>
+   In particular we show how
+
+<list>
+<t>
+     - Arequipa can be implemented in IPv4 by slightly modifying the
+</t>
+<t>
+     - Arequipa can be implemented in IPv6 by the appropriate use of
+       flow labels and the extension of the neighbour cache,
+</t>
+<t>
+     - Arequipa can be used in the Web by adding extra information in
+       the headers of HTTP requests and responses.
+</t></list></t>
+<t>
+   Finally, we address safety and security implications.
+</t></abstract>
+<note title='IESG Note'>
+<t>
+   This RFC has not had the benefit of the rigorous peer review that is
+   part of the process in an IETF working group.  The technology it
+   describes has been implemented and is now undergoing testing. It
+   would be wise to analyze the results of this testing as well as to
+   understand alternatives before committing to this approach for IP
+   over ATM with QoS guarantees.
+</t></note></front>
+
+<seriesInfo name='RFC' value='2170' />
+<format type='TXT' octets='22874' target='http://www.rfc-editor.org/rfc/rfc2170.txt' />
+<format type='XML' octets='25467' target='http://xml.resource.org/public/rfc/xml/rfc2170.xml' />
+</reference>

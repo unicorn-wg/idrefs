@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1310'>
+
+<front>
+<title abbrev='Internet Standards Process'>The Internet Standards Process</title>
+<author initials='A.' surname='Chapin' fullname='A. Lyman Chapin'>
+<organization>BBN Communications Corporation</organization>
+<address>
+<postal>
+<street>150 Cambridge Park Drive</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02140</code>
+<country>US</country></postal>
+<phone>+1 617 873 3133</phone>
+<facsimile>+1 617 873 4086</facsimile>
+<email>Lyman@BBN.COM</email></address></author>
+<date year='1992' month='March' /></front>
+
+<seriesInfo name='RFC' value='1310' />
+<format type='TXT' octets='54738' target='http://www.rfc-editor.org/rfc/rfc1310.txt' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1004'>
+
+<front>
+<title>Distributed-protocol authentication scheme</title>
+<author initials='D.' surname='Mills' fullname='D. L. Mills'>
+<organization>University of Delaware</organization></author>
+<date year='1987' day='1' month='April' /></front>
+
+<seriesInfo name='RFC' value='1004' />
+<format type='TXT' octets='21402' target='http://www.rfc-editor.org/rfc/rfc1004.txt' />
+</reference>

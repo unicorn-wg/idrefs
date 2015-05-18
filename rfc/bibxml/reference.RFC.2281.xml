@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2281'>
+
+<front>
+<title abbrev='Cisco HSRP'>Cisco Hot Standby Router Protocol (HSRP)</title>
+<author initials='T.' surname='Li' fullname='Tony Li'>
+<organization>Juniper Networks, Inc.</organization>
+<address>
+<postal>
+<street>3260 Jay St.</street>
+<street>Santa Clara</street>
+<street>CA 95054</street></postal>
+<phone>(408) 327-1900</phone>
+<email>tli@juniper.net</email></address></author>
+<author initials='B.' surname='Cole' fullname='Bruce Cole'>
+<organization>Juniper Networks, Inc.</organization>
+<address>
+<postal>
+<street>3260 Jay St.</street>
+<street>Santa Clara</street>
+<street>CA 95054</street></postal>
+<phone>(408) 327-1900</phone>
+<email>cole@juniper.net</email></address></author>
+<author initials='P.' surname='Morton' fullname='Phil Morton'>
+<organization>Cisco Systems</organization>
+<address>
+<postal>
+<street>170 Tasman Dr.</street>
+<street>San Jose</street>
+<street>CA 95143</street></postal>
+<phone>(408) 526-7632</phone>
+<email>pmorton@cisco.com</email></address></author>
+<author initials='D.' surname='Li' fullname='Dawn Li'>
+<organization>Cisco Systems</organization>
+<address>
+<postal>
+<street>170 Tasman Dr.</street>
+<street>San Jose</street>
+<street>CA 95143</street></postal>
+<phone>(408) 527-2014</phone>
+<email>dawnli@cisco.com</email></address></author>
+<date year='1998' month='March' />
+<area>Routing</area>
+<keyword>router</keyword>
+<keyword>routing</keyword>
+<abstract>
+<t>
+   This document reflects an existing deployed protocol.  The IETF does
+   have a working group which is in the process of producing a standards
+   track protocol to address the same issues.
+</t>
+<t>
+   The memo specifies the Hot Standby Router Protocol (HSRP).  The goal
+   of the protocol is to allow hosts to appear to use a single router
+   and to maintain connectivity even if the actual first hop router they
+   are using fails.  Multiple routers participate in this protocol and
+   in concert create the illusion of a single virtual router.  The
+   protocol insures that one and only one of the routers is forwarding
+   packets on behalf of the virtual router.  End hosts forward their
+   packets to the virtual router.
+</t>
+<t>
+   The router forwarding packets is known as the active router.  A
+   standby router is selected to replace the active router should it
+   fail. The protocol provides a mechanism for determining active and
+   standby routers, using the IP addresses on the participating routers.
+   If an active router fails a standby router can take over without a
+   major interruption in the host&apos;s connectivity.  This memo also
+   discusses the ARP, MAC address, and security issues with this
+   protocol.
+</t></abstract>
+<note title='IESG Note'>
+<t>
+   This document reflects an existing deployed protocol.  The IETF does
+   have a working group which is in the process of producing a standards
+   track protocol to address the same issues.
+</t></note></front>
+
+<seriesInfo name='RFC' value='2281' />
+<format type='TXT' octets='35161' target='http://www.rfc-editor.org/rfc/rfc2281.txt' />
+<format type='XML' octets='34694' target='http://xml.resource.org/public/rfc/xml/rfc2281.xml' />
+</reference>

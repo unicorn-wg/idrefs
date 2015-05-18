@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2063'>
+
+<front>
+<title>Traffic Flow Measurement: Architecture</title>
+<author initials='N.' surname='Brownlee' fullname='Nevil Brownlee'>
+<organization>The University of Auckland, Information Technology Systems &amp; Services</organization>
+<address>
+<postal>
+<street>Private Bag 92-019</street>
+<city>Auckland</city>
+<region />
+<code />
+<country>NZ</country></postal>
+<phone>+64 9 3737599x8941</phone>
+<email>n.brownlee @auckland.ac.nz</email></address></author>
+<author initials='C.' surname='Mills' fullname='Cyndi Mills'>
+<organization>BBN Systems and Technologies</organization>
+<address>
+<phone>+1 617 873 4143</phone>
+<email>cmills@bbn.com</email></address></author>
+<author initials='G.' surname='Ruth' fullname='Greg Ruth'>
+<organization>GTE Laboratories, Inc</organization>
+<address>
+<phone>+1 617 466 2448</phone>
+<email>gruth@gte.com</email></address></author>
+<date year='1997' month='January' />
+<abstract>
+<t>This document describes an architecture for the measurement and reporting of network traffic flows, discusses how this relates to an overall network traffic flow architecture, and describes how it can be used within the Internet.  It is intended to provide a starting point for the Realtime Traffic Flow Measurement Working Group.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2063' />
+<format type='TXT' octets='89092' target='http://www.rfc-editor.org/rfc/rfc2063.txt' />
+</reference>

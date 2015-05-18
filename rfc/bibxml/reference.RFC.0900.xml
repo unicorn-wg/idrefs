@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0900'>
+
+<front>
+<title abbrev='Assigned Numbers Network Numbers'>Assigned Numbers</title>
+<author initials='J.' surname='Reynolds' fullname='Joyce Reynolds'>
+<organization>University of Southern California (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292-6695</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone>
+<email>JKREYNOLDS@USC-ISIF.ARPA</email></address></author>
+<author initials='J.' surname='Postel' fullname='J. Postel'>
+<organization>University of Southern California (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<date year='1984' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='900' />
+<format type='TXT' octets='82116' target='http://www.rfc-editor.org/rfc/rfc900.txt' />
+</reference>

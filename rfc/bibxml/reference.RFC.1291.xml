@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1291'>
+
+<front>
+<title abbrev='Potential Technical Services'>Mid-Level Networks Potential Technical Services</title>
+<author initials='V.' surname='Aggarwal' fullname='Vikas Aggarwal'>
+<organization>Princeton University, JvNCnet</organization>
+<address>
+<postal>
+<street>6 von Neumann Hall</street>
+<city>Princeton</city>
+<region>NJ</region>
+<code>08544</code>
+<country>US</country></postal>
+<phone>+1 609 258 2403</phone>
+<email>vikas@jvnc.net</email></address></author>
+<date year='1991' month='December' />
+<abstract>
+<t>This document proposes a set of technical services that each Internet mid-level network can offer within the mid-level network itself and to its peer networks. The term "mid-level" is used as a generic term to represent all regional and similar networks, which, due to continuous evolutions and transitions, can no longer be termed "regional" [MAN]. It discusses the pros and cons of offering these services, as well as areas in which mid-level networks can work together.</t>
+<t>A large portion of the ideas stem from discussions at the IETF Operational Statistics (OPstat), User Connectivity Problems (UCP) and Network Joint Management (NJM) working groups.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1291' />
+<format type='TXT' octets='24314' target='http://www.rfc-editor.org/rfc/rfc1291.txt' />
+<format type='PS' octets='218918' target='http://www.rfc-editor.org/rfc/rfc1291.ps' />
+</reference>

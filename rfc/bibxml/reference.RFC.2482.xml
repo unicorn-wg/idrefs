@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2482'>
+
+<front>
+<title>Language Tagging in Unicode Plain Text</title>
+<author initials='K.' surname='Whistler' fullname='Ken Whistler'>
+<organization>Sybase, Inc.</organization>
+<address>
+<postal>
+<street>6475 Christie Ave</street>
+<city>Emeryville</city>
+<region>CA</region>
+<code>94608-1050</code>
+<country>US</country></postal>
+<phone>+1 510 922 3611</phone>
+<email>kenw@sybase.com</email></address></author>
+<author initials='G.' surname='Adams' fullname='Glenn Adams'>
+<organization>Spyglass, Inc.</organization>
+<address>
+<postal>
+<street>One Cambridge Center</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02142</code>
+<country>US</country></postal>
+<phone>+1 617 679 4652</phone>
+<email>glenn@spyglass.com</email></address></author>
+<date year='1999' month='January' />
+<abstract>
+<t>This document proposed a mechanism for language tagging inplain text. A set of special-use tag characters on Plane 14 of(accessible through UTF-8, UTF-16, and UCS-4 encoding forms) are proposed for encoding to enable the spelling out of ASCII-based string tags using characters which can be strictly separated from ordinary text content characters in ISO10646 (or UNICODE).</t>
+<t>One tag identification character and one cancel tag character are also proposed. In particular, a language tag identification character is proposed to identify a language tag string specifically; the language tag itself makes use oflanguage tag strings spelled out using the Plane 14 tag characters. Provision of a specific, low-overhead mechanism for embedding language tags in plain text is aimed at meeting the need of Internet Protocols such as ACAP,  which require a standard mechanism for marking language in UTF-8 strings.</t>
+<t>The tagging mechanism as well the characters proposed in this document have been approved by the Unicode Consortium for inclusion in The Unicode Standard.  However, implementation of this decision awaits formal acceptance by ISO JTC1/SC2/WG2, the working group responsible for ISO10646. Potential implementers should be aware that until this formal acceptance occurs, any usage of the characters proposed herein is strictly experimental and not sanctioned for standardized character data interchange.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2482' />
+<format type='TXT' octets='27800' target='http://www.rfc-editor.org/rfc/rfc2482.txt' />
+</reference>

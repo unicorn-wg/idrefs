@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2569'>
+
+<front>
+<title>Mapping between LPD and IPP Protocols</title>
+<author initials='R.' surname='Herriot' fullname='Robert Herriot'>
+<organization>Xerox Corporation</organization>
+<address>
+<postal>
+<street>3400 Hillview Ave.</street>
+<street>Bldg #1</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94304</code>
+<country>US</country></postal>
+<phone>+1 650 813 7696</phone>
+<facsimile>+1 650 813 6860</facsimile>
+<email>rherriot@pahv.xerox.com</email></address></author>
+<author initials='N.' surname='Jacobs' fullname='Norm Jacobs'>
+<organization>Sun Microsystems Inc.</organization>
+<address>
+<postal>
+<street>1430 Owl Ridge Rd.</street>
+<city>Colorado Springs</city>
+<region>CO</region>
+<code>80919</code>
+<country>US</country></postal>
+<phone>+1 719 532 9927</phone>
+<facsimile>+1 719 535 0956</facsimile>
+<email>Norm.Jacobs@Central.sun.com</email></address></author>
+<author initials='T.' surname='Hastings' fullname='Thomas N. Hastings'>
+<organization>Xerox Corporation</organization>
+<address>
+<postal>
+<street>701 S. Aviation Blvd.</street>
+<street>ESAE-231</street>
+<city>El Segundo</city>
+<region>CA</region>
+<code>90245</code>
+<country>US</country></postal>
+<phone>+1 310 333 6413</phone>
+<facsimile>+1 310 333 5514</facsimile>
+<email>hastings@cp10.es.xerox.com</email></address></author>
+<author initials='J.' surname='Martin' fullname='Jay Martin'>
+<organization>Underscore, Inc.</organization>
+<address>
+<postal>
+<street>41-C Sagamore Park Road</street>
+<city>Hudson</city>
+<region>NH</region>
+<code>03051-4915</code>
+<country>US</country></postal>
+<phone>+1 603 889 7000</phone>
+<facsimile>+1 603 889 2699</facsimile>
+<email>jkm@underscore.com</email></address></author>
+<date year='1999' month='April' />
+<abstract>
+<t>This document is one of a set of documents, which together describe
+   all aspects of a new Internet Printing Protocol (IPP). IPP is an
+   application level protocol that can be used for distributed printing
+   using Internet tools and technologies. This document gives some
+   advice to implementers of gateways between IPP and LPD (Line Printer
+   Daemon). This document describes the mapping between (1) the commands
+   and operands of the 'Line Printer Daemon (LPD) Protocol' specified in
+   RFC 1179 and (2) the operations, operation attributes and job
+   template attributes of the Internet Printing Protocol/1.0 (IPP).  One
+   of the purposes of this document is to compare the functionality of
+   the two protocols.  Another purpose is to facilitate implementation
+   of gateways between LPD and IPP.</t>
+<t>WARNING: RFC 1179 was not on the IETF standards track.  While RFC
+   1179 was intended to record existing practice, it fell short in some
+   areas.  However, this specification maps between (1) the actual
+   current practice of RFC 1179 and (2) IPP.  This document does not
+   attempt to map the numerous divergent extensions to the LPD protocol
+   that have been made by many implementers.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2569' />
+<format type='TXT' octets='57886' target='http://www.rfc-editor.org/rfc/rfc2569.txt' />
+</reference>

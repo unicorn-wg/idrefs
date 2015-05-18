@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0418'>
+
+<front>
+<title>Server File Transfer Under TSS/360 At NASA-Ames Research Center</title>
+<author initials='W.' surname='Hathaway' fullname='W. Hathaway'>
+<organization /></author>
+<date year='1972' month='November' /></front>
+
+<seriesInfo name='RFC' value='418' />
+<format type='PDF' octets='1080191' target='http://www.rfc-editor.org/rfc/rfc418.pdf' />
+</reference>

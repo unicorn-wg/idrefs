@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0419'>
+
+<front>
+<title>To: Network liaisons and station agents</title>
+<author initials='A.' surname='Vezza' fullname='A. Vezza'>
+<organization /></author>
+<date year='1972' month='December' /></front>
+
+<seriesInfo name='RFC' value='419' />
+<format type='TXT' octets='1252' target='http://www.rfc-editor.org/rfc/rfc419.txt' />
+</reference>

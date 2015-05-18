@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0043'>
+
+<front>
+<title>Proposed Meeting</title>
+<author initials='A.' surname='Nemeth' fullname='A. G. Nemeth'>
+<organization>Massachusetts Institute of Technology (MIT), Lincoln Laboratory</organization>
+<address>
+<postal>
+<street />
+<city>Lexington</city>
+<region>MA</region>
+<code>02173</code>
+<country>US</country></postal>
+<phone>+1 617 862 5500 x7354</phone></address></author>
+<date year='1970' day='8' month='April' />
+<abstract>
+<t>On Friday, 8 May 1970, at 9:30 AM a meeting at M.I.T. Lincoln Laboratory is proposed. A description of LIL (Local Interaction Language) for the TSP (Terminal Support Processor) system will be presented.</t>
+<t>The purpose of the TSP system is to provide a flexible I/O capability for network users. In order to achieve maximum flexibility, the system is user-programmable in an interpretable language called LIL.</t></abstract></front>
+
+<seriesInfo name='RFC' value='43' />
+<format type='TXT' octets='1600' target='http://www.rfc-editor.org/rfc/rfc43.txt' />
+</reference>

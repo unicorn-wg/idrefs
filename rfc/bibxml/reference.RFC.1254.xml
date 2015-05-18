@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1254'>
+
+<front>
+<title>Gateway Congestion Control Survey</title>
+<author initials='A.' surname='Mankin' fullname='Allison Mankin'>
+<organization>The MITRE Corporation</organization>
+<address>
+<postal>
+<street>7525 Colshire Drive</street>
+<street>M/S W425</street>
+<city>McLean</city>
+<region>VA</region>
+<code>22102</code>
+<country>US</country></postal>
+<email>mankin@gateway.mitre.org</email></address></author>
+<author initials='K.' surname='Ramakrishnan' fullname='K. K. Ramakrishnan'>
+<organization>Digital Equipment Corporation (DEC)</organization>
+<address>
+<postal>
+<street>550 King Street</street>
+<street>M/S LKG1-2/A19</street>
+<city>Maynard</city>
+<region>MA</region>
+<code>01754</code>
+<country>US</country></postal>
+<email>rama@kalvi.enet.dec.com</email></address></author>
+<date year='1991' day='1' month='August' />
+<abstract>
+<t>The growth of network intensive Internet applications has made gateway congestion control a high priority.  The IETF Performance and Congestion Control Working Group surveyed and reviewed gateway congestion control and avoidance approaches.  The purpose of this paper is to present our review of the congestion control approaches, as a way of encouraging new discussion and experimentation. Included in the survey are Source Quench, Random Drop, Congestion Indication (DEC Bit), and Fair Queueing.  The task remains for Internet implementors to determine and agree on the most effective mechanisms for controlling gateway congestion.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1254' />
+<format type='TXT' octets='67609' target='http://www.rfc-editor.org/rfc/rfc1254.txt' />
+</reference>

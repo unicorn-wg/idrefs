@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0504'>
+
+<front>
+<title abbrev='Workshop Announcement'>Distributed resources workshop announcement</title>
+<author initials='B.' surname='Thomas' fullname='Bob Thomas'>
+<organization>Bolt Beranek and Newman (BBN)</organization></author>
+<date year='1973' day='30' month='April' />
+<abstract>
+<t>This workshop will focus on various aspects of the question: What steps can be taken to automate access to the distributed resources on the ARPANET?</t></abstract></front>
+
+<seriesInfo name='RFC' value='504' />
+<format type='TXT' octets='9061' target='http://www.rfc-editor.org/rfc/rfc504.txt' />
+</reference>

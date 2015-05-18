@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2821'>
+
+<front>
+<title>Simple Mail Transfer Protocol</title>
+<author initials='J.' surname='Klensin' fullname='J. Klensin'>
+<organization /></author>
+<date year='2001' month='April' />
+<abstract>
+<t>This document is a self-contained specification of the basic protocol for the Internet electronic mail transport. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='2821' />
+<format type='TXT' octets='192504' target='http://www.rfc-editor.org/rfc/rfc2821.txt' />
+</reference>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1884'>
+
+<front>
+<title abbrev='IPv6 Addressing Architecture'>IP Version 6 Addressing Architecture</title>
+<author initials='R.M.' surname='Hinden' fullname='Robert M. Hinden'>
+<organization>Ipsilon Networks, Inc.</organization>
+<address>
+<postal>
+<street>2191 E. Bayshore Road</street>
+<street>Suite 100</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94303</code>
+<country>US</country></postal>
+<phone>+1 415 846 4604</phone>
+<facsimile>+1 415 855 1414</facsimile>
+<email>hinden@ipsilon.com</email></address></author>
+<author initials='S.E.' surname='Deering' fullname='Stephen E. Deering'>
+<organization>Xerox Palo Alto Research Center</organization>
+<address>
+<postal>
+<street>3333 Coyote Hill Road</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94304</code>
+<country>US</country></postal>
+<phone>+1 415 812 4839</phone>
+<facsimile>+1 415 812 4471</facsimile>
+<email>deering@parc.xerox.com</email></address></author>
+<date year='1995' month='December' />
+<abstract>
+<t>This specification defines the addressing architecture of the IP Version 6 protocol.  The document includes the IPv6 addressing model, text representations of IPv6 addresses, definition of IPv6 unicast addresses, anycast addresses, and multicast addresses, and an IPv6 nodes required addresses.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1884' />
+<format type='TXT' octets='37860' target='http://www.rfc-editor.org/rfc/rfc1884.txt' />
+</reference>

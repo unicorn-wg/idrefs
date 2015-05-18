@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1461'>
+
+<front>
+<title abbrev='Multiprotocol Interconnect on X.25 MIB'>SNMP MIB extension for Multiprotocol Interconnect over X.25</title>
+<author initials='D.D.' surname='Throop' fullname='Dean D. Throop'>
+<organization>Data General Corporation</organization>
+<address>
+<postal>
+<street>62 Alexander Dr.</street>
+<city>Research Triangle Park</city>
+<region>NC</region>
+<code>27709</code>
+<country>US</country></postal>
+<phone>+1 919 248 6081</phone>
+<email>throop@dg-rtp.dg.com</email></address></author>
+<date year='1993' month='May' />
+<abstract>
+<t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets. In particular, it defines objects for managing Multiprotocol Interconnect (including IP) traffic carried over X.25.  The objects defined here, along with the objects in the "SNMP MIB extension for the Packet Layer of X.25", "SNMP MIB extension for LAPB", and the "Definitions of Managed Objects for RS-232-like Hardware Devices", combine to allow management of the traffic over an X.25 protocol stack.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1461' />
+<format type='TXT' octets='47945' target='http://www.rfc-editor.org/rfc/rfc1461.txt' />
+</reference>

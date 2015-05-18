@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1161'>
+
+<front>
+<title>SNMP over OSI</title>
+<author initials='M.' surname='Rose' fullname='Marshall T. Rose'>
+<organization>Performance Systems International, Inc.</organization>
+<address>
+<postal>
+<street>P.O. Box 391776</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94039</code>
+<country>US</country></postal>
+<phone>+1 415 961 3380</phone>
+<email>mrose@PSI.COM</email></address></author>
+<date year='1990' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='1161' />
+<format type='TXT' octets='16036' target='http://www.rfc-editor.org/rfc/rfc1161.txt' />
+</reference>

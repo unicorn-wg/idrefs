@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2219'>
+
+<front>
+<title abbrev='DNS Aliases'>Use of DNS Aliases for Network Services</title>
+<author initials='M.' surname='Hamilton' fullname='Martin Hamilton'>
+<organization>Loughborough University of Technology, Department of Computer Studies</organization>
+<address>
+<postal>
+<street />
+<city>Leicestershire</city>
+<region>England</region>
+<code>LE11 3TU</code>
+<country>UK</country></postal>
+<email>m.t.hamilton@lut.ac.uk</email></address></author>
+<author initials='R.' surname='Wright' fullname='Russ Wright'>
+<organization>Lawrence Berkeley National Laboratory, Information &amp; Computing Sciences Division</organization>
+<address>
+<postal>
+<street>1 Cyclotron Road</street>
+<street>Mail-Stop: 50A-3111</street>
+<city>Berkeley</city>
+<region>CA</region>
+<code>94720</code>
+<country>US</country></postal>
+<email>wright@lbl.gov</email></address></author>
+<date year='1997' month='October' />
+<abstract>
+<t>It has become a common practice to use symbolic names (usually CNAMEs) in the Domain Name Service (DNS -,) to refer to network services such as anonymous FTPservers, Gopherservers, and most notably World-Wide Web HTTPservers.  This is desirable for a number of reasons.  It provides a way of moving services from one machine to another transparently, and a mechanism by which people or agents may programmatically discover that an organization runs, say, a World-Wide Web server.</t>
+<t>Although this approach has been almost universally adopted, there is no standards document or similar specification for these commonly used names.  This document seeks to rectify this situation by gathering together the extant 'folklore' on naming conventions, and proposes a mechanism for accommodating new protocols.</t>
+<t>It is important to note that these naming conventions do not provide a complete long term solution to the problem of finding a particular network service for a site.  There are efforts in other IETF working groups to address the long term solution to this problem, such as the Server Location Resource Records (DNS SRV)work.</t></abstract></front>
+
+<seriesInfo name='BCP' value='17' />
+<seriesInfo name='RFC' value='2219' />
+<format type='TXT' octets='17858' target='http://www.rfc-editor.org/rfc/rfc2219.txt' />
+</reference>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1574'>
+
+<front>
+<title>Essential Tools for the OSI Internet</title>
+<author initials='S.' surname='Hares' fullname='Susan K. Hares'>
+<organization>MERIT/NSFNET, Internet Engineering</organization>
+<address>
+<postal>
+<street>1075 Beal Avenue</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48109-2112</code>
+<country>US</country></postal>
+<phone>+1 313 936 3000</phone>
+<email>skh@merit.edu</email></address></author>
+<author initials='C.' surname='Wittbrodt' fullname='Cathy J. Wittbrodt'>
+<organization>Stanford University/BARRNet, Networking Systems</organization>
+<address>
+<postal>
+<street>Pine Hall 115</street>
+<city>Stanford</city>
+<region>CA</region>
+<code>94305</code>
+<country>US</country></postal>
+<phone>+1 415 725 5481</phone>
+<email>cjw@magnolia.Stanford.EDU</email></address></author>
+<date year='1994' month='February' />
+<abstract>
+<t>This document specifies the following three necessary tools to debug problems in the deployment and maintenance of networks using ISO 8473 (CLNP):</t>
+<t>- ping or OSI Echo function
+      - traceroute function which uses the OSI Echo function
+      - routing table dump function</t>
+<t>These CLNS tools are the basics required for hosts and routers for CLNS network support. It is intended that this document specify the most basic support level required for CLNS hosts and routers.</t>
+<t>To support some of the needed tools (ping and traceroute) this memo specifies the mechanism specified in RFC 1575.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1574' />
+<format type='TXT' octets='27735' target='http://www.rfc-editor.org/rfc/rfc1574.txt' />
+</reference>

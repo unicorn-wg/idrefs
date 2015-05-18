@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3366'>
+
+<front>
+<title>Advice to link designers on link Automatic Repeat reQuest (ARQ)</title>
+<author initials='G.' surname='Fairhurst' fullname='G. Fairhurst'>
+<organization /></author>
+<author initials='L.' surname='Wood' fullname='L. Wood'>
+<organization /></author>
+<date year='2002' month='August' /></front>
+
+<seriesInfo name='BCP' value='62' />
+<seriesInfo name='RFC' value='3366' />
+<format type='TXT' octets='66097' target='http://www.rfc-editor.org/rfc/rfc3366.txt' />
+</reference>

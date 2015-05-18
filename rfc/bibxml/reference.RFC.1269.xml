@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1269'>
+
+<front>
+<title abbrev='BGP-3 MIB'>Definitions of Managed Objects for the Border Gateway Protocol: Version 3</title>
+<author initials='S.' surname='Willis' fullname='Steven Willis'>
+<organization>Wellfleet Communications Inc.</organization>
+<address>
+<postal>
+<street>15 Crosby Drive</street>
+<city>Bedford</city>
+<region>MA</region>
+<code>01730</code>
+<country>US</country></postal>
+<phone>+1 617 275 2400</phone>
+<email>swillis@wellfleet.com</email></address></author>
+<author initials='J.' surname='Burruss' fullname='John Burruss'>
+<organization>Wellfleet Communications Inc.</organization>
+<address>
+<postal>
+<street>15 Crosby Drive</street>
+<city>Bedford</city>
+<region>MA</region>
+<code>01730</code>
+<country>US</country></postal>
+<phone>+1 617 275 2400</phone>
+<email>jburruss@wellfleet.com</email></address></author>
+<date year='1991' day='1' month='October' />
+<abstract>
+<t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets. In particular, it defines objects for managing the Border Gateway Protocol,.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1269' />
+<format type='TXT' octets='25717' target='http://www.rfc-editor.org/rfc/rfc1269.txt' />
+</reference>

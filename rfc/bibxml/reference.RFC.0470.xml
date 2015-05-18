@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0470'>
+
+<front>
+<title>Change in socket for TIP news facility</title>
+<author initials='B.' surname='Thomas' fullname='Bob Thomas'>
+<organization>Bolt Baranek and Newman (BBN), TENEX</organization></author>
+<date year='1973' day='13' month='March' />
+<abstract>
+<t>The Socket which supports the TIP News Facility has been changed to socket 367 (Octal) at BBN-TENEX..</t></abstract></front>
+
+<seriesInfo name='RFC' value='470' />
+<format type='TXT' octets='1014' target='http://www.rfc-editor.org/rfc/rfc470.txt' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1078'>
+
+<front>
+<title abbrev='TCPMUX'>TCP port service Multiplexer (TCPMUX)</title>
+<author initials='M.' surname='Lottor' fullname='M. Lottor'>
+<organization>SRI-NIC</organization></author>
+<date year='1988' day='1' month='November' /></front>
+
+<seriesInfo name='RFC' value='1078' />
+<format type='TXT' octets='3248' target='http://www.rfc-editor.org/rfc/rfc1078.txt' />
+</reference>

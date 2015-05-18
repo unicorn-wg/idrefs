@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0276'>
+
+<front>
+<title abbrev='NIC Course'>NIC course</title>
+<author initials='R.' surname='Watson' fullname='Richard W. Watson'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
+<date year='1971' day='8' month='November' />
+<abstract>
+<t>The Network Information Center is planning to run a course on the use of its Online System (NLS), including use of the Journal, at SRI.  The dates are to be Nov. 29, 30.</t></abstract></front>
+
+<seriesInfo name='RFC' value='276' />
+<format type='TXT' octets='1183' target='http://www.rfc-editor.org/rfc/rfc276.txt' />
+</reference>

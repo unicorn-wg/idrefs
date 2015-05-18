@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4918'>
+
+<front>
+<title>HTTP Extensions for Web Distributed Authoring and Versioning (WebDAV)</title>
+<author initials='L.' surname='Dusseault' fullname='L. Dusseault'>
+<organization /></author>
+<date year='2007' month='June' />
+<abstract>
+<t>Web Distributed Authoring and Versioning (WebDAV) consists of a set of methods, headers, and content-types ancillary to HTTP/1.1 for the management of resource properties, creation and management of resource collections, URL namespace manipulation, and resource locking (collision avoidance).&lt;/t>&lt;t> RFC 2518 was published in February 1999, and this specification obsoletes RFC 2518 with minor revisions mostly due to interoperability experience. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='4918' />
+<format type='TXT' octets='276352' target='http://www.rfc-editor.org/rfc/rfc4918.txt' />
+</reference>

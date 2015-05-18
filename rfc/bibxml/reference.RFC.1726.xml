@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1726'>
+
+<front>
+<title abbrev='IPng Technical Criteria'>Technical Criteria for Choosing IP The Next Generation (IPng)</title>
+<author initials='C.' surname='Partridge' fullname='Craig Partridge'>
+<organization>BBN Systems and Technologies</organization>
+<address>
+<postal>
+<street>10 Moulton St.</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal>
+<email>craig@aland.bbn.com</email></address></author>
+<author initials='F.' surname='Kastenholz' fullname='Frank Kastenholz'>
+<organization>FTP Software, Inc.</organization>
+<address>
+<postal>
+<street>2 High St.</street>
+<city>North Andover</city>
+<region>MA</region>
+<code>01845-2620</code>
+<country>US</country></postal>
+<email>kasten@ftp.com</email></address></author>
+<date year='1994' month='December' />
+<abstract>
+<t>This document was submitted to the IPng Area in response to RFC 1550. Publication of this document does not imply acceptance by the IPng.  Area of any ideas expressed within.  Comments should be submitted to the big-internet@munnari.oz.au mailing list.  This RFC specifies criteria related to mobility for consideration in design and selection of the Next Generation of IP.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1726' />
+<format type='TXT' octets='74109' target='http://www.rfc-editor.org/rfc/rfc1726.txt' />
+</reference>

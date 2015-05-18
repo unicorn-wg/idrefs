@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0658'>
+
+<front>
+<title>Telnet output linefeed disposition</title>
+<author initials='D.' surname='Crocker' fullname='D. Crocker'>
+<organization>University of California, Los Angeles (UCLA), NMC</organization></author>
+<date year='1974' day='25' month='October' /></front>
+
+<seriesInfo name='RFC' value='658' />
+<format type='TXT' octets='6484' target='http://www.rfc-editor.org/rfc/rfc658.txt' />
+</reference>

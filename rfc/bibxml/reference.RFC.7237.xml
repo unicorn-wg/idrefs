@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7237'>
+
+<front>
+<title>Initial Hypertext Transfer Protocol (HTTP) Method Registrations</title>
+<author initials='J.' surname='Reschke' fullname='J. Reschke'>
+<organization /></author>
+<date year='2014' month='June' />
+<abstract>
+<t>This document registers those Hypertext Transfer Protocol (HTTP) methods that have been defined in RFCs before the IANA HTTP Method Registry was established.</t></abstract></front>
+
+<seriesInfo name='RFC' value='7237' />
+<format type='TXT' octets='8732' target='http://www.rfc-editor.org/rfc/rfc7237.txt' />
+</reference>

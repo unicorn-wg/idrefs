@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1877'>
+
+<front>
+<title abbrev='PPP IPCP Extensions'>PPP Internet Protocol Control Protocol Extensions for Name Server Addresses</title>
+<author initials='S.' surname='Cobb' fullname='Steve Cobb'>
+<organization>Microsoft Corporation</organization>
+<address>
+<postal>
+<street>One Microsoft Way</street>
+<city>Redmond</city>
+<region>WA</region>
+<code>98052-6399</code>
+<country>US</country></postal>
+<phone>+1 206 882 8080</phone>
+<email>stevec@microsoft.com</email></address></author>
+<author initials='F.' surname='Baker' fullname='Fred Baker'>
+<organization>Cisco Systems</organization>
+<address>
+<postal>
+<street>519 Lado Drive</street>
+<city>Santa Barbara</city>
+<region>CA</region>
+<code>93111</code>
+<country>US</country></postal>
+<email>fred@cisco.com</email></address></author>
+<date year='1995' month='December' />
+<abstract>
+<t>The Point-to-Point Protocol (PPP)provides a standard method for transporting multi-protocol datagrams over point-to-point links.  PPP defines an extensible Link Control Protocol and a family of Network Control Protocols (NCPs) for establishing and configuring different network-layer protocols.</t>
+<t>This document extends the NCP for establishing and configuring the Internet Protocol over PPP, defining the negotiation of primary and secondary Domain Name System (DNS)and NetBIOS Name Server (NBNS)addresses.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1877' />
+<format type='TXT' octets='10591' target='http://www.rfc-editor.org/rfc/rfc1877.txt' />
+</reference>

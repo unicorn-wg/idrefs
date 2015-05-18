@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2157'>
+
+<front>
+<title abbrev='X.400/MIME Body Mapping'>Mapping between X.400 and RFC-822/MIME Message Bodies</title>
+<author initials='H.' surname='Alvestrand' fullname='Harald Tveit Alvestrand'>
+<organization>UNINETT</organization>
+<address>
+<postal>
+<street>P.O.box 6883 Elgeseter</street>
+<city>Trondheim</city>
+<region />
+<code>N-7002</code>
+<country>NO</country></postal>
+<email>Harald.T.Alvestrand@uninett.no</email></address></author>
+<date year='1998' month='January' /></front>
+
+<seriesInfo name='RFC' value='2157' />
+<format type='TXT' octets='92554' target='http://www.rfc-editor.org/rfc/rfc2157.txt' />
+</reference>

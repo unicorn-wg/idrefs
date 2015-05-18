@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2113'>
+
+<front>
+<title abbrev='Router Alert Option'>IP Router Alert Option</title>
+<author initials='D.' surname='Katz' fullname='Dave Katz'>
+<organization>cisco Systems</organization>
+<address>
+<postal>
+<street>170 W. Tasman Dr.</street>
+<street>San Jose</street>
+<street>CA  95134-1706</street>
+<country>USA</country></postal>
+<phone>+1 408 526 8284</phone>
+<email>dkatz@cisco.com</email></address></author>
+<date year='1997' month='February' />
+<area>Routing</area>
+<keyword>alert</keyword>
+<keyword>router</keyword>
+<keyword>routing</keyword>
+<abstract>
+<t>
+   This memo describes a new IP Option type that alerts transit routers
+   to more closely examine the contents of an IP packet.  This is useful
+   for, but not limited to, new protocols that are addressed to a
+   destination but require relatively complex processing in routers
+   along the path.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2113' />
+<format type='TXT' octets='7924' target='http://www.rfc-editor.org/rfc/rfc2113.txt' />
+<format type='HTML' octets='22346' target='http://xml.resource.org/public/rfc/html/rfc2113.html' />
+<format type='XML' octets='9075' target='http://xml.resource.org/public/rfc/xml/rfc2113.xml' />
+</reference>

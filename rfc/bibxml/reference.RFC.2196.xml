@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2196'>
+
+<front>
+<title>Site Security Handbook</title>
+<author initials='B.Y.' surname='Fraser' fullname='Barbara Y. Fraser'>
+<organization>Software Engineering Institute</organization>
+<address>
+<postal>
+<street>Carnegie Mellon University</street>
+<street>5000 Forbes Avenue</street>
+<city>Pittsburgh</city>
+<region>PA</region>
+<code>15213</code>
+<country>US</country></postal>
+<phone>+1 412 268 5010</phone>
+<facsimile>+1 412 268 6989</facsimile>
+<email>byf@cert.org</email></address></author>
+<date year='1997' month='September' />
+<abstract>
+<t>This handbook is a guide to developing computer security policies and procedures for sites that have systems on the Internet.The purpose of this handbook is to provide practical guidance to administrators trying to secure their information and services.The subjects covered include policy content and formation, a broad range of technical system and network security topics, and security incident response.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2196' />
+<format type='TXT' octets='191772' target='http://www.rfc-editor.org/rfc/rfc2196.txt' />
+</reference>

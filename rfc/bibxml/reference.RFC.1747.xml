@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1747'>
+
+<front>
+<title abbrev='SNADLC SDLC MIB using SMIv2'>Definitions of Managed Objects for SNA Data Link Control (SDLC) using SMIv2</title>
+<author initials='J.' surname='Hilgeman' fullname='Jeff Hilgeman'>
+<organization>Apertus Technologies, Inc.</organization>
+<address>
+<postal>
+<street>7275 Flying Cloud Dr.</street>
+<city>Eden Prairie</city>
+<region>MN</region>
+<code>55344</code>
+<country>US</country></postal>
+<phone>+1 612 828 0668</phone>
+<email>jeffh@apertus.com</email></address></author>
+<author initials='S.' surname='Nix' fullname='Shannon D. Nix'>
+<organization>Metaplex, Inc.</organization>
+<address>
+<postal>
+<street>7412 Wingfoot Dr.</street>
+<city>Raleigh</city>
+<region>NC</region>
+<code>27615</code>
+<country>US</country></postal>
+<phone>+1 919 878 0811</phone>
+<email>snix@metaplex.com</email></address></author>
+<author initials='A.' surname='Bartky' fullname='Alan Bartky'>
+<organization>Sync Research, Inc.</organization>
+<address>
+<postal>
+<street>7 Studebaker</street>
+<city>Irvine</city>
+<region>CA</region>
+<code>92718</code>
+<country>US</country></postal>
+<phone>+1 714 588 2070</phone>
+<email>alan@sync.com</email></address></author>
+<author initials='W.' surname='Clark' fullname='Wayne Clark'>
+<organization>cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>3100 Smoketree Ct.</street>
+<street>Suite 1000</street>
+<city>Raleigh</city>
+<region>NC</region>
+<code>27604</code>
+<country>US</country></postal>
+<phone>+1 919 878 6958</phone>
+<email>wclark@cisco.com</email></address></author>
+<date year='1995' month='January' />
+<abstract>
+<t>This specification defines an extension to the Management Information Base (MIB) for use with SNMP-based network management.  In particular, it defines objects for managing the configuration, monitoring and control of data link controls in an SNA environment. This draft identifies managed objects for SNA Synchronous Data Link Control (SDLC) links only.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1747' />
+<format type='TXT' octets='147388' target='http://www.rfc-editor.org/rfc/rfc1747.txt' />
+</reference>

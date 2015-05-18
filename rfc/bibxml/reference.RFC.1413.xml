@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1413'>
+
+<front>
+<title>Identification Protocol</title>
+<author initials='M.C.' surname='St. Johns' fullname='Michael C. St. Johns'>
+<organization>DARPA/CSTO</organization>
+<address>
+<postal>
+<street>3701 N. Fairfax Dr</street>
+<city>Arlington</city>
+<region>VA</region>
+<code>22203</code>
+<country>US</country></postal>
+<phone>+1 703 696 2271</phone>
+<email>stjohns@DARPA.MIL</email></address></author>
+<date year='1993' month='February' /></front>
+
+<seriesInfo name='RFC' value='1413' />
+<format type='TXT' octets='16291' target='http://www.rfc-editor.org/rfc/rfc1413.txt' />
+</reference>

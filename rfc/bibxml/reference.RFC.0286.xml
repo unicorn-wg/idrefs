@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0286'>
+
+<front>
+<title>Network Library Information System</title>
+<author initials='E.' surname='Forman' fullname='E. Forman'>
+<organization>The Mitre Corporation (MITRE)</organization></author>
+<date year='1971' day='21' month='December' />
+<abstract>
+<t>Georgetown University is designing a Learning Resource Center (LRC), part of which may consist of a system to enable computer query (hopefully on-line) of G.U.'s Library holdings.  The ARPA community might be of assistance in either of two ways:</t>
+<t>1.  One or more organizations may have a Library Retrieval System that they would like to share with Georgetown</t>
+<t>2.  Since there probably are needs for such a system at most organizations, and since it would be highly beneficial for one organization to be able to query other library holdings as well, and subsequently arrange for inter-library loans, the ARPA community might undertake to design a Network Library Information System.</t>
+<t>If sufficient interest in such a system exists, a working group could be set up to establish the necessary protocols and iron out details of the system.</t></abstract></front>
+
+<seriesInfo name='RFC' value='286' />
+<format type='TXT' octets='2079' target='http://www.rfc-editor.org/rfc/rfc286.txt' />
+</reference>

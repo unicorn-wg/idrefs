@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4501'>
+
+<front>
+<title>Domain Name System Uniform Resource Identifiers</title>
+<author initials='S.' surname='Josefsson' fullname='S. Josefsson'>
+<organization /></author>
+<date year='2006' month='May' />
+<abstract>
+<t>This document defines Uniform Resource Identifiers for Domain Name System resources. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='4501' />
+<format type='TXT' octets='20990' target='http://www.rfc-editor.org/rfc/rfc4501.txt' />
+</reference>

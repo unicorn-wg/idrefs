@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0783'>
+
+<front>
+<title>TFTP Protocol (revision 2)</title>
+<author initials='K.' surname='Sollins' fullname='K. R. Sollins'>
+<organization>Massechusetts Institute of Technology (MIT)</organization></author>
+<date year='1981' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='783' />
+<format type='TXT' octets='23522' target='http://www.rfc-editor.org/rfc/rfc783.txt' />
+</reference>

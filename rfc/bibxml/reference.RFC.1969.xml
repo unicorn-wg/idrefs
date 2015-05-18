@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1969'>
+
+<front>
+<title>The PPP DES Encryption Protocol (DESE)</title>
+<author initials='K.' surname='Sklower' fullname='Keith Sklower'>
+<organization>University of California, Berkeley, Computer Science Department</organization>
+<address>
+<postal>
+<street>384 Soda Hall</street>
+<street>Mail Stop 1776</street>
+<city>Berkeley</city>
+<region>CA</region>
+<code>94720-1776</code>
+<country>US</country></postal>
+<phone>+1 510 642 9587</phone>
+<email>sklower@CS.Berkeley.EDU</email></address></author>
+<author initials='G.' surname='Meyer' fullname='Gerry M. Meyer'>
+<organization>Spider Systems</organization>
+<address>
+<postal>
+<street>Stanwell Street</street>
+<city>Edinburgh</city>
+<region>Scotland</region>
+<code>EH6 5NG</code>
+<country>UK</country></postal>
+<phone>+44 131 5549424</phone>
+<facsimile>+44 131 5540649</facsimile>
+<email>gerry@spider.co.uk</email></address></author>
+<date year='1996' month='June' />
+<abstract>
+<t>The Point-to-Point Protocol (PPP)provides a standard method for transporting multi-protocol datagrams over point-to-point links.</t>
+<t>The PPP Encryption Control Protocol (ECP)provides a method to negotiate and utilize encryption protocols over PPP encapsulated links.</t>
+<t>This document provides specific details for the use of the DES standard,for encrypting PPP encapsulated packets.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1969' />
+<format type='TXT' octets='20383' target='http://www.rfc-editor.org/rfc/rfc1969.txt' />
+</reference>

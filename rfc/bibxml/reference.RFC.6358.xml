@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6358'>
+
+<front>
+<title>Additional Master Secret Inputs for TLS</title>
+<author initials='P.' surname='Hoffman' fullname='P. Hoffman'>
+<organization /></author>
+<date year='2012' month='January' />
+<abstract>
+<t>This document describes a mechanism for using additional master secret inputs with Transport Layer Security (TLS) and Datagram TLS (DTLS).  This document defines an Experimental Protocol for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='6358' />
+<format type='TXT' octets='9074' target='http://www.rfc-editor.org/rfc/rfc6358.txt' />
+</reference>

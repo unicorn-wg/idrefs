@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0374'>
+
+<front>
+<title>IMP System Announcement</title>
+<author initials='A.' surname='McKenzie' fullname='Alex McKenzie'>
+<organization>Bolt Baranek and Newman (BBN)</organization></author>
+<date year='1972' day='19' month='July' />
+<abstract>
+<t>There are two significant developments in the operation of the network which should be of interest to all sites:</t></abstract></front>
+
+<seriesInfo name='RFC' value='374' />
+<format type='TXT' octets='3963' target='http://www.rfc-editor.org/rfc/rfc374.txt' />
+</reference>

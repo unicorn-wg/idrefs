@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0046'>
+
+<front>
+<title>ARPA Network protocol notes</title>
+<author initials='E.' surname='Meyer' fullname='Edwin E. Meyer Jr.'>
+<organization>Massachusetts Institute of Technology (MIT)</organization></author>
+<date year='1970' day='17' month='April' />
+<abstract>
+<t>The attached document contains comments and suggestions of the Network Working Group at Project MAC.  It is based upon the protocol outlined in NWG/RFC 33, 36,, and later documents.</t>
+<t>This proposal is intended as a contribution to the dialog leading to a protocol specification to be accepted by the entire Network Working Group.</t>
+<t>We solicit your comments.</t></abstract></front>
+
+<seriesInfo name='RFC' value='46' />
+<format type='TXT' octets='41338' target='http://www.rfc-editor.org/rfc/rfc46.txt' />
+</reference>

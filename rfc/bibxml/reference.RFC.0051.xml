@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0051'>
+
+<front>
+<title>Proposal for a Network Interchange Language</title>
+<author initials='M.' surname='Elie' fullname='M. Elie'>
+<organization /></author>
+<date year='1970' month='May' /></front>
+
+<seriesInfo name='RFC' value='51' />
+<format type='PDF' octets='967411' target='http://www.rfc-editor.org/rfc/rfc51.pdf' />
+</reference>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1543'>
+
+<front>
+<title>Instructions to RFC Authors</title>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511</phone>
+<facsimile>+1 310 823 6714</facsimile>
+<email>Postel@ISI.EDU</email></address></author>
+<date year='1993' month='October' />
+<abstract>
+<t></t></abstract></front>
+
+<seriesInfo name='RFC' value='1543' />
+<format type='TXT' octets='31383' target='http://www.rfc-editor.org/rfc/rfc1543.txt' />
+</reference>

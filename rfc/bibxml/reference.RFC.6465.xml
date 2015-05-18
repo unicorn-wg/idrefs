@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6465'>
+
+<front>
+<title>A Real-time Transport Protocol (RTP) Header Extension for Mixer-to-Client Audio Level Indication</title>
+<author initials='E.' surname='Ivov' fullname='E. Ivov'>
+<organization /></author>
+<author initials='E.' surname='Marocco' fullname='E. Marocco'>
+<organization /></author>
+<author initials='J.' surname='Lennox' fullname='J. Lennox'>
+<organization /></author>
+<date year='2011' month='December' />
+<abstract>
+<t>This document describes a mechanism for RTP-level mixers in audio conferences to deliver information about the audio level of individual participants.  Such audio level indicators are transported in the same RTP packets as the audio data they pertain to. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='6465' />
+<format type='TXT' octets='30154' target='http://www.rfc-editor.org/rfc/rfc6465.txt' />
+</reference>

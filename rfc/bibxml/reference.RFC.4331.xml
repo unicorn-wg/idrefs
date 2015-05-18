@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4331'>
+
+<front>
+<title abbrev='WebDAV Quotas'>Quota and Size Properties for Distributed Authoring and Versioning (DAV) Collections</title>
+<author initials='B.' surname='Korver' fullname='Brian Korver'>
+<organization abbrev='Network Resonance'>Network Resonance, Inc.</organization>
+<address>
+<postal>
+<street>2483 E. Bayshore Road</street>
+<street>Suite 212</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94303</code>
+<country>US</country></postal>
+<phone>+1 650 812-7705</phone>
+<email>briank@networkresonance.com</email></address></author>
+<author initials='L.' surname='Dusseault' fullname='Lisa Dusseault'>
+<organization abbrev='OSAF'>Open Source Applications Foundation</organization>
+<address>
+<postal>
+<street>543 Howard Street</street>
+<street>5th Floor</street>
+<city>San Francisco</city>
+<region>CA</region>
+<code>94105</code>
+<country>US</country></postal>
+<phone>+1 415 946-3040</phone>
+<email>lisa@osafoundation.org</email></address></author>
+<date year='2006' month='February' />
+<area>Applications</area>
+<workgroup>WWW Distributed Authoring and Versioning (webdav)</workgroup>
+<keyword>quota</keyword>
+<abstract>
+<t> Web Distributed Authoring and Versioning (WebDAV) servers are frequently deployed with quota (size) limitations. This
+                document discusses the properties and minor behaviors needed for clients to
+                interoperate with quota (size) implementations on WebDAV repositories.</t></abstract></front>
+
+<seriesInfo name='RFC' value='4331' />
+<format type='TXT' octets='19706' target='http://www.rfc-editor.org/rfc/rfc4331.txt' />
+<format type='HTML' octets='39147' target='http://xml.resource.org/public/rfc/html/rfc4331.html' />
+<format type='XML' octets='23876' target='http://xml.resource.org/public/rfc/xml/rfc4331.xml' />
+</reference>

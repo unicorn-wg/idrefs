@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0223'>
+
+<front>
+<title>Network Information Center schedule for network users</title>
+<author initials='J.' surname='Melvin' fullname='John Melvin'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
+<author initials='D.' surname='Watson' fullname='Dick Watson'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
+<date year='1971' day='14' month='September' />
+<abstract>
+<t>The Network Information Center has planned to provide service for network users on a regular basis Monday through Friday.</t></abstract></front>
+
+<seriesInfo name='RFC' value='223' />
+<format type='TXT' octets='5369' target='http://www.rfc-editor.org/rfc/rfc223.txt' />
+</reference>

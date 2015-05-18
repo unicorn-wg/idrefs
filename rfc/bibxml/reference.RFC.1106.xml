@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1106'>
+
+<front>
+<title>TCP big window and NAK options</title>
+<author initials='R.' surname='Fox' fullname='Richard Fox'>
+<organization>Tandem</organization>
+<address>
+<postal>
+<street>950 Linden #208</street>
+<city>Sunnyvale</city>
+<region>CA</region>
+<code>94086</code>
+<country>US</country></postal>
+<email>rfox@tandem.com</email></address></author>
+<date year='1989' day='1' month='June' />
+<abstract>
+<t>Two extensions to the TCP protocol are described in this RFC in order to provide a more efficient operation over a network with a high bandwidth*delay product.  The main issue that still needs to be solved is congestion versus noise.  This issue is touched on in this memo, but further research is still needed on the applicability of the extensions in the Internet as a whole infrastructure and not just high bandwidth*delay product networks.  Even with this outstanding issue, this document does describe the use of these options in the isolated satellite network environment to help facilitate more efficient use of this special medium to help off load bulk data transfers from links needed for interactive use.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1106' />
+<format type='TXT' octets='37105' target='http://www.rfc-editor.org/rfc/rfc1106.txt' />
+</reference>

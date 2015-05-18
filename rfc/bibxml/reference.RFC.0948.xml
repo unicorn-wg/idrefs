@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0948'>
+
+<front>
+<title abbrev='Transmission of IP Datagrams Over IEEE 802.3 Networks'>Two methods for the transmission of IP datagrams over IEEE 802.3 networks</title>
+<author initials='I.' surname='Winston' fullname='Ira Winston'>
+<organization>University of Pennsylvania</organization></author>
+<date year='1985' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='948' />
+<format type='TXT' octets='11495' target='http://www.rfc-editor.org/rfc/rfc948.txt' />
+</reference>

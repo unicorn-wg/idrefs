@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5542'>
+
+<front>
+<title>Definitions of Textual Conventions for Pseudowire (PW) Management</title>
+<author initials='T.' surname='Nadeau' fullname='T. Nadeau'>
+<organization /></author>
+<author initials='D.' surname='Zelig' fullname='D. Zelig'>
+<organization /></author>
+<author initials='O.' surname='Nicklass' fullname='O. Nicklass'>
+<organization /></author>
+<date year='2009' month='May' />
+<abstract>
+<t>This memo defines a Management Information Base (MIB) module that contains textual conventions (TCs) to represent commonly used pseudowire (PW) management information.  The intent is that these TCs will be imported and used in PW-related MIB modules that would otherwise define their own representations. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='5542' />
+<format type='TXT' octets='19948' target='http://www.rfc-editor.org/rfc/rfc5542.txt' />
+</reference>

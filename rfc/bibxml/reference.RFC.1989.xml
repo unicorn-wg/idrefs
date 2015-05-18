@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1989'>
+
+<front>
+<title>PPP Link Quality Monitoring</title>
+<author initials='W.' surname='Simpson' fullname='William Allen Simpson'>
+<organization>Daydreamer Computer Systems Consulting Services</organization>
+<address>
+<postal>
+<street>1384 Fontaine</street>
+<city>Madison Heights</city>
+<region>MI</region>
+<code>48071</code>
+<country>US</country></postal>
+<email>bsimpson@MorningStar.com</email></address></author>
+<date year='1996' month='August' />
+<abstract>
+<t>The Point-to-Point Protocol (PPP)provides a standard method for transporting multi-protocol datagrams over point-to-point links.</t>
+<t>PPP also defines an extensible Link Control Protocol, which allows negotiation of a Quality Protocol for continuous monitoring of the viability of the link.</t>
+<t>This document defines a protocol for generating Link-Quality-Reports.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1989' />
+<format type='TXT' octets='29289' target='http://www.rfc-editor.org/rfc/rfc1989.txt' />
+</reference>

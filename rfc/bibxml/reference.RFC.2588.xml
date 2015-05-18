@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2588'>
+
+<front>
+<title>IP Multicast and Firewalls</title>
+<author initials='R.' surname='Finlayson' fullname='Ross Finlayson'>
+<organization>Live Networks, Inc. (LIVE.COM)</organization>
+<address>
+<email>finlayson@live.com</email>
+<uri>http://www.live.com/</uri></address></author>
+<date year='1999' month='May' />
+<abstract>
+<t>Many organizations use a firewall computer that acts as a security
+gateway between the public Internet and their private, internal
+'intranet'.
+In this document, we discuss the issues surrounding the
+traversal of IP multicast traffic across a firewall, and describe
+possible ways in which a firewall can implement and control this
+traversal.
+We also explain why some firewall mechanisms - such as
+SOCKS - that were designed specifically for unicast traffic, are less
+appropriate for multicast.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2588' />
+<format type='TXT' octets='28622' target='http://www.rfc-editor.org/rfc/rfc2588.txt' />
+</reference>

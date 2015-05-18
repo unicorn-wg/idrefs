@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1973'>
+
+<front>
+<title>PPP in Frame Relay</title>
+<author initials='W.' surname='Simpson' fullname='William Allen Simpson'>
+<organization>Daydreamer, Computer Systems Consulting Services</organization>
+<address>
+<postal>
+<street>1384 Fontaine</street>
+<city>Madison Heights</city>
+<region>MI</region>
+<code>48071</code>
+<country>US</country></postal>
+<email>wsimpson@GreenDragon.com</email></address></author>
+<author initials='K.' surname='Fox' fullname='Karl Fox'>
+<organization>Ascend Communications</organization>
+<address>
+<postal>
+<street>3518 Riverside Drive</street>
+<street>Suite 101</street>
+<city>Columbus</city>
+<region>OH</region>
+<code>43221</code>
+<country>US</country></postal>
+<email>karl@ascend.com</email></address></author>
+<date year='1996' month='June' />
+<abstract>
+<t>The Point-to-Point Protocol (PPP)provides a standard method for transporting multi-protocol datagrams over point-to-point links.</t>
+<t>This document describes the use of Frame Relay for framing PPP encapsulated packets.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1973' />
+<format type='TXT' octets='14780' target='http://www.rfc-editor.org/rfc/rfc1973.txt' />
+</reference>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1753'>
+
+<front>
+<title abbrev='Nimrod Technical Requirements for IPng'>IPng Technical Requirements Of the Nimrod Routing and Addressing Architecture</title>
+<author initials='J.' surname='Chiappa' fullname='J. Noel Chiappa'>
+<organization />
+<address>
+<phone>+1 804 898 8183</phone>
+<email>jnc@lcs.mit.edu</email></address></author>
+<date year='1994' month='December' />
+<abstract>
+<t>This document was submitted to the IETF IPng area in response to RFC 1550.  Publication of this document does not imply acceptance by the IPng area of any ideas expressed within.  Comments should be submitted to the big-internet@munnari.oz.au mailing list.</t>
+<t>This document presents the requirements that the Nimrod routing and addressing architecture has upon the internetwork layer protocol. To be most useful to Nimrod, any protocol selected as the IPng should satisfy these requirements. Also presented is some background information, consisting of i) information about architectural and design principles which might apply to the design of a new internetworking layer, and ii) some details of the logic and reasoning behind particular requirements.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1753' />
+<format type='TXT' octets='46586' target='http://www.rfc-editor.org/rfc/rfc1753.txt' />
+</reference>

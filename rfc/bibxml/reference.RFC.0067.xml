@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0067'>
+
+<front>
+<title>Proposed Change to Host/IMP Spec to Eliminate Marking</title>
+<author initials='W.' surname='Crowther' fullname='W. Crowther'>
+<organization>Bolt Baranek and Newman (BBN)</organization></author>
+<date year='1970' day='1' month='January' />
+<abstract>
+<t>Before he left for Norway, Dave Walden observed that there was a simple change to the Host/IMP specifications which would eliminate all "marking" problems. The change is to separate the leader from the text of regular messages, and then to send them as consecutive messages instead of one packed message.  The text would then start on a word boundary no matter what the word lengths of the machines involved.  The process would take place on both IMP-to-Host and Host-to-IMP messages.</t></abstract></front>
+
+<seriesInfo name='RFC' value='67' />
+<format type='TXT' octets='1534' target='http://www.rfc-editor.org/rfc/rfc67.txt' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3324'>
+
+<front>
+<title>Short Term Requirements for Network Asserted Identity</title>
+<author initials='M.' surname='Watson' fullname='M. Watson'>
+<organization /></author>
+<date year='2002' month='November' /></front>
+
+<seriesInfo name='RFC' value='3324' />
+<format type='TXT' octets='21964' target='http://www.rfc-editor.org/rfc/rfc3324.txt' />
+</reference>

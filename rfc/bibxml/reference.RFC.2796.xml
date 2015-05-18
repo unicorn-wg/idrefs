@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2796'>
+
+<front>
+<title abbrev='BGP Route Reflection'>BGP Route Reflection - An Alternative to Full Mesh IBGP</title>
+<author initials='T.' surname='Bates' fullname='Tony Bates'>
+<organization>Cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134</code>
+<country>US</country></postal>
+<email>tbates@cisco.com</email></address></author>
+<author initials='R.' surname='Chandra' fullname='Ravi Chandra'>
+<organization>Redback Networks Inc.</organization>
+<address>
+<postal>
+<street>350 Holger Way</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134</code>
+<country>US</country></postal>
+<email>rchandra@redback.com</email></address></author>
+<author initials='E.' surname='Chen' fullname='Enke Chen'>
+<organization>Redback Networks Inc.</organization>
+<address>
+<postal>
+<street>350 Holger Way</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134</code>
+<country>US</country></postal>
+<email>enke@redback.com</email></address></author>
+<date year='2000' month='April' />
+<abstract>
+<t>The Border Gateway Protocolis an inter-autonomous system routing protocol designed for TCP/IP internets. Currently in the Internet BGP deployments are configured such that that all BGP speakers within a single AS must be fully meshed so that any external routing information must be re-distributed to all other routers within that   AS. This represents a serious scaling problem that has been  well documented with several alternatives proposed,.</t>
+<t>This document describes the use and design of a method known as
+   "Route Reflection" to alleviate the the need for "full mesh" IBGP.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2796' />
+<format type='TXT' octets='20174' target='http://www.rfc-editor.org/rfc/rfc2796.txt' />
+</reference>

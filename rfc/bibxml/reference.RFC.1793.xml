@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1793'>
+
+<front>
+<title abbrev='OSPF over Demand Circuits'>Extending OSPF to Support Demand Circuits</title>
+<author initials='J.' surname='Moy' fullname='John Moy'>
+<organization>Cascade Communications Corp.</organization>
+<address>
+<postal>
+<street>5 Carlisle Road</street>
+<city>Westford</city>
+<region>MA</region>
+<code>01886</code>
+<country>US</country></postal>
+<phone>+1 508 692 2600 x394</phone>
+<facsimile>+1 508 692 9214</facsimile>
+<email>jmoy@casc.com</email></address></author>
+<date year='1995' month='April' />
+<abstract>
+<t>This memo defines enhancements to the OSPF protocol that allow efficient operation over "demand circuits". Demand circuits are network segments whose costs vary with usage; charges can be based both on connect time and on bytes/packets transmitted. Examples of demand circuits include ISDN circuits, X.25 SVCs, and dial-up lines. The periodic nature of OSPF routing traffic has until now required a demand circuit's underlying data-link connection to be constantly open, resulting in unwanted usage charges. With the modifications described herein, OSPF Hellos and the refresh of OSPF routing information are suppressed on demand circuits, allowing the underlying data-link connections to be closed when not carrying application traffic.</t>
+<t>Demand circuits and regular network segments (e.g., leased lines) are allowed to be combined in any manner. In other words, there are no topological restrictions on the demand circuit support. However,  while any OSPF network segment can be defined as a demand circuit, only point-to-point networks receive the full benefit. When broadcast and NBMA networks are declared demand circuits, routing update traffic is reduced but the periodic sending of Hellos is not, which in effect still requires that the data-link connections remain constantly open.</t>
+<t>While mainly intended for use with cost-conscious network links such as ISDN, X.25 and dial-up, the modifications in this memo may also prove useful over bandwidth-limited network links such as slow-speed leased lines and packet radio.</t>
+<t>The enhancements defined in this memo are backward-compatible with the OSPF specification defined in, and with the OSPF extensions defined in(OSPF NSSA areas),(MOSPF) and(OSPF Point-to-MultiPoint Interface).</t>
+<t>This memo provides functionality similar to that specified for RIP in, with the main difference being the way the two proposals handle oversubscription (see Sections 4.3 and 7 below).  However, because OSPF employs link-state routing technology as opposed to RIP's  Distance Vector base, the mechanisms used to achieve the demand circuit functionality are quite different.</t>
+<t>Please send comments to ospf@gated.cornell.edu.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1793' />
+<format type='TXT' octets='78728' target='http://www.rfc-editor.org/rfc/rfc1793.txt' />
+</reference>

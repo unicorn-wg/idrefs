@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0594'>
+
+<front>
+<title>Speedup of Host-IMP interface</title>
+<author initials='J.D.' surname='Burchfiel' fullname='J.D. Burchfiel'>
+<organization /></author>
+<date year='1973' month='December' /></front>
+
+<seriesInfo name='RFC' value='594' />
+<format type='TXT' octets='5855' target='http://www.rfc-editor.org/rfc/rfc594.txt' />
+<format type='PDF' octets='182977' target='http://www.rfc-editor.org/rfc/rfc594.pdf' />
+</reference>

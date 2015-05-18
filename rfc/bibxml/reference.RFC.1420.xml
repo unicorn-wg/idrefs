@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1420'>
+
+<front>
+<title>SNMP over IPX</title>
+<author initials='S.' surname='Bostock' fullname='Steve Bostock'>
+<organization>Novell, Inc.</organization>
+<address>
+<postal>
+<street>2180 Fortune Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95131</code>
+<country>US</country></postal>
+<phone>+1 408 473 8203</phone>
+<facsimile>+1 408 435 1706</facsimile>
+<email>steveb@novell.com</email></address></author>
+<date year='1993' month='March' />
+<abstract>
+<t>This document defines a convention for encapsulating Simple Network Management Protocol (SNMP)packets over the transport mechanism provided via the Internetwork Packet Exchange (IPX) protocol.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1420' />
+<format type='TXT' octets='6762' target='http://www.rfc-editor.org/rfc/rfc1420.txt' />
+</reference>

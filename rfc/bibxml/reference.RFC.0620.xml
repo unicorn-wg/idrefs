@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0620'>
+
+<front>
+<title>Request for monitor host table updates</title>
+<author initials='B.' surname='Ferguson' fullname='Bill Ferguson'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
+<date year='1974' day='1' month='March' /></front>
+
+<seriesInfo name='RFC' value='620' />
+<format type='TXT' octets='1950' target='http://www.rfc-editor.org/rfc/rfc620.txt' />
+</reference>

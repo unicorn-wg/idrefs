@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2935'>
+
+<front>
+<title>Internet Open Trading Protocol (IOTP) HTTP Supplement</title>
+<author initials='D.' surname='Eastlake' fullname='D. Eastlake'>
+<organization /></author>
+<author initials='C.' surname='Smith' fullname='C. Smith'>
+<organization /></author>
+<date year='2000' month='September' />
+<abstract>
+<t>The goal of mapping to the transport layer is to ensure that the underlying XML documents are carried successfully between the various parties.  This document describes that mapping for the Hyper Text Transport Protocol (HTTP), Versions 1.0 and 1.1. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='2935' />
+<format type='TXT' octets='16168' target='http://www.rfc-editor.org/rfc/rfc2935.txt' />
+</reference>

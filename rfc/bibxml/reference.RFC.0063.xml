@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0063'>
+
+<front>
+<title>Belated Network Meeting Report</title>
+<author initials='V.' surname='Cerf' fullname='V. Cerf'>
+<organization /></author>
+<date year='1970' day='31' month='July' />
+<abstract>
+<t>On 8 May 1970, a Network Working Group meeting was hosted at Lincoln Labs.</t></abstract></front>
+
+<seriesInfo name='RFC' value='63' />
+<format type='TXT' octets='2961' target='http://www.rfc-editor.org/rfc/rfc63.txt' />
+</reference>

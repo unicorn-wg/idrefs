@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0076'>
+
+<front>
+<title>Connection by name: User oriented protocol</title>
+<author initials='J.' surname='Bouknight' fullname='J. Bouknight'>
+<organization>University of Illinois</organization></author>
+<author initials='J.' surname='Madden' fullname='J. Madden'>
+<organization>University of Illinois</organization></author>
+<author initials='G.' surname='Grossman' fullname='G. Grossman'>
+<organization>University of Illinois</organization></author>
+<date year='1970' day='28' month='October' />
+<abstract>
+<t>Shortly after the first of the year, 1971, the Center for Advanced Computation (CAC) at the University of Illinois will begin to use the facilities of the ARPA network.</t></abstract></front>
+
+<seriesInfo name='RFC' value='76' />
+<format type='TXT' octets='26504' target='http://www.rfc-editor.org/rfc/rfc76.txt' />
+</reference>

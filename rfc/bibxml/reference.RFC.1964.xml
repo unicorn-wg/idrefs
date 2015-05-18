@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1964'>
+
+<front>
+<title>The Kerberos Version 5 GSS-API Mechanism</title>
+<author initials='J.' surname='Linn' fullname='John Linn'>
+<organization>OpenVision Technologies</organization>
+<address>
+<postal>
+<street>One Main St.</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02142</code>
+<country>US</country></postal>
+<phone>+1 617 374 2245</phone>
+<email>John.Linn@ov.com</email></address></author>
+<date year='1996' month='June' />
+<abstract>
+<t>This specification defines protocols, procedures, and conventions to be employed by peers implementing the Generic Security Service Application Program Interface (as specified in RFCs 1508 and 1509) when using Kerberos Version 5 technology (as specified in RFC 1510).</t></abstract></front>
+
+<seriesInfo name='RFC' value='1964' />
+<format type='TXT' octets='47413' target='http://www.rfc-editor.org/rfc/rfc1964.txt' />
+</reference>

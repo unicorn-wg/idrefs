@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1214'>
+
+<front>
+<title abbrev='MIB-II-OIM'>OSI internet management: Management Information Base</title>
+<author initials='L.' surname='LaBarre' fullname='Lee LaBarre'>
+<organization>The MITRE Corporation</organization>
+<address>
+<postal>
+<street>Burlington Road</street>
+<city>Bedford</city>
+<region>MA</region>
+<code>01730</code>
+<country>US</country></postal>
+<phone>+1 617 271 8507</phone>
+<email>cel@mbunix.mitre.org</email></address></author>
+<date year='1991' day='1' month='April' />
+<abstract>
+<t>This RFC documents a MIB for use with CMIP, either over pure OSI stacks or with the CMIP over TCP specification.  It redefines objects comprised by the second revision of the Management Information Base for Network Management of TCP/IP-based internets: MIB-II so as to conform to the OSI structure of management information.  This document is a product of the IETF OIM working group.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1214' />
+<format type='TXT' octets='172564' target='http://www.rfc-editor.org/rfc/rfc1214.txt' />
+</reference>

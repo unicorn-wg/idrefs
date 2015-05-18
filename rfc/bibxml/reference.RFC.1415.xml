@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1415'>
+
+<front>
+<title>FTP-FTAM Gateway Specification</title>
+<author initials='J.' surname='Mindel' fullname='Joshua L. Mindel'>
+<organization>Open Networks, Inc.</organization>
+<address>
+<postal>
+<street>11490 Commerce Park Dr.</street>
+<street>Suite 205</street>
+<city>Reston</city>
+<region>VA</region>
+<code>22091</code>
+<country>US</country></postal>
+<phone>+1 703 648 0013</phone>
+<email>mindel@netwrx1.nw1.com</email></address></author>
+<author initials='R.' surname='Slaski' fullname='Robert L. Slaski'>
+<organization>Open Networks, Inc.</organization>
+<address>
+<postal>
+<street>11490 Commerce Park Dr.</street>
+<street>Suite 205</street>
+<city>Reston</city>
+<region>VA</region>
+<code>22091</code>
+<country>US</country></postal>
+<phone>+1 703 648 0013</phone>
+<email>slaski@netwrx1.nw1.com</email></address></author>
+<date year='1993' month='January' />
+<abstract>
+<t>This memo describes a dual protocol stack application layer gateway that performs protocol translation, in an interactive environment, between the FTP and FTAM file transfer protocols.</t>
+<t>Two key assumptions are made: 1) POSIX file naming conventions and hierarchical organization, rather than proprietary conventions are in use; and 2) X.500 Directory Services are available.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1415' />
+<format type='TXT' octets='128261' target='http://www.rfc-editor.org/rfc/rfc1415.txt' />
+</reference>

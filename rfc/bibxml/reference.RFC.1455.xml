@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1455'>
+
+<front>
+<title abbrev='Link Security TOS'>Physical Link Security Type of Service</title>
+<author initials='D.E.' surname='Eastlake' fullname='Donald E. Eastlake, III'>
+<organization>Digital Equipment Corporation (DEC)</organization>
+<address>
+<postal>
+<street>30 Porter Road</street>
+<street>MS: LJO2/I4</street>
+<city>Littleton</city>
+<region>MA</region>
+<code>01460</code>
+<country>US</country></postal>
+<phone>+1 508 486 2358</phone>
+<email>dee@ranger.enet.dec.com</email></address></author>
+<date year='1993' month='May' />
+<abstract>
+<t>This RFC documents an experimental protocol providing a Type of Service (TOS) to request maximum physical link security.  This is an addition to the types of service enumerated in RFC 1349: Type of Service in the Internet Protocol Suite.  The new TOS requests the network to provide what protection it can against surreptitious observation by outside agents of traffic so labeled.  The purpose is protection against traffic analysis and as an additional possible level of data confidentiality.  This TOS is consistent with all other defined types of service for IP version 4 in that it is based on link level characteristics and will not provide any particular guaranteed level of service.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1455' />
+<format type='TXT' octets='12391' target='http://www.rfc-editor.org/rfc/rfc1455.txt' />
+</reference>

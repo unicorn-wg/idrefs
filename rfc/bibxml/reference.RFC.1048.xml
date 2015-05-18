@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1048'>
+
+<front>
+<title abbrev='BOOTP Extensions'>BOOTP vendor information extensions</title>
+<author initials='P.' surname='Prindeville' fullname='P. Prindeville'>
+<organization>McGill University</organization></author>
+<date year='1988' day='1' month='February' /></front>
+
+<seriesInfo name='RFC' value='1048' />
+<format type='TXT' octets='15423' target='http://www.rfc-editor.org/rfc/rfc1048.txt' />
+</reference>

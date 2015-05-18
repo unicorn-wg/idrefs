@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0056'>
+
+<front>
+<title>Third Level Protocol: Logger Protocol</title>
+<author initials='E.' surname='Belove' fullname='Ed Belove'>
+<organization>Harvard University</organization></author>
+<author initials='D.' surname='Black' fullname='Dave Black'>
+<organization>Harvard University</organization></author>
+<author initials='B.' surname='Flegel' fullname='Bob Flegel'>
+<organization>University of Utah</organization></author>
+<author initials='L.' surname='Farquar' fullname='Lamar G. Farquar'>
+<organization>University of Utah</organization></author>
+<date year='1970' day='1' month='June' />
+<abstract>
+<t>In our view of the world each host has a set of four programs to allow a user teletype to communicate with a foreign monitor. The exact implementation of these programs is highly installation-dependent.  Thus all explanations are meant to describe functional characteristics rather than design.</t></abstract></front>
+
+<seriesInfo name='RFC' value='56' />
+<format type='TXT' octets='13066' target='http://www.rfc-editor.org/rfc/rfc56.txt' />
+</reference>

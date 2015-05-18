@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0349'>
+
+<front>
+<title>Proposed Standard Socket Numbers</title>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>University of California, Los Angeles (UCLA), NMC</organization></author>
+<date year='1972' day='30' month='May' />
+<abstract>
+<t>I propose that there be a czar (me ?) who hands out official socket numbers for use by standard protocols.  This czar should also keep track of and publish a list of those socket numbers where host specific services can be obtained.</t></abstract></front>
+
+<seriesInfo name='RFC' value='349' />
+<format type='TXT' octets='1663' target='http://www.rfc-editor.org/rfc/rfc349.txt' />
+</reference>

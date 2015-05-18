@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2471'>
+
+<front>
+<title>IPv6 Testing Address Allocation</title>
+<author initials='R.M.' surname='Hinden' fullname='Robert M. Hinden'>
+<organization>Nokia</organization>
+<address>
+<postal>
+<street>232 Java Drive</street>
+<city>Sunnyvale</city>
+<region>CA</region>
+<code>94089</code>
+<country>USA</country></postal>
+<phone>+1 408 990-2004</phone>
+<email>hinden@iprg.nokia.com</email></address></author>
+<author initials='R.' surname='Fink' fullname='Robert Fink'>
+<organization>Lawrence Berkeley National Laboratory</organization>
+<address>
+<postal>
+<street>MS 50A-3111</street>
+<city>Berkeley</city>
+<region>CA</region>
+<code>94720</code>
+<country>USA</country></postal>
+<phone>+1 510 486-5692</phone>
+<email>rlfink@lbl.gov</email></address></author>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292-6695</code>
+<country>USA</country></postal></address></author>
+<date year='1998' month='December' />
+<area>Internet</area>
+<keyword>IP address</keyword>
+<keyword>internet protocol version 6</keyword>
+<keyword>IPv6</keyword></front>
+
+<seriesInfo name='RFC' value='2471' />
+<format type='TXT' octets='8031' target='http://www.rfc-editor.org/rfc/rfc2471.txt' />
+<format type='HTML' octets='25652' target='http://xml.resource.org/public/rfc/html/rfc2471.html' />
+<format type='XML' octets='16823' target='http://xml.resource.org/public/rfc/xml/rfc2471.xml' />
+</reference>

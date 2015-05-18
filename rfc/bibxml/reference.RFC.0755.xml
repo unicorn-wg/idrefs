@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0755'>
+
+<front>
+<title>Assigned numbers</title>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>University of Southern California (USC) / Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone>
+<email>POSTEL@ISIB</email></address></author>
+<date year='1979' day='3' month='May' />
+<abstract>
+<t>This Network Working Group Request for Comments documents the currently assigned values from several series of numbers used in network protocol
+implementations.</t></abstract></front>
+
+<seriesInfo name='RFC' value='755' />
+<format type='TXT' octets='22039' target='http://www.rfc-editor.org/rfc/rfc755.txt' />
+</reference>

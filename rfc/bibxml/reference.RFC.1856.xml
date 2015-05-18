@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1856'>
+
+<front>
+<title abbrev='Opstat Client-Server Model'>The Opstat Client-Server Model for Statistics Retrieval</title>
+<author initials='H.' surname='Clark' fullname='Henry Clark'>
+<organization>BBN Planet Corp.</organization>
+<address>
+<postal>
+<street>150 Cambridge Park Dr.</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02140</code>
+<country>US</country></postal>
+<phone>+1 617 873 4622</phone>
+<email>henryc@bbnplanet.com</email></address></author>
+<date year='1995' month='September' />
+<abstract>
+<t>Network administrators gather data related to the performance, utilization, usability and growth of their data network.  The amount of raw data gathered is usually quite large, typically ranging somewhere between several megabytes to several gigabytes of data each month.  Few (if any) tools exist today for the sharing of that raw data among network operators or between a network service provider (NSP) and its customers.  This document defines a model and protocol for a set of tools which could be used by NSPs and Network Operation Centers (NOCs) to share data among themselves and with customers.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1856' />
+<format type='TXT' octets='29954' target='http://www.rfc-editor.org/rfc/rfc1856.txt' />
+</reference>

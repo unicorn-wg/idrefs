@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2447'>
+
+<front>
+<title abbrev='iMIP'>iCalendar Message-Based Interoperability Protocol (iMIP)</title>
+<author initials='F.' surname='Dawson' fullname='Frank Dawson'>
+<organization>Lotus Development Corporation</organization>
+<address>
+<postal>
+<street>6544 BattlefordDrive</street>
+<city>Raleigh</city>
+<region>NC</region>
+<code>27613-3502</code>
+<country>USA</country></postal>
+<phone>+1-919-676-9515</phone>
+<facsimile>+1-919-676-9564</facsimile>
+<email>fdawson@earthlink.net</email>
+<uri>http://home.earthlink.net/~fdawson</uri></address></author>
+<author initials='S.' surname='Mansour' fullname='Steve Mansour'>
+<organization>Netscape Communications Corporation</organization>
+<address>
+<postal>
+<street>501 East Middlefield Road</street>
+<city>MountainView</city>
+<region>CA</region>
+<code>94043</code>
+<country>USA</country></postal>
+<phone>+1-650-937-2378</phone>
+<facsimile>+1-650-937-2103</facsimile>
+<email>sman@netscape.com</email></address></author>
+<author initials='S.' surname='Silverberg' fullname='Steve Silverberg'>
+<organization>Microsoft Corporation</organization>
+<address>
+<postal>
+<street>One Microsoft Way</street>
+<city>Redmond</city>
+<region>WA</region>
+<code>98052-6399</code>
+<country>USA</country></postal>
+<phone>+1-425-936-9277</phone>
+<facsimile>+1-425-936-8019</facsimile>
+<email>stevesil@Microsoft.com</email></address></author>
+<date year='1998' month='November' />
+<area>Applications</area>
+<keyword>calendaring</keyword>
+<keyword>iMIP</keyword>
+<abstract>
+<t>
+   This document, [iMIP], specifies a binding from the iCalendar
+   Transport-independent Interoperability Protocol (iTIP) to Internet
+   email-based transports. Calendaring entries defined by the iCalendar
+   Object Model  are composed using constructs from ,
+   , , ,  and [RFC-2049].
+</t>
+<t>
+   This document is based on discussions within the Internet Engineering
+   Task Force (IETF) Calendaring and Scheduling (CALSCH) working group.
+   More information about the IETF CALSCH working group activities can
+   be found on the IMC web site at http://www.imc.org, the IETF web site
+   at http://www.ietf.org/html.charters/calsch-charter.html. Refer to
+   the references within this document for further information on how to
+   access these various documents.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2447' />
+<format type='TXT' octets='33480' target='http://www.rfc-editor.org/rfc/rfc2447.txt' />
+<format type='XML' octets='34855' target='http://xml.resource.org/public/rfc/xml/rfc2447.xml' />
+</reference>

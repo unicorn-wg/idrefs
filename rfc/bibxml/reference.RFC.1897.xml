@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1897'>
+
+<front>
+<title>IPv6 Testing Address Allocation</title>
+<author initials='R.' surname='Hinden' fullname='Robert M. Hinden'>
+<organization>Ipsilon Networks, Inc.</organization>
+<address>
+<postal>
+<street>2191 E. Bayshore Road</street>
+<street>Suite 100</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94303</code>
+<country>US</country></postal>
+<phone>+1 415 846 4604</phone>
+<facsimile>+1 415 855 1414</facsimile>
+<email>hinden@ipsilon.com</email></address></author>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>University of Southern California,  Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292-6695</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511</phone>
+<facsimile>+1 310 823 6714</facsimile>
+<email>postel@isi.edu</email></address></author>
+<date year='1996' month='January' />
+<abstract>
+<t></t></abstract></front>
+
+<seriesInfo name='RFC' value='1897' />
+<format type='TXT' octets='6643' target='http://www.rfc-editor.org/rfc/rfc1897.txt' />
+</reference>

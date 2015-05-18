@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2102'>
+
+<front>
+<title abbrev='Nimrod Multicast'>Multicast Support for Nimrod :  Requirements and Solution Approaches</title>
+<author initials='R.' surname='Ramanathan' fullname='Ram Ramanathan'>
+<organization>BBN Systems and Technologies</organization>
+<address>
+<postal>
+<street>10 Moulton Street</street>
+<street>Cambridge</street>
+<street>MA 02138</street></postal>
+<phone>(617) 873-2736</phone>
+<email>ramanath@bbn.com</email></address></author>
+<date year='1997' month='February' />
+<area>Routing</area>
+<keyword>Nimrod</keyword>
+<keyword>multicast</keyword>
+<keyword>routing</keyword>
+<abstract>
+<t>
+   Nimrod does not specify a particular solution for multicasting.
+   Rather, Nimrod may use any of a number of emerging multicast
+   techniques.  We identify the requirements that Nimrod has of a
+   solution for multicast support.  We compare existing approaches for
+   multicasting within an internetwork and discuss their advantages and
+   disadvantages.  Finally, as an example, we outline the mechanisms to
+   support multicast in Nimrod using the scheme currently being
+   developed within the IETF - namely, the Protocol Indpendent Multicast
+   (PIM) protocol.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2102' />
+<format type='TXT' octets='50963' target='http://www.rfc-editor.org/rfc/rfc2102.txt' />
+<format type='XML' octets='53206' target='http://xml.resource.org/public/rfc/xml/rfc2102.xml' />
+</reference>

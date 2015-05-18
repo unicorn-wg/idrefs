@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2436'>
+
+<front>
+<title abbrev='ISOC/IETF - ITU-T Collaboration'>Collaboration between ISOC/IETF and ITU-T</title>
+<author initials='R.F.' surname='Brett' fullname='R. F. Brett'>
+<organization>Nortel Networks</organization>
+<address>
+<postal>
+<street>P.O. Box 3511</street>
+<street>Station C</street>
+<street>Ottawa</street>
+<street>ON  K1Y 4H7</street>
+<country>Canada</country></postal>
+<phone>+1-613-828-0902</phone>
+<facsimile>+1-613-828-9408</facsimile>
+<email>rfbrett@nortel.ca</email></address></author>
+<author initials='S.O.' surname='Bradner' fullname='Scott O. Bradner'>
+<organization>Harvard University</organization>
+<address>
+<postal>
+<street>Holyoke Center</street>
+<street>Room 876</street>
+<street>1350 Mass. Ave.</street>
+<street>Cambridge</street>
+<street>MA  02138</street>
+<country>USA</country></postal>
+<phone>+1 617 495 3864</phone>
+<email>sob@harvard.edu</email></address></author>
+<author initials='G.W.' surname='Parsons' fullname='Glenn W. Parsons'>
+<organization>Nortel Networks</organization>
+<address>
+<postal>
+<street>P.O. Box 3511</street>
+<street>Station C</street>
+<street>Ottawa</street>
+<street>ON  K1Y 4H7</street>
+<country>Canada</country></postal>
+<phone>+1-613-763-7582</phone>
+<facsimile>+1-613-763-4461</facsimile>
+<email>Glenn.Parsons@Nortel.ca</email></address></author>
+<date year='1998' month='October' />
+<area>General</area>
+<keyword>International Telecommunications Union</keyword>
+<keyword>International Telecommunications Union:Telecommunication Standardization Bureau</keyword>
+<keyword>Internet Engineering Task Force</keyword>
+<keyword>Internet Society</keyword></front>
+
+<seriesInfo name='RFC' value='2436' />
+<format type='TXT' octets='31154' target='http://www.rfc-editor.org/rfc/rfc2436.txt' />
+<format type='XML' octets='31775' target='http://xml.resource.org/public/rfc/xml/rfc2436.xml' />
+</reference>

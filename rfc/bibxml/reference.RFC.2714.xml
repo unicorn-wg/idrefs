@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2714'>
+
+<front>
+<title abbrev='Schema for CORBA Object References'>Schema for Representing CORBA Object References in an LDAP Directory</title>
+<author initials='V.' surname='Ryan' fullname='Vincent Ryan'>
+<organization>Sun Microsystems, Inc.</organization>
+<address>
+<postal>
+<street>901 San Antonio Road</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94303</code>
+<country>US</country></postal>
+<phone>+353 1 8199151</phone>
+<email>vincent.ryan@ireland.sun.com</email></address></author>
+<author initials='R.' surname='Lee' fullname='Rosanna Lee'>
+<organization>Sun Microsystems, Inc.</organization>
+<address>
+<postal>
+<street>901 San Antonio Road</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94303</code>
+<country>US</country></postal>
+<phone>+1 408 863 3221</phone>
+<email>rosanna.lee@eng.sun.com</email></address></author>
+<author initials='S.' surname='Seligman' fullname='Scott Seligman'>
+<organization>Sun Microsystems, Inc.</organization>
+<address>
+<postal>
+<street>901 San Antonio Road</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94303</code>
+<country>US</country></postal>
+<phone>+1 408 863 3222</phone>
+<email>scott.seligman@eng.sun.com</email></address></author>
+<date year='1999' month='October' />
+<abstract>
+<t>CORBA [CORBA] is the Common Object Request Broker Architecture defined by the Object Management Group. This document defines the schema for representing CORBA object references in an LDAP directory [LDAPv3].</t></abstract></front>
+
+<seriesInfo name='RFC' value='2714' />
+<format type='TXT' octets='14709' target='http://www.rfc-editor.org/rfc/rfc2714.txt' />
+</reference>

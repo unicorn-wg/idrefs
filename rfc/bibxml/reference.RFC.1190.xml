@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1190'>
+
+<front>
+<title abbrev='Internet Stream Protocol'>Experimental Internet Stream Protocol: Version 2 (ST-II)</title>
+<author initials='S.' surname='Casner' fullname='Stephen Casner'>
+<organization>University of Southern Californai (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292-6695</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511 x153</phone>
+<email>Casner@ISI.Edu</email></address></author>
+<author initials='C.' surname='Lynn' fullname='Charles Lynn, Jr.'>
+<organization>Bolt Beranek and Newman Inc., BBN Systems and Technologies</organization>
+<address>
+<postal>
+<street>10 Moulton Street</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal>
+<phone>+1 617 873 3367</phone>
+<email>CLynn@BBN.Com</email></address></author>
+<author initials='P.' surname='Park' fullname='Philippe Park'>
+<organization>Bolt Beranek and Newman Inc., BBN Systems and Technologies</organization>
+<address>
+<postal>
+<street>10 Moulton Street</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal>
+<phone>+1 617 873 2892</phone>
+<email>ppark@BBN.COM</email></address></author>
+<author initials='K.' surname='Schroder' fullname='Kenneth Schroder'>
+<organization>Bolt Beranek and Newman Inc., BBN Systems and Technologies</organization>
+<address>
+<postal>
+<street>10 Moulton Street</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal>
+<phone>+1 617 873 3167</phone>
+<email>Schroder@BBN.Com</email></address></author>
+<author initials='C.' surname='Topolcic' fullname='Claudio Topolcic'>
+<organization>Bolt Beranek and Newman Inc., BBN Systems and Technologies</organization>
+<address>
+<postal>
+<street>10 Moulton Street</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal>
+<phone>+1 617 873 3874</phone>
+<email>Topolcic@BBN.Com</email></address></author>
+<date year='1990' day='1' month='October' />
+<abstract>
+<t>This memo defines the Internet Stream Protocol, Version 2 (ST-II), an IP-layer protocol that provides end-to-end guaranteed service across an internet.  This specification obsoletes IEN 119 "ST - A Proposed Internet Stream Protocol" written by Jim Forgie in 1979, the previous specification of ST.  ST-II is not compatible with Version 1 of the protocol, but maintains much of the architecture and philosophy of that version.  It is intended to fill in some of the areas left unaddressed, to make it easier to implement, and to support a wider range of applications.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1190' />
+<format type='TXT' octets='386909' target='http://www.rfc-editor.org/rfc/rfc1190.txt' />
+</reference>

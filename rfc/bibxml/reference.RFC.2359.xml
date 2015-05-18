@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2359'>
+
+<front>
+<title>IMAP4 UIDPLUS extension</title>
+<author initials='J.G.' surname='Myers' fullname='John Gardiner Myers'>
+<organization>Netscape Communications</organization>
+<address>
+<postal>
+<street>501 East Middlefield Road</street>
+<street>Mail Stop MV-029</street>
+<street>Mountain View</street>
+<street>CA  94043</street></postal>
+<email>jgmyers@netscape.com</email></address></author>
+<date year='1998' month='June' />
+<area>Applications</area>
+<keyword>IMAP</keyword>
+<keyword>internet message access protocol</keyword>
+<note title='IESG Note'>
+<t>
+   The IMAP extension described here assumes a particular means of using
+   IMAP to support disconnected operation.  However, this means of
+   supporting disconnected operation is not yet documented.  Also, there
+   are multiple theories about how best to do disconnected operation in
+   IMAP, and as yet, there is no consensus on which one should be
+   adopted as a standard.
+</t>
+<t>
+   This document is being approved as a Proposed Standard because it
+   does not appear to have technical flaws in itelf.  However, approval
+   of this document as a Proposed Standard should not be considered an
+   IETF endorsement of any particular means of doing disconnected
+   operation in IMAP.
+</t></note></front>
+
+<seriesInfo name='RFC' value='2359' />
+<format type='TXT' octets='10862' target='http://www.rfc-editor.org/rfc/rfc2359.txt' />
+<format type='XML' octets='10648' target='http://xml.resource.org/public/rfc/xml/rfc2359.xml' />
+</reference>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1553'>
+
+<front>
+<title abbrev='CIPX'>Compressing IPX Headers Over WAN Media (CIPX)</title>
+<author initials='S.' surname='Mathur' fullname='Saroop Mathur'>
+<organization>Telebit Corp.</organization>
+<address>
+<postal>
+<street>1315 Chesapeake Terrace</street>
+<city>Sunnyvale</city>
+<region>CA</region>
+<code>94089-1100</code>
+<country>US</country></postal>
+<email>mathur@telebit.com</email></address></author>
+<author initials='M.' surname='Lewis' fullname='Mark S. Lewis'>
+<organization>Telebit Corp.</organization>
+<address>
+<postal>
+<street>1315 Chesapeake Terrace</street>
+<city>Sunnyvale</city>
+<region>CA</region>
+<code>94089-1100</code>
+<country>US</country></postal>
+<email>Mark.S.Lewis@telebit.com</email></address></author>
+<date year='1993' month='December' />
+<abstract>
+<t>This document describes a method for compressing the headers of IPX datagrams (CIPX).  With this method, it is possible to significantly improve performance over lower speed wide area network (WAN) media.  For normal IPX packet traffic, CIPX can provide a compression ratio of approximately 2:1 including both IPX header and data.  This method can be used on various type of WAN media, including those supporting PPP and X.25.</t>
+<t>This memo ia a product of the Point-to-Point Protocol Extensions (PPPEXT) Working Group of the IETF.  Comments should be sent to the authors and the ietf-ppp@ucdavis.edu mailing list.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1553' />
+<format type='TXT' octets='47450' target='http://www.rfc-editor.org/rfc/rfc1553.txt' />
+</reference>

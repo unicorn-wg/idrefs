@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2828'>
+
+<front>
+<title>Internet Security Glossary</title>
+<author initials='R.' surname='Shirey' fullname='R. Shirey'>
+<organization /></author>
+<date year='2000' month='May' />
+<abstract>
+<t>This Glossary provides abbreviations, explanations, and recommendations for use of information system security terminology.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2828' />
+<format type='TXT' octets='489292' target='http://www.rfc-editor.org/rfc/rfc2828.txt' />
+</reference>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7234'>
+
+<front>
+<title>Hypertext Transfer Protocol (HTTP/1.1): Caching</title>
+<author initials='R.' surname='Fielding' fullname='R. Fielding'>
+<organization /></author>
+<author initials='M.' surname='Nottingham' fullname='M. Nottingham'>
+<organization /></author>
+<author initials='J.' surname='Reschke' fullname='J. Reschke'>
+<organization /></author>
+<date year='2014' month='June' />
+<abstract>
+<t>The Hypertext Transfer Protocol (HTTP) is a stateless \%application- level protocol for distributed, collaborative, hypertext information systems.  This document defines HTTP caches and the associated header fields that control cache behavior or indicate cacheable response messages.</t></abstract></front>
+
+<seriesInfo name='RFC' value='7234' />
+<format type='TXT' octets='90647' target='http://www.rfc-editor.org/rfc/rfc7234.txt' />
+</reference>

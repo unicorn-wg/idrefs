@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0039'>
+
+<front>
+<title>Comments on Protocol Re: NWG/RFC #36</title>
+<author initials='E.' surname='Harslem' fullname='E. Harslem'>
+<organization>Rand Corporation</organization></author>
+<author initials='J.' surname='Heafner' fullname='J. Heafner'>
+<organization>Rand Corporation</organization></author>
+<date year='1970' day='25' month='March' />
+<abstract>
+<t>We offer the following suggestions to be considered as additions to the April 28th 1970 protocol grammar specifications.</t></abstract></front>
+
+<seriesInfo name='RFC' value='39' />
+<format type='TXT' octets='4779' target='http://www.rfc-editor.org/rfc/rfc39.txt' />
+</reference>

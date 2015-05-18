@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0689'>
+
+<front>
+<title abbrev='TENEX NCP Finite State Machine for Connections'>Tenex NCP finite state machine for connections</title>
+<author initials='R.' surname='Clements' fullname='R. Clements'>
+<organization /></author>
+<date year='1975' day='23' month='May' />
+<abstract>
+<t>The attached figure describes the finite state machine used in TENEX version 1.33 to implement the ARPANET Host to Host protocol. This memo updates that of 27 August 1971, TENEX memo number 113, with regard to the finite state machine. Other parts of that memo have been incorporated into the JSYS manual and other documents.</t></abstract></front>
+
+<seriesInfo name='RFC' value='689' />
+<format type='TXT' octets='13101' target='http://www.rfc-editor.org/rfc/rfc689.txt' />
+</reference>

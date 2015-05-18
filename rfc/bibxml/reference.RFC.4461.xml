@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4461'>
+
+<front>
+<title>Signaling Requirements for Point-to-Multipoint Traffic-Engineered MPLS Label Switched Paths (LSPs)</title>
+<author initials='S.' surname='Yasukawa' fullname='S. Yasukawa'>
+<organization /></author>
+<date year='2006' month='April' />
+<abstract>
+<t>This document presents a set of requirements for the establishment and maintenance of Point-to-Multipoint (P2MP) Traffic-Engineered (TE) Multiprotocol Label Switching (MPLS) Label Switched Paths (LSPs).&lt;/t>&lt;t> There is no intent to specify solution-specific details or application-specific requirements in this document.&lt;/t>&lt;t> The requirements presented in this document not only apply to packet-switched networks under the control of MPLS protocols, but also encompass the requirements of Layer Two Switching (L2SC), Time Division Multiplexing (TDM), lambda, and port switching networks managed by Generalized MPLS (GMPLS) protocols. Protocol solutions developed to meet the requirements set out in this document must attempt to be equally applicable to MPLS and GMPLS. This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='4461' />
+<format type='TXT' octets='64542' target='http://www.rfc-editor.org/rfc/rfc4461.txt' />
+</reference>

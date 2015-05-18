@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3364'>
+
+<front>
+<title>Tradeoffs in Domain Name System (DNS) Support for Internet Protocol version 6 (IPv6)</title>
+<author initials='R.' surname='Austein' fullname='R. Austein'>
+<organization /></author>
+<date year='2002' month='August' /></front>
+
+<seriesInfo name='RFC' value='3364' />
+<format type='TXT' octets='26544' target='http://www.rfc-editor.org/rfc/rfc3364.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0028'>
+
+<front>
+<title>Time Standards</title>
+<author initials='B.' surname='English' fullname='Bill English'>
+<organization>Stanford Research Institute (SRI)</organization></author>
+<date year='1970' day='13' month='January' />
+<abstract>
+<t>We are about to install a relatively accurate real-time clock on our system.  I would like any comments relative to Network time standards for such things as delay measurement so we can decide how good our clock should be.</t></abstract></front>
+
+<seriesInfo name='RFC' value='28' />
+<format type='TXT' octets='557' target='http://www.rfc-editor.org/rfc/rfc28.txt' />
+</reference>

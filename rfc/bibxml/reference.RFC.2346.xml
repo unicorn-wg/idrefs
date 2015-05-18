@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2346'>
+
+<front>
+<title>Making Postscript and PDF International</title>
+<author initials='J.' surname='Palme' fullname='Jacob Palme'>
+<organization>Stockholm University and KTH</organization>
+<address>
+<postal>
+<street>Electrum 230</street>
+<street>S-164 40 Kista, Sweden</street></postal>
+<phone>+46-8-16 16 67</phone>
+<facsimile>+46-8-783 08 29</facsimile>
+<email>jpalme@dsv.su.se</email></address></author>
+<date year='1998' month='May' />
+<area>Applications</area>
+<keyword>multipurpose internet mail extensions</keyword>
+<keyword>MIME</keyword>
+<keyword>PDF</keyword>
+<keyword>PostScript</keyword>
+<abstract>
+<t>
+   Certain text formats, for example Postscript (MIME-Type:
+
+   application/postscript; file extension .ps) and Portable Document
+
+   Format (MIME-Type: application/pdf; file extension .pdf) specify
+
+   exactly the page layout of the printed document. The commonly used
+
+   paper format is different in North America and the rest of the world.
+
+   North America uses the 'Letter' format, while the rest of the world
+
+   mostly uses the ISO-standard 'A4' format. This means that documents
+
+   formatted on one continent may not be easily printable on another
+
+   continent. This memo gives advice on how to produce documents which
+
+   are equally well printable with the Letter and the A4 formats. By
+
+   using the advice in this document, you can put up a document on the
+
+   Internet, which recipients can print without problem both in and
+
+   outside North America.
+
+</t>
+<t>
+
+   A very short summary of the advice in this document: If you are using
+
+   U.S. Letter paper format, ensure that both the left and right margins
+
+   are at least 21 mm (0.8 in). If you are using A4 paper format, ensure
+
+   that both the top and bottom margins are at least 33 mm (1.3 in).
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2346' />
+<format type='TXT' octets='12382' target='http://www.rfc-editor.org/rfc/rfc2346.txt' />
+<format type='HTML' octets='23411' target='http://xml.resource.org/public/rfc/html/rfc2346.html' />
+<format type='XML' octets='10322' target='http://xml.resource.org/public/rfc/xml/rfc2346.xml' />
+</reference>

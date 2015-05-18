@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2165'>
+
+<front>
+<title>Service Location Protocol</title>
+<author initials='J.' surname='Veizades' fullname='John Veizades'>
+<organization>@Home Network</organization>
+<address>
+<postal>
+<street>385 Ravendale Dr.</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<phone>+1 415 944 7332</phone>
+<facsimile>+1 415 944 8500</facsimile>
+<email>veizades@home.com</email></address></author>
+<author initials='E.' surname='Guttman' fullname='Erik Guttman'>
+<organization>Sun Microsystems</organization>
+<address>
+<postal>
+<street>Gaisbergstr. 6</street>
+<city>Heidelberg</city>
+<region />
+<code>69115</code>
+<country>DE</country></postal>
+<phone>+1 415 336 6697</phone>
+<email>Erik.Guttman@eng.sun.com</email></address></author>
+<author initials='C.E.' surname='Perkins' fullname='Charles E. Perkins'>
+<organization>Sun Microsystems</organization>
+<address>
+<postal>
+<street>2550 Garcia Avenue</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<phone>+1 415 336 7153</phone>
+<facsimile>+1 415 336 0670</facsimile>
+<email>cperkins@Corp.sun.com</email></address></author>
+<author initials='S.' surname='Kaplan' fullname='Scott Kaplan'>
+<organization />
+<address>
+<postal>
+<street>346 Fair Oaks St.</street>
+<city>San Francisco</city>
+<region>CA</region>
+<code>94110</code>
+<country>US</country></postal>
+<phone>+1 415 285 4526</phone>
+<email>scott@catch22.com</email></address></author>
+<date year='1997' month='June' />
+<abstract>
+<t>The Service Location Protocol provides a scalable framework for the discovery and selection of network services.  Using this protocol, computers using the Internet no longer need so much static configuration of network services for network based applications. This is especially important as computers become more portable, and users less tolerant or able to fulfill the demands of network system administration.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2165' />
+<format type='TXT' octets='169889' target='http://www.rfc-editor.org/rfc/rfc2165.txt' />
+</reference>

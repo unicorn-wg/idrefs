@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3673'>
+
+<front>
+<title>Lightweight Directory Access Protocol version 3 (LDAPv3): All Operational Attributes</title>
+<author initials='K.' surname='Zeilenga' fullname='K. Zeilenga'>
+<organization /></author>
+<date year='2003' month='December' />
+<abstract>
+<t>The Lightweight Directory Access Protocol (LDAP) supports a mechanism for requesting the return of all user attributes but not all operational attributes.  This document describes an LDAP extension which clients may use to request the return of all operational attributes.</t></abstract></front>
+
+<seriesInfo name='RFC' value='3673' />
+<format type='TXT' octets='10003' target='http://www.rfc-editor.org/rfc/rfc3673.txt' />
+</reference>

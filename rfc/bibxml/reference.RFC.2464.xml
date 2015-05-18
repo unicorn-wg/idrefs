@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2464'>
+
+<front>
+<title abbrev='IPv6 Packets over Ethernet'>Transmission of IPv6 Packets over Ethernet Networks</title>
+<author initials='M.' surname='Crawford' fullname='Matt Crawford'>
+<organization>Fermilab</organization>
+<address>
+<postal>
+<street>PO Box 500, MS 368</street>
+<city>Batavia</city>
+<region>IL</region>
+<code>60510</code>
+<country>USA</country></postal>
+<phone>+1 630 840 3461</phone>
+<email>crawdad@fnal.gov</email></address></author>
+<date year='1998' month='December' />
+<area>Internet</area>
+<keyword>ethernet</keyword>
+<keyword>internet protocol version 6</keyword>
+<keyword>IPv6</keyword></front>
+
+<seriesInfo name='RFC' value='2464' />
+<format type='TXT' octets='12725' target='http://www.rfc-editor.org/rfc/rfc2464.txt' />
+<format type='HTML' octets='31035' target='http://xml.resource.org/public/rfc/html/rfc2464.html' />
+<format type='XML' octets='21983' target='http://xml.resource.org/public/rfc/xml/rfc2464.xml' />
+</reference>

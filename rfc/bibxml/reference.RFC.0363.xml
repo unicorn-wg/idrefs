@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0363'>
+
+<front>
+<title>ARPA Network mailing lists</title>
+<author>
+<organization>SRI/Network Information Center</organization></author>
+<date year='1972' month='August' /></front>
+
+<seriesInfo name='RFC' value='363' />
+<format type='TXT' octets='25356' target='http://www.rfc-editor.org/rfc/rfc363.txt' />
+</reference>

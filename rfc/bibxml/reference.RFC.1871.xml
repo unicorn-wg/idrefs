@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1871'>
+
+<front>
+<title abbrev='Variance Procedure'>Addendum to RFC 1602 -- Variance Procedure</title>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>University of Southern California, Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<street>Suite 1001</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292-6695</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511</phone>
+<email>postel@isi.edu</email></address></author>
+<date year='1995' month='November' />
+<abstract>
+<t>This document describes a modification to the IETF procedures to allow an escape from a situation where the existing procedures are not working or do not seem to apply.  This is a modification to the procedures of RFC 1602 and 1603.</t></abstract></front>
+
+<seriesInfo name='BCP' value='2' />
+<seriesInfo name='RFC' value='1871' />
+<format type='TXT' octets='7747' target='http://www.rfc-editor.org/rfc/rfc1871.txt' />
+</reference>

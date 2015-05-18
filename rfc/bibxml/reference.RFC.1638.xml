@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1638'>
+
+<front>
+<title abbrev='PPP Bridging'>PPP Bridging Control Protocol (BCP)</title>
+<author initials='F.' surname='Baker' fullname='Fred Baker'>
+<organization>Advanced Computer Communications</organization>
+<address>
+<postal>
+<street>315 Bollay Drive</street>
+<city>Santa Barbara</city>
+<region>CA</region>
+<code>93117</code>
+<country>US</country></postal>
+<email>fbaker@acc.com</email></address></author>
+<author initials='R.' surname='Bowen' fullname='Rich Bowen'>
+<organization>International Business Machines Corporation</organization>
+<address>
+<postal>
+<street>P. O. Box 12195</street>
+<city>Research Triangle Park</city>
+<region>NC</region>
+<code>27709</code>
+<country>US</country></postal>
+<phone>+1 919 543 9851</phone>
+<email>Rich_Bowen@vnet.ibm.com</email></address></author>
+<date year='1994' month='June' />
+<abstract>
+<t>The Point-to-Point Protocol (PPP)provides a standard method for transporting multi-protocol datagrams over point-to-point links.  PPP defines an extensible Link Control Protocol, and proposes a family of Network Control Protocols for establishing and configuring different network-layer protocols.</t>
+<t>This document defines the Network Control Protocol for establishing and configuring Remote Bridging for PPP links.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1638' />
+<format type='TXT' octets='58477' target='http://www.rfc-editor.org/rfc/rfc1638.txt' />
+</reference>

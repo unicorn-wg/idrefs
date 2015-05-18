@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0301'>
+
+<front>
+<title>BBN IMP (#5) and NCC Schedule March 4, 1971</title>
+<author initials='R.' surname='Alter' fullname='R. Alter'>
+<organization>Bolt Baranek and Newman (BBN)</organization></author>
+<date year='1972' day='11' month='February' />
+<abstract>
+<t>On Saturday morning, March 4, 1972, at 0800 EST the BBN IMP (#5) will go off the air to allow for a move of the equipment to a new location in BBN's facilities.</t></abstract></front>
+
+<seriesInfo name='RFC' value='301' />
+<format type='TXT' octets='1487' target='http://www.rfc-editor.org/rfc/rfc301.txt' />
+</reference>

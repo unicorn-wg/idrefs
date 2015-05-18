@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0278'>
+
+<front>
+<title>Revision of the Mail Box Protocol</title>
+<author initials='A.' surname='Bhushan' fullname='Abhay Bhushan'>
+<organization>Massachusetts Institute of Technology (MIT), DMCG</organization></author>
+<author initials='B.' surname='Braden' fullname='Bob Braden'>
+<organization>University California Los Angeles (UCLA), CCN</organization></author>
+<author initials='E.' surname='Harslem' fullname='Eric Harslem'>
+<organization>RAND Corporation</organization></author>
+<author initials='J.' surname='Heafner' fullname='John Heafner'>
+<organization>RAND Corporation</organization></author>
+<author initials='A.' surname='McKenzie' fullname='Alex McKenzie'>
+<organization>Bolt Beranek and Newman Inc. (BBN), NET</organization></author>
+<author initials='B.' surname='Sundberg' fullname='Bob Sundberg'>
+<organization>Harvard University</organization></author>
+<author initials='D.' surname='Watson' fullname='Dick Watson'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
+<author initials='J.' surname='White' fullname='Jim White'>
+<organization>University California Santa Barbara (UCSB)</organization></author>
+<date year='1971' day='17' month='November' />
+<abstract>
+<t>The file transfer committee met and discussed the Mail Box Protocol RFC 221, NIC 7612.  The potential utility for the mechanism was confirmed and a couple of changes suggested.  We first give the changes and then restate the Protocol.</t></abstract></front>
+
+<seriesInfo name='RFC' value='278' />
+<format type='TXT' octets='7526' target='http://www.rfc-editor.org/rfc/rfc278.txt' />
+</reference>

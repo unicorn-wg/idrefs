@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1523'>
+
+<front>
+<title abbrev='A text/enriched MIME Content-type'>The text/enriched MIME Content-type</title>
+<author initials='N.' surname='Borenstein' fullname='Nathaniel S. Borenstein'>
+<organization>Bellcore</organization>
+<address>
+<postal>
+<street>445 South St.</street>
+<street>MRE 2D-296</street>
+<city>Morristown</city>
+<region>NJ</region>
+<code>07962-1910</code>
+<country>US</country></postal>
+<phone>+1 201 829 4270</phone>
+<facsimile>+1 201 829 5963</facsimile>
+<email>nsb@bellcore.com</email></address></author>
+<date year='1993' month='September' />
+<abstract>
+<t>MIME,defines a format and general framework for the representation of a wide variety of data types in Internet mail. This document defines one particular type of MIME data, the text/enriched type, a refinement of the "text/richtext" type defined in RFC 1341. The text/enriched MIME type is intended to facilitate the wider interoperation of simple enriched text across a wide variety of hardware and software platforms.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1523' />
+<format type='TXT' octets='32691' target='http://www.rfc-editor.org/rfc/rfc1523.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0100'>
+
+<front>
+<title>Categorization and guide to NWG/RFCs</title>
+<author initials='P.' surname='Karp' fullname='P. Karp'>
+<organization>MITRE Corporation</organization></author>
+<date year='1971' day='26' month='February' />
+<abstract>
+<t>The NWG/RFC Guide is an attempt to introduce some order into the NWG/RFC series, which now numbers 102.  The Guide categorizes the NWG/RFC notes, identifies topics under discussion and the relevant NWG/RFCs, and indicates whether the notes are current, obsolete, or superseded.</t></abstract></front>
+
+<seriesInfo name='RFC' value='100' />
+<format type='TXT' octets='62473' target='http://www.rfc-editor.org/rfc/rfc100.txt' />
+</reference>

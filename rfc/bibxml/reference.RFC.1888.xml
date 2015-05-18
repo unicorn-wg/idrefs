@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1888'>
+
+<front>
+<title>OSI NSAPs and IPv6</title>
+<author initials='J.' surname='Bound' fullname='Jim Bound'>
+<organization>Digital Equipment Corporation, Network Operating Systems</organization>
+<address>
+<postal>
+<street>110 Spitbrook Road</street>
+<street>ZKO3-3/U14</street>
+<city>Nashua</city>
+<region>NH</region>
+<code>03062</code>
+<country>US</country></postal>
+<phone>+1 603 881 0400</phone>
+<facsimile>+1 603 881 0120</facsimile>
+<email>bound@zk3.dec.com</email></address></author>
+<author initials='B.' surname='Carpenter' fullname='Brian E. Carpenter'>
+<organization>CERN, European Laboratory for Particle Physics, Computing and Networks Division, Communications Systems</organization>
+<address>
+<postal>
+<street>1211 Geneva</street>
+<city />
+<region />
+<code>23</code>
+<country>CH</country></postal>
+<phone>+41 22 7674967</phone>
+<facsimile>+41 22 7677155</facsimile>
+<email>brian@dxcoms.cern.ch</email></address></author>
+<author initials='D.' surname='Harrington' fullname='Dan Harrington'>
+<organization>Digital Equipment Corp.</organization>
+<address>
+<postal>
+<street>King Street (LKG2-2/Q9)</street>
+<city>Littleton</city>
+<region>MA</region>
+<code>01460</code>
+<country>US</country></postal>
+<phone>+1 508 486 7643</phone>
+<email>dan@netrix.lkg.dec.com</email></address></author>
+<author initials='J.' surname='Houldsworth' fullname='Jack Houldsworth'>
+<organization>ICL Network Systems</organization>
+<address>
+<postal>
+<street>Cavendish Road</street>
+<city>Stevenage</city>
+<region>Hertfordshire</region>
+<code>SG1 4BQ</code>
+<country>UK</country></postal>
+<phone>+44 438 786112</phone>
+<facsimile>+44 438 786150</facsimile>
+<email>j.houldsworth@ste0906.wins.icl.co.uk</email></address></author>
+<author initials='A.' surname='Lloyd' fullname='Alan Lloyd'>
+<organization>Datacraft Technologies</organization>
+<address>
+<postal>
+<street>252 Maroondah Highway</street>
+<city>Mooroolbark</city>
+<region>Victoria</region>
+<code>3138</code>
+<country>AU</country></postal>
+<phone>+61 3 7279222</phone>
+<facsimile>+61 3 7271557</facsimile>
+<email>alan.lloyd@datacraft.com.au</email></address></author>
+<date year='1996' month='August' />
+<abstract>
+<t>This document recommends that network implementors who have planned or deployed an OSI NSAP addressing plan, and who wish to deploy or transition to IPv6, should redesign a native IPv6 addressing plan to meet their needs.  However, it also defines a set of mechanisms for the support of OSI NSAP addressing in an IPv6 network.  These mechanisms are the ones that MUST be used if such support is required.  This document also defines a mapping of IPv6 addresses within the OSI address format, should this be required.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1888' />
+<format type='TXT' octets='36469' target='http://www.rfc-editor.org/rfc/rfc1888.txt' />
+</reference>

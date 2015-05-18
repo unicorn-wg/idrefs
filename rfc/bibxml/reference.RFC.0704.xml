@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0704'>
+
+<front>
+<title>IMP/Host and Host/IMP Protocol change</title>
+<author initials='P.' surname='Santos' fullname='Paul J. Santos, Jr.'>
+<organization>Bolt Beranek and Newman (BBN)</organization></author>
+<date year='1975' day='15' month='September' />
+<abstract>
+<t>This note is a revision of RFC 687 and sketches the design of an expansion to the IMP/host and host/IMP protocol which will include among other things the possibility of addressing hosts on more than 63 IMPs. Our intention in this expansion is to correct certain existing limits without fundamental changes in the philosophy of the IMP/host protocol; i.e., while many issues which would represent fundamental changes to the IMP/host protocol are presently under discussion in the world-wide packet-switching community, we are not able to undertake massive fundamental changes on a time scale compatible with the short term needs for network improvement (e.g., already there are 62 IMPs).</t></abstract></front>
+
+<seriesInfo name='RFC' value='704' />
+<format type='TXT' octets='7504' target='http://www.rfc-editor.org/rfc/rfc704.txt' />
+</reference>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2460'>
+
+<front>
+<title abbrev='IPv6 Specification'>Internet Protocol, Version 6 (IPv6) Specification</title>
+<author initials='S.E.' surname='Deering' fullname='Stephen E. Deering'>
+<organization>Cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<street>San Jose</street>
+<region>CA</region>
+<code>95134-1706</code>
+<country>USA</country></postal>
+<phone>+1 408 527 8213</phone>
+<facsimile>+1 408 527 8254</facsimile>
+<email>deering@cisco.com</email></address></author>
+<author initials='R.M.' surname='Hinden' fullname='Robert M. Hinden'>
+<organization>Nokia</organization>
+<address>
+<postal>
+<street>232 Java Drive</street>
+<street>Sunnyvale</street>
+<region>CA</region>
+<code>94089</code>
+<country>USA</country></postal>
+<phone>+1 408 990 2004</phone>
+<facsimile>+1 408 743 5677</facsimile>
+<email>hinden@iprg.nokia.com</email></address></author>
+<date year='1998' month='December' />
+<area>Internet</area>
+<keyword>internet protocol version 6</keyword>
+<keyword>IPv6</keyword>
+<abstract>
+<t>
+   This document specifies version 6 of the Internet Protocol (IPv6),
+   also sometimes referred to as IP Next Generation or IPng.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2460' />
+<format type='TXT' octets='85490' target='http://www.rfc-editor.org/rfc/rfc2460.txt' />
+<format type='HTML' octets='107357' target='http://xml.resource.org/public/rfc/html/rfc2460.html' />
+<format type='XML' octets='94163' target='http://xml.resource.org/public/rfc/xml/rfc2460.xml' />
+</reference>

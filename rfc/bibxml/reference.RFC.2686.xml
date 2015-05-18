@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2686'>
+
+<front>
+<title abbrev='Multi-Class Extension to Multi-Link PPP'>The Multi-Class Extension to Multi-Link PPP</title>
+<author initials='C.' surname='Bormann' fullname='Carsten Bormann'>
+<organization>Universitaet Bremen FB3 TZI</organization>
+<address>
+<postal>
+<street>Postfach 330440</street>
+<city>Bremen</city>
+<code>D-28334</code>
+<country>DE</country></postal>
+<phone>+49 421 2187024</phone>
+<email>cabo@tzi.org</email></address></author>
+<date year='1999' month='September' />
+<abstract>
+<t>A companion document describes an architecture for providing
+integrated services over low-bitrate links, such as modem lines, ISDN
+B-channels, and sub-T1 links. The main components of the architecture are: a real-time encapsulation format for asynchronous
+and synchronous low-bitrate links, a header compression architecture
+optimized for real-time flows, elements of negotiation protocols used
+between routers (or between hosts and routers), and announcement
+protocols used by applications to allow this negotiation to take
+place.</t>
+<t>This document proposes the fragment-oriented solution for the real-time encapsulation format part of the architecture. The general approach is to start from the PPP Multilink fragmentation protocoland provide a small number of extensions to add functionality and reduce the overhead.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2686' />
+<format type='TXT' octets='24192' target='http://www.rfc-editor.org/rfc/rfc2686.txt' />
+</reference>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2519'>
+
+<front>
+<title abbrev='Inter-Domain Route Aggregation'>A Framework for Inter-Domain Route Aggregation</title>
+<author initials='E.' surname='Chen' fullname='Enke Chen'>
+<organization>Cisco Systems</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134-1706</code>
+<country>US</country></postal>
+<phone>+1 408 527 4652</phone>
+<email>enkechen@cisco.com</email></address></author>
+<author initials='J.' surname='Stewart' fullname='John W. Stewart, III'>
+<organization>Juniper Networks, Inc.</organization>
+<address>
+<postal>
+<street>385 Ravendale Drive</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<phone>+1 650 526 8000</phone>
+<email>jstewart@juniper.net</email></address></author>
+<date year='1999' month='February' />
+<abstract>
+<t>This document presents a framework for inter-domain route
+aggregation
+and shows an example router configuration which 'implements' this
+framework.
+This framework is flexible and scales well as it
+emphasizes the philosophy of aggregation by the source, both within
+routing domains as well as towards upstream providers, and it also
+strongly encourages the use of the 'no-export' BGP community to
+balance the provider-subscriber need for more granular routing
+information with the Internet's need for scalable inter-domain
+routing.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2519' />
+<format type='TXT' octets='25394' target='http://www.rfc-editor.org/rfc/rfc2519.txt' />
+</reference>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2479'>
+
+<front>
+<title abbrev='IDUP-GSS-API'>Independent Data Unit Protection Generic Security Service Application Program Interface (IDUP-GSS-API)</title>
+<author initials='C.' surname='Adams' fullname='Carlisle Adams'>
+<organization>Entrust Technologies</organization>
+<address>
+<postal>
+<street>750 Heron Road</street>
+<street>Suite E08</street>
+<city>Ottawa</city>
+<region>Ontario</region>
+<code>K1V 1A7</code>
+<country>CANADA</country></postal>
+<phone>+1 613 247 3180</phone>
+<email>cadams@entrust.com</email></address></author>
+<date year='1998' month='December' />
+<area>Security</area>
+<keyword>application program interface</keyword>
+<keyword>generic security service</keyword>
+<keyword>independent data unit protection</keyword>
+<keyword>security</keyword>
+<abstract>
+<t>
+   The IDUP-GSS-API extends the GSS-API  for applications
+   requiring protection of a generic data unit (such as a file or
+   message) in a way which is independent of the protection of any other
+   data unit and independent of any concurrent contact with designated
+   &quot;receivers&quot; of the data unit.  Thus, it is suitable for applications
+   such as secure electronic mail where data needs to be protected
+   without any on-line connection with the intended recipient(s) of that
+   data.  The protection offered by IDUP includes services such as data
+   origin authentication with data integrity, data confidentiality with
+   data integrity, and support for non-repudiation services.  Subsequent
+   to being protected, the data unit can be transferred to the
+   recipient(s) - or to an archive - perhaps to be processed
+   (&quot;unprotected&quot;) only days or years later.
+</t>
+<t>
+   Throughout the remainder of this document, the &quot;unit&quot; of data
+   described in the above paragraph will be referred to as an IDU
+   (Independent Data Unit).  The IDU can be of any size (the application
+   may, if it wishes, split the IDU into pieces and have the protection
+   computed a piece at a time, but the resulting protection token
+   applies to the entire IDU).  However, the primary characteristic of
+   an IDU is that it represents a stand-alone unit of data whose
+   protection is entirely independent of any other unit of data.  If an
+   application protects several IDUs and sends them all to a single
+   receiver, the IDUs may be unprotected by that receiver in any order
+   over any time span; no logical connection of any kind is implied by
+   the protection process itself.
+</t>
+<t>
+   As with RFC-2078, this IDUP-GSS-API definition provides security
+   services to callers in a generic fashion, supportable with a range of
+   underlying mechanisms and technologies and hence allowing source-
+   level portability of applications to different environments. This
+   specification defines IDUP-GSS-API services and primitives at a level
+   independent of underlying mechanism and programming language
+   environment, and is to be complemented by other, related
+   specifications:
+
+<list>
+<t>
+      - documents defining specific parameter bindings for particular
+        language environments;
+      - documents defining token formats, protocols, and procedures to
+        be implemented in order to realize IDUP-GSS-API services atop
+        particular security mechanisms.
+</t></list></t></abstract></front>
+
+<seriesInfo name='RFC' value='2479' />
+<format type='TXT' octets='156070' target='http://www.rfc-editor.org/rfc/rfc2479.txt' />
+<format type='HTML' octets='190988' target='http://xml.resource.org/public/rfc/html/rfc2479.html' />
+<format type='XML' octets='157270' target='http://xml.resource.org/public/rfc/xml/rfc2479.xml' />
+</reference>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1577'>
+
+<front>
+<title>Classical IP and ARP over ATM</title>
+<author initials='M.' surname='Laubach' fullname='Mark Laubach'>
+<organization>Hewlett-Packard Laboratories</organization>
+<address>
+<postal>
+<street>1501 Page Mill Road</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94304</code>
+<country>US</country></postal>
+<phone>+1 415 857 3513</phone>
+<facsimile>+1 415 857 8526</facsimile>
+<email>laubach@hpl.hp.com</email></address></author>
+<date year='1994' month='January' />
+<abstract>
+<t>This memo defines an initial application of classical IP and ARP in an Asynchronous Transfer Mode (ATM) network environment configured as a Logical IP Subnetwork (LIS) as described in Section 3.  This memo does not preclude the subsequent development of ATM technology into areas other than a LIS; specifically, as single ATM networks grow to replace many ethernet local LAN segments and as these networks become globally connected, the application of IP and ARP will be treated differently.  This memo considers only the application of ATM as a direct replacement for the "wires" and local LAN segments connecting IP end-stations ("members") and routers operating in the "classical" LAN-based paradigm. Issues raised by MAC level bridging and LAN emulation are beyond the scope of this paper.</t>
+<t>This memo introduces general ATM technology and nomenclature. Readers are encouraged to review the ATM Forum and ITU-TS (formerly CCITT) references for more detailed information about ATM implementation agreements and standards.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1577' />
+<format type='TXT' octets='41239' target='http://www.rfc-editor.org/rfc/rfc1577.txt' />
+</reference>

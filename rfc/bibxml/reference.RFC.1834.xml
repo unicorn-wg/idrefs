@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1834'>
+
+<front>
+<title abbrev='Whois++ Lookup Service'>Whois and Network Information Lookup Service, Whois++</title>
+<author initials='J.' surname='Gargano' fullname='Joan Gargano'>
+<organization>University of California, Davis,  Information Technology, Distributed Computing Analysis and Support</organization>
+<address>
+<postal>
+<street />
+<city>Davis</city>
+<region>CA</region>
+<code>95616</code>
+<country>US</country></postal>
+<email>jcgargano@ucdavis.edu</email></address></author>
+<author initials='K.' surname='Weiss' fullname='Ken Weiss'>
+<organization>University of California, Davis,  Information Technology, Distributed Computing Analysis and Support</organization>
+<address>
+<postal>
+<street />
+<city>Davis</city>
+<region>CA</region>
+<code>95616</code>
+<country>US</country></postal>
+<email>krweiss@ucdavis.edu</email></address></author>
+<date year='1995' month='August' />
+<abstract>
+<t></t></abstract></front>
+
+<seriesInfo name='RFC' value='1834' />
+<format type='TXT' octets='14429' target='http://www.rfc-editor.org/rfc/rfc1834.txt' />
+</reference>

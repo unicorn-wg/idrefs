@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2713'>
+
+<front>
+<title abbrev='Schema for Java Objects'>Schema for Representing Java(tm) Objects in an LDAP Directory</title>
+<author initials='V.' surname='Ryan' fullname='Vincent Ryan'>
+<organization>Sun Microsystems, Inc.</organization>
+<address>
+<postal>
+<street>901 San Antonio Road</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94303</code>
+<country>US</country></postal>
+<phone>+353 1 8199151</phone>
+<email>vincent.ryan@ireland.sun.com</email></address></author>
+<author initials='R.' surname='Lee' fullname='Rosanna Lee'>
+<organization>Sun Microsystems, Inc.</organization>
+<address>
+<postal>
+<street>901 San Antonio Road</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94303</code>
+<country>US</country></postal>
+<phone>+1 408 863 3221</phone>
+<email>rosanna.lee@eng.sun.com</email></address></author>
+<author initials='S.' surname='Seligman' fullname='Scott Seligman'>
+<organization>Sun Microsystems, Inc.</organization>
+<address>
+<postal>
+<street>901 San Antonio Road</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94303</code>
+<country>US</country></postal>
+<phone>+1 408 863 3222</phone>
+<email>scott.seligman@eng.sun.com</email></address></author>
+<date year='1999' month='October' />
+<abstract>
+<t>This document defines the schema for representing Java(tm) objects in an LDAP directory.  It defines schema elements to represent a Java serialized object, a Java marshalled object, a  Java remote object, and a JNDI reference.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2713' />
+<format type='TXT' octets='40745' target='http://www.rfc-editor.org/rfc/rfc2713.txt' />
+</reference>

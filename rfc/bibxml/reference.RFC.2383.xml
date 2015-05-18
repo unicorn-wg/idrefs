@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2383'>
+
+<front>
+<title abbrev='ST2+ over ATM'>ST2+ over ATM Protocol Specification - UNI 3.1 Version</title>
+<author initials='M.' surname='Suzuki' fullname='Muneyoshi Suzuki'>
+<organization>NTT Multimedia Networks Laboratories</organization>
+<address>
+<postal>
+<street>3-9-11</street>
+<street>Midori-cho</street>
+<street>Musashino-shi</street>
+<street>Tokyo 180-8585</street>
+<country>Japan</country></postal>
+<phone>+81-422-59-2119</phone>
+<facsimile>+81-422-59-2829</facsimile>
+<email>suzuki@nal.ecl.net</email></address></author>
+<date year='1998' month='August' />
+<area>Internet</area>
+<keyword>ATM</keyword>
+<keyword>asynchronous transfer mode</keyword>
+<keyword>internet stream protocol</keyword>
+<abstract>
+<t>
+   This document specifies an ATM-based protocol for communication
+   between ST2+ agents. The ST2+ over ATM protocol supports the matching
+   of one hop in an ST2+ tree-structure stream with one ATM connection.
+   In this document, ATM is a subnet technology for the ST2+ stream.
+</t>
+<t>
+   The ST2+ over ATM protocol is designed to achieve resource-
+   reservation communications across ATM and non-ATM networks, to extend
+   the UNI 3.1/4.0 signaling functions, and to reduce the UNI 4.0 LIJ
+   signaling limitations.
+</t>
+<t>
+   The specifications of the ST2+ over ATM protocol consist of a
+   revision of RFC 1819 ST2+ and specifications of protocol interaction
+   between ST2+ and ATM on the user plane, management plane, and control
+   plane which correspond to the three planes of the B-ISDN protocol
+   reference model.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2383' />
+<format type='TXT' octets='99889' target='http://www.rfc-editor.org/rfc/rfc2383.txt' />
+<format type='XML' octets='106834' target='http://xml.resource.org/public/rfc/xml/rfc2383.xml' />
+</reference>

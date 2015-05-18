@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0681'>
+
+<front>
+<title>Network UNIX</title>
+<author initials='S.' surname='Holmgren' fullname='Steve Holmgren'>
+<organization>University Of Illinois</organization>
+<address>
+<postal>
+<street>210 Advanced Computation Bldg.</street>
+<city>Urbana</city>
+<region>IL</region>
+<code>61801</code>
+<country>US</country></postal>
+<phone>+1 217 333 8469</phone>
+<email>HOLMGREN@BBN</email></address></author>
+<date year='1975' day='18' month='March' /></front>
+
+<seriesInfo name='RFC' value='681' />
+<format type='TXT' octets='18874' target='http://www.rfc-editor.org/rfc/rfc681.txt' />
+</reference>

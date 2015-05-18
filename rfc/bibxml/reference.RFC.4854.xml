@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4854'>
+
+<front>
+<title abbrev='URN Namespace for XMPP Extensions'>A Uniform
+Resource Name (URN) Namespace for Extensions&nbsp;to&nbsp;the&nbsp;Extensible&nbsp;Messaging&nbsp;and&nbsp;Presence&nbsp;Protocol&nbsp;(XMPP)</title>
+<author initials='P.' surname='Saint-Andre' fullname='Peter Saint-Andre'>
+<organization abbrev='XSF'>XMPP Standards Foundation</organization>
+<address>
+<postal>
+<street>P.O. Box 1641</street>
+<city>Denver</city>
+<region>CO</region>
+<code>80201</code>
+<country>USA</country></postal>
+<email>stpeter@jabber.org</email>
+<uri>xmpp:stpeter@jabber.org</uri></address></author>
+<date year='2007' month='April' />
+<area>Applications</area>
+<keyword>Extensible Messaging and Presence Protocol</keyword>
+<keyword>XMPP</keyword>
+<keyword>Jabber</keyword>
+<keyword>Instant Messaging</keyword>
+<keyword>Presence</keyword>
+<keyword>Uniform Resource Name</keyword>
+<keyword>URN</keyword>
+<abstract>
+<t>This document describes a Uniform Resource Name (URN) namespace for uniquely identifying Extensible Markup Language (XML) formats and protocols that provide extensions to the Extensible Messaging and Presence Protocol (XMPP) and are defined in specifications published by the XMPP Standards Foundation (XSF).</t></abstract></front>
+
+<seriesInfo name='RFC' value='4854' />
+<format type='TXT' octets='15911' target='http://www.rfc-editor.org/rfc/rfc4854.txt' />
+<format type='HTML' octets='28782' target='http://xml.resource.org/public/rfc/html/rfc4854.html' />
+<format type='XML' octets='18961' target='http://xml.resource.org/public/rfc/xml/rfc4854.xml' />
+</reference>

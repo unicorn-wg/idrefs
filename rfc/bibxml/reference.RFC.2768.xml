@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2768'>
+
+<front>
+<title abbrev='A Report of a Workshop on Middleware'>Network Policy and Services: A Report of a Workshop on Middleware</title>
+<author initials='B.' surname='Aiken' fullname='Bob Aiken'>
+<organization>Cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>6519 Debold Rd.</street>
+<city>Sabillasville</city>
+<region>MD</region>
+<code>21780</code>
+<country>US</country></postal>
+<phone>+1 301 271 2919</phone>
+<email>raiken@cisco.com</email></address></author>
+<author initials='J.' surname='Strassner' fullname='John Strassner'>
+<organization>Cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134</code>
+<country>US</country></postal>
+<phone>+1 408 527 1069</phone>
+<email>johns@cisco.com</email></address></author>
+<author initials='B.E.' surname='Carpenter' fullname='Brian E. Carpenter'>
+<organization>IBM United Kingdom Laboratories</organization>
+<address>
+<postal>
+<street>MP 185</street>
+<street>Hursley Park</street>
+<city>Winchester</city>
+<region>Hampshire</region>
+<code>SO21 2JN</code>
+<country>UK</country></postal>
+<email>brian@hursley.ibm.com</email></address></author>
+<author initials='I.' surname='Foster' fullname='Ian Foster'>
+<organization>The University of Chicago,  Argonne National Laboratory</organization>
+<address>
+<postal>
+<street />
+<city>Argonne</city>
+<region>IL</region>
+<code>60439</code>
+<country>US</country></postal>
+<phone>+1 630 252 4619</phone>
+<email>foster@mcs.anl.gov</email></address></author>
+<author initials='C.' surname='Lynch' fullname='Clifford Lynch'>
+<organization>Coalition for Networked Information</organization>
+<address>
+<postal>
+<street>21 Dupont Circle</street>
+<city>Washington</city>
+<region>DC</region>
+<code>20036</code>
+<country>US</country></postal>
+<phone>+1 202 296 5098</phone>
+<email>cliff@cni.org</email></address></author>
+<author initials='J.' surname='Mambretti' fullname='Joe Mambretti'>
+<organization>Northwestern University, International Center for Advanced Internet Research</organization>
+<address>
+<postal>
+<street>1890 Maple</street>
+<street>Suite 150</street>
+<city>Evanston</city>
+<region>IL</region>
+<code>60201</code>
+<country>US</country></postal>
+<phone>+1 847 467 3911</phone>
+<email>j-mambretti@nwu.edu</email></address></author>
+<author initials='R.' surname='Moore' fullname='Reagan Moore'>
+<organization>University of California, San Diego</organization>
+<address>
+<postal>
+<street>9500 Gilman Drive, NPACI/SDSC</street>
+<street>MC 0505</street>
+<city>La Jolla</city>
+<region>CA</region>
+<code>92093-0505</code>
+<country>US</country></postal>
+<email>moore@sdsc.edu</email></address></author>
+<author initials='B.' surname='Teitelbaum' fullname='Benjamin Teitelbaum'>
+<organization>Advanced Networks &amp; Services, Inc.</organization>
+<address>
+<email>ben@internet2.edu</email></address></author>
+<date year='2000' month='February' />
+<abstract>
+<t>An ad hoc middleware workshop was held at the International Center for Advanced Internet Research in December 1998.  The Workshop was organized and sponsored by Cisco, Northwestern University's International Center for Advanced Internet Research (iCAIR), IBM, and the National Science Foundation (NSF). The goal of the workshop was
+   to identify existing middleware services that could be leveraged for new capabilities as well as identifying additional middleware services requiring research and development.  The workshop participants discussed the definition of middleware in general, examined the applications perspective, detailed underlying network transport capabilities relevant to middleware services, and then covered various specific examples of middleware components. These included APIs, authentication, authorization, and accounting (AAA)  issues, policy framework, directories, resource management, networked information discovery and retrieval services, quality of service, security, and operational tools.  The need for a more organized framework for middleware R&amp;D was recognized, and a list of specific topics needing further work was identified.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2768' />
+<format type='TXT' octets='81034' target='http://www.rfc-editor.org/rfc/rfc2768.txt' />
+</reference>

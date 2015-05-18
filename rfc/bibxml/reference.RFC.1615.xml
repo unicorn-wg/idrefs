@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1615'>
+
+<front>
+<title>Migrating from X.400(84) to X.400(88)</title>
+<author initials='J.' surname='Houttuin' fullname='Jeroen Houttuin'>
+<organization>RARE Secretariat</organization>
+<address>
+<postal>
+<street>Singel 466-468</street>
+<city>Amsterdam</city>
+<region />
+<code>NL-1017 AW</code>
+<country>NL</country></postal>
+<phone>+31 20 6391131</phone>
+<email>houttuin@rare.nl</email></address></author>
+<author initials='J.' surname='Craigie' fullname='Jim Craigie'>
+<organization>Rutherford Appleton Laboratory, Joint Network Team</organization>
+<address>
+<postal>
+<street>Chilton</street>
+<city>Didcot</city>
+<region>Oxfordshire</region>
+<code>OX11 OQX</code>
+<country>UK</country></postal>
+<phone>+44 235 445539</phone>
+<email>J.Craigie@jnt.ac.uk</email></address></author>
+<date year='1994' month='May' />
+<abstract>
+<t>This document compares X.400(88) to X.400(84) and describes what problems can be anticipated in the migration, especially considering the migration from the existing X.400(84) infrastructure created by the COSINE MHS project to an X.400(88) infrastructure. It not only describes the technical complications, but also the effect the transition will have on the end users, especially concerning interworking between end users of the 84 and the 88 services.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1615' />
+<format type='TXT' octets='39693' target='http://www.rfc-editor.org/rfc/rfc1615.txt' />
+</reference>

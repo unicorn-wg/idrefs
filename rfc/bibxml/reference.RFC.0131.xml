@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0131'>
+
+<front>
+<title>Response to RFC 116: May NWG meeting</title>
+<author initials='E.' surname='Harslem' fullname='E. Harslem'>
+<organization>Rand Corporation</organization></author>
+<author initials='J.' surname='Heafner' fullname='J. Heafner'>
+<organization>Rand Corporation</organization></author>
+<date year='1971' day='22' month='April' /></front>
+
+<seriesInfo name='RFC' value='131' />
+<format type='TXT' octets='5375' target='http://www.rfc-editor.org/rfc/rfc131.txt' />
+</reference>

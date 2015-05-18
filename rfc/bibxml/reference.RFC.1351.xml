@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1351'>
+
+<front>
+<title>SNMP Administrative Model</title>
+<author initials='J.' surname='Davin' fullname='James R. Davin'>
+<organization>MIT, Laboratory for Computer Science</organization>
+<address>
+<postal>
+<street>545 Technology Square</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02139</code>
+<country>US</country></postal>
+<phone>+1 617 253 6020</phone>
+<email>jrd@ptt.lcs.mit.edu</email></address></author>
+<author initials='J.' surname='Galvin' fullname='James M. Galvin'>
+<organization>Trusted Information Systems, Inc.</organization>
+<address>
+<postal>
+<street>3060 Washington Road</street>
+<street>Route 97</street>
+<city>Glenwood</city>
+<region>MD</region>
+<code>21738</code>
+<country>US</country></postal>
+<phone>+1 301 854 6889</phone>
+<email>galvin@tis.com</email></address></author>
+<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
+<organization>Hughes, LAN Systems, Inc.</organization>
+<address>
+<postal>
+<street>1225 Charleston Road</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<phone>+1 415 966 7934</phone>
+<email>kzm@hls.com</email></address></author>
+<date year='1992' month='July' />
+<abstract>
+<t>This memo presents an elaboration of the SNMP administrative model set forth in. This model provides a unified conceptual basis for administering SNMP protocol entities to support</t>
+<t>o authentication and integrity,</t>
+<t>o privacy,</t>
+<t>o access control, and</t>
+<t>o the cooperation of multiple protocol entities.</t>
+<t>Please send comments to the SNMP Security Developers mailing list (snmp-sec-dev@tis.com).</t></abstract></front>
+
+<seriesInfo name='RFC' value='1351' />
+<format type='TXT' octets='80721' target='http://www.rfc-editor.org/rfc/rfc1351.txt' />
+</reference>

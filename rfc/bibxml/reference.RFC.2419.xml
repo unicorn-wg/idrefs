@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2419'>
+
+<front>
+<title abbrev='PPP DES Encryption v2'>The PPP DES Encryption Protocol, Version 2 (DESE-bis)</title>
+<author initials='K.' surname='Sklower' fullname='Keith Sklower'>
+<organization>Computer Science Department</organization>
+<address>
+<postal>
+<street>339 Soda Hall</street>
+<street>Mail Stop 1776</street>
+<street>University of California</street>
+<street>Berkeley</street>
+<street>CA 94720-1776</street></postal>
+<phone>(510) 642-9587</phone>
+<email>sklower@CS.Berkeley.EDU</email></address></author>
+<author initials='G.M.' surname='Meyer' fullname='Gerry M. Meyer'>
+<organization>Cisco Systems Ltd.</organization>
+<address>
+<postal>
+<street>Bothwell House</street>
+<street>Pochard Way</street>
+<street>Strathclyde Business Park</street>
+<street>Bellshill</street>
+<street>ML4 3HB</street>
+<street>Scotland</street>
+<country>UK</country></postal>
+<phone>(UK) (pending)</phone>
+<facsimile>(UK) (pending)</facsimile>
+<email>gemeyer@cisco.com</email></address></author>
+<date year='1998' month='September' />
+<area>Security</area>
+<area>Internet</area>
+<keyword>Digital Encryption Standard</keyword>
+<keyword>encapsulate</keyword>
+<keyword>encryption</keyword>
+<keyword>point-to-point protocol</keyword>
+<keyword>PPP</keyword>
+<abstract>
+<t>
+   The Point-to-Point Protocol (PPP)  provides a standard method for
+   transporting multi-protocol datagrams over point-to-point links.
+</t>
+<t>
+   The PPP Encryption Control Protocol (ECP)  provides a method to
+   negotiate and utilize encryption protocols over PPP encapsulated
+   links.
+</t>
+<t>
+   This document provides specific details for the use of the DES
+   standard [5, 6] for encrypting PPP encapsulated packets.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2419' />
+<format type='TXT' octets='24414' target='http://www.rfc-editor.org/rfc/rfc2419.txt' />
+<format type='XML' octets='24902' target='http://xml.resource.org/public/rfc/xml/rfc2419.xml' />
+</reference>

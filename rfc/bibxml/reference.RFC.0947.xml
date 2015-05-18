@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0947'>
+
+<front>
+<title>Multi-network broadcasting within the Internet</title>
+<author initials='K.' surname='Lebowitz' fullname='Ken Lebowitz'>
+<organization>Bolt Beranek and Newman, Inc., BBN Laboratories</organization></author>
+<author initials='D.' surname='Mankins' fullname='David Mankins'>
+<organization>Bolt Beranek and Newman, Inc., BBN Laboratories</organization></author>
+<date year='1985' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='947' />
+<format type='TXT' octets='12569' target='http://www.rfc-editor.org/rfc/rfc947.txt' />
+</reference>

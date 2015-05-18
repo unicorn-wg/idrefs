@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5494'>
+
+<front>
+<title>IANA Allocation Guidelines for the Address Resolution Protocol (ARP)</title>
+<author initials='J.' surname='Arkko' fullname='J. Arkko'>
+<organization /></author>
+<author initials='C.' surname='Pignataro' fullname='C. Pignataro'>
+<organization /></author>
+<date year='2009' month='April' />
+<abstract>
+<t>This document specifies the IANA guidelines for allocating new values in the Address Resolution Protocol (ARP).  This document also reserves some numbers for experimentation purposes.  The changes also affect other protocols that employ values from the ARP name spaces. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='5494' />
+<format type='TXT' octets='11894' target='http://www.rfc-editor.org/rfc/rfc5494.txt' />
+</reference>

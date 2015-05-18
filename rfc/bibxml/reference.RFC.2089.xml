@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2089'>
+
+<front>
+<title abbrev='V2toV1'>V2ToV1 Mapping SNMPv2 onto SNMPv1 within a bi-lingual SNMP agent</title>
+<author initials='B.' surname='Wijnen' fullname='Bert Wijnen'>
+<organization>IBM International Operations</organization>
+<address>
+<postal>
+<street>Watsonweg 2</street>
+<street>1423 ND Uithoorn</street>
+<country>NL</country></postal>
+<phone>+31 79 3228316</phone>
+<email>wijnen@vnet.ibm.com</email></address></author>
+<author initials='D.' surname='Levi' fullname='David Levi'>
+<organization>SNMP Research, Inc</organization>
+<address>
+<postal>
+<street>3001 Kimberlin Heights Rd.</street>
+<city>Knoxville</city>
+<region>TN</region>
+<code>37920-9716</code>
+<country>US</country></postal>
+<phone>+1 615 573 1434</phone>
+<email>levi@snmp.com</email></address></author>
+<date year='1997' month='January' />
+<abstract>
+<t>The goal of this memo is to document a common way of mapping an SNMPv2 response into an SNMPv1 response within a bi-lingual SNMP agent (one that supports both SNMPv1 and SNMPv2).</t></abstract></front>
+
+<seriesInfo name='RFC' value='2089' />
+<format type='TXT' octets='23814' target='http://www.rfc-editor.org/rfc/rfc2089.txt' />
+</reference>

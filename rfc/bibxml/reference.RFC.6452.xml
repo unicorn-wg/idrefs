@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6452'>
+
+<front>
+<title>The Unicode Code Points and Internationalized Domain Names for Applications (IDNA) - Unicode 6.0</title>
+<author initials='P.' surname='Faltstrom' fullname='P. Faltstrom'>
+<organization /></author>
+<author initials='P.' surname='Hoffman' fullname='P. Hoffman'>
+<organization /></author>
+<date year='2011' month='November' />
+<abstract>
+<t>This memo documents IETF consensus for Internationalized Domain Names for Applications (IDNA) derived character properties related to the three code points, existing in Unicode 5.2, that changed property values when version 6.0 was released.  The consensus is that no update is needed to RFC 5892 based on the changes made in Unicode 6.0. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='6452' />
+<format type='TXT' octets='6817' target='http://www.rfc-editor.org/rfc/rfc6452.txt' />
+</reference>

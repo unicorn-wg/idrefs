@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2804'>
+
+<front>
+<title>IETF Policy on Wiretapping</title>
+<author>
+<organization>IAB</organization></author>
+<author>
+<organization>IESG</organization></author>
+<date year='2000' month='May' />
+<abstract>
+<t>This document describes the position that the Internet Engineering Task Force (IETF) has taken regarding the inclusion into IETF standards-track documents of functionality designed to facilitate wiretapping.  This memo explains what the IETF thinks the question means, why its answer is "no", and what that answer means.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2804' />
+<format type='TXT' octets='18934' target='http://www.rfc-editor.org/rfc/rfc2804.txt' />
+</reference>

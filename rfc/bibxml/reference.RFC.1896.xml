@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1896'>
+
+<front>
+<title abbrev='text/enriched MIME Content-type'>The text/enriched MIME Content-type</title>
+<author initials='P.' surname='Resnick' fullname='Peter W. Resnick'>
+<organization>QUALCOMM Incorporated</organization>
+<address>
+<postal>
+<street>6455 Lusk Boulevard</street>
+<city>San Diego</city>
+<region>CA</region>
+<code>92121-2779</code>
+<country>US</country></postal>
+<phone>+1 619 587 1121</phone>
+<facsimile>+1 619 658 2230</facsimile>
+<email>presnick@qualcomm.com</email></address></author>
+<author initials='A.' surname='Walker' fullname='Amanda Walker'>
+<organization>InterCon Systems Corporation</organization>
+<address>
+<postal>
+<street>950 Herndon Parkway</street>
+<city>Herndon</city>
+<region>VA</region>
+<code>22070</code>
+<country>US</country></postal>
+<phone>+1 703 709 5500</phone>
+<facsimile>+1 703 709 5555</facsimile>
+<email>amanda@intercon.com</email></address></author>
+<date year='1996' month='February' />
+<abstract>
+<t>MIMEdefines a format and general framework for the representation of a wide variety of data types in Internet mail. This document defines one particular type of MIME data, the text/enriched MIME type. The text/enriched MIME type is intended to facilitate the wider interoperation of simple enriched text across a wide variety of hardware and software platforms. This document is only a minor revision to the text/enriched MIME type that was first described inandand is only intended to be used in the short term until other MIME types for text formatting in Internet mail are developed and deployed.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1896' />
+<format type='TXT' octets='45926' target='http://www.rfc-editor.org/rfc/rfc1896.txt' />
+<format type='PS' octets='81217' target='http://www.rfc-editor.org/rfc/rfc1896.ps' />
+</reference>

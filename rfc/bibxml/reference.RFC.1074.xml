@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1074'>
+
+<front>
+<title abbrev='NSFNET Backbone SPF based IGP'>NSFNET backbone SPF based Interior Gateway Protocol</title>
+<author initials='J.' surname='Rekhter' fullname='J. Rekhter'>
+<organization>IBM Corporation, T.J. Watson Research Center</organization></author>
+<date year='1988' day='1' month='October' /></front>
+
+<seriesInfo name='RFC' value='1074' />
+<format type='TXT' octets='10872' target='http://www.rfc-editor.org/rfc/rfc1074.txt' />
+</reference>

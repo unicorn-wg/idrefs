@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1476'>
+
+<front>
+<title abbrev='RAP'>RAP: Internet Route Access Protocol</title>
+<author initials='R.' surname='Ullmann' fullname='Robert Ullmann'>
+<organization>Process Software Corporation</organization>
+<address>
+<postal>
+<street>959 Concord Street</street>
+<city>Framingham</city>
+<region>MA</region>
+<code>01701</code>
+<country>US</country></postal>
+<phone>+1 508 879 6994 x226</phone>
+<email>Ariel@Process.COM</email></address></author>
+<date year='1993' month='June' />
+<abstract>
+<t>This RFC describes an open distance vector routing protocol for use at all levels of the internet, from isolated LANs to the major routers of an international commercial network provider.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1476' />
+<format type='TXT' octets='45560' target='http://www.rfc-editor.org/rfc/rfc1476.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0372'>
+
+<front>
+<title>Notes on a Conversation with Bob Kahn on the ICCC</title>
+<author initials='R.' surname='Watson' fullname='Richard W. Watson'>
+<organization>Stanford Research Institute (SRI), Augmentation Research Center (ARC)</organization></author>
+<date year='1972' day='12' month='July' />
+<abstract>
+<t>I called Bob Kahn and had a good chat with him about some aspects of the ICCC meeting demonstration.</t></abstract></front>
+
+<seriesInfo name='RFC' value='372' />
+<format type='TXT' octets='6040' target='http://www.rfc-editor.org/rfc/rfc372.txt' />
+</reference>

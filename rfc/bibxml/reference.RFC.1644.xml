@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1644'>
+
+<front>
+<title abbrev='Transaction/TCP'>T/TCP -- TCP Extensions for Transactions Functional Specification</title>
+<author initials='B.' surname='Braden' fullname='Bob Braden'>
+<organization>University of Southern California,  Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511</phone>
+<email>Braden@ISI.EDU</email></address></author>
+<date year='1994' month='July' />
+<abstract>
+<t>This memo specifies T/TCP, an experimental TCP extension for efficient transaction-oriented (request/response) service.  This backwards-compatible extension could fill the gap between the current connection-oriented TCP and the datagram-based UDP.</t>
+<t>This work was supported in part by the National Science Foundation under Grant Number NCR-8922231.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1644' />
+<format type='TXT' octets='87362' target='http://www.rfc-editor.org/rfc/rfc1644.txt' />
+</reference>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2268'>
+
+<front>
+<title abbrev='RC2(r) Encryption Algorithm'>A Description of the RC2(r) Encryption Algorithm</title>
+<author initials='R.' surname='Rivest' fullname='Ron Rivest'>
+<organization>RSA Laboratories</organization>
+<address>
+<postal>
+<street>100 Marine Parkway</street>
+<street>#500</street>
+<street>Redwood City</street>
+<street>CA  94065</street>
+<country>USA</country></postal>
+<phone>(650) 595-7703</phone>
+<email>rsa-labs@rsa.com</email></address></author>
+<date year='1998' month='March' />
+<area>Security</area>
+<keyword>Rivest variable key-size block cipher</keyword>
+<keyword>encryption</keyword></front>
+
+<seriesInfo name='RFC' value='2268' />
+<format type='TXT' octets='19048' target='http://www.rfc-editor.org/rfc/rfc2268.txt' />
+<format type='HTML' octets='35560' target='http://xml.resource.org/public/rfc/html/rfc2268.html' />
+<format type='XML' octets='19115' target='http://xml.resource.org/public/rfc/xml/rfc2268.xml' />
+</reference>

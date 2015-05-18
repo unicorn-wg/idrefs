@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0068'>
+
+<front>
+<title>Comments on Memory Allocation Control Commands: CEASE, ALL, GVB, RET, and RFNM</title>
+<author initials='M.' surname='Elie' fullname='M. Elie'>
+<organization>University of California, Los Angeles (UCLA)</organization></author>
+<date year='1970' day='31' month='August' />
+<abstract>
+<t>The protocol provides a scheme for buffer allocation.</t></abstract></front>
+
+<seriesInfo name='RFC' value='68' />
+<format type='TXT' octets='5041' target='http://www.rfc-editor.org/rfc/rfc68.txt' />
+</reference>

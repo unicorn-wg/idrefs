@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1817'>
+
+<front>
+<title>CIDR and Classful Routing</title>
+<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
+<organization>cisco Systems</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134</code>
+<country>US</country></postal>
+<phone>+1 914 528 0090</phone>
+<email>yakov@cisco.com</email></address></author>
+<date year='1995' month='August' />
+<abstract>
+<t>Classless Inter-Domain Routing (CIDR) is used in the Internet as the primary mechanism to improve scalability of the Internet routing system. This document represents the IAB's (Internet Architecture Board) evaluation of the current and near term implications of CIDR on organizations that use Classful routing technology.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1817' />
+<format type='TXT' octets='3416' target='http://www.rfc-editor.org/rfc/rfc1817.txt' />
+</reference>

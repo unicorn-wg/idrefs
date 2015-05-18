@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5072'>
+
+<front>
+<title>IP Version 6 over PPP</title>
+<author initials='S.' surname='Varada' fullname='S. Varada'>
+<organization /></author>
+<author initials='D.' surname='Haskins' fullname='D. Haskins'>
+<organization /></author>
+<author initials='E.' surname='Allen' fullname='E. Allen'>
+<organization /></author>
+<date year='2007' month='September' />
+<abstract>
+<t>The Point-to-Point Protocol (PPP) provides a standard method of encapsulating network-layer protocol information over point-to-point links. PPP also defines an extensible Link Control Protocol, and proposes a family of Network Control Protocols (NCPs) for establishing and configuring different network-layer protocols.&lt;/t>&lt;t> This document defines the method for sending IPv6 packets over PPP links, the NCP for establishing and configuring the IPv6 over PPP, and the method for forming IPv6 link-local addresses on PPP links.&lt;/t>&lt;t> It also specifies the conditions for performing Duplicate Address Detection on IPv6 global unicast addresses configured for PPP links either through stateful or stateless address autoconfiguration.&lt;/t>&lt;t> This document obsoletes RFC 2472. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='5072' />
+<format type='TXT' octets='33910' target='http://www.rfc-editor.org/rfc/rfc5072.txt' />
+</reference>

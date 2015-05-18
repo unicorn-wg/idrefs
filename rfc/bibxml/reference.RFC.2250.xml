@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2250'>
+
+<front>
+<title abbrev='RTP Format MPEG1/MPEG2'>RTP Payload Format for MPEG1/MPEG2 Video</title>
+<author initials='D.' surname='Hoffman' fullname='Don Hoffman'>
+<organization>Sun Microsystems, Inc.</organization>
+<address>
+<postal>
+<street>Mail-stop UMPK14-305</street>
+<street>2550 Garcia Avenue</street>
+<street>Mountain View</street>
+<street>California 94043-1100</street>
+<country>USA</country></postal>
+<phone>+1 503-297-1580</phone>
+<email>don.hoffman@eng.sun.com</email></address></author>
+<author initials='G.' surname='Fernando' fullname='Gerard Fernando'>
+<organization>Sun Microsystems, Inc.</organization>
+<address>
+<postal>
+<street>Mail-stop UMPK14-305</street>
+<street>2550 Garcia Avenue</street>
+<street>Mountain View</street>
+<street>California 94043-1100</street>
+<country>USA</country></postal>
+<phone>+1 415-786-6373</phone>
+<email>gerard.fernando@eng.sun.com</email></address></author>
+<author initials='V.' surname='Goyal' fullname='Vivek Goyal'>
+<organization>Precept Software, Inc.</organization>
+<address>
+<postal>
+<street>1072 Arastradero Rd</street>
+<street>Palo Alto</street>
+<street>CA 94304</street>
+<country>USA</country></postal>
+<phone>+1 415-845-5200</phone>
+<email>goyal@precept.com</email></address></author>
+<author initials='M.R.' surname='Civanlar' fullname='M. Reha Civanlar'>
+<organization>AT&amp;T Labs - Research</organization>
+<address>
+<postal>
+<street>100 Schutlz Drive</street>
+<street>3-213</street>
+<street>Red Bank</street>
+<street>NJ 07701-7033</street>
+<country>USA</country></postal>
+<phone>+1 732-345-3305</phone>
+<email>civanlar@research.att.com</email></address></author>
+<date year='1998' month='January' />
+<area>Transport</area>
+<keyword>encapsulate</keyword>
+<keyword>motion picture experts group</keyword>
+<keyword>multimedia</keyword>
+<keyword>real-time transport protocol</keyword>
+<keyword>video</keyword>
+<abstract>
+<t>
+   This memo describes a packetization scheme for MPEG video and audio
+   streams.  The scheme proposed can be used to transport such a video
+   or audio flow over the transport protocols supported by RTP.  Two
+   approaches are described. The first is designed to support maximum
+   interoperability with MPEG System environments.  The second is
+   designed to provide maximum compatibility with other RTP-encapsulated
+   media streams and future conference control work of the IETF.
+</t>
+<t>
+   This memo is a revision of RFC 2038, an Internet standards track
+   protocol.  In this revision, the packet loss resilience mechanisms in
+   Section 3.4 were extended to include additional picture header
+   information required for MPEG2.  A new section on security
+   considerations for this payload type is added.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2250' />
+<format type='TXT' octets='34293' target='http://www.rfc-editor.org/rfc/rfc2250.txt' />
+<format type='XML' octets='34193' target='http://xml.resource.org/public/rfc/xml/rfc2250.xml' />
+</reference>

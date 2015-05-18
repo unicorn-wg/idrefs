@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2377'>
+
+<front>
+<title abbrev='A Directory Naming Plan'>Naming Plan for Internet Directory-Enabled Applications</title>
+<author initials='A.' surname='Grimstad' fullname='Al Grimstad'>
+<organization>AT&amp;T</organization>
+<address>
+<postal>
+<street>Room 1C-429</street>
+<street>101 Crawfords Corner Road</street>
+<street>Holmdel</street>
+<street>NJ 07733-3030</street>
+<country>USA</country></postal>
+<email>alg@att.com</email></address></author>
+<author initials='R.' surname='Huber' fullname='Rick Huber'>
+<organization>AT&amp;T</organization>
+<address>
+<postal>
+<street>Room 1B-433</street>
+<street>101 Crawfords Corner Road</street>
+<street>Holmdel</street>
+<street>NJ 07733-3030</street>
+<country>USA</country></postal>
+<email>rvh@att.com</email></address></author>
+<author initials='S.' surname='Sataluri' fullname='Sri Sataluri'>
+<organization>Lucent Technologies</organization>
+<address>
+<postal>
+<street>Room 4D-335</street>
+<street>101 Crawfords Corner Road</street>
+<street>Holmdel</street>
+<street>NJ 07733-3030</street>
+<country>USA</country></postal>
+<email>srs@lucent.com</email></address></author>
+<author initials='M.' surname='Wahl' fullname='Mark Wahl'>
+<organization>Critical Angle Inc.</organization>
+<address>
+<postal>
+<street>4815 W Braker Lane #502-385</street>
+<street>Austin</street>
+<street>TX 78759</street>
+<country>USA</country></postal>
+<email>M.Wahl@critical-angle.com</email></address></author>
+<date year='1998' month='September' />
+<area>Applications</area>
+<keyword>ITU directory service protocol</keyword>
+<keyword>X.500</keyword>
+<keyword>directory</keyword>
+<abstract>
+<t>
+   Application of the conventional X.500 approach to naming has
+   heretofore, in the experience of the authors, proven to be an
+   obstacle to the wide deployment of directory-enabled applications on
+   the Internet.  We propose a new directory naming plan that leverages
+   the strengths of the most popular and successful Internet naming
+   schemes for naming objects in a hierarchical directory.  This plan
+   can, we believe, by extending the X.500 approach to naming,
+   facilitate the creation of an Internet White Pages Service (IWPS) and
+   other directory-enabled applications by overcoming the problems
+   encountered by those using the conventional X.500 approach.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2377' />
+<format type='TXT' octets='38274' target='http://www.rfc-editor.org/rfc/rfc2377.txt' />
+<format type='XML' octets='43566' target='http://xml.resource.org/public/rfc/xml/rfc2377.xml' />
+</reference>

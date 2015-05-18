@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0328'>
+
+<front>
+<title>Suggested Telnet Protocol Changes</title>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>University of California, Los Angeles (UCLA), Computer Science, NMC</organization></author>
+<date year='1972' day='29' month='April' />
+<abstract>
+<t>I hereby propose the following changes to the Telnet protocol.  If no substantial negative response is received by 15 May 72 it will be assumed that these changes are desired and should be incorporated in any "Official Telnet Protocol".</t>
+<t>First I suggest that we drop the idea of a "minimum" implementation and require a standard implementation which includes all aspects of the protocol.</t>
+<t>Second I suggest that we eliminate the DATA TYPE signals.</t>
+<t>Third I suggest that we do away with HIDE YOUR INPUT signal.</t></abstract></front>
+
+<seriesInfo name='RFC' value='328' />
+<format type='TXT' octets='2685' target='http://www.rfc-editor.org/rfc/rfc328.txt' />
+</reference>

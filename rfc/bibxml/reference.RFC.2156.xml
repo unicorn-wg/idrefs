@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2156'>
+
+<front>
+<title abbrev='MIXER'>MIXER (Mime Internet X.400 Enhanced Relay): Mapping between X.400 and RFC 822/MIME</title>
+<author initials='S.' surname='Kille' fullname='Steve Kille'>
+<organization>Isode Ltd</organization>
+<address>
+<postal>
+<street>The Dome, The Square</street>
+<city>Richmond</city>
+<region>England</region>
+<code>TW9 1DT</code>
+<country>UK</country></postal>
+<phone>+44 181 3329091</phone>
+<email>S.Kille@ISODE.COM</email></address></author>
+<date year='1998' month='January' /></front>
+
+<seriesInfo name='RFC' value='2156' />
+<format type='TXT' octets='280385' target='http://www.rfc-editor.org/rfc/rfc2156.txt' />
+</reference>

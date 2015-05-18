@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2611'>
+
+<front>
+<title>URN Namespace Definition Mechanisms</title>
+<author initials='L.' surname='Daigle' fullname='Leslie L. Daigle'>
+<organization>Thinking Cat Enterprises</organization>
+<address>
+<email>leslie@thinkingcat.com</email></address></author>
+<author initials='D.' surname='van Gulik' fullname='Dirk-Willem van Gulik'>
+<organization>ISIS/STA/CEO - TP 270, Joint Research Centre Ispra</organization>
+<address>
+<postal>
+<street />
+<city>Ispra</city>
+<region />
+<code>21020</code>
+<country>IT</country></postal>
+<phone>+39 332 789549</phone>
+<facsimile>+39 332 789185</facsimile>
+<email>Dirk.vanGulik@jrc.it</email></address></author>
+<author initials='R.' surname='Iannella' fullname='Renato Iannella'>
+<organization>DSTC Pty Ltd</organization>
+<address>
+<postal>
+<street>The Uni of Queensland</street>
+<street>Gehrmann Labs</street>
+<city />
+<region />
+<code>4072</code>
+<country>AU</country></postal>
+<phone>+61 7 33654310</phone>
+<facsimile>+61 7 33654311</facsimile>
+<email>renato@dstc.edu.au</email></address></author>
+<author initials='P.' surname='Faltstrom' fullname='Patrik Faltstrom'>
+<organization>Tele2/Swipnet</organization>
+<address>
+<postal>
+<street>Borgarfjordsgatan 16</street>
+<street>P.O. Box 62</street>
+<city>Kista</city>
+<region />
+<code>S-164 94</code>
+<country>SE</country></postal>
+<phone>+46 56 264000</phone>
+<facsimile>+46 56 264200</facsimile>
+<email>paf@swip.net</email></address></author>
+<date year='1999' month='June' />
+<abstract>
+<t>The URN WG has defined a syntax for Uniform Resource Names (URNs), as well as some proposed mechanisms for their resolution and use in Internet applications,. The whole rests on the concept of individual "namespaces" within the URN structure.  Apart from  proof-of-concept namespaces, the use of existing identifiers in URNs has been discussed, and this document lays out general definitions of and mechanisms for establishing URN "namespaces".</t></abstract></front>
+
+<seriesInfo name='BCP' value='33' />
+<seriesInfo name='RFC' value='2611' />
+<format type='TXT' octets='26916' target='http://www.rfc-editor.org/rfc/rfc2611.txt' />
+</reference>

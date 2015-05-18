@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7432'>
+
+<front>
+<title>BGP MPLS-Based Ethernet VPN</title>
+<author initials='A.' surname='Sajassi' fullname='A. Sajassi'>
+<organization /></author>
+<author initials='R.' surname='Aggarwal' fullname='R. Aggarwal'>
+<organization /></author>
+<author initials='N.' surname='Bitar' fullname='N. Bitar'>
+<organization /></author>
+<author initials='A.' surname='Isaac' fullname='A. Isaac'>
+<organization /></author>
+<author initials='J.' surname='Uttaro' fullname='J. Uttaro'>
+<organization /></author>
+<author initials='J.' surname='Drake' fullname='J. Drake'>
+<organization /></author>
+<author initials='W.' surname='Henderickx' fullname='W. Henderickx'>
+<organization /></author>
+<date year='2015' month='February' />
+<abstract>
+<t>This document describes procedures for BGP MPLS-based Ethernet VPNs (EVPN).  The procedures described here meet the requirements specified in RFC 7209 -- "Requirements for Ethernet VPN (EVPN)".</t></abstract></front>
+
+<seriesInfo name='RFC' value='7432' />
+<format type='TXT' octets='134119' target='http://www.rfc-editor.org/rfc/rfc7432.txt' />
+</reference>

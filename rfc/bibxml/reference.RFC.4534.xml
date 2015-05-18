@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4534'>
+
+<front>
+<title>Group Security Policy Token v1</title>
+<author initials='A' surname='Colegrove,' fullname='H'>
+<organization /></author>
+<date year='2006' month='June' />
+<abstract>
+<t>The Group Security Policy Token is a structure used to specify the security policy and configurable parameters for a cryptographic group, such as a secure multicast group.  Because the security of a group is composed of the totality of multiple security services, mechanisms, and attributes throughout the communications infrastructure, an authenticatable representation of the features that must be supported throughout the system is needed to ensure consistent security.  This document specifies the structure of such a token. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='4534' />
+<format type='TXT' octets='54157' target='http://www.rfc-editor.org/rfc/rfc4534.txt' />
+</reference>

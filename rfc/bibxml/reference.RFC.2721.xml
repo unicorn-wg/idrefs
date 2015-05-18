@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2721'>
+
+<front>
+<title>RTFM: Applicability Statement</title>
+<author initials='N.' surname='Brownlee' fullname='Nevil Brownlee'>
+<organization>The University of Auckland,  Information Technology Systems &amp; Services</organization>
+<address>
+<postal>
+<street>Private Bag 92-019</street>
+<city>Auckland</city>
+<region />
+<code />
+<country>NZ</country></postal>
+<phone>+64 9 3737599x8941</phone>
+<email>n.brownlee@auckland.ac.nz</email></address></author>
+<date year='1999' month='October' />
+<abstract>
+<t>This document provides an overview covering all aspects of Realtime Traffic Flow Measurement, including its area of applicability and its limitations.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2721' />
+<format type='TXT' octets='21200' target='http://www.rfc-editor.org/rfc/rfc2721.txt' />
+</reference>

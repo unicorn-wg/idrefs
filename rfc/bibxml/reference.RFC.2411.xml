@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2411'>
+
+<front>
+<title>IP Security Document Roadmap</title>
+<author initials='R.' surname='Thayer' fullname='Rodney Thayer'>
+<organization>Sable Technology Corporation</organization>
+<address>
+<postal>
+<street>246 Walnut Street</street>
+<city>Newton</city>
+<region>MA</region>
+<code>02160</code>
+<country>USA</country></postal>
+<email>mailto:rodney@sabletech.com</email></address></author>
+<author initials='N.' surname='Doraswamy' fullname='Naganand Doraswamy'>
+<organization>Bay Networks</organization>
+<address>
+<email>naganand@baynetworks.com</email></address></author>
+<author initials='R.' surname='Glenn' fullname='Rob Glenn'>
+<organization>NIST</organization>
+<address>
+<email>rob.glenn@nist.gov</email></address></author>
+<date year='1998' month='November' />
+<area>Internet</area>
+<area>Security</area>
+<keyword>IP security protocol</keyword>
+<keyword>authentication</keyword>
+<keyword>encryption</keyword>
+<keyword>security</keyword>
+<abstract>
+<t>
+   The IPsec protocol suite is used to provide privacy and
+   authentication services at the IP layer.  Several documents are used
+   to describe this protocol suite.  The interrelationship and
+   organization of the various documents covering the IPsec protocol are
+   discussed here.  An explanation of what to find in which document,
+   and what to include in new Encryption Algorithm and Authentication
+   Algorithm documents are described.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2411' />
+<format type='TXT' octets='22983' target='http://www.rfc-editor.org/rfc/rfc2411.txt' />
+<format type='HTML' octets='43217' target='http://xml.resource.org/public/rfc/html/rfc2411.html' />
+<format type='XML' octets='39989' target='http://xml.resource.org/public/rfc/xml/rfc2411.xml' />
+</reference>

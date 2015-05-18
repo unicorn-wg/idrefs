@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3966'>
+
+<front>
+<title>The tel URI for Telephone Numbers</title>
+<author initials='H.' surname='Schulzrinne' fullname='H. Schulzrinne'>
+<organization /></author>
+<date year='2004' month='December' />
+<abstract>
+<t>This document specifies the URI (Uniform Resource Identifier) scheme "tel".  The "tel" URI describes resources identified by telephone numbers.  This document obsoletes RFC 2806. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='3966' />
+<format type='TXT' octets='40783' target='http://www.rfc-editor.org/rfc/rfc3966.txt' />
+</reference>

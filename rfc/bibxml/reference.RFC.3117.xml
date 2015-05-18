@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3117'>
+
+<front>
+<title>On the Design of Application Protocols</title>
+<author initials='M.T.' surname='Rose' fullname='Marshall T. Rose'>
+<organization>Dover Beach Consulting, Inc.</organization>
+<address>
+<postal>
+<street>POB 255268</street>
+<city>Sacramento</city>
+<region>CA</region>
+<code>95865-5268</code>
+<country>US</country></postal>
+<phone>+1 916 483 8878</phone>
+<email>mrose@dbc.mtview.ca.us</email></address></author>
+<date year='2001' month='November' />
+<area>Applications</area>
+<keyword>application protocols</keyword>
+<keyword>BEEP</keyword>
+<keyword>BXXP</keyword>
+<keyword>XML</keyword>
+<abstract>
+<t>This memo describes the design principles for the Blocks
+eXtensible eXchange Protocol (BXXP).
+BXXP is a generic application protocol
+framework for connection-oriented,
+asynchronous interactions.
+The framework permits simultaneous and independent exchanges
+within the context of a single application user-identity,
+supporting both textual and binary messages.</t></abstract></front>
+
+<seriesInfo name='RFC' value='3117' />
+<format type='TXT' octets='57279' target='http://www.rfc-editor.org/rfc/rfc3117.txt' />
+<format type='HTML' octets='86634' target='http://xml.resource.org/public/rfc/html/rfc3117.html' />
+<format type='XML' octets='100371' target='http://xml.resource.org/public/rfc/xml/rfc3117.xml' />
+</reference>

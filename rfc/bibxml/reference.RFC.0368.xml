@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0368'>
+
+<front>
+<title>Comments on "Proposed Remote Job Entry Protocol"</title>
+<author initials='R.' surname='Braden' fullname='Robert T. Braden'>
+<organization>University of California, Los Angeles (UCLA), Campus Computing Network (CCN)</organization></author>
+<date year='1972' day='21' month='July' />
+<abstract>
+<t>Chuck Holland's draft proposal (RFC #360) is an excellent document, very complete and consistent</t></abstract></front>
+
+<seriesInfo name='RFC' value='368' />
+<format type='TXT' octets='3883' target='http://www.rfc-editor.org/rfc/rfc368.txt' />
+</reference>

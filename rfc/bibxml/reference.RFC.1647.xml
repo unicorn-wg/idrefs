@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1647'>
+
+<front>
+<title>TN3270 Enhancements</title>
+<author initials='B.' surname='Kelly' fullname='Bill Kelly'>
+<organization>Auburn University, Division of University Computing</organization>
+<address>
+<postal>
+<street>144 Parker Hall</street>
+<city>Auburn</city>
+<region>AL</region>
+<code>36849</code>
+<country>US</country></postal>
+<phone>+1 205 844 4512</phone>
+<email>kellywh@mail.auburn.edu</email></address></author>
+<date year='1994' month='July' />
+<abstract>
+<t>This document describes a protocol that more fully supports 3270 devices than do the existing tn3270 practices.  Specifically, it defines a method of emulating both the terminal and printer members of the 3270 family of devices via Telnet; it provides for the ability of a Telnet client to request that it be assigned a specific device-name (also referred to as "LU name" or "network name"); finally, it adds support for a variety of functions such as the ATTN key, the SYSREQ key, and SNA response handling.</t>
+<t>This protocol would be negotiated and implemented under a new Telnet Option and would be unrelated to the Telnet 3270 Regime Option as defined in RFC 1041.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1647' />
+<format type='TXT' octets='84420' target='http://www.rfc-editor.org/rfc/rfc1647.txt' />
+</reference>

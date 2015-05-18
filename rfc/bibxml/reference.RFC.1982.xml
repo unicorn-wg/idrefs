@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1982'>
+
+<front>
+<title>Serial Number Arithmetic</title>
+<author initials='R.' surname='Elz' fullname='Robert Elz'>
+<organization>University of Melbourne, Computer Science</organization>
+<address>
+<postal>
+<street />
+<city>Parkville</city>
+<region>Victoria</region>
+<code>3052</code>
+<country>AU</country></postal>
+<email>kre@munnari.OZ.AU</email></address></author>
+<author initials='R.' surname='Bush' fullname='Randy Bush'>
+<organization>RGnet, Inc.</organization>
+<address>
+<postal>
+<street>10361 NE Sasquatch Lane</street>
+<city>Bainbridge Island</city>
+<region>WA</region>
+<code>98110</code>
+<country>US</country></postal>
+<email>randy@psg.com</email></address></author>
+<date year='1996' month='August' />
+<abstract>
+<t>This memo defines serial number arithmetic, as used in the Domain Name System.  The DNS has long relied upon serial number arithmetic, a concept which has never really been defined, certainly not in an IETF document, though which has been widely understood.  This memo supplies the missing definition.  It is intended to update RFC1034 and RFC1035.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1982' />
+<format type='TXT' octets='14440' target='http://www.rfc-editor.org/rfc/rfc1982.txt' />
+</reference>

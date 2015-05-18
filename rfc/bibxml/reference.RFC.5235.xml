@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5235'>
+
+<front>
+<title>Sieve Email Filtering: Spamtest and Virustest Extensions</title>
+<author initials='C.' surname='Daboo' fullname='C. Daboo'>
+<organization /></author>
+<date year='2008' month='January' />
+<abstract>
+<t>The Sieve email filtering language "spamtest", "spamtestplus", and "virustest" extensions permit users to use simple, portable commands for spam and virus tests on email messages.  Each extension provides a new test using matches against numeric "scores".  It is the responsibility of the underlying Sieve implementation to do the actual checks that result in proper input to the tests. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='5235' />
+<format type='TXT' octets='25957' target='http://www.rfc-editor.org/rfc/rfc5235.txt' />
+</reference>

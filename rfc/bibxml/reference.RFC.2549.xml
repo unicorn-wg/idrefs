@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2549'>
+
+<front>
+<title abbrev='IP over Avian Carriers with QoS'>IP over Avian Carriers with Quality of Service</title>
+<author initials='D.' surname='Waitzman' fullname='David Waitzman'>
+<organization>IronBridge Networks</organization>
+<address>
+<postal>
+<street>55 Hayden Ave</street>
+<city>Lexington</city>
+<region>MA</region>
+<code>02421</code>
+<country>US</country></postal>
+<phone>+1 781 372 8161</phone>
+<email>djw@vineyard.net</email></address></author>
+<date year='1999' month='April' day='1' />
+<abstract>
+<t>This memo amends RFC 1149, "A Standard for the Transmission of IP Datagrams on Avian Carriers", with Quality of Service information. This is an experimental, not recommended standard.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2549' />
+<format type='TXT' octets='9519' target='http://www.rfc-editor.org/rfc/rfc2549.txt' />
+</reference>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4742'>
+
+<front>
+<title>Using the NETCONF Configuration Protocol over Secure SHell (SSH)</title>
+<author initials='M.' surname='Wasserman' fullname='M. Wasserman'>
+<organization /></author>
+<author initials='T.' surname='Goddard' fullname='T. Goddard'>
+<organization /></author>
+<date year='2006' month='December' />
+<abstract>
+<t>This document describes a method for invoking and running the Network Configuration Protocol (NETCONF) within a Secure Shell (SSH) session as an SSH subsystem. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='4742' />
+<format type='TXT' octets='17807' target='http://www.rfc-editor.org/rfc/rfc4742.txt' />
+</reference>

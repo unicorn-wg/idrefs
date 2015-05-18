@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2118'>
+
+<front>
+<title abbrev='MPPC'>Microsoft Point-To-Point Compression (MPPC) Protocol</title>
+<author initials='G.S.' surname='Pall' fullname='Gurdeep Singh Pall'>
+<organization>1, Microsoft Way,</organization>
+<address>
+<postal>
+<street>Redmond</street>
+<street>WA 98052</street></postal>
+<email>gurdeep@microsoft.com</email></address></author>
+<date year='1997' month='March' />
+<area>Internet</area>
+<keyword>compress</keyword>
+<keyword>encapsulate</keyword>
+<keyword>point-to-point protocol</keyword>
+<abstract>
+<t>
+   The Point-to-Point Protocol (PPP)  provides a standard method for
+   transporting multi-protocol datagrams over point-to-point links.
+</t>
+<t>
+   The PPP Compression Control Protocol  provides a method to
+   negotiate and utilize compression protocols over PPP encapsulated
+   links.
+</t>
+<t>
+   This document describes the use of the Microsoft Point to Point
+   Compression protocol (also referred to as MPPC in this document) for
+   compressing PPP encapsulated packets.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2118' />
+<format type='TXT' octets='17443' target='http://www.rfc-editor.org/rfc/rfc2118.txt' />
+<format type='XML' octets='17856' target='http://xml.resource.org/public/rfc/xml/rfc2118.xml' />
+</reference>

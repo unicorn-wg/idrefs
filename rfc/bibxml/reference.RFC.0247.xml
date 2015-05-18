@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0247'>
+
+<front>
+<title>Proffered set of standard host names</title>
+<author initials='P.' surname='Karp' fullname='Peggy Karp'>
+<organization>The MITRE Corporation (MITRE)</organization></author>
+<date year='1971' day='12' month='October' />
+<abstract>
+<t>In RFC #226, BBN's TENEX list of Host names was set up as a strawman set of standard Host names.  Comments received since then (an RFC actually generated comments!!!) have influenced me to propose the following general rules for forming Host names.</t></abstract></front>
+
+<seriesInfo name='RFC' value='247' />
+<format type='TXT' octets='7122' target='http://www.rfc-editor.org/rfc/rfc247.txt' />
+</reference>

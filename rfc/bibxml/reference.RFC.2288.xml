@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2288'>
+
+<front>
+<title abbrev='Bibligraphic Identifiers'>Using Existing Bibliographic Identifiers as Uniform Resource Names</title>
+<author initials='C.' surname='Lynch' fullname='Clifford Lynch'>
+<organization>Executive Director</organization>
+<address>
+<postal>
+<street>Coalition for Networked Information</street>
+<street>21 Dupont Circle</street>
+<street>Washington</street>
+<street>DC 20036</street></postal>
+<email>cliff@cni.org</email></address></author>
+<author initials='C.' surname='Preston' fullname='Cecilia Preston'>
+<organization>Preston &amp; Lynch</organization>
+<address>
+<postal>
+<street>PO Box 8310</street>
+<street>Emeryville</street>
+<street>CA 94662</street></postal>
+<email>cecilia@well.com</email></address></author>
+<author initials='R.D.' surname='Jr' fullname='Ron Daniel Jr.'>
+<organization>Advanced Computing Lab, MS B287</organization>
+<address>
+<postal>
+<street>Los Alamos National Laboratory</street>
+<street>Los Alamos</street>
+<street>NM</street>
+<street>87545</street></postal>
+<email>rdaniel@acl.lanl.gov</email></address></author>
+<date year='1998' month='February' />
+<area>Applications</area>
+<keyword>uniform resource</keyword>
+<abstract>
+<t>
+   A system for Uniform Resource Names (URNs) must be capable of
+   supporting identifiers from existing widely-used naming systems.
+   This document discusses how three major bibliographic identifiers
+   (the ISBN, ISSN and SICI) can be supported within the URN framework
+   and the currently proposed syntax for URNs.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2288' />
+<format type='TXT' octets='21628' target='http://www.rfc-editor.org/rfc/rfc2288.txt' />
+<format type='XML' octets='20872' target='http://xml.resource.org/public/rfc/xml/rfc2288.xml' />
+</reference>

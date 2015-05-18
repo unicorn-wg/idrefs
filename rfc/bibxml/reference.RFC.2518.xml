@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2518'>
+
+<front>
+<title abbrev='WEBDAV'>HTTP Extensions for Distributed Authoring -- WEBDAV</title>
+<author initials='Y.' surname='Goland' fullname='Y. Y. Goland'>
+<organization abbrev='Microsoft'>Microsoft Corporation</organization>
+<address>
+<postal>
+<street>One Microsoft Way</street>
+<city>Redmond</city>
+<region>WA</region>
+<code>98052-6399</code></postal>
+<email>yarong@microsoft.com</email></address></author>
+<author initials='E.' surname='Whitehead' fullname='E. J. Whitehead, Jr.'>
+<organization abbrev='UC Irvine'>Dept. Of Information and Computer Science,
+      University of California, Irvine</organization>
+<address>
+<postal>
+<street />
+<city>Irvine</city>
+<region>CA</region>
+<code>92697-3425</code></postal>
+<email>ejw@ics.uci.edu</email></address></author>
+<author initials='A.' surname='Faizi' fullname='A. Faizi'>
+<organization abbrev='Netscape'>Netscape</organization>
+<address>
+<postal>
+<street>685 East Middlefield Road</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code></postal>
+<email>asad@netscape.com</email></address></author>
+<author initials='S.R.' surname='Carter' fullname='S. R. Carter'>
+<organization abbrev='Novell'>Novell</organization>
+<address>
+<postal>
+<street>1555 N. Technology Way</street>
+<street>M/S ORM F111</street>
+<city>Orem</city>
+<region>UT</region>
+<code>84097-2399</code></postal>
+<email>srcarter@novell.com</email></address></author>
+<author initials='D.' surname='Jensen' fullname='D. Jensen'>
+<organization abbrev='Novell'>Novell</organization>
+<address>
+<postal>
+<street>1555 N. Technology Way</street>
+<street>M/S ORM F111</street>
+<city>Orem</city>
+<region>UT</region>
+<code>84097-2399</code></postal>
+<email>dcjensen@novell.com</email></address></author>
+<date year='1999' month='February' />
+<abstract>
+<t>
+       This document specifies a set of methods, headers, and content-types
+       ancillary to HTTP/1.1 for the management of resource properties,
+       creation and management of resource collections, namespace
+       manipulation, and resource locking (collision avoidance).
+      </t></abstract></front>
+
+<seriesInfo name='RFC' value='2518' />
+<format type='TXT' octets='202829' target='http://www.rfc-editor.org/rfc/rfc2518.txt' />
+<format type='HTML' octets='311310' target='http://xml.resource.org/public/rfc/html/rfc2518.html' />
+<format type='XML' octets='221222' target='http://xml.resource.org/public/rfc/xml/rfc2518.xml' />
+</reference>

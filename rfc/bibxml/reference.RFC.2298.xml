@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2298'>
+
+<front>
+<title abbrev='Message Disposition Notifications'>An Extensible Message Format for Message Disposition Notifications</title>
+<author initials='R.' surname='Fajman' fullname='Roger Fajman'>
+<organization>National Institutes of Health</organization>
+<address>
+<postal>
+<street>Building 12A</street>
+<street>Room 3063</street>
+<street>12 South Drive MSC 5659</street>
+<street>Bethesda</street>
+<street>Maryland 20892-5659</street>
+<country>USA</country></postal>
+<phone>+1 301 402 4265</phone>
+<facsimile>+1 301 480 6241</facsimile>
+<email>raf@cu.nih.gov</email></address></author>
+<date year='1998' month='March' />
+<area>Applications</area>
+<keyword>ITU message handling service protocol</keyword>
+<keyword>content-type</keyword>
+<keyword>multipurpose internet mail extensions</keyword>
+<abstract>
+<t>
+   This memo defines a MIME content-type that may be used by a mail user
+   agent (UA) or electronic mail gateway to report the disposition of a
+   message after it has been sucessfully delivered to a recipient.  This
+   content-type is intended to be machine-processable.  Additional
+   message headers are also defined to permit Message Disposition
+   Notifications (MDNs) to be requested by the sender of a message.  The
+   purpose is to extend Internet Mail to support functionality often
+   found in other messaging systems, such as X.400 and the proprietary
+   &quot;LAN-based&quot; systems, and often referred to as &quot;read receipts,&quot;
+   &quot;acknowledgements,&quot; or &quot;receipt notifications.&quot;  The intention is to
+   do this while respecting the privacy concerns that have often been
+   expressed when such functions have been discussed in the past.
+</t>
+<t>
+   Because many messages are sent between the Internet and other
+   messaging systems (such as X.400 or the proprietary &quot;LAN-based&quot;
+   systems), the MDN protocol is designed to be useful in a multi-
+   protocol messaging environment.  To this end, the protocol described
+   in this memo provides for the carriage of &quot;foreign&quot; addresses, in
+   addition to those normally used in Internet Mail.  Additional
+   attributes may also be defined to support &quot;tunneling&quot; of foreign
+   notifications through Internet Mail.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2298' />
+<format type='TXT' octets='62059' target='http://www.rfc-editor.org/rfc/rfc2298.txt' />
+<format type='XML' octets='66306' target='http://xml.resource.org/public/rfc/xml/rfc2298.xml' />
+</reference>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2185'>
+
+<front>
+<title abbrev='IPv6 Routing'>Routing Aspects Of IPv6 Transition</title>
+<author initials='R.' surname='Callon' fullname='Ross Callon'>
+<organization>Cascade Communications Co.</organization>
+<address>
+<postal>
+<street>5 Carlisle Road</street>
+<street>Westford</street>
+<street>MA 01886</street></postal>
+<email>rcallon@casc.com</email></address></author>
+<author initials='D.' surname='Haskin' fullname='Dimitry Haskin'>
+<organization>Bay Networks, Inc.</organization>
+<address>
+<postal>
+<street>2 Federal Street</street>
+<street>Billerica</street>
+<street>MA 01821</street></postal>
+<email>dhaskin@baynetworks.com</email></address></author>
+<date year='1997' month='September' />
+<area>Operations</area>
+<area>Routing</area>
+<keyword>internet protocol version 6</keyword>
+<keyword>routing</keyword>
+<abstract>
+<t>
+   This document gives an overview of the routing aspects of the IPv6
+   transition.  It is based on the protocols defined in the document
+   &quot;Transition Mechanisms for IPv6 Hosts and Routers&quot; .  Readers
+   should be familiar with the transition mechanisms before reading this
+   document.
+</t>
+<t>
+   The proposals contained in this document are based on the work of the
+   Ngtrans working group.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2185' />
+<format type='TXT' octets='31281' target='http://www.rfc-editor.org/rfc/rfc2185.txt' />
+<format type='XML' octets='32388' target='http://xml.resource.org/public/rfc/xml/rfc2185.xml' />
+</reference>

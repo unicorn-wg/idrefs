@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2228'>
+
+<front>
+<title>FTP Security Extensions</title>
+<author initials='M.' surname='Horowitz' fullname='Marc Horowitz'>
+<organization>Cygnus Solutions</organization>
+<address>
+<postal>
+<street>955 Massachusetts Avenue</street>
+<street>Cambridge</street>
+<street>MA 02139</street></postal>
+<phone>+1 617 354 7688</phone>
+<email>marc@cygnus.com</email></address></author>
+<date year='1997' month='October' />
+<area>Applications</area>
+<keyword>authentication</keyword>
+<keyword>file transfer</keyword>
+<keyword>file transfer protocol</keyword>
+<keyword>security</keyword>
+<abstract>
+<t>
+   This document defines extensions to the FTP specification STD 9, RFC
+   959, &quot;FILE TRANSFER PROTOCOL (FTP)&quot; (October 1985).  These extensions
+   provide strong authentication, integrity, and confidentiality on both
+   the control and data channels with the introduction of new optional
+   commands, replies, and file transfer encodings.
+</t>
+<t>
+   The following new optional commands are introduced in this
+   specification:
+
+<list>
+<t>
+      AUTH (Authentication/Security Mechanism),
+</t>
+<t>
+      ADAT (Authentication/Security Data),
+</t>
+<t>
+      PROT (Data Channel Protection Level),
+</t>
+<t>
+      PBSZ (Protection Buffer Size),
+</t>
+<t>
+      CCC (Clear Command Channel),
+</t>
+<t>
+      MIC (Integrity Protected Command),
+</t>
+<t>
+      CONF (Confidentiality Protected Command), and
+</t>
+<t>
+      ENC (Privacy Protected Command).
+</t></list></t>
+<t>
+   A new class of reply types (6yz) is also introduced for protected
+   replies.
+</t>
+<t>
+   None of the above commands are required to be implemented, but
+   interdependencies exist.  These dependencies are documented with the
+   commands.
+</t>
+<t>
+   Note that this specification is compatible with STD 9, RFC 959.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2228' />
+<format type='TXT' octets='58733' target='http://www.rfc-editor.org/rfc/rfc2228.txt' />
+<format type='XML' octets='58073' target='http://xml.resource.org/public/rfc/xml/rfc2228.xml' />
+</reference>

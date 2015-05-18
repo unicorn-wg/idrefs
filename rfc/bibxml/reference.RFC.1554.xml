@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1554'>
+
+<front>
+<title abbrev='Multilingual Extension of ISO-2022-JP'>ISO-2022-JP-2: Multilingual Extension of ISO-2022-JP</title>
+<author initials='M.' surname='Ohta' fullname='Masataka Ohta'>
+<organization>Tokyo Institute of Technology</organization>
+<address>
+<postal>
+<street>2-12-1, O-okayama</street>
+<street>Meguro-ku</street>
+<city>Tokyo</city>
+<region />
+<code>152</code>
+<country>JP</country></postal>
+<phone>+81 3 54997084</phone>
+<facsimile>+81 3 37291940</facsimile>
+<email>mohta@cc.titech.ac.jp</email></address></author>
+<author initials='K.' surname='Handa' fullname='Ken&apos;ichi Handa'>
+<organization>Electrotechnical Laboratory (ETL)</organization>
+<address>
+<postal>
+<street>Umezono 1-1-4</street>
+<street>Ibaraki</street>
+<city>Tsukuba</city>
+<region />
+<code>305</code>
+<country>JP</country></postal>
+<phone>+81 298 585916</phone>
+<facsimile>+81 298 585918</facsimile>
+<email>handa@etl.go.jp</email></address></author>
+<date year='1993' month='December' />
+<abstract>
+<t></t></abstract></front>
+
+<seriesInfo name='RFC' value='1554' />
+<format type='TXT' octets='11449' target='http://www.rfc-editor.org/rfc/rfc1554.txt' />
+</reference>

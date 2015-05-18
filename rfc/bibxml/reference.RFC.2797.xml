@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2797'>
+
+<front>
+<title>Certificate Management Messages over CMS</title>
+<author initials='M.' surname='Myers' fullname='Michael Myers'>
+<organization>VeriSign Inc.</organization>
+<address>
+<postal>
+<street>1350 Charleston Road</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<phone>+1 650 429 3402</phone>
+<email>mmyers@verisign.com</email></address></author>
+<author initials='X.' surname='Liu' fullname='Xiaoyi Liu'>
+<organization>cisco Systems</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134</code>
+<country>US</country></postal>
+<phone>+1 480 526 7430</phone>
+<email>xliu@cisco.com</email></address></author>
+<author initials='J.' surname='Schaad' fullname='Jim Schaad'>
+<organization />
+<address>
+<email>jimsch@nwlink.com</email></address></author>
+<author initials='J.' surname='Weinstein' fullname='Jeff Weinstein'>
+<organization />
+<address>
+<email>jsw@meer.net</email></address></author>
+<date year='2000' month='April' />
+<abstract>
+<t>This document defines a Certificate Management protocol using CMS. This protocol addresses two immediate needs within the Internet PKI community:</t>
+<t>1. The need for an interface to public key certification products and services based onand, and 
+2. The need infor a certificate enrollment protocol for DSA-signed certificates with Diffie-Hellman public keys.</t>
+<t>A small number of additional services are defined to supplement the core certificate request service.</t>
+<t>Throughout this specification the term CMS is used to refer to bothand.  For both signedData and envelopedData, CMS is a superset of the PKCS7. In general, the use of PKCS7 in this document is aligned to the Cryptographic Message Syntaxthat provides a superset of the PKCS7 syntax. The term CMC refers to this specification.</t>
+<t>The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119].</t></abstract></front>
+
+<seriesInfo name='RFC' value='2797' />
+<format type='TXT' octets='103357' target='http://www.rfc-editor.org/rfc/rfc2797.txt' />
+</reference>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1948'>
+
+<front>
+<title abbrev='Sequence Number Attacks'>Defending Against Sequence Number Attacks</title>
+<author initials='S.' surname='Bellovin' fullname='Steven M. Bellovin'>
+<organization>AT&amp;T Research</organization>
+<address>
+<postal>
+<street>600 Mountain Avenue</street>
+<city>Murray Hill</city>
+<region>NJ</region>
+<code>07974</code>
+<country>US</country></postal>
+<phone>+1 908 582 5886</phone>
+<email>smb@research.att.com</email></address></author>
+<date year='1996' month='May' />
+<abstract>
+<t>IP spoofing attacks based on sequence number spoofing have become a serious threat on the Internet (CERT Advisory CA-95:01).  While ubiquitous crypgraphic authentication is the right answer, we propose a simple modification to TCP implementations that should be a very substantial block to the current wave of attacks.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1948' />
+<format type='TXT' octets='13074' target='http://www.rfc-editor.org/rfc/rfc1948.txt' />
+</reference>

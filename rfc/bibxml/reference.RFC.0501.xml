@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0501'>
+
+<front>
+<title>Un-muddling "free file transfer"</title>
+<author initials='K.T.' surname='Pogran' fullname='K.T. Pogran'>
+<organization /></author>
+<date year='1973' month='May' /></front>
+
+<seriesInfo name='RFC' value='501' />
+<format type='TXT' octets='13177' target='http://www.rfc-editor.org/rfc/rfc501.txt' />
+</reference>

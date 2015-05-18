@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0004'>
+
+<front>
+<title>Network timetable</title>
+<author initials='E.' surname='Shapiro' fullname='Elmer B. Shapiro'>
+<organization>Stanford Research Institute (SRI) International</organization></author>
+<date year='1969' day='24' month='March' /></front>
+
+<seriesInfo name='RFC' value='4' />
+<format type='TXT' octets='5933' target='http://www.rfc-editor.org/rfc/rfc4.txt' />
+</reference>

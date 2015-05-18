@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1457'>
+
+<front>
+<title>Security Label Framework for the Internet</title>
+<author initials='R.' surname='Housley' fullname='Russell Housley'>
+<organization>Xerox, Special Information Systems</organization>
+<address>
+<postal>
+<street>7900 Westpark Drive</street>
+<city>McLean</city>
+<region>VA</region>
+<code>22102</code>
+<country>US</country></postal>
+<phone>+1 703 790 3767</phone>
+<email>Housley.McLean_CSD@Xerox.COM</email></address></author>
+<date year='1993' month='May' /></front>
+
+<seriesInfo name='RFC' value='1457' />
+<format type='TXT' octets='35802' target='http://www.rfc-editor.org/rfc/rfc1457.txt' />
+</reference>

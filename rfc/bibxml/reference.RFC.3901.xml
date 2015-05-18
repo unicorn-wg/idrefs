@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3901'>
+
+<front>
+<title>DNS IPv6 Transport Operational Guidelines</title>
+<author initials='A.' surname='Durand' fullname='A. Durand'>
+<organization /></author>
+<author initials='J.' surname='Ihren' fullname='J. Ihren'>
+<organization /></author>
+<date year='2004' month='September' />
+<abstract>
+<t>This memo provides guidelines and Best Current Practice for operating DNS in a world where queries and responses are carried in a mixed environment of IPv4 and IPv6 networks.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t></abstract></front>
+
+<seriesInfo name='BCP' value='91' />
+<seriesInfo name='RFC' value='3901' />
+<format type='TXT' octets='10025' target='http://www.rfc-editor.org/rfc/rfc3901.txt' />
+</reference>

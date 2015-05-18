@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2211'>
+
+<front>
+<title abbrev='Controlled-Load Network'>Specification of the Controlled-Load Network Element Service</title>
+<author initials='J.' surname='Wroclawski' fullname='John Wroclawski'>
+<organization>MIT Laboratory for Computer Science</organization>
+<address>
+<postal>
+<street>545 Technology Sq.</street>
+<street>Cambridge</street>
+<street>MA  02139</street></postal>
+<phone>617-253-7885</phone>
+<facsimile>617-253-2673 (FAX)</facsimile>
+<email>jtw@lcs.mit.edu</email></address></author>
+<date year='1997' month='September' />
+<area>Internet</area>
+<keyword>quality of service</keyword>
+<abstract>
+<t>
+   This memo specifies the network element behavior required to deliver
+   Controlled-Load service in the Internet.  Controlled-load service
+   provides the client data flow with a quality of service closely
+   approximating the QoS that same flow would receive from an unloaded
+   network element, but uses capacity (admission) control to assure that
+   this service is received even when the network element is overloaded.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2211' />
+<format type='TXT' octets='46523' target='http://www.rfc-editor.org/rfc/rfc2211.txt' />
+<format type='XML' octets='48198' target='http://xml.resource.org/public/rfc/xml/rfc2211.xml' />
+</reference>

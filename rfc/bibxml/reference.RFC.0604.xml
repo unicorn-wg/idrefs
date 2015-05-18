@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0604'>
+
+<front>
+<title>Assigned link numbers</title>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>The MITRE Corporation</organization></author>
+<date year='1973' day='26' month='December' /></front>
+
+<seriesInfo name='RFC' value='604' />
+<format type='TXT' octets='2758' target='http://www.rfc-editor.org/rfc/rfc604.txt' />
+</reference>

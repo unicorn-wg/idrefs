@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1723'>
+
+<front>
+<title abbrev='RIP Version 2'>RIP Version 2 - Carrying Additional Information</title>
+<author initials='G.' surname='Malkin' fullname='Gary Scott Malkin'>
+<organization>Xylogics, Inc.</organization>
+<address>
+<postal>
+<street>53 Third Avenue</street>
+<city>Burlington</city>
+<region>MA</region>
+<code>01803</code>
+<country>US</country></postal>
+<phone>+1 617 272 8140</phone>
+<email>gmalkin@Xylogics.COM</email></address></author>
+<date year='1994' month='November' />
+<abstract>
+<t>This document specifies an extension of the Routing Information Protocol (RIP), as defined in,, to expand the amount of useful
+ information carried in RIP messages and to add a measure of security.  This memo obsoletes RFC 1388, which specifies an update to the "Routing Information Protocol" STD 34, RFC 1058.</t>
+<t>The RIP-2 protocol analysis is documented in RFC 1721.</t>
+<t>The RIP-2 applicability statement is document in RFC 1722.</t>
+<t>The RIP-2 MIB description is defined in RFC 1724. This memo obsoletes RFC 1389.</t></abstract></front>
+
+<seriesInfo name='STD' value='56' />
+<seriesInfo name='RFC' value='1723' />
+<format type='TXT' octets='18597' target='http://www.rfc-editor.org/rfc/rfc1723.txt' />
+</reference>

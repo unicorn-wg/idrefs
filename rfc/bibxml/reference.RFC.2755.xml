@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2755'>
+
+<front>
+<title>Security Negotiation for WebNFS</title>
+<author initials='A.' surname='Chiu' fullname='Alex Chiu'>
+<organization>Sun Microsystems, Inc.</organization>
+<address>
+<postal>
+<street>901 San Antonio Road</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94303</code>
+<country>US</country></postal>
+<phone>+1 650 786 6465</phone>
+<email>alex.chiu@Eng.sun.com</email></address></author>
+<author initials='M.' surname='Eisler' fullname='Mike Eisler'>
+<organization>Sun Microsystems, Inc.</organization>
+<address>
+<postal>
+<street>901 San Antonio Road</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94303</code>
+<country>US</country></postal>
+<phone>+1 719 599 9026</phone>
+<email>michael.eisler@Eng.sun.com</email></address></author>
+<author initials='B.' surname='Callaghan' fullname='Brent Callaghan'>
+<organization>Sun Microsystems, Inc.</organization>
+<address>
+<postal>
+<street>901 San Antonio Road</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94303</code>
+<country>US</country></postal>
+<phone>+1 650 786 5067</phone>
+<email>brent.callaghan@Eng.sun.com</email></address></author>
+<date year='2000' month='January' />
+<abstract>
+<t>This document describes a protocol for a WebNFS clientto negotiate the desired security mechanism with a WebNFS serverbefore the WebNFS client falls back to the MOUNT v3 protocol. This document is provided so that people can write compatible implementations.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2755' />
+<format type='TXT' octets='23493' target='http://www.rfc-editor.org/rfc/rfc2755.txt' />
+</reference>

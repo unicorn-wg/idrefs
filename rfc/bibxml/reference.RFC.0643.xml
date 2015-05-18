@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0643'>
+
+<front>
+<title>Network Debugging Protocol</title>
+<author initials='E.' surname='Mader' fullname='Eric Mader'>
+<organization /></author>
+<date year='1974' day='1' month='July' />
+<abstract>
+<t>This document describes a proposed protocol  to be used  in an implementation of a PDP-11 network  Bootstrap service and a cross-network debugger.  The  protocol  is designed  for debugging processes  running under an operating system which can perform some of the "lower level" debugging  tasks,  such  as  planting and removing breakpoints  and  single  stepping.  A subset of the protocol could be used if such a capability does not exist (a  stand-alone  program  for example).</t></abstract></front>
+
+<seriesInfo name='RFC' value='643' />
+<format type='TXT' octets='12563' target='http://www.rfc-editor.org/rfc/rfc643.txt' />
+</reference>

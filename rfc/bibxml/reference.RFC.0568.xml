@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0568'>
+
+<front>
+<title>Response to RFC 567 - cross country network bandwidth</title>
+<author initials='J.' surname='McQuillan' fullname='J. McQuillan'>
+<organization>Bolt Baranek and Newman (BBN), NET</organization></author>
+<date year='1973' day='18' month='September' />
+<abstract>
+<t>This note serves as a brief correction to several fundamental errors in RFC 567 by L. Peter Deutsch.</t></abstract></front>
+
+<seriesInfo name='RFC' value='568' />
+<format type='TXT' octets='3244' target='http://www.rfc-editor.org/rfc/rfc568.txt' />
+</reference>

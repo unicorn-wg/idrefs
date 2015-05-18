@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1007'>
+
+<front>
+<title>Military supplement to the ISO Transport Protocol</title>
+<author initials='W.' surname='McCoy' fullname='Wayne McCoy'>
+<organization /></author>
+<date year='1987' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='1007' />
+<format type='TXT' octets='51280' target='http://www.rfc-editor.org/rfc/rfc1007.txt' />
+</reference>

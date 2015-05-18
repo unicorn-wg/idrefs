@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5495'>
+
+<front>
+<title>Description of the Resource Reservation Protocol - Traffic-Engineered (RSVP-TE) Graceful Restart Procedures</title>
+<author initials='D.' surname='Li' fullname='D. Li'>
+<organization /></author>
+<author initials='J.' surname='Gao' fullname='J. Gao'>
+<organization /></author>
+<author initials='A.' surname='Satyanarayana' fullname='A. Satyanarayana'>
+<organization /></author>
+<author initials='S.' surname='Bardalai' fullname='S. Bardalai'>
+<organization /></author>
+<date year='2009' month='March' />
+<abstract>
+<t>The Hello message for the Resource Reservation Protocol (RSVP) has been defined to establish and maintain basic signaling node adjacencies for Label Switching Routers (LSRs) participating in a Multiprotocol Label Switching (MPLS) traffic-engineered (TE) network. The Hello message has been extended for use in Generalized MPLS (GMPLS) networks for state recovery of control channel or nodal faults.&lt;/t>&lt;t> The GMPLS protocol definitions for RSVP also allow a restarting node to learn which label it previously allocated for use on a Label Switched Path (LSP).&lt;/t>&lt;t> Further RSVP protocol extensions have been defined to enable a restarting node to recover full control plane state by exchanging RSVP messages with its upstream and downstream neighbors.&lt;/t>&lt;t> This document provides an informational clarification of the control plane procedures for a GMPLS network when there are multiple node failures, and describes how full control plane state can be recovered in different scenarios where the order in which the nodes restart is different.&lt;/t>&lt;t> This document does not define any new processes or procedures. All protocol mechanisms are already defined in the referenced documents. This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='5495' />
+<format type='TXT' octets='39325' target='http://www.rfc-editor.org/rfc/rfc5495.txt' />
+</reference>

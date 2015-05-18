@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2127'>
+
+<front>
+<title abbrev='ISDN MIB'>ISDN Management Information Base using SMIv2</title>
+<author initials='G.' surname='Roeck' fullname='Guenter Roeck'>
+<organization>cisco Systems</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<street>San Jose</street>
+<street>CA 95134</street>
+<street>U.S.A.</street></postal>
+<phone>+1 408 527 3143</phone>
+<email>groeck@cisco.com</email></address></author>
+<date year='1997' month='March' />
+<keyword>Management Information Base</keyword>
+<keyword>integrated services digital network</keyword>
+<keyword>structure of management information version 2</keyword>
+<abstract>
+<t>
+   This memo defines a portion of the Management Information Base (MIB)
+   for use with network management protocols in the Internet community.
+   In particular, it defines a minimal set of managed objects for SNMP-
+   based management of ISDN terminal interfaces.  ISDN interfaces are
+   supported on a variety of equipment (for data and voice) including
+   terminal adapters, bridges, hosts, and routers.
+</t>
+<t>
+   This document specifies a MIB module in a manner that is compliant to
+   the SNMPv2 SMI.  The set of objects is consistent with the SNMP
+   framework and existing SNMP standards.
+</t>
+<t>
+   This document is a product of the ISDN MIB working group within the
+   Internet Engineering Task Force.  Comments are solicited and should
+   be addressed to the working group&apos;s mailing list at isdn-
+   mib@cisco.com and/or the author.
+</t>
+<t>
+   The current version of this document reflects changes made during the
+   last call period and the IESG review.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2127' />
+<format type='TXT' octets='95994' target='http://www.rfc-editor.org/rfc/rfc2127.txt' />
+<format type='XML' octets='95311' target='http://xml.resource.org/public/rfc/xml/rfc2127.xml' />
+</reference>

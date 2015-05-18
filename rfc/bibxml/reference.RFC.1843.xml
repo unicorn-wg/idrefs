@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1843'>
+
+<front>
+<title abbrev='HZ - A Data Format for Exchanging Files'>HZ - A Data Format for Exchanging Files of Arbitrarily Mixed Chinese and ASCII characters</title>
+<author initials='F.' surname='Lee' fullname='Fung Fung Lee'>
+<organization>Stanford University, Computer Systems Laboratory</organization>
+<address>
+<postal>
+<street />
+<city>Stanford</city>
+<region>CA</region>
+<code>94309</code>
+<country>US</country></postal>
+<phone>+1 415 723 1450</phone>
+<email>lee@csl.stanford.edu</email></address></author>
+<date year='1995' month='August' />
+<abstract>
+<t>The content of this memo is identical to an article of the same title written by the author on September 4, 1989.  In this memo, GB stands for GB2312-80.  Note that the title is kept only for historical reasons.  HZ has been widely used for purposes other than "file exchange".</t></abstract></front>
+
+<seriesInfo name='RFC' value='1843' />
+<format type='TXT' octets='8787' target='http://www.rfc-editor.org/rfc/rfc1843.txt' />
+</reference>

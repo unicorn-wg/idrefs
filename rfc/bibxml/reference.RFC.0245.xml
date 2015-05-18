@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0245'>
+
+<front>
+<title>Reservations for Network Group meeting</title>
+<author initials='C.' surname='Falls' fullname='Carol Falls'>
+<organization>Massachusetts Institute of Technology (MIT), Project MAC</organization>
+<address>
+<phone>+1 617 864 6900 x1450</phone></address></author>
+<date year='1971' day='5' month='October' />
+<abstract>
+<t>Guaranteed arrival reservations for rooms at the Hotel Sonesta in Cambridge, Massachusetts have been made for NWGM attendees who have made reservations through Project MAC.</t></abstract></front>
+
+<seriesInfo name='RFC' value='245' />
+<format type='TXT' octets='1142' target='http://www.rfc-editor.org/rfc/rfc245.txt' />
+</reference>

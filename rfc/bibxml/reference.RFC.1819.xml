@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1819'>
+
+<front>
+<title abbrev='ST2+ Protocol Specification'>Internet Stream Protocol Version 2 (ST2) Protocol Specification - Version ST2+</title>
+<author initials='L.' surname='Delgrossi' fullname='Luca Delgrossi'>
+<organization>Andersen Consulting Technology Park</organization>
+<address>
+<postal>
+<street>449 Route des Cretes</street>
+<city>Sophia Antipolis</city>
+<region />
+<code>06902</code>
+<country>FR</country></postal>
+<phone>+33 92 948092</phone>
+<email>luca@andersen.fr</email></address></author>
+<author initials='L.' surname='Berger' fullname='Louis Berger'>
+<organization>BBN Systems and Technologies</organization>
+<address>
+<postal>
+<street>1300 North 17th Street</street>
+<street>Suite 1200</street>
+<city>Arlington</city>
+<region>VA</region>
+<code>22209</code>
+<country>US</country></postal>
+<phone>+1 703 284 4651</phone>
+<email>lberger@bbn.com</email></address></author>
+<author initials='D.' surname='Duong' fullname='Dat Duong'>
+<organization>BBN Systems and Technologies</organization>
+<address>
+<postal>
+<street>1300 North 17th Street</street>
+<street>Suite 1200</street>
+<city>Arlington</city>
+<region>VA</region>
+<code>22209</code>
+<country>US</country></postal>
+<phone>+1 703 284 4760</phone>
+<email>dat@bbn.com</email></address></author>
+<author initials='S.' surname='Jackowski' fullname='Steve Jackowski'>
+<organization>Syzygy Communications Incorporated</organization>
+<address>
+<postal>
+<street>269 Mt. Hermon Road</street>
+<city>Scotts Valley</city>
+<region>CA</region>
+<code>95066</code>
+<country>US</country></postal>
+<phone>+1 408 439 6834</phone>
+<email>stevej@syzygycomm.com</email></address></author>
+<author initials='S.' surname='Schaller' fullname='Sibylle Schaller'>
+<organization>IBM ENC, Broadband Multimedia Communications</organization>
+<address>
+<postal>
+<street>Vangerowstr. 18</street>
+<city>Heidelberg</city>
+<region />
+<code>D69020</code>
+<country>DE</country></postal>
+<phone>+49 6221 5944553</phone>
+<email>schaller@heidelbg.ibm.com</email></address></author>
+<date year='1995' month='August' />
+<abstract>
+<t>This memo contains a revised specification of the Internet STream Protocol Version 2 (ST2). ST2 is an experimental resource reservation protocol intended to provide end-to-end real-time guarantees over an internet. It allows applications to build multi-destination simplex data streams with a desired quality of service. The revised version of ST2 specified in this memo is called ST2+.</t>
+<t>This specification is a product of the STream Protocol Working Group of the Internet Engineering Task Force.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1819' />
+<format type='TXT' octets='266875' target='http://www.rfc-editor.org/rfc/rfc1819.txt' />
+</reference>

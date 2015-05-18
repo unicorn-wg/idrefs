@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7497'>
+
+<front>
+<title>Rate Measurement Test Protocol Problem Statement and Requirements</title>
+<author initials='A.' surname='Morton' fullname='A. Morton'>
+<organization /></author>
+<date year='2015' month='April' />
+<abstract>
+<t>This memo presents a problem statement for access rate measurement for test protocols to measure IP Performance Metrics (IPPM).  Key rate measurement test protocol aspects include the ability to control packet characteristics on the tested path, such as asymmetric rate and asymmetric packet size.</t></abstract></front>
+
+<seriesInfo name='RFC' value='7497' />
+<format type='TXT' octets='31281' target='http://www.rfc-editor.org/rfc/rfc7497.txt' />
+</reference>

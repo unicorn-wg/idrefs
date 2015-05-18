@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2856'>
+
+<front>
+<title>Textual Conventions for Additional High Capacity Data Types</title>
+<author initials='A.' surname='Bierman' fullname='A. Bierman'>
+<organization /></author>
+<author initials='K.' surname='McCloghrie' fullname='K. McCloghrie'>
+<organization /></author>
+<author initials='R.' surname='Presuhn' fullname='R. Presuhn'>
+<organization /></author>
+<date year='2000' month='June' />
+<abstract>
+<t>This memo specifies new textual conventions for additional high capacity data types, intended for SNMP implementations which already support the Counter64 data type. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='2856' />
+<format type='TXT' octets='20954' target='http://www.rfc-editor.org/rfc/rfc2856.txt' />
+</reference>

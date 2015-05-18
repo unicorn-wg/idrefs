@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1121'>
+
+<front>
+<title>Act one - the poems</title>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292-6695</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone>
+<email>Postel@ISI.EDU</email></address></author>
+<author initials='L.' surname='Kleinrock' fullname='Leonard Kleinrock'>
+<organization>University of California  Los Angeles (UCLA), Computer Science Department</organization>
+<address>
+<postal>
+<street>3732G Boelter Hall</street>
+<city>Los Angeles</city>
+<region>CA</region>
+<code>90024-1600</code>
+<country>US</country></postal>
+<phone>+1 213 825 2543</phone>
+<email>lk@CS.UCLA.EDU</email></address></author>
+<author initials='V.' surname='Cerf' fullname='Vinton G. Cerf'>
+<organization>Corporation for National Research Initiatives</organization>
+<address>
+<postal>
+<street>1895 Preston White Drive</street>
+<street>Suite 100</street>
+<city>Reston</city>
+<region>VA</region>
+<code>22091</code>
+<country>US</country></postal>
+<phone>+1 703 620 8990</phone>
+<email>VCerf@NRI.RESTON.VA.US</email></address></author>
+<author initials='B.' surname='Boehm' fullname='Barry Boehm'>
+<organization>University of California  Los Angeles (UCLA), Computer Science Department</organization>
+<address>
+<postal>
+<street>3732 Boelter Hall</street>
+<city>Los Angeles</city>
+<region>CA</region>
+<code>90024-1600</code>
+<country>US</country></postal>
+<phone>+1 213 825 8137</phone>
+<email>boehm@CS.UCLA.EDU</email></address></author>
+<date year='1989' day='1' month='September' /></front>
+
+<seriesInfo name='RFC' value='1121' />
+<format type='TXT' octets='10644' target='http://www.rfc-editor.org/rfc/rfc1121.txt' />
+</reference>

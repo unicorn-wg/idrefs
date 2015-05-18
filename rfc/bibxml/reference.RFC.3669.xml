@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3669'>
+
+<front>
+<title>Guidelines for Working Groups on Intellectual Property Issues</title>
+<author initials='S.' surname='Brim' fullname='S. Brim'>
+<organization /></author>
+<date year='2004' month='February' />
+<abstract>
+<t>This memo lays out a conceptual framework and rules of thumb useful for working groups dealing with Intellectual Property Rights (IPR) issues.  It documents specific examples of how IPR issues have been dealt with in the IETF.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='3669' />
+<format type='TXT' octets='40946' target='http://www.rfc-editor.org/rfc/rfc3669.txt' />
+</reference>

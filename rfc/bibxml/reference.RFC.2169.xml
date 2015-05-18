@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2169'>
+
+<front>
+<title abbrev='HTTP in URN Resolution'>A Trivial Convention for using HTTP in URN Resolution</title>
+<author initials='R.' surname='Daniel' fullname='R. Daniel'>
+<organization>Los Alamos National Laboratory, Advanced Computing Lab</organization>
+<address>
+<postal>
+<street>MS B287</street>
+<city>Los Alamos</city>
+<region>NM</region>
+<code>87545</code>
+<country>US</country></postal>
+<phone>+1 505 665 0597</phone>
+<facsimile>+1 505 665 4939</facsimile>
+<email>rdaniel@lanl.gov</email></address></author>
+<date year='1997' month='June' />
+<abstract>
+<t>The Uniform Resource Names Working Group (URN-WG) was formed to specify persistent, location-independent names for network accessible resources, as well as resolution mechanisms to retrieve the resources given such a name. At this time the URN-WG is considering one particular resolution mechanism, the NAPTR proposal. That proposal specifies how a client may find a "resolver" for a URN. A resolver is a database that can provide information about the resource identified by a URN, such as the resource's location, a bibliographic description, or even the resource itself. The protocol used for the client to communicate with the resolver is not specified in the NAPTR proposal.  Instead, the NAPTR resource record provides a field that indicates the "resolution protocol" and "resolution service requests" offered by the resolver.</t>
+<t>This document specifies the "THTTP" resolution protocol - a trivial convention for encoding resolution service requests and responses as HTTP 1.0 or 1.1 requests and responses.  The primary goal of THTTP is to be simple to implement so that existing HTTP servers may easily add support for URN resolution. We expect that the databases used by early resolvers will be useful when more sophisticated resolution protocols are developed later.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2169' />
+<format type='TXT' octets='17763' target='http://www.rfc-editor.org/rfc/rfc2169.txt' />
+</reference>

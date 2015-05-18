@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3719'>
+
+<front>
+<title>Recommendations for Interoperable Networks using Intermediate System to Intermediate System (IS-IS)</title>
+<author initials='J.' surname='Parker' fullname='J. Parker'>
+<organization /></author>
+<date year='2004' month='February' />
+<abstract>
+<t>This document discusses a number of differences between the Intermediate System to Intermediate System (IS-IS) protocol as described in ISO 10589 and the protocol as it is deployed today.  These differences are discussed as a service to those implementing, testing, and deploying the IS-IS Protocol.  A companion document discusses differences between the protocol described in RFC 1195 and the protocol as it is deployed today for routing IP traffic.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='3719' />
+<format type='TXT' octets='33941' target='http://www.rfc-editor.org/rfc/rfc3719.txt' />
+</reference>

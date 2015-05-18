@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0411'>
+
+<front>
+<title>New MULTICS Network Software Features</title>
+<author initials='M.' surname='Padlipsky' fullname='M. A. Padlipsky'>
+<organization>Massachusetts Institute of Technology (MIT), MULTICS</organization></author>
+<date year='1972' day='14' month='November' />
+<abstract>
+<t>Two recently-installed features of the Multics  Network  software might be of general interest to the Network community, and should be of particular interest to those who use Multics via TIP's:</t></abstract></front>
+
+<seriesInfo name='RFC' value='411' />
+<format type='TXT' octets='3024' target='http://www.rfc-editor.org/rfc/rfc411.txt' />
+</reference>

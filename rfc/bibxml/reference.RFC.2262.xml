@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2262'>
+
+<front>
+<title abbrev='SNMP Message Processing'>Message Processing and Dispatching for the Simple Network Management Protocol (SNMP)</title>
+<author initials='J.' surname='Case' fullname='Jeffrey Case'>
+<organization>SNMP Research, Inc.</organization>
+<address>
+<postal>
+<street>3001 Kimberlin Heights Road</street>
+<street>Knoxville</street>
+<street>TN 37920-9716</street>
+<country>USA</country></postal>
+<phone>+1 423-573-1434</phone>
+<email>case@snmp.com</email></address></author>
+<author initials='D.' surname='Harrington' fullname='Dave Harrington'>
+<organization>Cabletron Systems, Inc</organization>
+<address>
+<postal>
+<street>Post Office Box 5005</street>
+<street>Mail Stop: Durham</street>
+<street>35 Industrial Way</street>
+<street>Rochester</street>
+<street>NH 03867-5005</street>
+<country>USA</country></postal>
+<phone>+1 603-337-7357</phone>
+<email>dbh@ctron.com</email></address></author>
+<author initials='R.' surname='Presuhn' fullname='Randy Presuhn'>
+<organization>BMC Software, Inc.</organization>
+<address>
+<postal>
+<street>1190 Saratoga Avenue</street>
+<street>Suite 130</street>
+<street>San Jose</street>
+<street>CA 95129</street>
+<country>USA</country></postal>
+<phone>+1 408-556-0720</phone>
+<email>rpresuhn@bmc.com</email></address></author>
+<author initials='B.' surname='Wijnen' fullname='Bert Wijnen'>
+<organization>IBM T. J. Watson Research</organization>
+<address>
+<postal>
+<street>Schagen 33</street>
+<street>3461 GL Linschoten</street>
+<country>Netherlands</country></postal>
+<phone>+31 348-432-794</phone>
+<email>wijnen@vnet.ibm.com</email></address></author>
+<date year='1998' month='January' />
+<area>Management</area>
+<keyword>network management</keyword>
+<keyword>simple network management protocol</keyword>
+<keyword>simple network management protocol version 3</keyword>
+<abstract>
+<t>
+   This document describes the Message Processing and Dispatching for
+   SNMP messages within the SNMP architecture .  It defines the
+   procedures for dispatching potentially multiple versions of SNMP
+   messages to the proper SNMP Message Processing Models, and for
+   dispatching PDUs to SNMP applications.  This document also describes
+   one Message Processing Model - the SNMPv3 Message Processing Model.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2262' />
+<format type='TXT' octets='88254' target='http://www.rfc-editor.org/rfc/rfc2262.txt' />
+<format type='XML' octets='88776' target='http://xml.resource.org/public/rfc/xml/rfc2262.xml' />
+</reference>

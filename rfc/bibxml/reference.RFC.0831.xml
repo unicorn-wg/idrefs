@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0831'>
+
+<front>
+<title>Backup access to the European side of SATNET</title>
+<author initials='R.' surname='Braden' fullname='Robert Braden'>
+<organization>University College London</organization></author>
+<date year='1982' day='1' month='December' /></front>
+
+<seriesInfo name='RFC' value='831' />
+<format type='TXT' octets='11735' target='http://www.rfc-editor.org/rfc/rfc831.txt' />
+</reference>

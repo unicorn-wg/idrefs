@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1668'>
+
+<front>
+<title>Unified Routing Requirements for IPng</title>
+<author initials='D.' surname='Estrin' fullname='Deborah Estrin'>
+<organization>University of Southern California, Computer Science Department</organization>
+<address>
+<postal>
+<street>MC 0782</street>
+<city>Los Angeles</city>
+<region>CA</region>
+<code>90089-0782</code>
+<country>US</country></postal>
+<phone>+1 310 740 4524</phone>
+<email>estrin@usc.edu</email></address></author>
+<author initials='T.' surname='Li' fullname='Tony Li'>
+<organization>cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>1525 O'Brien Drive</street>
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<email>tli@cisco.com</email></address></author>
+<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
+<organization>IBM Corporation, T.J. Watson Research Center</organization>
+<address>
+<postal>
+<street>P.O. Box 218</street>
+<city>Yorktown Heights</city>
+<region>NY</region>
+<code>10598</code>
+<country>US</country></postal>
+<phone>+1 914 945 3896</phone>
+<email>yakov@watson.ibm.com</email></address></author>
+<date year='1994' month='August' />
+<abstract>
+<t>This document was submitted to the IETF IPng area in response to RFC 1550.  Publication of this document does not imply acceptance by the IPng area of any ideas expressed within.  Comments should be submitted to the big-internet@munnari.oz.au mailing list.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1668' />
+<format type='TXT' octets='5106' target='http://www.rfc-editor.org/rfc/rfc1668.txt' />
+</reference>

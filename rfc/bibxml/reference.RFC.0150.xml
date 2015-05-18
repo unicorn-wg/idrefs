@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0150'>
+
+<front>
+<title>Use of IPC Facilities: A Working Paper</title>
+<author initials='R.' surname='Kalin' fullname='Richard B. Kalin'>
+<organization>Massachusetts Institute of Technology (MIT), Lincoln Laboratory</organization></author>
+<date year='1971' day='5' month='May' />
+<abstract>
+<t>***A WORKING PAPER*** This material has not been reviewed for public release and is intended only for use within the ARPA network. It should not be quoted or cited in any publication not related to the ARPA network.</t></abstract></front>
+
+<seriesInfo name='RFC' value='150' />
+<format type='TXT' octets='28163' target='http://www.rfc-editor.org/rfc/rfc150.txt' />
+</reference>

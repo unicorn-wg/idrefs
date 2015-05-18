@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1507'>
+
+<front>
+<title abbrev='DASS'>DASS - Distributed Authentication Security Service</title>
+<author initials='C.' surname='Kaufman' fullname='Charles Kaufman'>
+<organization>Digital Equipment Corporation (DEC)</organization>
+<address>
+<postal>
+<street>110 Spit Brook Road</street>
+<street>ZKO3-3/U14</street>
+<city>Nashua</city>
+<region>NH</region>
+<code>03062</code>
+<country>US</country></postal>
+<phone>+1 603 881 1495</phone>
+<email>kaufman@zk3.dec.com</email></address></author>
+<date year='1993' month='September' />
+<abstract>
+<t></t></abstract></front>
+
+<seriesInfo name='RFC' value='1507' />
+<format type='TXT' octets='287809' target='http://www.rfc-editor.org/rfc/rfc1507.txt' />
+</reference>

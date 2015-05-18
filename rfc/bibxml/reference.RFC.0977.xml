@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0977'>
+
+<front>
+<title abbrev='Network News Transfer Protocol'>Network News Transfer Protocol</title>
+<author initials='B.' surname='Kantor' fullname='Brian Kantor'>
+<organization>University of California, San Diego (UCSD)</organization></author>
+<author initials='P.' surname='Lapsley' fullname='Phil Lapsley'>
+<organization>University of California, Berkeley (UCB)</organization></author>
+<date year='1986' day='1' month='February' /></front>
+
+<seriesInfo name='RFC' value='977' />
+<format type='TXT' octets='55062' target='http://www.rfc-editor.org/rfc/rfc977.txt' />
+</reference>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1629'>
+
+<front>
+<title abbrev='NSAP Guidelines'>Guidelines for OSI NSAP Allocation in the Internet</title>
+<author initials='R.' surname='Colella' fullname='Richard P. Colella'>
+<organization>National Institute of Standards &amp; Technology</organization>
+<address>
+<postal>
+<street>Building 225/Room B217</street>
+<city>Gaithersburg</city>
+<region>MD</region>
+<code>20899</code>
+<country>US</country></postal>
+<phone>+1 301 975 3627</phone>
+<email>colella@nist.gov</email></address></author>
+<author initials='R.' surname='Callon' fullname='Ross Callon'>
+<organization>Wellfleet Communications, Inc</organization>
+<address>
+<postal>
+<street>2 Federal Street</street>
+<city>Billerica</city>
+<region>MA</region>
+<code>01821</code>
+<country>US</country></postal>
+<phone>+1 508 436 3936</phone>
+<email>callon@wellfleet.com</email></address></author>
+<author initials='E.' surname='Gardner' fullname='Ella P. Gardner'>
+<organization>The MITRE Corporation</organization>
+<address>
+<postal>
+<street>7525 Colshire Drive</street>
+<city>McLean</city>
+<region>VA</region>
+<code>22102-3481</code>
+<country>US</country></postal>
+<phone>+1 703 883 5826</phone>
+<email>epg@gateway.mitre.org</email></address></author>
+<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
+<organization>IBM Corporation, T.J. Watson Research Center</organization>
+<address>
+<postal>
+<street>P.O. Box 218</street>
+<city>Yorktown Heights</city>
+<region>NY</region>
+<code>10598</code>
+<country>US</country></postal>
+<phone>+1 914 945 3896</phone>
+<email>yakov@watson.ibm.com</email></address></author>
+<date year='1994' month='May' />
+<abstract>
+<t>CLNP is currently being deployed in the Internet.  This is useful to support OSI and DECnet(tm) traffic.  In addition, CLNP has been proposed as a possible IPng candidate, to provide a long-term solution to IP address exhaustion.  Required as part of the CLNP infrastructure are guidelines for network service access point (NSAP) address assignment.  This paper provides guidelines for allocating NSAP addresses in the Internet.</t>
+<t>The guidelines provided in this paper have been the basis for initial deployment of CLNP in the Internet, and have proven very valuable both as an aid to scaling of CLNP routing, and for address administration.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1629' />
+<format type='TXT' octets='131640' target='http://www.rfc-editor.org/rfc/rfc1629.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4741'>
+
+<front>
+<title>NETCONF Configuration Protocol</title>
+<author initials='R.' surname='Enns' fullname='R. Enns'>
+<organization /></author>
+<date year='2006' month='December' />
+<abstract>
+<t>The Network Configuration Protocol (NETCONF) defined in this document provides mechanisms to install, manipulate, and delete the configuration of network devices.  It uses an Extensible Markup Language (XML)-based data encoding for the configuration data as well as the protocol messages.  The NETCONF protocol operations are realized on top of a simple Remote Procedure Call (RPC) layer. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='4741' />
+<format type='TXT' octets='173914' target='http://www.rfc-editor.org/rfc/rfc4741.txt' />
+</reference>

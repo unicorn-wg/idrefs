@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2662'>
+
+<front>
+<title abbrev='ADSL Line MIBvv'>Definitions of Managed Objects for the ADSL Lines</title>
+<author initials='G.' surname='Bathrick' fullname='Gregory Bathrick'>
+<organization>AG Communication Systems
+   [A Subsidiary of Lucent Technologies]</organization>
+<address>
+<postal>
+<street>2500 West Utopia Road</street>
+<city>Phoenix</city>
+<region>AZ</region>
+<code>85027</code>
+<country>US</country></postal>
+<phone>+1 602 582 7679</phone>
+<email>bathricg@agcs.com</email></address></author>
+<author initials='F.' surname='Ly' fullname='Faye Ly'>
+<organization>Copper Mountain Networks Norcal Office</organization>
+<address>
+<postal>
+<street>2470 Embarcadero Way</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94303</code>
+<country>US</country></postal>
+<phone>+1 650 858 8500</phone>
+<email>faye@coppermountain.com</email></address></author>
+<date year='1999' month='August' />
+<abstract>
+<t>This document defines a standard SNMP MIB for ADSL lines based on theADSL Forum standard data model. The ADSL standard describes ATU-C and ATU-R as two sides of the ADSL line. This MIB covers both
+ATU-C and ATU-R agent's perspectives. Each instance defined in the MIB represents a single ADSL line.</t>
+<t>It should be noted that the ADSL Forum Network Management Working Group provided input towards the content of this document. See the Acknowledgement Section for a list of individuals who made this document possible.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2662' />
+<format type='TXT' octets='247122' target='http://www.rfc-editor.org/rfc/rfc2662.txt' />
+</reference>

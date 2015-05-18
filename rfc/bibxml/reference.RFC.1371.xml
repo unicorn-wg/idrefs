@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1371'>
+
+<front>
+<title abbrev='Choosing a &quot;Common IGP&quot;'>Choosing a Common IGP for the IP Internet</title>
+<author initials='P.' surname='Gross' fullname='Phillip Gross'>
+<organization>Advanced Network &amp; Services</organization>
+<address>
+<postal>
+<street>100 Clearbrook Road</street>
+<city>Elmsford</city>
+<region>NY</region>
+<code>10523</code>
+<country>US</country></postal>
+<phone>+1 914 789 5300</phone>
+<email>pgross@ans.net</email></address></author>
+<date year='1992' month='October' />
+<abstract>
+<t>This memo presents motivation, rationale and other surrounding background information leading to the IESG's recommendation to the IAB for a single "common IGP" for the IP portions of the Internet.</t>
+<t>In this memo, the term "common IGP" is defined, the need for a common IGP is explained, the relation of this issue to other ongoing Internet Engineering Task Force (IETF) routing protocol development is provided, and the relation of this issue to the goal for multi-protocol integration in the Internet is explored.</t>
+<t>Finally, a specific IGP is recommended as the "common IGP" for IP portions of the Internet -- the Open Shortest Path First (OSPF) routing protocol.</t>
+<t>The goal of this recommendation is for all vendors of Internet IP routers to make OSPF available as one of the IGP's provided with their routers.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1371' />
+<format type='TXT' octets='18168' target='http://www.rfc-editor.org/rfc/rfc1371.txt' />
+</reference>

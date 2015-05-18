@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5255'>
+
+<front>
+<title>Internet Message Access Protocol Internationalization</title>
+<author initials='C.' surname='Newman' fullname='C. Newman'>
+<organization /></author>
+<author initials='A.' surname='Gulbrandsen' fullname='A. Gulbrandsen'>
+<organization /></author>
+<author initials='A.' surname='Melnikov' fullname='A. Melnikov'>
+<organization /></author>
+<date year='2008' month='June' />
+<abstract>
+<t>Internet Message Access Protocol (IMAP) version 4rev1 has basic support for non-ASCII characters in mailbox names and search substrings.  It also supports non-ASCII message headers and content encoded as specified by Multipurpose Internet Mail Extensions (MIME).  This specification defines a collection of IMAP extensions that improve international support including language negotiation for international error text, translations for namespace prefixes, and comparator negotiation for search, sort, and thread. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='5255' />
+<format type='TXT' octets='41403' target='http://www.rfc-editor.org/rfc/rfc5255.txt' />
+</reference>

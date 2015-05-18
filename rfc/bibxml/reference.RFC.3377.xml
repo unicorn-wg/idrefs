@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3377'>
+
+<front>
+<title>Lightweight Directory Access Protocol (v3): Technical Specification</title>
+<author initials='J.' surname='Hodges' fullname='J. Hodges'>
+<organization /></author>
+<author initials='R.' surname='Morgan' fullname='R. Morgan'>
+<organization /></author>
+<date year='2002' month='September' /></front>
+
+<seriesInfo name='RFC' value='3377' />
+<format type='TXT' octets='9981' target='http://www.rfc-editor.org/rfc/rfc3377.txt' />
+</reference>

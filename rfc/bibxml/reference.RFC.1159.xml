@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1159'>
+
+<front>
+<title>Message Send Protocol</title>
+<author initials='R.' surname='Nelson' fullname='Russell Nelson'>
+<organization>Clarkson University, Educational Computing System</organization>
+<address>
+<postal>
+<street />
+<city>Potsdam</city>
+<region>NY</region>
+<code>13699-5730</code>
+<country>US</country></postal>
+<phone>+1 315 268 6455</phone>
+<email>nelson@sun.soe.clarkson.edu</email></address></author>
+<date year='1990' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='1159' />
+<format type='TXT' octets='3957' target='http://www.rfc-editor.org/rfc/rfc1159.txt' />
+</reference>

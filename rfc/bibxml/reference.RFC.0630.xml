@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0630'>
+
+<front>
+<title abbrev='FTP Error Code Usage for Mail Service'>FTP error code usage for more reliable mail service</title>
+<author initials='J.' surname='Sussman' fullname='Julie Sussman'>
+<organization>Bolt Beranek and Newman (BBN)</organization></author>
+<date year='1974' day='10' month='April' /></front>
+
+<seriesInfo name='RFC' value='630' />
+<format type='TXT' octets='4070' target='http://www.rfc-editor.org/rfc/rfc630.txt' />
+</reference>

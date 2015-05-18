@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1836'>
+
+<front>
+<title abbrev='O/R Addresses in the X.500 DIT'>Representing the O/R Address hierarchy in the X.500 Directory Information Tree</title>
+<author initials='S.' surname='Kille' fullname='Steve Kille'>
+<organization>ISODE Consortium</organization>
+<address>
+<postal>
+<street>The Dome, The Square</street>
+<city>Richmond</city>
+<region>England</region>
+<code>TW9 1DT</code>
+<country>UK</country></postal>
+<email>S.Kille@ISODE.COM</email></address></author>
+<date year='1995' month='August' />
+<abstract>
+<t>This document defines a representation of the O/R Address hierarchy in the Directory Information Tree.  This is useful for a range of purposes, including:</t>
+<t>o  Support for MHS Routing.</t>
+<t>o  Support for X.400/RFC 822 address mappings,.</t>
+<t>
+<figure>
+<artwork>Object Class               	Mandatory
+--------------------               	----------------
+mHSCountry					M
+aDMD						M
+pRMD						O
+mHSX121					O
+mHSNumericUserIdentifier	O
+mHSOrganization			O
+mHSOrganizationalUnit		O
+mHSPerson					O
+mHSNamedObject 			O
+mHSTerminalID				O
+mHSDomainDefinedAttribute	O</artwork></figure></t></abstract></front>
+
+<seriesInfo name='RFC' value='1836' />
+<format type='TXT' octets='20175' target='http://www.rfc-editor.org/rfc/rfc1836.txt' />
+</reference>

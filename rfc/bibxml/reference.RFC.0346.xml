@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0346'>
+
+<front>
+<title>Satellite Considerations</title>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>University of California, Los Angeles (UCLA), Computer Science, NMC</organization></author>
+<date year='1972' day='30' month='May' />
+<abstract>
+<t>The consideration of using space satellite transmission links in the ARPANET should be cause for some thought by the parties making use of the network.</t></abstract></front>
+
+<seriesInfo name='RFC' value='346' />
+<format type='TXT' octets='2778' target='http://www.rfc-editor.org/rfc/rfc346.txt' />
+</reference>

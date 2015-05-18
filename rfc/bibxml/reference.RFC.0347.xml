@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0347'>
+
+<front>
+<title>Echo process</title>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>University of California, Los Angeles (UCLA), Computer Science, NMC</organization></author>
+<date year='1972' day='30' month='May' />
+<abstract>
+<t>I suggest that for debugging and measurement purposes those hosts which are willing implement an "Echo" process.</t></abstract></front>
+
+<seriesInfo name='RFC' value='347' />
+<format type='TXT' octets='1377' target='http://www.rfc-editor.org/rfc/rfc347.txt' />
+</reference>

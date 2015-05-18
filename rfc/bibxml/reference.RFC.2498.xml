@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2498'>
+
+<front>
+<title abbrev='IPPM Metrics'>IPPM Metrics for Measuring Connectivity</title>
+<author initials='J.' surname='Mahdavi' fullname='Jamshid Mahdavi'>
+<organization>Pittsburgh Supercomputing Center</organization>
+<address>
+<postal>
+<street>4400 5th Avenue</street>
+<street>Pittsburgh</street>
+<street>PA  15213</street>
+<country>USA</country></postal>
+<email>mahdavi@psc.edu</email></address></author>
+<author initials='V.' surname='Paxson' fullname='Vern Paxson'>
+<organization>MS 50A-3111</organization>
+<address>
+<postal>
+<street>Lawrence Berkeley National Laboratory</street>
+<street>University of California</street>
+<street>Berkeley</street>
+<street>CA  94720</street>
+<country>USA</country></postal>
+<phone>+1 510/486-7504</phone>
+<email>vern@ee.lbl.gov</email></address></author>
+<date year='1999' month='January' />
+<area>Internet</area>
+<keyword>reachability</keyword>
+<keyword>connectivity</keyword></front>
+
+<seriesInfo name='RFC' value='2498' />
+<format type='TXT' octets='17869' target='http://www.rfc-editor.org/rfc/rfc2498.txt' />
+<format type='XML' octets='20343' target='http://xml.resource.org/public/rfc/xml/rfc2498.xml' />
+</reference>

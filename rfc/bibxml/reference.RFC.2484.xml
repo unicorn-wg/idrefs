@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2484'>
+
+<front>
+<title abbrev='LCP Internationalization Option'>PPP LCP Internationalization Configuration Option</title>
+<author initials='G.' surname='Zorn' fullname='Glen Zorn'>
+<organization>Microsoft Corporation</organization>
+<address>
+<postal>
+<street>One Microsoft Way</street>
+<city>Redmond</city>
+<region>WA</region>
+<code>98052</code>
+<country>US</country></postal>
+<phone>+1 425 703 1559</phone>
+<facsimile>+1 425 936 7329</facsimile>
+<email>glennz@microsoft.com</email></address></author>
+<date year='1999' month='January' />
+<abstract>
+<t>The Point-to-Point Protocol (PPP)provides a standard method for transporting multi-protocol datagrams over point-to-point links.   PPP also defines an extensible Link Control Protocol (LCP), which allows negotiation of an Authentication Protocol for authenticating its peer before allowing Network Layer protocols to transmit over the link.</t>
+<t>Both LCP and Authentication Protocol packets may contain text which is intended to be human-readable,,.  This document defines an LCP configuration option for the negotiation of character set and language usage, as required by RFC 2277.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2484' />
+<format type='TXT' octets='8330' target='http://www.rfc-editor.org/rfc/rfc2484.txt' />
+</reference>

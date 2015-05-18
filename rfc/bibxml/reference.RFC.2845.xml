@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2845'>
+
+<front>
+<title>Secret Key Transaction Authentication for DNS (TSIG)</title>
+<author initials='P.' surname='Vixie' fullname='P. Vixie'>
+<organization /></author>
+<author initials='O.' surname='Gudmundsson' fullname='O. Gudmundsson'>
+<organization /></author>
+<author initials='D.' surname='Eastlake' fullname='D. Eastlake'>
+<organization /></author>
+<author initials='B.' surname='Wellington' fullname='B. Wellington'>
+<organization /></author>
+<date year='2000' month='May' />
+<abstract>
+<t>This protocol allows for transaction level authentication using shared secrets and one way hashing.  It can be used to authenticate dynamic updates as coming from an approved client, or to authenticate responses as coming from an approved recursive name server. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='2845' />
+<format type='TXT' octets='32272' target='http://www.rfc-editor.org/rfc/rfc2845.txt' />
+</reference>

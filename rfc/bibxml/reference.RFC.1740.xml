@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1740'>
+
+<front>
+<title abbrev='MIME-based Mac files'>MIME Encapsulation of Macintosh Files - MacMIME</title>
+<author initials='P.' surname='Faltstrom' fullname='Patrik Faltstrom'>
+<organization>Royal Institute of Technology, Department of Numerical Analysis and Computing Science</organization>
+<address>
+<postal>
+<street />
+<city>Stockholm</city>
+<region />
+<code>S-100 44</code>
+<country>SE</country></postal>
+<email>paf@nada.kth.se</email></address></author>
+<author initials='D.' surname='Crocker' fullname='Dave Crocker'>
+<organization>Brandenburg Consulting</organization>
+<address>
+<postal>
+<street>675 Spruce Dr.</street>
+<city>Sunnyvale</city>
+<region>CA</region>
+<code>94086</code>
+<country>US</country></postal>
+<email>dcrocker@mordor.stanford.edu</email></address></author>
+<author initials='E.' surname='Fair' fullname='Erik E. Fair'>
+<organization>Apple Computer Inc., Engineering Computer Operations</organization>
+<address>
+<email>fair@apple.com</email></address></author>
+<date year='1994' month='December' />
+<abstract>
+<t>This memo describes the format to use when sending Apple Macintosh files via MIME. The format is compatible with existing mechanisms for distributing Macintosh files, while allowing non-Macintosh systems access to data in standardized formats.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1740' />
+<format type='TXT' octets='31297' target='http://www.rfc-editor.org/rfc/rfc1740.txt' />
+</reference>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1234'>
+
+<front>
+<title abbrev='IPX on IP'>Tunneling IPX traffic through IP networks</title>
+<author initials='D.' surname='Provan' fullname='Don Provan'>
+<organization>Novell, Inc.</organization>
+<address>
+<postal>
+<street>2180 Fortune Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95131</code>
+<country>US</country></postal>
+<phone>+1 408 473 8440</phone>
+<email>donp@Novell.Com</email></address></author>
+<date year='1991' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='1234' />
+<format type='TXT' octets='12333' target='http://www.rfc-editor.org/rfc/rfc1234.txt' />
+</reference>

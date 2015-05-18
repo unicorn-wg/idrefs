@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1900'>
+
+<front>
+<title>Renumbering Needs Work</title>
+<author initials='B.' surname='Carpenter' fullname='Brian E. Carpenter'>
+<organization>CERN, Computing and Networks Division</organization>
+<address>
+<postal>
+<street>1211 Geneva 23</street>
+<country>CH</country></postal>
+<phone>+41 22 7674967</phone>
+<facsimile>+41 22 7677155</facsimile>
+<email>brian@dxcoms.cern.ch</email></address></author>
+<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
+<organization>cisco Systems</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134</code>
+<country>US</country></postal>
+<phone>+1 914 528 0090</phone>
+<email>yakov@cisco.com</email></address></author>
+<date year='1996' month='February' />
+<abstract>
+<t>Renumbering, i.e., changes in the IP addressing information of various network components, is likely to become more and more widespread and common. The Internet Architecture Board (IAB) would like to stress the need to develop and deploy solutions that would facilitate such changes.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1900' />
+<format type='TXT' octets='9528' target='http://www.rfc-editor.org/rfc/rfc1900.txt' />
+</reference>

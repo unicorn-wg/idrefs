@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0327'>
+
+<front>
+<title>Data and File Transfer workshop notes</title>
+<author initials='A.' surname='Bhushan' fullname='A. Bhushan'>
+<organization>Massachusetts Institute of Technology (MIT), Project MAC</organization></author>
+<date year='1972' day='27' month='April' />
+<abstract>
+<t>On April 14 and 15, 1972, a Data and File Transfer Workshop was held at M.I.T., Cambridge, Mass.</t></abstract></front>
+
+<seriesInfo name='RFC' value='327' />
+<format type='TXT' octets='11792' target='http://www.rfc-editor.org/rfc/rfc327.txt' />
+</reference>

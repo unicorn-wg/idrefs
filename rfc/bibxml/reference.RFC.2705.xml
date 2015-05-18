@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2705'>
+
+<front>
+<title abbrev='Media Gateway Control Protocol (MGCP)'>Media Gateway Control Protocol (MGCP) Version 1.0</title>
+<author initials='M.' surname='Arango' fullname='Mauricio Arango'>
+<organization>RSL COM Latin America</organization>
+<address>
+<postal>
+<street>6300 N.W. 5th Way</street>
+<street>Suite 100</street>
+<city>Fort Lauderdale</city>
+<region>FL</region>
+<code>33309</code>
+<country>US</country></postal>
+<phone>+1 954 492 0913</phone>
+<email>marango@rslcom.com</email></address></author>
+<author initials='A.' surname='Dugan' fullname='Andrew Dugan'>
+<organization>Level3 Communications</organization>
+<address>
+<postal>
+<street>1450 Infinite Drive</street>
+<city>Louisville</city>
+<region>CO</region>
+<code>80027</code>
+<country>US</country></postal>
+<phone>+1 303 926 3123</phone>
+<email>andrew.dugan@l3.com</email></address></author>
+<author initials='I.' surname='Elliott' fullname='Isaac Elliott'>
+<organization>Level3 Communications</organization>
+<address>
+<postal>
+<street>1450 Infinite Drive</street>
+<city>Louisville</city>
+<region>CO</region>
+<code>80027</code>
+<country>US</country></postal>
+<phone>+1 303 926 3123</phone>
+<email>ike.elliott@l3.com</email></address></author>
+<author initials='C.' surname='Huitema' fullname='Christian Huitema'>
+<organization>Telcordia Technologies, MCC 1J236B</organization>
+<address>
+<postal>
+<street>445 South Street</street>
+<city>Morristown</city>
+<region>NJ</region>
+<code>07960</code>
+<country>US</country></postal>
+<phone>+1 973 829 4266</phone>
+<email>huitema@research.telcordia.com</email></address></author>
+<author initials='S.' surname='Pickett' fullname='Scott Pickett'>
+<organization>Vertical Networks</organization>
+<address>
+<postal>
+<street>1148 East Arques Ave</street>
+<city>Sunnyvale</city>
+<region>CA</region>
+<code>94086</code>
+<country>US</country></postal>
+<phone>+1 408 523 9700 x200</phone>
+<email>ScottP@vertical.com</email></address></author>
+<date year='1999' month='October' />
+<abstract>
+<t>This document describes an application programming interface and a corresponding protocol (MGCP) for controlling Voice over IP (VoIP) Gateways from external call control elements. MGCP assumes a call control architecture where the call control "intelligence" is outside the gateways and handled by external call control elements.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2705' />
+<format type='TXT' octets='304056' target='http://www.rfc-editor.org/rfc/rfc2705.txt' />
+</reference>

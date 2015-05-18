@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2412'>
+
+<front>
+<title>The OAKLEY Key Determination Protocol</title>
+<author initials='H.K.' surname='Orman' fullname='Hilarie K. Orman'>
+<organization>University of Arizona, Department of Computer Science</organization>
+<address>
+<email>ho@darpa.mil</email></address></author>
+<date year='1998' month='November' />
+<area>Security</area>
+<keyword>authentication</keyword>
+<abstract>
+<t>
+   This document describes a protocol, named OAKLEY, by which two
+   authenticated parties can agree on secure and secret keying material.
+   The basic mechanism is the Diffie-Hellman key exchange algorithm.
+</t>
+<t>
+   The OAKLEY protocol supports Perfect Forward Secrecy, compatibility
+   with the ISAKMP protocol for managing security associations, user-
+   defined abstract group structures for use with the Diffie-Hellman
+   algorithm, key updates, and incorporation of keys distributed via
+   out-of-band mechanisms.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2412' />
+<format type='TXT' octets='118649' target='http://www.rfc-editor.org/rfc/rfc2412.txt' />
+<format type='HTML' octets='150307' target='http://xml.resource.org/public/rfc/html/rfc2412.html' />
+<format type='XML' octets='129136' target='http://xml.resource.org/public/rfc/xml/rfc2412.xml' />
+</reference>

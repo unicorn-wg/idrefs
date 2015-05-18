@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6651'>
+
+<front>
+<title>Extensions to DomainKeys Identified Mail (DKIM) for Failure Reporting</title>
+<author initials='M.' surname='Kucherawy' fullname='M. Kucherawy'>
+<organization /></author>
+<date year='2012' month='June' />
+<abstract>
+<t>This document presents extensions to the DomainKeys Identified Mail (DKIM) specification to allow for detailed reporting of message authentication failures in an on-demand fashion. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='6651' />
+<format type='TXT' octets='35028' target='http://www.rfc-editor.org/rfc/rfc6651.txt' />
+</reference>

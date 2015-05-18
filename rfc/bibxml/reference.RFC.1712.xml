@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1712'>
+
+<front>
+<title>DNS Encoding of Geographical Location</title>
+<author initials='C.' surname='Farrell' fullname='Craig Farrell'>
+<organization>Curtin University of technology, Department of Computer Science</organization>
+<address>
+<postal>
+<street>GPO Box U1987</street>
+<city>Perth</city>
+<region>Western Australia</region>
+<code />
+<country>AU</country></postal>
+<email>craig@cs.curtin.edu.au</email></address></author>
+<author initials='M.' surname='Schulze' fullname='Mike Schulze'>
+<organization>Curtin University of technology, Department of Computer Science</organization>
+<address>
+<postal>
+<street>GPO Box U1987</street>
+<city>Perth</city>
+<region>Western Australia</region>
+<code />
+<country>AU</country></postal>
+<email>mike@cs.curtin.edu.au</email></address></author>
+<author initials='S.' surname='Pleitner' fullname='Scott Pleitner'>
+<organization>Curtin University of technology, Department of Computer Science</organization>
+<address>
+<postal>
+<street>GPO Box U1987</street>
+<city>Perth</city>
+<region>Western Australia</region>
+<code />
+<country>AU</country></postal>
+<email>pleitner@cs.curtin.edu.au</email></address></author>
+<author initials='D.' surname='Baldoni' fullname='Daniel Baldoni'>
+<organization>Curtin University of technology, Department of Computer Science</organization>
+<address>
+<postal>
+<street>GPO Box U1987</street>
+<city>Perth</city>
+<region>Western Australia</region>
+<code />
+<country>AU</country></postal>
+<email>flint@cs.curtin.edu.au</email></address></author>
+<date year='1994' month='November' />
+<abstract>
+<t>This document defines the format of a new Resource Record (RR) for the Domain Naming System (DNS), and reserves a corresponding DNS type mnemonic and numerical code.  This definition deals with associating geographical host location mappings to host names within a domain. The data shown in this document is fictitious and does not necessarily reflect the real Internet.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1712' />
+<format type='TXT' octets='13237' target='http://www.rfc-editor.org/rfc/rfc1712.txt' />
+</reference>

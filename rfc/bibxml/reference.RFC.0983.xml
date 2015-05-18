@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0983'>
+
+<front>
+<title>ISO transport arrives on top of the TCP</title>
+<author initials='D.' surname='Cass' fullname='D. E. Cass'>
+<organization>Northrop Research and Technology Center (NRTC)</organization></author>
+<author initials='M.' surname='Rose' fullname='M. T. Rose'>
+<organization>Northrop Research and Technology Center (NRTC)</organization></author>
+<date year='1986' day='1' month='April' /></front>
+
+<seriesInfo name='RFC' value='983' />
+<format type='TXT' octets='59819' target='http://www.rfc-editor.org/rfc/rfc983.txt' />
+</reference>

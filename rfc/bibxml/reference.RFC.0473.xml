@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0473'>
+
+<front>
+<title>MIX and MIXAL?</title>
+<author initials='D.C.' surname='Walden' fullname='D.C. Walden'>
+<organization /></author>
+<date year='1973' month='February' /></front>
+
+<seriesInfo name='RFC' value='473' />
+<format type='TXT' octets='868' target='http://www.rfc-editor.org/rfc/rfc473.txt' />
+</reference>

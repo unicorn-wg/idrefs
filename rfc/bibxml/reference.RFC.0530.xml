@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0530'>
+
+<front>
+<title>Report on the Survey Project</title>
+<author initials='A.K.' surname='Bhushan' fullname='A.K. Bhushan'>
+<organization /></author>
+<date year='1973' month='June' /></front>
+
+<seriesInfo name='RFC' value='530' />
+<format type='PDF' octets='408102' target='http://www.rfc-editor.org/rfc/rfc530.pdf' />
+</reference>

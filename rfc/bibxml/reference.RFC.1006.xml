@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1006'>
+
+<front>
+<title>ISO transport services on top of the TCP: Version 3</title>
+<author initials='M.' surname='Rose' fullname='Marshall T. Rose'>
+<organization>Northrop Research and Technology Center</organization></author>
+<author initials='D.' surname='Cass' fullname='Dwight E. Cass'>
+<organization>Northrop Research and Technology Center</organization></author>
+<date year='1987' day='1' month='May' /></front>
+
+<seriesInfo name='STD' value='35' />
+<seriesInfo name='RFC' value='1006' />
+<format type='TXT' octets='31935' target='http://www.rfc-editor.org/rfc/rfc1006.txt' />
+</reference>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1599'>
+
+<front>
+<title abbrev='Summary of 1500-1599'>Summary of 1500-1599</title>
+<author initials='M.' surname='Kennedy' fullname='Mary Kennedy'>
+<organization>University of Southern California (USC), Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511</phone>
+<email>MKENNEDY@ISI.EDU</email></address></author>
+<date year='1997' month='January' /></front>
+
+<seriesInfo name='RFC' value='1599' />
+<format type='TXT' octets='43761' target='http://www.rfc-editor.org/rfc/rfc1599.txt' />
+</reference>

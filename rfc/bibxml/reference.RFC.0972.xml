@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0972'>
+
+<front>
+<title>Password Generator Protocol</title>
+<author initials='F.' surname='Wancho' fullname='F. Wancho'>
+<organization>White Sands Missile Range (WSMR)</organization></author>
+<date year='1986' day='1' month='January' /></front>
+
+<seriesInfo name='RFC' value='972' />
+<format type='TXT' octets='3890' target='http://www.rfc-editor.org/rfc/rfc972.txt' />
+</reference>

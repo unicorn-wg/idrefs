@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2188'>
+
+<front>
+<title abbrev='ESRO'>AT&amp;T/Neda's Efficient Short Remote Operations (ESRO) Protocol Specification Version 1.2</title>
+<author initials='M.' surname='Banan' fullname='Mohsen Banan'>
+<organization>Neda Communications, Inc.</organization>
+<address>
+<postal>
+<street>17005 SE 31st Place</street>
+<city>Bellevue</city>
+<region>WA</region>
+<code>98008</code>
+<country>US</country></postal>
+<email>mohsen@neda.com</email></address></author>
+<author initials='M.' surname='Taylor' fullname='Mark S. Taylor'>
+<organization>AT&amp;T Wireless Services, Wireless Data Division</organization>
+<address>
+<postal>
+<street>10230 NE Points Drive</street>
+<city>Kirkland</city>
+<region>WA</region>
+<code>98033-7869</code>
+<country>US</country></postal>
+<email>mark.taylor@airdata.com</email></address></author>
+<author initials='J.' surname='Cheng' fullname='Jia-bing Cheng'>
+<organization>AT&amp;T Wireless Services, Wireless Data Division</organization>
+<address>
+<postal>
+<street>10230 NE Points Drive</street>
+<city>Kirkland</city>
+<region>WA</region>
+<code>98033-7869</code>
+<country>US</country></postal>
+<email>jcheng@airdata.com</email></address></author>
+<date year='1997' month='September' />
+<abstract>
+<t>This document specifies the service model, the notation and protocol for Efficient Short Remote Operations (ESRO). The ESRO service is similar to and is consistent with other Remote Procedure Call services.  The emphasis of ESRO service definition and the ESRO protocol is on efficiency.  ESRO is designed specifically with wireless network (e.g., CDPD) usage in mind.</t>
+<t>ESRO protocol provides reliable connectionless remote operation services on top of UDP (or any other non-reliable connectionless transport service) with minimum overhead.  ESRO protocol supports segmentation and reassembly, concatenation and separation as well as multiplexing for service users (applications).</t>
+<t>ESRO allows for trade-offs between efficiency and reliability by specifying both 2-way hand-shake and 3-way hand-shake based protocols.</t>
+<t>Encoding mechanisms for presentation of the parameters of remote operations are outside the scope of this document.  But, identification (tagging) of the encoding mechanism in use (e.g., XDR, BER, PER) is supported by ESRO protocol</t>
+<t>A variety of applications can use the ESRO protocol.  Some early applications using ESRO include efficient short message submission and delivery, credit card authorization and white pages lookup.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2188' />
+<format type='TXT' octets='118374' target='http://www.rfc-editor.org/rfc/rfc2188.txt' />
+</reference>

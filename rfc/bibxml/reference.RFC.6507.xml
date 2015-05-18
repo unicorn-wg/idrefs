@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6507'>
+
+<front>
+<title>Elliptic Curve-Based Certificateless Signatures for Identity-Based Encryption (ECCSI)</title>
+<author initials='M.' surname='Groves' fullname='M. Groves'>
+<organization /></author>
+<date year='2012' month='February' />
+<abstract>
+<t>Many signature schemes currently in use rely on certificates for authentication of identity.  In Identity-based cryptography, this adds unnecessary overhead and administration.  The Elliptic Curve-based Certificateless Signatures for Identity-based Encryption (ECCSI) signature scheme described in this document is certificateless.  This scheme has the additional advantages of low bandwidth and low computational requirements.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t></abstract></front>
+
+<seriesInfo name='RFC' value='6507' />
+<format type='TXT' octets='36233' target='http://www.rfc-editor.org/rfc/rfc6507.txt' />
+</reference>

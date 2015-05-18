@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0377'>
+
+<front>
+<title>Using TSO via ARPA Network Virtual Terminal</title>
+<author initials='R.T.' surname='Braden' fullname='R.T. Braden'>
+<organization /></author>
+<date year='1972' month='August' /></front>
+
+<seriesInfo name='RFC' value='377' />
+<format type='TXT' octets='7093' target='http://www.rfc-editor.org/rfc/rfc377.txt' />
+</reference>

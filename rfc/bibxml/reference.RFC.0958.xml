@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0958'>
+
+<front>
+<title abbrev='Network Time Protocol'>Network Time Protocol (NTP)</title>
+<author initials='D.' surname='Mills' fullname='D. L. Mills'>
+<organization>M/A-COM Linkabit</organization></author>
+<date year='1985' day='1' month='September' /></front>
+
+<seriesInfo name='RFC' value='958' />
+<format type='TXT' octets='30723' target='http://www.rfc-editor.org/rfc/rfc958.txt' />
+</reference>

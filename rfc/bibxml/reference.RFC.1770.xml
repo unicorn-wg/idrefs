@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1770'>
+
+<front>
+<title abbrev='Selective Directed Broadcast Protocol'>IPv4 Option for Sender Directed Multi-Destination Delivery</title>
+<author initials='C.' surname='Graff' fullname='Charles Graff'>
+<organization>US Army Communications Electronics Command (CECOM)</organization>
+<address>
+<postal>
+<street>AMSEL-RD-ST-LA-L</street>
+<city>Fort Monmouth</city>
+<region>NJ</region>
+<code>07703</code>
+<country>US</country></postal>
+<phone>+1 908 544 3264</phone>
+<facsimile>+1 908 544 2150</facsimile>
+<email>bud@fotlan5.fotlan.army.mil</email></address></author>
+<date year='1995' month='March' />
+<abstract>
+<t>This memo defines an IPv4 option to provide a sender directed multi-destination delivery mechanism called Selective Directed Broadcast Mode (SDBM).  The SDBM provides unreliable UDP delivery to a set of IP addresses included in the option field of an IPv4 datagram.  Data reliability if required will be provided by the application layer. This approach was developed to support sender directed multi-destination delivery to sparsely populated groups with no additional control traffic.  This approach will find application in the extremely bandwidth constrained tactical military environment, as well as in some commercial applications requiring sender control of data delivery.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1770' />
+<format type='TXT' octets='11606' target='http://www.rfc-editor.org/rfc/rfc1770.txt' />
+</reference>

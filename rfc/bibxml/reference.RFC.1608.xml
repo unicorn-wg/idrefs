@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1608'>
+
+<front>
+<title abbrev='IP Information in the X.500 Directory'>Representing IP Information in the X.500 Directory</title>
+<author initials='T.' surname='Johannsen' fullname='Thomas Johannsen'>
+<organization>Dresden University of Technology, Institute of Communication Technology</organization>
+<address>
+<postal>
+<street />
+<city>Dresden</city>
+<region />
+<code>D-01062</code>
+<country>DE</country></postal>
+<phone>+49 351 4634621</phone>
+<email>Thomas.Johannsen@ifn.et.tu-dresden.de</email></address></author>
+<author initials='G.' surname='Mansfield' fullname='Glenn Mansfield'>
+<organization>AIC Systems Laboratory</organization>
+<address>
+<postal>
+<street>6-6-3 Minami Yoshinari</street>
+<city>Aoba-ku</city>
+<region>Sendai</region>
+<code>989-32</code>
+<country>JP</country></postal>
+<phone>+81 22 2793310</phone>
+<email>glenn@aic.co.jp</email></address></author>
+<author initials='M.' surname='Kosters' fullname='Mark Kosters'>
+<organization>Network Solutions, Inc.</organization>
+<address>
+<postal>
+<street>505 Huntmar Park Dr.</street>
+<city>Herndon</city>
+<region>VA</region>
+<code>22070</code>
+<country>US</country></postal>
+<phone>+1 703 742 4795</phone>
+<email>markk@internic.net</email></address></author>
+<author initials='S.' surname='Sataluri' fullname='Srinivas R. Sataluri'>
+<organization>AT&amp;T Bell Laboratories</organization>
+<address>
+<postal>
+<street>101 Crawfords Corner Road</street>
+<street>Room 1C-429</street>
+<city>Holmdel</city>
+<region>NJ</region>
+<code>07733-3030</code>
+<country>US</country></postal>
+<phone>+1 908 949 7782</phone>
+<email>sri@qsun.att.com</email></address></author>
+<date year='1994' month='March' />
+<abstract>
+<t>This document describes the objects necessary to include information about IP networks and IP numbers in the X.500 Directory. It extends the work "Charting networks in the X.500 Directory"where a general framework is presented for representing networks in the Directory by applying it to IP networks.  This application of the
+ Directory is intended to support the work of IP network assigning authorities, NICs, as well as other applications looking for a mapping of IP numbers to data of related networks. Furthermore, Autonomous Systems and related routing policy information can be represented in the Directory along with their relationship to networks and organizations.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1608' />
+<format type='TXT' octets='40269' target='http://www.rfc-editor.org/rfc/rfc1608.txt' />
+</reference>

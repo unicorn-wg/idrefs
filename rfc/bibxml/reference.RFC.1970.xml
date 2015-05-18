@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1970'>
+
+<front>
+<title>Neighbor Discovery for IP Version 6 (IPv6)</title>
+<author initials='T.' surname='Narten' fullname='Thomas Narten'>
+<organization>IBM Corporation</organization>
+<address>
+<postal>
+<street>P.O. Box 12195</street>
+<city>Research Triangle Park</city>
+<region>NC</region>
+<code>27709-2195</code>
+<country>US</country></postal>
+<phone>+1 919 254 7798</phone>
+<facsimile>+1 919 254 4027</facsimile>
+<email>narten@vnet.ibm.com</email></address></author>
+<author initials='E.' surname='Nordmark' fullname='Erik Nordmark'>
+<organization>Sun Microsystems, Inc.</organization>
+<address>
+<postal>
+<street>2550 Garcia Ave</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94041</code>
+<country>US</country></postal>
+<phone>+1 415 786 5166</phone>
+<facsimile>+1 415 786 5896</facsimile>
+<email>nordmark@sun.com</email></address></author>
+<author initials='W.' surname='Simpson' fullname='William Allen Simpson'>
+<organization>Daydreamer,  Computer Systems Consulting Services</organization>
+<address>
+<postal>
+<street>1384 Fontaine</street>
+<city>Madison Heights</city>
+<region>MI</region>
+<code>48071</code>
+<country>US</country></postal>
+<email>Bill.Simpson@um.cc.umich.edu</email></address></author>
+<date year='1996' month='August' />
+<abstract>
+<t>This document specifies the Neighbor Discovery protocol for IP  Version 6.  IPv6 nodes on the same link use Neighbor Discovery to discover each other's presence, to determine each other's link-layer addresses, to find routers and to maintain reachability information about the paths to active neighbors.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1970' />
+<format type='TXT' octets='197632' target='http://www.rfc-editor.org/rfc/rfc1970.txt' />
+</reference>

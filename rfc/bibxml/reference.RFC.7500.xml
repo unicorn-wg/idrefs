@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7500'>
+
+<front>
+<title>Principles for Operation of Internet Assigned Numbers Authority (IANA) Registries</title>
+<author initials='R.' surname='Housley' fullname='R. Housley'>
+<organization /></author>
+<author initials='O.' surname='Kolkman' fullname='O. Kolkman'>
+<organization /></author>
+<date year='2015' month='April' />
+<abstract>
+<t>This document provides principles for the operation of Internet Assigned Numbers Authority (IANA) registries.</t></abstract></front>
+
+<seriesInfo name='RFC' value='7500' />
+<format type='TXT' octets='15720' target='http://www.rfc-editor.org/rfc/rfc7500.txt' />
+</reference>

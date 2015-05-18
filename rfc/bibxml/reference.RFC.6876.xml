@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6876'>
+
+<front>
+<title>A Posture Transport Protocol over TLS (PT-TLS)</title>
+<author initials='P.' surname='Sangster' fullname='P. Sangster'>
+<organization /></author>
+<author initials='N.' surname='Cam-Winget' fullname='N. Cam-Winget'>
+<organization /></author>
+<author initials='J.' surname='Salowey' fullname='J. Salowey'>
+<organization /></author>
+<date year='2013' month='February' />
+<abstract>
+<t>This document specifies PT-TLS, a TLS-based Posture Transport (PT) protocol.  The PT-TLS protocol carries the Network Endpoint Assessment (NEA) message exchange under the protection of a Transport Layer Security (TLS) secured tunnel.</t></abstract></front>
+
+<seriesInfo name='RFC' value='6876' />
+<format type='TXT' octets='109852' target='http://www.rfc-editor.org/rfc/rfc6876.txt' />
+</reference>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2456'>
+
+<front>
+<title abbrev='APPN TRAPS MIB'>Definitions of Managed Objects for APPN TRAPS</title>
+<author initials='B.' surname='Clouston' fullname='Bob Clouston'>
+<organization>Cisco Systems</organization>
+<address>
+<postal>
+<street>7025 Kit Creek Road</street>
+<street>P.O. Box 14987</street>
+<street>Research Triangle Park</street>
+<region>NC</region>
+<code>27709</code>
+<country>USA</country></postal>
+<phone>+1 919 472 2333</phone>
+<email>clouston@cisco.com</email></address></author>
+<author initials='R.' surname='Moore' fullname='Robert Moore'>
+<organization>IBM Corporation</organization>
+<address>
+<postal>
+<street>3039 Cornwallis</street>
+<street>Dept. BRQA/Bldg. 501/G114</street>
+<street>P.O.Box 12195</street>
+<street>Research Triangle Park</street>
+<region>NC</region>
+<code>27709</code>
+<country>USA</country></postal>
+<phone>+1 919 254 4436</phone>
+<email>remoore@us.ibm.com</email></address></author>
+<date year='1998' month='November' />
+<area>Management</area>
+<keyword>IBM SNA advanced peer-to-peer networking</keyword>
+<keyword>Management Information Base</keyword>
+<keyword>managed object</keyword>
+<abstract>
+<t>
+   This memo defines a portion of the Management Information Base (MIB)
+   for use with network management protocols in the Internet community.
+   In particular, it defines objects for receiving notifications from
+   network devices with APPN (Advanced Peer-to-Peer Network) and DLUR
+   (Dependent LU Requester) capabilities.  This memo identifies
+   notifications for the APPN and DLUR architecture.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2456' />
+<format type='TXT' octets='44023' target='http://www.rfc-editor.org/rfc/rfc2456.txt' />
+<format type='HTML' octets='69173' target='http://xml.resource.org/public/rfc/html/rfc2456.html' />
+<format type='XML' octets='71580' target='http://xml.resource.org/public/rfc/xml/rfc2456.xml' />
+</reference>

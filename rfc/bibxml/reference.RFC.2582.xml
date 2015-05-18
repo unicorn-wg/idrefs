@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2582'>
+
+<front>
+<title abbrev='NewReno Modification to TCP&apos;s Fast Recovery'>The NewReno Modification to TCP's Fast Recovery Algorithm</title>
+<author initials='S.' surname='Floyd' fullname='Sally Floyd'>
+<organization>AT&amp;T Center for Internet Research at ICSI (ACIRI)</organization>
+<address>
+<phone>+1 510 642 4274 x189</phone>
+<email>floyd@acm.org</email></address></author>
+<author initials='T.' surname='Henderson' fullname='Tom Henderson'>
+<organization>University of California at Berkeley</organization>
+<address>
+<phone>+1 510 642 8919</phone>
+<email>tomh@cs.berkeley.edu</email></address></author>
+<date year='1999' month='April' />
+<abstract>
+<t>documents the following four intertwined TCP
+congestion control algorithms:
+Slow Start,
+Congestion Avoidance,
+Fast Retransmit,
+and Fast Recovery.explicitly allows certain modifications of
+these algorithms,
+including modifications that use theTCP Selective Acknowledgement (SACK) optionand modifications that respond to "partial acknowledgments"
+(ACKs which cover new data,
+but not all the data outstanding when loss was detected)
+in the absence of SACK.
+This document describes a specific algorithm for responding to partial
+acknowledgments,
+referred to as NewReno.
+This response to partial acknowledgments was first proposed by Janey
+Hoe in.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2582' />
+<format type='TXT' octets='29393' target='http://www.rfc-editor.org/rfc/rfc2582.txt' />
+</reference>

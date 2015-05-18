@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1119'>
+
+<front>
+<title>Network Time Protocol (version 2) specification and implementation</title>
+<author initials='D.L.' surname='Mills' fullname='D.L. Mills'>
+<organization /></author>
+<date year='1989' month='September' />
+<abstract>
+<t>This document describes the Network Time Protocol (NTP), specifies its formal structure and summarizes information useful for its implementation.  NTP provides the mechanisms to synchronize time and coordinate time distribution in a large, diverse internet operating at rates from mundane to lightwave.  It uses a returnable-time design in which a distributed subnet of time servers operating in a self- organizing, hierarchical-master-slave configuration synchronizes local clocks within the subnet and to national time standards via wire or radio.  The servers can also redistribute reference time via local routing algorithms and time daemons. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='1119' />
+<format type='TXT' octets='143' target='http://www.rfc-editor.org/rfc/rfc1119.txt' />
+<format type='PS' octets='518020' target='http://www.rfc-editor.org/rfc/rfc1119.ps' />
+<format type='PDF' octets='187940' target='http://www.rfc-editor.org/rfc/rfc1119.pdf' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1040'>
+
+<front>
+<title abbrev='Privacy Enhancement for Electronic Mail'>Privacy enhancement for Internet electronic mail: Part I: Message encipherment and authentication procedures</title>
+<author initials='J.' surname='Linn' fullname='J. Linn'>
+<organization>Bolt Baranek and Newman Communications (BBNCC)</organization></author>
+<author>
+<organization>IAB Privacy Task Force</organization></author>
+<date year='1988' day='1' month='January' /></front>
+
+<seriesInfo name='RFC' value='1040' />
+<format type='TXT' octets='76276' target='http://www.rfc-editor.org/rfc/rfc1040.txt' />
+</reference>

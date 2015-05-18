@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0070'>
+
+<front>
+<title>Note on Padding</title>
+<author initials='S.' surname='Crocker' fullname='S. Crocker'>
+<organization>University of California, Los Angeles (UCLA)</organization></author>
+<date year='1970' day='15' month='October' />
+<abstract>
+<t>The padding on a message is a string of the form 10*.  For Hosts with word lengths 16, 32, 48, etc., bits long, this string is necessarily in the last word received from the Imp.</t></abstract></front>
+
+<seriesInfo name='RFC' value='70' />
+<format type='TXT' octets='12790' target='http://www.rfc-editor.org/rfc/rfc70.txt' />
+</reference>

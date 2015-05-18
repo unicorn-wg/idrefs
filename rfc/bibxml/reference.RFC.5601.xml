@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5601'>
+
+<front>
+<title>Pseudowire (PW) Management Information Base (MIB)</title>
+<author initials='T.' surname='Nadeau' fullname='T. Nadeau'>
+<organization /></author>
+<author initials='D.' surname='Zelig' fullname='D. Zelig'>
+<organization /></author>
+<date year='2009' month='July' />
+<abstract>
+<t>This memo defines a Standards Track portion of the Management Information Base for use with network management protocols in the Internet community.  In particular, it describes managed objects for modeling of Pseudowire Edge-to-Edge services carried over a general Packet Switched Network. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='5601' />
+<format type='TXT' octets='129328' target='http://www.rfc-editor.org/rfc/rfc5601.txt' />
+</reference>

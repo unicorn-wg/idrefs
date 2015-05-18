@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1913'>
+
+<front>
+<title>Architecture of the Whois++ Index Service</title>
+<author initials='C.' surname='Weider' fullname='Chris Weider'>
+<organization>Bunyip Information Systems, Inc.</organization>
+<address>
+<postal>
+<street>310 St. Catherine St. West</street>
+<city>Montreal</city>
+<region>Quebec</region>
+<code>H2X 2A1</code>
+<country>CA</country></postal>
+<phone>+1 514 875 8611</phone>
+<facsimile>+1 514 875 6134</facsimile>
+<email>clw@bunyip.com</email></address></author>
+<author initials='J.' surname='Fullton' fullname='Jim Fullton'>
+<organization>MCNC Center for Communications</organization>
+<address>
+<postal>
+<street>3021 Cornwallis Road</street>
+<street>Post Office Box 12889</street>
+<city>Research Triangle Park</city>
+<region>NC</region>
+<code>27709-2889</code>
+<country>US</country></postal>
+<phone>+1 410 795 5422</phone>
+<facsimile>+1 410 795 5422</facsimile>
+<email>fullton@cnidr.org</email></address></author>
+<author initials='S.' surname='Spero' fullname='Simon Spero'>
+<organization />
+<address>
+<email>ses@eit.com</email></address></author>
+<date year='1996' month='February' />
+<abstract>
+<t>The authors describe an architecture for indexing in distributed databases, and apply this to the WHOIS++ protocol.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1913' />
+<format type='TXT' octets='33743' target='http://www.rfc-editor.org/rfc/rfc1913.txt' />
+</reference>

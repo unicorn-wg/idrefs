@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1873'>
+
+<front>
+<title abbrev='Access Type Content-ID'>Message/External-Body Content-ID Access Type</title>
+<author initials='E.' surname='Levinson' fullname='Edward Levinson'>
+<organization>Accurate Information Systems, Inc.</organization>
+<address>
+<postal>
+<street>2 Industrial Way</street>
+<city>Eatontown</city>
+<region>NJ</region>
+<code>07724-2265</code>
+<country>US</country></postal>
+<phone>+1 908 389 5550</phone>
+<email>ELevinson@Accurate.com</email></address></author>
+<author initials='J.' surname='Clark' fullname='James Clark'>
+<organization />
+<address>
+<postal>
+<street>90 Clarendon Road</street>
+<city>London</city>
+<region>England</region>
+<code>W11 2HR</code>
+<country>UK</country></postal>
+<email>jjc@jclark.com</email></address></author>
+<date year='1995' month='December' />
+<abstract>
+<t>When using MIMEto encapsulate a structured object that consist of many elements, for example an SGMLdocument, a single element may occur several times.  An encapsulation normally maps each of the structured objects elements to a MIME entity.  It is useful to include elements that occur multiple time exactly once.  To accomplish that and to preserve the object structure it is desirable to unambiguously refer to another body part of the same message.</t>
+<t>The existing MIME Content-Type Message/External-Body access-types allow a MIME entity (body-part) to refer to an object that is not in the message by specifying how to access that object.  The Content-ID access method described in this document provides the capability to refer to an object within the message.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1873' />
+<format type='TXT' octets='5878' target='http://www.rfc-editor.org/rfc/rfc1873.txt' />
+</reference>

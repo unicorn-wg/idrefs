@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1509'>
+
+<front>
+<title abbrev='GSSAPI - Overview and C bindings'>Generic Security Service API : C-bindings</title>
+<author initials='J.' surname='Wray' fullname='John Wray'>
+<organization>Digital Equipment Corporation (DEC)</organization>
+<address>
+<postal>
+<street>550 King Street</street>
+<street>LKG2-2/AA6</street>
+<city>Littleton</city>
+<region>MA</region>
+<code>01460</code>
+<country>US</country></postal>
+<phone>+1 508 486 5210</phone>
+<email>Wray@tuxedo.enet.dec.com</email></address></author>
+<date year='1993' month='September' />
+<abstract>
+<t>This document specifies C language bindings for the Generic Security Service Application Program Interface (GSS-API), which is described at a language-independent conceptual level in other documents.</t>
+<t>The Generic Security Service Application Programming Interface (GSS-API) provides security services to its callers, and is intended for implementation atop alternative underlying cryptographic mechanisms. Typically, GSS-API callers will be application protocols into which security enhancements are integrated through invocation of services provided by the GSS-API. The GSS-API allows a caller application to authenticate a principal identity associated with a peer application, to delegate rights to a peer, and to apply security services such as confidentiality and integrity on a per-message basis.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1509' />
+<format type='TXT' octets='99608' target='http://www.rfc-editor.org/rfc/rfc1509.txt' />
+</reference>

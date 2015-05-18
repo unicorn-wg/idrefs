@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0747'>
+
+<front>
+<title>Recent extensions to the SUPDUP Protocol</title>
+<author initials='M.' surname='Crispin' fullname='Mark Crispin'>
+<organization>Stanford University, Artifical Intelligence</organization></author>
+<date year='1978' day='21' month='March' /></front>
+
+<seriesInfo name='RFC' value='747' />
+<format type='TXT' octets='2870' target='http://www.rfc-editor.org/rfc/rfc747.txt' />
+</reference>

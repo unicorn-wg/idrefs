@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2583'>
+
+<front>
+<title abbrev='Guidelines for NHC Developers'>Guidelines for Next Hop Client (NHC) Developers</title>
+<author initials='R.' surname='Carlson' fullname='Richard Carlson'>
+<organization>Argonne National Laboratory</organization>
+<address>
+<email>RACarlson@anl.gov</email></address></author>
+<author initials='L.' surname='Winkler' fullname='Linda Winkler'>
+<organization>Argonne National Laboratory</organization>
+<address>
+<email>lwinkler@anl.gov</email></address></author>
+<date year='1999' month='May' />
+<abstract>
+<t>This document provides guidelines for developers of the Next Hop
+Resolution Protocol Clients (NHC).
+It assumes that the clients are
+directly connected to an ATM based NBMA network.
+The same principles
+will apply to clients connected to other types of NBMA networks.
+The
+intent is to define the interaction between the NHC code and the
+TCP/IP protocol stack of the local host operating system.
+The NHC is
+capable of sending NHRP requests to a Next Hop Resolution Protocol
+Server (NHS) to resolve both inter and intra LIS addresses.
+The NHS
+reply may be positive (ACK) indicating a short-cut path is available
+or negative (NAK) indicating that a shortcut is not available and the
+routed path must be used.
+The NHC must cache (maintain state) for
+both the ACK and NAK replies in order to use the correct shortcut or
+routed path.
+The NAK reply must be cached to avoid making repeated
+requests to the NHS when the routed path is being used.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2583' />
+<format type='TXT' octets='21338' target='http://www.rfc-editor.org/rfc/rfc2583.txt' />
+</reference>

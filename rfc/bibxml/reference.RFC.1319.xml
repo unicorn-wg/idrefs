@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1319'>
+
+<front>
+<title abbrev='MD2 Message-Digest Algorithm'>The MD2 Message-Digest Algorithm</title>
+<author initials='B.' surname='Kaliski' fullname='Burton S. Kaliski Jr.'>
+<organization>RSA Laboratories</organization>
+<address>
+<postal>
+<street>10 Twin Dolphin Drive</street>
+<city>Redwood City</city>
+<region>CA</region>
+<code>94065</code>
+<country>US</country></postal>
+<phone>+1 415 595 8782</phone>
+<facsimile>+1 415 595 4126</facsimile>
+<email>burt@rsa.com</email></address></author>
+<date year='1992' month='April' /></front>
+
+<seriesInfo name='RFC' value='1319' />
+<format type='TXT' octets='25661' target='http://www.rfc-editor.org/rfc/rfc1319.txt' />
+</reference>

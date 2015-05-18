@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7259'>
+
+<front>
+<title>The Jabber-ID Header Field</title>
+<author initials='P.' surname='Saint-Andre' fullname='P. Saint-Andre'>
+<organization /></author>
+<date year='2014' month='May' />
+<abstract>
+<t>This document defines a header field that enables the author of an email or netnews message to include a Jabber ID in the message header block for the purpose of associating the author with a particular Extensible Messaging and Presence Protocol (XMPP) address.</t></abstract></front>
+
+<seriesInfo name='RFC' value='7259' />
+<format type='TXT' octets='12816' target='http://www.rfc-editor.org/rfc/rfc7259.txt' />
+</reference>

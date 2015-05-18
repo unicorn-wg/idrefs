@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1458'>
+
+<front>
+<title>Requirements for Multicast Protocols</title>
+<author initials='B.' surname='Braudes' fullname='Bob Braudes'>
+<organization>TASC</organization>
+<address>
+<postal>
+<street>55 Walkers Brook Drive</street>
+<city>Reading</city>
+<region>MA</region>
+<code>01867</code>
+<country>US</country></postal>
+<phone>+1 617 942 2000</phone>
+<email>rebraudes@tasc.com</email></address></author>
+<author initials='S.' surname='Zabele' fullname='Steve Zabele'>
+<organization>TASC</organization>
+<address>
+<postal>
+<street>55 Walkers Brook Drive</street>
+<city>Reading</city>
+<region>MA</region>
+<code>01867</code>
+<country>US</country></postal>
+<phone>+1 617 942 2000</phone>
+<email>gszabele@tasc.com</email></address></author>
+<date year='1993' month='May' /></front>
+
+<seriesInfo name='RFC' value='1458' />
+<format type='TXT' octets='48106' target='http://www.rfc-editor.org/rfc/rfc1458.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3379'>
+
+<front>
+<title>Delegated Path Validation and Delegated Path Discovery Protocol Requirements</title>
+<author initials='D.' surname='Pinkas' fullname='D. Pinkas'>
+<organization /></author>
+<author initials='R.' surname='Housley' fullname='R. Housley'>
+<organization /></author>
+<date year='2002' month='September' /></front>
+
+<seriesInfo name='RFC' value='3379' />
+<format type='TXT' octets='32455' target='http://www.rfc-editor.org/rfc/rfc3379.txt' />
+</reference>

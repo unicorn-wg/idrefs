@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5559'>
+
+<front>
+<title>Pre-Congestion Notification (PCN) Architecture</title>
+<author initials='P.' surname='Eardley' fullname='P. Eardley'>
+<organization /></author>
+<date year='2009' month='June' />
+<abstract>
+<t>This document describes a general architecture for flow admission and termination based on pre-congestion information in order to protect the quality of service of established, inelastic flows within a single Diffserv domain.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='5559' />
+<format type='TXT' octets='134827' target='http://www.rfc-editor.org/rfc/rfc5559.txt' />
+</reference>

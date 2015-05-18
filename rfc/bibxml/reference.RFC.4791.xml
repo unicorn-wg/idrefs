@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4791'>
+
+<front>
+<title abbrev='CalDAV'>Calendaring Extensions to WebDAV (CalDAV)</title>
+<author initials='C.' surname='Daboo' fullname='Cyrus Daboo'>
+<organization abbrev='Apple'>Apple Inc.</organization>
+<address>
+<postal>
+<street>1 Infinite Loop</street>
+<city>Cupertino</city>
+<region>CA</region>
+<code>95014</code>
+<country>USA</country></postal>
+<email>cyrus@daboo.name</email>
+<uri>http://www.apple.com/</uri></address></author>
+<author initials='B.' surname='Desruisseaux' fullname='Bernard Desruisseaux'>
+<organization abbrev='Oracle'>Oracle Corporation</organization>
+<address>
+<postal>
+<street>600 Blvd. de Maisonneuve West</street>
+<street>Suite 1900</street>
+<city>Montreal</city>
+<region>QC</region>
+<code>H3A 3J2</code>
+<country>CANADA</country></postal>
+<email>bernard.desruisseaux@oracle.com</email>
+<uri>http://www.oracle.com/</uri></address></author>
+<author initials='L.M.' surname='Dusseault' fullname='Lisa Dusseault'>
+<organization abbrev='CommerceNet'>CommerceNet</organization>
+<address>
+<postal>
+<street>169 University Ave.</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94301</code>
+<country>USA</country></postal>
+<email>ldusseault@commerce.net</email>
+<uri>http://commerce.net/</uri></address></author>
+<date year='2007' month='March' />
+<area>Applications</area>
+<keyword>calsched</keyword>
+<keyword>calsch</keyword>
+<keyword>caldav</keyword>
+<keyword>calendar</keyword>
+<keyword>calendaring</keyword>
+<keyword>scheduling</keyword>
+<keyword>webdav</keyword>
+<keyword>iCal</keyword>
+<keyword>iCalendar</keyword>
+<keyword>iTIP</keyword>
+<keyword>text/calendar</keyword>
+<keyword>HTTP</keyword>
+<abstract>
+<t>
+      This document defines extensions to the Web Distributed Authoring
+      and Versioning (WebDAV) protocol to specify a standard way of
+      accessing, managing, and sharing calendaring and scheduling
+      information based on the iCalendar format. This document
+	  defines the "calendar-access" feature of CalDAV.
+    </t></abstract></front>
+
+<seriesInfo name='RFC' value='4791' />
+<format type='TXT' octets='206801' target='http://www.rfc-editor.org/rfc/rfc4791.txt' />
+<format type='HTML' octets='300660' target='http://xml.resource.org/public/rfc/html/rfc4791.html' />
+<format type='XML' octets='265793' target='http://xml.resource.org/public/rfc/xml/rfc4791.xml' />
+</reference>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0240'>
+
+<front>
+<title>Site Status</title>
+<author initials='A.' surname='McKenzie' fullname='A. McKenzie'>
+<organization>Bolt Baranek and Newman (BBN)</organization></author>
+<date year='1971' day='30' month='September' />
+<abstract>
+<t>Due to extensive typographic errors in RFC #235, I have decided to reissue the first of our experimental site status reports.</t>
+<t>In compiling RFC #235, I followed the principle that timeliness was somewhat more important than extremely careful editing; this seemed to me to be in keeping with the original RFC philosophy.  I am sorry for any embarrassment this may have caused to anyone associated with the Network, and accept full responsibility for the content of RFC #235.  I will try to do a better job in the future.</t></abstract></front>
+
+<seriesInfo name='RFC' value='240' />
+<format type='TXT' octets='7948' target='http://www.rfc-editor.org/rfc/rfc240.txt' />
+</reference>

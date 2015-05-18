@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1806'>
+
+<front>
+<title abbrev='Content-Disposition'>Communicating Presentation Information in Internet Messages: The Content-Disposition Header</title>
+<author initials='R.' surname='Troost' fullname='Rens Troost'>
+<organization>New Century Systems</organization>
+<address>
+<postal>
+<street>324 East 41st Street #804</street>
+<city>New York</city>
+<region>NY</region>
+<code>10017</code>
+<country>US</country></postal>
+<phone>+1 212 557 2050</phone>
+<facsimile>+1 212 557 2049</facsimile>
+<email>rens@century.com</email></address></author>
+<author initials='S.' surname='Dorner' fullname='Steve Dorner'>
+<organization>QUALCOMM Incorporated</organization>
+<address>
+<postal>
+<street>6455 Lusk Boulevard</street>
+<city>San Diego</city>
+<region>CA</region>
+<code>92121</code>
+<country>US</country></postal>
+<email>sdorner@qualcomm.com</email></address></author>
+<date year='1995' month='June' />
+<abstract>
+<t>This memo provides a mechanism whereby messages conforming to the("MIME") specification can convey presentational information.  It specifies a new "Content-Disposition" header, optional and valid for anyentity ("message" or "body part"). Two values for this header are described in this memo; one for the ordinary linear presentation of the body part, and another to facilitate the use of mail to transfer files. It is expected that more values will be defined in the future, and procedures are defined for extending this set of values.</t>
+<t>This document is intended as an extension to. As such, the reader is assumed to be familiar with, and. The information presented herein supplements but does not replace that found in those documents.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1806' />
+<format type='TXT' octets='15548' target='http://www.rfc-editor.org/rfc/rfc1806.txt' />
+</reference>

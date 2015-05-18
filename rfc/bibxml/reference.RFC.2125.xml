@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2125'>
+
+<front>
+<title abbrev='PPP BAP'>The PPP Bandwidth Allocation Protocol (BAP) The PPP Bandwidth Allocation Control Protocol (BACP)</title>
+<author initials='C.' surname='Richards' fullname='Craig Richards'>
+<organization>Shiva Corporation</organization>
+<address>
+<postal>
+<street>28 Crosby Drive</street>
+<street>Bedford</street>
+<street>MA  01730</street>
+<street>VOICE   +1 617 270 8419</street></postal>
+<facsimile>+1 617 270 8599</facsimile>
+<email>crich@us.shiva.com</email></address></author>
+<author initials='K.' surname='Smith' fullname='Kevin Smith'>
+<organization>Ascend Communications, Inc.</organization>
+<address>
+<postal>
+<street>1275 Harbor Bay Parkway</street>
+<street>Alameda</street>
+<street>CA  94501</street>
+<country>CA</country></postal>
+<email>kevin@ascend.com</email></address></author>
+<date year='1997' month='March' />
+<area>Internet</area>
+<keyword>PPP</keyword>
+<keyword>control protocol</keyword>
+<keyword>point-to-point protocol</keyword>
+<abstract>
+<t>
+   This document proposes a method to manage the dynamic bandwidth
+   allocation of implementations supporting the PPP multilink protocol
+   .  This is done by defining the Bandwidth Allocation Protocol
+   (BAP), as well as its associated control protocol, the Bandwidth
+   Allocation Control Protocol (BACP).  BAP can be used to manage the
+   number of links in a multilink bundle.  BAP defines datagrams to co-
+   ordinate adding and removing individual links in a multilink bundle,
+   as well as specifying which peer is responsible for which decisions
+   regarding managing bandwidth during a multilink connection.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2125' />
+<format type='TXT' octets='49213' target='http://www.rfc-editor.org/rfc/rfc2125.txt' />
+<format type='XML' octets='48838' target='http://xml.resource.org/public/rfc/xml/rfc2125.xml' />
+</reference>

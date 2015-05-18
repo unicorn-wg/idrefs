@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2653'>
+
+<front>
+<title>CIP Transport Protocols</title>
+<author initials='J.' surname='Allen' fullname='Jeff Allen'>
+<organization />
+<address>
+<postal>
+<street>246 Hawthorne Street</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94301</code>
+<country>US</country></postal>
+<email>jeff.allen@acm.org</email></address></author>
+<author initials='P.' surname='Leach' fullname='Paul Leach'>
+<organization>Microsoft</organization>
+<address>
+<postal>
+<street>1 Microsoft Way</street>
+<city>Redmond</city>
+<region>WA</region>
+<code>98052</code>
+<country>US</country></postal>
+<email>paulle@microsoft.com</email></address></author>
+<author initials='R.' surname='Hedberg' fullname='Roland Hedberg'>
+<organization>Catalogix</organization>
+<address>
+<postal>
+<street>Dalsveien 53</street>
+<city>Oslo</city>
+<code>0775</code>
+<country>NO</country></postal>
+<email>roland@catalogix.ac.se</email></address></author>
+<date year='1999' month='August' />
+<abstract>
+<t>This document specifies three protocols for transporting CIP requests, responses and index objects, utilizing TCP, mail, and HTTP. The objects themselves are defined inand the overall CIP architecture is defined in.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2653' />
+<format type='TXT' octets='22999' target='http://www.rfc-editor.org/rfc/rfc2653.txt' />
+</reference>

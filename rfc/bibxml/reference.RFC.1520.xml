@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1520'>
+
+<front>
+<title abbrev='CIDR Provider Information Exchange'>Exchanging Routing Information Across Provider Boundaries in the CIDR Environment</title>
+<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
+<organization>IBM Corporation, T.J. Watson Research Center</organization>
+<address>
+<postal>
+<street>P.O. Box 218</street>
+<city>Yorktown Heights</city>
+<region>NY</region>
+<code>10598</code>
+<country>US</country></postal>
+<phone>+1 914 945 3896</phone>
+<email>yakov@watson.ibm.com</email></address></author>
+<author initials='C.' surname='Topolcic' fullname='Claudio Topolcic'>
+<organization>Corporation for National Research Initiatives</organization>
+<address>
+<postal>
+<street>1895 Preston White Drive</street>
+<street>Suite 100</street>
+<city>Reston</city>
+<region>VA</region>
+<code>22091</code>
+<country>US</country></postal>
+<phone>+1 703 620 8990</phone>
+<email>topolcic@CNRI.Reston.VA.US</email></address></author>
+<date year='1993' month='September' /></front>
+
+<seriesInfo name='RFC' value='1520' />
+<format type='TXT' octets='20389' target='http://www.rfc-editor.org/rfc/rfc1520.txt' />
+</reference>

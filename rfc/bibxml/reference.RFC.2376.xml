@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2376'>
+
+<front>
+<title>XML Media Types</title>
+<author initials='E.J.' surname='Whitehead' fullname='E. James Whitehead, Jr.'>
+<organization>Dept. of Information and Computer Science</organization>
+<address>
+<postal>
+<street>University of California</street>
+<street>Irvine</street>
+<street>Irvine</street>
+<street>CA 92697-3425</street></postal>
+<email>ejw@ics.uci.edu</email></address></author>
+<author initials='M.' surname='Makoto' fullname='Murata Makoto'>
+<organization>Fuji Xerox Information Systems,</organization>
+<address>
+<postal>
+<street>KSP 9A7</street>
+<street>2-1</street>
+<street>Sakado 3-chome</street>
+<street>Takatsu-ku</street>
+<street>Kawasaki-shi</street>
+<street>Kanagawa-ken</street>
+<street>213</street>
+<country>Japan</country></postal>
+<email>murata@fxis.fujixerox.co.jp</email></address></author>
+<date year='1998' month='July' />
+<area>Applications</area>
+<keyword>XML</keyword>
+<keyword>HTML</keyword>
+<keyword>hypertext transfer protocol</keyword>
+<keyword>media type</keyword>
+<keyword>world wide web</keyword>
+<abstract>
+<t>
+   This document proposes two new media subtypes, text/xml and
+   application/xml, for use in exchanging network entities which are
+   conforming Extensible Markup Language (XML). XML entities are
+   currently exchanged via the HyperText Transfer Protocol on the World
+   Wide Web, are an integral part of the WebDAV protocol for remote web
+   authoring, and are expected to have utility in many domains.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2376' />
+<format type='TXT' octets='32143' target='http://www.rfc-editor.org/rfc/rfc2376.txt' />
+<format type='XML' octets='34682' target='http://xml.resource.org/public/rfc/xml/rfc2376.xml' />
+</reference>

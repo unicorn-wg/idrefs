@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0227'>
+
+<front>
+<title>Data transfer rates (Rand/UCLA)</title>
+<author initials='J.' surname='Heafner' fullname='J. Heafner'>
+<organization>Rand Corporation</organization></author>
+<author initials='E.' surname='Harslem' fullname='E. Harslem'>
+<organization>Rand Corporation</organization></author>
+<date year='1971' day='17' month='September' />
+<abstract>
+<t>The attached memo indicates data rates typical of our use of RJS at UCLA CCN.</t></abstract></front>
+
+<seriesInfo name='RFC' value='227' />
+<format type='TXT' octets='2451' target='http://www.rfc-editor.org/rfc/rfc227.txt' />
+</reference>

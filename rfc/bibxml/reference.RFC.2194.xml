@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2194'>
+
+<front>
+<title>Review of Roaming Implementations</title>
+<author initials='B.' surname='Aboba' fullname='Bernard Aboba'>
+<organization>Microsoft Corporation</organization>
+<address>
+<postal>
+<street>One Microsoft Way</street>
+<city>Redmond</city>
+<region>WA</region>
+<code>98052</code>
+<country>US</country></postal>
+<phone>+1 206 936 6605</phone>
+<email>bernarda@microsoft.com</email></address></author>
+<author initials='J.' surname='Lu' fullname='Juan Lu'>
+<organization>AimQuest Corporation</organization>
+<address>
+<postal>
+<street>1381 McCarthy Boulevard</street>
+<city>Milpitas</city>
+<region>CA</region>
+<code>95035</code>
+<country>US</country></postal>
+<phone>+1 408 273 2730 x2762</phone>
+<email>juanlu@aimnet.net</email></address></author>
+<author initials='J.' surname='Alsop' fullname='John Alsop'>
+<organization>i-Pass Alliance Inc.</organization>
+<address>
+<postal>
+<street>650 Castro Street</street>
+<street>Suite 280</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94041</code>
+<country>US</country></postal>
+<phone>+1 415 968 2200</phone>
+<facsimile>+1 415 968 2266</facsimile>
+<email>jalsop@ipass.com</email></address></author>
+<author initials='J.' surname='Ding' fullname='James Ding'>
+<organization>Asiainfo</organization>
+<address>
+<postal>
+<street>13355 Noel Road</street>
+<street>#1340</street>
+<city>Dallas</city>
+<region>TX</region>
+<code>75240</code>
+<country>US</country></postal>
+<phone>+1 214 788 4141</phone>
+<facsimile>+1 214 788 0729</facsimile>
+<email>ding@bjai.asiainfo.com</email></address></author>
+<author initials='W.' surname='Wang' fullname='Wei Wang'>
+<organization>Merit Network, Inc.</organization>
+<address>
+<postal>
+<street>4251 Plymouth Road</street>
+<street>Suite C</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48105-2785</code>
+<country>US</country></postal>
+<phone>+1 313 764 2874</phone>
+<email>weiwang@merit.edu</email></address></author>
+<date year='1997' month='September' />
+<abstract>
+<t>This document reviews the design and functionality of existing roaming implementations. "Roaming capability" may be loosely defined as the ability to use any one of multiple Internet service providers (ISPs), while maintaining a formal, customer-vendor relationship with only one. Examples of cases where roaming capability might be required include ISP "confederations" and ISP-provided corporate network access support.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2194' />
+<format type='TXT' octets='81533' target='http://www.rfc-editor.org/rfc/rfc2194.txt' />
+</reference>

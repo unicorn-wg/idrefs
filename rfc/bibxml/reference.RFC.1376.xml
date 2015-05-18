@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1376'>
+
+<front>
+<title abbrev='PPP DNCP'>The PPP DECnet Phase IV Control Protocol (DNCP)</title>
+<author initials='S.J.' surname='Senum' fullname='Steven J. Senum'>
+<organization>Network Systems Corporation</organization>
+<address>
+<postal>
+<street>7600 Boone Avenue North</street>
+<city>Minneapolis</city>
+<region>MN</region>
+<code>55428</code>
+<country>US</country></postal>
+<phone>+1 612 424 4888</phone>
+<email>sjs@network.com</email></address></author>
+<date year='1992' month='November' />
+<abstract>
+<t>The Point-to-Point Protocol (PPP)provides a standard method of encapsulating Network Layer protocol information over point-to-point links.  PPP also defines an extensible Link Control Protocol, and proposes a family of Network Control Protocols (NCPs) for establishing and configuring different network-layer protocols.</t>
+<t>This document defines the NCP for establishing and configuring Digital's DNA Phase IV Routing protocol (DECnet Phase IV) over PPP. This document applies only to DNA Phase IV Routing messages (both data and control), and not to other DNA Phase IV protocols (MOP, LAT, etc.).</t></abstract></front>
+
+<seriesInfo name='RFC' value='1376' />
+<format type='TXT' octets='12448' target='http://www.rfc-editor.org/rfc/rfc1376.txt' />
+</reference>

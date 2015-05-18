@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1640'>
+
+<front>
+<title abbrev='POISED WG Report'>The Process for Organization of Internet Standards Working Group (POISED)</title>
+<author initials='S.' surname='Crocker' fullname='Steve Crocker'>
+<organization>Trusted Inforamtion Systems, Inc.</organization>
+<address>
+<postal>
+<street>3060 Washington Road</street>
+<city>Glenwood</city>
+<region>MD</region>
+<code>21738</code>
+<country>US</country></postal>
+<phone>+1 301 854 6889</phone>
+<email>crocker@TIS.COM</email></address></author>
+<date year='1994' month='June' />
+<abstract>
+<t>This report, originally prepared in January 1993 provides a summary of the POISED WG, starting from the events leading to the formation of the WG to the end of 1992.  Necessarily, this synopsis represents my own perception, particularly for the "prehistory" period.  Quite a few people hold strong views about both the overall sequence and specific events.  My intent here is to convey as neutral a point of view as possible.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1640' />
+<format type='TXT' octets='21780' target='http://www.rfc-editor.org/rfc/rfc1640.txt' />
+</reference>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7402'>
+
+<front>
+<title>Using the Encapsulating Security Payload (ESP) Transport Format with the Host Identity Protocol (HIP)</title>
+<author initials='P.' surname='Jokela' fullname='P. Jokela'>
+<organization /></author>
+<author initials='R.' surname='Moskowitz' fullname='R. Moskowitz'>
+<organization /></author>
+<author initials='J.' surname='Melen' fullname='J. Melen'>
+<organization /></author>
+<date year='2015' month='April' />
+<abstract>
+<t>This memo specifies an Encapsulating Security Payload (ESP) based mechanism for transmission of user data packets, to be used with the Host Identity Protocol (HIP).  This document obsoletes RFC 5202.</t></abstract></front>
+
+<seriesInfo name='RFC' value='7402' />
+<format type='TXT' octets='88644' target='http://www.rfc-editor.org/rfc/rfc7402.txt' />
+</reference>

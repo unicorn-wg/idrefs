@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0270'>
+
+<front>
+<title>Correction to BBN Report No</title>
+<author initials='A.' surname='McKenzie' fullname='A. McKenzie'>
+<organization>Bolt Baranek and Newman (BBN)</organization></author>
+<date year='1972' day='1' month='January' />
+<abstract>
+<t>In the process of generating RFC #271we have discovered a set of errors in BBN Report No. 1822 (NIC 7958).</t></abstract></front>
+
+<seriesInfo name='RFC' value='270' />
+<format type='TXT' octets='1371' target='http://www.rfc-editor.org/rfc/rfc270.txt' />
+</reference>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1167'>
+
+<front>
+<title abbrev='NREN'>Thoughts on the National Research and Education Network</title>
+<author initials='V.' surname='Cerf' fullname='Vinton G. Cerf'>
+<organization>Corporation for National Research Initiatives (CNRI)</organization>
+<address>
+<postal>
+<street>1895 Preston White Drive</street>
+<street>Suite 100</street>
+<city>Reston</city>
+<region>VA</region>
+<code>22091</code>
+<country>US</country></postal>
+<phone>+1 703 620 8990</phone>
+<email>vcerf@NRI.Reston.VA.US</email></address></author>
+<date year='1990' day='1' month='July' />
+<abstract>
+<t>This contribution seeks to outline and call attention to some of the major factors which will influence the form and structure of a National Research and Education Network (NREN).  It is implicitly assumed that the system will emerge from the existing Internet.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1167' />
+<format type='TXT' octets='20682' target='http://www.rfc-editor.org/rfc/rfc1167.txt' />
+</reference>

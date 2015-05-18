@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3376'>
+
+<front>
+<title>Internet Group Management Protocol, Version 3</title>
+<author initials='B.' surname='Cain' fullname='B. Cain'>
+<organization /></author>
+<author initials='S.' surname='Deering' fullname='S. Deering'>
+<organization /></author>
+<author initials='I.' surname='Kouvelas' fullname='I. Kouvelas'>
+<organization /></author>
+<author initials='B.' surname='Fenner' fullname='B. Fenner'>
+<organization /></author>
+<author initials='A.' surname='Thyagarajan' fullname='A. Thyagarajan'>
+<organization /></author>
+<date year='2002' month='October' /></front>
+
+<seriesInfo name='RFC' value='3376' />
+<format type='TXT' octets='119726' target='http://www.rfc-editor.org/rfc/rfc3376.txt' />
+</reference>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2297'>
+
+<front>
+<title abbrev='Ipsilon&apos;s General Switch Management'>Ipsilon's General Switch Management Protocol Specification Version 2.0</title>
+<author initials='P.' surname='Newman' fullname='Peter Newman'>
+<organization>Nokia</organization>
+<address>
+<postal>
+<street>232 Java Drive</street>
+<city>Sunnyvale</city>
+<region>CA</region>
+<code>94089</code>
+<country>US</country></postal>
+<phone>+1 408 990 2003</phone>
+<email>pn@ipsilon.com</email></address></author>
+<author initials='W.L.' surname='Edwards' fullname='W. L. Edwards'>
+<organization>Sprint Technology Services - Long Distance Division</organization>
+<address>
+<postal>
+<street>9300 Metcalf Avenue</street>
+<street>Mailstop KSOPKB0802</street>
+<city>Overland Park</city>
+<region>KS</region>
+<code>66212-6333</code>
+<country>US</country></postal>
+<phone>+1 913 534 5334</phone>
+<email>texas@sprintcorp.com</email></address></author>
+<author initials='R.M.' surname='Hinden' fullname='Robert M. Hinden'>
+<organization>Nokia</organization>
+<address>
+<postal>
+<street>232 Java Drive</street>
+<city>Sunnyvale</city>
+<region>CA</region>
+<code>94089</code>
+<country>US</country></postal>
+<phone>+1 408 990 2004</phone>
+<email>hinden@ipsilon.com</email></address></author>
+<author initials='E.' surname='Hoffman' fullname='Eric Hoffman'>
+<organization>Nokia</organization>
+<address>
+<postal>
+<street>232 Java Drive</street>
+<city>Sunnyvale</city>
+<region>CA</region>
+<code>94089</code>
+<country>US</country></postal>
+<phone>+1 408 990 2010</phone>
+<email>hoffman@ipsilon.com</email></address></author>
+<author initials='F.C.' surname='Liaw' fullname='Fong Ching Liaw'>
+<organization>Coppercom</organization>
+<address>
+<postal>
+<street /></postal>
+<phone>+1 408 873 2688</phone>
+<email>fong@coppercom.com</email></address></author>
+<author initials='T.' surname='Lyon' fullname='Tom Lyon'>
+<organization>Nokia</organization>
+<address>
+<postal>
+<street>232 Java Drive</street>
+<city>Sunnyvale</city>
+<region>CA</region>
+<code>94089</code>
+<country>US</country></postal>
+<phone>+1 408 990 2001</phone>
+<email>pugs@ipsilon.com</email></address></author>
+<author initials='G.' surname='Minshall' fullname='Greg Minshall'>
+<organization>Fiberlane Communications</organization>
+<address>
+<postal>
+<street>1399 Charleston Road</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<phone>+1 650 237 3164</phone>
+<email>minshall@fiberlane.com</email></address></author>
+<date year='1998' month='March' />
+<abstract>
+<t>This memo specifies enhancements to the  General Switch Management Protocol (GSMP). The major enhancement is the addition of Quality of Service (QoS) messages. Other improvements have been made to the protocol resulting from operational experience. GSMP is a general purpose protocol to control an ATM switch. It allows a controller to establish and release connections across the switch; add and delete leaves on a multicast connection; manage switch ports; request configuration information; and request statistics.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2297' />
+<format type='TXT' octets='280484' target='http://www.rfc-editor.org/rfc/rfc2297.txt' />
+</reference>

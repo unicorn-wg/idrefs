@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2670'>
+
+<front>
+<title abbrev='DOCSIS RF Interface MIB'>Radio Frequency (RF) Interface Management Information Base for MCNS/DOCSIS compliant RF interfaces</title>
+<author initials='M.' surname='St. Johns' fullname='Michael St.Johns'>
+<organization>@Home Network</organization>
+<address>
+<postal>
+<street>425 Broadway</street>
+<city>Redwood City</city>
+<region>CA</region>
+<code>94063</code>
+<country>US</country></postal>
+<phone>+1 650 569 5368</phone>
+<email>stjohns@corp.home.net</email></address></author>
+<date year='1999' month='August' />
+<abstract>
+<t>This memo defines a portion of the Management Information Base (MIB)for use with network management protocols in the Internet community.In particular, it defines a basic set of managed objects for SNMP-based management of MCNS/DOCSIS compliant Radio Frequency (RF)interfaces.</t>
+<t>This memo specifies a MIB module in a manner that is compliant to the SNMP SMIv2. The set of objects are consistent with the SNMP framework and existing SNMP standards.</t>
+<t>This memo is a product of the IPCDN working group within the Internet Engineering Task Force. Comments are solicited and should be addressed to the working group's mailing list at ipcdn@terayon.com and/or the author.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2670' />
+<format type='TXT' octets='141077' target='http://www.rfc-editor.org/rfc/rfc2670.txt' />
+</reference>

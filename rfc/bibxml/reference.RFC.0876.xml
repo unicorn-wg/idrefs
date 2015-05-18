@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0876'>
+
+<front>
+<title>Survey of SMTP implementations</title>
+<author initials='D.' surname='Smallberg' fullname='D. Smallberg'>
+<organization>University of Southern California (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<date year='1983' day='1' month='September' />
+<abstract>
+<t>This memo is a survey of implementation status.  It does not specify an official protocol, but rather notes the status of impementation of aspects of a protocol.  It is expected that the status of the hosts reported on will change.  This information must be treated as a snapshot of the state of these implementations.</t></abstract></front>
+
+<seriesInfo name='RFC' value='876' />
+<format type='TXT' octets='37775' target='http://www.rfc-editor.org/rfc/rfc876.txt' />
+</reference>

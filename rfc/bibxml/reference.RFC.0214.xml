@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0214'>
+
+<front>
+<title>Network checkpoint</title>
+<author initials='E.' surname='Harslem' fullname='E. Harslem'>
+<organization>Rand Corporation</organization></author>
+<date year='1971' day='21' month='August' />
+<abstract>
+<t>As of August 21 we had performed the following verifications with the sites listed below.  These verifications were done on an arranged basis and do not indicate any degree of continuous availability.</t></abstract></front>
+
+<seriesInfo name='RFC' value='214' />
+<format type='TXT' octets='3047' target='http://www.rfc-editor.org/rfc/rfc214.txt' />
+</reference>

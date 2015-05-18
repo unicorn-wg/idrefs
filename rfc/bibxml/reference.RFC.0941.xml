@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0941'>
+
+<front>
+<title abbrev='Network Layer Addressing'>Addendum to the network service definition covering network layer addressing</title>
+<author initials='A.' surname='McKenzie' fullname='Alex McKenzie'>
+<organization>Bolt Baranek and Newman (BBN) Laboratories</organization></author>
+<date year='1985' day='1' month='April' /></front>
+
+<seriesInfo name='RFC' value='941' />
+<format type='TXT' octets='68733' target='http://www.rfc-editor.org/rfc/rfc941.txt' />
+</reference>

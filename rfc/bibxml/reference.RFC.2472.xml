@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2472'>
+
+<front>
+<title abbrev='IPv6 over PPP'>IP Version 6 over PPP</title>
+<author initials='D.' surname='Haskin' fullname='Dimitry Haskin'>
+<organization>Bay Networks, Inc.</organization>
+<address>
+<postal>
+<street>600 Technology Park</street>
+<city>Billerica</city>
+<region>MA</region>
+<code>01821</code>
+<country>USA</country></postal>
+<email>dhaskin@baynetworks.com</email></address></author>
+<author initials='E.' surname='Allen' fullname='Ed Allen'>
+<organization>Bay Networks, Inc.</organization>
+<address>
+<postal>
+<street>600 Technology Park</street>
+<city>Billerica</city>
+<region>MA</region>
+<code>01821</code>
+<country>USA</country></postal>
+<email>eallen@baynetworks.com</email></address></author>
+<date year='1998' month='December' />
+<area>Internet</area>
+<keyword>internet protocol version 6</keyword>
+<keyword>IPv6</keyword>
+<keyword>PPP</keyword>
+<keyword>point-to-point protocol</keyword>
+<abstract>
+<t>
+   The Point-to-Point Protocol (PPP)  provides a standard method of
+   encapsulating Network Layer protocol information over point-to-point
+   links.  PPP also defines an extensible Link Control Protocol, and
+   proposes a family of Network Control Protocols (NCPs) for
+   establishing and configuring different network-layer protocols.
+</t>
+<t>
+   This document defines the method for transmission of IP Version 6 
+   packets over PPP links as well as the Network Control Protocol (NCP)
+   for establishing and configuring the IPv6 over PPP. It also specifies
+   the method of forming IPv6 link-local addresses on PPP links.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2472' />
+<format type='TXT' octets='29696' target='http://www.rfc-editor.org/rfc/rfc2472.txt' />
+<format type='HTML' octets='51202' target='http://xml.resource.org/public/rfc/html/rfc2472.html' />
+<format type='XML' octets='41120' target='http://xml.resource.org/public/rfc/xml/rfc2472.xml' />
+</reference>

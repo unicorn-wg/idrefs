@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1980'>
+
+<front>
+<title>A Proposed Extension to HTML : Client-Side Image Maps</title>
+<author initials='J.L.' surname='Seidman' fullname='James L. Seidman'>
+<organization>Spyglass, Inc.</organization>
+<address>
+<postal>
+<street>1230 East Diehl Road</street>
+<city>Naperville</city>
+<region>IL</region>
+<code>60563</code>
+<country>US</country></postal>
+<email>jim@spyglass.com</email></address></author>
+<date year='1996' month='August' />
+<abstract>
+<t>The markup language known as "HTML/2.0" provides for image maps. Image maps are document elements which allow clicking different areas of an image to reference different network resources, as specified by Uniform Identifier (URIs).  The image map capability in HTML/2.0 is limited in several ways, such as the restriction that it only works with documents served via the "HTTP" protocol, and the lack of a viable fallback for users of text-only browsers.  This document specifies an extension to the HTML language, referred to as "Client- Side Image Maps," which resolves these limitations.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1980' />
+<format type='TXT' octets='13448' target='http://www.rfc-editor.org/rfc/rfc1980.txt' />
+</reference>

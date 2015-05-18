@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2051'>
+
+<front>
+<title abbrev='SNANAU APPC MIB using SMIv2'>Definitions of Managed Objects for APPC using SMIv2</title>
+<author initials='M.' surname='Allen' fullname='Michael Allen'>
+<organization>Wall Data Inc.</organization>
+<address>
+<postal>
+<street>POB 1120</street>
+<city>Kirkland</city>
+<region>WA</region>
+<code>98019</code>
+<country>US</country></postal>
+<phone>+1 206 844 3505</phone>
+<email>mallen@hq.walldata.com</email></address></author>
+<author initials='B.' surname='Clouston' fullname='Bob Clouston'>
+<organization>Cisco Systems</organization>
+<address>
+<postal>
+<street>7025 Kit Creek Road</street>
+<street>PO Box 14987</street>
+<city>Research Triangle Park</city>
+<region>NC</region>
+<code>27709</code>
+<country>US</country></postal>
+<phone>+1 919 472 2333</phone>
+<email>clouston@cisco.com</email></address></author>
+<author initials='Z.' surname='Kielczewski' fullname='Zbigniew Kielczewski'>
+<organization>Cisco Systems</organization>
+<address>
+<postal>
+<street>7025 Kit Creek Road</street>
+<street>PO Box 14987</street>
+<city>Research Triangle Park</city>
+<region>NC</region>
+<code>27709</code>
+<country>US</country></postal>
+<phone>+1 919 472 2326</phone>
+<email>zbig@cisco.com</email></address></author>
+<author initials='W.' surname='Kwan' fullname='William Kwan'>
+<organization>Jupiter Technology Inc.</organization>
+<address>
+<postal>
+<street>200 Prospect St.</street>
+<city>Waltham</city>
+<region>MA</region>
+<code>02254</code>
+<country>US</country></postal>
+<phone>+1 617 894 9300 x423</phone>
+<email>billk@jti.com</email></address></author>
+<author initials='B.' surname='Moore' fullname='Bob Moore'>
+<organization>IBM Corporation</organization>
+<address>
+<postal>
+<street>800 Park Offices Drive</street>
+<street>E87/664</street>
+<street>P.O. Box 12195</street>
+<city>Research Triangle Park</city>
+<region>NC</region>
+<code>27709</code>
+<country>US</country></postal>
+<phone>+1 919 254 4436</phone>
+<email>remoore@ralvm6.vnet.ibm.com</email></address></author>
+<date year='1996' month='October' />
+<abstract>
+<t></t></abstract></front>
+
+<seriesInfo name='RFC' value='2051' />
+<format type='TXT' octets='239359' target='http://www.rfc-editor.org/rfc/rfc2051.txt' />
+</reference>

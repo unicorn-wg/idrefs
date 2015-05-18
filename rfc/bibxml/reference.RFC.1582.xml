@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1582'>
+
+<front>
+<title abbrev='Demand RIP'>Extensions to RIP to Support Demand Circuits</title>
+<author initials='G.' surname='Meyer' fullname='Gerry Meyer'>
+<organization>Spider Systems</organization>
+<address>
+<postal>
+<street>Stanwell Street</street>
+<city>Edinburgh</city>
+<region>Scotland</region>
+<code>EH6 5NG</code>
+<country>UK</country></postal>
+<phone>+44 31 5549424</phone>
+<facsimile>+44 31 5540649</facsimile>
+<email>gerry@spider.co.uk</email></address></author>
+<date year='1994' month='February' />
+<abstract>
+<t>Running routing protocols on connection oriented Public Data Networks, for example X.25 packet switched networks or ISDN, can be expensive if the standard form of periodic broadcasting of routing information is adhered to.  The high cost arises because a connection has to all practical intents and purposes be kept open to every destination to which routing information is to be sent, whether or not it is being used to carry user data.</t>
+<t>Routing information may also fail to be propagated if the number of destinations to which the routing information is to be sent exceeds the number of channels available to the router on the Wide Area Network (WAN).</t>
+<t>This memo defines a generalized modification which can be applied to Bellman-Ford (or distance vector) algorithm information broadcasting protocols, for example IP RIP, Netware RIP or Netware SAP, which overcomes the limitations of the traditional methods described above.</t>
+<t>The routing protocols support a purely triggered update mechanism on demand circuits on WANs.  The protocols run UNMODIFIED on LANs or fixed point-to-point links.</t>
+<t>Routing information is sent on the WAN when the routing database is modified by new routing information received from another interface. When this happens a (triggered) update is sent to a list of destinations on other WAN interfaces.  Because routing protocols are datagram based they are not guaranteed to be received by the peer router on the WAN.  An acknowledgement and retransmission mechanism is provided to ensure that routing updates are received.</t>
+<t>The WAN circuit manager advises the routing applications on the reachability and non-reachability of destinations on the WAN.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1582' />
+<format type='TXT' octets='63271' target='http://www.rfc-editor.org/rfc/rfc1582.txt' />
+</reference>

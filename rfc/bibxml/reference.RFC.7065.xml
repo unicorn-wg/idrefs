@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7065'>
+
+<front>
+<title>Traversal Using Relays around NAT (TURN) Uniform Resource Identifiers</title>
+<author initials='M.' surname='Petit-Huguenin' fullname='M. Petit-Huguenin'>
+<organization /></author>
+<author initials='S.' surname='Nandakumar' fullname='S. Nandakumar'>
+<organization /></author>
+<author initials='G.' surname='Salgueiro' fullname='G. Salgueiro'>
+<organization /></author>
+<author initials='P.' surname='Jones' fullname='P. Jones'>
+<organization /></author>
+<date year='2013' month='November' />
+<abstract>
+<t>This document specifies the syntax of Uniform Resource Identifier (URI) schemes for the Traversal Using Relays around NAT (TURN) protocol.  It defines two URI schemes to provision the TURN Resolution Mechanism (RFC 5928).</t></abstract></front>
+
+<seriesInfo name='RFC' value='7065' />
+<format type='TXT' octets='16143' target='http://www.rfc-editor.org/rfc/rfc7065.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1066'>
+
+<front>
+<title abbrev='MIB'>Management Information Base for network management of TCP/IP-based internets</title>
+<author initials='K.' surname='McCloghrie' fullname='K. McCloghrie'>
+<organization>The Wollongong Group</organization></author>
+<author initials='M.' surname='Rose' fullname='M. Rose'>
+<organization>The Wollongong Group</organization></author>
+<date year='1988' day='1' month='August' /></front>
+
+<seriesInfo name='RFC' value='1066' />
+<format type='TXT' octets='135177' target='http://www.rfc-editor.org/rfc/rfc1066.txt' />
+</reference>

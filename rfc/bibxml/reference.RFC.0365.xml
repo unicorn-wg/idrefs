@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0365'>
+
+<front>
+<title>Letter to All TIP Users</title>
+<author initials='D.' surname='Walden' fullname='David Walden'>
+<organization>Bolt Beranek and Newman Inc. (BBN)</organization></author>
+<date year='1972' day='11' month='July' />
+<abstract>
+<t>You will shortly be sent a revised version of the "TIP User's Guide."  Besides now having a loose leaf format, mainly descriptions of new commands have been added.  Appendix B will be an alphabetical list of all TIP commands.</t></abstract></front>
+
+<seriesInfo name='RFC' value='365' />
+<format type='TXT' octets='10331' target='http://www.rfc-editor.org/rfc/rfc365.txt' />
+</reference>

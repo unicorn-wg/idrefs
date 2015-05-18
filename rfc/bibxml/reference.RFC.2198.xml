@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2198'>
+
+<front>
+<title abbrev='RTP Audio Payload'>RTP Payload for Redundant Audio Data</title>
+<author initials='C.' surname='Perkins' fullname='Colin Perkins'>
+<organization>Department of Computer Science</organization>
+<address>
+<postal>
+<street>Department of Computer Science</street>
+<city>London</city>
+<code>WC1E 6BT</code>
+<country>UK</country></postal>
+<email>c.perkins@cs.ucl.ac.uk</email></address></author>
+<author initials='I.' surname='Kouvelas' fullname='Isidor Kouvelas'>
+<organization>Department of Computer Science</organization>
+<address>
+<postal>
+<street>Department of Computer Science</street>
+<city>London</city>
+<code>WC1E 6BT</code>
+<country>UK</country></postal>
+<email>i.kouvelas@cs.ucl.ac.uk</email></address></author>
+<author initials='O.' surname='Hodson' fullname='Orion Hodson'>
+<organization>Department of Computer Science</organization>
+<address>
+<postal>
+<street>Department of Computer Science</street>
+<city>London</city>
+<code>WC1E 6BT</code>
+<country>UK</country></postal>
+<email>o.hodson@cs.ucl.ac.uk</email></address></author>
+<author initials='V.' surname='Hardman' fullname='Vicky Hardman'>
+<organization>Department of Computer Science</organization>
+<address>
+<postal>
+<street>Department of Computer Science</street>
+<city>London</city>
+<code>WC1E 6BT</code>
+<country>UK</country></postal>
+<email>v.hardman@cs.ucl.ac.uk</email></address></author>
+<author initials='M.' surname='Handley' fullname='Mark Handley'>
+<organization>USC Information Sciences Institute</organization>
+<address>
+<postal>
+<street>c/o MIT Laboratory for Computer Science</street>
+<street>545 Technology Square</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02139</code>
+<country>US</country></postal>
+<email>mjh@isi.edu</email></address></author>
+<author initials='J.' surname='Bolot' fullname='Jean-Chrysostome Bolot'>
+<organization>INRIA Sophia Antipolis</organization>
+<address>
+<postal>
+<street>2004 Route des Lucioles</street>
+<street>BP 93</street>
+<city>Sophia Antipolis</city>
+<code>06902</code>
+<country>FR</country></postal>
+<email>bolot@sophia.inria.fr</email></address></author>
+<author initials='A.' surname='Vega-Garcia' fullname='Andres Vega-Garcia'>
+<organization>INRIA Sophia Antipolis</organization>
+<address>
+<postal>
+<street>2004 Route des Lucioles</street>
+<street>BP 93</street>
+<city>Sophia Antipolis</city>
+<code>06902</code>
+<country>FR</country></postal>
+<email>avega@sophia.inria.fr</email></address></author>
+<author initials='S.' surname='Fosse-Parisis' fullname='Sacha Fosse-Parisis'>
+<organization>INRIA Sophia Antipolis</organization>
+<address>
+<postal>
+<street>2004 Route des Lucioles</street>
+<street>BP 93</street>
+<city>Sophia Antipolis</city>
+<code>06902</code>
+<country>FR</country></postal>
+<email>sfosse@sophia.inria.fr</email></address></author>
+<date year='1997' month='September' />
+<area>Transport</area>
+<keyword>RTP</keyword>
+<keyword>audio</keyword>
+<keyword>real-time transport protocol</keyword>
+<abstract>
+<t>
+   This document describes a payload format for use with the real-time
+   transport protocol (RTP), version 2, for encoding redundant audio
+   data.  The primary motivation for the scheme described herein is the
+   development of audio conferencing tools for use with lossy packet
+   networks such as the Internet Mbone, although this scheme is not
+   limited to such applications.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2198' />
+<format type='TXT' octets='25166' target='http://www.rfc-editor.org/rfc/rfc2198.txt' />
+<format type='XML' octets='28889' target='http://xml.resource.org/public/rfc/xml/rfc2198.xml' />
+</reference>

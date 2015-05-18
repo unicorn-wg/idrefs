@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2690'>
+
+<front>
+<title abbrev='Informational ICANN PSO Proposal'>A Proposal for an MOU-Based ICANN Protocol Support Organization</title>
+<author initials='S.' surname='Bradner' fullname='Scott Bradner'>
+<organization>Harvard University</organization>
+<address>
+<postal>
+<street>1350 Mass Avenue</street>
+<street>Room 876</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal>
+<phone>+1 617 495 3864</phone>
+<email>sob@harvard.edu</email></address></author>
+<date year='1999' month='September' />
+<abstract>
+<t>This is a copy of the proposal for an MOU-based Protocol
+Supporting 
+Organization that was submitted to ICANN on April 23, 1999.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2690' />
+<format type='TXT' octets='14221' target='http://www.rfc-editor.org/rfc/rfc2690.txt' />
+</reference>

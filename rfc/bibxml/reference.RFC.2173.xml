@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2173'>
+
+<front>
+<title abbrev='MAPOS'>A MAPOS version 1 Extension - Node Switch Protocol</title>
+<author initials='K.' surname='Murakami' fullname='Ken Murakami'>
+<organization>NTT Software Laboratories</organization>
+<address>
+<postal>
+<street>3-9-11</street>
+<street>Midori-cho</street>
+<street>Musashino-shi</street>
+<street>Tokyo 180</street>
+<country>Japan</country></postal>
+<email>murakami@ntt-20.ecl.net</email></address></author>
+<author initials='M.' surname='Maruyama' fullname='Mitsuru Maruyama'>
+<organization>NTT Software Laboratories</organization>
+<address>
+<postal>
+<street>3-9-11</street>
+<street>Midori-cho</street>
+<street>Musashino-shi</street>
+<street>Tokyo 180</street>
+<country>Japan</country></postal>
+<email>mitsuru@ntt-20.ecl.net</email></address></author>
+<date year='1997' month='June' />
+<area>Internet</area>
+<keyword>encapsulate</keyword>
+<keyword>synchronous optical network</keyword>
+<abstract>
+<t>
+   This document describes a MAPOS extension, Node Switch Protocol, for
+   automatic node address assignment. MAPOS is a multiple access
+   protocol for transmission of network-protocol datagrams, encapsulated
+   in High-Level Data Link Control (HDLC) frames, over SONET/SDH. NSP
+   automates the HDLC address configuration of each node. Using NSP, a
+   node retrieves its HDLC address from the switch to which it is
+   connected.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2173' />
+<format type='TXT' octets='12251' target='http://www.rfc-editor.org/rfc/rfc2173.txt' />
+<format type='HTML' octets='30266' target='http://xml.resource.org/public/rfc/html/rfc2173.html' />
+<format type='XML' octets='14541' target='http://xml.resource.org/public/rfc/xml/rfc2173.xml' />
+</reference>

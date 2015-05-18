@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1611'>
+
+<front>
+<title>DNS Server MIB Extensions</title>
+<author initials='R.' surname='Austein' fullname='Rob Austein'>
+<organization>Epilogue Technology Corporation</organization>
+<address>
+<postal>
+<street>268 Main Street</street>
+<street>Suite 283</street>
+<city>North Reading</city>
+<region>MA</region>
+<code>01864</code>
+<country>US</country></postal>
+<phone>+1 617 245 0804</phone>
+<facsimile>+1 617 245 8122</facsimile>
+<email>sra@epilogue.com</email></address></author>
+<author initials='J.' surname='Saperia' fullname='Jon Saperia'>
+<organization>Digital Equipment Corporation</organization>
+<address>
+<postal>
+<street>110 Spit Brook Road</street>
+<street>ZKO1-3/H18</street>
+<city>Nashua</city>
+<region>NH</region>
+<code>03062-2698</code>
+<country>US</country></postal>
+<phone>+1 603 881 0480</phone>
+<facsimile>+1 603 881 0120</facsimile>
+<email>saperia@zko.dec.com</email></address></author>
+<date year='1994' month='May' /></front>
+
+<seriesInfo name='RFC' value='1611' />
+<format type='TXT' octets='58700' target='http://www.rfc-editor.org/rfc/rfc1611.txt' />
+</reference>

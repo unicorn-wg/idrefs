@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1095'>
+
+<front>
+<title abbrev='CMOT'>Common Management Information Services and Protocol over TCP/IP (CMOT)</title>
+<author initials='U.' surname='Warrier' fullname='Unnikrishnan S. Warrier'>
+<organization>Unisys Corporation</organization>
+<address>
+<postal>
+<street>2400 Colorado  MS #42-13</street>
+<city>Santa Monica</city>
+<region>CA</region>
+<code>90406</code>
+<country>US</country></postal>
+<phone>+1 213 453 5196</phone>
+<email>unni@cs.ucla.edu</email></address></author>
+<author initials='L.' surname='Besaw' fullname='Larry Besaw'>
+<organization>Hewlett-Packard</organization>
+<address>
+<postal>
+<street>3404 East Harmony Road</street>
+<city>Fort Collins</city>
+<region>CO</region>
+<code>80525</code>
+<country>US</country></postal>
+<phone>+1 303 229 6022</phone>
+<email>lmb%hpcndaw@hplabs.hp.com</email></address></author>
+<date year='1989' day='1' month='April' /></front>
+
+<seriesInfo name='RFC' value='1095' />
+<format type='TXT' octets='157506' target='http://www.rfc-editor.org/rfc/rfc1095.txt' />
+</reference>

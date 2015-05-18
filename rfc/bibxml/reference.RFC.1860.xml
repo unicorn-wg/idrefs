@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1860'>
+
+<front>
+<title abbrev='Subnet Table'>Variable Length Subnet Table For IPv4</title>
+<author initials='T.' surname='Pummill' fullname='Troy Pummill'>
+<organization />
+<address>
+<email>trop@alantec.com</email></address></author>
+<author initials='B.' surname='Manning' fullname='Bill Manning'>
+<organization>University of Southern California, Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292-6695</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511 x387</phone>
+<facsimile>+1 310 823 6714</facsimile>
+<email>bmanning@isi.edu</email></address></author>
+<date year='1995' month='October' />
+<abstract>
+<t>This document itemizes the potential values for IPv4 subnets.  Additional information is provided for Hex and Decmial values, classfull equivalents, and number of addresses available within the indicated block. We appreciate inputs from Bruce Pinsky (cisco) and Daniel Karrenberg (RIPE).</t></abstract></front>
+
+<seriesInfo name='RFC' value='1860' />
+<format type='TXT' octets='5694' target='http://www.rfc-editor.org/rfc/rfc1860.txt' />
+</reference>

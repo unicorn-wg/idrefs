@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2176'>
+
+<front>
+<title abbrev='MAPOS'>IPv4 over MAPOS Version 1</title>
+<author initials='K.' surname='Murakami' fullname='Ken Murakami'>
+<organization>NTT Software Laboratories</organization>
+<address>
+<postal>
+<street>3-9-11</street>
+<street>Midori-cho</street>
+<street>Musashino-shi</street>
+<street>Tokyo-180</street>
+<country>Japan</country></postal>
+<email>murakami@ntt-20.ecl.net</email></address></author>
+<author initials='M.' surname='Maruyama' fullname='Mitsuru Maruyama'>
+<organization>NTT Software Laboratories</organization>
+<address>
+<postal>
+<street>3-9-11</street>
+<street>Midori-cho</street>
+<street>Musashino-shi</street>
+<street>Tokyo-180</street>
+<country>Japan</country></postal>
+<email>mitsuru@ntt-20.ecl.net</email></address></author>
+<date year='1997' month='June' />
+<area>Internet</area>
+<keyword>MAPOS</keyword>
+<keyword>encapsulate</keyword>
+<keyword>internet protocol version 4</keyword>
+<keyword>synchronous optical network</keyword></front>
+
+<seriesInfo name='RFC' value='2176' />
+<format type='TXT' octets='12305' target='http://www.rfc-editor.org/rfc/rfc2176.txt' />
+<format type='HTML' octets='32772' target='http://xml.resource.org/public/rfc/html/rfc2176.html' />
+<format type='XML' octets='15002' target='http://xml.resource.org/public/rfc/xml/rfc2176.xml' />
+</reference>

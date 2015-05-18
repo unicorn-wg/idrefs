@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1938'>
+
+<front>
+<title>A One-Time Password System</title>
+<author initials='N.' surname='Haller' fullname='Neil Haller'>
+<organization>Bellcore</organization>
+<address>
+<postal>
+<street>445 South Street</street>
+<street>MCC 1C-265B</street>
+<city>Morristown</city>
+<region>NJ</region>
+<code>07960-6438</code>
+<country>US</country></postal>
+<phone>+1 201 829 4478</phone>
+<facsimile>+1 201 829 2504</facsimile>
+<email>nmh@bellcore.com</email></address></author>
+<author initials='C.' surname='Metz' fullname='Craig Metz'>
+<organization>Kaman Sciences Corporation</organization>
+<address>
+<postal>
+<street>4555 Overlook Avenue, S.W.</street>
+<street>NRL Code 5544</street>
+<city>Washington</city>
+<region>DC</region>
+<code>20375-5337</code>
+<country>US</country></postal>
+<phone>+1 202 404 7122</phone>
+<facsimile>+1 202 404 7942</facsimile>
+<email>cmetz@cs.nrl.navy.mil</email></address></author>
+<date year='1996' month='May' />
+<abstract>
+<t>This document describes a one-time password authentication system (OTP). The system provides authentication for system access (login) and other applications requiring authentication that is secure against passive attacks based on replaying captured reusable passwords. OTP evolved from the S/KEY (S/KEY is a trademark of Bellcore) One-Time Password System that was released by Bellcore and is described in referencesand.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1938' />
+<format type='TXT' octets='44844' target='http://www.rfc-editor.org/rfc/rfc1938.txt' />
+</reference>

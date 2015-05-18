@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5161'>
+
+<front>
+<title>The IMAP ENABLE Extension</title>
+<author initials='A.' surname='Gulbrandsen' fullname='A. Gulbrandsen'>
+<organization /></author>
+<author initials='A.' surname='Melnikov' fullname='A. Melnikov'>
+<organization /></author>
+<date year='2008' month='March' />
+<abstract>
+<t>Most IMAP extensions are used by the client when it wants to and the server supports it.  However, a few extensions require the server to know whether a client supports that extension.  The ENABLE extension allows an IMAP client to say which extensions it supports. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='5161' />
+<format type='TXT' octets='12220' target='http://www.rfc-editor.org/rfc/rfc5161.txt' />
+</reference>

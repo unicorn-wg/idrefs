@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2283'>
+
+<front>
+<title>Multiprotocol Extensions for BGP-4</title>
+<author initials='T.' surname='Bates' fullname='Tony Bates'>
+<organization>Cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<street>San Jose</street>
+<street>CA 95134</street></postal>
+<email>tbates@cisco.com</email></address></author>
+<author initials='R.' surname='Chandra' fullname='Ravi Chandra'>
+<organization>Cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<street>San Jose</street>
+<street>CA 95134</street></postal>
+<email>rchandra@cisco.com</email></address></author>
+<author initials='D.' surname='Katz' fullname='Dave Katz'>
+<organization>Juniper Networks, Inc.</organization>
+<address>
+<postal>
+<street>3260 Jay St.</street>
+<street>Santa Clara</street>
+<street>CA 95054</street></postal>
+<email>dkatz@jnx.com</email></address></author>
+<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
+<organization>Cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<street>San Jose</street>
+<street>CA 95134</street></postal>
+<email>yakov@cisco.com</email></address></author>
+<date year='1998' month='February' />
+<area>Routing</area>
+<keyword>BGP4</keyword>
+<keyword>border gateway protocol version 4</keyword>
+<keyword>routing</keyword>
+<abstract>
+<t>
+   Currently BGP-4  is capable of carrying routing information
+   only for IPv4 . This document defines extensions to BGP-4 to
+   enable it to carry routing information for multiple Network Layer
+   protocols (e.g., IPv6, IPX, etc...). The extensions are backward
+   compatible - a router that supports the extensions can interoperate
+   with a router that doesn&apos;t support the extensions.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2283' />
+<format type='TXT' octets='18946' target='http://www.rfc-editor.org/rfc/rfc2283.txt' />
+<format type='XML' octets='19412' target='http://xml.resource.org/public/rfc/xml/rfc2283.xml' />
+</reference>

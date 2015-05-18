@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1560'>
+
+<front>
+<title>The MultiProtocol Internet</title>
+<author initials='D.' surname='Leiner' fullname='Barry M. Leiner'>
+<organization>Universities Space Research Association</organization>
+<address>
+<postal>
+<street>625 Ellis Street</street>
+<street>Suite 205</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<phone>+1 415 390 0317</phone>
+<facsimile>+1 415 390 0318</facsimile>
+<email>leiner@nsipo.nasa.gov</email></address></author>
+<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
+<organization>IBM Corp., T.J. Watson Research Center</organization>
+<address>
+<postal>
+<street>P.O. Box 218</street>
+<city>Yorktown Heights</city>
+<region>NY</region>
+<code>10598</code>
+<country>US</country></postal>
+<phone>+1 914 945 3896</phone>
+<email>yakov@watson.ibm.com</email></address></author>
+<date year='1993' month='December' />
+<abstract>
+<t>This document was prepared by the authors on behalf of the Internet Architecture Board (IAB).  It is offered by the IAB to stimulate discussion.</t>
+<t>There has recently been considerable discussion on two topics: MultiProtocol approaches in the Internet and the selection of a next generation Internet Protocol. This document suggests a strawman position for goals and approaches for the IETF/IESG/IAB in these areas. It takes the view that these two topics are related, and proposes directions for the IETF/IESG/IAB to pursue.</t>
+<t>In particular, it recommends that the IETF/IESG/IAB should continue to be a force for consensus on a single protocol suite and internet layer protocol. The IETF/IESG/IAB should:</t>
+<t>- maintain its focus on the TCP/IP protocol suite,</t>
+<t>- work to select a single next-generation internet protocol and develop mechanisms to aid in transition from the current IPv4, and</t>
+<t>- continue to explore mechanisms to interoperate and share resources with other protocol suites within the Internet.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1560' />
+<format type='TXT' octets='16651' target='http://www.rfc-editor.org/rfc/rfc1560.txt' />
+</reference>

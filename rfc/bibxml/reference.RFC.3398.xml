@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3398'>
+
+<front>
+<title>Integrated Services Digital Network (ISDN) User Part (ISUP) to Session Initiation Protocol (SIP) Mapping</title>
+<author initials='G.' surname='Camarillo' fullname='G. Camarillo'>
+<organization /></author>
+<author initials='A.B.' surname='Roach' fullname='A.B. Roach'>
+<organization /></author>
+<author initials='J.' surname='Peterson' fullname='J. Peterson'>
+<organization /></author>
+<author initials='L.' surname='Ong' fullname='L. Ong'>
+<organization /></author>
+<date year='2002' month='December' /></front>
+
+<seriesInfo name='RFC' value='3398' />
+<format type='TXT' octets='166197' target='http://www.rfc-editor.org/rfc/rfc3398.txt' />
+</reference>

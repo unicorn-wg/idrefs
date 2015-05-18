@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1682'>
+
+<front>
+<title>IPng BSD Host Implementation Analysis</title>
+<author initials='J.' surname='Bound' fullname='Jim Bound'>
+<organization>Digital Equipment Corporation</organization>
+<address>
+<postal>
+<street>110 Spitbrook Road</street>
+<street>ZK3-3/U14</street>
+<city>Nashua</city>
+<region>NH</region>
+<code>03062-2698</code>
+<country>US</country></postal>
+<phone>+1 603 881 0400</phone>
+<email>bound@zk3.dec.com</email></address></author>
+<date year='1994' month='August' />
+<abstract>
+<t>This document was submitted to the IETF IPng area in response to RFC 1550.  Publication of this document does not imply acceptance by the IPng area of any ideas expressed within.  Comments should be submitted to the big-internet@munnari.oz.au mailing list.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1682' />
+<format type='TXT' octets='22295' target='http://www.rfc-editor.org/rfc/rfc1682.txt' />
+</reference>

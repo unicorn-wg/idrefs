@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0446'>
+
+<front>
+<title abbrev='Network Program Resource Notebook'>Proposal to consider a network program resource notebook</title>
+<author initials='L.' surname='Deutsch' fullname='L. Peter Deutsch'>
+<organization>Stanford Research Institute (SRI)</organization></author>
+<date year='1973' day='25' month='January' />
+<abstract>
+<t>Since the exchange of knowledge and techniques (not to mention programs) is a central motivating factor in the development of the ARPANET, it seems only reasonable that we begin to systematize the process now that someone (MITRE and the government agencies on whose behalf it is acting) feels there is enough information to be worth collecting.</t>
+<t>Obviously, the network community should be in a position to profit from such compilation at least as much as outside agencies.</t></abstract></front>
+
+<seriesInfo name='RFC' value='446' />
+<format type='TXT' octets='3053' target='http://www.rfc-editor.org/rfc/rfc446.txt' />
+</reference>

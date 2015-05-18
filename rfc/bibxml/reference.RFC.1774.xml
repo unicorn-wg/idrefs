@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1774'>
+
+<front>
+<title>BGP-4 Protocol Analysis</title>
+<author initials='P.' surname='Traina' fullname='Paul Traina'>
+<organization>cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 W. Tasman Dr.</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134</code>
+<country>US</country></postal>
+<email>pst@cisco.com</email></address></author>
+<date year='1995' month='March' />
+<abstract>
+<t></t></abstract></front>
+
+<seriesInfo name='RFC' value='1774' />
+<format type='TXT' octets='23823' target='http://www.rfc-editor.org/rfc/rfc1774.txt' />
+</reference>

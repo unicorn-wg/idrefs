@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0571'>
+
+<front>
+<title>TENEX FTP PROBLEM</title>
+<author initials='R.' surname='Braden' fullname='R. Braden'>
+<organization /></author>
+<date year='1973' month='November' /></front>
+
+<seriesInfo name='RFC' value='571' />
+<format type='TXT' octets='1530' target='http://www.rfc-editor.org/rfc/rfc571.txt' />
+</reference>

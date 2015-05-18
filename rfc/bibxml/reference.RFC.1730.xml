@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1730'>
+
+<front>
+<title abbrev='IMAP4'>Internet Message Access Protocol - Version 4</title>
+<author initials='M.' surname='Crispin' fullname='Mark R. Crispin'>
+<organization>University of Washington, Networks and Distributed Computing</organization>
+<address>
+<postal>
+<street>JE-30</street>
+<city>Seattle</city>
+<region>WA</region>
+<code>98195</code>
+<country>US</country></postal>
+<phone>+1 206 543 5762</phone>
+<email>MRC@CAC.Washington.EDU</email></address></author>
+<date year='1994' month='December' />
+<abstract>
+<t>The Internet Message Access Protocol, Version 4 (IMAP4) allows a client to access and manipulate electronic mail messages on a server. IMAP4 permits manipulation of remote message folders, called "mailboxes", in a way that is functionally equivalent to local mailboxes.  IMAP4 also provides the capability for an offline client to resynchronize with the server (see also).</t>
+<t>IMAP4 includes operations for creating, deleting, and renaming mailboxes; checking for new messages; permanently removing messages; setting and clearing flags; RFC 822 and MIME parsing; searching; and selective fetching of message attributes, texts, and portions thereof.  Messages in IMAP4 are accessed by the use of numbers. These numbers are either message sequence numbers (relative position from 1 to the number of messages in the mailbox) or unique identifiers (immutable, strictly ascending values assigned to each message, but which are not necessarily contiguous).</t>
+<t>IMAP4 supports a single server.  A mechanism for supporting multiple IMAP4 servers is discussed in.</t>
+<t>IMAP4 does not specify a means of posting mail; this function is handled by a mail transfer protocol such as.</t>
+<t>IMAP4 is designed to be upwards compatible from theprotocol.  Compatibility issues are discussed in.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1730' />
+<format type='TXT' octets='156660' target='http://www.rfc-editor.org/rfc/rfc1730.txt' />
+</reference>

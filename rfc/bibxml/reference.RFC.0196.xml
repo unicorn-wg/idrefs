@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0196'>
+
+<front>
+<title>Mail Box Protocol</title>
+<author initials='R.' surname='Watson' fullname='Richard W. Watson'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
+<date year='1971' day='20' month='July' />
+<abstract>
+<t>The purpose of this protocol is to provide at each site a standard mechanism to receive sequential files for immediate or deferred printing or other uses.</t></abstract></front>
+
+<seriesInfo name='RFC' value='196' />
+<format type='TXT' octets='7016' target='http://www.rfc-editor.org/rfc/rfc196.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0016'>
+
+<front>
+<title>M.I.T</title>
+<author initials='S.' surname='Crocker' fullname='Steve Crocker'>
+<organization>University California Los Angeles (UCLA)</organization></author>
+<date year='1969' day='27' month='August' />
+<abstract>
+<t>M.I.T. is now to receive all Network Working Group memos.</t></abstract></front>
+
+<seriesInfo name='RFC' value='16' />
+<format type='TXT' octets='682' target='http://www.rfc-editor.org/rfc/rfc16.txt' />
+</reference>

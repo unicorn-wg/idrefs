@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2161'>
+
+<front>
+<title abbrev='ODA MIME'>A MIME Body Part for ODA</title>
+<author initials='H.T.' surname='Alvestrand' fullname='Harald Tveit Alvestrand'>
+<organization>UNINETT</organization>
+<address>
+<postal>
+<street>Postboks 6883 Elgeseter</street>
+<street>N-7002 TRONDHEIM</street></postal>
+<phone>+47 73 59 70 94</phone>
+<email>Harald.T.Alvestrand@uninett.no</email></address></author>
+<date year='1998' month='January' />
+<area>Applications</area>
+<keyword>ODA</keyword>
+<keyword>ITU message handling service protocol</keyword>
+<keyword>multipurpose internet mail extensions</keyword></front>
+
+<seriesInfo name='RFC' value='2161' />
+<format type='TXT' octets='8009' target='http://www.rfc-editor.org/rfc/rfc2161.txt' />
+<format type='HTML' octets='19379' target='http://xml.resource.org/public/rfc/html/rfc2161.html' />
+<format type='XML' octets='6798' target='http://xml.resource.org/public/rfc/xml/rfc2161.xml' />
+</reference>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5259'>
+
+<front>
+<title>Internet Message Access Protocol - CONVERT Extension</title>
+<author initials='A.' surname='Melnikov' fullname='A. Melnikov'>
+<organization /></author>
+<author initials='P.' surname='Coates' fullname='P. Coates'>
+<organization /></author>
+<date year='2008' month='July' />
+<abstract>
+<t>CONVERT defines extensions to IMAP allowing clients to request adaptation and/or transcoding of attachments.  Clients can specify the conversion details or allow servers to decide based on knowledge of client capabilities, on user or administrator preferences, or on server settings. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='5259' />
+<format type='TXT' octets='63831' target='http://www.rfc-editor.org/rfc/rfc5259.txt' />
+</reference>

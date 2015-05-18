@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1634'>
+
+<front>
+<title abbrev='IPXWAN'>Novell IPX Over Various WAN Media (IPXWAN)</title>
+<author initials='M.' surname='Allen' fullname='Michael Allen'>
+<organization>Novell, Inc.</organization>
+<address>
+<postal>
+<street>2180 Fortune Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95131</code>
+<country>US</country></postal>
+<email>mallen@novell.com</email></address></author>
+<author initials='F.' surname='Baker' fullname='Fred Baker'>
+<organization>Advanced Computer Communications</organization>
+<address>
+<postal>
+<street>315 Bollay Drive</street>
+<city>Santa Barbara</city>
+<region>CA</region>
+<code>93111</code>
+<country>US</country></postal>
+<email>fbaker@acc.com</email></address></author>
+<date year='1994' month='May' />
+<abstract>
+<t>This document describes how Novell IPX operates over various WAN media.  Specifically, it describes the common "IPX WAN" protocol Novell uses to exchange necessary router to router information prior to exchanging standard IPX routing information and traffic over WAN datalinks. This document supercedes RFC 1362 and RFC 1551. The changes from RFC 1551 are to correct a problem in the wording when an RFC 1362 router talks to an RFC 1551 router and to allow numbers to be specified in a Router Name.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1634' />
+<format type='TXT' octets='55347' target='http://www.rfc-editor.org/rfc/rfc1634.txt' />
+</reference>

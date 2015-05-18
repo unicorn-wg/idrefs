@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2390'>
+
+<front>
+<title>Inverse Address Resolution Protocol</title>
+<author initials='T.' surname='Bradley' fullname='Terry Bradley'>
+<organization>Avici Systems, Inc.</organization>
+<address>
+<postal>
+<street>12 Elizabeth Drive</street>
+<street>Chelmsford</street>
+<street>MA  01824</street></postal>
+<phone>(978) 250-3344</phone>
+<email>tbradley@avici.com</email></address></author>
+<author initials='C.' surname='Brown' fullname='Caralyn Brown'>
+<organization>Consultant</organization>
+<address>
+<email>cbrown@juno.com</email></address></author>
+<author initials='A.' surname='Malis' fullname='Andrew Malis'>
+<organization>Ascend Communications, Inc.</organization>
+<address>
+<postal>
+<street>1 Robbins Road</street>
+<street>Westford</street>
+<street>MA  01886</street></postal>
+<phone>(978) 952-7414</phone>
+<email>malis@ascend.com</email></address></author>
+<date year='1998' month='September' />
+<area>Internet</area>
+<keyword>ARP</keyword>
+<keyword>address resolution protocol</keyword>
+<keyword>frame relay</keyword>
+<keyword>inverse address resolution protocol</keyword>
+<keyword>switched virtual circuit</keyword></front>
+
+<seriesInfo name='RFC' value='2390' />
+<format type='TXT' octets='20849' target='http://www.rfc-editor.org/rfc/rfc2390.txt' />
+<format type='XML' octets='22372' target='http://xml.resource.org/public/rfc/xml/rfc2390.xml' />
+</reference>

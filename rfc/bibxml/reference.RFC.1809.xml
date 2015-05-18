@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1809'>
+
+<front>
+<title>Using the Flow Label Field in IPv6</title>
+<author initials='C.' surname='Partridge' fullname='Craig Partridge'>
+<organization>BBN Systems and Technologies</organization>
+<address>
+<postal>
+<street>10 Moulton St.</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal>
+<email>craig@aland.bbn.com</email></address></author>
+<date year='1995' month='June' />
+<abstract>
+<t>The purpose of this memo is to distill various opinions and suggestions of the End-to-End Research Group regarding the handling of Flow Labels into a set of suggestions for IPv6.  This memo is for information purposes only and is not one of the IPv6 specifications. Distribution of this memo is unlimited.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1809' />
+<format type='TXT' octets='13591' target='http://www.rfc-editor.org/rfc/rfc1809.txt' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3374'>
+
+<front>
+<title>Problem Description: Reasons For Performing Context Transfers Between Nodes in an IP Access Network</title>
+<author initials='J.' surname='Kempf' fullname='J. Kempf'>
+<organization /></author>
+<date year='2002' month='September' /></front>
+
+<seriesInfo name='RFC' value='3374' />
+<format type='TXT' octets='28245' target='http://www.rfc-editor.org/rfc/rfc3374.txt' />
+</reference>

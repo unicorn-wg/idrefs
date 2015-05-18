@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2561'>
+
+<front>
+<title abbrev='TN3270E Using SMIv2 MIB'>Base Definitions of Managed Objects for TN3270E Using SMIv2</title>
+<author initials='K.' surname='White' fullname='Kenneth D. White'>
+<organization>IBM Corporation</organization>
+<address>
+<postal>
+<street>3039 Cornwallis</street>
+<street>Dept. BRQA/Bldg. 501/G114</street>
+<street>P.O.Box 12195</street>
+<city>Research Triangle Park</city>
+<region>NC</region>
+<code>27709</code>
+<country>US</country></postal>
+<email>kennethw@vnet.ibm.com</email></address></author>
+<author initials='R.' surname='Moore' fullname='Robert Moore'>
+<organization>IBM Corporation</organization>
+<address>
+<postal>
+<street>3039 Cornwallis</street>
+<street>Dept. BRQA/Bldg. 501/G114</street>
+<street>P.O.Box 12195</street>
+<city>Research Triangle Park</city>
+<region>NC</region>
+<code>27709</code>
+<country>US</country></postal>
+<phone>+1 919 254 4436</phone>
+<email>remoore@us.ibm.com</email></address></author>
+<date year='1999' month='April' />
+<abstract>
+<t>This memo defines a Management Information Base (MIB) for configuring and managing TN3270E servers.  TN3270E, defined by RFC 2355refers to the enhancements made to the Telnet 3270terminal emulation practices.  Refer to RFC 1041, STD 8, RFC 854and STD 31, RFC 860for a sample of what is meant by TN3270 practices.</t>
+<t>The MIB defined by this memo provides generic support for both host and gateway TN3270E server implementations.  A TN3270E server connects a Telnet client performing 3270 emulation to a target SNA host over both a client-side network (client to TN3270E server) and an SNA Network (TN3270E server to target SNA host).  The client-side network is typically TCP/IP, but it need not be.</t>
+<t>A host TN3270E server refers to an implementation where the TN3270E server is collocated with the Systems Network Architecture (SNA) System Services Control Point (SSCP) for the dependent Secondary Logical Units (SLUs) that the server makes available to its clients for connecting into a SNA network.  A gateway TN3270E server resides on an SNA node other than an SSCP, either an SNA type 2.0 node, a boundary-function-attached type 2.1 node, or an APPN node acting in the role of a Dependent LU Requester (DLUR).  Host and gateway TN3270E server implementations typically differ greatly as to their internal implementation and system definition (SYSDEF) methods.</t>
+<t>It is the intent that the MIB defined herein be extended by subsequent memos.  For example, one such extension enables collection of TN3270E response time data.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2561' />
+<format type='TXT' octets='113705' target='http://www.rfc-editor.org/rfc/rfc2561.txt' />
+</reference>

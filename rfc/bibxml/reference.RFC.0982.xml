@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0982'>
+
+<front>
+<title>Guidelines for the specification of the structure of the Domain Specific Part (DSP) of the ISO standard NSAP address</title>
+<author initials='H.' surname='Braun' fullname='Hans-Werner Braun'>
+<organization>University of Michigan</organization>
+<address>
+<postal>
+<street />
+<city />
+<region />
+<code />
+<country>US</country></postal>
+<email>HWB@GW.UMICH.EDU</email></address></author>
+<date year='1986' day='1' month='April' /></front>
+
+<seriesInfo name='RFC' value='982' />
+<format type='TXT' octets='22595' target='http://www.rfc-editor.org/rfc/rfc982.txt' />
+</reference>

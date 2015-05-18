@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5689'>
+
+<front>
+<title>Extended MKCOL for Web Distributed Authoring and Versioning (WebDAV)</title>
+<author initials='C.' surname='Daboo' fullname='C. Daboo'>
+<organization /></author>
+<date year='2009' month='September' />
+<abstract>
+<t>This specification extends the Web Distributed Authoring and Versioning (WebDAV) MKCOL (Make Collection) method to allow collections of arbitrary resourcetype to be created and to allow properties to be set at the same time. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='5689' />
+<format type='TXT' octets='19838' target='http://www.rfc-editor.org/rfc/rfc5689.txt' />
+</reference>

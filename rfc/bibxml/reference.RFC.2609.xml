@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2609'>
+
+<front>
+<title abbrev='Service Templates and URLs'>Service Templates and Service: Schemes</title>
+<author initials='E.' surname='Guttman' fullname='Erik Guttman'>
+<organization>Sun Microsystems</organization>
+<address>
+<postal>
+<street>Bahnstr.  2</street>
+<city>Waibstadt</city>
+<region />
+<code>74915</code>
+<country>DE</country></postal>
+<phone>+49 7263 911484</phone>
+<facsimile>+1 650 786 5992</facsimile>
+<email>erik.guttman@sun.com</email></address></author>
+<author initials='C.' surname='Perkins' fullname='Charles E. Perkins'>
+<organization>Sun Microsystems</organization>
+<address>
+<postal>
+<street>15 Network Circle</street>
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<phone>+1 650 786 6464</phone>
+<facsimile>+1 650 786 6445</facsimile>
+<email>cperkins@sun.com</email></address></author>
+<author initials='J.' surname='Kempf' fullname='James Kempf'>
+<organization>Sun Microsystems</organization>
+<address>
+<postal>
+<street>15 Network Circle</street>
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<phone>+1 650 786 5890</phone>
+<facsimile>+1 650 786 6445</facsimile>
+<email>james.kempf@sun.com</email></address></author>
+<date year='1999' month='June' />
+<abstract>
+<t>The "service:" URL scheme name is used to define URLs (called "service: URLs" in this document) that are primarily intended to be used by the Service Location Protocol in order to distribute service access information.  These schemes provide an extensible framework for client-based network software to obtain configuration information required to make use of network services.  When registering a service: URL, the URL is accompanied by a set of well-defined attributes which define the service.  These attributes convey configuration information to client software, or service characteristics meaningful to end users.</t>
+<t>This document describes a formal procedure for defining and standardizing new service types and attributes for use with the service:" scheme.  The formal descriptions of service types and attributes are templates that are human and machine understandable. They SHOULD be used by administrative tools to parse service
+   registration information and by client applications to provide localized translations of service attribute strings.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2609' />
+<format type='TXT' octets='72842' target='http://www.rfc-editor.org/rfc/rfc2609.txt' />
+</reference>

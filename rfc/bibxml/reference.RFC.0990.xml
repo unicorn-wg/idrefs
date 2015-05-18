@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0990'>
+
+<front>
+<title>Assigned numbers</title>
+<author initials='J.' surname='Reynolds' fullname='J. K. Reynolds'>
+<organization>University of Southern California (USC)/ Information Sciences Institute (ISI)</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292-6695</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone>
+<email>JKREYNOLDS@ISI.EDU</email></address></author>
+<author initials='J.' surname='Postel' fullname='J. Postel'>
+<organization>Information Sciences Institute (ISI)</organization></author>
+<date year='1986' day='1' month='November' /></front>
+
+<seriesInfo name='RFC' value='990' />
+<format type='TXT' octets='174784' target='http://www.rfc-editor.org/rfc/rfc990.txt' />
+</reference>

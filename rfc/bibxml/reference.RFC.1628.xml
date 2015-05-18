@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1628'>
+
+<front>
+<title abbrev='UPS MIB'>UPS Management Information Base</title>
+<author initials='J.' surname='Case' fullname='Jeffrey D. Case.'>
+<organization>SNMP Research, Incorporated</organization>
+<address>
+<postal>
+<street>3001 Kimberlin Heights Road</street>
+<city>Knoxville</city>
+<region>TN</region>
+<code>37920</code>
+<country>US</country></postal>
+<phone>+1 615 573 1434</phone>
+<email>case@SNMP.COM</email></address></author>
+<date year='1994' month='May' />
+<abstract>
+<t></t></abstract></front>
+
+<seriesInfo name='RFC' value='1628' />
+<format type='TXT' octets='83439' target='http://www.rfc-editor.org/rfc/rfc1628.txt' />
+</reference>

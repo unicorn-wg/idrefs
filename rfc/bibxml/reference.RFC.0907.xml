@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0907'>
+
+<front>
+<title>Host Access Protocol specification</title>
+<author>
+<organization>Bolt Beranek and Newman (BBN) Laboratories</organization>
+<address>
+<postal>
+<street>10 Moulton Street</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02238</code>
+<country>US</country></postal></address></author>
+<date year='1984' day='1' month='July' /></front>
+
+<seriesInfo name='STD' value='40' />
+<seriesInfo name='RFC' value='907' />
+<format type='TXT' octets='129985' target='http://www.rfc-editor.org/rfc/rfc907.txt' />
+</reference>

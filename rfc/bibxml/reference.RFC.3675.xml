@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3675'>
+
+<front>
+<title>.sex Considered Dangerous</title>
+<author initials='D.' surname='Eastlake' fullname='D. Eastlake'>
+<organization /></author>
+<date year='2004' month='February' />
+<abstract>
+<t>Periodically there are proposals to mandate the use of a special top level name or an IP address bit to flag "adult" or "unsafe" material or the like.  This document explains why this is an ill considered idea from the legal, philosophical, and particularly, the technical points of view.</t></abstract></front>
+
+<seriesInfo name='RFC' value='3675' />
+<format type='TXT' octets='53211' target='http://www.rfc-editor.org/rfc/rfc3675.txt' />
+</reference>

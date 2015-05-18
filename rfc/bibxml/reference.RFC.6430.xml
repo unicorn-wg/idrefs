@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6430'>
+
+<front>
+<title>Email Feedback Report Type Value: not-spam</title>
+<author initials='K.' surname='Li' fullname='K. Li'>
+<organization /></author>
+<author initials='B.' surname='Leiba' fullname='B. Leiba'>
+<organization /></author>
+<date year='2011' month='November' />
+<abstract>
+<t>This document defines a new Abuse Reporting Format (ARF) feedback report type value: "not-spam".  It can be used to report an email message that was mistakenly marked as spam. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='6430' />
+<format type='TXT' octets='12678' target='http://www.rfc-editor.org/rfc/rfc6430.txt' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0295'>
+
+<front>
+<title abbrev='Protocol Workshop Report'>Report of the Protocol Workshop, 12 October 1971</title>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization /></author>
+<date year='1972' day='2' month='January' /></front>
+
+<seriesInfo name='RFC' value='295' />
+<format type='TXT' octets='5432' target='http://www.rfc-editor.org/rfc/rfc295.txt' />
+</reference>

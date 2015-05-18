@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1036'>
+
+<front>
+<title abbrev='Standard for USENET Messages'>Standard for interchange of USENET messages</title>
+<author initials='M.' surname='Horton' fullname='M. Horton'>
+<organization>AT&amp;T Bell Laboratories</organization></author>
+<author initials='R.' surname='Adams' fullname='R. Adams'>
+<organization>Center for Seismic Studies</organization></author>
+<date year='1987' day='1' month='December' /></front>
+
+<seriesInfo name='RFC' value='1036' />
+<format type='TXT' octets='46891' target='http://www.rfc-editor.org/rfc/rfc1036.txt' />
+</reference>

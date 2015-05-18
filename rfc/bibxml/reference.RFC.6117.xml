@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6117'>
+
+<front>
+<title>IANA Registration of Enumservices: Guide, Template, and IANA Considerations</title>
+<author initials='B.' surname='Hoeneisen' fullname='B. Hoeneisen'>
+<organization /></author>
+<author initials='A.' surname='Mayrhofer' fullname='A. Mayrhofer'>
+<organization /></author>
+<author initials='J.' surname='Livingood' fullname='J. Livingood'>
+<organization /></author>
+<date year='2011' month='March' />
+<abstract>
+<t>This document specifies a revision of the IANA Registration Guidelines for Enumservices, describes corresponding registration procedures, and provides a guideline for creating Enumservice Specifications. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='6117' />
+<format type='TXT' octets='83838' target='http://www.rfc-editor.org/rfc/rfc6117.txt' />
+</reference>

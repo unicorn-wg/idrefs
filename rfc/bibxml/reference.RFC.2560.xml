@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2560'>
+
+<front>
+<title abbrev='PKIX OCSP'>X.509 Internet Public Key Infrastructure Online Certificate Status Protocol - OCSP</title>
+<author initials='M.' surname='Myers' fullname='Michael Myers'>
+<organization>VeriSign, Inc.</organization>
+<address>
+<postal>
+<street>1350 Charleston Road</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<email>mmyers@verisign.com</email></address></author>
+<author initials='R.' surname='Ankney' fullname='Rich Ankney'>
+<organization>CertCo, LLC</organization>
+<address>
+<postal>
+<street>13506 King Charles Dr.</street>
+<city>Chantilly</city>
+<region>VA</region>
+<code>20151</code>
+<country>US</country></postal>
+<email>rankney@erols.com</email></address></author>
+<author initials='A.' surname='Malpani' fullname='Ambarish Malpani'>
+<organization>ValiCert, Inc.</organization>
+<address>
+<postal>
+<street>1215 Terra Bella Avenue</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<phone>+1 650 567 5457</phone>
+<email>ambarish@valicert.com</email></address></author>
+<author initials='S.' surname='Galperin' fullname='Slava Galperin'>
+<organization>My CFO, Inc.</organization>
+<address>
+<postal>
+<street>1945 Charleston Road</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<email>galperin@mycfo.com</email></address></author>
+<author initials='C.' surname='Adams' fullname='Carlisle Adams'>
+<organization>Entrust Technologies</organization>
+<address>
+<postal>
+<street>750 Heron Road</street>
+<street>Suite E08</street>
+<city>Ottawa</city>
+<region>Ontario</region>
+<code>K1V 1A7</code>
+<country>CA</country></postal>
+<email>cadams@entrust.com</email></address></author>
+<date year='1999' month='June' />
+<abstract>
+<t>This document specifies a protocol useful in determining the current
+   status of a digital certificate without requiring CRLs. Additional
+   mechanisms addressing PKIX operational requirements are specified in
+   separate documents.</t>
+<t>An overview of the protocol is provided in section 2. Functional
+   requirements are specified in section 4. Details of the protocol are
+   in section 5. We cover security issues with the protocol in section
+   6. Appendix A defines OCSP over HTTP, appendix B accumulates ASN.1
+   syntactic elements and appendix C specifies the mime types for the
+   messages.</t>
+<t>The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
+   "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this
+   document (in uppercase, as shown) are to be interpreted as described
+   in.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2560' />
+<format type='TXT' octets='43243' target='http://www.rfc-editor.org/rfc/rfc2560.txt' />
+</reference>

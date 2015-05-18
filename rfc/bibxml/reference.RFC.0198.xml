@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0198'>
+
+<front>
+<title>Site Certification - Lincoln Labs 360/67</title>
+<author initials='J.' surname='Heafner' fullname='J. Heafner'>
+<organization>Rand Corporation</organization></author>
+<date year='1971' day='20' month='July' />
+<abstract>
+<t>We have exercised Lincoln Labs Network software as follows: NCP, ICP, ASCII Telnet (user and server), login procedure, access to CMS, and operator and console communication.  All  behave  according  to  current specifications.</t></abstract></front>
+
+<seriesInfo name='RFC' value='198' />
+<format type='TXT' octets='855' target='http://www.rfc-editor.org/rfc/rfc198.txt' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0160'>
+
+<front>
+<title>RFC brief list</title>
+<author>
+<organization>SRI/Network Information Center</organization></author>
+<date year='1971' month='May' /></front>
+
+<seriesInfo name='RFC' value='160' />
+<format type='TXT' octets='12173' target='http://www.rfc-editor.org/rfc/rfc160.txt' />
+</reference>

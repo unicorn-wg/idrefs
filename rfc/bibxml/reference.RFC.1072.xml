@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1072'>
+
+<front>
+<title>TCP extensions for long-delay paths</title>
+<author initials='V.' surname='Jacobson' fullname='V. Jacobson'>
+<organization>Lawrence Berkeley Laboratory (LBL)</organization></author>
+<author initials='R.' surname='Braden' fullname='R. Braden'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<date year='1988' day='1' month='October' /></front>
+
+<seriesInfo name='RFC' value='1072' />
+<format type='TXT' octets='36000' target='http://www.rfc-editor.org/rfc/rfc1072.txt' />
+</reference>

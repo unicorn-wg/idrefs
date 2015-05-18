@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0611'>
+
+<front>
+<title abbrev='Changes to IMP/Host Protocol'>Two changes to the IMP/Host Protocol to improve user/network communications</title>
+<author initials='D.' surname='Walden' fullname='D. Walden'>
+<organization>Bolt Beranek and Newman Inc. (BBN), Network Control Center (NET)</organization></author>
+<date year='1974' day='14' month='February' /></front>
+
+<seriesInfo name='RFC' value='611' />
+<format type='TXT' octets='7481' target='http://www.rfc-editor.org/rfc/rfc611.txt' />
+</reference>

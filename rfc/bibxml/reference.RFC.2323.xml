@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2323'>
+
+<front>
+<title abbrev='Identification/Security Guidelines'>IETF Identification and Security Guidelines</title>
+<author initials='A.' surname='Ramos' fullname='Alegre Ramos'>
+<organization>USC/ISI</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way #1001</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292</code></postal>
+<phone>310-822-1511 x153</phone>
+<email>ramos@isi.edu</email></address></author>
+<date year='1998' day='1' month='April' />
+<area>General</area>
+<area>Security</area>
+<keyword>Internet Engineering Task Force</keyword>
+<keyword>identification</keyword>
+<keyword>security</keyword>
+<abstract>
+<t>
+
+   This RFC is meant to represent a guideline by which the IETF
+
+   conferences may run more effeciently with regards to identification
+
+   and security protocols, with specific attention paid to a particular
+
+   sub-group within the IETF: "facial hairius extremis".
+</t>
+<t>
+
+
+   This document will shed further illumination on these problems and
+
+   provide some possible solutions.
+
+</t>
+<t>
+
+   This memo provides entertainment for the Internet community.  It does
+
+   not specify an Internet standard of any kind, but is rather
+
+   unstandard, actually.  Please laugh loud and hard.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2323' />
+<format type='TXT' octets='9257' target='http://www.rfc-editor.org/rfc/rfc2323.txt' />
+<format type='HTML' octets='18033' target='http://xml.resource.org/public/rfc/html/rfc2323.html' />
+<format type='XML' octets='7945' target='http://xml.resource.org/public/rfc/xml/rfc2323.xml' />
+</reference>

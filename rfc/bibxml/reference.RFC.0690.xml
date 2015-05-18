@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0690'>
+
+<front>
+<title>Comments on the proposed Host/IMP Protocol changes</title>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>University of Southern California (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<date year='1975' day='6' month='June' />
+<abstract>
+<t>This is a set of comments on Dave Walden's RFC 687 suggesting a set of changes to the host--imp protocol.</t></abstract></front>
+
+<seriesInfo name='RFC' value='690' />
+<format type='TXT' octets='7215' target='http://www.rfc-editor.org/rfc/rfc690.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0268'>
+
+<front>
+<title>Graphics facilities information</title>
+<author initials='J.' surname='Postel' fullname='J. Postel'>
+<organization>University California Los Angeles (UCLA), Computer Science Department, Network Measurement Center (NMC)</organization></author>
+<date year='1971' day='24' month='November' />
+<abstract>
+<t>It was suggested at the recent network graphics meeting (@ SAIL 21-23 November) that it would be a good idea to include in the Resources Notebook information about the graphics facilities at each site.</t></abstract></front>
+
+<seriesInfo name='RFC' value='268' />
+<format type='TXT' octets='1298' target='http://www.rfc-editor.org/rfc/rfc268.txt' />
+</reference>

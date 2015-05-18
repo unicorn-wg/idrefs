@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1846'>
+
+<front>
+<title>SMTP 521 Reply Code</title>
+<author initials='A.' surname='Durand' fullname='Alain Durand'>
+<organization>Institut de Mathematiques Appliquees de Grenoble (IMAG)</organization>
+<address>
+<postal>
+<street>BP 53 38041 Grenoble</street>
+<street>CEDEX 9</street>
+<region />
+<code />
+<country>FR</country></postal>
+<phone>+33 76 635703</phone>
+<facsimile>+33 76 446675</facsimile>
+<email>Alain.Durand@imag.fr</email></address></author>
+<author initials='F.' surname='Dupont' fullname='Francis Dupont'>
+<organization>Institut National de Recherche en Informatique et en Automatique</organization>
+<address>
+<postal>
+<street>B.P. 105 / 78153 Le Chesnay</street>
+<street>CEDEX</street>
+<region />
+<code />
+<country>FR</country></postal>
+<phone>+33 1 39635213</phone>
+<facsimile>+33 1 39635330</facsimile>
+<email>Francis.Dupont@inria.fr</email></address></author>
+<date year='1995' month='September' />
+<abstract>
+<t>This memo defines a new Simple Mail Transfer Protocol (SMTP)reply code, 521, which one may use to indicate that an Internet host does not accept incoming mail.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1846' />
+<format type='TXT' octets='6558' target='http://www.rfc-editor.org/rfc/rfc1846.txt' />
+</reference>

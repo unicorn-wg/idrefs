@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1961'>
+
+<front>
+<title>GSS-API Authentication Method for SOCKS Version 5</title>
+<author initials='P.V.' surname='McMahon' fullname='P. V. McMahon'>
+<organization>ICL Enterprises</organization>
+<address>
+<postal>
+<street>Kings House</street>
+<street>33 Kings Road</street>
+<city>Reading</city>
+<region>England</region>
+<code>RG1 3PX</code>
+<country>UK</country></postal>
+<phone>+44 1734 634882</phone>
+<facsimile>+44 1734 855106</facsimile>
+<email>p.v.mcmahon@rea0803.wins.icl.co.uk</email></address></author>
+<date year='1996' month='June' /></front>
+
+<seriesInfo name='RFC' value='1961' />
+<format type='TXT' octets='16036' target='http://www.rfc-editor.org/rfc/rfc1961.txt' />
+</reference>

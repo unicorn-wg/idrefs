@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2921'>
+
+<front>
+<title>6BONE pTLA and pNLA Formats (pTLA)</title>
+<author initials='B.' surname='Fink' fullname='B. Fink'>
+<organization /></author>
+<date year='2000' month='September' />
+<abstract>
+<t>This memo defines how the 6bone uses the 3FFE::/16 IPv6 address prefix, allocated in RFC 2471, "IPv6 Testing Address Allocation", to create pseudo Top-Level Aggregation Identifiers (pTLA's) and pseudo Next-Level Aggregation Identifiers (pNLA's).  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2921' />
+<format type='TXT' octets='14218' target='http://www.rfc-editor.org/rfc/rfc2921.txt' />
+</reference>

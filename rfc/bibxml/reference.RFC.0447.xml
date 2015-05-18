@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0447'>
+
+<front>
+<title abbrev='IMP/TIP Memory Retrofit Schedule (Rev 1)'>IMP/TIP memory retrofit schedule</title>
+<author initials='A.' surname='McKenzie' fullname='Alex A. McKenzie'>
+<organization>Bolt Baranek and Newman (BBN), NET</organization></author>
+<date year='1973' day='29' month='January' />
+<abstract>
+<t>This revision contains two major changes to RFC #434.</t></abstract></front>
+
+<seriesInfo name='RFC' value='447' />
+<format type='TXT' octets='2332' target='http://www.rfc-editor.org/rfc/rfc447.txt' />
+</reference>

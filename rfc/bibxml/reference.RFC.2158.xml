@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2158'>
+
+<front>
+<title>X.400 Image Body Parts</title>
+<author initials='H.T.' surname='Alvestrand' fullname='Harald Tveit Alvestrand'>
+<organization>UNINETT</organization>
+<address>
+<postal>
+<street>Postboks 6883 Elgeseter</street>
+<street>N-7002 TRONDHEIM</street></postal>
+<phone>+47 73 59 70 94</phone>
+<email>Harald.T.Alvestrand@uninett.no</email></address></author>
+<date year='1998' month='January' />
+<area>Applications</area>
+<keyword>X.400</keyword>
+<keyword>ITU message handling service protocol</keyword>
+<keyword>multipurpose internet mail extensions</keyword></front>
+
+<seriesInfo name='RFC' value='2158' />
+<format type='TXT' octets='5547' target='http://www.rfc-editor.org/rfc/rfc2158.txt' />
+<format type='HTML' octets='19614' target='http://xml.resource.org/public/rfc/html/rfc2158.html' />
+<format type='XML' octets='5213' target='http://xml.resource.org/public/rfc/xml/rfc2158.xml' />
+</reference>

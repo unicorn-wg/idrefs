@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0249'>
+
+<front>
+<title>Coordination of equipment and supplies purchase</title>
+<author initials='R.' surname='Borelli' fullname='R. F. Borelli'>
+<organization>University of Illinois, Center for Advanced Computation</organization>
+<address>
+<postal>
+<street />
+<city>Urbana</city>
+<region>IL</region>
+<code>61801</code>
+<country>US</country></postal>
+<phone>+1 217 333 6375</phone></address></author>
+<date year='1971' day='8' month='October' />
+<abstract>
+<t>The purpose of this message is to pass on to all members of the Network an agreement reached between Messrs. Steve Crocker of ARPA and R. F. Borelli of the University of Illinois.  The Center for Advanced Computation has agreed to study the feasibility of a coordinating point for purchases of equipment and supplies to be used on the network.</t></abstract></front>
+
+<seriesInfo name='RFC' value='249' />
+<format type='TXT' octets='4561' target='http://www.rfc-editor.org/rfc/rfc249.txt' />
+</reference>

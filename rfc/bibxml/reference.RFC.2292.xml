@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2292'>
+
+<front>
+<title abbrev='IPv6 Sockets'>Advanced Sockets API for IPv6</title>
+<author initials='W.R.' surname='Stevens' fullname='W. Richard Stevens'>
+<organization />
+<address>
+<postal>
+<street>1202 E. Paseo del Zorro</street>
+<street>Tucson</street>
+<street>AZ  85718</street></postal>
+<email>rstevens@kohala.com</email></address></author>
+<author initials='M.' surname='Thomas' fullname='Matt Thomas'>
+<organization>AltaVista Internet Software</organization>
+<address>
+<postal>
+<street>LJO2-1/J8</street>
+<street>30 Porter Rd</street>
+<street>Littleton</street>
+<street>MA  01460</street></postal>
+<email>matt.thomas@altavista-software.com</email></address></author>
+<date year='1998' month='February' />
+<area>Internet</area>
+<keyword>IPv6</keyword>
+<keyword>application program interface</keyword>
+<keyword>internet protocol version 6</keyword>
+<keyword>socket</keyword>
+<abstract>
+<t>
+   Specifications are in progress for changes to the sockets API to
+   support IP version 6 .  These changes are for TCP and UDP-
+   based applications and will support most end-user applications in use
+   today: Telnet and FTP clients and servers, HTTP clients and servers,
+   and the like.
+</t>
+<t>
+   But another class of applications exists that will also be run under
+   IPv6.  We call these &quot;advanced&quot; applications and today this includes
+   programs such as Ping, Traceroute, routing daemons, multicast routing
+   daemons, router discovery daemons, and the like.  The API feature
+   typically used by these programs that make them &quot;advanced&quot; is a raw
+   socket to access ICMPv4, IGMPv4, or IPv4, along with some knowledge
+   of the packet header formats used by these protocols.  To provide
+   portability for applications that use raw sockets under IPv6, some
+   standardization is needed for the advanced API features.
+</t>
+<t>
+   There are other features of IPv6 that some applications will need to
+   access: interface identification (specifying the outgoing interface
+   and determining the incoming interface) and IPv6 extension headers
+   that are not addressed in : Hop-by-Hop options, Destination
+   options, and the Routing header (source routing).  This document
+   provides API access to these features too.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2292' />
+<format type='TXT' octets='152077' target='http://www.rfc-editor.org/rfc/rfc2292.txt' />
+<format type='XML' octets='150338' target='http://xml.resource.org/public/rfc/xml/rfc2292.xml' />
+</reference>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4937'>
+
+<front>
+<title>IANA Considerations for PPP over Ethernet (PPPoE)</title>
+<author initials='P.' surname='Arberg' fullname='P. Arberg'>
+<organization /></author>
+<author initials='V.' surname='Mammoliti' fullname='V. Mammoliti'>
+<organization /></author>
+<date year='2007' month='June' />
+<abstract>
+<t>This document describes the IANA considerations for the PPP over Ethernet (PPPoE) protocol.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='4937' />
+<format type='TXT' octets='11070' target='http://www.rfc-editor.org/rfc/rfc4937.txt' />
+</reference>

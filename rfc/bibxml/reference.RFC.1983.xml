@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1983'>
+
+<front>
+<title>Internet Users' Glossary</title>
+<author initials='G.' surname='Malkin' fullname='Gary Scott Malkin'>
+<organization>Xylogics/Bay Networks</organization>
+<address>
+<postal>
+<street>53 Third Avenue</street>
+<city>Burlington</city>
+<region>MA</region>
+<code>01803</code>
+<country>US</country></postal>
+<phone>+1 617 238 6237</phone>
+<email>gmalkin@Xylogics.COM</email></address></author>
+<date year='1996' month='August' />
+<abstract>
+<t>There are many networking glossaries in existence.  This glossary concentrates on terms which are specific to the Internet.  Naturally, there are entries for some basic terms and acronyms because other entries refer to them.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1983' />
+<format type='TXT' octets='123008' target='http://www.rfc-editor.org/rfc/rfc1983.txt' />
+</reference>

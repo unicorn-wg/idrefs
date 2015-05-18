@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1571'>
+
+<front>
+<title abbrev='Environment Option Interoperability'>Telnet Environment Option Interoperability Issues</title>
+<author initials='D.' surname='Borman' fullname='David A. Borman'>
+<organization>Cray Research, Inc.</organization>
+<address>
+<postal>
+<street>655F Lone Oak Drive</street>
+<city>Eagan</city>
+<region>MN</region>
+<code>55123</code>
+<country>US</country></postal>
+<phone>+1 612 452 6650</phone>
+<email>dab@CRAY.COM</email></address></author>
+<date year='1994' month='January' /></front>
+
+<seriesInfo name='RFC' value='1571' />
+<format type='TXT' octets='8117' target='http://www.rfc-editor.org/rfc/rfc1571.txt' />
+</reference>

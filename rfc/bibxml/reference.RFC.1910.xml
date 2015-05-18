@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1910'>
+
+<front>
+<title>User-based Security Model for SNMPv2</title>
+<author initials='G.' surname='Waters' fullname='Glenn W. Waters'>
+<organization>Bell-Northern Research Ltd.</organization>
+<address>
+<postal>
+<street>P.O. Box 3511</street>
+<street>Station C</street>
+<city>Ottawa</city>
+<region>Ontario</region>
+<code>K1Y 4H7</code>
+<country>CA</country></postal>
+<phone>+1 613 763 3933</phone>
+<email>gwaters@bnr.ca</email></address></author>
+<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
+<organization>Cisco Systems, Inc.</organization>
+<address>
+<email>kzm@cisco.com</email></address></author>
+<author initials='M.' surname='Rose' fullname='Marshall T. Rose'>
+<organization>Dover Beach Consulting</organization>
+<address>
+<email>mrose@dbc.mtview.ca.us</email></address></author>
+<date year='1996' month='February' /></front>
+
+<seriesInfo name='RFC' value='1910' />
+<format type='TXT' octets='98252' target='http://www.rfc-editor.org/rfc/rfc1910.txt' />
+</reference>

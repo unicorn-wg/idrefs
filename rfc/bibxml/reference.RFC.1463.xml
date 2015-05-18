@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1463'>
+
+<front>
+<title abbrev='FYI--Short Bibliography'>FYI on Introducing the Internet-- A Short Bibliography of Introductory Internetworking Readings</title>
+<author initials='E.S.' surname='Hoffman' fullname='Ellen S. Hoffman'>
+<organization>Merit Network, Inc.</organization>
+<address>
+<postal>
+<street>2901 Hubbard</street>
+<street>Pod G</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48109</code>
+<country>US</country></postal>
+<phone>+1 313 936 3000</phone>
+<email>ellen@merit.edu</email></address></author>
+<author initials='L.' surname='Jackson' fullname='Lenore Jackson'>
+<organization>NASA Ames Research Center</organization>
+<address>
+<postal>
+<street>m/s 233-8 T-1191</street>
+<city>Moffett Field</city>
+<region>CA</region>
+<code>94035</code>
+<country>US</country></postal>
+<phone>+1 415 604 0455</phone>
+<email>jackson@nsipo.arc.nasa.gov</email></address></author>
+<date year='1993' month='May' />
+<abstract>
+<t>This bibliography offers a short list of recent information resources that will help the network novice become familiar with the Internet, including its associated networks, resources, protocols, and history. This FYI RFC includes references to free sources of information available on-line as well as traditional publications.  A short section at the end includes information for accessing the on-line files.  This FYI is intentionally brief so it can be easily used as a handout by user services personnel.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1463' />
+<format type='TXT' octets='7116' target='http://www.rfc-editor.org/rfc/rfc1463.txt' />
+</reference>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1098'>
+
+<front>
+<title abbrev='SNMP'>Simple Network Management Protocol (SNMP)</title>
+<author initials='J.' surname='Case' fullname='Jeffrey D. Case'>
+<organization>University of Tennessee, Computing Center</organization>
+<address>
+<postal>
+<street>200 Stokely Management Center</street>
+<city>Knoxville</city>
+<region>TN</region>
+<code>37996-0520</code>
+<country>US</country></postal>
+<phone>+1 615 974 6721</phone>
+<email>case@UTKUX1.UTK.EDU</email></address></author>
+<author initials='M.' surname='Fedor' fullname='Mark Fedor'>
+<organization>Nysernet, Inc.</organization>
+<address>
+<postal>
+<street>125 Jordan Road</street>
+<street>Rensselaer Technology Park</street>
+<city>Troy</city>
+<region>NY</region>
+<code>12180</code>
+<country>US</country></postal>
+<phone>+1 518 283 8860</phone>
+<email>fedor@patton.NYSER.NET</email></address></author>
+<author initials='M.' surname='Schoffstall' fullname='Martin Lee Schoffstall'>
+<organization>NYSERNET Inc.</organization>
+<address>
+<postal>
+<street>165 Jordan Road</street>
+<street>Rensselaer Technology Park</street>
+<city>Troy</city>
+<region>NY</region>
+<code>12180</code>
+<country>US</country></postal>
+<phone>+1 518 283 8860</phone>
+<email>schoff@NISC.NYSER.NET</email></address></author>
+<author initials='C.' surname='Davin' fullname='Chuck Davin'>
+<organization>Massechusetts Institute of Technology (MIT) Laboratory for Computer Science</organization>
+<address>
+<postal>
+<street>545 Technology Square</street>
+<street>NE43-507</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02139</code>
+<country>US</country></postal>
+<phone>+1 617 253 6020</phone>
+<email>jrd@ptt.lcs.mit.edu</email></address></author>
+<date year='1989' month='April' /></front>
+
+<seriesInfo name='RFC' value='1098' />
+<format type='TXT' octets='71563' target='http://www.rfc-editor.org/rfc/rfc1098.txt' />
+</reference>

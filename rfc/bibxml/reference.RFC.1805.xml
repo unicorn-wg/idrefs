@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1805'>
+
+<front>
+<title>Location-Independent Data/Software Integrity Protocol</title>
+<author initials='A.' surname='Rubin' fullname='Aviel D. Rubin'>
+<organization>Bellcore</organization>
+<address>
+<postal>
+<street />
+<city>Morristown</city>
+<region>NJ</region>
+<code>07960</code>
+<country>US</country></postal>
+<phone>+1 201 829 5922</phone>
+<facsimile>+1 201 829 2645</facsimile>
+<email>rubin@bellcore.com</email></address></author>
+<date year='1995' month='June' />
+<abstract>
+<t>This memo describes a protocol for adding integrity assurance to files that are distributed across the Internet.  This protocol is intended for the distribution of software, data, documents, and any other file that is subject to malicious modification.  The protocol described here is intended to provide assurances of integrity and time.  A trusted third party is required.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1805' />
+<format type='TXT' octets='13352' target='http://www.rfc-editor.org/rfc/rfc1805.txt' />
+</reference>

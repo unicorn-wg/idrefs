@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1135'>
+
+<front>
+<title>Helminthiasis of the Internet</title>
+<author initials='J.' surname='Reynolds' fullname='Joyce K. Reynolds'>
+<organization>University of Southern California (USC), Information Sciences Institute (ISI)</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone>
+<email>JKREY@ISI.EDU</email></address></author>
+<date year='1989' day='1' month='December' /></front>
+
+<seriesInfo name='RFC' value='1135' />
+<format type='TXT' octets='77033' target='http://www.rfc-editor.org/rfc/rfc1135.txt' />
+</reference>

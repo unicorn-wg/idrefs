@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1041'>
+
+<front>
+<title>Telnet 3270 regime option</title>
+<author initials='J.' surname='Rekhter' fullname='J. Rekhter'>
+<organization>International Business Machines (IBM), T. J. Watson Research Center</organization></author>
+<date year='1988' day='1' month='January' /></front>
+
+<seriesInfo name='RFC' value='1041' />
+<format type='TXT' octets='11608' target='http://www.rfc-editor.org/rfc/rfc1041.txt' />
+</reference>

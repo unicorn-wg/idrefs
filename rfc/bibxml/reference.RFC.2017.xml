@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2017'>
+
+<front>
+<title abbrev='URL Access-Type'>Definition of the URL MIME External-Body Access-Type</title>
+<author initials='N.' surname='Freed' fullname='Ned Freed'>
+<organization>Innosoft International, Inc.</organization>
+<address>
+<postal>
+<street>1050 East Garvey Avenue South</street>
+<street>West Covina</street>
+<street>CA 91790</street>
+<country>USA</country></postal>
+<phone>+1 818 919 3600</phone>
+<facsimile>+1 818 919 3614</facsimile>
+<email>ned@innosoft.com</email></address></author>
+<author initials='K.' surname='Moore' fullname='Keith Moore'>
+<organization>Computer Science Dept.</organization>
+<address>
+<postal>
+<street>University of Tennessee</street>
+<street>107 Ayres Hall</street>
+<street>Knoxville</street>
+<street>TN 37996-1301</street>
+<country>USA</country></postal>
+<email>moore@cs.utk.edu</email></address></author>
+<date year='1996' month='October' />
+<area>Applications</area>
+<keyword>multipurpose internet mail extensions</keyword>
+<keyword>MIME</keyword>
+<keyword>uniform resource</keyword></front>
+
+<seriesInfo name='RFC' value='2017' />
+<format type='TXT' octets='9000' target='http://www.rfc-editor.org/rfc/rfc2017.txt' />
+<format type='HTML' octets='23003' target='http://xml.resource.org/public/rfc/html/rfc2017.html' />
+<format type='XML' octets='9313' target='http://xml.resource.org/public/rfc/xml/rfc2017.xml' />
+</reference>

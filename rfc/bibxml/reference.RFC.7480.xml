@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7480'>
+
+<front>
+<title>HTTP Usage in the Registration Data Access Protocol (RDAP)</title>
+<author initials='A.' surname='Newton' fullname='A. Newton'>
+<organization /></author>
+<author initials='B.' surname='Ellacott' fullname='B. Ellacott'>
+<organization /></author>
+<author initials='N.' surname='Kong' fullname='N. Kong'>
+<organization /></author>
+<date year='2015' month='March' />
+<abstract>
+<t>This document is one of a collection that together describes the Registration Data Access Protocol (RDAP).  It describes how RDAP is transported using the Hypertext Transfer Protocol (HTTP).  RDAP is a successor protocol to the very old WHOIS protocol.  The purpose of this document is to clarify the use of standard HTTP mechanisms for this application.</t></abstract></front>
+
+<seriesInfo name='RFC' value='7480' />
+<format type='TXT' octets='34671' target='http://www.rfc-editor.org/rfc/rfc7480.txt' />
+</reference>

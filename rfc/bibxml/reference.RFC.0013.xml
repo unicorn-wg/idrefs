@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0013'>
+
+<front>
+<title>Zero Text Length EOF Message</title>
+<author initials='V.' surname='Cerf' fullname='Vint Cerf'>
+<organization>University California Los Angeles (UCLA)</organization></author>
+<date year='1969' day='20' month='August' />
+<abstract>
+<t>Referring to NWG/RFC: 11, it appears that file transmissions over auxiliary connections will require some mechanism to specify "END-OF-FILE."  It is proposed that a length 0 (zero) message be used for this purpose.</t></abstract></front>
+
+<seriesInfo name='RFC' value='13' />
+<format type='TXT' octets='1070' target='http://www.rfc-editor.org/rfc/rfc13.txt' />
+</reference>

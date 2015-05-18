@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3367'>
+
+<front>
+<title>Common Name Resolution Protocol (CNRP)</title>
+<author initials='N.' surname='Popp' fullname='N. Popp'>
+<organization /></author>
+<author initials='M.' surname='Mealling' fullname='M. Mealling'>
+<organization /></author>
+<author initials='M.' surname='Moseley' fullname='M. Moseley'>
+<organization /></author>
+<date year='2002' month='August' /></front>
+
+<seriesInfo name='RFC' value='3367' />
+<format type='TXT' octets='86889' target='http://www.rfc-editor.org/rfc/rfc3367.txt' />
+</reference>

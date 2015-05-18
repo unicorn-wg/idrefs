@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2568'>
+
+<front>
+<title abbrev='Rationale for IPP'>Rationale for the Structure of the Model and Protocol for the Internet Printing Protocol</title>
+<author initials='S.' surname='Zilles' fullname='Stephen Zilles'>
+<organization>Adobe Systems Incorporated</organization>
+<address>
+<postal>
+<street>345 Park Avenue</street>
+<street>MailStop W14</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95110-2704</code>
+<country>US</country></postal>
+<phone>+1 408 536 4766</phone>
+<facsimile>+1 408 537 4042</facsimile>
+<email>szilles@adobe.com</email></address></author>
+<date year='1999' month='April' />
+<abstract>
+<t>This document is one of a set of documents, which together describe
+   all aspects of a new Internet Printing Protocol (IPP).  IPP is an
+   application level protocol that can be used for distributed printing
+   using Internet tools and technologies. This document describes IPP
+   from a high level view, defines a roadmap for the various documents
+   that form the suite of IPP specifications, and gives background and
+   rationale for the IETF working group's major decisions.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2568' />
+<format type='TXT' octets='23547' target='http://www.rfc-editor.org/rfc/rfc2568.txt' />
+</reference>

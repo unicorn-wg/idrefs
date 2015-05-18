@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6008'>
+
+<front>
+<title>Authentication-Results Registration for Differentiating among Cryptographic Results</title>
+<author initials='M.' surname='Kucherawy' fullname='M. Kucherawy'>
+<organization /></author>
+<date year='2010' month='September' />
+<abstract>
+<t>This memo updates the registry of properties in Authentication- Results: message header fields to allow a multiple-result report to distinguish among one or more cryptographic signatures on a message, thus associating specific results with the signatures they represent. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='6008' />
+<format type='TXT' octets='14328' target='http://www.rfc-editor.org/rfc/rfc6008.txt' />
+</reference>

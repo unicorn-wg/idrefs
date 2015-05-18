@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0263'>
+
+<front>
+<title>"Very Distant" Host interface</title>
+<author initials='A.' surname='McKenzie' fullname='Alex McKenzie'>
+<organization>Bolt Baranek and Newman (BBN)</organization></author>
+<date year='1971' day='17' month='December' />
+<abstract>
+<t>The normal method of connecting a Host computer to the ARPA Network is, and will continue to be, placing an IMP at the Host site and making a short-distance hard-wire connection.  However, during the past several months we have become increasingly aware of the occasional desire to interface a Host to some IMP via a long-distance connection (where long-distance, in this context, is any cable run longer than 2000 feet but may typically be tens of miles) via either a hard-wire or telephone circuit.  We believe that any good solution to the general problem of interfacing Hosts to IMPs must satisfy at least the following criteria:</t>
+<t>1)  The characteristics of the connection should be such that the undetected error rate can be expected to be extremely low.</t>
+<t>2)  The bandwidth of the connection should not be intrinsically limited to a low value.</t>
+<t>3)  The nature of the connection should be such that the Host may establish multiple network "conversations", i.e., it should have all the power of a normal Host connection.</t></abstract></front>
+
+<seriesInfo name='RFC' value='263' />
+<format type='TXT' octets='3914' target='http://www.rfc-editor.org/rfc/rfc263.txt' />
+</reference>

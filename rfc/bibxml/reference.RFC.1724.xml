@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1724'>
+
+<front>
+<title abbrev='RIP-2 MIB Extension'>RIP Version 2 MIB Extension</title>
+<author initials='G.' surname='Malkin' fullname='Gary Malkin'>
+<organization>Xylogics, Inc.</organization>
+<address>
+<postal>
+<street>53 Third Avenue</street>
+<city>Burlington</city>
+<region>MA</region>
+<code>01803</code>
+<country>US</country></postal>
+<phone>+1 617 272 8140</phone>
+<email>gmalkin@Xylogics.COM</email></address></author>
+<author initials='F.' surname='Baker' fullname='Fred Baker'>
+<organization>Cisco Systems</organization>
+<address>
+<postal>
+<street>519 Lado Drive</street>
+<city>Santa Barbara</city>
+<region>CA</region>
+<code>93111</code>
+<country>US</country></postal>
+<phone>+1 805 681 0115</phone>
+<email>fred@cisco.com</email></address></author>
+<date year='1994' month='November' />
+<abstract>
+<t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets. In particular, it defines objects for managing RIP Version 2.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1724' />
+<format type='TXT' octets='29645' target='http://www.rfc-editor.org/rfc/rfc1724.txt' />
+</reference>

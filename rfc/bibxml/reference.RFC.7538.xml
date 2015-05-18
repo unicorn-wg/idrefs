@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7538'>
+
+<front>
+<title>The Hypertext Transfer Protocol Status Code 308 (Permanent Redirect)</title>
+<author initials='J.' surname='Reschke' fullname='J. Reschke'>
+<organization /></author>
+<date year='2015' month='April' />
+<abstract>
+<t>This document specifies the additional Hypertext Transfer Protocol (HTTP) status code 308 (Permanent Redirect).</t></abstract></front>
+
+<seriesInfo name='RFC' value='7538' />
+<format type='TXT' octets='11189' target='http://www.rfc-editor.org/rfc/rfc7538.txt' />
+</reference>

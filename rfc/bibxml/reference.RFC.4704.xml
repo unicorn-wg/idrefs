@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4704'>
+
+<front>
+<title>The Dynamic Host Configuration Protocol for IPv6 (DHCPv6) Client Fully Qualified Domain Name (FQDN) Option</title>
+<author initials='B.' surname='Volz' fullname='B. Volz'>
+<organization /></author>
+<date year='2006' month='October' />
+<abstract>
+<t>This document specifies a new Dynamic Host Configuration Protocol for IPv6 (DHCPv6) option that can be used to exchange information about a DHCPv6 client's Fully Qualified Domain Name (FQDN) and about responsibility for updating DNS resource records (RRs) related to the client's address assignments. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='4704' />
+<format type='TXT' octets='32359' target='http://www.rfc-editor.org/rfc/rfc4704.txt' />
+</reference>

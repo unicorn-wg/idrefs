@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2192'>
+
+<front>
+<title>IMAP URL Scheme</title>
+<author initials='C.' surname='Newman' fullname='Chris Newman'>
+<organization>Innosoft International, Inc.</organization>
+<address>
+<postal>
+<street>1050 Lakes Drive</street>
+<street>West Covina</street>
+<street>CA 91790</street>
+<country>USA</country></postal>
+<email>chris.newman@innosoft.com</email></address></author>
+<date year='1997' month='September' />
+<area>Applications</area>
+<keyword>IMAP</keyword>
+<keyword>internet message access protocol</keyword>
+<keyword>uniform resource</keyword>
+<abstract>
+<t>
+     IMAP  is a rich protocol for accessing remote message
+     stores.  It provides an ideal mechanism for accessing public
+     mailing list archives as well as private and shared message stores.
+     This document defines a URL scheme for referencing objects on an
+     IMAP server.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2192' />
+<format type='TXT' octets='31426' target='http://www.rfc-editor.org/rfc/rfc2192.txt' />
+<format type='XML' octets='36367' target='http://xml.resource.org/public/rfc/xml/rfc2192.xml' />
+</reference>

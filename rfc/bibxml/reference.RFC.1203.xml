@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1203'>
+
+<front>
+<title abbrev='IMAP3'>Interactive Mail Access Protocol: Version 3</title>
+<author initials='J.' surname='Rice' fullname='James Rice'>
+<organization>Stanford University, Knowledge Systems Laboratory</organization>
+<address>
+<postal>
+<street>701 Welch Road</street>
+<street>Building C</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94304</code>
+<country>US</country></postal>
+<phone>+1 415 723 8405</phone>
+<email>RICE@SUMEX-AIM.STANFORD.EDU</email></address></author>
+<date year='1991' day='1' month='February' /></front>
+
+<seriesInfo name='RFC' value='1203' />
+<format type='TXT' octets='123325' target='http://www.rfc-editor.org/rfc/rfc1203.txt' />
+</reference>

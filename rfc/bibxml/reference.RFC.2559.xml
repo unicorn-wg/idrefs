@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2559'>
+
+<front>
+<title abbrev='PKIX Operational Protocols - LDAPv2'>Internet X.509 Public Key Infrastructure Operational Protocols - LDAPv2</title>
+<author initials='S.' surname='Boeyen' fullname='Sharon Boeyen'>
+<organization>Entrust Technologies Limited</organization>
+<address>
+<postal>
+<street>750 Heron Road</street>
+<city>Ottawa</city>
+<region>Ontario</region>
+<code>K1V 1A7</code>
+<country>CA</country></postal>
+<email>sharon.boeyen@entrust.com</email></address></author>
+<author initials='T.' surname='Howes' fullname='Tim Howes'>
+<organization>Netscape Communications Corp.</organization>
+<address>
+<postal>
+<street>501 E. Middlefield Rd.</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<email>howes@netscape.com</email></address></author>
+<author initials='P.' surname='Richard' fullname='Patrick Richard'>
+<organization>Xcert Software Inc.</organization>
+<address>
+<postal>
+<street>701 W. Georgia Street</street>
+<street>Suite 1001</street>
+<street>P.O. Box 10145</street>
+<street>Pacific Centre</street>
+<city>Vancouver</city>
+<region>British Columbia</region>
+<code>V7Y 1C6</code>
+<country>CA</country></postal>
+<email>patr@xcert.com</email></address></author>
+<date year='1999' month='April' />
+<abstract>
+<t>The protocol described in this document is designed to satisfy some
+   of the operational requirements within the Internet X.509 Public Key
+   Infrastructure (IPKI).  Specifically, this document addresses
+   requirements to provide access to Public Key Infrastructure (PKI)
+   repositories for the purposes of retrieving PKI information and
+   managing that same information.  The mechanism described in this
+   document is based on the Lightweight Directory Access Protocol (LDAP)
+   v2, defined in RFC 1777, defining a profile of that protocol for use
+   within the IPKI and updates encodings for certificates and revocation
+   lists from RFC 1778. Additional mechanisms addressing PKIX
+   operational requirements are specified in separate documents.</t>
+<t>The key words 'MUST', 'REQUIRED', 'SHOULD', 'RECOMMENDED', and 'MAY'
+   in this document are to be interpreted as described in RFC 2119.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2559' />
+<format type='TXT' octets='22889' target='http://www.rfc-editor.org/rfc/rfc2559.txt' />
+</reference>

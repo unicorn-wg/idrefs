@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3575'>
+
+<front>
+<title>IANA Considerations for RADIUS (Remote Authentication Dial In User Service)</title>
+<author initials='B.' surname='Aboba' fullname='B. Aboba'>
+<organization /></author>
+<date year='2003' month='July' />
+<abstract>
+<t>This document describes the IANA considerations for the Remote Authentication Dial In User Service (RADIUS). [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='3575' />
+<format type='TXT' octets='15539' target='http://www.rfc-editor.org/rfc/rfc3575.txt' />
+</reference>

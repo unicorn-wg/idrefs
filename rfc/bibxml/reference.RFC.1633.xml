@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1633'>
+
+<front>
+<title abbrev='Integrated Services Architecture'>Integrated Services in the Internet Architecture: an Overview</title>
+<author initials='B.' surname='Braden' fullname='Bob Braden'>
+<organization>University of Southern California (USC), Information Sciences Institute (ISI)</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511</phone>
+<email>Braden@ISI.EDU</email></address></author>
+<author initials='D.' surname='Clark' fullname='David Clark'>
+<organization>MIT Laboratory for Computer Science</organization>
+<address>
+<postal>
+<street>545 Technology Square</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02139-1986</code>
+<country>US</country></postal>
+<phone>+1 617 253 6003</phone>
+<email>ddc@LCS.MIT.EDU</email></address></author>
+<author initials='S.' surname='Shenker' fullname='Scott Shenker'>
+<organization>Xerox Palo Alto Research Center</organization>
+<address>
+<postal>
+<street>3333 Coyote Hill Road</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94304</code>
+<country>US</country></postal>
+<phone>+1 415 812 4840</phone>
+<email>Shenker@PARC.XEROX.COM</email></address></author>
+<date year='1994' month='June' />
+<abstract>
+<t>This memo discusses a proposed extension to the Internet architecture and protocols to provide integrated services, i.e., to support real-time as well as the current non-real-time service of IP.  This extension is necessary to meet the growing need for real-time service for a variety of new applications, including teleconferencing, remote seminars, telescience, and distributed simulation.</t>
+<t>This memo represents the direct product of recent work by Dave Clark, Scott Shenker, Lixia Zhang, Deborah Estrin, Sugih Jamin, John Wroclawski, Shai Herzog, and Bob Braden, and indirectly draws upon the work of many others.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1633' />
+<format type='TXT' octets='89691' target='http://www.rfc-editor.org/rfc/rfc1633.txt' />
+<format type='PS' octets='207016' target='http://www.rfc-editor.org/rfc/rfc1633.ps' />
+<format type='PDF' octets='201858' target='http://www.rfc-editor.org/rfc/rfc1633.pdf' />
+</reference>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0204'>
+
+<front>
+<title>Sockets in use</title>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>University California Los Angeles (UCLA), Computer Science Dept, NMC</organization>
+<address>
+<postal>
+<street>3732 Boelter Hall</street>
+<city>Los Angeles</city>
+<region>CA</region>
+<code>90024</code>
+<country>US</country></postal>
+<phone>+1 213 825 2368</phone></address></author>
+<date year='1971' day='5' month='August' />
+<abstract>
+<t>I would like to collect information on the use of socket numbers for "standard" service programs. For example Loggers (telnet servers) Listen on socket 1. What sockets at your host are Listened to by what programs?</t></abstract></front>
+
+<seriesInfo name='RFC' value='204' />
+<format type='TXT' octets='1379' target='http://www.rfc-editor.org/rfc/rfc204.txt' />
+</reference>

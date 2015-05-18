@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1935'>
+
+<front>
+<title>What is the Internet, Anyway?</title>
+<author initials='J.' surname='Quarterman' fullname='John S. Quarterman'>
+<organization>TIC</organization>
+<address>
+<email>tic@tic.com</email></address></author>
+<author initials='S.' surname='Carl-Mitchell' fullname='Smoot Carl-Mitchell'>
+<organization>TIC</organization>
+<address>
+<email>tic@tic.com</email></address></author>
+<date year='1996' month='April' /></front>
+
+<seriesInfo name='RFC' value='1935' />
+<format type='TXT' octets='30369' target='http://www.rfc-editor.org/rfc/rfc1935.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0737'>
+
+<front>
+<title>FTP extension: XSEN</title>
+<author initials='K.' surname='Harrenstien' fullname='K. Harrenstien'>
+<organization>Stanford Research Institute (SRI) International, KL</organization></author>
+<date year='1977' day='31' month='October' />
+<abstract>
+<t>This note describes an extension to the File Transfer Protocol which provides for "sending" a message to a logged-in user, as well as variants for mailing it normally whether the user is logged in or not.</t></abstract></front>
+
+<seriesInfo name='RFC' value='737' />
+<format type='TXT' octets='2127' target='http://www.rfc-editor.org/rfc/rfc737.txt' />
+</reference>

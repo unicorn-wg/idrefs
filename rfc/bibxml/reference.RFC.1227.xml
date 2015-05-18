@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1227'>
+
+<front>
+<title abbrev='SMUX'>SNMP MUX protocol and MIB</title>
+<author initials='M.T.' surname='Rose' fullname='Marshall T. Rose'>
+<organization>Performance Systems International, Inc.</organization>
+<address>
+<postal>
+<street>5201 Great America Parkway</street>
+<street>Suite 3106</street>
+<city>Santa Clara</city>
+<region>CA</region>
+<code>95054</code>
+<country>US</country></postal>
+<phone>+1 408 562 6222</phone>
+<email>mrose@psi.com</email></address></author>
+<date year='1991' day='1' month='May' /></front>
+
+<seriesInfo name='RFC' value='1227' />
+<format type='TXT' octets='25868' target='http://www.rfc-editor.org/rfc/rfc1227.txt' />
+</reference>

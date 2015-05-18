@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2531'>
+
+<front>
+<title>Content Feature Schema for Internet Fax</title>
+<author initials='G.' surname='Klyne' fullname='Graham Klyne'>
+<organization>5th Generation Messaging Ltd. Content Technologies Ltd.</organization>
+<address>
+<postal>
+<street>5 Watlington Street</street>
+<street>Nettlebed</street>
+<street>Henley-on-Thames</street>
+<region>England</region>
+<code>RG9 5AB</code>
+<country>UK</country></postal>
+<phone>+44 1491 641641</phone>
+<facsimile>+44 1491 641611</facsimile>
+<email>GK@ACM.ORG</email></address></author>
+<author initials='L.' surname='McIntyre' fullname='Lloyd McIntyre'>
+<organization>Xerox Corporation</organization>
+<address>
+<postal>
+<street>3400 Hillview Ave.</street>
+<street>Mailstop PAHV-12</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94304</code>
+<country>US</country></postal>
+<phone>+1 650 813 6762</phone>
+<facsimile>+1 650 845 2340</facsimile>
+<email>Lloyd.McIntyre@pahv.xerox.com</email></address></author>
+<date year='1999' month='March' />
+<abstract>
+<t>This document defines a content feature schema that is a profile of the media feature registration mechanisms,,for use in performing capability identification between extended Internet fax systems.</t>
+<t>This document does not describe any specific mechanisms for communicating capability information, but does presume that any such mechanisms will transfer textual values.  It specifies a textual format to be used for describing Internet fax capability information.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2531' />
+<format type='TXT' octets='88295' target='http://www.rfc-editor.org/rfc/rfc2531.txt' />
+</reference>

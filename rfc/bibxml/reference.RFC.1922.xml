@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1922'>
+
+<front>
+<title abbrev='Chinese Character Encoding'>Chinese Character Encoding for Internet Messages</title>
+<author initials='Z.' surname='Haifeng' fullname='Zhu Haifeng'>
+<organization>Tsinghua University</organization>
+<address>
+<postal>
+<street>216 Central Main Building</street>
+<city>Beijing</city>
+<region />
+<code>100084</code>
+<country>CN</country></postal>
+<phone>+86 10 2561144x3492</phone>
+<facsimile>+86 10 2564173</facsimile>
+<email>zhf@net.tsinghua.edu.cn</email></address></author>
+<author initials='H.' surname='Daoyuan' fullname='Hu Daoyuan'>
+<organization>Tsinghua University, Tsinghua Networking Center</organization>
+<address>
+<postal>
+<street />
+<city>Beijing</city>
+<region />
+<code>100084</code>
+<country>CN</country></postal>
+<phone>+86 10 2594016</phone>
+<facsimile>+86 10 2564173</facsimile>
+<email>hdy@tsinghua.edu.cn</email></address></author>
+<author initials='W.' surname='Zhiguan' fullname='Wang Zhiguan'>
+<organization>China Information Technology Standardization Technical Committee (CITS)</organization>
+<address>
+<postal>
+<street />
+<city>Beijing</city>
+<region />
+<code>10007</code>
+<country>CN</country></postal>
+<phone>+86 10 4012392</phone>
+<facsimile>+86 10 4010601</facsimile></address></author>
+<author initials='K.' surname='Tien-cheu' fullname='Kao Tien-cheu'>
+<organization>Institute for Information Industry (III), I.T. Promotion Division</organization>
+<address>
+<postal>
+<street />
+<city>Taipei</city>
+<region />
+<code />
+<country>TW</country></postal>
+<phone>+886 2 5631688</phone>
+<facsimile>+886 2 5634209</facsimile>
+<email>tckao@iiidns.iii.org.tw</email></address></author>
+<author initials='C.' surname='Wen-chung' fullname='Chang Wen-chung'>
+<organization>Institute for Information Industry (III)</organization>
+<address>
+<postal>
+<street />
+<city>Taipei</city>
+<region />
+<code />
+<country>TW</country></postal>
+<phone>+886 2 7327771</phone>
+<facsimile>+886 2 7370188</facsimile>
+<email>chung@iiidns.iii.org.tw</email></address></author>
+<author initials='M.' surname='Crispin' fullname='Mark R. Crispin'>
+<organization>University of Washington, Networks and Distributed Computing-</organization>
+<address>
+<postal>
+<street>4545 15th Avenue NE</street>
+<city>Seattle</city>
+<region>WA</region>
+<code>98105-4527</code>
+<country>US</country></postal>
+<phone>+1 206 543 5762</phone>
+<facsimile>+1 206 685 4045</facsimile>
+<email>MRC@CAC.Washington.EDU</email></address></author>
+<date year='1996' month='March' />
+<abstract>
+<t>This memo describes methods of transporting Chinese characters in Internet services which transport text, such as electronic mail,  network news, telnetand the World  Wide Web.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1922' />
+<format type='TXT' octets='50995' target='http://www.rfc-editor.org/rfc/rfc1922.txt' />
+</reference>

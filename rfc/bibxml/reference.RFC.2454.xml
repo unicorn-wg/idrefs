@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2454'>
+
+<front>
+<title abbrev='UDP MIB for IPv6'>IP Version 6 Management Information Base for the User Datagram Protocol</title>
+<author initials='M.' surname='Daniele' fullname='Mike Daniele'>
+<organization>Compaq Computer Corporation</organization>
+<address>
+<postal>
+<street>110 Spit Brook Rd</street>
+<street>Nashua</street>
+<region>NH</region>
+<code>03062</code>
+<country>USA</country></postal>
+<phone>+1 603 884 1423</phone>
+<email>daniele@zk3.dec.com</email></address></author>
+<date year='1998' month='December' />
+<area>Transport</area>
+<keyword>UDP</keyword>
+<keyword>Management Information Base</keyword>
+<keyword>datagram</keyword>
+<keyword>internet protocol version 6</keyword>
+<keyword>user datagram protocol</keyword>
+<abstract>
+<t>
+   This document is one in the series of documents that define various
+   MIB objects for IPv6.  Specifically, this document is the MIB module
+   which defines managed objects for implementations of the User
+   Datagram Protocol (UDP) over IP Version 6 (IPv6).
+</t>
+<t>
+   This document also recommends a specific policy with respect to the
+   applicability of RFC 2013 for implementations of IPv6.  Namely, that
+   most of managed objects defined in RFC 2013 are independent of which
+   IP versions underlie UDP, and only the UDP listener information is IP
+   version-specific.
+</t>
+<t>
+   This memo defines an experimental portion of the Management
+   Information Base (MIB) for use with network management protocols in
+   IPv6-based internets.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2454' />
+<format type='TXT' octets='15862' target='http://www.rfc-editor.org/rfc/rfc2454.txt' />
+<format type='HTML' octets='33223' target='http://xml.resource.org/public/rfc/html/rfc2454.html' />
+<format type='XML' octets='24962' target='http://xml.resource.org/public/rfc/xml/rfc2454.xml' />
+</reference>

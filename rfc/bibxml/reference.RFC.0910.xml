@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0910'>
+
+<front>
+<title>Multimedia mail meeting notes</title>
+<author initials='H.' surname='Forsdick' fullname='Harry Forsdick'>
+<organization>Bolt Baranek and Newman (BBN) Laboratories</organization></author>
+<date year='1984' day='1' month='August' /></front>
+
+<seriesInfo name='RFC' value='910' />
+<format type='TXT' octets='24915' target='http://www.rfc-editor.org/rfc/rfc910.txt' />
+</reference>

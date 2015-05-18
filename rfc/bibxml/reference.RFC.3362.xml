@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3362'>
+
+<front>
+<title>Real-time Facsimile (T.38) - image/t38 MIME Sub-type Registration</title>
+<author initials='G.' surname='Parsons' fullname='G. Parsons'>
+<organization /></author>
+<date year='2002' month='August' /></front>
+
+<seriesInfo name='RFC' value='3362' />
+<format type='TXT' octets='8301' target='http://www.rfc-editor.org/rfc/rfc3362.txt' />
+</reference>

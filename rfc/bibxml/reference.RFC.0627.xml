@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0627'>
+
+<front>
+<title>ASCII text file of hostnames</title>
+<author initials='M.' surname='Kudlick' fullname='Mike Kudlick'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
+<author initials='J.' surname='Feinler' fullname='Jake Feinler'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization>
+<address>
+<postal>
+<street />
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<phone>+1 415 329 0742</phone>
+<email>Feinler@SRI-ARC</email></address></author>
+<date year='1974' day='25' month='March' />
+<abstract>
+<t>The online ASCII text file of official hostnames as defined in RFCs 606 and 608 is now available at OFFICE-1 (Hostaddr. 43 decimal) with pathname NETINFOHOSTS.TXT.  Currently the file includes hostname, host address, and host status.  We hope to be adding additional attributes soon. This file will be maintained by the NIC, and all hosts are encouraged to use these hostnames in their monitors.  Changes or additions will be added on a weekly basis.  Each network host will be responsible for accessing this file via FTP for new information.</t></abstract></front>
+
+<seriesInfo name='RFC' value='627' />
+<format type='TXT' octets='2007' target='http://www.rfc-editor.org/rfc/rfc627.txt' />
+</reference>

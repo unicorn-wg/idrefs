@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1867'>
+
+<front>
+<title>Form-based File Upload in HTML</title>
+<author initials='E.' surname='Nebel' fullname='Ernesto Nebel'>
+<organization>XSoft, Xerox Corporation</organization>
+<address>
+<postal>
+<street>10875 Rancho Bernardo Road</street>
+<street>Suite 200</street>
+<city>San Diego</city>
+<region>CA</region>
+<code>92127-2116</code>
+<country>US</country></postal>
+<phone>+1 619 676 7817</phone>
+<facsimile>+1 619 676 7865</facsimile>
+<email>nebel@xsoft.sd.xerox.com</email></address></author>
+<author initials='L.' surname='Masinter' fullname='Larry Masinter'>
+<organization>Xerox Palo Alto Research Center</organization>
+<address>
+<postal>
+<street>3333 Coyote Hill Road</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94304</code>
+<country>US</country></postal>
+<phone>+1 415 812 4365</phone>
+<facsimile>+1 415 812 4333</facsimile>
+<email>masinter@parc.xerox.com</email></address></author>
+<date year='1995' month='November' />
+<abstract>
+<t>Currently, HTML forms allow the producer of the form to request information from the user reading the form.  These forms have proven useful in a wide variety of applications in which input from the user is necessary.  However, this capability is limited because HTML forms don't provide a way to ask the user to submit files of data.  Service providers who need to get files from the user have had to implement custom user applications.  (Examples of these custom browsers have appeared on the www-talk mailing list.)  Since file-upload is a feature that will benefit many applications, this proposes an extension to HTML to allow information providers to express file upload requests uniformly, and a MIME compatible representation for
+   file upload responses.  This also includes a description of a backward compatibility strategy that allows new servers to interact with the current HTML user agents.</t>
+<t>The proposal is independent of which version of HTML it becomes a part.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1867' />
+<format type='TXT' octets='26183' target='http://www.rfc-editor.org/rfc/rfc1867.txt' />
+</reference>

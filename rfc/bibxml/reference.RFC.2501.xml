@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2501'>
+
+<front>
+<title abbrev='MANET Performance Issues'>Mobile Ad hoc Networking (MANET): Routing Protocol Performance Issues and Evaluation Considerations</title>
+<author initials='M.S.' surname='Corson' fullname='M. Scott Corson'>
+<organization>Institute for Systems Research</organization>
+<address>
+<postal>
+<street>University of Maryland</street>
+<street>College Park</street>
+<street>MD 20742</street></postal>
+<phone>(301) 405-6630</phone>
+<email>corson@isr.umd.edu</email></address></author>
+<author initials='J.' surname='Macker' fullname='Joseph Macker'>
+<organization>Information Technology Division</organization>
+<address>
+<postal>
+<street>Naval Research Laboratory</street>
+<street>Washington</street>
+<street>DC 20375</street></postal>
+<phone>(202) 767-2001</phone>
+<email>macker@itd.nrl.navy.mil</email></address></author>
+<date year='1999' month='January' />
+<area>Routing</area>
+<keyword>mobile IP</keyword>
+<keyword>Mobile Ad hoc Networks</keyword>
+<abstract>
+<t>
+   This memo first describes the characteristics of Mobile Ad hoc
+   Networks (MANETs), and their idiosyncrasies with respect to
+   traditional, hardwired packet networks.  It then discusses the effect
+   these differences have on the design and evaluation of network
+   control protocols with an emphasis on routing performance evaluation
+   considerations.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2501' />
+<format type='TXT' octets='28912' target='http://www.rfc-editor.org/rfc/rfc2501.txt' />
+<format type='XML' octets='27582' target='http://xml.resource.org/public/rfc/xml/rfc2501.xml' />
+</reference>

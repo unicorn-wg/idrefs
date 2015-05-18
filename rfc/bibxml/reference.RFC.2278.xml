@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2278'>
+
+<front>
+<title abbrev='Charset Registration'>IANA Charset Registration Procedures</title>
+<author initials='N.' surname='Freed' fullname='Ned Freed'>
+<organization>Innosoft International, Inc.</organization>
+<address>
+<postal>
+<street>1050 Lakes Drive</street>
+<street>West Covina</street>
+<street>CA 91790</street>
+<country>USA</country></postal>
+<phone>+1 626 919 3600</phone>
+<facsimile>+1 626 919 3614</facsimile>
+<email>ned.freed@innosoft.com</email></address></author>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<street>Marina del Rey</street>
+<street>CA  90292</street>
+<country>USA</country></postal>
+<phone>+1 310 822 1511</phone>
+<facsimile>+1 310 823 6714</facsimile>
+<email>Postel@ISI.EDU</email></address></author>
+<date year='1998' month='January' />
+<area>Applications</area>
+<keyword>Internet Assigned Numbers Authority</keyword>
+<keyword>multipurpose internet mail extensions</keyword>
+<keyword>character set</keyword></front>
+
+<seriesInfo name='BCP' value='19' />
+<seriesInfo name='RFC' value='2278' />
+<format type='TXT' octets='18881' target='http://www.rfc-editor.org/rfc/rfc2278.txt' />
+<format type='HTML' octets='33768' target='http://xml.resource.org/public/rfc/html/rfc2278.html' />
+<format type='XML' octets='16121' target='http://xml.resource.org/public/rfc/xml/rfc2278.xml' />
+</reference>

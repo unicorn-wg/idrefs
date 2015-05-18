@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2393'>
+
+<front>
+<title abbrev='IPComp'>IP Payload Compression Protocol (IPComp)</title>
+<author initials='A.' surname='Shacham' fullname='Abraham Shacham'>
+<organization>Cisco Systems</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<street>San Jose</street>
+<street>California 95134</street>
+<country>United States of America</country></postal>
+<email>shacham@cisco.com</email></address></author>
+<author initials='R.' surname='Monsour' fullname='Robert Monsour'>
+<organization>Hi/fn Inc.</organization>
+<address>
+<postal>
+<street>2105 Hamilton Avenue</street>
+<street>Suite 230</street>
+<street>San Jose</street>
+<street>California 95125</street>
+<country>United States of America</country></postal>
+<email>rmonsour@hifn.com</email></address></author>
+<author initials='R.' surname='Pereira' fullname='Roy Pereira'>
+<organization>TimeStep Corporation</organization>
+<address>
+<postal>
+<street>362 Terry Fox Drive</street>
+<street>Kanata</street>
+<street>Ontario K2K 2P5</street>
+<country>Canada</country></postal>
+<email>rpereira@timestep.com</email></address></author>
+<author initials='M.' surname='Thomas' fullname='Matt Thomas'>
+<organization>AltaVista Internet Software</organization>
+<address>
+<postal>
+<street>30 Porter Road</street>
+<street>Littleton</street>
+<street>Massachusetts 01460</street>
+<country>United States of America</country></postal>
+<email>matt.thomas@altavista-software.com</email></address></author>
+<date year='1998' month='December' />
+<area>Internet</area>
+<keyword>IP</keyword>
+<keyword>compress</keyword>
+<abstract>
+<t>
+   This document describes a protocol intended to provide lossless
+   compression for Internet Protocol datagrams in an Internet
+   environment.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2393' />
+<format type='TXT' octets='20757' target='http://www.rfc-editor.org/rfc/rfc2393.txt' />
+<format type='XML' octets='22608' target='http://xml.resource.org/public/rfc/xml/rfc2393.xml' />
+</reference>

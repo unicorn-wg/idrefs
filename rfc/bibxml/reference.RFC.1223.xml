@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1223'>
+
+<front>
+<title abbrev='OSI and LLC1 on HYPERchannel'>OSI CLNS and LLC1 protocols on Network Systems HYPERchannel</title>
+<author initials='J.' surname='Halpern' fullname='Joel M. Halpern'>
+<organization>Network Systems Corporation</organization>
+<address>
+<postal>
+<street>7600 Boone Avenue North</street>
+<street>MS033</street>
+<city>Minneapolis</city>
+<region>MN</region>
+<code>55428</code>
+<country>US</country></postal>
+<phone>+1 612 424 1606</phone>
+<email>jmh@anubis.network.com</email></address></author>
+<date year='1991' day='1' month='May' /></front>
+
+<seriesInfo name='RFC' value='1223' />
+<format type='TXT' octets='29601' target='http://www.rfc-editor.org/rfc/rfc1223.txt' />
+</reference>

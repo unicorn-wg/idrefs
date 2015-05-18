@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0570'>
+
+<front>
+<title>Experimental input mapping between NVT ASCII and UCSB On Line System</title>
+<author initials='J.R.' surname='Pickens' fullname='J.R. Pickens'>
+<organization /></author>
+<date year='1973' month='October' /></front>
+
+<seriesInfo name='RFC' value='570' />
+<format type='TXT' octets='177' target='http://www.rfc-editor.org/rfc/rfc570.txt' />
+<format type='PS' octets='488023' target='http://www.rfc-editor.org/rfc/rfc570.ps' />
+<format type='PDF' octets='375635' target='http://www.rfc-editor.org/rfc/rfc570.pdf' />
+</reference>

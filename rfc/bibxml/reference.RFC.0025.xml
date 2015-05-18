@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0025'>
+
+<front>
+<title>No High Link Numbers</title>
+<author initials='S.' surname='Crocker' fullname='Steve Crocker'>
+<organization>University of California, Los Angeles (UCLA)</organization></author>
+<date year='1969' day='30' month='October' />
+<abstract>
+<t>Because it may be desirable to reserve one or more link numbers for instrumentation purposes, and because 256 link numbers are many more than are needed, we suggest that no link number over 63 be used.  At UCLA, we will implement our tables to take advantage of this limitation. We also note that 32 may be even more realistic, but 64 is certainly sufficient.</t></abstract></front>
+
+<seriesInfo name='RFC' value='25' />
+<format type='TXT' octets='479' target='http://www.rfc-editor.org/rfc/rfc25.txt' />
+</reference>

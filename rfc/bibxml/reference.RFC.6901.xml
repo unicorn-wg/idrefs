@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6901'>
+
+<front>
+<title>JavaScript Object Notation (JSON) Pointer</title>
+<author initials='P.' surname='Bryan' fullname='P. Bryan'>
+<organization /></author>
+<author initials='K.' surname='Zyp' fullname='K. Zyp'>
+<organization /></author>
+<author initials='M.' surname='Nottingham' fullname='M. Nottingham'>
+<organization /></author>
+<date year='2013' month='April' />
+<abstract>
+<t>JSON Pointer defines a string syntax for identifying a specific value within a JavaScript Object Notation (JSON) document.</t></abstract></front>
+
+<seriesInfo name='RFC' value='6901' />
+<format type='TXT' octets='13037' target='http://www.rfc-editor.org/rfc/rfc6901.txt' />
+</reference>

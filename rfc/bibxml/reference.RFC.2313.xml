@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2313'>
+
+<front>
+<title abbrev='PKCS #1: RSA Encryption'>PKCS #1: RSA Encryption Version 1.5</title>
+<author initials='B.' surname='Kaliski' fullname='Burt Kaliski'>
+<organization>RSA Laboratories East</organization>
+<address>
+<postal>
+<street>20 Crosby Drive</street>
+<city>Bedford</city>
+<region>MA</region>
+<code>01730</code></postal>
+<phone>(617) 687-7000</phone>
+<email>burt@rsa.com</email></address></author>
+<date year='1998' month='March' />
+<area>Security</area>
+<keyword>encryption</keyword>
+<keyword>public key cryptography standards</keyword>
+<keyword>public key encryption</keyword></front>
+
+<seriesInfo name='RFC' value='2313' />
+<format type='TXT' octets='37777' target='http://www.rfc-editor.org/rfc/rfc2313.txt' />
+<format type='HTML' octets='49064' target='http://xml.resource.org/public/rfc/html/rfc2313.html' />
+<format type='XML' octets='36121' target='http://xml.resource.org/public/rfc/xml/rfc2313.xml' />
+</reference>

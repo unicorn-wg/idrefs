@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1485'>
+
+<front>
+<title abbrev='Distinguished Names'>A String Representation of Distinguished Names (OSI-DS 23 (v5))</title>
+<author initials='S.' surname='Hardcastle-Kille' fullname='Steve Hardcastle-Kille'>
+<organization>ISODE Consortium</organization>
+<address>
+<postal>
+<street>POB 505</street>
+<city>London</city>
+<region>England</region>
+<code>SW11 1DX</code>
+<country>UK</country></postal>
+<phone>+44 71 2234062</phone>
+<email>S.Kille@ISODE.COM</email></address></author>
+<date year='1993' month='July' />
+<abstract>
+<t>The OSI Directory uses distinguished names as the primary keys to entries in the directory.  Distinguished Names are encoded in ASN.1. When a distinguished name is communicated between to users not using a directory protocol (e.g., in a mail message), there is a need to have a user-oriented string representation of distinguished name.  This specification defines a string format for representing names, which is designed to give a clean representation of commonly used names, whilst being able to represent any distinguished name.  Please send comments to the author or to the discussion group &lt;osi-ds@CS.UCL.AC.UK.&gt;</t></abstract></front>
+
+<seriesInfo name='RFC' value='1485' />
+<format type='TXT' octets='11158' target='http://www.rfc-editor.org/rfc/rfc1485.txt' />
+</reference>

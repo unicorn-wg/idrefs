@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0102'>
+
+<front>
+<title>Output of the Host-Host Protocol glitch cleaning committee</title>
+<author initials='S.' surname='Crocker' fullname='Steve Crocker'>
+<organization>University California Los Angeles (UCLA)</organization></author>
+<date year='1971' day='22' month='February' />
+<abstract>
+<t>At the NWG meeting in Urbana on 17-19 February 1971, a committee was established to look at the Host/Host protocol and see what changes were immediately desirable or necessary.</t></abstract></front>
+
+<seriesInfo name='RFC' value='102' />
+<format type='TXT' octets='8511' target='http://www.rfc-editor.org/rfc/rfc102.txt' />
+</reference>

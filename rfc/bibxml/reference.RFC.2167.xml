@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2167'>
+
+<front>
+<title abbrev='RWhois Protocol'>Referral Whois (RWhois) Protocol V1.5</title>
+<author initials='S.' surname='Williamson' fullname='Scott Williamson'>
+<organization>Network Solutions, Inc.</organization>
+<address>
+<postal>
+<street>505 Huntmar Park Drive</street>
+<city>Herndon</city>
+<region>VA</region>
+<code>22070-5100</code>
+<country>US</country></postal>
+<phone>+1 703 742 0400</phone>
+<email>scottw@rwhois.net</email></address></author>
+<author initials='M.' surname='Kosters' fullname='Mark Kosters'>
+<organization>Network Solutions, Inc.</organization>
+<address>
+<postal>
+<street>505 Huntmar Park Drive</street>
+<city>Herndon</city>
+<region>VA</region>
+<code>22070-5100</code>
+<country>US</country></postal>
+<phone>+1 703 742 0400</phone>
+<email>markk@internic.net</email></address></author>
+<author initials='D.' surname='Blacka' fullname='David Blacka'>
+<organization>Network Solutions, Inc.</organization>
+<address>
+<postal>
+<street>505 Huntmar Park Drive</street>
+<city>Herndon</city>
+<region>VA</region>
+<code>22070-5100</code>
+<country>US</country></postal>
+<phone>+1 703 742 0400</phone>
+<email>davidb@rwhois.net</email></address></author>
+<author initials='J.' surname='Singh' fullname='Jasdip Singh'>
+<organization>Network Solutions, Inc.</organization>
+<address>
+<postal>
+<street>505 Huntmar Park Drive</street>
+<city>Herndon</city>
+<region>VA</region>
+<code>22070-5100</code>
+<country>US</country></postal>
+<phone>+1 703 742 0400</phone>
+<email>jasdips@rwhois.net</email></address></author>
+<author initials='K.' surname='Zeilstra' fullname='Koert Zeilstra'>
+<organization>Network Solutions, Inc.</organization>
+<address>
+<postal>
+<street>505 Huntmar Park Drive</street>
+<city>Herndon</city>
+<region>VA</region>
+<code>22070-5100</code>
+<country>US</country></postal>
+<phone>+1 703 742 0400</phone>
+<email>kzeil@rwhois.net</email></address></author>
+<date year='1997' month='June' />
+<abstract>
+<t>This memo describes Version 1.5 of the client/server interaction of RWhois.  RWhois provides a distributed system for the discovery, retrieval, and maintenance of directory information. This system is primarily hierarchical by design. It allows for the deterministic routing of a query based on hierarchical tags, referring the user closer to the maintainer of the information. While RWhois can be considered a generic directory services protocol, it distinguishes itself from other protocols by providing an integrated, hierarchical architecture and query routing mechanism.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2167' />
+<format type='TXT' octets='136355' target='http://www.rfc-editor.org/rfc/rfc2167.txt' />
+</reference>

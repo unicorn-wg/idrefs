@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0474'>
+
+<front>
+<title>Announcement of NGWG meeting: Call for papers</title>
+<author initials='S.' surname='Bunch' fullname='Steve Bunch'>
+<organization>University of Illinois, Center for Advanced Computation, ANTS</organization>
+<address>
+<postal>
+<street />
+<city>Urbana</city>
+<region>IL</region>
+<code>61801</code>
+<country>US</country></postal>
+<phone>+1 217 333 9354</phone>
+<email>BUNCH@USC-ISI</email></address></author>
+<date year='1973' day='1' month='March' />
+<abstract>
+<t>Ira Cotton (NBS) has proposed that Illinois host the next NGWG meeting and that it be held in early May.</t></abstract></front>
+
+<seriesInfo name='RFC' value='474' />
+<format type='TXT' octets='1170' target='http://www.rfc-editor.org/rfc/rfc474.txt' />
+</reference>

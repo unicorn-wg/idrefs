@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5583'>
+
+<front>
+<title>Signaling Media Decoding Dependency in the Session Description Protocol (SDP)</title>
+<author initials='T.' surname='Schierl' fullname='T. Schierl'>
+<organization /></author>
+<author initials='S.' surname='Wenger' fullname='S. Wenger'>
+<organization /></author>
+<date year='2009' month='July' />
+<abstract>
+<t>This memo defines semantics that allow for signaling the decoding dependency of different media descriptions with the same media type in the Session Description Protocol (SDP). This is required, for example, if media data is separated and transported in different network streams as a result of the use of a layered or multiple descriptive media coding process.&lt;/t>&lt;t> A new grouping type "DDP" -- decoding dependency -- is defined, to be used in conjunction with RFC 3388 entitled "Grouping of Media Lines in the Session Description Protocol". In addition, an attribute is specified describing the relationship of the media streams in a "DDP" group indicated by media identification attribute(s) and media format description(s). [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='5583' />
+<format type='TXT' octets='40214' target='http://www.rfc-editor.org/rfc/rfc5583.txt' />
+</reference>

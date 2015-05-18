@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3388'>
+
+<front>
+<title>Grouping of Media Lines in the Session Description Protocol (SDP)</title>
+<author initials='G.' surname='Camarillo' fullname='G. Camarillo'>
+<organization /></author>
+<author initials='G.' surname='Eriksson' fullname='G. Eriksson'>
+<organization /></author>
+<author initials='J.' surname='Holler' fullname='J. Holler'>
+<organization /></author>
+<author initials='H.' surname='Schulzrinne' fullname='H. Schulzrinne'>
+<organization /></author>
+<date year='2002' month='December' /></front>
+
+<seriesInfo name='RFC' value='3388' />
+<format type='TXT' octets='39365' target='http://www.rfc-editor.org/rfc/rfc3388.txt' />
+</reference>

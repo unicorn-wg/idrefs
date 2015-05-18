@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2098'>
+
+<front>
+<title abbrev='Toshiba&apos;s Router Extension for ATM'>Toshiba's Router Architecture Extensions for ATM : Overview</title>
+<author initials='Y.' surname='Katsube' fullname='Yasuhiro Katsube'>
+<organization>R&amp;D Center, Toshiba</organization>
+<address>
+<postal>
+<street>1 Komukai Toshiba-cho</street>
+<street>Saiwai-ku</street>
+<street>Kawasaki</street>
+<code>210</code>
+<country>JP</country></postal>
+<phone>+81 44 5492238</phone>
+<email>katsube@isl.rdc.toshiba.co.jp</email></address></author>
+<author initials='K.' surname='Nagami' fullname='Ken-ichi Nagami'>
+<organization>R&amp;D Center, Toshiba</organization>
+<address>
+<postal>
+<street>1 Komukai Toshiba-cho</street>
+<street>Saiwai-ku</street>
+<street>Kawasaki</street>
+<code>210</code>
+<country>JP</country></postal>
+<phone>+81 44 5492238</phone>
+<email>nagami@isl.rdc.toshiba.co.jp</email></address></author>
+<author initials='H.' surname='Esaki' fullname='Hiroshi Esaki'>
+<organization>R&amp;D Center, Toshiba</organization>
+<address>
+<postal>
+<street>1 Komukai Toshiba-cho</street>
+<street>Saiwai-ku</street>
+<street>Kawasaki</street>
+<code>210</code>
+<country>JP</country></postal>
+<phone>+81 44 5492238</phone>
+<email>hiroshi@isl.rdc.toshiba.co.jp</email></address></author>
+<date year='1997' month='February' />
+<abstract>
+<t>This memo describes a new internetworking architecture which makes better use of the property of ATM.  IP datagrams are transferred along hop-by-hop path via routers, but datagram assembly/disassembly and IP header processing are not necessarily carried out at individual routers in the proposed architecture.  A concept of "Cell Switch Router (CSR)" is introduced as a new internetworking equipment, which has ATM cell switching capabilities in addition to conventional IP datagram forwarding.  Proposed architecture can provide applications with high-throughput and low-latency ATM pipes while retaining current router-based internetworking concept.  It also provides applications with specific QoS/bandwidth by cooperating with internetworking level resource reservation protocols such as RSVP.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2098' />
+<format type='TXT' octets='43622' target='http://www.rfc-editor.org/rfc/rfc2098.txt' />
+</reference>

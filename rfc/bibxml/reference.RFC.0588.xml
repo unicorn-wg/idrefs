@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0588'>
+
+<front>
+<title>London Node Is Now Up</title>
+<author initials='A.' surname='Stokes' fullname='A. Stokes'>
+<organization /></author>
+<date year='1973' month='October' /></front>
+
+<seriesInfo name='RFC' value='588' />
+<format type='TXT' octets='5608' target='http://www.rfc-editor.org/rfc/rfc588.txt' />
+<format type='PDF' octets='180352' target='http://www.rfc-editor.org/rfc/rfc588.pdf' />
+</reference>

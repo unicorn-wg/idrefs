@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1169'>
+
+<front>
+<title>Explaining the role of GOSIP</title>
+<author initials='V.' surname='Cerf' fullname='Vinton G. Cerf'>
+<organization>Corporation for National Research Initiatives</organization>
+<address>
+<postal>
+<street>1895 Preston White Drive</street>
+<street>Suite 100</street>
+<city>Reston</city>
+<region>VA</region>
+<code>22091</code>
+<country>US</country></postal>
+<phone>+1 703 620 8990</phone>
+<email>vcerf@nri.reston.va.us</email></address></author>
+<author initials='K.' surname='Mills' fullname='Kevin L. Mills'>
+<organization>National Institute of Standards and Technology (NIST)</organization>
+<address>
+<postal>
+<street>Building 225</street>
+<street>Room B217</street>
+<city>Gaithersburg</city>
+<region>MD</region>
+<code>20899</code>
+<country>US</country></postal>
+<phone>+1 301 975 3618</phone>
+<email>MILLS@ECF.NCSL.NIST.GOV</email></address></author>
+<date year='1990' day='1' month='August' />
+<abstract>
+<t>The Federal Networking Council (FNC), the Internet Activities Board (IAB), and the Internet Engineering Task Force (IETF) have a firm commitment to responsible integration of OSI based upon sound network planning.  This implies that OSI will be added to the Internet without sacrificing services now available to existing Internet users, and that a multi-protocol environment will exist in the Internet for a prolonged period.  Planning is underway within the Internet community to enable integration of OSI, coexistence of OSI with TCP/IP, and interoperability between OSI and TCP/IP.</t>
+<t>The U.S. Government OSI Profile (GOSIP) is a necessary tool for planning OSI integration.  However, as the August 1990 requirement date for GOSIP compliance approaches, concern remains as to how GOSIP should be applied to near-term network planning.</t>
+<t>The intent of this statement is to help explain the role and applicability of the GOSIP document, as well as to emphasize the government's commitment to an integrated interoperable OSI environment based on responsible planning.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1169' />
+<format type='TXT' octets='30255' target='http://www.rfc-editor.org/rfc/rfc1169.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0106'>
+
+<front>
+<title>User/Server Site Protocol Network Host Questionnaire</title>
+<author initials='T.' surname='O&apos;Sullivan' fullname='Thomas O&apos;Sullivan'>
+<organization>RDS</organization></author>
+<date year='1971' day='3' month='March' />
+<abstract>
+<t>The answer to a number of questions about the characteristics and operation of Network HOSTS will be useful to implementers of some early versions of TELNET, and/or to the USER/SERVER SITE PROTOCOL Committee in their consideration of a full TELNET PROTOCOL specification.</t></abstract></front>
+
+<seriesInfo name='RFC' value='106' />
+<format type='TXT' octets='6946' target='http://www.rfc-editor.org/rfc/rfc106.txt' />
+</reference>

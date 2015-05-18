@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0936'>
+
+<front>
+<title>Another Internet subnet addressing scheme</title>
+<author initials='M.' surname='Karels' fullname='Michael J. Karels'>
+<organization>University California, Berkeley</organization></author>
+<date year='1985' day='1' month='February' /></front>
+
+<seriesInfo name='RFC' value='936' />
+<format type='TXT' octets='10179' target='http://www.rfc-editor.org/rfc/rfc936.txt' />
+</reference>

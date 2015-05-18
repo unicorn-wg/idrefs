@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2195'>
+
+<front>
+<title abbrev='IMAP/POP AUTHorize Extension'>IMAP/POP AUTHorize Extension for Simple Challenge/Response</title>
+<author initials='J.C.' surname='Klensin' fullname='John C. Klensin'>
+<organization>MCI</organization>
+<address>
+<postal>
+<street>800 Boylston</street>
+<street>7th floor</street>
+<street>Boston</street>
+<street>MA 02199</street>
+<country>USA</country></postal>
+<phone>+1 617 960 1011</phone>
+<email>klensin@mci.net</email></address></author>
+<author initials='R.' surname='Catoe' fullname='Randy Catoe'>
+<organization>MCI</organization>
+<address>
+<postal>
+<street>2100 Reston Parkway</street>
+<street>Reston</street>
+<street>VA 22091</street>
+<country>USA</country></postal>
+<phone>+1 703 715 7366</phone>
+<email>randy@mci.net</email></address></author>
+<author initials='P.' surname='Krumviede' fullname='Paul Krumviede'>
+<organization>MCI</organization>
+<address>
+<postal>
+<street>2100 Reston Parkway</street>
+<street>Reston</street>
+<street>VA 22091</street>
+<country>USA</country></postal>
+<phone>+1 703 715 7251</phone>
+<email>paul@mci.net</email></address></author>
+<date year='1997' month='September' />
+<area>Applications</area>
+<keyword>IMAP</keyword>
+<keyword>authentication</keyword>
+<keyword>internet message access protocol</keyword>
+<keyword>post office protocol</keyword>
+<keyword>security</keyword>
+<abstract>
+<t>
+   While IMAP4 supports a number of strong authentication mechanisms as
+   described in RFC 1731, it lacks any mechanism that neither passes
+   cleartext, reusable passwords across the network nor requires either
+   a significant security infrastructure or that the mail server update
+   a mail-system-wide user authentication file on each mail access.
+   This specification provides a simple challenge-response
+   authentication protocol that is suitable for use with IMAP4.  Since
+   it utilizes Keyed-MD5 digests and does not require that the secret be
+   stored in the clear on the server, it may also constitute an
+   improvement on APOP for POP3 use as specified in RFC 1734.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2195' />
+<format type='TXT' octets='10468' target='http://www.rfc-editor.org/rfc/rfc2195.txt' />
+<format type='XML' octets='15572' target='http://xml.resource.org/public/rfc/xml/rfc2195.xml' />
+</reference>

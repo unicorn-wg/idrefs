@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1865'>
+
+<front>
+<title abbrev='EDI Meets the Internet'>EDI Meets the Internet Frequently Asked Questions about Electronic Data Interchange (EDI) on the Internet</title>
+<author initials='W.' surname='Houser' fullname='Walter Houser'>
+<organization>Department of Veterans Affairs</organization>
+<address>
+<postal>
+<street>810 Vermont Avenue</street>
+<city>Washington</city>
+<region>DC</region>
+<code>20240</code>
+<country>US</country></postal>
+<phone>+1 202 786 9572</phone>
+<email>houser.walt@forum.va.gov</email>
+<uri>http://www.va.gov/</uri></address></author>
+<author initials='J.A.' surname='Griffin' fullname='James A. (Artch) Griffin'>
+<organization>Athena Associates</organization>
+<address>
+<postal>
+<street>18924 High Point Drive</street>
+<city>Gaithersburg</city>
+<region>MD</region>
+<code>20879</code>
+<country>US</country></postal>
+<phone>+1 301 972 2502</phone>
+<email>agriffin@cpcug.org</email></address></author>
+<author initials='C.' surname='Hage' fullname='Carl Hage'>
+<organization>C. Hage Associates</organization>
+<address>
+<postal>
+<street>1180 Reed Ave</street>
+<street>#51</street>
+<city>Sunnyvale</city>
+<region>CA</region>
+<code>94086</code>
+<country>US</country></postal>
+<email>carl@chage.com</email>
+<uri>http://www.chage.com/chage/</uri></address></author>
+<date year='1996' month='January' />
+<abstract>
+<t>This memo is targeted towards the EDI community that is unfamiliar with the Internet, including EDI software developers, users, and service providers.  The memo introduces the Internet and assumes a basic knowledge of EDI.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1865' />
+<format type='TXT' octets='98361' target='http://www.rfc-editor.org/rfc/rfc1865.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4531'>
+
+<front>
+<title>Lightweight Directory Access Protocol (LDAP) Turn Operation</title>
+<author initials='K.' surname='Zeilenga' fullname='K. Zeilenga'>
+<organization /></author>
+<date year='2006' month='June' />
+<abstract>
+<t>This specification describes a Lightweight Directory Access Protocol (LDAP) extended operation to reverse (or "turn") the roles of client and server for subsequent protocol exchanges in the session, or to enable each peer to act as both client and server with respect to the other.  This memo defines an Experimental Protocol for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='4531' />
+<format type='TXT' octets='18986' target='http://www.rfc-editor.org/rfc/rfc4531.txt' />
+</reference>

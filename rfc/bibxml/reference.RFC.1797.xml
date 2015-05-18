@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1797'>
+
+<front>
+<title>Class A Subnet Experiment</title>
+<author>
+<organization>Internet Assigned Numbers Authority (IANA)</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<street>Suite 1001</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292-6695</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511</phone>
+<email>iana@isi.edu</email></address></author>
+<date year='1995' month='April' /></front>
+
+<seriesInfo name='RFC' value='1797' />
+<format type='TXT' octets='6779' target='http://www.rfc-editor.org/rfc/rfc1797.txt' />
+</reference>

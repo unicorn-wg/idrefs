@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0576'>
+
+<front>
+<title>Proposal for modifying linking</title>
+<author initials='K.' surname='Victor' fullname='K. Victor'>
+<organization /></author>
+<date year='1973' month='September' /></front>
+
+<seriesInfo name='RFC' value='576' />
+<format type='TXT' octets='3916' target='http://www.rfc-editor.org/rfc/rfc576.txt' />
+<format type='PDF' octets='175955' target='http://www.rfc-editor.org/rfc/rfc576.pdf' />
+</reference>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4834'>
+
+<front>
+<title abbrev='L3VPN Mcast Reqs'>Requirements for Multicast in Layer 3
+    Provider-Provisioned Virtual Private Networks (PPVPNs)</title>
+<author fullname='Thomas Morin' initials='T' role='editor' surname='Morin'>
+<organization abbrev='France Telecom R&amp;D'>France Telecom
+      R&amp;D</organization>
+<address>
+<postal>
+<street>2, avenue Pierre Marzin</street>
+<code>22307</code>
+<city>Lannion</city>
+<country>France</country></postal>
+<email>thomas.morin@orange-ftgroup.com</email></address></author>
+<date year='2007' month='April' />
+<workgroup>l3vpn Working Group</workgroup>
+<abstract>
+<t>This document presents a set of functional requirements for network
+      solutions that allow the deployment of IP multicast within Layer 3 (L3)
+      Provider-Provisioned Virtual Private Networks (PPVPNs). It specifies
+      requirements both from the end user and service provider standpoints. It
+      is intended that potential solutions specifying the support of IP
+      multicast within such VPNs will use these requirements as
+      guidelines.</t></abstract></front>
+
+<seriesInfo name='RFC' value='4834' />
+<format type='TXT' octets='80341' target='http://www.rfc-editor.org/rfc/rfc4834.txt' />
+<format type='HTML' octets='136966' target='http://xml.resource.org/public/rfc/html/rfc4834.html' />
+<format type='XML' octets='159945' target='http://xml.resource.org/public/rfc/xml/rfc4834.xml' />
+</reference>

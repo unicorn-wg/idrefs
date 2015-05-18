@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1160'>
+
+<front>
+<title abbrev='The IAB'>Internet Activities Board</title>
+<author initials='V.' surname='Cerf' fullname='Vinton G. Cerf'>
+<organization>Corporation for National Research Initiatives (CNRI)</organization>
+<address>
+<postal>
+<street>1895 Preston White Drive</street>
+<street>Suite 100</street>
+<city>Reston</city>
+<region>VA</region>
+<code>22091</code>
+<country>US</country></postal>
+<phone>+1 703 620 8990</phone>
+<email>VCERF@NRI.RESTON.VA.US</email></address></author>
+<date year='1990' day='1' month='May' /></front>
+
+<seriesInfo name='RFC' value='1160' />
+<format type='TXT' octets='28182' target='http://www.rfc-editor.org/rfc/rfc1160.txt' />
+</reference>

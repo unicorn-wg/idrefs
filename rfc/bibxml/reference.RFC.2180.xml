@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2180'>
+
+<front>
+<title abbrev='IMAP4'>IMAP4 Multi-Accessed Mailbox Practice</title>
+<author initials='M.' surname='Gahrns' fullname='Mike Gahrns'>
+<organization>Microsoft</organization>
+<address>
+<postal>
+<street>One Microsoft Way</street>
+<street>Redmond</street>
+<street>WA</street>
+<street>98072</street></postal>
+<phone>(206) 936-9833</phone>
+<email>mikega@microsoft.com</email></address></author>
+<date year='1997' month='July' />
+<area>Applications</area>
+<keyword>IMAP</keyword>
+<keyword>internet message access protocol</keyword>
+<keyword>mail</keyword></front>
+
+<seriesInfo name='RFC' value='2180' />
+<format type='TXT' octets='24750' target='http://www.rfc-editor.org/rfc/rfc2180.txt' />
+<format type='HTML' octets='47222' target='http://xml.resource.org/public/rfc/html/rfc2180.html' />
+<format type='XML' octets='27303' target='http://xml.resource.org/public/rfc/xml/rfc2180.xml' />
+</reference>

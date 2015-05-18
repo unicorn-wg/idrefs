@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2725'>
+
+<front>
+<title>Routing Policy System Security</title>
+<author initials='C.' surname='Villamizar' fullname='Curtis Villamizar'>
+<organization>Avici Systems</organization>
+<address>
+<email>curtis@avici.com</email></address></author>
+<author initials='C.' surname='Alaettinoglu' fullname='Cengiz Alaettinoglu'>
+<organization>ISI</organization>
+<address>
+<email>cengiz@ISI.EDU</email></address></author>
+<author initials='D.' surname='Meyer' fullname='David M. Meyer'>
+<organization>Cisco</organization>
+<address>
+<email>dmm@cisco.com</email></address></author>
+<author initials='S.' surname='Murphy' fullname='Sandy Murphy'>
+<organization>Trusted Information Systems</organization>
+<address>
+<email>sandy@tis.com</email></address></author>
+<date year='1999' month='December' />
+<abstract>
+<t>The RIPE database specifications and RPSL language define languages used as the basis for representing information in a routing policy system.  A repository for routing policy system information is known as a routing registry.  A routing registry provides a means of exchanging information needed to address many issues of importance to the operation of the Internet.  The implementation and deployment of a routing policy system must maintain some degree of integrity to be of any operational use.  This document addresses the need to assure integrity of the data by providing an authentication and 
+authorization model.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2725' />
+<format type='TXT' octets='101649' target='http://www.rfc-editor.org/rfc/rfc2725.txt' />
+</reference>

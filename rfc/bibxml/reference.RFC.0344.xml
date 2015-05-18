@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0344'>
+
+<front>
+<title>Network Host Status</title>
+<author initials='E.' surname='Westheimer' fullname='Ellen Westheimer'>
+<organization>Bolt Beranek and Newman (BBN)</organization></author>
+<date year='1972' day='22' month='May' />
+<abstract>
+<t>This RFC reports on the status of most Network Hosts from May 8 to May 19.</t></abstract></front>
+
+<seriesInfo name='RFC' value='344' />
+<format type='TXT' octets='8221' target='http://www.rfc-editor.org/rfc/rfc344.txt' />
+</reference>

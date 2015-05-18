@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1705'>
+
+<front>
+<title abbrev='Six Virtual Inches to the Left: IPng Problems'>Six Virtual Inches to the Left: The Problem with IPng</title>
+<author initials='R.' surname='Carlson' fullname='Richard Carlson'>
+<organization>Argonne National Laboratory, Electronics and Computing Technologies</organization>
+<address>
+<postal>
+<street />
+<city>Argonne</city>
+<region>IL</region>
+<code>60439</code>
+<country>US</country></postal>
+<phone>+1 708 252 7289</phone>
+<email>RACarlson@anl.gov</email></address></author>
+<author initials='D.' surname='Ficarella' fullname='Domenic Ficarella'>
+<organization>Motorola</organization>
+<address>
+<phone>+1 708 632 4029</phone>
+<email>ficarell@cpdmfg.cig.mot.com</email></address></author>
+<date year='1994' month='October' />
+<abstract>
+<t>This document was submitted to the IETF IPng area in response to RFC 1550.  Publication of this document does not imply acceptance by the IPng area of any ideas expressed within.  Comments should be submitted to the big-internet@munnari.oz.au mailing list.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1705' />
+<format type='TXT' octets='65222' target='http://www.rfc-editor.org/rfc/rfc1705.txt' />
+</reference>

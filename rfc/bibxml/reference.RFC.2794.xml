@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2794'>
+
+<front>
+<title abbrev='Mobile Node NAI'>Mobile IP Network Access Identifier Extension for IPv4</title>
+<author initials='P.' surname='Calhoun' fullname='Pat R. Calhoun'>
+<organization>Sun Microsystems Laboratories</organization>
+<address>
+<postal>
+<street>15 Network Circle</street>
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<phone>+1 650 786 7733</phone>
+<email>pcalhoun@eng.sun.com</email></address></author>
+<author initials='C.' surname='Perkins' fullname='Charles E. Perkins'>
+<organization>Nokia Research Center</organization>
+<address>
+<postal>
+<street>313 Fairchild Drive</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<phone>+1 650 625 2986</phone>
+<email>charliep@iprg.nokia.com</email></address></author>
+<date year='2000' month='March' />
+<abstract>
+<t>AAA servers are in use within the Internet today to provide authentication and authorization services for dial-up computers. Such services are likely to be equally valuable for mobile nodes using Mobile IP when the nodes are attempting to connect to foreign domains with AAA servers.  AAA servers today identify clients by using the Network Access Identifier (NAI). Our proposal defines a way for the mobile node to identify itself, by including the NAI along with the Mobile IP Registration Request.This memo also updates RFC2290 which specifies the Mobile-IPv4 Configuration option for IPCP, by allowing the Mobile Node's Home Address field of this option to be zero.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2794' />
+<format type='TXT' octets='16960' target='http://www.rfc-editor.org/rfc/rfc2794.txt' />
+</reference>

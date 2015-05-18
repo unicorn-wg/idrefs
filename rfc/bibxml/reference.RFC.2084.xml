@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2084'>
+
+<front>
+<title>Considerations for Web Transaction Security</title>
+<author initials='G.' surname='Bossert' fullname='Greg Bossert'>
+<organization>Silicon Graphics, Inc.</organization>
+<address>
+<postal>
+<street>2011 North Shoreline Blvd.</street>
+<street>MS 15-7</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043-1389</code>
+<country>US</country></postal>
+<email>bossert@corp.sgi.com</email></address></author>
+<author initials='S.' surname='Cooper' fullname='Simon Cooper'>
+<organization>Silicon Graphics, Inc.</organization>
+<address>
+<postal>
+<street>2011 North Shoreline Blvd.</street>
+<street>MS 15-7</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043-1389</code>
+<country>US</country></postal>
+<email>sc@corp.sgi.com</email></address></author>
+<author initials='W.' surname='Drummond' fullname='Walt Drummond'>
+<organization>Institute of Electrical and Electronics Engineers, Inc.</organization>
+<address>
+<postal>
+<street>445 Hoes Lane</street>
+<city>Piscataway</city>
+<region>NJ</region>
+<code>08855-1331</code>
+<country>US</country></postal>
+<phone>+1 908 562 6545</phone>
+<facsimile>+1 908 562 1727</facsimile>
+<email>drummond@ieee.org</email></address></author>
+<date year='1997' month='January' />
+<abstract>
+<t>This document specifies the requirements for the provision of security services to the HyperText Transport Protocol.  These services include confidentiality, integrity, user authentication, and authentication of servers/services, including proxied or gatewayed services.  Such services may be provided as extensions to HTTP, or as    an encapsulating security protocol.  Secondary requirements include ease of integration and support of multiple mechanisms for providing these services.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2084' />
+<format type='TXT' octets='9022' target='http://www.rfc-editor.org/rfc/rfc2084.txt' />
+</reference>

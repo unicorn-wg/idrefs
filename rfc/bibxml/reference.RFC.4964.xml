@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4964'>
+
+<front>
+<title>The P-Answer-State Header Extension to the Session Initiation Protocol for the Open Mobile Alliance Push to Talk over Cellular</title>
+<author initials='A.' surname='Allen' fullname='A. Allen'>
+<organization /></author>
+<author initials='J.' surname='Holm' fullname='J. Holm'>
+<organization /></author>
+<author initials='T.' surname='Hallin' fullname='T. Hallin'>
+<organization /></author>
+<date year='2007' month='September' />
+<abstract>
+<t>This document describes a private Session Initiation Protocol (SIP) header (P-header) used by the Open Mobile Alliance (OMA) for Push to talk over Cellular (PoC) along with its applicability, which is limited to the OMA PoC application.  The P-Answer-State header is used for indicating the answering mode of the handset, which is particular to the PoC application.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='4964' />
+<format type='TXT' octets='67505' target='http://www.rfc-editor.org/rfc/rfc4964.txt' />
+</reference>

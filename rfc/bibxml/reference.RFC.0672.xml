@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0672'>
+
+<front>
+<title>Multi-site data collection facility</title>
+<author initials='R.' surname='Schantz' fullname='Richard Schantz'>
+<organization>Bolt Baranek and Newman (BBN), TENEX</organization></author>
+<date year='1974' day='6' month='December' /></front>
+
+<seriesInfo name='RFC' value='672' />
+<format type='TXT' octets='25736' target='http://www.rfc-editor.org/rfc/rfc672.txt' />
+</reference>

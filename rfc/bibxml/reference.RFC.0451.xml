@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0451'>
+
+<front>
+<title abbrev='Unified User Level Protocol Proposal'>Tentative proposal for a Unified User Level Protocol</title>
+<author initials='M.' surname='Padlipsky' fullname='Mike A. Padlipsky'>
+<organization>Massachusetts Institute of Technology (MIT), Multics</organization></author>
+<date year='1973' day='22' month='February' />
+<abstract>
+<t>Now that proposals for expansions to the Telnet Protocol are in vogue again (RFC's 426 and 435, for example), I'd like to promote some discussion of a particular favorite of my own.  Please note that this is presented as a tentative proposal: it's an attempt to consider the desirability of a new approach, not a rigorous specification.</t></abstract></front>
+
+<seriesInfo name='RFC' value='451' />
+<format type='TXT' octets='8114' target='http://www.rfc-editor.org/rfc/rfc451.txt' />
+</reference>

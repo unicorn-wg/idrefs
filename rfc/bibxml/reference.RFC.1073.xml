@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1073'>
+
+<front>
+<title>Telnet window size option</title>
+<author initials='D.' surname='Waitzman' fullname='D. Waitzman'>
+<organization>Bolt Baranek and Newman (BBN)/STC</organization></author>
+<date year='1988' day='1' month='October' /></front>
+
+<seriesInfo name='RFC' value='1073' />
+<format type='TXT' octets='7639' target='http://www.rfc-editor.org/rfc/rfc1073.txt' />
+</reference>

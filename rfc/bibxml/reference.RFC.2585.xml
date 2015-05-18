@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2585'>
+
+<front>
+<title abbrev='PKIX Operational Protocols: FTP and HTTP'>Internet X.509 Public Key Infrastructure Operational Protocols: FTP and HTTP</title>
+<author initials='R.' surname='Housley' fullname='Russell Housley'>
+<organization>SPYRUS</organization>
+<address>
+<postal>
+<street>381 Elden Street</street>
+<street>Suite 1120</street>
+<street>Suite 1120</street>
+<city>Herndon</city>
+<region>VA</region>
+<code>20170</code>
+<country>US</country></postal>
+<email>housley@spyrus.com</email></address></author>
+<author initials='P.' surname='Hoffman' fullname='Paul Hoffman'>
+<organization>Internet Mail Consortium</organization>
+<address>
+<postal>
+<street>127 Segre Place</street>
+<city>Santa Cruz</city>
+<region>CA</region>
+<code>95060</code>
+<country>US</country></postal>
+<email>phoffman@imc.org</email></address></author>
+<date year='1999' month='May' />
+<abstract>
+<t>The protocol conventions described in this document
+satisfy some of
+the operational requirements of the Internet Public Key
+Infrastructure (PKI).
+This document specifies the conventions for
+using the File Transfer Protocol (FTP) and the Hypertext Transfer
+Protocol (HTTP) to obtain certificates and certificate revocation
+lists (CRLs) from PKI repositories.
+Additional mechanisms addressing
+PKIX operational requirements are specified in separate
+documents.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2585' />
+<format type='TXT' octets='14813' target='http://www.rfc-editor.org/rfc/rfc2585.txt' />
+</reference>

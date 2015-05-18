@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1985'>
+
+<front>
+<title>SMTP Service Extension for Remote Message Queue Starting</title>
+<author initials='J.' surname='De Winter' fullname='Jack De Winter'>
+<organization>Wildbear Consulting, Inc.</organization>
+<address>
+<postal>
+<street>17 Brock Street</street>
+<city>Kitchener</city>
+<region>Ontario</region>
+<code>N2M 1X2</code>
+<country>CA</country></postal>
+<phone>+1 519 576 3873</phone>
+<email>jack@wildbear.on.ca</email></address></author>
+<date year='1996' month='August' />
+<abstract>
+<t>This memo defines an extension to the SMTP service whereby an SMTP client and server may interact to give the server an opportunity to start the processing of its queues for messages to go to a given host.  This extension is meant to be used in startup conditions as well as for mail nodes that have transient connections to their service providers.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1985' />
+<format type='TXT' octets='14815' target='http://www.rfc-editor.org/rfc/rfc1985.txt' />
+</reference>

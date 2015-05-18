@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0468'>
+
+<front>
+<title>FTP data compression</title>
+<author initials='R.' surname='Braden' fullname='R.  Braden'>
+<organization>University of California, Los Angeles (UCLA), CCN</organization></author>
+<date year='1973' day='8' month='March' /></front>
+
+<seriesInfo name='RFC' value='468' />
+<format type='TXT' octets='14909' target='http://www.rfc-editor.org/rfc/rfc468.txt' />
+</reference>

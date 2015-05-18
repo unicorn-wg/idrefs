@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1032'>
+
+<front>
+<title>Domain administrators guide</title>
+<author initials='M.' surname='Stahl' fullname='M. Stahl'>
+<organization>SRI International</organization></author>
+<date year='1987' day='1' month='November' /></front>
+
+<seriesInfo name='RFC' value='1032' />
+<format type='TXT' octets='29454' target='http://www.rfc-editor.org/rfc/rfc1032.txt' />
+</reference>

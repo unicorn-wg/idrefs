@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0483'>
+
+<front>
+<title>Cancellation of the resource notebook framework meeting</title>
+<author initials='M.' surname='Kudlick' fullname='Mike Kudlick'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
+<date year='1973' day='14' month='March' /></front>
+
+<seriesInfo name='RFC' value='483' />
+<format type='TXT' octets='1021' target='http://www.rfc-editor.org/rfc/rfc483.txt' />
+</reference>

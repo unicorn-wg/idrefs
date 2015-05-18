@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1566'>
+
+<front>
+<title>Mail Monitoring MIB</title>
+<author initials='S.' surname='Kille' fullname='Steve Kille'>
+<organization>ISODE Consortium</organization>
+<address>
+<postal>
+<street>The Dome, The Square</street>
+<city>Richmond</city>
+<region>England</region>
+<code>TW9 1DT</code>
+<country>UK</country></postal>
+<phone>+44 81 3329091</phone>
+<email>S.Kille@isode.com</email></address></author>
+<author initials='N.' surname='Freed' fullname='Ned Freed'>
+<organization>Innosoft International, Inc.</organization>
+<address>
+<postal>
+<street>250 West First Street</street>
+<street>Suite 240</street>
+<city>Claremont</city>
+<region>CA</region>
+<code>91711</code>
+<country>US</country></postal>
+<phone>+1 909 624 7907</phone>
+<facsimile>+1 909 621 5319</facsimile>
+<email>ned@innosoft.com</email></address></author>
+<date year='1994' month='January' /></front>
+
+<seriesInfo name='RFC' value='1566' />
+<format type='TXT' octets='33136' target='http://www.rfc-editor.org/rfc/rfc1566.txt' />
+</reference>

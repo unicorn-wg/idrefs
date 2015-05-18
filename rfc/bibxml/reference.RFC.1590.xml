@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1590'>
+
+<front>
+<title>Media Type Registration Procedure</title>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511</phone>
+<facsimile>+1 310 823 6714</facsimile>
+<email>Postel@ISI.EDU</email></address></author>
+<date year='1994' month='March' />
+<abstract>
+<t>Several protocols allow the use of data representing different "media" such as text, images, audio, and video, and within such media different encoding styles, such as (in video) jpeg, gif, ief, and tiff.  The Multimedia Internet Message Extensions (MIME) protocoldefined several initial types of multimedia data objects, and a procedure for registering additional types with the Internet Assigned Numbers Authority (IANA).  Several questions have been raised about the requirements and administrative procedure for registering MIME content-type and subtypes, and the use of these Media Types for other applications.  This document addresses these issues and specifies a procedure for the registration of new Media Types (content- type/subtypes).  It also generalizes the scope of use of these Media Types to make it appropriate to use the same registrations and specifications with other applications.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1590' />
+<format type='TXT' octets='13044' target='http://www.rfc-editor.org/rfc/rfc1590.txt' />
+</reference>

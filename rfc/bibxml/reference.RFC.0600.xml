@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0600'>
+
+<front>
+<title>Interfacing an Illinois plasma terminal to the ARPANET</title>
+<author initials='A.' surname='Berggreen' fullname='A. Berggreen'>
+<organization /></author>
+<date year='1973' month='November' />
+<abstract>
+<t>Discusses some unusual interface issues for the Plato terminal.</t></abstract></front>
+
+<seriesInfo name='RFC' value='600' />
+<format type='TXT' octets='8510' target='http://www.rfc-editor.org/rfc/rfc600.txt' />
+<format type='PDF' octets='213041' target='http://www.rfc-editor.org/rfc/rfc600.pdf' />
+</reference>

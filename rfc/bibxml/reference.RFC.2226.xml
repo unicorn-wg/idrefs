@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2226'>
+
+<front>
+<title>IP Broadcast over ATM Networks</title>
+<author initials='T.J.' surname='Smith' fullname='Timothy J. Smith'>
+<organization>Network Routing Systems,</organization>
+<address>
+<postal>
+<street>International Business Machines Corporation.</street>
+<street>N21/664</street>
+<street>P.O.Box 12195</street>
+<street>Research Triangle Park</street>
+<street>NC 27709</street></postal>
+<phone>(919) 254-4723</phone>
+<email>tjsmith@vnet.ibm.com</email></address></author>
+<author initials='G.' surname='Armitage' fullname='Grenville Armitage'>
+<organization>Bell Labs, Lucent Technologies.</organization>
+<address>
+<postal>
+<street>101 Crawfords Corner Rd</street>
+<street>Holmdel</street>
+<street>NJ</street>
+<street>07733</street></postal>
+<email>gja@lucent.com</email></address></author>
+<date year='1997' month='October' />
+<area>Internet</area>
+<keyword>asynchronous transfer mode</keyword>
+<keyword>broadcast</keyword>
+<keyword>multicast</keyword>
+<abstract>
+<t>
+   This memo describes how the IP multicast service being developed by
+   the IP over ATM working group may be used to support IP broadcast
+   transmission. The solution revolves around treating the broadcast
+   problem as a special case of multicast, where every host in the
+   subnet or cluster is a member of the group.
+</t>
+<t>
+   An understanding of the services provided by RFC 2022 is assumed.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2226' />
+<format type='TXT' octets='30661' target='http://www.rfc-editor.org/rfc/rfc2226.txt' />
+<format type='XML' octets='30770' target='http://xml.resource.org/public/rfc/xml/rfc2226.xml' />
+</reference>

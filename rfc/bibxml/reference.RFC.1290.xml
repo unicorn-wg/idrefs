@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1290'>
+
+<front>
+<title abbrev='Searching for Treasure'>There's Gold in them thar Networks! or Searching for Treasure in all the Wrong Places</title>
+<author initials='J.' surname='Martin' fullname='Jerry Martin'>
+<organization>Ohio State University, ACS, Network Information Center</organization>
+<address>
+<postal>
+<street>1971 Neil Ave.</street>
+<city>Columbus</city>
+<region>OH</region>
+<code>43210-1210</code>
+<country>US</country></postal>
+<phone>+1 614 292 4843</phone>
+<email>jmartin@magnus.acs.ohio-state.edu</email></address></author>
+<date year='1991' month='December' />
+<abstract>
+<t>This document was presented at the 1991 ACM SIGUCCS User Services Conference.  It appears here in its updated form.</t>
+<t>There is a wealth of information on the network.  In fact, so much information, that you could spend your entire life browsing. This paper will present some of the "gold nuggets" of information and file repositories on the network that could be of use to end users.</t>
+<t>The ultimate goal is to make the route to these sources of information invisible to the user.  At present, this is not easy to do.  I will explain some of the techniques that can be used to make these nuggets easier to pick up so that we can all be richer.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1290' />
+<format type='TXT' octets='46997' target='http://www.rfc-editor.org/rfc/rfc1290.txt' />
+</reference>

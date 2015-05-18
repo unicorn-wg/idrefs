@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1852'>
+
+<front>
+<title abbrev='AH SHA'>IP Authentication using Keyed SHA</title>
+<author initials='P.' surname='Metzger' fullname='Perry Metzger'>
+<organization>Piermont Information Systems Inc.</organization>
+<address>
+<postal>
+<street>160 Cabrini Blvd.</street>
+<street>Suite #2</street>
+<city>New York</city>
+<region>NY</region>
+<code>10033</code>
+<country>US</country></postal>
+<email>perry@piermont.com</email></address></author>
+<author initials='W.' surname='Simpson' fullname='William Allen Simpson'>
+<organization>Daydreamer, Computer Systems Consulting Services</organization>
+<address>
+<postal>
+<street>1384 Fontaine</street>
+<city>Madison Heights</city>
+<region>MI</region>
+<code>48071</code>
+<country>US</country></postal>
+<email>Bill.Simpson@um.cc.umich.edu</email></address></author>
+<date year='1995' month='September' />
+<abstract>
+<t>This document describes the use of keyed SHA with the IP Authentication Header.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1852' />
+<format type='TXT' octets='9367' target='http://www.rfc-editor.org/rfc/rfc1852.txt' />
+</reference>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0081'>
+
+<front>
+<title>Request for Reference Information</title>
+<author initials='J.' surname='Bouknight' fullname='J. Bouknight'>
+<organization>University of Illinois, Center for Advanced Computation</organization>
+<address>
+<postal>
+<street>168 Engineering Research Laboratory</street>
+<city>Urbana</city>
+<region>IL</region>
+<code>61801</code>
+<country>US</country></postal></address></author>
+<date year='1970' day='3' month='December' />
+<abstract>
+<t>Please ask your Technical Liaison Contact if he will send me as many references as he can in the subject areas of data communications and communications theory.</t></abstract></front>
+
+<seriesInfo name='RFC' value='81' />
+<format type='TXT' octets='956' target='http://www.rfc-editor.org/rfc/rfc81.txt' />
+</reference>

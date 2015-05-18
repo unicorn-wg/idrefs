@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4329'>
+
+<front>
+<title>Scripting Media Types</title>
+<author initials='B.' surname='Hoehrmann' fullname='B. Hoehrmann'>
+<organization /></author>
+<date year='2006' month='April' />
+<abstract>
+<t>This document describes the registration of media types for the ECMAScript and JavaScript programming languages and conformance requirements for implementations of these types.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='4329' />
+<format type='TXT' octets='30230' target='http://www.rfc-editor.org/rfc/rfc4329.txt' />
+</reference>

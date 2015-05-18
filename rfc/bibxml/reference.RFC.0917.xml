@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0917'>
+
+<front>
+<title>Internet subnets</title>
+<author initials='J.' surname='Mogul' fullname='Jeffrey Mogul'>
+<organization>Stanford University, Computer Science Department</organization></author>
+<date year='1984' day='1' month='October' /></front>
+
+<seriesInfo name='RFC' value='917' />
+<format type='TXT' octets='47072' target='http://www.rfc-editor.org/rfc/rfc917.txt' />
+</reference>

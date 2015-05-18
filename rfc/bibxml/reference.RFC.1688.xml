@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1688'>
+
+<front>
+<title abbrev='IPng Mobility'>IPng Mobility Considerations</title>
+<author initials='W.' surname='Simpson' fullname='William Allen Simpson'>
+<organization>Daydreamer, Computer Systems Consulting Services</organization>
+<address>
+<postal>
+<street>1384 Fontaine</street>
+<city>Madison Heights</city>
+<region>MI</region>
+<code>48071</code>
+<country>US</country></postal>
+<email>Bill.Simpson@um.cc.umich.edu or</email></address></author>
+<date year='1994' month='August' />
+<abstract>
+<t>This document was submitted to the IPng Area in response to RFC 1550. Publication of this document does not imply acceptance by the IPng Area of any ideas expressed within.  Comments should be submitted to the big-internet@munnari.oz.au mailing list.  This RFC specifies criteria related to mobility for consideration in design and selection of the Next Generation of IP.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1688' />
+<format type='TXT' octets='19151' target='http://www.rfc-editor.org/rfc/rfc1688.txt' />
+</reference>

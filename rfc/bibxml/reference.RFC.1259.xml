@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1259'>
+
+<front>
+<title abbrev='Building The Open Road'>Building the open road: The NREN as test-bed for the national public network</title>
+<author initials='M.' surname='Kapor' fullname='Mitchell Kapor'>
+<organization>Electronic Frontier Foundation</organization>
+<address>
+<postal>
+<street>155 Second Street</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02142</code>
+<country>US</country></postal>
+<phone>+1 617 864 1550</phone>
+<email>mkapor@eff.org</email></address></author>
+<date year='1991' day='1' month='September' /></front>
+
+<seriesInfo name='RFC' value='1259' />
+<format type='TXT' octets='61654' target='http://www.rfc-editor.org/rfc/rfc1259.txt' />
+</reference>

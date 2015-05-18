@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4125'>
+
+<front>
+<title>Maximum Allocation Bandwidth Constraints Model for Diffserv-aware MPLS Traffic Engineering</title>
+<author initials='F.' surname='Le Faucheur' fullname='F. Le Faucheur'>
+<organization /></author>
+<author initials='W.' surname='Lai' fullname='W. Lai'>
+<organization /></author>
+<date year='2005' month='June' />
+<abstract>
+<t>This document provides specifications for one Bandwidth Constraints Model for Diffserv-aware MPLS Traffic Engineering, which is referred to as the Maximum Allocation Model.  This memo defines an Experimental Protocol for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='4125' />
+<format type='TXT' octets='22585' target='http://www.rfc-editor.org/rfc/rfc4125.txt' />
+</reference>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0158'>
+
+<front>
+<title>Telnet Protocol: A Proposed Document</title>
+<author initials='T.C.' surname='O&apos;Sullivan' fullname='T.C. O&apos;Sullivan'>
+<organization /></author>
+<date year='1971' month='May' /></front>
+
+<seriesInfo name='RFC' value='158' />
+<format type='TXT' octets='21025' target='http://www.rfc-editor.org/rfc/rfc158.txt' />
+<format type='PDF' octets='429985' target='http://www.rfc-editor.org/rfc/rfc158.pdf' />
+</reference>

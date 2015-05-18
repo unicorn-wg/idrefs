@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1467'>
+
+<front>
+<title>Status of CIDR Deployment in the Internet</title>
+<author initials='C.' surname='Topolcic' fullname='Claudio Topolcic'>
+<organization>Corporation for National Research Initiatives</organization>
+<address>
+<postal>
+<street>895 Preston White Drive</street>
+<street>Suite 100</street>
+<city>Reston</city>
+<region>VA</region>
+<code>22091</code>
+<country>US</country></postal>
+<phone>+1 703 620 8990</phone>
+<email>topolcic@CNRI.Reston.VA.US</email></address></author>
+<date year='1993' month='August' />
+<abstract>
+<t>This document describes the current status of the development and deployment of CIDR technology into the Internet. This document replaces RFC 1367, which was a schedule for the deployment of IP address space management procedures to support route aggregation. Since all the milestones proposed in RFC 1367 except for the delivery and installation of CIDR software were met, it does not seem appropriate to issue an updated schedule. Rather, this document is intended to provide information about how this effort is proceeding, which may be of interest to the community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1467' />
+<format type='TXT' octets='20720' target='http://www.rfc-editor.org/rfc/rfc1467.txt' />
+</reference>

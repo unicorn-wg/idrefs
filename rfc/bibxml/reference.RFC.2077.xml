@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2077'>
+
+<front>
+<title abbrev='Model Primary MIME Types'>The Model Primary Content Type for Multipurpose Internet Mail Extensions</title>
+<author initials='S.' surname='Nelson' fullname='S. D. Nelson'>
+<organization>University of California, Lawrence Livermore National Laboratory</organization>
+<address>
+<postal>
+<street>7000 East Ave.</street>
+<street>L-153</street>
+<city>Livermore</city>
+<region>CA</region>
+<code>94550</code>
+<country>US</country></postal>
+<email>nelson18@llnl.gov</email></address></author>
+<author initials='C.' surname='Parks' fullname='C. Parks'>
+<organization>National Institute of Standards &amp; Technology</organization>
+<address>
+<postal>
+<street>Bldg 220</street>
+<street>Room B-344</street>
+<city>Gaithersburg</city>
+<region>MD</region>
+<code>20899</code>
+<country>US</country></postal>
+<email>parks@eeel.nist.gov</email></address></author>
+<author initials='' surname='Mitra' fullname='Mitra'>
+<organization>WorldMaker</organization>
+<address>
+<postal>
+<street>1056 Noe</street>
+<city>San Francisco</city>
+<region>CA</region>
+<code>94114</code>
+<country>US</country></postal>
+<email>mitra@earth.path.net</email></address></author>
+<date year='1997' month='January' />
+<abstract>
+<t></t></abstract></front>
+
+<seriesInfo name='RFC' value='2077' />
+<format type='TXT' octets='30158' target='http://www.rfc-editor.org/rfc/rfc2077.txt' />
+</reference>

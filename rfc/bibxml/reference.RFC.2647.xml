@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2647'>
+
+<front>
+<title abbrev='Firewall Performance Terminology'>Benchmarking Terminology for Firewall Performance</title>
+<author initials='D.' surname='Newman' fullname='David Newman'>
+<organization>Data Communications magazine</organization>
+<address>
+<postal>
+<street>3 Park Avenue</street>
+<street>31st Floor</street>
+<city>New York</city>
+<region>NY</region>
+<code>10016</code>
+<country>US</country></postal>
+<phone>+1 212 592 8256</phone>
+<email>dnewman@data.com</email></address></author>
+<date year='1999' month='August' /></front>
+
+<seriesInfo name='RFC' value='2647' />
+<format type='TXT' octets='45374' target='http://www.rfc-editor.org/rfc/rfc2647.txt' />
+</reference>

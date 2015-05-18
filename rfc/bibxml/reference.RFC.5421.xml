@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5421'>
+
+<front>
+<title>Basic Password Exchange within the Flexible Authentication via Secure Tunneling Extensible Authentication Protocol (EAP-FAST)</title>
+<author initials='N.' surname='Cam-Winget' fullname='N. Cam-Winget'>
+<organization /></author>
+<author initials='H.' surname='Zhou' fullname='H. Zhou'>
+<organization /></author>
+<date year='2009' month='March' />
+<abstract>
+<t>The Flexible Authentication via Secure Tunneling Extensible Authentication Protocol (EAP-FAST) method enables secure communication between a peer and a server by using Transport Layer Security (TLS) to establish a mutually authenticated tunnel.  Within this tunnel, a basic password exchange, based on the Generic Token Card method (EAP-GTC), may be executed to authenticate the peer.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='5421' />
+<format type='TXT' octets='22345' target='http://www.rfc-editor.org/rfc/rfc5421.txt' />
+</reference>

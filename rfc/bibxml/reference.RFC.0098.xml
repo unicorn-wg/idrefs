@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0098'>
+
+<front>
+<title>Logger Protocol Proposal</title>
+<author initials='E.' surname='Meyer' fullname='Edwin W. Meyer Jr.'>
+<organization /></author>
+<author initials='T.' surname='Skinner' fullname='Thomas P. Skinner'>
+<organization /></author>
+<date year='1971' day='11' month='February' />
+<abstract>
+<t>With the ARPA Network Host-to-Host  Protocol  specified  and  at least  partially  implemented at a number of sites, the question of what steps should be taken next arises. There  appears  to  be  a  widespread feeling  among  Network  participants  that the first step should be the specification and implementation of what has  been  called  the  "Logger Protocol";  the  Computer  Network Group at project MAC agrees. The term "logger" has been commonly used to indicate the basic mechanism to  gain access  (to  "login")  to  a  system from a console. A network logger is intended to specify how the existing logger of  a  network  host  is  to interface to the network so as to permit a login from a console attached to another host.</t></abstract></front>
+
+<seriesInfo name='RFC' value='98' />
+<format type='TXT' octets='24536' target='http://www.rfc-editor.org/rfc/rfc98.txt' />
+</reference>

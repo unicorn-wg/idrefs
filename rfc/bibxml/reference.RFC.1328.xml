@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1328'>
+
+<front>
+<title>X.400 1988 to 1984 downgrading</title>
+<author initials='S.' surname='Hardcastle-Kille' fullname='Steve Hardcastle-Kille'>
+<organization>University College London, Department of Computer Science</organization>
+<address>
+<postal>
+<street>Gower Street</street>
+<city>London</city>
+<region>England</region>
+<code>WC1E 6BT</code>
+<country>UK</country></postal>
+<phone>+44 71 3807294</phone>
+<email>S.Kille@CS.UCL.AC.UK</email></address></author>
+<date year='1992' month='May' />
+<abstract>
+<t>This document considers issues of downgrading from X.400 (1988) to  X.400 (1984),.  Annexe B of X.419 specifies some downgrading rules, but these are not sufficient for provision of service in an environment containing both 1984 and 1988 components.  This document defines a number of extensions to this annexe.</t>
+<t>This specification is not tutorial.  COSINE Study 8.2 by J.A.I. Craigie gives a useful overview.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1328' />
+<format type='TXT' octets='10006' target='http://www.rfc-editor.org/rfc/rfc1328.txt' />
+</reference>

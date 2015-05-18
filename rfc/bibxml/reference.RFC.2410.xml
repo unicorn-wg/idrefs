@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2410'>
+
+<front>
+<title abbrev='NULL and IPsec'>The NULL Encryption Algorithm and Its Use With IPsec</title>
+<author initials='R.' surname='Glenn' fullname='Rob Glenn'>
+<organization>NIST</organization>
+<address>
+<email>rob.glenn@nist.gov</email></address></author>
+<author initials='S.' surname='Kent' fullname='Stephen Kent'>
+<organization>BBN Corporation</organization>
+<address>
+<email>kent@bbn.com</email></address></author>
+<date year='1998' month='November' />
+<area>Internet</area>
+<area>Security</area>
+<keyword>IP security protocol</keyword>
+<keyword>authentication</keyword>
+<keyword>encapsulate</keyword>
+<keyword>encryption</keyword>
+<keyword>security</keyword>
+<abstract>
+<t>
+   This memo defines the NULL encryption algorithm and its use with the
+   IPsec Encapsulating Security Payload (ESP).  NULL does nothing to
+   alter plaintext data.  In fact, NULL, by itself, does nothing.  NULL
+   provides the means for ESP to provide authentication and integrity
+   without confidentiality.
+</t>
+<t>
+   Further information on the other components necessary for ESP
+   implementations is provided by  and .
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2410' />
+<format type='TXT' octets='11239' target='http://www.rfc-editor.org/rfc/rfc2410.txt' />
+<format type='XML' octets='12917' target='http://xml.resource.org/public/rfc/xml/rfc2410.xml' />
+</reference>

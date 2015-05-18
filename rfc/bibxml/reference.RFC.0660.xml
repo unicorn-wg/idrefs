@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0660'>
+
+<front>
+<title>Some changes to the IMP and the IMP/Host interface</title>
+<author initials='D.' surname='Walden' fullname='D. Walden'>
+<organization>Bolt Baranek and Newman (BBN), NET</organization></author>
+<date year='1974' day='23' month='October' />
+<abstract>
+<t>In the next few weeks several changes will be made to the IMP software including changes to the IMP/Host software interface as specified in BBN Report No. 1822, Specifications for the Interconnection of a Host and an IMP. These changes come in four areas: a) decoupling of the message number sequences of Hosts; b) Host/Host access control; c) expansion of the message number window from four to eight; and d) provision for messages outside the normal message number mechanism. All changes are backward compatible with possible minor exceptions in timing.</t></abstract></front>
+
+<seriesInfo name='RFC' value='660' />
+<format type='TXT' octets='4991' target='http://www.rfc-editor.org/rfc/rfc660.txt' />
+</reference>

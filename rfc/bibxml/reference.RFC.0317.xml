@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0317'>
+
+<front>
+<title>Official Host-Host Protocol Modification: Assigned Link Numbers</title>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>University California Los Angeles (UCLA), Computer Science Department, NMC</organization></author>
+<date year='1972' day='20' month='March' /></front>
+
+<seriesInfo name='RFC' value='317' />
+<format type='TXT' octets='1593' target='http://www.rfc-editor.org/rfc/rfc317.txt' />
+</reference>

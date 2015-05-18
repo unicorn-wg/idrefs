@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1247'>
+
+<front>
+<title>OSPF Version 2</title>
+<author initials='J.' surname='Moy' fullname='John Moy'>
+<organization>Proteon, Inc.</organization>
+<address>
+<postal>
+<street>2 Technology Drive</street>
+<city>Westborough</city>
+<region>MA</region>
+<code>01581</code>
+<country>US</country></postal>
+<phone>+1 508 898 2800</phone>
+<email>jmoy@proteon.com</email></address></author>
+<date year='1991' day='1' month='July' />
+<abstract>
+<t>This memo documents version 2 of the OSPF protocol.  OSPF is a link-state based routing protocol.  It is designed to be run internal to a single Autonomous System.  Each OSPF router maintains an identical database describing the Autonomous System's topology.  From this database, a routing table is calculated by constructing a shortest-path tree.</t>
+<t>OSPF recalculates routes quickly in the face of topological changes, utilizing a minimum of routing protocol traffic.  OSPF provides support for equal-cost multipath.  Separate routes can be calculated for each IP type of service.  An area routing capability is provided, enabling an additional level of routing protection and a reduction in routing protocol traffic.  In addition, all OSPF routing protocol exchanges are authenticated.</t>
+<t>Version 1 of the OSPF protocol was documented in RFC 1131.  The differences between the two versions are explained in Appendix F.</t>
+<t>Please send comments to ospf@trantor.umd.edu.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1247' />
+<format type='TXT' octets='433332' target='http://www.rfc-editor.org/rfc/rfc1247.txt' />
+<format type='PS' octets='989724' target='http://www.rfc-editor.org/rfc/rfc1247.ps' />
+<format type='PDF' octets='490300' target='http://www.rfc-editor.org/rfc/rfc1247.pdf' />
+</reference>

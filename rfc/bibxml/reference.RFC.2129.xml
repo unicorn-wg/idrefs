@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2129'>
+
+<front>
+<title abbrev='FANP Specification'>Toshiba&apos;s Flow Attribute Notification Protocol (FANP) Specification</title>
+<author fullname='Ken-ichi Nagami' initials='K.' surname='Nagami'>
+<organization>R&amp;D Center, Toshiba</organization>
+<address>
+<postal>
+<street>1 Komukai Toshiba-cho</street>
+<street>Saiwai-ku</street>
+<street>Kawasaki 210</street>
+<country>Japan</country></postal>
+<phone>+81-44-549-2238</phone>
+<email>nagami@isl.rdc.toshiba.co.jp</email></address></author>
+<author initials='Y.' surname='Katsube' fullname='Yasuhiro Katsube'>
+<organization>R&amp;D Center, Toshiba</organization>
+<address>
+<postal>
+<street>1 Komukai Toshiba-cho</street>
+<street>Saiwai-ku</street>
+<street>Kawasaki 210</street>
+<country>Japan</country></postal>
+<phone>+81-44-549-2238</phone>
+<email>katsube@isl.rdc.toshiba.co.jp</email></address></author>
+<author initials='Y.' surname='Shobatake' fullname='Yasuro Shobatake'>
+<organization>R&amp;D Center, Toshiba</organization>
+<address>
+<postal>
+<street>1 Komukai Toshiba-cho</street>
+<street>Saiwai-ku</street>
+<street>Kawasaki 210</street>
+<country>Japan</country></postal>
+<phone>+81-44-549-2238</phone>
+<email>masahata@csl.rdc.toshiba.co.jp</email></address></author>
+<author initials='A.' surname='Mogi' fullname='Akiyoshi Mogi'>
+<organization>R&amp;D Center, Toshiba</organization>
+<address>
+<postal>
+<street>1 Komukai Toshiba-cho</street>
+<street>Saiwai-ku</street>
+<street>Kawasaki 210</street>
+<country>Japan</country></postal>
+<phone>+81-44-549-2238</phone>
+<email>mogi@isl.rdc.toshiba.co.jp</email></address></author>
+<author initials='S.' surname='Matsuzawa' fullname='Shigeo Matsuzawa'>
+<organization>R&amp;D Center, Toshiba</organization>
+<address>
+<postal>
+<street>1 Komukai Toshiba-cho</street>
+<street>Saiwai-ku</street>
+<street>Kawasaki 210</street>
+<country>Japan</country></postal>
+<phone>+81-44-549-2238</phone>
+<email>shigeom@isl.rdc.toshiba.co.jp</email></address></author>
+<author initials='T.' surname='Jinmei' fullname='Tatsuya Jinmei'>
+<organization>R&amp;D Center, Toshiba</organization>
+<address>
+<postal>
+<street>1 Komukai Toshiba-cho</street>
+<street>Saiwai-ku</street>
+<street>Kawasaki 210</street>
+<country>Japan</country></postal>
+<phone>+81-44-549-2238</phone>
+<email>jinmei@isl.rdc.toshiba.co.jp</email></address></author>
+<author initials='H.' surname='Esaki' fullname='Hiroshi Esaki'>
+<organization>R&amp;D Center, Toshiba</organization>
+<address>
+<postal>
+<street>1 Komukai Toshiba-cho</street>
+<street>Saiwai-ku</street>
+<street>Kawasaki 210</street>
+<country>Japan</country></postal>
+<phone>+81-44-549-2238</phone>
+<email>hiroshi@isl.rdc.toshiba.co.jp</email></address></author>
+<date year='1997' month='April' />
+<area>Routing</area>
+<keyword>FANP</keyword>
+<keyword>flow attribute</keyword>
+<abstract>
+<t>
+   This memo discusses Flow Attribute Notification Protocol (FANP),
+   which is a protocol between neighbor nodes for the management of
+   cut-through packet forwarding functionalities. In cut-through packet
+   forwarding, a router doesn&apos;t have to perform conventional IP packet
+   processing for received packets.  FANP indicates mapping information
+   between a datalink connection and a packet flow to the neighbor node
+   and helps a pair of nodes manage the mapping information.  By using
+   FANP, routers (e.g., CSR; Cell Switch Router) can forward incoming
+   packets based on their datalink-level connection identifiers,
+   bypassing usual IP packet processing.  The design policy of the FANP
+   is;
+
+<list>
+<t>
+       (1)  soft-state cut-through path (Dedicated-VC) management
+</t>
+<t>
+       (2)  protocol between neighbor nodes instead of end-to-end
+</t>
+<t>
+       (3)  applicable to any connection oriented datalink platform
+</t></list></t></abstract></front>
+
+<seriesInfo name='RFC' value='2129' />
+<format type='TXT' octets='41137' target='http://www.rfc-editor.org/rfc/rfc2129.txt' />
+<format type='XML' octets='44337' target='http://xml.resource.org/public/rfc/xml/rfc2129.xml' />
+</reference>

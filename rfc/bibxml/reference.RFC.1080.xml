@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1080'>
+
+<front>
+<title>Telnet remote flow control option</title>
+<author initials='C.' surname='Hedrick' fullname='Charles Hedrick'>
+<organization>Rutgers University, Center for Computer and Information Services</organization>
+<address>
+<postal>
+<street>Hill Center, Busch Campus</street>
+<street>P.O. Box 879</street>
+<city>Piscataway</city>
+<region>NJ</region>
+<code>08855-0879</code>
+<country>US</country></postal>
+<phone>+1 201 932 3088</phone>
+<email>HEDRICK@ARAMIS.RUTGERS.EDU</email></address></author>
+<date year='1988' day='1' month='November' /></front>
+
+<seriesInfo name='RFC' value='1080' />
+<format type='TXT' octets='6688' target='http://www.rfc-editor.org/rfc/rfc1080.txt' />
+</reference>

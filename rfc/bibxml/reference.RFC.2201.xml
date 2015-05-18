@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2201'>
+
+<front>
+<title abbrev='Core Based Trees'>Core Based Trees (CBT) Multicast Routing Architecture</title>
+<author initials='T.' surname='Ballardie' fullname='Tony Ballardie'>
+<organization>Research Consultant</organization>
+<address>
+<email>ABallardie@acm.org</email></address></author>
+<date year='1997' month='September' />
+<area>Routing</area>
+<keyword>multicast</keyword>
+<keyword>routing</keyword>
+<abstract>
+<t>
+   CBT is a multicast routing architecture that builds a single delivery
+   tree per group which is shared by all of the group&apos;s senders and
+   receivers.  Most multicast algorithms build one multicast tree per
+   sender (subnetwork), the tree being rooted at the sender&apos;s
+   subnetwork.  The primary advantage of the shared tree approach is
+   that it typically offers more favourable scaling characteristics than
+   all other multicast algorithms.
+</t>
+<t>
+   The CBT protocol  is a network layer multicast routing protocol
+   that builds and maintains a shared delivery tree for a multicast
+   group.  The sending and receiving of multicast data by hosts on a
+   subnetwork conforms to the traditional IP multicast service model
+   .
+</t>
+<t>
+   CBT is progressing through the IDMR working group of the IETF.  The
+   CBT protocol is described in an accompanying document . For this,
+   and all IDMR-related documents, see http://www.cs.ucl.ac.uk/ietf/idmr
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2201' />
+<format type='TXT' octets='38040' target='http://www.rfc-editor.org/rfc/rfc2201.txt' />
+<format type='XML' octets='41435' target='http://xml.resource.org/public/rfc/xml/rfc2201.xml' />
+</reference>

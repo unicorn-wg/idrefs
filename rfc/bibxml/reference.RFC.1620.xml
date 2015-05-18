@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1620'>
+
+<front>
+<title abbrev='Shared Media IP Architecture'>Internet Architecture Extensions for Shared Media</title>
+<author initials='B.' surname='Braden' fullname='Bob Braden'>
+<organization>University of Southern California, Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511</phone>
+<email>Braden@ISI.EDU</email></address></author>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>University of Southern California, Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511</phone>
+<email>Postel@ISI.EDU</email></address></author>
+<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
+<organization>IBM Corp., T.J. Watson Research Center</organization>
+<address>
+<postal>
+<street>P.O. Box 218</street>
+<street>Office 32-017</street>
+<city>Yorktown Heights</city>
+<region>NY</region>
+<code>10598</code>
+<country>US</country></postal>
+<phone>+1 914 945 3896</phone>
+<email>Yakov@WATSON.IBM.COM</email></address></author>
+<date year='1994' month='May' />
+<abstract>
+<t>The original Internet architecture assumed that each network is labeled with a single IP network number.  This assumption may be violated for shared media, including "large public data networks" (LPDNs).  The architecture still works if this assumption is violated, but it does not have a means to prevent multiple host- router and router-router hops through the shared medium.  This memo discusses alternative approaches to extending the Internet architecture to eliminate some or all unnecessary hops.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1620' />
+<format type='TXT' octets='44999' target='http://www.rfc-editor.org/rfc/rfc1620.txt' />
+</reference>

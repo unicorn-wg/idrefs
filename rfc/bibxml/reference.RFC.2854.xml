@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2854'>
+
+<front>
+<title>The 'text/html' Media Type</title>
+<author initials='D.' surname='Connolly' fullname='D. Connolly'>
+<organization /></author>
+<author initials='L.' surname='Masinter' fullname='L. Masinter'>
+<organization /></author>
+<date year='2000' month='June' />
+<abstract>
+<t>This document summarizes the history of HTML development, and defines the "text/html" MIME type by pointing to the relevant W3C recommendations.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2854' />
+<format type='TXT' octets='16135' target='http://www.rfc-editor.org/rfc/rfc2854.txt' />
+</reference>

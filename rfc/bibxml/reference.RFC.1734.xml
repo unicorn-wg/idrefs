@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1734'>
+
+<front>
+<title abbrev='POP3 AUTH'>POP3 AUTHentication command</title>
+<author initials='J.' surname='Myers' fullname='John G. Myers'>
+<organization>Carnegie-Mellon University</organization>
+<address>
+<postal>
+<street>5000 Forbes Ave</street>
+<city>Pittsburgh</city>
+<region>PA</region>
+<code>15213</code>
+<country>US</country></postal>
+<email>jgm+@cmu.edu</email></address></author>
+<date year='1994' month='December' /></front>
+
+<seriesInfo name='RFC' value='1734' />
+<format type='TXT' octets='8499' target='http://www.rfc-editor.org/rfc/rfc1734.txt' />
+</reference>

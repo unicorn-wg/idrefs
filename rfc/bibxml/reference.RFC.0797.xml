@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0797'>
+
+<front>
+<title>Format for Bitmap files</title>
+<author initials='A.' surname='Katz' fullname='Alan R. Katz'>
+<organization>University of Southern California (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<date year='1981' day='1' month='September' />
+<abstract>
+<t>This note describes a proposed format for storing simple bitmaps (one bit per pixel) in a file. These  files may be very  large and the intent is to use this format for short term storage and passing data between closely coupled  programs. The data in the file should be stored in 8-bit bytes (octets).  Bitmaps may be any size.</t></abstract></front>
+
+<seriesInfo name='RFC' value='797' />
+<format type='TXT' octets='3067' target='http://www.rfc-editor.org/rfc/rfc797.txt' />
+</reference>

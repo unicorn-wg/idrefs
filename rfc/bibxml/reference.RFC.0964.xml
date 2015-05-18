@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0964'>
+
+<front>
+<title abbrev='Some Problems with MIL-STD TCP'>Some problems with the specification of the Military Standard Transmission Control Protocol</title>
+<author initials='D.' surname='Sidhu' fullname='Deepinder P. Sidhu'>
+<organization>SDC - A Burroughs Company</organization></author>
+<author initials='T.' surname='Blumer' fullname='Thomas P. Blumer'>
+<organization>SDC - A Burroughs Company</organization></author>
+<date year='1985' day='1' month='November' />
+<abstract>
+<t>This note points out three errors with the specification of the Military Standard Transmission Control Protocol (MIL-STD-1778, dated August 1983).  These results are based on an initial investigation of this protocol standard.  The first problem is that data accompanying a SYN can not be accepted because of errors in the acceptance policy.  The second problem is that no retransmission timer is set for a SYN packet, and therefore the SYN will not be retransmitted if it is lost.  The third problem is that when the connection has been established, neither entity takes the proper steps to accept incoming data.  This note also proposes solutions to these problems.</t></abstract></front>
+
+<seriesInfo name='RFC' value='964' />
+<format type='TXT' octets='20972' target='http://www.rfc-editor.org/rfc/rfc964.txt' />
+</reference>

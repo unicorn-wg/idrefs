@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0871'>
+
+<front>
+<title>Perspective on the ARPANET reference model</title>
+<author initials='M.' surname='Padlipsky' fullname='Mike A. Padlipsky'>
+<organization>The Mitre Corporation</organization>
+<address>
+<postal>
+<street>P.O. Box 208</street>
+<city>Bedford</city>
+<region>MA</region>
+<code>01730</code>
+<country>US</country></postal>
+<email>Padlipsky@USC-ISIA</email></address></author>
+<date year='1982' day='1' month='September' />
+<abstract>
+<t>The paper, by one of its developers, describes the conceptual framework in which the ARPANET intercomputer networking protocol suite, including the DoD standard Transmission Control Protocol (TCP) and Internet Protocol (IP), were designed.  It also compares and contrasts several aspects of the ARPANET Reference Model (ARM) with the more widely publicized International Standards Organization's Reference Model for Open System Interconnection (ISORM).</t></abstract></front>
+
+<seriesInfo name='RFC' value='871' />
+<format type='TXT' octets='74455' target='http://www.rfc-editor.org/rfc/rfc871.txt' />
+</reference>

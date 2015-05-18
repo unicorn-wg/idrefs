@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2146'>
+
+<front>
+<title abbrev='.gov'>U.S. Government Internet Domain Names</title>
+<author>
+<organization>Federal Networking Council</organization>
+<address>
+<postal>
+<street>4001 N. Fairfax Drive</street>
+<street>Arlington</street>
+<street>VA 22203</street></postal>
+<phone>(703) 522-6410</phone>
+<email>execdir@fnc.gov</email>
+<uri>http://www.fnc.gov</uri></address></author>
+<date year='1997' month='May' />
+<keyword>domain name</keyword>
+<abstract>
+<t>
+   This memo provides an update and clarification to RFC 1816.  This
+   document describes the registration policies for the top-level domain
+   &quot;.GOV&quot;.  The purpose of the domain is to provide naming conventions
+   that identify US Federal government agencies in order to facilitate
+   access to their electronic resources.  This memo provides guidance
+   for registrations by Federal Agencies that avoids name duplication
+   and facilitates responsiveness to the public.  It restricts
+   registrations to coincide with the approved structure of the US
+   government and the advice of its Chief Information Officers.  Two
+   documents are recognized as constituting documentation on the US
+   government structure: FIPS 95-1 provides a standard recognized
+   structure into which domain registrations for .GOV and FED.US can
+   fit; and, the US Government Manual , a special publication of the
+   Federal Register, provides official documentation of the government
+   structure. The latter document may be subject to more timely updates
+   than the former.  Either document is suitable for determining which
+   entities qualify for second-level domain registration within .GOV and
+   FED.US.
+</t>
+<t>
+   As a side effect, this RFC reduces the number of .GOV and FED.US
+   level registrations and reduces the workload on the registration
+   authority.  Previous versions of this document did not address the
+   FED.US domain.  This document anticipates the migration of the .GOV
+   domain into the FED.US domain, in keeping with common practice on the
+   Internet today.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2146' />
+<format type='TXT' octets='26564' target='http://www.rfc-editor.org/rfc/rfc2146.txt' />
+<format type='XML' octets='20935' target='http://xml.resource.org/public/rfc/xml/rfc2146.xml' />
+</reference>

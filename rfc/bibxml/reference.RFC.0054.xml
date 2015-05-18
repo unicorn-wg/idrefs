@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0054'>
+
+<front>
+<title>Official Protocol Proffering</title>
+<author initials='S.' surname='Crocker' fullname='Steve Crocker'>
+<organization>University of California, Los Angeles (UCLA)</organization></author>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>University of California, Los Angeles (UCLA)</organization></author>
+<author initials='J.' surname='Newkirk' fullname='John Newkirk'>
+<organization>Harvard University</organization></author>
+<author initials='M.' surname='Kraley' fullname='Mike Kraley'>
+<organization>Harvard University</organization></author>
+<date year='1970' day='18' month='June' /></front>
+
+<seriesInfo name='RFC' value='54' />
+<format type='TXT' octets='20131' target='http://www.rfc-editor.org/rfc/rfc54.txt' />
+</reference>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2646'>
+
+<front>
+<title>The Text/Plain Format Parameter</title>
+<author initials='R.' surname='Gellens' fullname='Randall Gellens'>
+<organization>QUALCOMM Incorporated</organization>
+<address>
+<postal>
+<street>5775 Morehouse Drive</street>
+<city>San Diego</city>
+<region>CA</region>
+<code>92121-2779</code>
+<country>US</country></postal>
+<phone>+1 619 651 5115</phone>
+<email>randy@qualcomm.com</email></address></author>
+<date year='1999' month='August' />
+<abstract>
+<t>Interoperability problems have been observed with erroneous labelling of paragraph text as Text/Plain, and with various forms of "embarrassing line wrap." (See section 3.)</t>
+<t>Attempts to deploy new media types, such asText/EnrichedandText/HTMLhave suffered from a lack of backwards compatibility and an often hostile user reaction at the receiving end.</t>
+<t>What is required is a format which is in all significant ways Text/Plain, and therefore is quite suitable for display as Text/Plain, and yet allows the sender to express to the receiver
+which lines can be considered a logical paragraph, and thus flowed (wrapped and joined) as appropriate.</t>
+<t>This memo proposes a new parameter to be used with Text/Plain, and, in the presence of this parameter, the use of trailing whitespace to indicate flowed lines. This results in an encoding which appears as normal Text/Plain in older implementations, since it is in fact normal Text/Plain.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2646' />
+<format type='TXT' octets='29175' target='http://www.rfc-editor.org/rfc/rfc2646.txt' />
+</reference>

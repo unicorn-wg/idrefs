@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0234'>
+
+<front>
+<title>Network Working Group meeting schedule</title>
+<author initials='A.' surname='Vezza' fullname='A. Vezza'>
+<organization /></author>
+<date year='1971' day='5' month='October' /></front>
+
+<seriesInfo name='RFC' value='234' />
+<format type='TXT' octets='1634' target='http://www.rfc-editor.org/rfc/rfc234.txt' />
+</reference>

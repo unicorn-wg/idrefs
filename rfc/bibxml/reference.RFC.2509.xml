@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2509'>
+
+<front>
+<title>IP Header Compression over PPP</title>
+<author initials='M.' surname='Engan' fullname='Mathias Engan'>
+<organization>Effnet</organization>
+<address>
+<postal>
+<street>Aurorum 2</street>
+<city>Lulea</city>
+<code>SE-977 75</code>
+<country>SE</country></postal>
+<phone>+46 92 075600</phone>
+<facsimile>+46 92 075610</facsimile>
+<email>engan@effnet.com</email></address></author>
+<author initials='S.' surname='Casner' fullname='Stephen L. Casner'>
+<organization>Cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134-1706</code>
+<country>US</country></postal>
+<email>casner@cisco.com</email></address></author>
+<author initials='C.' surname='Bormann' fullname='Carsten Bormann'>
+<organization>Universitaet Bremen FB3 TZI</organization>
+<address>
+<postal>
+<street>Postfach 330440</street>
+<city>Bremen</city>
+<code>D-28334</code>
+<country>DE</country></postal>
+<phone>+49 421 2187024</phone>
+<facsimile>+49 421 2187000</facsimile>
+<email>cabo@tzi.org</email></address></author>
+<date year='1999' month='February' />
+<abstract>
+<t>This document describes an option for negotiating the use of header compression on IP datagrams transmitted over the. It defines extensions to the PPP Control Protocols for IPv4 and IPv6,. Header compression may be applied to IPv4 and IPv6 datagrams in combination with TCP, UDP and RTP transport protocols as specified inand.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2509' />
+<format type='TXT' octets='18676' target='http://www.rfc-editor.org/rfc/rfc2509.txt' />
+</reference>

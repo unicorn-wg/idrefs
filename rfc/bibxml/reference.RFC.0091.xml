@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0091'>
+
+<front>
+<title>Proposed User-User Protocol</title>
+<author initials='G.' surname='Mealy' fullname='George H. Mealy'>
+<organization>Harvard University</organization></author>
+<date year='1970' day='27' month='December' /></front>
+
+<seriesInfo name='RFC' value='91' />
+<format type='TXT' octets='27005' target='http://www.rfc-editor.org/rfc/rfc91.txt' />
+</reference>

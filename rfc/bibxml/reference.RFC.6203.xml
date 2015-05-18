@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6203'>
+
+<front>
+<title>IMAP4 Extension for Fuzzy Search</title>
+<author initials='T.' surname='Sirainen' fullname='T. Sirainen'>
+<organization /></author>
+<date year='2011' month='March' />
+<abstract>
+<t>This document describes an IMAP protocol extension enabling a server to perform searches with inexact matching and assigning relevancy scores for matched messages. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='6203' />
+<format type='TXT' octets='13606' target='http://www.rfc-editor.org/rfc/rfc6203.txt' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1056'>
+
+<front>
+<title abbrev='PCMAIL'>PCMAIL: A distributed mail system for personal computers</title>
+<author initials='M.' surname='Lambert' fullname='M. Lambert'>
+<organization>Massachusetts Institute of Technology (MIT)</organization></author>
+<date year='1988' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='1056' />
+<format type='TXT' octets='85368' target='http://www.rfc-editor.org/rfc/rfc1056.txt' />
+</reference>

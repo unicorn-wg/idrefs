@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6903'>
+
+<front>
+<title>Additional Link Relation Types</title>
+<author initials='J.' surname='Snell' fullname='J. Snell'>
+<organization /></author>
+<date year='2013' month='March' />
+<abstract>
+<t>This specification defines a number of additional link relation types that can used for a range of purposes in a variety of applications types.</t></abstract></front>
+
+<seriesInfo name='RFC' value='6903' />
+<format type='TXT' octets='10452' target='http://www.rfc-editor.org/rfc/rfc6903.txt' />
+</reference>

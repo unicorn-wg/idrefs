@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0114'>
+
+<front>
+<title>File Transfer Protocol</title>
+<author initials='A.K.' surname='Bhushan' fullname='A.K. Bhushan'>
+<organization /></author>
+<date year='1971' month='April' /></front>
+
+<seriesInfo name='RFC' value='114' />
+<format type='TXT' octets='38981' target='http://www.rfc-editor.org/rfc/rfc114.txt' />
+</reference>

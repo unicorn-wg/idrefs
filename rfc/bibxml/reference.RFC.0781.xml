@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0781'>
+
+<front>
+<title>Specification of the Internet Protocol (IP) timestamp option</title>
+<author initials='Z.' surname='Su' fullname='Zaw-Sing Su'>
+<organization>SRI International</organization></author>
+<date year='1981' day='1' month='May' /></front>
+
+<seriesInfo name='RFC' value='781' />
+<format type='TXT' octets='4002' target='http://www.rfc-editor.org/rfc/rfc781.txt' />
+</reference>

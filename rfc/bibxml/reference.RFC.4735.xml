@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4735'>
+
+<front>
+<title>Example Media Types for Use in Documentation</title>
+<author initials='T.' surname='Taylor' fullname='T. Taylor'>
+<organization /></author>
+<date year='2006' month='October' />
+<abstract>
+<t>This document is registration for the 'example' media type and 'example' subtypes within the standards tree.  The 'example/*' and '*/example' media types are defined for documentation purposes only. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='4735' />
+<format type='TXT' octets='9951' target='http://www.rfc-editor.org/rfc/rfc4735.txt' />
+</reference>

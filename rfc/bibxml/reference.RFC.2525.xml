@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2525'>
+
+<front>
+<title abbrev='TCP Implementation Problems'>Known TCP Implementation Problems</title>
+<author initials='V.' surname='Paxson' fullname='Vern Paxson'>
+<organization>ACIRI / ICSI</organization>
+<address>
+<postal>
+<street>1947 Center Street</street>
+<street>Suite 600</street>
+<city>Berkeley</city>
+<region>CA</region>
+<code>94704-1198</code>
+<country>US</country></postal>
+<phone>+1 510 642 4274 x302</phone>
+<email>vern@aciri.org</email></address></author>
+<author initials='S.' surname='Dawson' fullname='Scott Dawson'>
+<organization>University of Michigan</organization>
+<address>
+<postal>
+<street>Real-Time Computing Laboratory</street>
+<street>EECS Building</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48109-2122</code>
+<country>US</country></postal>
+<phone>+1 313 763 5363</phone>
+<email>sdawson@eecs.umich.edu</email></address></author>
+<author initials='W.' surname='Fenner' fullname='William C. Fenner'>
+<organization>Xerox PARC</organization>
+<address>
+<postal>
+<street>3333 Coyote Hill Road</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94304</code>
+<country>US</country></postal>
+<phone>+1 650 812 4816</phone>
+<email>fenner@parc.xerox.com</email></address></author>
+<author initials='J.' surname='Griner' fullname='Jim Griner'>
+<organization>NASA Glenn Research Center</organization>
+<address>
+<postal>
+<street>Lewis Field</street>
+<street>21000 Brookpark Road</street>
+<street>MS 54-2</street>
+<city>Cleveland</city>
+<region>OH</region>
+<code>44135</code>
+<country>US</country></postal>
+<phone>+1 216 433 5787</phone>
+<email>jgriner@grc.nasa.gov</email></address></author>
+<author initials='I.' surname='Heavens' fullname='Ian Heavens'>
+<organization>Spider Software Ltd.</organization>
+<address>
+<postal>
+<street>8 John's Place</street>
+<street>Leith</street>
+<city>Edinburgh</city>
+<region>Scotland</region>
+<code>EH6 7EL</code>
+<country>UK</country></postal>
+<phone>+44 131 4757015</phone>
+<email>ian@spider.com</email></address></author>
+<author initials='K.' surname='Lahey' fullname='Kevin Lahey'>
+<organization>NASA Ames Research Center/MRJ</organization>
+<address>
+<postal>
+<street>MS 258-6</street>
+<city>Moffett Field</city>
+<region>CA</region>
+<code>94035</code>
+<country>US</country></postal>
+<phone>+1 650 604 4334</phone>
+<email>kml@nas.nasa.gov</email></address></author>
+<author initials='J.' surname='Semke' fullname='Jeff Semke'>
+<organization>Pittsburgh Supercomputing Center</organization>
+<address>
+<postal>
+<street>4400 Fifth Ave</street>
+<city>Pittsburgh</city>
+<region>PA</region>
+<code>15213</code>
+<country>US</country></postal>
+<phone>+1 412 268 4960</phone>
+<email>semke@psc.edu</email></address></author>
+<author initials='B.' surname='Volz' fullname='Bernie Volz'>
+<organization>Process Software Corporation</organization>
+<address>
+<postal>
+<street>959 Concord Street</street>
+<city>Framingham</city>
+<region>MA</region>
+<code>01701</code>
+<country>US</country></postal>
+<phone>+1 508 879 6994</phone>
+<email>volz@process.com</email></address></author>
+<date year='1999' month='March' /></front>
+
+<seriesInfo name='RFC' value='2525' />
+<format type='TXT' octets='137201' target='http://www.rfc-editor.org/rfc/rfc2525.txt' />
+</reference>

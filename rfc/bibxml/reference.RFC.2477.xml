@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2477'>
+
+<front>
+<title abbrev='Evaluating Roaming Protocols'>Criteria for Evaluating Roaming Protocols</title>
+<author initials='B.' surname='Aboba' fullname='Bernard Aboba'>
+<organization>Microsoft Corporation</organization>
+<address>
+<postal>
+<street>One Microsoft Way</street>
+<city>Redmond</city>
+<region>WA</region>
+<code>98052</code>
+<country>US</country></postal>
+<phone>+1 425 936 6605</phone>
+<email>bernarda@microsoft.com</email></address></author>
+<author initials='G.' surname='Zorn' fullname='Glen Zorn'>
+<organization>Microsoft Corporation</organization>
+<address>
+<postal>
+<street>One Microsoft Way</street>
+<city>Redmond</city>
+<region>WA</region>
+<code>98052</code>
+<country>US</country></postal>
+<phone>+1 425 703 1559</phone>
+<email>glennz@microsoft.com</email></address></author>
+<date year='1999' month='January' />
+<abstract>
+<t>This document describes requirements for the provisioning of "roaming capability" for dialup Internet users.  "Roaming  capability" is defined as the ability to use multiple Internet service providers (ISPs), while maintaining a formal, customer-vendor relationship  with only one.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2477' />
+<format type='TXT' octets='23530' target='http://www.rfc-editor.org/rfc/rfc2477.txt' />
+</reference>

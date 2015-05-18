@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5046'>
+
+<front>
+<title>Internet Small Computer System Interface (iSCSI) Extensions for Remote Direct Memory Access (RDMA)</title>
+<author initials='M.' surname='Ko' fullname='M. Ko'>
+<organization /></author>
+<author initials='M.' surname='Chadalapaka' fullname='M. Chadalapaka'>
+<organization /></author>
+<author initials='J.' surname='Hufferd' fullname='J. Hufferd'>
+<organization /></author>
+<author initials='U.' surname='Elzur' fullname='U. Elzur'>
+<organization /></author>
+<author initials='H.' surname='Shah' fullname='H. Shah'>
+<organization /></author>
+<author initials='P.' surname='Thaler' fullname='P. Thaler'>
+<organization /></author>
+<date year='2007' month='October' />
+<abstract>
+<t>Internet Small Computer System Interface (iSCSI) Extensions for Remote Direct Memory Access (RDMA) provides the RDMA data transfer capability to iSCSI by layering iSCSI on top of an RDMA-Capable Protocol, such as the iWARP protocol suite.  An RDMA-Capable Protocol provides RDMA Read and Write services, which enable data to be transferred directly into SCSI I/O Buffers without intermediate data copies.  This document describes the extensions to the iSCSI protocol to support RDMA services as provided by an RDMA-Capable Protocol, such as the iWARP protocol suite. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='5046' />
+<format type='TXT' octets='202216' target='http://www.rfc-editor.org/rfc/rfc5046.txt' />
+</reference>

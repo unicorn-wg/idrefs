@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0812'>
+
+<front>
+<title>NICNAME/WHOIS</title>
+<author initials='K.' surname='Harrenstien' fullname='Ken Harrenstien'>
+<organization>SRI International, Network Information Center</organization></author>
+<author initials='V.' surname='White' fullname='Vic White'>
+<organization>SRI International, Network Information Center</organization></author>
+<date year='1982' day='1' month='March' /></front>
+
+<seriesInfo name='RFC' value='812' />
+<format type='TXT' octets='5389' target='http://www.rfc-editor.org/rfc/rfc812.txt' />
+</reference>

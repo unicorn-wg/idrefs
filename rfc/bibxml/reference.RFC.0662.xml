@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0662'>
+
+<front>
+<title>Performance improvement in ARPANET file transfers from Multics</title>
+<author initials='R.' surname='Kanodia' fullname='Raj Kanodia'>
+<organization>Massachusetts Institute of Technology (MIT), Project MAC</organization></author>
+<date year='1974' day='26' month='November' />
+<abstract>
+<t>With the growth of Multics usage in the ARPA Network community, users often need to transfer large amounts of data from Multics to other systems. However, Multics performance in this area has been less than optimal and there clearly exists a need to improve the situation. Even within Project MAC there are users who regularly ship files back and forth between Multics and other Project MAC computer systems. Recently the Cambridge Information Systems Laboratory (CISL) development Multics system was connected to the ARPA Network. This has generated considerable interest among the members of the CSR (Computer Systems Research) and CISL groups in using the Multics file transfer facility for transmission of Multics system tapes (MST) from one Multics system to the other. At currently realizable data transfer rates, transmission of a typical MST, (approximately 12 million bits), takes about half an hour. The usefulness of the present file transfer system is severely limited by its low bandwidth.</t>
+<t>One of the reasons for such a poor performance is the output buffering strategy in the Multics IMP DIM (IMP Device Interface Manager.) With the hope of making a significant performance improvement, we recently changed the IMP DIM buffering strategy. To assess the effects of this change an experiment was conducted between the service machine (MIT Multics) and the development machine (CISL Multics.) This memo reports the experiment and its results.</t></abstract></front>
+
+<seriesInfo name='RFC' value='662' />
+<format type='TXT' octets='8872' target='http://www.rfc-editor.org/rfc/rfc662.txt' />
+</reference>

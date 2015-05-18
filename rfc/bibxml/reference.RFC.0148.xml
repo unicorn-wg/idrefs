@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0148'>
+
+<front>
+<title>Comments on RFC 123</title>
+<author initials='A.' surname='Bhushan' fullname='A. Bhushan'>
+<organization>Massachusetts Institute of Technology (MIT), Project MAC</organization></author>
+<date year='1971' day='7' month='May' />
+<abstract>
+<t>The requirement that byte size 's' be 32-bits for the initial connection imposes some severe strains on some of the 36-bit machines.</t></abstract></front>
+
+<seriesInfo name='RFC' value='148' />
+<format type='TXT' octets='1149' target='http://www.rfc-editor.org/rfc/rfc148.txt' />
+</reference>

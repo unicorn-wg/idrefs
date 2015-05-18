@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2565'>
+
+<front>
+<title abbrev='IPP/1.0: Encoding and Transport'>Internet Printing Protocol/1.0: Encoding and Transport</title>
+<author initials='R.' surname='Herriot' fullname='Robert Herriot'>
+<organization>Xerox Corporation</organization>
+<address>
+<postal>
+<street>3400 Hillview Ave.</street>
+<street>Bldg #1</street>
+<city>Palo Alto</city>
+<region>CA</region>
+<code>94304</code>
+<country>US</country></postal>
+<phone>+1 650 813 7696</phone>
+<facsimile>+1 650 813 6860</facsimile>
+<email>rherriot@pahv.xerox.com</email></address></author>
+<author initials='S.' surname='Butler' fullname='Sylvan Butler'>
+<organization>Hewlett-Packard</organization>
+<address>
+<postal>
+<street>11311 Chinden Blvd.</street>
+<city>Boise</city>
+<region>ID</region>
+<code>83714</code>
+<country>US</country></postal>
+<phone>+1 208 396 6000</phone>
+<facsimile>+1 208 396 3457</facsimile>
+<email>sbutler@boi.hp.com</email></address></author>
+<author initials='P.' surname='Moore' fullname='Paul Moore'>
+<organization>Microsoft</organization>
+<address>
+<postal>
+<street>One Microsoft Way</street>
+<city>Redmond</city>
+<region>WA</region>
+<code>98053</code>
+<country>US</country></postal>
+<phone>+1 425 936 0908</phone>
+<facsimile>+1 425 936 7329</facsimile>
+<email>paulmo@microsoft.com</email></address></author>
+<author initials='R.' surname='Turner' fullname='Randy Turner'>
+<organization>Sharp Laboratories</organization>
+<address>
+<postal>
+<street>5750 NW Pacific Rim Blvd</street>
+<city>Camas</city>
+<region>WA</region>
+<code>98607</code>
+<country>US</country></postal>
+<phone>+1 360 817 8456</phone>
+<facsimile>+1 360 817 8436</facsimile>
+<email>rturner@sharplabs.com</email></address></author>
+<date year='1999' month='April' />
+<abstract>
+<t>This document is one of a set of documents, which together describe
+   all aspects of a new Internet Printing Protocol (IPP). IPP is an
+   application level protocol that can be used for distributed printing
+   using Internet tools and technologies. This document defines the
+   rules for encoding IPP operations and IPP attributes into a new
+   Internet mime media type called "application/ipp".  This document
+   also defines the rules for transporting over HTTP a message body
+   whose Content-Type is "application/ipp".</t></abstract></front>
+
+<seriesInfo name='RFC' value='2565' />
+<format type='TXT' octets='80439' target='http://www.rfc-editor.org/rfc/rfc2565.txt' />
+</reference>

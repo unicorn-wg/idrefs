@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1251'>
+
+<front>
+<title abbrev='Who&apos;s Who'>Who's Who in the Internet: Biographies of IAB, IESG and IRSG Members</title>
+<author initials='G.' surname='Malkin' fullname='Gary Scott Malkin'>
+<organization>FTP Software, Inc.</organization>
+<address>
+<postal>
+<street>26 Princess Street</street>
+<city>Wakefield</city>
+<region>MA</region>
+<code>01880</code>
+<country>US</country></postal>
+<phone>+1 617 246 0900</phone>
+<email>gmalkin@ftp.com</email></address></author>
+<date year='1991' day='1' month='August' /></front>
+
+<seriesInfo name='RFC' value='1251' />
+<format type='TXT' octets='70383' target='http://www.rfc-editor.org/rfc/rfc1251.txt' />
+</reference>

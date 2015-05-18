@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2138'>
+
+<front>
+<title abbrev='RADIUS'>Remote Authentication Dial In User Service (RADIUS)</title>
+<author initials='C.' surname='Rigney' fullname='Carl Rigney'>
+<organization>Livingston Enterprises</organization>
+<address>
+<postal>
+<street>4464 Willow Road</street>
+<street>Pleasanton</street>
+<street>California  94588</street></postal>
+<phone>+1 510 426 0770</phone>
+<email>cdr@livingston.com</email></address></author>
+<author initials='C.' surname='Rigney' fullname='Carl Rigney'>
+<organization>Livingston Enterprises</organization>
+<address>
+<postal>
+<street>4464 Willow Road</street>
+<street>Pleasanton</street>
+<street>California  94588</street></postal>
+<phone>+1 510 426 0770</phone>
+<email>cdr@livingston.com</email></address></author>
+<author initials='A.C.' surname='Rubens' fullname='Allan C. Rubens'>
+<organization>Merit Network, Inc.</organization>
+<address>
+<postal>
+<street>4251 Plymouth Road</street>
+<street>Ann Arbor</street>
+<street>Michigan  48105-2785</street></postal>
+<email>acr@merit.edu</email></address></author>
+<author initials='W.A.' surname='Simpson' fullname='William Allen Simpson'>
+<organization>Daydreamer</organization>
+<address>
+<postal>
+<street>Computer Systems Consulting Services</street>
+<street>1384 Fontaine</street>
+<street>Madison Heights</street>
+<street>Michigan  48071</street></postal>
+<email>wsimpson@greendragon.com</email></address></author>
+<author initials='S.' surname='Willens' fullname='Steve Willens'>
+<organization>Livingston Enterprises</organization>
+<address>
+<postal>
+<street>4464 Willow Road</street>
+<street>Pleasanton</street>
+<street>California  94588</street></postal>
+<email>steve@livingston.com</email></address></author>
+<date year='1997' month='April' />
+<area>Security</area>
+<keyword>authentication</keyword>
+<keyword>remote authentication dial in user service</keyword>
+<abstract>
+<t>
+   This document describes a protocol for carrying authentication,
+   authorization, and configuration information between a Network Access
+   Server which desires to authenticate its links and a shared
+   Authentication Server.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2138' />
+<format type='TXT' octets='120407' target='http://www.rfc-editor.org/rfc/rfc2138.txt' />
+<format type='XML' octets='122467' target='http://xml.resource.org/public/rfc/xml/rfc2138.xml' />
+</reference>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0461'>
+
+<front>
+<title>Telnet Protocol meeting announcement</title>
+<author initials='A.' surname='McKenzie' fullname='A. McKenzie'>
+<organization>Bolt Baranek and Newman (BBN), NET</organization>
+<address>
+<postal>
+<street>50 Moulton Street</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02l38</code>
+<country>US</country></postal>
+<phone>+1 617 491 1850 x441</phone></address></author>
+<date year='1973' day='14' month='February' />
+<abstract>
+<t>Since the publication of RFC #318 there have been a great number of proposals for changes and/or extensions to the (still unofficial) TELNET Protocol. It now seems appropriate to have a meeting of concerned parties to try, once again, to reach a consensus position and define an "official" protocol (with perhaps, some room for optional expansion).</t></abstract></front>
+
+<seriesInfo name='RFC' value='461' />
+<format type='TXT' octets='1966' target='http://www.rfc-editor.org/rfc/rfc461.txt' />
+</reference>

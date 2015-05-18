@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0757'>
+
+<front>
+<title>Suggested solution to the naming, addressing, and delivery problem for ARPANET message systems</title>
+<author initials='D.' surname='Deutsch' fullname='Debra P. Deutsch'>
+<organization>Bolt Beranek and Newman (BBN)</organization>
+<address>
+<postal>
+<street>50 Moulton Street</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal>
+<phone>+1 617 491 1850</phone></address></author>
+<date year='1979' day='10' month='September' /></front>
+
+<seriesInfo name='RFC' value='757' />
+<format type='TXT' octets='35618' target='http://www.rfc-editor.org/rfc/rfc757.txt' />
+</reference>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1067'>
+
+<front>
+<title abbrev='SNMP'>Simple Network Management Protocol</title>
+<author initials='J.' surname='Case' fullname='J. Case'>
+<organization>University of Tennessee, Knoxville</organization></author>
+<author initials='M.' surname='Fedor' fullname='M. Fedor'>
+<organization>NYSERNet, Inc.</organization></author>
+<author initials='M.' surname='Schoffstall' fullname='M. Schoffstall'>
+<organization>Rensselaer Polytechnic Institute</organization></author>
+<author initials='J.' surname='Davin' fullname='J. Davin'>
+<organization>Proteon, Inc.</organization></author>
+<date year='1988' day='1' month='August' /></front>
+
+<seriesInfo name='RFC' value='1067' />
+<format type='TXT' octets='69592' target='http://www.rfc-editor.org/rfc/rfc1067.txt' />
+</reference>

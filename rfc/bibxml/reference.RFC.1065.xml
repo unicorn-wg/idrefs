@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1065'>
+
+<front>
+<title abbrev='SMI'>Structure and identification of management information for TCP/IP-based internets</title>
+<author initials='M.' surname='Rose' fullname='M. Rose'>
+<organization>The Wollongong Group</organization></author>
+<author initials='K.' surname='McCloghrie' fullname='K. McCloghrie'>
+<organization>The Wollongong Group</organization></author>
+<date year='1988' day='1' month='August' /></front>
+
+<seriesInfo name='RFC' value='1065' />
+<format type='TXT' octets='38858' target='http://www.rfc-editor.org/rfc/rfc1065.txt' />
+</reference>

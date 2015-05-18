@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2688'>
+
+<front>
+<title abbrev='Integrated Services Mappings'>Integrated Services Mappings for Low Speed Networks</title>
+<author initials='S.' surname='Jackowski' fullname='Steve Jackowski'>
+<organization>Deterministic Networks, Inc.</organization>
+<address>
+<postal>
+<street>245M Mount Hermon Road</street>
+<street>#140</street>
+<city>Scotts Valley</city>
+<region>CA</region>
+<code>95066</code>
+<country>US</country></postal>
+<phone>+1 408 813 6294</phone>
+<email>stevej@DeterministicNetworks.com</email></address></author>
+<author initials='D.' surname='Putzolu' fullname='David Putzolu'>
+<organization>Intel Architecture Labs (IAL)</organization>
+<address>
+<postal>
+<street>2111 NE 25th Avenue</street>
+<street>JF3-206-H10</street>
+<city>Hillsboro</city>
+<region>OR</region>
+<code>97124-5961</code>
+<country>US</country></postal>
+<phone>+1 503 264 4510</phone>
+<email>David.Putzolu@intel.com</email></address></author>
+<author initials='E.' surname='Crawley' fullname='Eric S. Crawley'>
+<organization>Argon Networks, Inc.</organization>
+<address>
+<postal>
+<street>25 Porter Road</street>
+<city>Littleton</city>
+<region>MA</region>
+<code>01460</code>
+<country>US</country></postal>
+<phone>+1 978 486 0665</phone>
+<email>esc@argon.com</email></address></author>
+<author initials='B.' surname='Davie' fullname='Bruce Davie'>
+<organization>Cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>250 Apollo Drive</street>
+<city>Chelmsford</city>
+<region>MA</region>
+<code>01824</code>
+<country>US</country></postal>
+<phone>+1 978 244 8921</phone>
+<email>bdavie@cisco.com</email></address></author>
+<date year='1999' month='September' />
+<abstract>
+<t>A set of companion documents describe an architecture for providing integrated services over low-bitrate links, such as modem lines, ISDN
+B-channels, and sub-T1 links,,,. The main components of the architecture are: a set of real-time encapsulation formats for asynchronous and synchronous low-bitrate links, a header compression architecture optimized for real-time flows, elements of negotiation protocols used between routers (or between hosts and routers), and
+announcement protocols used by applications to allow this negotiation
+to take place.</t>
+<t>This document defines the service mappings of the IETF Integrated Services for low-bitrate links, specifically the controlled loadand guaranteedservices.
+The approach takes the form of a set of guidelines and considerations for implementing these services, along with evaluation criteria for elements providing these services.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2688' />
+<format type='TXT' octets='36685' target='http://www.rfc-editor.org/rfc/rfc2688.txt' />
+</reference>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1198'>
+
+<front>
+<title abbrev='FYI - X Window System'>FYI on the X window system</title>
+<author initials='B.' surname='Scheifler' fullname='Bob Scheifler'>
+<organization>MIT,  X Consortium, Laboratory for Computer Science</organization>
+<address>
+<postal>
+<street>545 Technology Square</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02139</code>
+<country>US</country></postal>
+<phone>+1 617 253 0628</phone>
+<email>rws@expo.lcs.mit.edu</email></address></author>
+<date year='1991' day='1' month='January' /></front>
+
+<seriesInfo name='RFC' value='1198' />
+<format type='TXT' octets='3629' target='http://www.rfc-editor.org/rfc/rfc1198.txt' />
+</reference>

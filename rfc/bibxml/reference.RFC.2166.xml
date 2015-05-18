@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2166'>
+
+<front>
+<title abbrev='APPN Implementer&apos;s Workshop'>APPN Implementer's Workshop Closed Pages Document DLSw v2.0 Enhancements</title>
+<author initials='D.' surname='Bryant' fullname='David Bryant'>
+<organization>3Com Corporation</organization>
+<address>
+<postal>
+<street>5400 Bayfront Plaza</street>
+<street>MS 2418</street>
+<city>Santa Clara</city>
+<region>CA</region>
+<code>95052</code>
+<country>US</country></postal>
+<phone>+1 408 764 5272</phone>
+<email>David_Bryant@3mail.3com.com</email></address></author>
+<author initials='P.' surname='Brittain' fullname='Paul Brittain'>
+<organization>Data Connection Ltd</organization>
+<address>
+<postal>
+<street>Windsor House</street>
+<street>Pepper Street</street>
+<city>Chester</city>
+<region>England</region>
+<code>CH1 1DF</code>
+<country>UK</country></postal>
+<phone>+44 1244 313440</phone>
+<email>pjb@datcon.co.uk</email></address></author>
+<date year='1997' month='June' />
+<abstract>
+<t>This document specifies</t>
+<t>- a set of extensions to RFC 1795 designed to improve the scalability of DLSw</t>
+<t>- clarifications to RFC 1795 in the light of the implementation experience to-date.</t>
+<t>It is assumed that the reader is familiar with DLSw and RFC 1795.  No effort has been made to explain these existing protocols or associated terminology.</t>
+<t>This document was developed in the DLSw Related Interest Group (RIG) of the APPN Implementers Workshop (AIW). If you would like to participate in future DLSw discussions, please subscribe to the DLSw RIG mailing lists by sending a mail to majordomo@raleigh.ibm.com specifying 'subscribe aiw-dlsw' as the body of the message.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2166' />
+<format type='TXT' octets='75527' target='http://www.rfc-editor.org/rfc/rfc2166.txt' />
+</reference>

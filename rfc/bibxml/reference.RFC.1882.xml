@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1882'>
+
+<front>
+<title abbrev='12-Days of Technology Before Christmas'>The 12-Days of Technology Before Christmas</title>
+<author initials='B.' surname='Hancock' fullname='Bill Hancock'>
+<organization>Network-1 Software &amp; Technology, Inc., DFW Research Center</organization>
+<address>
+<postal>
+<street>878 Greenview Dr.</street>
+<city>Grand Prairie</city>
+<region>TX</region>
+<code>75050</code>
+<country>US</country></postal>
+<phone>+1 214 606 8200</phone>
+<facsimile>+1 214 606 8220</facsimile>
+<email>hancock@network-1.com</email></address></author>
+<date year='1995' month='December' /></front>
+
+<seriesInfo name='RFC' value='1882' />
+<format type='TXT' octets='9130' target='http://www.rfc-editor.org/rfc/rfc1882.txt' />
+</reference>

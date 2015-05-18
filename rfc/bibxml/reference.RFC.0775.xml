@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0775'>
+
+<front>
+<title>Directory oriented FTP commands</title>
+<author initials='D.' surname='Mankins' fullname='David Mankins'>
+<organization />
+<address>
+<email>dm@bbn-unix</email></address></author>
+<author initials='D.' surname='Franklin' fullname='Dan Franklin'>
+<organization />
+<address>
+<email>dan@bbn-unix</email></address></author>
+<author initials='A.' surname='Owen' fullname='A. D. Owen'>
+<organization />
+<address>
+<email>ADOwen@bbnd</email></address></author>
+<date year='1980' day='1' month='December' />
+<abstract>
+<t>As a part of the Remote Site Maintenance (RSM) project for  ARPA, BBN has installed and maintains the software of several DEC PDP-11s running the Unix operating system.  Since Unix has a tree-like directory structure, in which directories are as easy to manipulate as ordinary files, we  have  found  it  convenient  to expand  the FTP servers on these machines to include commands which deal with the creation of  directories.   Since  there are other hosts on the ARPA net which have tree-like directories, including Tops-20 and  Multics, we have tried to make these commands as general as possible.</t></abstract></front>
+
+<seriesInfo name='RFC' value='775' />
+<format type='TXT' octets='9511' target='http://www.rfc-editor.org/rfc/rfc775.txt' />
+</reference>

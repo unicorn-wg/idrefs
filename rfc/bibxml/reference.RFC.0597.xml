@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0597'>
+
+<front>
+<title>Host status</title>
+<author initials='N.' surname='Neigus' fullname='N. Neigus'>
+<organization /></author>
+<author initials='J.' surname='Feinler' fullname='J. Feinler'>
+<organization /></author>
+<date year='1973' day='12' month='December' />
+<abstract>
+<t>Attached are the latest network maps -- geographic and logical -- and a list of Hosts connected to the ARPANET.</t>
+<t>The geographic map shows all IMPs and TIPs currently installed in the subnetwork.</t></abstract></front>
+
+<seriesInfo name='RFC' value='597' />
+<format type='TXT' octets='11678' target='http://www.rfc-editor.org/rfc/rfc597.txt' />
+</reference>

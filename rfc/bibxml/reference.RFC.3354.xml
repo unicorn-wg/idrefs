@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3354'>
+
+<front>
+<title>Internet Open Trading Protocol Version 2 Requirements</title>
+<author initials='D.' surname='Eastlake' fullname='D. Eastlake'>
+<organization /></author>
+<date year='2002' month='August' /></front>
+
+<seriesInfo name='RFC' value='3354' />
+<format type='TXT' octets='9671' target='http://www.rfc-editor.org/rfc/rfc3354.txt' />
+</reference>

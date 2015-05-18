@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1837'>
+
+<front>
+<title abbrev='Representing Subtrees'>Representing Tables and Subtrees in the X.500 Directory</title>
+<author initials='S.' surname='Kille' fullname='Steve Kille'>
+<organization>ISODE Consortium</organization>
+<address>
+<postal>
+<street>The Dome, The Square</street>
+<city>Richmond</city>
+<region>England</region>
+<code>TW9 1DT</code>
+<country>UK</country></postal>
+<phone>+44 81 3329091</phone>
+<email>S.Kille@ISODE.COM</email></address></author>
+<date year='1995' month='August' />
+<abstract>
+<t>This document defines techniques for representing two types of information mapping in the OSI Directory.</t>
+<t>1.  Mapping from a key to a value (or set of values), as might be done in a table lookup.</t>
+<t>2.  Mapping from a distinguished name to an associated value (or values), where the values are not defined by the owner of the entry.  This is achieved by use of a directory subtree.</t>
+<t>These techniques were developed for supporting MHS use of Directory, but are specified separately as they have more general applicability.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1837' />
+<format type='TXT' octets='10924' target='http://www.rfc-editor.org/rfc/rfc1837.txt' />
+</reference>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7385'>
+
+<front>
+<title>IANA Registry for P-Multicast Service Interface (PMSI) Tunnel Type Code Points</title>
+<author initials='L.' surname='Andersson' fullname='L. Andersson'>
+<organization /></author>
+<author initials='G.' surname='Swallow' fullname='G. Swallow'>
+<organization /></author>
+<date year='2014' month='October' />
+<abstract>
+<t>RFC 6514 created a space of Tunnel Type code points for a new BGP attribute called the "P-Multicast Service Interface Tunnel (PMSI Tunnel) attribute". However, the RFC did not create a corresponding IANA registry.&lt;/t>&lt;t> There now is need to make further code point allocations from this name space. This document serves to update RFC 6514 in that it creates an IANA registry for that purpose.</t></abstract></front>
+
+<seriesInfo name='RFC' value='7385' />
+<format type='TXT' octets='6690' target='http://www.rfc-editor.org/rfc/rfc7385.txt' />
+</reference>

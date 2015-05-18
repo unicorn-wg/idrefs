@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3931'>
+
+<front>
+<title>Layer Two Tunneling Protocol - Version 3 (L2TPv3)</title>
+<author initials='J.' surname='Lau' fullname='J. Lau'>
+<organization /></author>
+<author initials='M.' surname='Townsley' fullname='M. Townsley'>
+<organization /></author>
+<author initials='I.' surname='Goyret' fullname='I. Goyret'>
+<organization /></author>
+<date year='2005' month='March' />
+<abstract>
+<t>This document describes "version 3" of the Layer Two Tunneling Protocol (L2TPv3).  L2TPv3 defines the base control protocol and encapsulation for tunneling multiple Layer 2 connections between two IP nodes.  Additional documents detail the specifics for each data link type being emulated. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='3931' />
+<format type='TXT' octets='214407' target='http://www.rfc-editor.org/rfc/rfc3931.txt' />
+</reference>

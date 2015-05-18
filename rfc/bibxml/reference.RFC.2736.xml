@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2736'>
+
+<front>
+<title>Guidelines for Writers of RTP Payload Format Specifications</title>
+<author initials='M.' surname='Handley' fullname='Mark Handley'>
+<organization>AT&amp;T Center for Internet Research at ICSI, International Computer Science Institute</organization>
+<address>
+<postal>
+<street>1947 Center Street</street>
+<street>Suite 600</street>
+<city>Berkeley</city>
+<region>CA</region>
+<code>94704</code>
+<country>US</country></postal>
+<email>mjh@aciri.org</email></address></author>
+<author initials='C.' surname='Perkins' fullname='Colin Perkins'>
+<organization>University College London, Dept of Computer Science</organization>
+<address>
+<postal>
+<street>Gower Street</street>
+<city>London</city>
+<region>England</region>
+<code>WC1E 6BT</code>
+<country>UK</country></postal>
+<email>C.Perkins@cs.ucl.ac.uk</email></address></author>
+<date year='1999' month='December' />
+<abstract>
+<t>This document provides general guidelines aimed at assisting the authors of RTP Payload Format specifications in deciding on good formats.  These guidelines attempt to capture some of the experience gained with RTP as it evolved during its development.</t></abstract></front>
+
+<seriesInfo name='BCP' value='36' />
+<seriesInfo name='RFC' value='2736' />
+<format type='TXT' octets='24143' target='http://www.rfc-editor.org/rfc/rfc2736.txt' />
+</reference>

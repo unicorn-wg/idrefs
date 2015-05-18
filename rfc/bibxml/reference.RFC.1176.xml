@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1176'>
+
+<front>
+<title abbrev='IMAP2'>Interactive Mail Access Protocol: Version 2</title>
+<author initials='M.' surname='Crispin' fullname='Mark R. Crispin'>
+<organization>Panda Programming</organization>
+<address>
+<postal>
+<street>6158 Lariat Loop NE</street>
+<city>Bainbridge Island</city>
+<region>WA</region>
+<code>98110-2020</code>
+<country>US</country></postal>
+<phone>+1 206 842 2385</phone>
+<email>mrc@Tomobiki-Cho.CAC.Washington.EDU</email></address></author>
+<date year='1990' day='1' month='August' /></front>
+
+<seriesInfo name='RFC' value='1176' />
+<format type='TXT' octets='67330' target='http://www.rfc-editor.org/rfc/rfc1176.txt' />
+</reference>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0529'>
+
+<front>
+<title>Note on protocol synch sequences</title>
+<author initials='A.M.' surname='McKenzie' fullname='A.M. McKenzie'>
+<organization /></author>
+<author initials='R.' surname='Thomas' fullname='R. Thomas'>
+<organization /></author>
+<author initials='R.S.' surname='Tomlinson' fullname='R.S. Tomlinson'>
+<organization /></author>
+<author initials='K.T.' surname='Pogran' fullname='K.T. Pogran'>
+<organization /></author>
+<date year='1973' month='June' /></front>
+
+<seriesInfo name='RFC' value='529' />
+<format type='TXT' octets='9068' target='http://www.rfc-editor.org/rfc/rfc529.txt' />
+</reference>

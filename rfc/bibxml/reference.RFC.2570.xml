@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2570'>
+
+<front>
+<title abbrev='Introduction to SNMPv3'>Introduction to Version 3 of the Internet-standard Network Management Framework</title>
+<author initials='J.' surname='Case' fullname='Jeffrey Case'>
+<organization>SNMP Research, Inc.</organization>
+<address>
+<postal>
+<street>3001 Kimberlin Heights Road</street>
+<city>Knoxville</city>
+<region>TN</region>
+<code>37920-9716</code>
+<country>US</country></postal>
+<phone>+1 423 573 1434</phone>
+<email>case@snmp.com</email></address></author>
+<author initials='R.' surname='Mundy' fullname='Russ Mundy'>
+<organization>TIS Labs at Network Associates</organization>
+<address>
+<postal>
+<street>3060 Washington Rd</street>
+<city>Glenwood</city>
+<region>MD</region>
+<code>21738</code>
+<country>US</country></postal>
+<phone>+1 301 854 6889</phone>
+<email>mundy@tislabs.com</email></address></author>
+<author initials='D.' surname='Partain' fullname='David Partain'>
+<organization>Ericsson Radio Systems, Research and Innovation</organization>
+<address>
+<postal>
+<street>P.O. Box 1248</street>
+<street>SE-581 12 Linkoping</street>
+<country>SE</country></postal>
+<phone>+46 13 284144</phone>
+<email>David.Partain@ericsson.com</email></address></author>
+<author initials='B.' surname='Stewart' fullname='Bob Stewart'>
+<organization>Cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134-1706</code>
+<country>US</country></postal>
+<phone>+1 603 654 6923</phone>
+<email>bstewart@cisco.com</email></address></author>
+<date year='1999' month='April' />
+<abstract>
+<t>The purpose of this document is to provide an overview of the third
+   version of the Internet-standard Management Framework, termed the
+   SNMP version 3 Framework (SNMPv3).  This Framework is derived from
+   and builds upon both the original Internet-standard Management
+   Framework (SNMPv1) and the second Internet-standard Management
+   Framework (SNMPv2).</t>
+<t>The architecture is designed to be modular to allow the evolution of
+   the Framework over time.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2570' />
+<format type='TXT' octets='50381' target='http://www.rfc-editor.org/rfc/rfc2570.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7373'>
+
+<front>
+<title>Textual Representation of IP Flow Information Export (IPFIX) Abstract Data Types</title>
+<author initials='B.' surname='Trammell' fullname='B. Trammell'>
+<organization /></author>
+<date year='2014' month='September' />
+<abstract>
+<t>This document defines UTF-8 representations for IP Flow Information Export (IPFIX) abstract data types (ADTs) to support interoperable usage of the IPFIX Information Elements with protocols based on textual encodings.</t></abstract></front>
+
+<seriesInfo name='RFC' value='7373' />
+<format type='TXT' octets='29054' target='http://www.rfc-editor.org/rfc/rfc7373.txt' />
+</reference>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0408'>
+
+<front>
+<title>NETBANK</title>
+<author initials='B.' surname='Owen' fullname='Buzz Owen'>
+<organization /></author>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>University of California, Los Angeles (UCLA)</organization></author>
+<date year='1972' day='25' month='October' />
+<abstract>
+<t>The following idea for a protocol (or service) is offered as an aid to network use for new users:</t>
+<t>a single billing and account creation and validation system, so that a manager of a "goal oriented project" could:</t>
+<t>authorize a set of user's ids to gain access to and utilize resources at the entire or a specified subset of the server hosts.</t>
+<t>create a set of accounts which the users will expend, and which will be used as the breakdown for a single bill to be presented to the project manager.</t></abstract></front>
+
+<seriesInfo name='RFC' value='408' />
+<format type='TXT' octets='1645' target='http://www.rfc-editor.org/rfc/rfc408.txt' />
+</reference>

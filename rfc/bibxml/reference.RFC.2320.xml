@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2320'>
+
+<front>
+<title abbrev='IP and ARP over ATM (IPOA) MIB'>Definitions of Managed Objects for Classical IP and ARP Over ATM Using SMIv2 (IPOA-MIB)</title>
+<author initials='M.N.' surname='Greene' fullname='Maria N. Greene'>
+<organization>Xedia Corp.</organization>
+<address>
+<postal>
+<street>119 Russell Dr.</street>
+<street>James Luciani</street>
+<street>Bay Networks, Inc.</street>
+<street>3 Federal St., BL3-04</street>
+<city>Billerica</city>
+<region>MA</region>
+<code>01821</code></postal>
+<email>luciani@baynetworks.com</email></address></author>
+<author initials='K.D.' surname='White' fullname='Kenneth D. White'>
+<organization>Dept. G80/Bldg 503</organization>
+<address>
+<postal>
+<street>IBM Corporation</street>
+<street>Ted T.I. Kuo</street>
+<street>Bay Networks, Inc.</street>
+<street>4401 Great America Parkway</street>
+<city>Santa Clara</city>
+<region>CA</region>
+<code>95052-8185</code></postal>
+<facsimile>+1-408-495-1905</facsimile>
+<email>ted_kuo@Baynetworks.com</email></address></author>
+<date year='1998' month='April' />
+<area>Internet</area>
+<area>Management</area>
+<keyword>Management Information Base</keyword>
+<keyword>address resolution protocol</keyword>
+<keyword>asynchronous transfer mode</keyword>
+<keyword>managed object</keyword>
+<keyword>structure of management information version 2</keyword>
+<abstract>
+<t>
+
+  The purpose of this memo is to define the Management Information Base
+
+  (MIB) for supporting Classical IP and ARP over ATM as specified in
+
+  Classical IP and ARP over ATM, refer to reference [3].  Support of an
+
+  ATM interface by an IP layer will require implementation of objects
+
+  from several Management Information Bases (MIBs) as well as their
+
+  enhancement in order to enable usage of ATM transports.  It is the
+
+  intent of this MIB to fully adhere to all prerequisite MIBs unless
+
+  explicitly stated.  Deviations will be documented in corresponding
+
+  conformance statements.  The specification of this MIB will utilize
+
+  the Structure of Management Information (SMI) for Version 2 of the
+
+  Simple Network Management Protocol Version (refer to RFC 1902,
+
+  reference [1]).
+
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2320' />
+<format type='TXT' octets='102116' target='http://www.rfc-editor.org/rfc/rfc2320.txt' />
+<format type='XML' octets='101097' target='http://xml.resource.org/public/rfc/xml/rfc2320.xml' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0913'>
+
+<front>
+<title>Simple File Transfer Protocol</title>
+<author initials='M.' surname='Lottor' fullname='Mark K. Lottor'>
+<organization>Massachusetts Institute of Technology (MIT)</organization></author>
+<date year='1984' day='1' month='September' /></front>
+
+<seriesInfo name='RFC' value='913' />
+<format type='TXT' octets='20929' target='http://www.rfc-editor.org/rfc/rfc913.txt' />
+</reference>

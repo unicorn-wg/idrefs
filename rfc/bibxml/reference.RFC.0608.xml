@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0608'>
+
+<front>
+<title>Host names on-line</title>
+<author initials='M.' surname='Kudlick' fullname='M. D. Kudlick'>
+<organization>Stanford Research Institute (SRI), Augmentation Research Center (ARC)</organization></author>
+<date year='1974' day='10' month='January' />
+<abstract>
+<t>We at the NIC agree with Peter Deutsch's suggestion (in RFC# 606 / NIC# 21246) that the NIC maintain an online ASCII text file of Host names, addresses, and attributes.</t></abstract></front>
+
+<seriesInfo name='RFC' value='608' />
+<format type='TXT' octets='7010' target='http://www.rfc-editor.org/rfc/rfc608.txt' />
+</reference>

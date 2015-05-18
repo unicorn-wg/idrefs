@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1470'>
+
+<front>
+<title abbrev='FYI: Network Management Tool Catalog'>FYI on a Network Management Tool Catalog: Tools for Monitoring and Debugging TCP/IP Internets and Interconnected Devices</title>
+<author initials='R.' surname='Enger' fullname='Robert M. Enger'>
+<organization>Advanced Network and Services</organization>
+<address>
+<postal>
+<street>1875 Campus Commons Drive</street>
+<street>Suite 220</street>
+<city>Reston</city>
+<region>VA</region>
+<code>22091-1552</code>
+<country>US</country></postal>
+<phone>+1 703 758 7722</phone>
+<email>enger@reston.ans.net</email></address></author>
+<author initials='J.' surname='Reynolds' fullname='Joyce K. Reynolds'>
+<organization>University of Southern California, Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511</phone>
+<email>JKREY@ISI.EDU</email></address></author>
+<date year='1993' month='June' />
+<abstract>
+<t>The goal of this FYI memo is to provide an update to FYI 2, RFC 1147, which provided practical information to site administrators and network managers.  New and/or updated tools are listed in this RFC. Additonal descriptions are welcome, and should be sent to: noctools- entries@merit.edu.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1470' />
+<format type='TXT' octets='308528' target='http://www.rfc-editor.org/rfc/rfc1470.txt' />
+</reference>

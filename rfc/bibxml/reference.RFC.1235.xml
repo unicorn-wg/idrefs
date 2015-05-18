@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1235'>
+
+<front>
+<title abbrev='CFDP'>Coherent File Distribution Protocol</title>
+<author initials='J.' surname='Ioannidis' fullname='John Ioannidis'>
+<organization>Columbia University, Department of Computer Science</organization>
+<address>
+<postal>
+<street>450 Computer Science</street>
+<city>New York</city>
+<region>NY</region>
+<code>10027</code>
+<country>US</country></postal>
+<email>ji@cs.columbia.edu</email></address></author>
+<author initials='G.' surname='Maquire' fullname='Gerald Q. Maguire, Jr.'>
+<organization>Columbia University, Department of Computer Science</organization>
+<address>
+<postal>
+<street>450 Computer Science</street>
+<city>New York</city>
+<region>NY</region>
+<code>10027</code>
+<country>US</country></postal>
+<phone>+1 212 854 2736</phone>
+<email>maguire@cs.columbia.edu</email></address></author>
+<date year='1991' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='1235' />
+<format type='TXT' octets='29345' target='http://www.rfc-editor.org/rfc/rfc1235.txt' />
+</reference>

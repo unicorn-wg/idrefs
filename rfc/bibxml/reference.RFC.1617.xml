@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1617'>
+
+<front>
+<title abbrev='Naming and Structuring Guidelines for X.500'>Naming and Structuring Guidelines for X.500 Directory Pilots</title>
+<author initials='P.' surname='Barker' fullname='Paul Barker'>
+<organization>University College London, Department of Computer Science</organization>
+<address>
+<postal>
+<street>Gower Street</street>
+<city>London</city>
+<region>England</region>
+<code>WC1E 6BT</code>
+<country>UK</country></postal>
+<phone>+44 71 3807366</phone>
+<email>p.barker@cs.ucl.ac.uk</email></address></author>
+<author initials='S.' surname='Kille' fullname='Steve Kille'>
+<organization>ISODE Consortium</organization>
+<address>
+<postal>
+<street>The Dome, The Square</street>
+<city>Richmond</city>
+<region>England</region>
+<code>TW9 1DT</code>
+<country>UK</country></postal>
+<phone>+44 81 3329091</phone>
+<email>s.kille@isode.com</email></address></author>
+<author initials='T.' surname='Lenggenhager' fullname='Thomas Lenggenhager'>
+<organization>SWITCH</organization>
+<address>
+<postal>
+<street>Limmatquai 138</street>
+<city>Zurich</city>
+<region />
+<code>CH-8001</code>
+<country>CH</country></postal>
+<phone>+41 1 2681540</phone>
+<email>lenggenhager@switch.ch</email></address></author>
+<date year='1994' month='May' />
+<abstract>
+<t>Deployment of a Directory will benefit from following certain guidelines. This document defines a number of naming and structuring guidelines focused on White Pages usage. Alignment to these guidelines is recommended for directory pilots. The final version of this document will replace RFC 1384.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1617' />
+<format type='TXT' octets='56739' target='http://www.rfc-editor.org/rfc/rfc1617.txt' />
+</reference>

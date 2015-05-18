@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2057'>
+
+<front>
+<title abbrev='Source Directed Access Control'>Source Directed Access Control on the Internet</title>
+<author initials='S.' surname='Bradner' fullname='Scott Bradner'>
+<organization>Harvard University</organization>
+<address>
+<postal>
+<street>1350 Mass Ave.</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal>
+<phone>+1 617 495 3864</phone>
+<email>sob@harvard.edu</email></address></author>
+<date year='1996' month='November' />
+<abstract>
+<t>This memo was developed from a deposition that I submitted as part of a challenge to the Communications Decency Act of 1996, part of the Telecommunications Reform Act of 1996.  The Telecommunications Reform Act is a U.S. federal law substantially changing the regulatory structure in the United States in the telecommunications arena.  The Communications Decency Act (CDA) part of this law has as its aim the desire to protect minors from some of the material carried over telecommunications networks.  In particular the law requires that the sender of potentially offensive material take "effective action" to ensure that it is not presented to minors.  A number of people have requested that I publish the deposition as an informational RFC since some of the information in it may be useful where descriptions of the way the Internet and its applications work could help clear up confusion in the technical feasibility of proposed content control regulations.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2057' />
+<format type='TXT' octets='56664' target='http://www.rfc-editor.org/rfc/rfc2057.txt' />
+</reference>

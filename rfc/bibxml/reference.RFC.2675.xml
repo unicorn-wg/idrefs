@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2675'>
+
+<front>
+<title>IPv6 Jumbograms</title>
+<author initials='D.' surname='Borman' fullname='David Borman'>
+<organization>Berkeley Software Design, Inc.</organization>
+<address>
+<postal>
+<street>4719 Weston Hills Drive</street>
+<city>Eagan</city>
+<region>MN</region>
+<code>55123</code>
+<country>US</country></postal>
+<phone>+1 612 405 8194</phone>
+<email>dab@bsdi.com</email></address></author>
+<author initials='S.' surname='Deering' fullname='Stephen Deering'>
+<organization>Cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134-1706</code>
+<country>US</country></postal>
+<phone>+1 408 527 8213</phone>
+<email>deering@cisco.com</email></address></author>
+<author initials='R.' surname='Hinden' fullname='Robert Hinden'>
+<organization>Nokia</organization>
+<address>
+<postal>
+<street>313 Fairchild Drive</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94043</code>
+<country>US</country></postal>
+<phone>+1 650 625 2004</phone>
+<email>hinden@iprg.nokia.com</email></address></author>
+<date year='1999' month='August' />
+<abstract>
+<t>A "jumbogram" is an IPv6 packet containing a payload longer than
+65,535 octets. This document describes the IPv6 Jumbo Payload option, which provides the means of specifying such large payload lengths. It also describes the changes needed to TCP and UDP to make use of jumbograms.</t>
+<t>Jumbograms are relevant only to IPv6 nodes that may be attached to links with a link MTU greater than 65,575 octets, and need not be implemented or understood by IPv6 nodes that do not support attachment to links with such large MTUs.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2675' />
+<format type='TXT' octets='17320' target='http://www.rfc-editor.org/rfc/rfc2675.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2916'>
+
+<front>
+<title>E.164 number and DNS</title>
+<author initials='P.' surname='Faltstrom' fullname='P. Faltstrom'>
+<organization /></author>
+<date year='2000' month='September' />
+<abstract>
+<t>This document discusses the use of the Domain Name System (DNS) for storage of E.164 numbers. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='2916' />
+<format type='TXT' octets='18159' target='http://www.rfc-editor.org/rfc/rfc2916.txt' />
+</reference>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1154'>
+
+<front>
+<title>Encoding header field for internet messages</title>
+<author initials='D.' surname='Robinson' fullname='David Robinson'>
+<organization>Prime Computer, Inc.</organization>
+<address>
+<postal>
+<street>500 Old Connecticut Path</street>
+<city>Framingham</city>
+<region>MA</region>
+<code>01701</code>
+<country>US</country></postal>
+<phone>+1 508 879 2960 x1774</phone>
+<email>DRB@Relay.Prime.COM</email></address></author>
+<author initials='R.' surname='Ullmann' fullname='Robert Ullmann'>
+<organization>Prime Computer, Inc.</organization>
+<address>
+<postal>
+<street>500 Old Connecticut Path</street>
+<city>Framingham</city>
+<region>MA</region>
+<code>01701</code>
+<country>US</country></postal>
+<phone>+1 508 879 2960 x1736</phone>
+<email>Ariel@Relay.Prime.COM</email></address></author>
+<date year='1990' day='1' month='April' /></front>
+
+<seriesInfo name='RFC' value='1154' />
+<format type='TXT' octets='12214' target='http://www.rfc-editor.org/rfc/rfc1154.txt' />
+</reference>

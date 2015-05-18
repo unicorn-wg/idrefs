@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0323'>
+
+<front>
+<title>Formation of Network Measurement Group (NMG)</title>
+<author initials='V.' surname='Cerf' fullname='Vint Cerf'>
+<organization>University California Los Angeles (UCLA), NMC</organization></author>
+<date year='1972' day='23' month='March' />
+<abstract>
+<t>On March 17, 1972, at MIT project MAC, the following group met to discuss plans to perform measurement experiments on the ARPANET:</t>
+<t>The purpose of the meeting was to discuss existing and planned measurements of network and HOST behavior.</t></abstract></front>
+
+<seriesInfo name='RFC' value='323' />
+<format type='TXT' octets='15777' target='http://www.rfc-editor.org/rfc/rfc323.txt' />
+</reference>

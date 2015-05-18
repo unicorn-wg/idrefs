@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1028'>
+
+<front>
+<title abbrev='Simple Gateway Monitoring'>Simple Gateway Monitoring Protocol</title>
+<author initials='J.' surname='Davin' fullname='J. Davin'>
+<organization>Proteon, Inc.</organization></author>
+<author initials='J.' surname='Case' fullname='J. Case'>
+<organization>University of Tennessee at Knoxville</organization></author>
+<author initials='M.' surname='Fedor' fullname='M. Fedor'>
+<organization>Cornell University</organization></author>
+<author initials='M.' surname='Schoffstall' fullname='M. Schoffstall'>
+<organization>Rensselaer Polytechnic Institute</organization></author>
+<date year='1987' day='1' month='November' /></front>
+
+<seriesInfo name='RFC' value='1028' />
+<format type='TXT' octets='82440' target='http://www.rfc-editor.org/rfc/rfc1028.txt' />
+</reference>

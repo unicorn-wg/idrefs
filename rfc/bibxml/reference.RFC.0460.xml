@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0460'>
+
+<front>
+<title>NCP survey</title>
+<author initials='C.' surname='Kline' fullname='C. Kline'>
+<organization /></author>
+<date year='1973' month='February' /></front>
+
+<seriesInfo name='RFC' value='460' />
+<format type='TXT' octets='10324' target='http://www.rfc-editor.org/rfc/rfc460.txt' />
+</reference>

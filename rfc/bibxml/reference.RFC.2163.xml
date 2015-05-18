@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2163'>
+
+<front>
+<title abbrev='MIXER MCGAM'>Using the Internet DNS to Distribute MIXER Conformant Global Address Mapping (MCGAM)</title>
+<author initials='C.' surname='Allocchio' fullname='Claudio Allocchio'>
+<organization>Sincrotrone Trieste</organization>
+<address>
+<postal>
+<street>SS 14 Km 163.5 Basovizza</street>
+<city>Trieste</city>
+<region />
+<code>I 34012</code>
+<country>IT</country></postal>
+<phone>+39 40 3758523</phone>
+<facsimile>+39 40 3758565</facsimile>
+<email>Claudio.Allocchio@elettra.trieste.it</email></address></author>
+<date year='1998' month='January' />
+<abstract>
+<t>This memo is the complete technical specification to store in the Internet Domain Name System (DNS) the mapping information (MCGAM) needed by MIXER conformant e-mail gateways and other tools to map RFC822 domain names into X.400 O/R names and vice versa.  Mapping information can be managed in a distributed rather than a centralised way. Organizations can publish their MIXER mapping or preferred gateway routing information using just local resources (their local DNS server), avoiding the need for a strong coordination with any centralised organization. MIXER conformant gateways and tools located on Internet hosts can retrieve the mapping information querying the DNS instead of having fixed tables which need to be centrally updated and distributed.</t>
+<t>This memo obsoletes RFC1664. It includes the changes introduced by MIXER specification with respect to RFC1327: the new 'gate1' (O/R addresses to domain) table is fully supported. Full backward compatibility with RFC1664 specification is mantained, too.</t>
+<t>RFC1664 was a joint effort of IETF X400 operation working group (x400ops) and TERENA (formely named "RARE") Mail and Messaging working group (WG-MSG). This update was performed by the IETF MIXER working group.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2163' />
+<format type='TXT' octets='58789' target='http://www.rfc-editor.org/rfc/rfc2163.txt' />
+</reference>

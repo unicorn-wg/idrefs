@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0416'>
+
+<front>
+<title>ARC System Will Be Unavailable for Use During Thanksgiving Week</title>
+<author initials='J.' surname='Norton' fullname='James C. Norton'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
+<date year='1972' day='7' month='November' />
+<abstract>
+<t>The ARC PDP-10 system will be unavailable for ARC and NIC users from Friday, November 17 (6:00 pm PST ) through Sunday, November 26. (10:00 pm PST).</t></abstract></front>
+
+<seriesInfo name='RFC' value='416' />
+<format type='TXT' octets='2205' target='http://www.rfc-editor.org/rfc/rfc416.txt' />
+</reference>

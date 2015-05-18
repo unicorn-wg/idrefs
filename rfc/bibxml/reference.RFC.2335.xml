@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2335'>
+
+<front>
+<title abbrev='NHRP Using SCSP'>A Distributed NHRP Service Using SCSP</title>
+<author initials='J.V.' surname='Luciani' fullname='James V. Luciani'>
+<organization>Bay Networks, Inc.</organization>
+<address>
+<postal>
+<street>3 Federal Street, BL3-03</street>
+<city>Billerica</city>
+<region>MA</region>
+<code>01821</code></postal>
+<phone>+1-978-916-4734</phone>
+<email>luciani@baynetworks.com</email></address></author>
+<date year='1998' month='April' />
+<area>Internet</area>
+<keyword>cache</keyword>
+<abstract>
+<t>
+
+   This document describes a method for distributing an NHRP service
+
+   within a LIS [1].  This method uses the Server Cache Synchronization
+
+   Protocol (SCSP) [2]  to synchronize the client information databases
+
+   held by NHRP Servers (NHSs) within a LIS.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2335' />
+<format type='TXT' octets='14007' target='http://www.rfc-editor.org/rfc/rfc2335.txt' />
+<format type='XML' octets='14326' target='http://xml.resource.org/public/rfc/xml/rfc2335.xml' />
+</reference>

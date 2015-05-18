@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0606'>
+
+<front>
+<title>Host names on-line</title>
+<author initials='L.' surname='Deutsch' fullname='L. Peter Deutsch'>
+<organization>Xerox Palo Alto Research Center (PARC), MAXC</organization></author>
+<date year='1973' day='29' month='December' /></front>
+
+<seriesInfo name='RFC' value='606' />
+<format type='TXT' octets='6855' target='http://www.rfc-editor.org/rfc/rfc606.txt' />
+</reference>

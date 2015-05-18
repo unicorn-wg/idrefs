@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2397'>
+
+<front>
+<title abbrev='The &quot;data&quot; URL scheme'>The &quot;data&quot; URL scheme</title>
+<author initials='L.' surname='Masinter' fullname='Larry Masinter'>
+<organization>Xerox Palo Alto Research Center</organization>
+<address>
+<postal>
+<street>3333 Coyote Hill Road</street>
+<street>Palo Alto</street>
+<street>CA 94304</street></postal>
+<email>masinter@parc.xerox.com</email></address></author>
+<date year='1998' month='August' />
+<area>Applications</area>
+<keyword>URL</keyword>
+<keyword>uniform resource</keyword></front>
+
+<seriesInfo name='RFC' value='2397' />
+<format type='TXT' octets='9514' target='http://www.rfc-editor.org/rfc/rfc2397.txt' />
+<format type='XML' octets='9931' target='http://xml.resource.org/public/rfc/xml/rfc2397.xml' />
+</reference>

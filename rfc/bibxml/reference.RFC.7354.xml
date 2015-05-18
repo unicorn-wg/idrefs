@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7354'>
+
+<front>
+<title>Update to the Registrant Information for the Digital Video Broadcasting Project (DVB) Uniform Resource Name (URN) Namespace</title>
+<author initials='A.' surname='Adolf' fullname='A. Adolf'>
+<organization /></author>
+<author initials='P.' surname='Siebert' fullname='P. Siebert'>
+<organization /></author>
+<date year='2014' month='September' />
+<abstract>
+<t>RFC 5328 registered the Uniform Resource Name (URN) namespace "dvb" for the Digital Video Broadcasting Project.  This document updates RFC 5328 with new registrant information.</t></abstract></front>
+
+<seriesInfo name='RFC' value='7354' />
+<format type='TXT' octets='5052' target='http://www.rfc-editor.org/rfc/rfc7354.txt' />
+</reference>

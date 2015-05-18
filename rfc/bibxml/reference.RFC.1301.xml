@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1301'>
+
+<front>
+<title>Multicast Transport Protocol</title>
+<author initials='S.' surname='Armstrong' fullname='Susan M. Armstrong'>
+<organization>Xerox Webster Research Center</organization>
+<address>
+<postal>
+<street>800 Phillips Rd.</street>
+<street>MS 128-27E</street>
+<city>Webster</city>
+<region>NY</region>
+<code>14580</code>
+<country>US</country></postal>
+<phone>+1 716 422 6437</phone>
+<email>armstrong@wrc.xerox.com</email></address></author>
+<author initials='A.' surname='Freier' fullname='Alan O. Freier'>
+<organization>Apple Computer, Inc.</organization>
+<address>
+<postal>
+<street>20525 Mariani Ave.</street>
+<street>MS 3-PK</street>
+<city>Cupertino</city>
+<region>CA</region>
+<code>95014</code>
+<country>US</country></postal>
+<phone>+1 408 974 9196</phone>
+<email>freier@apple.com</email></address></author>
+<author initials='K.' surname='Marzullo' fullname='Keith A. Marzullo'>
+<organization>Cornell University, Department of Computer Science</organization>
+<address>
+<postal>
+<street>Upson Hall</street>
+<city>Ithaca</city>
+<region>NY</region>
+<code>14853-7501</code>
+<country>US</country></postal>
+<phone>+1 607 255 9188</phone>
+<email>marzullo@cs.cornell.edu</email></address></author>
+<date year='1992' month='February' /></front>
+
+<seriesInfo name='RFC' value='1301' />
+<format type='TXT' octets='91976' target='http://www.rfc-editor.org/rfc/rfc1301.txt' />
+</reference>

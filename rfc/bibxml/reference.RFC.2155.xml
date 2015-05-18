@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2155'>
+
+<front>
+<title abbrev='Definitions of Managed Objects for APPN'>Definitions of Managed Objects for APPN using SMIv2</title>
+<author initials='B.' surname='Clouston' fullname='Bob Clouston'>
+<organization>Cisco Systems</organization>
+<address>
+<postal>
+<street>7025 Kit Creek Road</street>
+<street>P.O. Box 14987</street>
+<city>Research Triangle Park</city>
+<region>NC</region>
+<code>27709</code>
+<country>US</country></postal>
+<phone>+1 919 472 2333</phone>
+<email>clouston@cisco.com</email></address></author>
+<author initials='B.' surname='Moore' fullname='Bob Moore'>
+<organization>IBM Corporation</organization>
+<address>
+<postal>
+<street>800 Park Offices Drive, CNMA/664</street>
+<street>P.O. Box 12195</street>
+<city>Research Triangle Park</city>
+<region>NC</region>
+<code>27709</code>
+<country>US</country></postal>
+<phone>+1 919 254 4436</phone>
+<email>remoore@ralvm6.vnet.ibm.com</email></address></author>
+<date year='1997' month='June' /></front>
+
+<seriesInfo name='RFC' value='2155' />
+<format type='TXT' octets='213809' target='http://www.rfc-editor.org/rfc/rfc2155.txt' />
+</reference>

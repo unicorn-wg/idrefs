@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0230'>
+
+<front>
+<title>Toward reliable operation of minicomputer-based terminals on a TIP</title>
+<author initials='T.' surname='Pyke' fullname='T. N. Pyke Jr.'>
+<organization>National Bureau of Standards (NBS)</organization></author>
+<date year='1971' day='24' month='September' />
+<abstract>
+<t>The present protocol for communication between a TIP and attached terminals requires character-oriented transmission and provides for no error control. In the design of this protocol, it was apparently assumed that the majority of terminals attached to a TIP would be interactive, be normally used in a character-by-character mode both for transmission to and from the terminal, and normally support a human user who would in effect be in the communication loop. The human user would thus be in a position to detect any significant telecommunication-induced errors both by direct observation of the character stream and, more importantly, by examining the computer output in the context of his ongoing interaction.</t>
+<t>The effectiveness of this means for error detection and initiation of corrective measures when necessary is not adequate in the following cases:</t></abstract></front>
+
+<seriesInfo name='RFC' value='230' />
+<format type='TXT' octets='7040' target='http://www.rfc-editor.org/rfc/rfc230.txt' />
+</reference>

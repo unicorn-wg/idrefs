@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2370'>
+
+<front>
+<title>The OSPF Opaque LSA Option</title>
+<author initials='R.' surname='Coltun' fullname='Rob Coltun'>
+<organization>FORE Systems</organization>
+<address>
+<phone>(703) 245-4543</phone>
+<email>rcoltun@fore.com</email></address></author>
+<date year='1998' month='July' />
+<area>Routing</area>
+<keyword>open shortest-path first protocol</keyword>
+<keyword>OSPF</keyword></front>
+
+<seriesInfo name='RFC' value='2370' />
+<format type='TXT' octets='33789' target='http://www.rfc-editor.org/rfc/rfc2370.txt' />
+<format type='XML' octets='34341' target='http://xml.resource.org/public/rfc/xml/rfc2370.xml' />
+</reference>

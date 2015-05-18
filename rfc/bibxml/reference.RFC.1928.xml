@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1928'>
+
+<front>
+<title>SOCKS Protocol Version 5</title>
+<author initials='M.' surname='Leech' fullname='Marcus Leech'>
+<organization>Bell-Northern Research Ltd</organization>
+<address>
+<postal>
+<street>P.O. Box 3511</street>
+<street>Stn. C</street>
+<city>Ottawa</city>
+<region>Ontario</region>
+<code>K1Y 4H7</code>
+<country>CA</country></postal>
+<phone>+1 613 763 9145</phone>
+<email>mleech@bnr.ca</email></address></author>
+<author initials='M.' surname='Ganis' fullname='M. Ganis'>
+<organization>International Business Machines</organization></author>
+<author initials='Y.' surname='Lee' fullname='Y. Lee'>
+<organization>NEC Systems Laboratory</organization></author>
+<author initials='R.' surname='Kuris' fullname='R. Kuris'>
+<organization>Unify Corporation</organization></author>
+<author initials='D.' surname='Koblas' fullname='D. Koblas'>
+<organization>Independent Consultant</organization></author>
+<author initials='L.' surname='Jones' fullname='L. Jones'>
+<organization>Hewlett-Packard Company</organization></author>
+<date year='1996' month='March' /></front>
+
+<seriesInfo name='RFC' value='1928' />
+<format type='TXT' octets='19741' target='http://www.rfc-editor.org/rfc/rfc1928.txt' />
+</reference>

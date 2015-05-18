@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1282'>
+
+<front>
+<title>BSD Rlogin</title>
+<author initials='B.' surname='Kantor' fullname='Brian Kantor'>
+<organization>University of California at San Diego, Network Operations</organization>
+<address>
+<postal>
+<street>C-024</street>
+<city>La Jolla</city>
+<region>CA</region>
+<code>92093-0214</code>
+<country>US</country></postal>
+<phone>+1 619 534 6865</phone>
+<email>brian@UCSD.EDU</email></address></author>
+<date year='1991' month='December' /></front>
+
+<seriesInfo name='RFC' value='1282' />
+<format type='TXT' octets='10704' target='http://www.rfc-editor.org/rfc/rfc1282.txt' />
+</reference>

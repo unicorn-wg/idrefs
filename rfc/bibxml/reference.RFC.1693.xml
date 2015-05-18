@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1693'>
+
+<front>
+<title>An Extension to TCP : Partial Order Service</title>
+<author initials='T.' surname='Connolly' fullname='Tom Connolly'>
+<organization>University of Delaware, Department of Computer &amp; Information</organization>
+<address>
+<postal>
+<street>101C Smith Hall</street>
+<city>Newark</city>
+<region>DE</region>
+<code>19716-2586</code>
+<country>US</country></postal>
+<email>connolly@udel.edu</email></address></author>
+<author initials='P.' surname='Amer' fullname='Paul D. Amer'>
+<organization>University of Delaware, Department of Computer &amp; Information</organization>
+<address>
+<postal>
+<street>101C Smith Hall</street>
+<city>Newark</city>
+<region>DE</region>
+<code>19716-2586</code>
+<country>US</country></postal>
+<email>amer@udel.edu</email></address></author>
+<author initials='P.' surname='Conrad' fullname='Phill Conrad'>
+<organization>University of Delaware, Department of Computer &amp; Information</organization>
+<address>
+<postal>
+<street>101C Smith Hall</street>
+<city>Newark</city>
+<region>DE</region>
+<code>19716-2586</code>
+<country>US</country></postal>
+<email>pconrad@udel.edu</email></address></author>
+<date year='1994' month='November' />
+<abstract>
+<t>This RFC introduces a new transport mechanism for TCP based upon partial ordering.  The aim is to present the concepts of partial ordering and promote discussions on its usefulness in network communications.  Distribution of this memo is unlimited.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1693' />
+<format type='TXT' octets='90100' target='http://www.rfc-editor.org/rfc/rfc1693.txt' />
+</reference>

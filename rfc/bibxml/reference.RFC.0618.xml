@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0618'>
+
+<front>
+<title>Few observations on NCP statistics</title>
+<author initials='E.' surname='Taft' fullname='Edward Taft'>
+<organization>Xerox Palo Alto Research Center (PARC), MAXC</organization></author>
+<date year='1974' day='19' month='February' />
+<abstract>
+<t>The NCP in use at HARV-10, CMU-10A, and CMU-10B collects a number of operating and error statistics, which may be typed out on demand by any user by means of the 'IMP ERROR' command, as shown on the sample typescript.</t></abstract></front>
+
+<seriesInfo name='RFC' value='618' />
+<format type='TXT' octets='4929' target='http://www.rfc-editor.org/rfc/rfc618.txt' />
+</reference>

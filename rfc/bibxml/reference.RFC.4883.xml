@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4883'>
+
+<front>
+<title>Benchmarking Terminology for Resource Reservation Capable Routers</title>
+<author initials='G.' surname='Feher' fullname='G. Feher'>
+<organization /></author>
+<author initials='K.' surname='Nemeth' fullname='K. Nemeth'>
+<organization /></author>
+<author initials='A.' surname='Korn' fullname='A. Korn'>
+<organization /></author>
+<author initials='I.' surname='Cselenyi' fullname='I. Cselenyi'>
+<organization /></author>
+<date year='2007' month='July' />
+<abstract>
+<t>The primary purpose of this document is to define terminology specific to the benchmarking of resource reservation signaling of Integrated Services (IntServ) IP routers.  These terms can be used in additional documents that define benchmarking methodologies for routers that support resource reservation or reporting formats for the benchmarking measurements.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='4883' />
+<format type='TXT' octets='54205' target='http://www.rfc-editor.org/rfc/rfc4883.txt' />
+</reference>

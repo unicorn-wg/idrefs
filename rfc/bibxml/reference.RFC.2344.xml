@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2344'>
+
+<front>
+<title>Reverse Tunneling for Mobile IP</title>
+<author initials='G.E.' surname='Montenegro' fullname='Gabriel E. Montenegro'>
+<organization>Sun Microsystems, Inc.</organization>
+<address>
+<postal>
+<street>901 San Antonio Road</street>
+<street>Mailstop UMPK 15-214</street>
+<street>Voice:  +1-415-786-6288</street>
+<city>Mountain View</city>
+<region>California</region>
+<code>94303</code></postal>
+<email>gabriel.montenegro@eng.sun.com</email></address></author>
+<author>
+<organization /></author>
+<date year='1998' month='May' />
+<area>Internet</area>
+<keyword>firewall</keyword>
+<keyword>mobile ip</keyword>
+<keyword>tunnel</keyword>
+<abstract>
+<t>
+   Mobile IP uses tunneling from the home agent to the mobile node's
+
+   care-of address, but rarely in the reverse direction.  Usually, a
+
+   mobile node sends its packets through a router on the foreign
+
+   network, and assumes that routing is independent of source address.
+
+   When this assumption is not true, it is convenient to establish a
+
+   topologically correct reverse tunnel from the care-of address to the
+
+   home agent.
+</t>
+<t>
+
+
+   This document proposes backwards-compatible extensions to Mobile IP
+
+   in order to support topologically correct reverse tunnels.  This
+
+   document does not attempt to solve the problems posed by firewalls
+
+   located between the home agent and the mobile node's care-of address.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2344' />
+<format type='TXT' octets='39468' target='http://www.rfc-editor.org/rfc/rfc2344.txt' />
+<format type='XML' octets='38642' target='http://xml.resource.org/public/rfc/xml/rfc2344.xml' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4993'>
+
+<front>
+<title>A Lightweight UDP Transfer Protocol for the Internet Registry Information Service</title>
+<author initials='A.' surname='Newton' fullname='A. Newton'>
+<organization /></author>
+<date year='2007' month='August' />
+<abstract>
+<t>This document describes a lightweight UDP transfer protocol for the Internet Registry Information Service (IRIS).  This transfer protocol uses a single packet for every request and response, and optionally employs compression over the contents of the packet. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='4993' />
+<format type='TXT' octets='34383' target='http://www.rfc-editor.org/rfc/rfc4993.txt' />
+</reference>

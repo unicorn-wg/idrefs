@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0297'>
+
+<front>
+<title>TIP Message Buffers</title>
+<author initials='D.' surname='Walden' fullname='Dave Walden'>
+<organization>Bolt Baranek and Newman (BBN)</organization></author>
+<date year='1972' day='31' month='January' /></front>
+
+<seriesInfo name='RFC' value='297' />
+<format type='TXT' octets='3517' target='http://www.rfc-editor.org/rfc/rfc297.txt' />
+</reference>

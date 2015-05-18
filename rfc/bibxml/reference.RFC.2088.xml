@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2088'>
+
+<front>
+<title abbrev='LITERAL'>IMAP4 non-synchronizing literals</title>
+<author initials='J.G.' surname='Myers' fullname='John G. Myers'>
+<organization>Carnegie-Mellon University</organization>
+<address>
+<postal>
+<street>5000 Forbes Ave.</street>
+<city>Pittsburgh</city>
+<region>PA</region>
+<code>15213-3890</code>
+<country>US</country></postal>
+<email>jgm+@cmu.edu</email></address></author>
+<date year='1997' month='January' />
+<abstract>
+<t>The Internet Message Access Protocolcontains the "literal" syntactic construct for communicating strings.  When sending a literal from client to server, IMAP4 requires the client to wait for the server to send a command continuation request between sending the octet count and the string data.  This document specifies an alternate form of literal which does not require this network round trip.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2088' />
+<format type='TXT' octets='4052' target='http://www.rfc-editor.org/rfc/rfc2088.txt' />
+</reference>

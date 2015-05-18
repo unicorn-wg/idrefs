@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2008'>
+
+<front>
+<title abbrev='Address Allocation'>Implications of Various Address Allocation Policies for Internet Routing</title>
+<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
+<organization>cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 Tasman Dr.</street>
+<street>San Jose</street>
+<street>CA 95134</street></postal>
+<phone>(914) 528-0090</phone>
+<email>yakov@cisco.com</email></address></author>
+<author initials='T.' surname='Li' fullname='Tony Li'>
+<organization>cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 Tasman Dr.</street>
+<street>San Jose</street>
+<street>CA 95134</street></postal>
+<phone>(408) 526-8186</phone>
+<email>tli@cisco.com</email></address></author>
+<date year='1996' month='October' />
+<area>Internet</area>
+<keyword>IP address</keyword>
+<keyword>classless inter-domain routing</keyword>
+<keyword>routing</keyword>
+<note title='IESG Note'>
+<t>
+   The addressing constraints described in this document are largely the
+   result of the interaction of existing router technology, address
+   assignment, and architectural history.  After extensive review and
+   discussion, the authors of this document, the IETF working group that
+   reviewed it, and the IESG have concluded that there are no other
+   currently deployable technologies available to overcome these
+   limitations.  In the event that routing or router technology develops
+   to the point that adequate routing aggregation can be achieved by
+   other means or that routers can deal with larger routing and more
+   dynamic tables, it may be appropriate to review these constraints.
+</t></note></front>
+
+<seriesInfo name='BCP' value='7' />
+<seriesInfo name='RFC' value='2008' />
+<format type='TXT' octets='34717' target='http://www.rfc-editor.org/rfc/rfc2008.txt' />
+<format type='XML' octets='37904' target='http://xml.resource.org/public/rfc/xml/rfc2008.xml' />
+</reference>

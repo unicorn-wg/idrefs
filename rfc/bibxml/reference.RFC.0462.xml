@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0462'>
+
+<front>
+<title>Responding to user needs</title>
+<author initials='J.' surname='Iseli' fullname='Jean Iseli'>
+<organization>The Mitre Corporation</organization></author>
+<author initials='D.' surname='Crocker' fullname='Dave Crocker'>
+<organization>University of California, Los Angeles (UCLA), NMC</organization></author>
+<date year='1973' day='22' month='February' /></front>
+
+<seriesInfo name='RFC' value='462' />
+<format type='TXT' octets='2808' target='http://www.rfc-editor.org/rfc/rfc462.txt' />
+</reference>

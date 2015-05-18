@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1677'>
+
+<front>
+<title abbrev='IPng Tactical RF Requirements'>Tactical Radio Frequency Communication Requirements for IPng</title>
+<author initials='R.' surname='Adamson' fullname='R. Brian Adamson'>
+<organization>Naval Research Laboratory, Communication Systems Branch, Information Technology Division</organization>
+<address>
+<postal>
+<street>NRL Code 5523</street>
+<city>Washington</city>
+<region>DC</region>
+<code>20375</code>
+<country>US</country></postal>
+<email>adamson@itd.nrl.navy.mil</email></address></author>
+<date year='1994' month='August' />
+<abstract>
+<t>This document was submitted to the IETF IPng area in response to RFC 1550.  Publication of this document does not imply acceptance by the IPng area of any ideas expressed within.  Comments should be submitted to the big-internet@munnari.oz.au mailing list.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1677' />
+<format type='TXT' octets='24065' target='http://www.rfc-editor.org/rfc/rfc1677.txt' />
+</reference>

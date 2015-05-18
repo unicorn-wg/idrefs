@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1343'>
+
+<front>
+<title abbrev='Multimedia Mail Configuration'>A User Agent Configuration Mechanism for Multimedia Mail Format Information</title>
+<author initials='N.' surname='Borenstein' fullname='Nathaniel S. Borenstein'>
+<organization>Bellcore</organization>
+<address>
+<postal>
+<street>445 South St.</street>
+<street>MRE 2D-296</street>
+<city>Morristown</city>
+<region>NJ</region>
+<code>07962-1910</code>
+<country>US</country></postal>
+<phone>+1 201 829 4270</phone>
+<facsimile>+1 201 829 7019</facsimile>
+<email>nsb@bellcore.com</email></address></author>
+<date year='1992' month='June' />
+<abstract>
+<t>This memo suggests a  file  format  to  be used to inform multiple  mail  reading user agent programs  about the locally-installed facilities for handling mail in various formats.  The mechanism is explicitly designed to work with mail systems based Internet mail as defined  by RFC's 821, 822, 934, 1049, 1113,  and the Multipurpose Internet Mail Extensions, known as MIME. However, with some extensions it probably be made to work for X.400-based mail systems as well. he format and mechanism are proposed in a  manner tat  is  generally  operating-system independent.  However, certain  implementation  details  will  inevitably   reflect operating  system differences, some of which will have to be handled in a uniform manner for each operating system. This memo  makes  such  situations explicit, and, in an appendix, suggests  a  standard  behavior  under  the  UNIX  operating system.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1343' />
+<format type='TXT' octets='29295' target='http://www.rfc-editor.org/rfc/rfc1343.txt' />
+<format type='PS' octets='59978' target='http://www.rfc-editor.org/rfc/rfc1343.ps' />
+<format type='PDF' octets='28495' target='http://www.rfc-editor.org/rfc/rfc1343.pdf' />
+</reference>

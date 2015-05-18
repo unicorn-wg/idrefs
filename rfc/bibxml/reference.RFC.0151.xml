@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0151'>
+
+<front>
+<title>Comments on a proffered official ICP: RFCs 123, 127</title>
+<author initials='A.' surname='Shoshani' fullname='A. Shoshani'>
+<organization>System Development Corporation (SDC)</organization></author>
+<date year='1971' day='10' month='May' />
+<abstract>
+<t>Bob Long at SDC noticed that the order in which messages go out to the network depend on the local NCP.</t></abstract></front>
+
+<seriesInfo name='RFC' value='151' />
+<format type='TXT' octets='3623' target='http://www.rfc-editor.org/rfc/rfc151.txt' />
+</reference>

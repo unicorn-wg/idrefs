@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0082'>
+
+<front>
+<title>Network Meeting Notes</title>
+<author initials='E.' surname='Meyer' fullname='Edwin W. Meyer Jr.'>
+<organization>Massachusetts Institute of Technology (MIT), Project MAC</organization></author>
+<date year='1970' day='9' month='December' />
+<abstract>
+<t>The following summary was transcribed from notes I took at three network meetings held in Houston during the 1970 Fall Joint Computer Conference.</t></abstract></front>
+
+<seriesInfo name='RFC' value='82' />
+<format type='TXT' octets='38023' target='http://www.rfc-editor.org/rfc/rfc82.txt' />
+</reference>

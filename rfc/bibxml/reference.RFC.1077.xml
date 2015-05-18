@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1077'>
+
+<front>
+<title>Critical issues in high bandwidth networking</title>
+<author initials='B.' surname='Leiner' fullname='B. Leiner'>
+<organization>Gigabit Working Group</organization></author>
+<date year='1988' day='1' month='November' />
+<abstract>
+<t>At the request of Maj. Mark Pullen and Maj. Brian Boesch of DARPA, an ad-hoc working group was assembled to develop a set of recommendations on the research required to achieve a ubiquitous high-bandwidth network as discussed in the FCCSET recommendations for Phase III.</t>
+<t>This report outlines a set of research topics aimed at providing the technology base for an interconnected set of networks that can provide highbandwidth capabilities.  The suggested research focus draws upon ongoing research and augments it with basic and applied components.  The major activities are the development and demonstration of a gigabit backbone network, the development and demonstration of an interconnected set of networks with gigabit throughput and appropriate management techniques, and the development and demonstration of the required overall architecture that allows users to gain access to such high bandwidth.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1077' />
+<format type='TXT' octets='116464' target='http://www.rfc-editor.org/rfc/rfc1077.txt' />
+</reference>

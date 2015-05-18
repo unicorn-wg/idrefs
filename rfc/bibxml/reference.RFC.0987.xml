@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0987'>
+
+<front>
+<title>Mapping between X.400 and RFC 822</title>
+<author initials='S.' surname='Kille' fullname='S. E. Kille'>
+<organization>University College of London</organization></author>
+<date year='1986' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='987' />
+<format type='TXT' octets='127540' target='http://www.rfc-editor.org/rfc/rfc987.txt' />
+</reference>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1881'>
+
+<front>
+<title>IPv6 Address Allocation Management</title>
+<author>
+<organization abbrev='IAB'>Internet Architecture Board</organization>
+<address>
+<email>iab@isi.edu</email></address></author>
+<author>
+<organization abbrev='IESG'>Internet Engineering Steering Group</organization>
+<address>
+<email>iesg@cnri.reston.va.us</email></address></author>
+<date year='1995' month='December' />
+<abstract>
+<t>The IPv6 address space will be managed by the IANA for the good of the Internet community, with advice from the IAB and the IESG, by delegation to the regional registries.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1881' />
+<format type='TXT' octets='3215' target='http://www.rfc-editor.org/rfc/rfc1881.txt' />
+</reference>

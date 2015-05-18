@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1692'>
+
+<front>
+<title abbrev='TMux'>Transport Multiplexing Protocol (TMux)</title>
+<author initials='P.' surname='Cameron' fullname='Peter Cameron'>
+<organization>Xylogics International, Ltd.</organization>
+<address>
+<postal>
+<street>Featherstone Rd.</street>
+<street>Wolverton Mill</street>
+<city>Milton Keynes</city>
+<region>England</region>
+<code>MK12 5RD</code>
+<country>UK</country></postal>
+<phone>+44 908 222112</phone>
+<facsimile>+44 908 222115</facsimile>
+<email>cameron@xylint.co.uk</email></address></author>
+<author initials='D.' surname='Crocker' fullname='David Crocker'>
+<organization>Silicon Graphics, Inc.</organization>
+<address>
+<postal>
+<street>2011 N. Shoreline Blvd.</street>
+<street>P.O. Box 7311</street>
+<city>Mountain View</city>
+<region>CA</region>
+<code>94039-7311</code>
+<country>US</country></postal>
+<phone>+1 415 390 1804</phone>
+<facsimile>+1 415 962 8404</facsimile>
+<email>dcrocker@sgi.com</email></address></author>
+<author initials='D.' surname='Cohen' fullname='Danny Cohen'>
+<organization>Myricom</organization>
+<address>
+<postal>
+<street>325 N. Santa Anita Ave.</street>
+<city>Arcadia</city>
+<region>CA</region>
+<code>91006</code>
+<country>US</country></postal>
+<phone>+1 818 821 5555</phone>
+<email>Cohen@myricom.com</email></address></author>
+<author initials='J.' surname='Postel' fullname='Jon Postel'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90292-6695</code>
+<country>US</country></postal>
+<phone>+1 310 822 1511</phone>
+<facsimile>+1 310 823 6714</facsimile>
+<email>EMail: Postel@ISI.EDU</email></address></author>
+<date year='1994' month='August' />
+<abstract>
+<t>One of the problems with the use of terminal servers is the large number of small packets they can generate. Frequently, most of these packets are destined for only one or two hosts.  TMux is a protocol which allows multiple short transport segments, independent of application type, to be combined between a server and host pair.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1692' />
+<format type='TXT' octets='26163' target='http://www.rfc-editor.org/rfc/rfc1692.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0048'>
+
+<front>
+<title>Possible protocol plateau</title>
+<author initials='J.' surname='Postel' fullname='J. Postel'>
+<organization>University of California, Los Angeles (UCLA)</organization></author>
+<author initials='S.' surname='Crocker' fullname='S. Crocker'>
+<organization>University of California, Los Angeles (UCLA)</organization></author>
+<date year='1970' day='21' month='April' /></front>
+
+<seriesInfo name='RFC' value='48' />
+<format type='TXT' octets='41696' target='http://www.rfc-editor.org/rfc/rfc48.txt' />
+</reference>

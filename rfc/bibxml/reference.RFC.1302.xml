@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1302'>
+
+<front>
+<title abbrev='NISI'>Building a Network Information Services Infrastructure</title>
+<author initials='D.' surname='Sitzler' fullname='Dana D. Sitzler'>
+<organization>Merit Network, Inc</organization>
+<address>
+<postal>
+<street>1075 Beal Avenue</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48109-2112</code>
+<country>US</country></postal>
+<phone>+1 313 936 2648</phone>
+<email>dds@merit.edu</email></address></author>
+<author initials='P.' surname='Smith' fullname='Patricia G. Smith'>
+<organization>Merit Network, Inc</organization>
+<address>
+<postal>
+<street>1075 Beal Avenue</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48109-2112</code>
+<country>US</country></postal>
+<phone>+1 313 936 3000</phone>
+<email>psmith@merit.edu</email></address></author>
+<author initials='A.' surname='Marine' fullname='April N. Marine'>
+<organization>SRI International, Network Information Systems Center</organization>
+<address>
+<postal>
+<street>333 Ravenswood Avenue</street>
+<street>EJ294</street>
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025-3493</code>
+<country>US</country></postal>
+<phone>+1 415 859 5318</phone>
+<email>april@nisc.sri.com</email></address></author>
+<date year='1992' month='February' />
+<abstract>
+<t>This FYI RFC document is intended for existing Internet Network Information Center (NIC) personnel, people interested in establishing a new NIC, Internet Network Operations Centers (NOCs), and funding agencies interested in contributing to user support facilities.  The document strives to:</t>
+<t>- Define a basic set of essential services that Network Information Centers (NICs) will provide to Internet users, including new mechanisms that will facilitate the timely dissemination of  information to the Internet community and encourage cooperation among NICs.</t>
+<t>- Describe existing NIC services as an aid to Internet users and as a model for organizations establishing new NICs.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1302' />
+<format type='TXT' octets='29135' target='http://www.rfc-editor.org/rfc/rfc1302.txt' />
+</reference>

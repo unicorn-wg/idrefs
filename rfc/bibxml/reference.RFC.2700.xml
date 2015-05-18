@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2700'>
+
+<front>
+<title>Internet Official Protocol Standards</title>
+<author initials='J.' surname='Reynolds' fullname='J. Reynolds'>
+<organization /></author>
+<author initials='R.' surname='Braden' fullname='R. Braden'>
+<organization /></author>
+<date year='2000' month='August' />
+<abstract>
+<t>This memo describes the current state of standardization of protocols used in the Internet as determined by the Internet Engineering Task Force (IETF). [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='2700' />
+<format type='TXT' octets='90213' target='http://www.rfc-editor.org/rfc/rfc2700.txt' />
+</reference>

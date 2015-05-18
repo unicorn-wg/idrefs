@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0616'>
+
+<front>
+<title>LATEST NETWORK MAPS</title>
+<author initials='D.' surname='Walden' fullname='D. Walden'>
+<organization /></author>
+<date year='1973' month='February' /></front>
+
+<seriesInfo name='RFC' value='616' />
+<format type='TXT' octets='848' target='http://www.rfc-editor.org/rfc/rfc616.txt' />
+<format type='PDF' octets='117083' target='http://www.rfc-editor.org/rfc/rfc616.pdf' />
+</reference>

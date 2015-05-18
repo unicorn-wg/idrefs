@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0387'>
+
+<front>
+<title>Some experiences in implementing Network Graphics Protocol Level 0</title>
+<author initials='K.C.' surname='Kelley' fullname='K.C. Kelley'>
+<organization /></author>
+<author initials='J.' surname='Meir' fullname='J. Meir'>
+<organization /></author>
+<date year='1972' month='August' /></front>
+
+<seriesInfo name='RFC' value='387' />
+<format type='TXT' octets='9059' target='http://www.rfc-editor.org/rfc/rfc387.txt' />
+</reference>

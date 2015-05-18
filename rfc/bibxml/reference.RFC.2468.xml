@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2468'>
+
+<front>
+<title abbrev='I REMEMBER IANA'>I REMEMBER IANA October 17, 1998</title>
+<author initials='V.G.' surname='Cerf' fullname='Vinton G. Cerf'>
+<organization>MCI</organization>
+<address>
+<email>vcerf@mci.net</email></address></author>
+<date year='1998' month='October' />
+<area>General</area>
+<keyword>Internet Assigned Numbers Authority</keyword></front>
+
+<seriesInfo name='RFC' value='2468' />
+<format type='TXT' octets='8543' target='http://www.rfc-editor.org/rfc/rfc2468.txt' />
+<format type='HTML' octets='17890' target='http://xml.resource.org/public/rfc/html/rfc2468.html' />
+<format type='XML' octets='7023' target='http://xml.resource.org/public/rfc/xml/rfc2468.xml' />
+</reference>

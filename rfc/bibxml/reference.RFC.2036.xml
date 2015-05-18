@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2036'>
+
+<front>
+<title abbrev='Components of the Class A Address Space'>Observations on the use of Components of the Class A Address Space within the Internet</title>
+<author initials='G.' surname='Huston' fullname='Geoff Huston'>
+<organization />
+<address>
+<postal>
+<street>Locked Bag 5744</street>
+<street>Canberra  ACT  2601</street>
+<country>Australia</country></postal>
+<phone>+61 6 208 1908</phone>
+<email>gih@telstra.net</email></address></author>
+<date year='1996' month='October' />
+<area>Internet</area>
+<keyword>IP address</keyword>
+<keyword>classless inter-domain routing</keyword>
+<abstract>
+<t>
+   This document is a commentary on the recommendation that IANA
+   commence allocation of the presently unallocated components of the
+   Class A address space to registries, for deployment within the
+   Internet as class-less address blocks.
+</t>
+<t>
+   The document examines the implications for service providers and end
+   clients within this environment. The document notes the major
+   conclusion that widespread adoption of class-less routing protocols
+   is required, within a relatively rapid timeframe for this
+   recommendation to be effective.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2036' />
+<format type='TXT' octets='20743' target='http://www.rfc-editor.org/rfc/rfc2036.txt' />
+<format type='HTML' octets='31501' target='http://xml.resource.org/public/rfc/html/rfc2036.html' />
+<format type='XML' octets='19033' target='http://xml.resource.org/public/rfc/xml/rfc2036.xml' />
+</reference>

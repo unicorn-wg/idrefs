@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0703'>
+
+<front>
+<title abbrev='Survey of New-Protocol TELNET Servers'>July, 1975, survey of New-Protocol Telnet Servers</title>
+<author initials='D.' surname='Dodds' fullname='D. W. Dodds'>
+<organization>Bolt Baranek and Newman (BBN), TENEXA</organization></author>
+<date year='1975' day='11' month='July' />
+<abstract>
+<t>In the nearly five months since the last report several new server sites have joined the network and there has been some significant progress in New-Protocol implementation.  Perhaps the New-Protocol implementation on the TIPs scheduled for the end of the year will encourage further progress in the near future.</t></abstract></front>
+
+<seriesInfo name='RFC' value='703' />
+<format type='TXT' octets='5691' target='http://www.rfc-editor.org/rfc/rfc703.txt' />
+</reference>

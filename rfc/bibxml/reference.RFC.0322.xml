@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0322'>
+
+<front>
+<title>Well known socket numbers</title>
+<author initials='V.' surname='Cerf' fullname='V. Cerf'>
+<organization>University California Los Angeles (UCLA), NMC</organization>
+<address>
+<postal>
+<street>3804 Boelter Hall</street>
+<city>Los Angeles</city>
+<region>CA</region>
+<code>90024</code>
+<country>US</country></postal>
+<phone>+1 213 825 4864</phone></address></author>
+<author initials='J.' surname='Postel' fullname='J. Postel'>
+<organization>University California Los Angeles (UCLA), NMC</organization>
+<address>
+<postal>
+<street>3804 Boelter Hall</street>
+<city>Los Angeles</city>
+<region>CA</region>
+<code>90024</code>
+<country>US</country></postal>
+<phone>+1 213 825 4733</phone></address></author>
+<date year='1972' day='26' month='March' />
+<abstract>
+<t>The Network Measurement Group would like to establish a network standard socket number for a Process Discard service (not all HOSTs need cooperate.) To do this, it is necessary to know which sockets at each HOST have already been allocated to standard network functions.</t></abstract></front>
+
+<seriesInfo name='RFC' value='322' />
+<format type='TXT' octets='1735' target='http://www.rfc-editor.org/rfc/rfc322.txt' />
+</reference>

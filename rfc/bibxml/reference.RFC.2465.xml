@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2465'>
+
+<front>
+<title abbrev='IPv6 MIB'>Management Information Base for IP Version 6: Textual Conventions and General Group</title>
+<author initials='D.' surname='Haskin' fullname='Dimitry Haskin'>
+<organization>Bay Networks, Inc.</organization>
+<address>
+<postal>
+<street>600 Technology Park Drive</street>
+<street>Billerica</street>
+<street>MA 01821</street></postal>
+<email>dhaskin@baynetworks.com</email></address></author>
+<author initials='S.' surname='Onishi' fullname='Steve Onishi'>
+<organization>Bay Networks, Inc.</organization>
+<address>
+<postal>
+<street>3 Federal Street</street>
+<street>Billerica</street>
+<street>MA 01821</street></postal>
+<email>sonishi@baynetworks.com</email></address></author>
+<date year='1998' month='December' />
+<area>Internet</area>
+<area>Management</area>
+<keyword>Management Information Base</keyword>
+<keyword>internet protocol version 6</keyword>
+<abstract>
+<t>
+   This document is one in the series of documents that provide MIB
+   definitions for for IP Version 6.  Specifically, the IPv6 MIB textual
+   conventions as well as the IPv6 MIB General group is defined in this
+   document.
+</t>
+<t>
+   This memo defines a portion of the Management Information Base (MIB)
+   for use with network management protocols in the IPv6-based
+   internets.
+</t>
+<t>
+   This document specifies a MIB module in a manner that is both
+   compliant to the SNMPv2 SMI, and semantically identical to the peer
+   SNMPv1 definitions.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2465' />
+<format type='TXT' octets='77339' target='http://www.rfc-editor.org/rfc/rfc2465.txt' />
+<format type='HTML' octets='90821' target='http://xml.resource.org/public/rfc/html/rfc2465.html' />
+<format type='XML' octets='86833' target='http://xml.resource.org/public/rfc/xml/rfc2465.xml' />
+</reference>

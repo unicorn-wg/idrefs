@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0219'>
+
+<front>
+<title>User's View of the Datacomputer</title>
+<author initials='R.' surname='Winter' fullname='R. Winter'>
+<organization /></author>
+<date year='1971' month='September' /></front>
+
+<seriesInfo name='RFC' value='219' />
+<format type='TXT' octets='16631' target='http://www.rfc-editor.org/rfc/rfc219.txt' />
+</reference>

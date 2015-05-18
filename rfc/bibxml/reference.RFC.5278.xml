@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5278'>
+
+<front>
+<title>IANA Registration of Enumservices for Voice and Video Messaging</title>
+<author initials='J.' surname='Livingood' fullname='J. Livingood'>
+<organization /></author>
+<author initials='D.' surname='Troshynski' fullname='D. Troshynski'>
+<organization /></author>
+<date year='2008' month='July' />
+<abstract>
+<t>This document registers the Enumservice named "vmsg", which is used to facilitate the real-time routing of voice, video, and unified communications to a messaging system.  This vmsg Enumservice registers three Enumservice types: "voicemsg", "videomsg", and "unifmsg".  Each type also registers the subtypes "sip", "sips", "http", and "https", as well as the subtype "tel" for the "voicemsg" type. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='5278' />
+<format type='TXT' octets='39745' target='http://www.rfc-editor.org/rfc/rfc5278.txt' />
+</reference>

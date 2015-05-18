@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1267'>
+
+<front>
+<title abbrev='BGP-3'>Border Gateway Protocol 3 (BGP-3)</title>
+<author initials='K.' surname='Lougheed' fullname='Kirk Lougheed'>
+<organization>cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>1525 O'Brien Drive</street>
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<phone>+1 415 326 1941</phone>
+<email>LOUGHEED@CISCO.COM</email></address></author>
+<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
+<organization>IBM Corporation, T.J. Watson Research Center</organization>
+<address>
+<postal>
+<street>P.O. Box 218</street>
+<city>Yorktown Heights</city>
+<region>NY</region>
+<code>10598</code>
+<country>US</country></postal>
+<phone>+1 914 945 3896</phone>
+<email>YAKOV@WATSON.IBM.COM</email></address></author>
+<date year='1991' day='1' month='October' /></front>
+
+<seriesInfo name='RFC' value='1267' />
+<format type='TXT' octets='80724' target='http://www.rfc-editor.org/rfc/rfc1267.txt' />
+</reference>

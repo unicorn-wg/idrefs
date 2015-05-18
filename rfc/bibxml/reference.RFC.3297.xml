@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3297'>
+
+<front>
+<title>Content Negotiation for Messaging Services based on Email</title>
+<author initials='G.' surname='Klyne' fullname='G. Klyne'>
+<organization /></author>
+<author initials='R.' surname='Iwazaki' fullname='R. Iwazaki'>
+<organization /></author>
+<author initials='D.' surname='Crocker' fullname='D. Crocker'>
+<organization /></author>
+<date year='2002' month='July' />
+<abstract>
+<t>This memo describes a content negotiation mechanism for facsimile, voice and other messaging services that use Internet email. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='3297' />
+<format type='TXT' octets='97094' target='http://www.rfc-editor.org/rfc/rfc3297.txt' />
+</reference>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0610'>
+
+<front>
+<title>Further datalanguage design concepts</title>
+<author initials='R.' surname='Winter' fullname='Richard Winter'>
+<organization>Computer Corporation of America (CCA)</organization></author>
+<author initials='J.' surname='Hill' fullname='Jeffrey Hill'>
+<organization>Computer Corporation of America (CCA)</organization></author>
+<author initials='W.' surname='Greiff' fullname='Warren Greiff'>
+<organization>Computer Corporation of America (CCA)</organization></author>
+<date year='1973' day='15' month='December' /></front>
+
+<seriesInfo name='RFC' value='610' />
+<format type='TXT' octets='198692' target='http://www.rfc-editor.org/rfc/rfc610.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4416'>
+
+<front>
+<title>Goals for Internet Messaging to Support Diverse Service Environments</title>
+<author initials='J.' surname='Wong' fullname='J. Wong'>
+<organization /></author>
+<date year='2006' month='February' />
+<abstract>
+<t>This document is a history capturing the background, motivation and thinking during the LEMONADE definition and design process.&lt;/t>&lt;t> The LEMONADE Working Group -- Internet email to support diverse service environments -- is chartered to provide enhancements to Internet mail to facilitate its use by more diverse clients. In particular, by clients on hosts not only operating in environments with high latency/bandwidth-limited unreliable links but also constrained to limited resources. The enhanced mail must be backwards compatible with existing Internet mail.&lt;/t>&lt;t> The primary motivation for this effort is -- by making Internet mail protocols richer and more adaptable to varied media and environments -- to allow mobile handheld devices tetherless access to Internet mail using only IETF mail protocols.&lt;/t>&lt;t> The requirements for these devices drive a discussion of the possible protocol enhancements needed to support multimedia messaging on limited-capability hosts in diverse service environments. A list of general principles to guide the design of the enhanced messaging protocols is documented. Finally, additional issues of providing seamless service between enhanced Internet mail and the existing separate mobile messaging infrastructure are briefly listed. This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='4416' />
+<format type='TXT' octets='93676' target='http://www.rfc-editor.org/rfc/rfc4416.txt' />
+</reference>

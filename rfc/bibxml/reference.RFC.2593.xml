@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2593'>
+
+<front>
+<title abbrev='SMX Protocol 1.0'>Script MIB Extensibility Protocol Version 1.0</title>
+<author initials='J.' surname='Schoenwaelder' fullname='Juergen Schoenwaelder'>
+<organization>TU Braunschweig</organization>
+<address>
+<postal>
+<street>Bueltenweg 74/75</street>
+<city>Braunschweig</city>
+<code>38106</code>
+<country>DE</country></postal>
+<phone>+49 531 3913283</phone>
+<email>schoenw@ibr.cs.tu-bs.de</email></address></author>
+<author initials='J.' surname='Quittek' fullname='Juergen Quittek'>
+<organization>NEC Europe Ltd.</organization>
+<address>
+<postal>
+<street>C&amp;C Research Laboratories</street>
+<street>Hardenbergplatz 2</street>
+<city>Berlin</city>
+<code>10623</code>
+<country>DE</country></postal>
+<phone>+49 30 25423019</phone>
+<email>quittek@ccrle.nec.de</email></address></author>
+<date year='1999' month='May' />
+<abstract>
+<t>The IETF Script MIB defines an interface for the delegation of management functions based on the Internet management framework. A management script is a set of instructions that are executed by a language specific runtime system. The Script MIB extensibility protocol (SMX) defined in this memo separates  language specific runtime systems from language independent Script MIB implementations.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2593' />
+<format type='TXT' octets='49663' target='http://www.rfc-editor.org/rfc/rfc2593.txt' />
+</reference>

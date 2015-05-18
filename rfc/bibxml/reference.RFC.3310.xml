@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3310'>
+
+<front>
+<title>Hypertext Transfer Protocol (HTTP) Digest Authentication Using Authentication and Key Agreement (AKA)</title>
+<author initials='A.' surname='Niemi' fullname='A. Niemi'>
+<organization /></author>
+<author initials='J.' surname='Arkko' fullname='J. Arkko'>
+<organization /></author>
+<author initials='V.' surname='Torvinen' fullname='V. Torvinen'>
+<organization /></author>
+<date year='2002' month='September' /></front>
+
+<seriesInfo name='RFC' value='3310' />
+<format type='TXT' octets='36985' target='http://www.rfc-editor.org/rfc/rfc3310.txt' />
+</reference>

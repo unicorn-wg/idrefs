@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0406'>
+
+<front>
+<title>Scheduled IMP Software Releases</title>
+<author initials='J.' surname='McQuillan' fullname='John M. McQuillan'>
+<organization>Bolt Beranek and Newman (BBN)</organization></author>
+<date year='1972' day='10' month='October' />
+<abstract>
+<t>This note is a reminder that the procedures suggested in RFC # 381 for scheduling IMP software maintenance have now been in effect for a period of about two months.</t></abstract></front>
+
+<seriesInfo name='RFC' value='406' />
+<format type='TXT' octets='2468' target='http://www.rfc-editor.org/rfc/rfc406.txt' />
+</reference>

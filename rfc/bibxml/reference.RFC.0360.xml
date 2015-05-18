@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0360'>
+
+<front>
+<title>Proposed Remote Job Entry Protocol</title>
+<author initials='C.' surname='Holland' fullname='C. Holland'>
+<organization /></author>
+<date year='1972' month='June' /></front>
+
+<seriesInfo name='RFC' value='360' />
+<format type='TXT' octets='39473' target='http://www.rfc-editor.org/rfc/rfc360.txt' />
+<format type='PDF' octets='1187574' target='http://www.rfc-editor.org/rfc/rfc360.pdf' />
+</reference>

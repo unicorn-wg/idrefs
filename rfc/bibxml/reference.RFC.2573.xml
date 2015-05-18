@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2573'>
+
+<front>
+<title>SNMP Applications</title>
+<author initials='D.B.' surname='Levi' fullname='David B. Levi'>
+<organization>SNMP Research, Inc.</organization>
+<address>
+<postal>
+<street>3001 Kimberlin Heights Road</street>
+<city>Knoxville</city>
+<region>TN</region>
+<code>37920-9716</code>
+<country>US</country></postal>
+<phone>+1 423 573 1434</phone>
+<email>levi@snmp.com</email></address></author>
+<author initials='P.' surname='Meyer' fullname='Paul Meyer'>
+<organization>Secure Computing Corporation</organization>
+<address>
+<postal>
+<street>2675 Long Lake Road</street>
+<city>Roseville</city>
+<region>MN</region>
+<code>55113</code>
+<country>US</country></postal>
+<phone>+1 651 628 1592</phone>
+<email>paul_meyer@securecomputing.com</email></address></author>
+<author initials='B.' surname='Stewart' fullname='Bob Stewart'>
+<organization>Cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134-1706</code>
+<country>US</country></postal>
+<phone>+1 603 654 2686</phone>
+<email>bstewart@cisco.com</email></address></author>
+<date year='1999' month='April' />
+<abstract>
+<t>This memo describes five types of SNMP applications which make use of
+   an SNMP engine as described in.  The types of application
+   described are Command Generators, Command Responders, Notification
+   Originators, Notification Receivers, and Proxy Forwarders.</t>
+<t>This memo also defines MIB modules for specifying targets of
+   management operations, for notification filtering, and for proxy
+   forwarding.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2573' />
+<format type='TXT' octets='150427' target='http://www.rfc-editor.org/rfc/rfc2573.txt' />
+</reference>

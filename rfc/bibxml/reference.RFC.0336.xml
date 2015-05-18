@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0336'>
+
+<front>
+<title>Level 0 Graphic Input Protocol</title>
+<author initials='I.' surname='Cotton' fullname='Ira Cotton'>
+<organization>The MITRE Corporation</organization></author>
+<date year='1972' day='5' month='May' />
+<abstract>
+<t>At its meeting on April 16-18 the network Graphics working group began to consider the definition of levels of protocol for graphic Input Protocol.</t></abstract></front>
+
+<seriesInfo name='RFC' value='336' />
+<format type='TXT' octets='3787' target='http://www.rfc-editor.org/rfc/rfc336.txt' />
+</reference>

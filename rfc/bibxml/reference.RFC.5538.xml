@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5538'>
+
+<front>
+<title>The 'news' and 'nntp' URI Schemes</title>
+<author initials='F.' surname='Ellermann' fullname='F. Ellermann'>
+<organization /></author>
+<date year='2010' month='April' />
+<abstract>
+<t>This memo specifies the 'news' and 'nntp' Uniform Resource Identifier (URI) schemes that were originally defined in RFC 1738.  The purpose of this document is to allow RFC 1738 to be made obsolete while keeping the information about these schemes on the Standards Track. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='5538' />
+<format type='TXT' octets='29470' target='http://www.rfc-editor.org/rfc/rfc5538.txt' />
+</reference>

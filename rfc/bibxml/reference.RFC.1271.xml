@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1271'>
+
+<front>
+<title abbrev='Remote Network Monitoring MIB'>Remote Network Monitoring Management Information Base</title>
+<author initials='S.' surname='Waldbusser' fullname='Steven Waldbusser'>
+<organization>Carnegie Mellon University</organization>
+<address>
+<postal>
+<street>4910 Forbes Ave.</street>
+<city>Pittsburgh</city>
+<region>PA</region>
+<code>15213</code>
+<country>US</country></postal>
+<phone>+1 412 268 6628</phone>
+<email>waldbusser@andrew.cmu.edu</email></address></author>
+<date year='1991' day='1' month='November' />
+<abstract>
+<t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets. In particular, it defines objects for managing remote network monitoring devices.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1271' />
+<format type='TXT' octets='184111' target='http://www.rfc-editor.org/rfc/rfc1271.txt' />
+</reference>

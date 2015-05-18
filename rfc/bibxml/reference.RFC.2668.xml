@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2668'>
+
+<front>
+<title abbrev='802.3 MAU MIB'>Definitions of Managed Objects for IEEE 802.3 Medium Attachment Units (MAUs)</title>
+<author initials='A.' surname='Smith' fullname='Andrew Smith'>
+<organization>Extreme Networks, Inc.</organization>
+<address>
+<postal>
+<street>3585 Monroe Street</street>
+<city>Santa Clara</city>
+<region>CA</region>
+<code>95051</code>
+<country>US</country></postal>
+<phone>+1 408 579 2821</phone>
+<email>andrew@extremenetworks.com</email></address></author>
+<author initials='J.' surname='Flick' fullname='John Flick'>
+<organization>Hewlett-Packard Company</organization>
+<address>
+<postal>
+<street>8000 Foothills Blvd. M/S 5557</street>
+<city>Roseville</city>
+<region>CA</region>
+<code>95747-5557</code>
+<country>US</country></postal>
+<phone>+1 916 785 4018</phone>
+<email>johnf@rose.hp.com</email></address></author>
+<author initials='K.' surname='de Graaf' fullname='Kathryn de Graaf'>
+<organization>Argon Networks</organization>
+<address>
+<postal>
+<street>25 Porter Road</street>
+<city>Littleton</city>
+<region>MA</region>
+<code>01460</code>
+<country>US</country></postal>
+<phone>+1 978 486 0665 x163</phone>
+<email>kdegraaf@argon.com</email></address></author>
+<author initials='D.' surname='Romascanu' fullname='Dan Romascanu'>
+<organization>Lucent Technologies</organization>
+<address>
+<postal>
+<street>Atidim Technology Park</street>
+<street>Building 3</street>
+<city>Tel Aviv</city>
+<region />
+<code>61131</code>
+<country>IL</country></postal>
+<phone>+972 3 6458414</phone>
+<email>dromasca@lucent.com</email></address></author>
+<author initials='D.' surname='McMaster' fullname='Donna McMaster'>
+<organization>Cisco Systems Inc.</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134</code>
+<country>US</country></postal>
+<phone>+1 408 526 5260</phone>
+<email>mcmaster@cisco.com</email></address></author>
+<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
+<organization />
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134</code>
+<country>US</country></postal>
+<phone>+1 408 526 5260</phone>
+<email>kzm@cisco.com</email></address></author>
+<author initials='S.' surname='Roberts' fullname='Sam Roberts'>
+<organization>Farallon Computing, Inc.</organization>
+<address>
+<postal>
+<street>2470 Mariner Square Loop</street>
+<city>Alameda</city>
+<region>CA</region>
+<code>94501-1010</code>
+<country>US</country></postal>
+<phone>+1 510 814 5215</phone>
+<email>sroberts@farallon.com</email></address></author>
+<date year='1999' month='August' />
+<abstract>
+<t>This memo defines a portion of the Management Information Base (MIB)for use with network management protocols in the Internet community. This memo obsoletes RFC 2239, "Definitions of Managed Objects for IEEE 802.3 Medium Attachment Units (MAUs) using SMIv2". This memo extends that specification by including management information useful for the management of 1000 Mb/s MAUs.</t>
+<t>Ethernet technology, as defined by the 802.3 Working Group of the IEEE, continues to evolve, with scalable increases in speed, new types of cabling and interfaces, and new features. This evolution may require changes in the managed objects in order to reflect this new functionality. This document, as with other documents issued by this working group, reflects a certain stage in the evolution of Ethernet technology. In the future, this document might be revised, or new documents might be issued by the Ethernet Interfaces and Hub MIB Working Group, in order to reflect the evolution of Ethernet
+technology.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2668' />
+<format type='TXT' octets='121843' target='http://www.rfc-editor.org/rfc/rfc2668.txt' />
+</reference>

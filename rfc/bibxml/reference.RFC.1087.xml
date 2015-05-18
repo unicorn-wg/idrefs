@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1087'>
+
+<front>
+<title>Ethics and the Internet</title>
+<author>
+<organization>Internet Activities Board (IAB)</organization></author>
+<date year='1989' day='1' month='January' /></front>
+
+<seriesInfo name='RFC' value='1087' />
+<format type='TXT' octets='4582' target='http://www.rfc-editor.org/rfc/rfc1087.txt' />
+</reference>

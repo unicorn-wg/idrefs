@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1109'>
+
+<front>
+<title abbrev='Internet Management'>Report of the second Ad Hoc Network Management Review Group</title>
+<author initials='V.' surname='Cerf' fullname='Vinton G. Cerf'>
+<organization>Corporation for National Research Initiatives</organization>
+<address>
+<postal>
+<street>1895 Preston White Drive</street>
+<street>Suite 100</street>
+<city>Reston</city>
+<region>VA</region>
+<code>22091</code>
+<country>US</country></postal>
+<phone>+1 703 620 8990</phone>
+<email>CERF@A.ISI.EDU</email></address></author>
+<date year='1989' day='1' month='August' /></front>
+
+<seriesInfo name='RFC' value='1109' />
+<format type='TXT' octets='20642' target='http://www.rfc-editor.org/rfc/rfc1109.txt' />
+</reference>

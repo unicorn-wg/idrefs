@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1281'>
+
+<front>
+<title abbrev='Guidelines for the Secure Operation'>Guidelines for the Secure Operation of the Internet</title>
+<author initials='R.' surname='Pethia' fullname='Richard D. Pethia'>
+<organization>Carnegie Mellon University, Software Engineering Institute</organization>
+<address>
+<postal>
+<street />
+<city>Pittsburgh</city>
+<region>PA</region>
+<code>15213-3890</code>
+<country>US</country></postal>
+<phone>+1 412 268 7739</phone>
+<facsimile>+1 412 268 6989</facsimile>
+<email>rdp@cert.sei.cmu.edu</email></address></author>
+<author initials='S.' surname='Crocker' fullname='Stephen D. Crocker'>
+<organization>Trusted Information Systems, Inc.</organization>
+<address>
+<postal>
+<street>3060 Washington Road</street>
+<city>Glenwood</city>
+<region>MD</region>
+<code>21738</code>
+<country>US</country></postal>
+<phone>+1 301 854 6889</phone>
+<facsimile>+1 301 854 5363</facsimile>
+<email>crocker@tis.com</email></address></author>
+<author initials='B.' surname='Fraser' fullname='Barbara Y. Fraser'>
+<organization>Carnegie Mellon University, Software Engineering Institute</organization>
+<address>
+<postal>
+<street />
+<city>Pittsburgh</city>
+<region>PA</region>
+<code>15213-3890</code>
+<country>US</country></postal>
+<phone>+1 412 268 5010</phone>
+<facsimile>+1 412 268 6989</facsimile>
+<email>byf@cert.sei.cmu.edu</email></address></author>
+<date year='1991' month='November' /></front>
+
+<seriesInfo name='RFC' value='1281' />
+<format type='TXT' octets='22618' target='http://www.rfc-editor.org/rfc/rfc1281.txt' />
+</reference>

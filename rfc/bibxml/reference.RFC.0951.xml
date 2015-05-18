@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0951'>
+
+<front>
+<title abbrev='Bootstrap Protocol'>Bootstrap Protocol</title>
+<author initials='B.' surname='Croft' fullname='Bill Croft'>
+<organization>Stanford University</organization></author>
+<author initials='J.' surname='Gilmore' fullname='John Gilmore'>
+<organization>Sun Microsystems</organization></author>
+<date year='1985' day='1' month='September' /></front>
+
+<seriesInfo name='RFC' value='951' />
+<format type='TXT' octets='28354' target='http://www.rfc-editor.org/rfc/rfc951.txt' />
+</reference>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0024'>
+
+<front>
+<title>Documentation Conventions</title>
+<author initials='S.' surname='Crocker' fullname='S. Crocker'>
+<organization>University of California, Los Angeles (UCLA)</organization></author>
+<date year='1969' day='21' month='November' />
+<abstract>
+<t>This note is a revision of NWG/RFC 10 and 16,.</t>
+<t>The Network Working Group consists of interested people from existing or potential ARPA network sites.  Membership is not closed.</t>
+<t>The Network Working Group (NWG) is concerned with the HOST software, the strategies for using the network, and initial experience with the network.</t>
+<t>Documentation of the NWG's effort is through notes such as this.  Notes may be produced at any site by and included in this series.</t></abstract></front>
+
+<seriesInfo name='RFC' value='24' />
+<format type='TXT' octets='3460' target='http://www.rfc-editor.org/rfc/rfc24.txt' />
+</reference>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2258'>
+
+<front>
+<title>Internet Nomenclator Project</title>
+<author initials='J.J.' surname='Ordille' fullname='Joann J. Ordille'>
+<organization>Bell Labs, Lucent Technologies</organization>
+<address>
+<postal>
+<street>Computing Sciences Research Center</street>
+<street>700 Mountain Avenue</street>
+<street>Rm 2C-301</street>
+<street>Murray Hill</street>
+<street>NJ 07974</street>
+<country>USA</country></postal>
+<email>joann@bell-labs.com</email></address></author>
+<date year='1998' month='January' />
+<area>Applications</area>
+<keyword>CCSO</keyword>
+<abstract>
+<t>
+   The goal of the Internet Nomenclator Project is to integrate the
+   hundreds of publicly available CCSO servers from around the world.
+   Each CCSO server has a database schema that is tailored to the needs
+   of the organization that owns it.  The project is integrating the
+   different database schema into one query service.  The Internet
+   Nomenclator Project will provide fast cross-server searches for
+   locating people on the Internet.  It augments existing CCSO services
+   by supplying schema integration, more extensive indexing, and two
+   kinds of caching -- all this in a system that scales as the number of
+   CCSO servers grows.  One of the best things about the system is that
+   administrators can incorporate their CCSO servers into Nomenclator
+   without changing the servers. All Nomenclator needs is basic
+   information about the server.
+</t>
+<t>
+   This document provides an overview of the Nomenclator system,
+   describes how to register a CCSO server in the Internet Nomenclator
+   Project, and how to use the Nomenclator search engine to find people
+   on the Internet.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2258' />
+<format type='TXT' octets='34871' target='http://www.rfc-editor.org/rfc/rfc2258.txt' />
+<format type='XML' octets='35949' target='http://xml.resource.org/public/rfc/xml/rfc2258.xml' />
+</reference>

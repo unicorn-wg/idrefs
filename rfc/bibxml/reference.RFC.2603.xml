@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2603'>
+
+<front>
+<title>ILMI-Based Server Discovery for NHRP</title>
+<author initials='M.' surname='Davison' fullname='Mike Davison'>
+<organization>Cisco Systems</organization>
+<address>
+<postal>
+<street>170 West Tasman Drive</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95134</code>
+<country>US</country></postal>
+<phone>+1 408 526 4000</phone>
+<email>mike.davison@cisco.com</email></address></author>
+<date year='1999' month='June' />
+<abstract>
+<t>This memo defines how ILMI-based Server Discovery, which provides a method for ATM-attached hosts and routers to dynamically determine the ATM addresses of servers, shall be used to locate NHRP servers.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2603' />
+<format type='TXT' octets='11865' target='http://www.rfc-editor.org/rfc/rfc2603.txt' />
+</reference>

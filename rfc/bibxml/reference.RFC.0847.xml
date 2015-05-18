@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0847'>
+
+<front>
+<title>Summary of Smallberg surveys</title>
+<author initials='A.' surname='Westine' fullname='A. Westine'>
+<organization /></author>
+<author initials='D.' surname='Smallberg' fullname='D. Smallberg'>
+<organization /></author>
+<author initials='J.' surname='Postel' fullname='J. Postel'>
+<organization>University of Southern California (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<date year='1983' day='1' month='February' />
+<abstract>
+<t>This is a summary of the surveys of Telnet, FTP and Mail (SMTP) servers conducted by David Smallberg in December 1982 and January and February 1983 as reported in RFC 832-843, 845-846.  This memo extracts the number of hosts that accepted the connection to their server for each of Telnet, FTP, and SMTP, and compares it to the total host in the Internet (not counting TACs or ECHOS).</t></abstract></front>
+
+<seriesInfo name='RFC' value='847' />
+<format type='TXT' octets='3789' target='http://www.rfc-editor.org/rfc/rfc847.txt' />
+</reference>

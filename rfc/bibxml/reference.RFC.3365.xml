@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3365'>
+
+<front>
+<title>Strong Security Requirements for Internet Engineering Task Force Standard Protocols</title>
+<author initials='J.' surname='Schiller' fullname='J. Schiller'>
+<organization /></author>
+<date year='2002' month='August' /></front>
+
+<seriesInfo name='BCP' value='61' />
+<seriesInfo name='RFC' value='3365' />
+<format type='TXT' octets='16411' target='http://www.rfc-editor.org/rfc/rfc3365.txt' />
+</reference>

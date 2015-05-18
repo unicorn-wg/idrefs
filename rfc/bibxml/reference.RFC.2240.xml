@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2240'>
+
+<front>
+<title abbrev='Legal DNS'>A Legal Basis for Domain Name Allocation</title>
+<author initials='O.' surname='Vaughan' fullname='Owain Vaughan'>
+<organization>Vaughan Enterprises</organization>
+<address>
+<postal>
+<street>PO Box 155</street>
+<street>Newport NP9 6YX</street>
+<country>UK</country></postal>
+<phone>+44 1633 677849/822164</phone>
+<facsimile>+44 1633 663706</facsimile>
+<email>owain@vaughan.com</email></address></author>
+<date year='1997' month='November' />
+<area>Applications</area>
+<keyword>domain name</keyword></front>
+
+<seriesInfo name='RFC' value='2240' />
+<format type='TXT' octets='13602' target='http://www.rfc-editor.org/rfc/rfc2240.txt' />
+<format type='XML' octets='12824' target='http://xml.resource.org/public/rfc/xml/rfc2240.xml' />
+</reference>

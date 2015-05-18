@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1324'>
+
+<front>
+<title abbrev='Computer Network Conferencing'>A Discussion on Computer Network Conferencing</title>
+<author initials='D.' surname='Reed' fullname='Darren Reed'>
+<organization />
+<address>
+<postal>
+<street>4 Pateman Street</street>
+<city>Watsonia</city>
+<region>Victoria</region>
+<code>3087</code>
+<country>AU</country></postal>
+<email>avalon@coombs.anu.edu.au</email></address></author>
+<date year='1992' month='May' />
+<abstract>
+<t>This memo is intended to make more people aware of the present developments in the Computer Conferencing field as well as put forward ideas on what should be done to formalize this work so that    there is a common standard for programmers and others who are involved in this field to work with.  It is also the intention of this memo to stimulate the computer community and generate some useful discussion about the merits of this field.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1324' />
+<format type='TXT' octets='24988' target='http://www.rfc-editor.org/rfc/rfc1324.txt' />
+</reference>

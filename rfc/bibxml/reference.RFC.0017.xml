@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0017'>
+
+<front>
+<title abbrev='Re: HOST-IMP Protocol &amp; Response'>Some questions re: Host-IMP Protocol</title>
+<author initials='J.' surname='Kreznar' fullname='J. Kreznar'>
+<organization>System Development Corporation (SDC)</organization></author>
+<date year='1969' day='27' month='August' /></front>
+
+<seriesInfo name='RFC' value='17' />
+<format type='TXT' octets='6065' target='http://www.rfc-editor.org/rfc/rfc17.txt' />
+</reference>

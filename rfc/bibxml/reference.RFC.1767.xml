@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1767'>
+
+<front>
+<title abbrev='EDI in MIME'>MIME Encapsulation of EDI Objects</title>
+<author initials='D.' surname='Crocker' fullname='David H. Crocker'>
+<organization>Brandenburg Consulting</organization>
+<address>
+<postal>
+<street>675 Spruce Dr.</street>
+<city>Sunnyvale</city>
+<region>CA</region>
+<code>94086</code>
+<country>US</country></postal>
+<phone>+1 408 246 8253</phone>
+<facsimile>+1 408 249 6205</facsimile>
+<email>dcrocker@mordor.stanford.edu</email></address></author>
+<date year='1995' month='March' /></front>
+
+<seriesInfo name='RFC' value='1767' />
+<format type='TXT' octets='15293' target='http://www.rfc-editor.org/rfc/rfc1767.txt' />
+</reference>

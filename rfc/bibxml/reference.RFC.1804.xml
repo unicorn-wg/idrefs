@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1804'>
+
+<front>
+<title>Schema Publishing in X.500 Directory</title>
+<author initials='G.' surname='Mansfield' fullname='Glenn Mansfield'>
+<organization>AIC Systems Laboratories</organization>
+<address>
+<postal>
+<street>6-6-3 Minami Yoshinari</street>
+<city>Aoba-ku</city>
+<region>Sendai</region>
+<code>989-3204</code>
+<country>JP</country></postal>
+<phone>+81 22 2793310</phone>
+<facsimile>+81 22 2793640</facsimile>
+<email>glenn@aic.co.jp</email></address></author>
+<author initials='P.' surname='Rajeev' fullname='P. V. Rajeev'>
+<organization>Hughes Software Systems</organization>
+<address>
+<postal>
+<street>International Trade Tower, Nehru Place</street>
+<street>2nd Floor</street>
+<city>New Delhi</city>
+<region />
+<code />
+<country>IN</country></postal>
+<email>rajeev%hss@lando.hns.com</email></address></author>
+<author initials='S.' surname='Raghavan' fullname='S. V. Raghavan'>
+<organization>Indian Institute of Technology, Madras, Department of Computer Science and Engineering</organization>
+<address>
+<postal>
+<street />
+<city>Madras</city>
+<region />
+<code>600 036</code>
+<country>IN</country></postal>
+<email>svr@iitm.ernet.in</email></address></author>
+<author initials='T.' surname='Howes' fullname='Tim Howes'>
+<organization>University of Michigan, ITD Research Systems</organization>
+<address>
+<postal>
+<street>535 W William St.</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48103-4943</code>
+<country>US</country></postal>
+<phone>+1 313 747 4454</phone>
+<email>tim@umich.edu</email></address></author>
+<date year='1995' month='June' />
+<abstract>
+<t>The X.500 directory provides a powerful mechanism for storing and retrieving information about objects of interest.  To interpret the information stored in the directory, the schema must be known to all the components of the directory. Presently, there are no means other than ftp to distribute schema information across the Internet.  This is proving to be a severe constraint as the Directory is growing. This document presents a solution to the schema distribution problem using the existing mechanisms of the directory. A naming scheme for naming schema objects and a meta-schema for storing schema objects is presented. The procedures for fetching unknown schema from the directory at runtime are described.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1804' />
+<format type='TXT' octets='18268' target='http://www.rfc-editor.org/rfc/rfc1804.txt' />
+</reference>

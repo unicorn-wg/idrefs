@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2492'>
+
+<front>
+<title>IPv6 over ATM Networks</title>
+<author initials='G.' surname='Armitage' fullname='Grenville Armitage'>
+<organization>Bell Laboratories, Lucent Technologies</organization>
+<address>
+<postal>
+<street>101 Crawfords Corner Road</street>
+<street>Holmdel</street>
+<street>NJ 07733</street>
+<country>USA</country></postal>
+<email>gja@lucent.com</email></address></author>
+<author initials='P.' surname='Schulter' fullname='Peter Schulter'>
+<organization>BrightTiger Technologies</organization>
+<address>
+<postal>
+<street>125 Nagog Park</street>
+<street>Acton</street>
+<street>MA 01720</street></postal>
+<email>paschulter@acm.org</email></address></author>
+<author initials='M.' surname='Jork' fullname='Markus Jork'>
+<organization>European Applied Research Center</organization>
+<address>
+<postal>
+<street>Digital Equipment GmbH</street>
+<street>CEC Karlsruhe</street>
+<street>Vincenz-Priessnitz-Str. 1</street>
+<street>D-76131 Karlsruhe</street>
+<country>Germany</country></postal>
+<email>jork@kar.dec.com</email></address></author>
+<date year='1999' month='January' />
+<area>Internet</area>
+<keyword>asynchronous transfer mode</keyword>
+<keyword>internet protocol version 6</keyword>
+<keyword>non-broadcast multiple access</keyword>
+<keyword>point-to-point protocol</keyword>
+<keyword>ATM</keyword>
+<abstract>
+<t>
+   This document is a companion to the ION working group&apos;s architecture
+   document, &quot;IPv6 over Non Broadcast Multiple Access (NBMA) networks&quot;.
+   It provides specific details on how to apply the IPv6 over NBMA
+   architecture to ATM networks. This architecture allows conventional
+   host-side operation of the IPv6 Neighbor Discovery protocol, while
+   also supporting the establishment of &apos;shortcut&apos; ATM forwarding paths
+   (when using SVCs).  Operation over administratively configured Point
+   to Point PVCs is also supported.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2492' />
+<format type='TXT' octets='21199' target='http://www.rfc-editor.org/rfc/rfc2492.txt' />
+<format type='XML' octets='25340' target='http://xml.resource.org/public/rfc/xml/rfc2492.xml' />
+</reference>

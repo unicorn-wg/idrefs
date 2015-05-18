@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1222'>
+
+<front>
+<title>Advancing the NSFNET routing architecture</title>
+<author initials='H.' surname='Braun' fullname='Hans-Werner Braun'>
+<organization>San Diego Supercomputer Center</organization>
+<address>
+<postal>
+<street>P.O. Box 85608</street>
+<city>La Jolla</city>
+<region>CA</region>
+<code>92186-9784</code>
+<country>US</country></postal>
+<phone>+1 619 534 5035</phone>
+<facsimile>+1 619 534 5113</facsimile>
+<email>HWB@SDSC.EDU</email></address></author>
+<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
+<organization>IBM Corporation, T.J. Watson Research Center</organization>
+<address>
+<postal>
+<street>P.O. Box 218</street>
+<city>Yorktown Heights</city>
+<region>NY</region>
+<code>10598</code>
+<country>US</country></postal>
+<phone>+1 914 945 3896</phone>
+<email>Yakov@Watson.IBM.COM</email></address></author>
+<date year='1991' day='1' month='May' /></front>
+
+<seriesInfo name='RFC' value='1222' />
+<format type='TXT' octets='15067' target='http://www.rfc-editor.org/rfc/rfc1222.txt' />
+</reference>

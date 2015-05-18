@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0531'>
+
+<front>
+<title abbrev='Feast or famine?'>Feast or famine? A response to two recent RFC's about network information</title>
+<author initials='M.' surname='Padlipsky' fullname='M. A. Padlipsky'>
+<organization>Massachusetts Institute of Technology (MIT), Multics</organization></author>
+<date year='1973' day='26' month='June' />
+<abstract>
+<t>In RFC 514, Will Kantrowitz returns to the theme of his superb RFC 459. There are too many people spending too much time asking for too much information about Network Hosts.  In RFC 519, John Pickens returns to the theme of his rather querulous RFC 369.  It's not easy to learn how to use network Hosts.  On the one hand, it would seem that there's a veritable feast of information going around; on the other hand it would seem that there's a terrible famine.  Can this apparent contradiction be resolved?</t></abstract></front>
+
+<seriesInfo name='RFC' value='531' />
+<format type='TXT' octets='5070' target='http://www.rfc-editor.org/rfc/rfc531.txt' />
+</reference>

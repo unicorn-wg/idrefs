@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5450'>
+
+<front>
+<title>Transmission Time Offsets in RTP Streams</title>
+<author initials='D.' surname='Singer' fullname='D. Singer'>
+<organization /></author>
+<author initials='H.' surname='Desineni' fullname='H. Desineni'>
+<organization /></author>
+<date year='2009' month='March' />
+<abstract>
+<t>This document describes a method to inform Real-time Transport Protocol (RTP) clients when RTP packets are transmitted at a time other than their 'nominal' transmission time.  It also provides a mechanism to provide improved inter-arrival jitter reports from the clients, that take into account the reported transmission times. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='5450' />
+<format type='TXT' octets='17073' target='http://www.rfc-editor.org/rfc/rfc5450.txt' />
+</reference>

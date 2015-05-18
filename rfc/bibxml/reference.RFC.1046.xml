@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1046'>
+
+<front>
+<title abbrev='Type-of-Service Queuing'>Queuing algorithm to provide type-of-service for IP links</title>
+<author initials='W.' surname='Prue' fullname='W. Prue'>
+<organization /></author>
+<author initials='J.' surname='Postel' fullname='J. Postel'>
+<organization>Information Sciences Institute (ISI)</organization></author>
+<date year='1988' day='1' month='February' /></front>
+
+<seriesInfo name='RFC' value='1046' />
+<format type='TXT' octets='30106' target='http://www.rfc-editor.org/rfc/rfc1046.txt' />
+</reference>

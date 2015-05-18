@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0364'>
+
+<front>
+<title>Serving remote users on the ARPANET</title>
+<author initials='M.' surname='Abrams' fullname='Marshall D. Abrams'>
+<organization>National Bureau of Standards</organization></author>
+<date year='1972' day='11' month='July' /></front>
+
+<seriesInfo name='RFC' value='364' />
+<format type='TXT' octets='11253' target='http://www.rfc-editor.org/rfc/rfc364.txt' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0505'>
+
+<front>
+<title>Two solutions to a file transfer access problem</title>
+<author initials='M.A.' surname='Padlipsky' fullname='M.A. Padlipsky'>
+<organization /></author>
+<date year='1973' month='June' /></front>
+
+<seriesInfo name='RFC' value='505' />
+<format type='TXT' octets='7476' target='http://www.rfc-editor.org/rfc/rfc505.txt' />
+</reference>

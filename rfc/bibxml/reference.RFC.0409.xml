@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0409'>
+
+<front>
+<title>Tenex interface to UCSB's Simple-Minded File System</title>
+<author initials='J.E.' surname='White' fullname='J.E. White'>
+<organization /></author>
+<date year='1972' month='December' /></front>
+
+<seriesInfo name='RFC' value='409' />
+<format type='TXT' octets='14231' target='http://www.rfc-editor.org/rfc/rfc409.txt' />
+</reference>

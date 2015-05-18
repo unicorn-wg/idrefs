@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1821'>
+
+<front>
+<title abbrev='Real-time Service in IP-ATM Networks'>Integration of Real-time Services in an IP-ATM Network Architecture</title>
+<author initials='M.' surname='Borden' fullname='Marty Borden'>
+<organization>Bay Networks</organization>
+<address>
+<postal>
+<street>3 Federal Street</street>
+<city>Billerica</city>
+<region>MA</region>
+<code>01821</code>
+<country>US</country></postal>
+<phone>+1 508 670 8888</phone>
+<email>mborden@baynetworks.com</email></address></author>
+<author initials='E.S.' surname='Crawley' fullname='Eric S. Crawley'>
+<organization>Bay Networks</organization>
+<address>
+<postal>
+<street>3 Federal Street</street>
+<city>Billerica</city>
+<region>MA</region>
+<code>01821</code>
+<country>US</country></postal>
+<phone>+1 508 670 8888</phone>
+<email>esc@baynetworks.com</email></address></author>
+<author initials='B.' surname='Davie' fullname='Bruce S. Davie'>
+<organization>Bellcore</organization>
+<address>
+<postal>
+<street>445 South Street</street>
+<city>Morristown</city>
+<region>NJ</region>
+<code>07960-6438</code>
+<country>US</country></postal>
+<phone>+1 201 829 4838</phone>
+<email>bsd@bellcore.com</email></address></author>
+<author initials='S.G.' surname='Batsell' fullname='Stephen G. Batsell'>
+<organization>Naval Research Laboratory</organization>
+<address>
+<postal>
+<street>Code 5521</street>
+<city>Washington</city>
+<region>DC</region>
+<code>20375-5337</code>
+<country>US</country></postal>
+<phone>+1 202 767 3834</phone>
+<email>sgb@saturn.nrl.navy.mil</email></address></author>
+<date year='1995' month='August' />
+<abstract>
+<t>The IETF is currently developing an integrated service model which is designed to support real-time services on the Internet. Concurrently, the ATM Forum is developing Asynchronous Transfer Mode networking which similarly provides real-time networking support. The use of ATM in the Internet as a link layer protocol is already occurring, and both the IETF and the ATM Forum are producing specifications for IP over ATM. The purpose of this paper is to provide a clear statement of what issues need to be addressed in interfacing the IP integrated services environment with an ATM service environment so as to create a seamless interface between the two in support of end users desiring real-time networking services.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1821' />
+<format type='TXT' octets='64466' target='http://www.rfc-editor.org/rfc/rfc1821.txt' />
+</reference>

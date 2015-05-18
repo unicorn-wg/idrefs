@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4287'>
+
+<front>
+<title abbrev='Atom Format'>The Atom Syndication Format</title>
+<author initials='M.' surname='Nottingham' fullname='Mark Nottingham' role='editor'>
+<organization />
+<address>
+<email>mnot@pobox.com</email>
+<uri>http://www.mnot.net/</uri></address></author>
+<author initials='R.' surname='Sayre' fullname='Robert Sayre' role='editor'>
+<organization />
+<address>
+<email>rfsayre@boswijck.com</email>
+<uri>http://boswijck.com</uri></address></author>
+<date year='2005' month='December' />
+<abstract>
+<t>This document specifies Atom, an XML-based Web content and metadata syndication format.</t></abstract></front>
+
+<seriesInfo name='RFC' value='4287' />
+<format type='TXT' octets='81922' target='http://www.rfc-editor.org/rfc/rfc4287.txt' />
+<format type='HTML' octets='164395' target='http://xml.resource.org/public/rfc/html/rfc4287.html' />
+<format type='XML' octets='108706' target='http://xml.resource.org/public/rfc/xml/rfc4287.xml' />
+</reference>

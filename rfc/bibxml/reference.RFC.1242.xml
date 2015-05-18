@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1242'>
+
+<front>
+<title abbrev='Benchmarking Terminology'>Benchmarking terminology for network interconnection devices</title>
+<author initials='S.' surname='Bradner' fullname='Scott Bradner'>
+<organization>Harvard University</organization>
+<address>
+<postal>
+<street>33 Kirkland Street</street>
+<street>William James Hall 1232</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal>
+<phone>+1 617 495 3864</phone>
+<email>SOB@HARVARD.HARVARD.EDU</email></address></author>
+<date year='1991' day='1' month='July' />
+<abstract>
+<t>This memo discusses and defines a number of terms that are used in describing performance benchmarking tests and the results of such tests.  The terms defined in this memo will be used in additional memos to define specific benchmarking tests and the suggested format to be used in reporting the results of each of the tests.  This memo is a product of the Benchmarking Methodology Working Group (BMWG) of the Internet Engineering Task Force (IETF).</t></abstract></front>
+
+<seriesInfo name='RFC' value='1242' />
+<format type='TXT' octets='22817' target='http://www.rfc-editor.org/rfc/rfc1242.txt' />
+</reference>

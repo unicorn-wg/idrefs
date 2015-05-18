@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0480'>
+
+<front>
+<title>Host-dependent FTP parameters</title>
+<author initials='J.' surname='White' fullname='James E. White'>
+<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
+<date year='1973' day='8' month='March' /></front>
+
+<seriesInfo name='RFC' value='480' />
+<format type='TXT' octets='2084' target='http://www.rfc-editor.org/rfc/rfc480.txt' />
+</reference>

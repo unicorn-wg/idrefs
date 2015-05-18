@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2325'>
+
+<front>
+<title abbrev='Coffee MIB'>
+Definitions of Managed Objects for Drip-Type Heated Beverage Hardware Devices 
+using SMIv2</title>
+<author initials='M.' surname='Slavitch' fullname='Michael Slavitch'>
+<organization>Loran Technologies</organization>
+<address>
+<postal>
+<street>955 Green Valley Crescent</street>
+<street>Ottawa, Ontario Canada K2C 3V4</street></postal>
+<phone>613 723 7505</phone>
+<email>slavitch@loran.com</email></address></author>
+<date year='1998' day='1' month='April' />
+<area>General</area>
+<area>Management</area>
+<keyword>coffee</keyword>
+<keyword>Management Information Base</keyword>
+<keyword>managed object</keyword>
+<keyword>structure of management information version 2</keyword></front>
+
+<seriesInfo name='RFC' value='2325' />
+<format type='TXT' octets='12726' target='http://www.rfc-editor.org/rfc/rfc2325.txt' />
+<format type='XML' octets='12481' target='http://xml.resource.org/public/rfc/xml/rfc2325.xml' />
+</reference>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1715'>
+
+<front>
+<title abbrev='H Ratio'>The H Ratio for Address Assignment Efficiency</title>
+<author initials='C.' surname='Huitema' fullname='Christian Huitema'>
+<organization>INRIA, Sophia-Antipolis</organization>
+<address>
+<postal>
+<street>2004 Route des Lucioles</street>
+<street>BP 109</street>
+<city>Valbonne Cedex</city>
+<region />
+<code>F-06561</code>
+<country>FR</country></postal>
+<phone>+33 93 657715</phone>
+<email>Christian.Huitema@MIRSA.INRIA.FR</email></address></author>
+<date year='1994' month='November' />
+<abstract>
+<t>This document was submitted to the IETF IPng area in response to RFC 1550.  Publication of this document does not imply acceptance by the IPng area of any ideas expressed within.  Comments should be submitted to the author and/or the sipp@sunroof.eng.sun.com mailing list.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1715' />
+<format type='TXT' octets='7392' target='http://www.rfc-editor.org/rfc/rfc1715.txt' />
+</reference>

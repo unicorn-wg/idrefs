@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0294'>
+
+<front>
+<title>The Use of "Set Data Type" Transaction in File Transfer Protocol</title>
+<author initials='A.' surname='Bhushan' fullname='Abhay Bhushan'>
+<organization>Massachusetts Institute of Technology (MIT)</organization></author>
+<date year='1972' day='25' month='January' />
+<abstract>
+<t>As mentioned in RFC 265, the opcode of '00' is set aside for the clarify the use of 'set data type' in file transfer operations.</t>
+<t>In many systems such as Multics at MIT, there is no provision to identify the type of data (i.e., ASCII or numeric) stored in files.</t></abstract></front>
+
+<seriesInfo name='RFC' value='294' />
+<format type='TXT' octets='3924' target='http://www.rfc-editor.org/rfc/rfc294.txt' />
+</reference>

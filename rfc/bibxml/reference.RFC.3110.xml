@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3110'>
+
+<front>
+<title>RSA/SHA-1 SIGs and RSA KEYs in the Domain Name System (DNS)</title>
+<author initials='D.' surname='Eastlake' fullname='D. Eastlake'>
+<organization /></author>
+<date year='2001' month='May' />
+<abstract>
+<t>This document describes how to produce RSA/SHA1 SIG resource records (RRs) in Section 3 and, so as to completely replace RFC 2537, describes how to produce RSA KEY RRs in Section 2. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='3110' />
+<format type='TXT' octets='14587' target='http://www.rfc-editor.org/rfc/rfc3110.txt' />
+</reference>

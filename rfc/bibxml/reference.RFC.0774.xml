@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0774'>
+
+<front>
+<title abbrev='Internet Protocol Handbook'>Internet Protocol Handbook: Table of contents</title>
+<author initials='J.' surname='Postel' fullname='J. Postel'>
+<organization>University of Southern California (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<date year='1980' day='1' month='October' />
+<abstract>
+<t>The internet family of protocols is replacing the old ARPANET protocols. To this end an Internet Protocol Handbook will be prepared by the Network Information Center.  This Handbook is tentatively planned to be available at the end of 1980.  This Internet Protocol Handbook will closely parallel the old ARPANET Protocol Handbook, and will primarily be a collection of existing RFCs and IENs.</t></abstract></front>
+
+<seriesInfo name='RFC' value='774' />
+<format type='TXT' octets='3452' target='http://www.rfc-editor.org/rfc/rfc774.txt' />
+</reference>

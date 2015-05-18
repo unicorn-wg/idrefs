@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1238'>
+
+<front>
+<title abbrev='CLNS MIB'>CLNS MIB for use with Connectionless Network Protocol (ISO 8473) and End System to Intermediate System (ISO 9542)</title>
+<author initials='G.' surname='Satz' fullname='Greg Satz'>
+<organization>cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>1350 Willow Road</street>
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<phone>+1 415 326 1941</phone>
+<email>Satz@CISCO.COM</email></address></author>
+<date year='1991' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='1238' />
+<format type='TXT' octets='65159' target='http://www.rfc-editor.org/rfc/rfc1238.txt' />
+</reference>

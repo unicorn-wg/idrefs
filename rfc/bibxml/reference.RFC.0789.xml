@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0789'>
+
+<front>
+<title>Vulnerabilities of network control protocols: An example</title>
+<author initials='E.' surname='Rosen' fullname='Eric C. Rosen'>
+<organization>Bolt Beranek and Newman Inc.</organization></author>
+<date year='1981' day='1' month='July' />
+<abstract>
+<t>On  October 27, 1980, there was an unusual occurrence on the ARPANET. For a period of several hours, the network appeared  to be  unusable, due to what was later diagnosed as a high priority software process running out of control. Network-wide disturbances are extremely unusual  in the ARPANET (none has occurred in several years), and as a result, many  people have expressed  interest  in  learning more about the etiology of this particular incident.  The purpose of this note is to explain what the symptoms of the problem  were, what the underlying  causes were, and what lessons can be drawn. As we shall see, the immediate cause of the problem was  a  rather  freakish  hardware malfunction  (which is not likely to recur) which caused a faulty sequence of network control packets to be generated.  This faulty sequence of control packets in turn affected the apportionment of software resources in the IMPs, causing one of the IMP processes to use an excessive amount of resources, to the detriment of other IMP processes.  Restoring  the  network to operational condition  was  a  relatively straightforward task.  There was no damage other than the outage itself, and no residual problems once the network was restored.  Nevertheless, it is quite interesting to see the way in which unusual  (indeed, unique) circumstances can bring out vulnerabilities in network control protocols, and that shall be the focus of this paper.</t></abstract></front>
+
+<seriesInfo name='RFC' value='789' />
+<format type='TXT' octets='25541' target='http://www.rfc-editor.org/rfc/rfc789.txt' />
+</reference>

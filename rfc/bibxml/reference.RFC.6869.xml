@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6869'>
+
+<front>
+<title>vCard KIND:device</title>
+<author initials='G.' surname='Salgueiro' fullname='G. Salgueiro'>
+<organization /></author>
+<author initials='J.' surname='Clarke' fullname='J. Clarke'>
+<organization /></author>
+<author initials='P.' surname='Saint-Andre' fullname='P. Saint-Andre'>
+<organization /></author>
+<date year='2013' month='February' />
+<abstract>
+<t>This document defines a value of "device" for the vCard KIND property so that the vCard format can be used to represent computing devices such as appliances, computers, or network elements (e.g., a server, router, switch, printer, sensor, or phone). [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='6869' />
+<format type='TXT' octets='14648' target='http://www.rfc-editor.org/rfc/rfc6869.txt' />
+</reference>

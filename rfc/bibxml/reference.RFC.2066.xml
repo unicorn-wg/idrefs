@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2066'>
+
+<front>
+<title>TELNET CHARSET Option</title>
+<author initials='R.' surname='Gellens' fullname='Randall Gellens'>
+<organization>Unisys Corporation</organization>
+<address>
+<postal>
+<street>25725 Jeronimo Road</street>
+<street>Mail Stop 237</street>
+<city>Mission Viejo</city>
+<region>CA</region>
+<code>92691</code>
+<country>US</country></postal>
+<phone>+1 714 380 6350</phone>
+<facsimile>+1 714 380 5912</facsimile>
+<email>Randy@MV.Unisys.Com</email></address></author>
+<date year='1997' month='January' />
+<abstract>
+<t>This document specifies a mechanism for passing character set and translation information between a TELNET client and server.  Use of this mechanism enables an application used by a TELNET user to send and receive data in the correct character set.</t>
+<t>Either side can (subject to option negotiation) at any time request that a (new) character set be used.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2066' />
+<format type='TXT' octets='26088' target='http://www.rfc-editor.org/rfc/rfc2066.txt' />
+</reference>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3012'>
+
+<front>
+<title>Mobile IPv4 Challenge/Response Extensions</title>
+<author initials='C.' surname='Perkins' fullname='C. Perkins'>
+<organization /></author>
+<author initials='P.' surname='Calhoun' fullname='P. Calhoun'>
+<organization /></author>
+<date year='2000' month='November' />
+<abstract>
+<t>In this specification, we define extensions for the Mobile IP Agent Advertisements and the Registration Request that allow a foreign agent to use a challenge/response mechanism to authenticate the mobile node. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='3012' />
+<format type='TXT' octets='37005' target='http://www.rfc-editor.org/rfc/rfc3012.txt' />
+</reference>

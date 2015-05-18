@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1178'>
+
+<front>
+<title abbrev='Name Your Computer'>Choosing a name for your computer</title>
+<author initials='D.' surname='Libes' fullname='Don Libes'>
+<organization>National Institute of Standards and Technology (NIST), Integrated Systems Group</organization>
+<address>
+<postal>
+<street />
+<city>Gaithersburg</city>
+<region>MD</region>
+<code>20899</code>
+<country>US</country></postal>
+<phone>+1 301 975 3535</phone>
+<email>libes@cme.nist.gov</email></address></author>
+<date year='1990' day='1' month='August' />
+<abstract>
+<t>In order to easily distinguish between multiple computers, we give them names.  Experience has taught us that it is as easy to choose bad names as it is to choose good ones.  This essay presents
+ guidelines for deciding what makes a name good or bad.</t>
+<t>Keywords: domain name system, naming conventions, computer administration, computer network management</t></abstract></front>
+
+<seriesInfo name='RFC' value='1178' />
+<format type='TXT' octets='18472' target='http://www.rfc-editor.org/rfc/rfc1178.txt' />
+</reference>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0885'>
+
+<front>
+<title>Telnet end of record option</title>
+<author initials='J.' surname='Postel' fullname='J. Postel'>
+<organization>University of Southern California (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<date year='1983' day='1' month='December' />
+<abstract>
+<t>This RFC specifies a standard for the ARPA Internet community.  Hosts on the ARPA Internet that need to mark record boundaries within Telnet protocol data are expected to adopt and implement this standard.</t></abstract></front>
+
+<seriesInfo name='RFC' value='885' />
+<format type='TXT' octets='3232' target='http://www.rfc-editor.org/rfc/rfc885.txt' />
+</reference>

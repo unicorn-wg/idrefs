@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3523'>
+
+<front>
+<title>Internet Emergency Preparedness (IEPREP) Telephony Topology Terminology</title>
+<author initials='J.' surname='Polk' fullname='J. Polk'>
+<organization /></author>
+<date year='2003' month='April' />
+<abstract>
+<t>This document defines the topology naming conventions that are to be used in reference to Internet Emergency Preparedness (IEPREP) phone calls.  These naming conventions should be used to focus the IEPREP Working Group during discussions and when writing requirements, gap analysis and other solutions documents.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='3523' />
+<format type='TXT' octets='10190' target='http://www.rfc-editor.org/rfc/rfc3523.txt' />
+</reference>

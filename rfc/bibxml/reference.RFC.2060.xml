@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2060'>
+
+<front>
+<title abbrev='IMAP4rev1'>Internet Message Access Protocol - Version 4rev1</title>
+<author initials='M.' surname='Crispin' fullname='Mark R. Crispin'>
+<organization>University of Washington, Networks and Distributed Computing</organization>
+<address>
+<postal>
+<street>4545 15th Aveneue NE</street>
+<city>Seattle</city>
+<region>WA</region>
+<code>98105-4527</code>
+<country>US</country></postal>
+<phone>+1 206 543 5762</phone>
+<email>MRC@CAC.Washington.EDU</email></address></author>
+<date year='1996' month='December' />
+<abstract>
+<t>The Internet Message Access Protocol, Version 4rev1 (IMAP4rev1) allows a client to access and manipulate electronic mail messages on a server.  IMAP4rev1 permits manipulation of remote message folders, called "mailboxes", in a way that is functionally equivalent to local mailboxes.  IMAP4rev1 also provides the capability for an offline client to resynchronize with the server (see also.</t>
+<t>IMAP4rev1 includes operations for creating, deleting, and renaming mailboxes; checking for new messages; permanently removing messages; setting and clearing flags;andparsing; searching; and selective fetching of message attributes, texts, and portions thereof.  Messages in IMAP4rev1 are accessed by the use of numbers.  These numbers are either message sequence numbers or unique identifiers.</t>
+<t>IMAP4rev1 supports a single server.  A mechanism for accessing configuration information to support multiple IMAP4rev1 servers is discussed in.</t>
+<t>IMAP4rev1 does not specify a means of posting mail; this function is handled by a mail transfer protocol such as.</t>
+<t>IMAP4rev1 is designed to be upwards compatible from theand unpublished IMAP2bis protocols.  In the course of the evolution of IMAP4rev1, some aspects in the earlier protocol have become obsolete. Obsolete commands, responses, and data formats which an IMAP4rev1 implementation may encounter when used with an earlier implementation are described in.</t>
+<t>Other compatibility issues with IMAP2bis, the most common variant of the earlier protocol, are discussed in.  A full discussion of compatibility issues with rare (and presumed extinct) variants ofis in; this document is primarily of historical interest.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2060' />
+<format type='TXT' octets='166513' target='http://www.rfc-editor.org/rfc/rfc2060.txt' />
+</reference>

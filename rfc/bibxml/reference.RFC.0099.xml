@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0099'>
+
+<front>
+<title>Network Meeting</title>
+<author initials='P.' surname='Karp' fullname='P. Karp'>
+<organization>Mitre Corporation</organization></author>
+<date year='1971' day='22' month='February' />
+<abstract>
+<t>The next meeting of the Network Working Group will be held in Atlantic City, New Jersey coincident with the SJCC.</t></abstract></front>
+
+<seriesInfo name='RFC' value='99' />
+<format type='TXT' octets='1010' target='http://www.rfc-editor.org/rfc/rfc99.txt' />
+</reference>

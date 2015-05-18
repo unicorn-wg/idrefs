@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3075'>
+
+<front>
+<title>XML-Signature Syntax and Processing</title>
+<author initials='D.' surname='Eastlake' fullname='D. Eastlake'>
+<organization /></author>
+<author initials='J.' surname='Reagle' fullname='J. Reagle'>
+<organization /></author>
+<author initials='D.' surname='Solo' fullname='D. Solo'>
+<organization /></author>
+<date year='2001' month='March' />
+<abstract>
+<t>This document specifies XML (Extensible Markup Language) digital signature processing rules and syntax. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='3075' />
+<format type='TXT' octets='145520' target='http://www.rfc-editor.org/rfc/rfc3075.txt' />
+</reference>

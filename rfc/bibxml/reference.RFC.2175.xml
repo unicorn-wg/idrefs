@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2175'>
+
+<front>
+<title abbrev='MAPOS 16'>MAPOS 16 - Multiple Access Protocol over SONET/SDH with 16 Bit Addressing</title>
+<author initials='K.' surname='Murakami' fullname='Ken Murakami'>
+<organization>NTT Software Laboratories</organization>
+<address>
+<postal>
+<street>3-9-11</street>
+<street>Midori-cho</street>
+<street>Musashino-shi</street>
+<street>Tokyo-180</street>
+<country>Japan</country></postal>
+<email>murakami@ntt-20.ecl.net</email></address></author>
+<author initials='M.' surname='Maruyama' fullname='Mitsuru Maruyama'>
+<organization>NTT Software Laboratories</organization>
+<address>
+<postal>
+<street>3-9-11</street>
+<street>Midori-cho</street>
+<street>Musashino-shi</street>
+<street>Tokyo-180</street>
+<country>Japan</country></postal>
+<email>mitsuru@ntt-20.ecl.net</email></address></author>
+<date year='1997' month='June' />
+<area>Internet</area>
+<keyword>MAPOS</keyword>
+<keyword>encapsulate</keyword>
+<keyword>synchronous data hierarchy</keyword>
+<keyword>synchronous optical network</keyword></front>
+
+<seriesInfo name='RFC' value='2175' />
+<format type='TXT' octets='11677' target='http://www.rfc-editor.org/rfc/rfc2175.txt' />
+<format type='XML' octets='14150' target='http://xml.resource.org/public/rfc/xml/rfc2175.xml' />
+</reference>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1015'>
+
+<front>
+<title abbrev='IRI Plan'>Implementation plan for interagency research Internet</title>
+<author initials='B.' surname='Leiner' fullname='Barry M. Leiner'>
+<organization>RIACS</organization></author>
+<date year='1987' day='1' month='July' /></front>
+
+<seriesInfo name='RFC' value='1015' />
+<format type='TXT' octets='63159' target='http://www.rfc-editor.org/rfc/rfc1015.txt' />
+</reference>

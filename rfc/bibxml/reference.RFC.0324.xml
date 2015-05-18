@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0324'>
+
+<front>
+<title>RJE Protocol meeting</title>
+<author initials='J.' surname='Postel' fullname='J. Postel'>
+<organization>University of California, Los Angeles (UCLA), NMC</organization></author>
+<date year='1972' day='3' month='April' />
+<abstract>
+<t>There will be a meeting to discuss Remote Job Entry (RJE) protocols in the ARPA Network on Friday 21 April 72.</t></abstract></front>
+
+<seriesInfo name='RFC' value='324' />
+<format type='TXT' octets='1176' target='http://www.rfc-editor.org/rfc/rfc324.txt' />
+</reference>

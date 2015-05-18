@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2160'>
+
+<front>
+<title abbrev='PostScript in MIME'>Carrying PostScript in X.400 and MIME</title>
+<author initials='H.T.' surname='Alvestrand' fullname='Harald Tveit Alvestrand'>
+<organization>UNINETT</organization>
+<address>
+<postal>
+<street>Postboks 6883 Elgeseter</street>
+<street>N-7002 TRONDHEIM</street></postal>
+<phone>+47 73 59 70 94</phone>
+<email>Harald.T.Alvestrand@uninett.no</email></address></author>
+<date year='1998' month='January' />
+<area>Applications</area>
+<keyword>MIME</keyword>
+<keyword>PostScript</keyword>
+<keyword>ITU message handling service protocol</keyword>
+<keyword>multipurpose internet mail extensions</keyword></front>
+
+<seriesInfo name='RFC' value='2160' />
+<format type='TXT' octets='7059' target='http://www.rfc-editor.org/rfc/rfc2160.txt' />
+<format type='HTML' octets='19412' target='http://xml.resource.org/public/rfc/html/rfc2160.html' />
+<format type='XML' octets='5699' target='http://xml.resource.org/public/rfc/xml/rfc2160.xml' />
+</reference>

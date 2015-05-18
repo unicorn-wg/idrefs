@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4845'>
+
+<front>
+<title>Process for Publication of IAB RFCs</title>
+<author initials='L.' surname='Daigle' fullname='L. Daigle'>
+<organization /></author>
+<author>
+<organization>Internet Architecture Board</organization></author>
+<date year='2007' month='July' />
+<abstract>
+<t>From time to time, the Internet Architecture Board (IAB) publishes documents as Requests for Comments (RFCs).  This document defines the process by which those documents are produced, reviewed, and published in the RFC Series.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='4845' />
+<format type='TXT' octets='9228' target='http://www.rfc-editor.org/rfc/rfc4845.txt' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0130'>
+
+<front>
+<title>Response to RFC 111: Pressure from the chairman</title>
+<author initials='J.' surname='Heafner' fullname='J. Heafner'>
+<organization>Rand Corporation</organization></author>
+<date year='1971' day='22' month='April' />
+<abstract>
+<t>The purpose of RFC #111, as I interpret it, is two-fold:  1) To establish realistic implementation schedules and to make them known to the Network community so as to expedite everyone's planning of productive use of Network Services.  2) To uncover implementation techniques and strategies that were most successful and might be useful in future implementations.</t></abstract></front>
+
+<seriesInfo name='RFC' value='130' />
+<format type='TXT' octets='2580' target='http://www.rfc-editor.org/rfc/rfc130.txt' />
+</reference>

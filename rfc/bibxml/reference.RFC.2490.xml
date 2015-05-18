@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2490'>
+
+<front>
+<title abbrev='RSVP Simulation'>A Simulation Model for IP Multicast with RSVP</title>
+<author initials='J.M.' surname='Pullen' fullname='J. Mark Pullen'>
+<organization>C3I Center/Computer Science</organization>
+<address>
+<postal>
+<street>Mail Stop 4A5</street>
+<street>George Mason University</street>
+<street>Fairfax</street>
+<street>VA 22032</street></postal>
+<email>mpullen@gmu.edu</email></address></author>
+<author initials='R.' surname='Malghan' fullname='Ravi Malghan'>
+<organization />
+<address>
+<postal>
+<street>3141 Fairview Park Drive</street>
+<street>Suite 700</street>
+<street>Falls Church VA 22042</street></postal>
+<email>rmalghan@bacon.gmu.edu</email></address></author>
+<author initials='L.K.' surname='Lavu' fullname='Lava K. Lavu'>
+<organization>Bay Networks</organization>
+<address>
+<postal>
+<street>600 Technology Park Dr.</street>
+<street>Billerica</street>
+<street>MA 01821</street></postal>
+<email>llavu@bacon.gmu.edu</email></address></author>
+<author initials='G.' surname='Duan' fullname='Gang Duan'>
+<organization>Oracle Co.</organization>
+<address>
+<postal>
+<street>Redwood Shores</street>
+<street>CA 94065</street></postal>
+<email>gduan@us.oracle.com</email></address></author>
+<author initials='J.' surname='Ma' fullname='Jiemei Ma'>
+<organization>Newbridge Networks Inc.</organization>
+<address>
+<postal>
+<street>593 Herndon Parkway</street>
+<street>Herndon</street>
+<street>VA 20170</street></postal>
+<email>jma@newbridge.com</email></address></author>
+<author initials='H.' surname='Nah' fullname='Hoon Nah'>
+<organization>C3I Center</organization>
+<address>
+<postal>
+<street>Mail Stop 4B5</street>
+<street>George Mason University</street>
+<street>Fairfax</street>
+<street>VA 22030</street></postal>
+<email>hnah@bacon.gmu.edu</email></address></author>
+<date year='1999' month='January' />
+<area>Transport</area>
+<keyword>RSVP</keyword>
+<keyword>multicast</keyword>
+<keyword>resource reservation protocol</keyword>
+<keyword>routing</keyword>
+<abstract>
+<t>
+   This document describes a detailed model of IPv4 multicast with RSVP
+   that has been developed using the OPNET simulation package , with
+   protocol procedures defined in the C language.  The model was
+   developed to allow investigation of performance constraints on
+   routing but should have wide applicability in the Internet
+   multicast/resource reservation community.  We are making this model
+   publicly available with the intention that it can be used to provide
+   expanded studies of resource-reserved multicasting.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2490' />
+<format type='TXT' octets='74936' target='http://www.rfc-editor.org/rfc/rfc2490.txt' />
+<format type='PS' octets='1956365' target='http://www.rfc-editor.org/rfc/rfc2490.ps' />
+<format type='PDF' octets='135368' target='http://www.rfc-editor.org/rfc/rfc2490.pdf' />
+<format type='XML' octets='75169' target='http://xml.resource.org/public/rfc/xml/rfc2490.xml' />
+</reference>

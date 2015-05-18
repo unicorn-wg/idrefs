@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1068'>
+
+<front>
+<title>Background File Transfer Program (BFTP)</title>
+<author initials='A.' surname='DeSchon' fullname='A. DeSchon'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<author initials='R.' surname='Braden' fullname='R. Braden'>
+<organization>USC/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<date year='1988' day='1' month='August' /></front>
+
+<seriesInfo name='RFC' value='1068' />
+<format type='TXT' octets='51004' target='http://www.rfc-editor.org/rfc/rfc1068.txt' />
+</reference>

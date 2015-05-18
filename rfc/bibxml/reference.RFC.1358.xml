@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1358'>
+
+<front>
+<title abbrev='Charter of the IAB'>Charter of the Internet Architecture Board (IAB)</title>
+<author initials='A.L.' surname='Chapin' fullname='A. Lyman Chapin'>
+<organization>Bolt, Beranek &amp; Newman, Internet Architecture Board (IAB)</organization>
+<address>
+<postal>
+<street>150 Cambridge Park Drive</street>
+<street>Mail Stop 20/5b</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02140</code>
+<country>US</country></postal>
+<phone>+1 617 873 3133</phone>
+<email>lyman@BBN.COM</email></address></author>
+<date year='1992' month='August' /></front>
+
+<seriesInfo name='RFC' value='1358' />
+<format type='TXT' octets='11328' target='http://www.rfc-editor.org/rfc/rfc1358.txt' />
+</reference>

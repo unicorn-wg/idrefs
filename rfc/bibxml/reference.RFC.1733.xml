@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1733'>
+
+<front>
+<title abbrev='IMAP4 - Model'>Distributed Electronic Mail Models in IMAP4</title>
+<author initials='M.' surname='Crispin' fullname='Mark R. Crispin'>
+<organization>University of Washington, Networks and Distributed Computing</organization>
+<address>
+<postal>
+<street>JE-30</street>
+<city>Seattle</city>
+<region>WA</region>
+<code>98195</code>
+<country>US</country></postal>
+<phone>+1 206 543 5762</phone>
+<email>MRC@CAC.Washington.EDU</email></address></author>
+<date year='1994' month='December' /></front>
+
+<seriesInfo name='RFC' value='1733' />
+<format type='TXT' octets='6205' target='http://www.rfc-editor.org/rfc/rfc1733.txt' />
+</reference>

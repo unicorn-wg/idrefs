@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC6210'>
+
+<front>
+<title>Experiment: Hash Functions with Parameters in the Cryptographic Message Syntax (CMS) and S/MIME</title>
+<author initials='J.' surname='Schaad' fullname='J. Schaad'>
+<organization /></author>
+<date year='2011' month='April' />
+<abstract>
+<t>New hash algorithms are being developed that may include parameters.  Cryptographic Message Syntax (CMS) has not currently defined any hash algorithms with parameters, but anecdotal evidence suggests that defining one could cause major problems.  This document defines just such an algorithm and describes how to use it so that experiments can be run to find out how bad including hash parameters will be.  This document defines an Experimental Protocol for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='6210' />
+<format type='TXT' octets='28339' target='http://www.rfc-editor.org/rfc/rfc6210.txt' />
+</reference>

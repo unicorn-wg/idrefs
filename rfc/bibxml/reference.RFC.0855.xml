@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0855'>
+
+<front>
+<title>Telnet Option Specifications</title>
+<author initials='J.' surname='Postel' fullname='Jonathan B. Postel'>
+<organization>University of Southern California (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone>
+<email>POSTEL@USC-ISIF</email></address></author>
+<author initials='J.' surname='Reynolds' fullname='J. Reynolds'>
+<organization>University of Southern California (USC)/Information Sciences Institute</organization>
+<address>
+<postal>
+<street>4676 Admiralty Way</street>
+<city>Marina del Rey</city>
+<region>CA</region>
+<code>90291</code>
+<country>US</country></postal>
+<phone>+1 213 822 1511</phone></address></author>
+<date year='1983' day='1' month='May' />
+<abstract>
+<t>This RFC specifies a standard for the ARPA Internet community.  Hosts on the ARPA Internet are expected to adopt and implement this standard.</t>
+<t>The intent of providing for options in the TELNET Protocol is to permit hosts to obtain more elegant solutions to the problems of communication between dissimilar devices than is possible within the framework provided by the Network Virtual Terminal (NVT).  It should be possible for hosts to invent, test, or discard options at will.  Nevertheless, it is envisioned that options which prove to be generally useful will eventually be supported by many hosts; therefore it is desirable that options should be carefully documented and well publicized.  In addition, it is necessary to insure that a single option code is not used for several different options.</t>
+<t>This document specifies a method of option code assignment and standards for documentation of options.  The individual responsible for assignment of option codes may waive the requirement for complete documentation for some cases of experimentation, but in general documentation will be required prior to code assignment.  Options will be publicized by publishing their documentation as RFCs; inventors of options may, of course, publicize them in other ways as well.</t></abstract></front>
+
+<seriesInfo name='STD' value='8' />
+<seriesInfo name='RFC' value='855' />
+<format type='TXT' octets='6218' target='http://www.rfc-editor.org/rfc/rfc855.txt' />
+</reference>

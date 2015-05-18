@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1545'>
+
+<front>
+<title abbrev='FTP Over Big Address'>FTP Operation Over Big Address Records (FOOBAR)</title>
+<author initials='D.' surname='Piscitello' fullname='David M. Piscitello'>
+<organization>Bell Communications Research</organization>
+<address>
+<postal>
+<street>331 Newman Springs Road</street>
+<street>NVC 1C322</street>
+<city>Red Bank</city>
+<region>NJ</region>
+<code>07701</code>
+<country>US</country></postal>
+<email>dave@mail.bellcore.com</email></address></author>
+<date year='1993' month='November' />
+<abstract>
+<t>This paper describes a convention for specifying longer addresses in the PORT command.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1545' />
+<format type='TXT' octets='8985' target='http://www.rfc-editor.org/rfc/rfc1545.txt' />
+</reference>

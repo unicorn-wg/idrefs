@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1518'>
+
+<front>
+<title abbrev='CIDR Address Allocation Architecture'>An Architecture for IP Address Allocation with CIDR</title>
+<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
+<organization>IBM Corporation, T.J. Watson Research Center</organization>
+<address>
+<postal>
+<street>P.O. Box 218</street>
+<city>Yorktown Heights</city>
+<region>NY</region>
+<code>10598</code>
+<country>US</country></postal>
+<phone>+1 914 945 3896</phone>
+<email>yakov@watson.ibm.com</email></address></author>
+<author initials='T.' surname='Li' fullname='Tony Li'>
+<organization>cisco Systems, Inc.</organization>
+<address>
+<postal>
+<street>1525 O'Brien Drive</street>
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<email>tli@cisco.com</email></address></author>
+<date year='1993' month='September' />
+<abstract>
+<t></t></abstract></front>
+
+<seriesInfo name='RFC' value='1518' />
+<format type='TXT' octets='72609' target='http://www.rfc-editor.org/rfc/rfc1518.txt' />
+</reference>

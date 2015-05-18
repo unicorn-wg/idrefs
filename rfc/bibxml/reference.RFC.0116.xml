@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0116'>
+
+<front>
+<title>Structure of the May NWG Meeting</title>
+<author initials='S.' surname='Crocker' fullname='S. Crocker'>
+<organization>University of California, Los Angeles (UCLA)</organization></author>
+<date year='1971' day='12' month='April' />
+<abstract>
+<t>In order to use our time in Atlantic City more effectively, I would like to organize the meetings around discussions of advertised topics, with published status reports and position papers.  I envision our  time being divided into three phases.</t></abstract></front>
+
+<seriesInfo name='RFC' value='116' />
+<format type='TXT' octets='2395' target='http://www.rfc-editor.org/rfc/rfc116.txt' />
+</reference>

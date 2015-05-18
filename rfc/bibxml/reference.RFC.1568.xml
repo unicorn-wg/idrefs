@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1568'>
+
+<front>
+<title abbrev='SNPP - Version 1(b)'>Simple Network Paging Protocol - Version 1(b)</title>
+<author initials='R.A.' surname='Gwinn' fullname='R. Allen Gwinn, Jr.'>
+<organization>Southern Methodist University, Business Information Center</organization>
+<address>
+<postal>
+<street />
+<city>Dallas</city>
+<region>TX</region>
+<code>75275</code>
+<country>US</country></postal>
+<phone>+1 214 768 3186</phone>
+<email>allen@mail.cox.smu.edu</email></address></author>
+<date year='1994' month='January' />
+<abstract>
+<t>This RFC suggests a simple way for delivering both alphanumeric and numeric pages (one-way) to radio paging terminals.  Gateways supporting this protocol, as well as SMTP, have been in use for several months in one nationwide paging firm.  One other paging firm is in the process of adopting it.</t>
+<t>Earlier versions of this specification were reviewed by IESG members and the IETF's "822 Extensions" Working Group.  They preferred an alternate strategy, as discussed under "Relationship to Other IETF Work", below.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1568' />
+<format type='TXT' octets='16558' target='http://www.rfc-editor.org/rfc/rfc1568.txt' />
+</reference>

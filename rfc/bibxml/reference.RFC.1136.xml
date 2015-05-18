@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1136'>
+
+<front>
+<title abbrev='A Model for Routing in the Internet'>Administrative Domains and Routing Domains: A model for routing in the Internet</title>
+<author initials='S.' surname='Hares' fullname='Susan Hares'>
+<organization>Merit/NSFNET</organization>
+<address>
+<postal>
+<street>1075 Beal Ave.</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48109</code>
+<country>US</country></postal>
+<phone>+1 313 936 3000</phone>
+<email>skh@merit.edu</email></address></author>
+<author initials='D.' surname='Katz' fullname='Dave Katz'>
+<organization>Merit/NSFNET</organization>
+<address>
+<postal>
+<street>1075 Beal Ave.</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48109</code>
+<country>US</country></postal>
+<phone>+1 313 763 4898</phone>
+<email>dkatz@merit.edu</email></address></author>
+<date year='1989' day='1' month='December' /></front>
+
+<seriesInfo name='RFC' value='1136' />
+<format type='TXT' octets='22158' target='http://www.rfc-editor.org/rfc/rfc1136.txt' />
+</reference>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2067'>
+
+<front>
+<title>IP over HIPPI</title>
+<author initials='J.' surname='Renwick' fullname='John K. Renwick'>
+<organization>NetStar, Inc.</organization>
+<address>
+<postal>
+<street>10250 Valley View Road</street>
+<city>Eden Prairie</city>
+<region>MN</region>
+<code>55344</code>
+<country>US</country></postal>
+<phone>+1 612 996 6847</phone>
+<email>jkr@NetStar.com</email></address></author>
+<date year='1997' month='January' />
+<abstract>
+<t>ANSI Standard X3.218-1993 (HIPPI-LEdefines the encapsulation of IEEE 802.2 LLC PDUs and, by implication, IP on HIPPI.  ANSI X3.222-
+   1993 (HIPPI-SCdescribes the operation of HIPPI physical switches.  The ANSI committee responsible for these standards chose to leave HIPPI networking issues largely outside the scope of their standards; this document describes the use of HIPPI switches as IP local area networks.</t>
+<t>This memo is a revision of RFC 1374, "IP and ARP on HIPPI", and is intended to replace it in the Standards Track.  RFC 1374 has been a Proposed Standard since November, 1992, with at least 10 implementations of IP encapsulation and HIPPI switch discipline.  No major changes to it are required.  However, the ARP part of RFC 1374 has not had sufficient implementation experience to be advanced to Draft Standard.  The present document contains all of RFC 1374 except for the description ARP, which has been moved into a separate document.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2067' />
+<format type='TXT' octets='66702' target='http://www.rfc-editor.org/rfc/rfc2067.txt' />
+</reference>

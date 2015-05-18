@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1625'>
+
+<front>
+<title>WAIS over Z39.50-1988</title>
+<author initials='M.' surname='St. Pierre' fullname='Margaret St. Pierre'>
+<organization>WAIS Incorporated</organization>
+<address>
+<postal>
+<street>1040 Noel Drive</street>
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<phone>+1 415 327 9247</phone>
+<facsimile>+1 415 327 6513</facsimile>
+<email>saint@wais.com</email></address></author>
+<author initials='J.' surname='Fullton' fullname='Jim Fullton'>
+<organization>Clearinghouse for Networked Information, Discovery &amp; Retrieval</organization>
+<address>
+<postal>
+<street>3021 Cornwallis Road</street>
+<city>Research Triangle Park</city>
+<region>NC</region>
+<code>27709-2889</code>
+<country>US</country></postal>
+<phone>+1 919 248 9247</phone>
+<facsimile>+1 919 248 1101</facsimile>
+<email>jim.fullton@cnidr.org</email></address></author>
+<author initials='K.' surname='Gamiel' fullname='Kevin Gamiel'>
+<organization>Clearinghouse for Networked Information, Discovery &amp; Retrieval</organization>
+<address>
+<postal>
+<street>3021 Cornwallis Road</street>
+<city>Research Triangle Park</city>
+<region>NC</region>
+<code>27709-2889</code>
+<country>US</country></postal>
+<phone>+1 919 248 9247</phone>
+<facsimile>+1 919 248 1101</facsimile>
+<email>kevin.gamiel@cnidr.org</email></address></author>
+<author initials='J.' surname='Goldman' fullname='Jonathan Goldman'>
+<organization>Thinking Machines Corporation</organization>
+<address>
+<postal>
+<street>1010 El Camino Real</street>
+<street>Suite 310</street>
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<phone>+1 415 329 9300 x229</phone>
+<facsimile>+1 415 329 9329</facsimile>
+<email>jonathan@think.com</email></address></author>
+<author initials='B.' surname='Kahle' fullname='Brewster Kahle'>
+<organization>WAIS Incorporated</organization>
+<address>
+<postal>
+<street>1040 Noel Drive</street>
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<phone>+1 415 327 9247</phone>
+<facsimile>+1 415 327 6513</facsimile>
+<email>brewster@wais.com</email></address></author>
+<author initials='J.' surname='Kunze' fullname='John A. Kunze'>
+<organization>UC Berkeley</organization>
+<address>
+<postal>
+<street>289 Evans Hall</street>
+<city>Berkeley</city>
+<region>CA</region>
+<code>94720</code>
+<country>US</country></postal>
+<phone>+1 510 642 1530</phone>
+<facsimile>+1 510 643 5385</facsimile>
+<email>jak@violet.berkeley.edu</email></address></author>
+<author initials='H.' surname='Morris' fullname='Harry Morris'>
+<organization>WAIS Incorporated</organization>
+<address>
+<postal>
+<street>1040 Noel Drive</street>
+<city>Menlo Park</city>
+<region>CA</region>
+<code>94025</code>
+<country>US</country></postal>
+<phone>+1 415 327 9247</phone>
+<facsimile>+1 415 327 6513</facsimile>
+<email>morris@wais.com</email></address></author>
+<author initials='F.' surname='Schiettecatte' fullname='Francois Schiettecatte'>
+<organization>FS Consulting</organization>
+<address>
+<postal>
+<street>435 Highland Avenue</street>
+<city>Rochester</city>
+<region>NY</region>
+<code>14620</code>
+<country>US</country></postal>
+<phone>+1 716 256 2850</phone>
+<email>francois@wais.com</email></address></author>
+<date year='1994' month='June' /></front>
+
+<seriesInfo name='RFC' value='1625' />
+<format type='TXT' octets='14694' target='http://www.rfc-editor.org/rfc/rfc1625.txt' />
+</reference>

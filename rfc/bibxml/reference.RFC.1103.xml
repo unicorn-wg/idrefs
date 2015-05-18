@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1103'>
+
+<front>
+<title abbrev='IP Datagrams over FDDI Networks'>Proposed standard for the transmission of IP datagrams over FDDI Networks</title>
+<author initials='D.' surname='Katz' fullname='Dave Katz'>
+<organization>Merit/NSFNET</organization>
+<address>
+<postal>
+<street>1075 Beal</street>
+<city>Ann Arbor</city>
+<region>MI</region>
+<code>48109-2112</code>
+<country>US</country></postal>
+<phone>+1 800 666 3748</phone>
+<email>Dave_Katz@um.cc.umich.edu</email></address></author>
+<date year='1989' day='1' month='June' /></front>
+
+<seriesInfo name='RFC' value='1103' />
+<format type='TXT' octets='19439' target='http://www.rfc-editor.org/rfc/rfc1103.txt' />
+</reference>

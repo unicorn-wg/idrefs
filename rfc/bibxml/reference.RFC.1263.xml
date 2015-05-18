@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1263'>
+
+<front>
+<title abbrev='TCP Extensions Considered Harmful'>TCP Extensions Considered Harmful</title>
+<author initials='S.' surname='O&apos;Malley' fullname='Sean O&apos;Malley'>
+<organization>University of Arizona, Department of Computer Sciences</organization>
+<address>
+<postal>
+<street />
+<city>Tucson</city>
+<region>AZ</region>
+<code>85721</code>
+<country>US</country></postal>
+<phone>+1 602 621 8373</phone>
+<email>sean@cs.arizona.edu</email></address></author>
+<author initials='L.L.' surname='Peterson' fullname='Larry L. Peterson'>
+<organization>University of Arizona, Department of Computer Sciences</organization>
+<address>
+<postal>
+<street />
+<city>Tucson</city>
+<region>AZ</region>
+<code>85721</code>
+<country>US</country></postal>
+<phone>+1 602 621 4231</phone>
+<email>llp@cs.arizona.edu</email></address></author>
+<date year='1991' day='1' month='October' />
+<abstract>
+<t>This RFC comments on recent proposals to extend TCP.  It argues that the backward compatible extensions proposed in RFC's 1072 and 1185 should not be pursued, and proposes an alternative way to evolve the Internet protocol suite.  Its purpose is to stimulate discussion in the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1263' />
+<format type='TXT' octets='54078' target='http://www.rfc-editor.org/rfc/rfc1263.txt' />
+</reference>

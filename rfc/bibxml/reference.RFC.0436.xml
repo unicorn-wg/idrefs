@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0436'>
+
+<front>
+<title>Announcement of RJS at UCSB</title>
+<author initials='M.' surname='Krilanovich' fullname='M. Krilanovich'>
+<organization /></author>
+<date year='1973' month='January' /></front>
+
+<seriesInfo name='RFC' value='436' />
+<format type='TXT' octets='2579' target='http://www.rfc-editor.org/rfc/rfc436.txt' />
+</reference>

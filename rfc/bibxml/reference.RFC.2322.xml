@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2322'>
+
+<front>
+<title abbrev='Management of IP numbers by peg-dhcp'>Management of IP numbers by peg-dhcp</title>
+<author initials='K.' surname='van den Hout' fullname='K. van den Hout'>
+<organization>HvU/HIP-networkteam</organization>
+<address>
+<postal>
+<street>3508 AA Utrecht</street>
+<street>The Netherlands</street></postal>
+<phone>+31-30-2586287</phone>
+<facsimile>+31-30-2586292</facsimile>
+<email>koos@cetis.hvu.nl</email></address></author>
+<author initials='A.' surname='Koopal' fullname='Andre Koopal'>
+<organization>UUnet Netherlands</organization>
+<address>
+<postal>
+<street>P.O. box 12954</street>
+<street>1100 AZ  AMSTERDAM</street>
+<street>The Netherlands</street></postal>
+<phone>+31-20-4952727</phone>
+<facsimile>+31-20-4952737</facsimile>
+<email>andre@NL.net</email></address></author>
+<author initials='R.v.' surname='Mook' fullname='Remco van Mook'>
+<organization>Van Mook Consulting</organization>
+<address>
+<postal>
+<street>Calslaan 10-31</street>
+<street>7522 MA Enschede</street>
+<street>The Netherlands</street></postal>
+<phone>+31-53-4895267</phone>
+<email>remco@sateh.com</email></address></author>
+<date year='1998' day='1' month='April' />
+<area>Internet</area>
+<keyword>dynamic host configuration protocol</keyword>
+<keyword>DHCP</keyword>
+<keyword>proxy</keyword>
+<abstract>
+<t>
+This RFC describes a protocol to dynamically hand out ip-numbers on
+   field networks and small events that don't necessarily have a clear
+   organisational body.
+</t>
+<t>
+   It can also provide some fixed additional fields global for all
+   clients like netmask and even autoproxyconfigs. It does not depend on
+   a particular ip-stack.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2322' />
+<format type='TXT' octets='12665' target='http://www.rfc-editor.org/rfc/rfc2322.txt' />
+<format type='HTML' octets='22976' target='http://xml.resource.org/public/rfc/html/rfc2322.html' />
+<format type='XML' octets='11172' target='http://xml.resource.org/public/rfc/xml/rfc2322.xml' />
+</reference>

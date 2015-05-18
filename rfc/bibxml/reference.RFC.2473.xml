@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2473'>
+
+<front>
+<title abbrev='Generic Packet Tunneling in IPv6'>Generic Packet Tunneling in IPv6 Specification</title>
+<author initials='A.' surname='Conta' fullname='Alex Conta'>
+<organization>Lucent Technologies Inc.</organization>
+<address>
+<postal>
+<street>300 Baker Ave</street>
+<city>Concord</city>
+<region>MA</region>
+<code>01742-2168</code>
+<country>USA</country></postal>
+<phone>+1 978 287 2842</phone>
+<email>aconta@lucent.com</email></address></author>
+<author initials='S.' surname='Deering' fullname='Stephen Deering'>
+<organization>Cisco Systems</organization>
+<address>
+<postal>
+<street>170 West Tasman Dr</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95132-1706</code>
+<country>USA</country></postal>
+<phone>+1-408-527-8213</phone>
+<email>deering@cisco.com</email></address></author>
+<date year='1998' month='December' />
+<area>Internet</area>
+<keyword>encapsulate</keyword>
+<keyword>internet protocol version 6</keyword>
+<keyword>IPv6</keyword>
+<keyword>tunnel</keyword>
+<abstract>
+<t>
+   This document defines the model and generic mechanisms for IPv6
+   encapsulation of Internet packets, such as IPv6 and IPv4.  The model
+   and mechanisms can be applied to other protocol packets as well, such
+   as AppleTalk, IPX, CLNP, or others.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2473' />
+<format type='TXT' octets='77956' target='http://www.rfc-editor.org/rfc/rfc2473.txt' />
+<format type='HTML' octets='103157' target='http://xml.resource.org/public/rfc/html/rfc2473.html' />
+<format type='XML' octets='85049' target='http://xml.resource.org/public/rfc/xml/rfc2473.xml' />
+</reference>

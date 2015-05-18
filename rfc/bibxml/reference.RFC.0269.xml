@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0269'>
+
+<front>
+<title>Some Experience with File Transfer</title>
+<author initials='H.' surname='Brodie' fullname='H. Brodie'>
+<organization>University California Los Angeles (UCLA), Network Measurement Center (NMC)</organization></author>
+<date year='1971' day='6' month='December' />
+<abstract>
+<t>At UCLA-NMC we have recently completed implementation of a program which utilizes UCSB's storage capability via their Simple Minded File System (See RFC #122by Jim White for a description of SMFS).  The use of the program is detailed in Appendix A.</t>
+<t>We learned a number of things in the implementation effort and subsequent usage.  We think a number of these apply towards the development of a net- word-wide File Transfer Protocol, and we hope to stimulate further dis- cussion of these issues.  We discovered some things in the UCSB protocol that we would like to see included in the network-wide protocol, and we see some things that are in the currently proposed net protocol and are unfortunately absent from the UCSB protocol.</t></abstract></front>
+
+<seriesInfo name='RFC' value='269' />
+<format type='TXT' octets='5961' target='http://www.rfc-editor.org/rfc/rfc269.txt' />
+</reference>

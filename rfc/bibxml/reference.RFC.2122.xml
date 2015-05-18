@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2122'>
+
+<front>
+<title abbrev='VEMMI'>VEMMI URL Specification</title>
+<author initials='D.' surname='Mavrakis' fullname='Daniel Mavrakis'>
+<organization>Monaco</organization>
+<address>
+<postal>
+<street>P.O. Box 225</street>
+<street>MC 98004 Monte-Carlo Cedex</street>
+<street>PRINCIPALITY OF</street>
+<country>MONACO</country></postal>
+<phone>(+377) 9216 8860</phone>
+<facsimile>(+377) 9330 4545</facsimile>
+<email>Mavrakis@mctel.fr</email></address></author>
+<author initials='M.H.' surname='Layec' fullname='Mr. Herve Layec'>
+<organization>ETSI STC TE1</organization>
+<address>
+<postal>
+<street>06921 SOPHIA ANTIPOLIS Cedex</street>
+<country>FRANCE</country></postal>
+<phone>(+33) 2 99 12 73 01</phone>
+<facsimile>(+33) 2 99 38 49 61</facsimile>
+<email>herve.layec@dri.france-telecom.fr</email></address></author>
+<author initials='M.K.' surname='Kartmann' fullname='Mr. Kurt Kartmann'>
+<organization>Consulting</organization>
+<address>
+<postal>
+<street>Gabelsbergerstr. 2</street>
+<street>D-64807 DIEBURG</street>
+<country>GERMANY</country></postal>
+<phone>. (+49)6151 834965, Fax (+49) 6151 834284</phone>
+<email>k.kartmann@t-online.de</email></address></author>
+<date year='1997' month='March' />
+<keyword>VEMMI</keyword>
+<keyword>multimedia</keyword>
+<keyword>uniform resource</keyword></front>
+
+<seriesInfo name='RFC' value='2122' />
+<format type='TXT' octets='25043' target='http://www.rfc-editor.org/rfc/rfc2122.txt' />
+<format type='HTML' octets='41362' target='http://xml.resource.org/public/rfc/html/rfc2122.html' />
+<format type='XML' octets='25793' target='http://xml.resource.org/public/rfc/xml/rfc2122.xml' />
+</reference>

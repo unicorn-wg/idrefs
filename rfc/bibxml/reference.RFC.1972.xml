@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1972'>
+
+<front>
+<title>A Method for the Transmission of IPv6 Packets over Ethernet Networks</title>
+<author initials='M.' surname='Crawford' fullname='Matt Crawford'>
+<organization>Fermilab</organization>
+<address>
+<postal>
+<street>MS 368</street>
+<street>PO Box 500</street>
+<city>Batavia</city>
+<region>IL</region>
+<code>60510</code>
+<country>US</country></postal>
+<phone>+1 708 840 3461</phone>
+<email>crawdad@fnal.gov</email></address></author>
+<date year='1996' month='August' /></front>
+
+<seriesInfo name='RFC' value='1972' />
+<format type='TXT' octets='6353' target='http://www.rfc-editor.org/rfc/rfc1972.txt' />
+</reference>

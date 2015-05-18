@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5954'>
+
+<front>
+<title>Essential Correction for IPv6 ABNF and URI Comparison in RFC 3261</title>
+<author initials='V.' surname='Gurbani' fullname='V. Gurbani'>
+<organization /></author>
+<author initials='B.' surname='Carpenter' fullname='B. Carpenter'>
+<organization /></author>
+<author initials='B.' surname='Tate' fullname='B. Tate'>
+<organization /></author>
+<date year='2010' month='August' />
+<abstract>
+<t>This document corrects the Augmented Backus-Naur Form (ABNF) production rule associated with generating IPv6 literals in RFC 3261.  It also clarifies the rule for Uniform Resource Identifier (URI) comparison when the URIs contain textual representation of IP addresses. [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='5954' />
+<format type='TXT' octets='13764' target='http://www.rfc-editor.org/rfc/rfc5954.txt' />
+</reference>

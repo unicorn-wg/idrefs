@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4440'>
+
+<front>
+<title>IAB Thoughts on the Role of the Internet Research Task Force (IRTF)</title>
+<author initials='S.' surname='Floyd' fullname='S. Floyd'>
+<organization /></author>
+<author initials='V.' surname='Paxson' fullname='V. Paxson'>
+<organization /></author>
+<author initials='A.' surname='Falk' fullname='A. Falk'>
+<organization /></author>
+<author>
+<organization>IAB</organization></author>
+<date year='2006' month='March' />
+<abstract>
+<t>This document is an Internet Architecture Board (IAB) report on the role of the Internet Research Task Force (IRTF), both on its own and in relationship to the IETF.  This document evolved from a discussion within the IAB as part of a process of appointing a new chair of the IRTF.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='4440' />
+<format type='TXT' octets='29063' target='http://www.rfc-editor.org/rfc/rfc4440.txt' />
+</reference>

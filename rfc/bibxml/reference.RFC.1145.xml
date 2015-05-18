@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1145'>
+
+<front>
+<title>TCP alternate checksum options</title>
+<author initials='J.' surname='Zweig' fullname='Johnny Zweig'>
+<organization>University of Illinois, Digital Computer Lab</organization>
+<address>
+<postal>
+<street>1304 West Springfield Avenue</street>
+<street>CAMPUS MC 258</street>
+<city>Urbana</city>
+<region>IL</region>
+<code>61801</code>
+<country>US</country></postal>
+<phone>+1 217 333 7937</phone>
+<email>zweig@CS.UIUC.EDU</email></address></author>
+<author initials='C.' surname='Partridge' fullname='Craig Partridge'>
+<organization>Bolt Beranek and Newman Inc.</organization>
+<address>
+<postal>
+<street>50 Moulton Street</street>
+<city>Cambridge</city>
+<region>MA</region>
+<code>02138</code>
+<country>US</country></postal>
+<phone>+1 617 873 2459</phone>
+<email>craig@BBN.COM</email></address></author>
+<date year='1990' day='1' month='February' /></front>
+
+<seriesInfo name='RFC' value='1145' />
+<format type='TXT' octets='11052' target='http://www.rfc-editor.org/rfc/rfc1145.txt' />
+</reference>

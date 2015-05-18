@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1956'>
+
+<front>
+<title>Registration in the MIL Domain</title>
+<author initials='D.W.' surname='Engebretson' fullname='D.W. Engebretson'>
+<organization>DISA/D343</organization>
+<address>
+<postal>
+<street>11440 Isaac Newton Square</street>
+<city>Reston</city>
+<region>VA</region>
+<code>22090</code>
+<country>US</country></postal>
+<phone>+1 703 735 8065</phone>
+<email>engebred@ncr.disa.mil</email></address></author>
+<author initials='R.' surname='Plzak' fullname='Raymond Plzak'>
+<organization>Department of Defense Network Information Center</organization>
+<address>
+<postal>
+<street>14200 Parkridge Drive</street>
+<street>Suite 200</street>
+<city>Chantilly</city>
+<region>VA</region>
+<code>22021</code>
+<country>US</country></postal>
+<phone>+1 800 365 3642</phone>
+<email>plzak@nic.ddn.mil</email></address></author>
+<date year='1996' month='June' /></front>
+
+<seriesInfo name='RFC' value='1956' />
+<format type='TXT' octets='2923' target='http://www.rfc-editor.org/rfc/rfc1956.txt' />
+</reference>

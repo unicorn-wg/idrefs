@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3323'>
+
+<front>
+<title>A Privacy Mechanism for the Session Initiation Protocol (SIP)</title>
+<author initials='J.' surname='Peterson' fullname='J. Peterson'>
+<organization /></author>
+<date year='2002' month='November' /></front>
+
+<seriesInfo name='RFC' value='3323' />
+<format type='TXT' octets='54116' target='http://www.rfc-editor.org/rfc/rfc3323.txt' />
+</reference>

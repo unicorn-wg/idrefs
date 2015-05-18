@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4427'>
+
+<front>
+<title>Recovery (Protection and Restoration) Terminology for Generalized Multi-Protocol Label Switching (GMPLS)</title>
+<author initials='E.' surname='Mannie' fullname='E. Mannie'>
+<organization /></author>
+<author initials='D.' surname='Papadimitriou' fullname='D. Papadimitriou'>
+<organization /></author>
+<date year='2006' month='March' />
+<abstract>
+<t>This document defines a common terminology for Generalized Multi-Protocol Label Switching (GMPLS)-based recovery mechanisms (i.e., protection and restoration).  The terminology is independent of the underlying transport technologies covered by GMPLS.  This memo provides information for the Internet community.</t></abstract></front>
+
+<seriesInfo name='RFC' value='4427' />
+<format type='TXT' octets='43842' target='http://www.rfc-editor.org/rfc/rfc4427.txt' />
+</reference>

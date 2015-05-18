@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC1475'>
+
+<front>
+<title abbrev='TP/IX'>TP/IX: The Next Internet</title>
+<author initials='R.' surname='Ullmann' fullname='Robert Ullmann'>
+<organization>Process Software Corporation</organization>
+<address>
+<postal>
+<street>959 Concord Street</street>
+<city>Framingham</city>
+<region>MA</region>
+<code>01701</code>
+<country>US</country></postal>
+<phone>+1 508 879 6994 x226</phone>
+<email>Ariel@Process.COM</email></address></author>
+<date year='1993' month='June' />
+<abstract>
+<t>The first version of this memo, describing a possible next generation of Internet protocols, was written by the present author in the summer and fall of 1989, and circulated informally, including to the IESG, in December 1989.  A further informal note on the addressing, called "Toasternet Part II", was circulated on the IETF mail list during March of 1992.</t></abstract></front>
+
+<seriesInfo name='RFC' value='1475' />
+<format type='TXT' octets='77854' target='http://www.rfc-editor.org/rfc/rfc1475.txt' />
+</reference>

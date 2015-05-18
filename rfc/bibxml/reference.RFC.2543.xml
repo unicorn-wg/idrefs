@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2543'>
+
+<front>
+<title>SIP: Session Initiation Protocol</title>
+<author initials='M.' surname='Handley' fullname='Mark Handley'>
+<organization>AT&amp;T Center for Internet Research at ISCI (ACIRI)</organization>
+<address>
+<postal>
+<street>1947 Center St.</street>
+<street>Suite 600</street>
+<city>Berkeley</city>
+<region>CA</region>
+<code>94704-119</code>
+<country>US</country></postal>
+<email>mjh@aciri.org</email></address></author>
+<author initials='H.' surname='Schulzrinne' fullname='Henning Schulzrinne'>
+<organization>Dept. of Computer Science, Columbia University</organization>
+<address>
+<postal>
+<street>1214 Amsterdam Avenue</street>
+<city>New York</city>
+<region>NY</region>
+<code>10027</code>
+<country>US</country></postal>
+<email>schulzrinne@cs.columbia.edu</email></address></author>
+<author initials='E.' surname='Schooler' fullname='Eve Schooler'>
+<organization>California Institute of Technology</organization>
+<address>
+<postal>
+<street>Computer Science Department 256-80</street>
+<city>Pasadena</city>
+<region>CA</region>
+<code>91125</code>
+<country>US</country></postal>
+<email>schooler@cs.caltech.edu</email></address></author>
+<author initials='J.' surname='Rosenberg' fullname='Jonathan Rosenberg'>
+<organization>Lucent Technologies, Bell Laboratories</organization>
+<address>
+<postal>
+<street>101 Crawfords Corner Road</street>
+<street>Rm. 4C-526</street>
+<city>Holmdel</city>
+<region>NJ</region>
+<code>07733</code>
+<country>US</country></postal>
+<email>jdrosen@bell-labs.com</email></address></author>
+<date year='1999' month='March' />
+<abstract>
+<t>The Session Initiation Protocol (SIP) is an application-layer control (signaling) protocol for creating, modifying and terminating sessions with one or more participants. These sessions include Internet multimedia conferences, Internet telephone calls and multimedia distribution. Members in a session can communicate via multicast or via a mesh of unicast relations, or a combination of these.</t>
+<t>SIP invitations used to create sessions carry session descriptions which allow participants to agree on a set of compatible media types. SIP supports user mobility by proxying and redirecting requests to the user's current location. Users can register their current location.  SIP is not tied to any particular conference control protocol. SIP is designed to be independent of the lower-layer transport protocol and can be extended with additional capabilities.</t></abstract></front>
+
+<seriesInfo name='RFC' value='2543' />
+<format type='TXT' octets='338861' target='http://www.rfc-editor.org/rfc/rfc2543.txt' />
+</reference>

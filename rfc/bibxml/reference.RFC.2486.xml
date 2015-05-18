@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2486'>
+
+<front>
+<title>The Network Access Identifier</title>
+<author initials='B.' surname='Aboba' fullname='Bernard Aboba'>
+<organization>Microsoft Corporation</organization>
+<address>
+<postal>
+<street>One Microsoft Way</street>
+<city>Redmond</city>
+<region>WA</region>
+<code>98052</code>
+<country>USA</country></postal>
+<phone>+1 425 936 6605</phone>
+<email>bernarda@microsoft.com</email></address></author>
+<author initials='M.' surname='Beadles' fullname='Mark A. Beadles'>
+<organization>WorldCom Advanced Networks</organization>
+<address>
+<postal>
+<street>5000 Britton Rd.</street>
+<city>Hilliard</city>
+<region>OH</region>
+<code>43026</code>
+<country>USA</country></postal>
+<phone>+1 614 723 1941</phone>
+<email>mbeadles@wcom.net</email></address></author>
+<date year='1999' month='January' />
+<abstract>
+<t>
+   In order to enhance the interoperability of roaming and tunneling
+   services, it is desirable to have a standardized method for
+   identifying users.  This document proposes syntax for the Network
+   Access Identifier (NAI), the userID submitted by the client during
+   PPP authentication. It is expected that this will be of interest for
+   support of roaming as well as tunneling.  "Roaming capability" may be
+   loosely defined as the ability to use any one of multiple Internet
+   service providers (ISPs), while maintaining a formal, customer-vendor
+   relationship with only one.  Examples of where roaming capabilities
+   might be required include ISP "confederations" and ISP-provided
+   corporate network access support.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2486' />
+<format type='TXT' octets='14261' target='http://www.rfc-editor.org/rfc/rfc2486.txt' />
+<format type='HTML' octets='17418' target='http://xml.resource.org/public/rfc/html/rfc2486.html' />
+<format type='XML' octets='16506' target='http://xml.resource.org/public/rfc/xml/rfc2486.xml' />
+</reference>

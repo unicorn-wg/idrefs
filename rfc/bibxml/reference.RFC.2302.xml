@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2302'>
+
+<front>
+<title abbrev='TIFF'>Tag Image File Format (TIFF) - image/tiff MIME Sub-type Registration</title>
+<author initials='G.W.' surname='Parsons' fullname='Glenn W. Parsons'>
+<organization>Northern Telecom</organization>
+<address>
+<postal>
+<street>P.O. Box 3511, Station C</street>
+<street>Ottawa, ON  K1Y 4H7</street>
+<country>Canada</country></postal>
+<facsimile>+1-613-763-2697</facsimile>
+<email>Glenn.Parsons@Nortel.ca</email></address></author>
+<author initials='J.' surname='Rafferty' fullname='James Rafferty'>
+<organization>Human Communications</organization>
+<address>
+<postal>
+<street>12 Kevin Drive</street>
+<city>Danbury</city>
+<region>CT</region>
+<code>06811-2901</code>
+<country>USA</country></postal>
+<facsimile>+1-203-746-4367</facsimile>
+<email>Jrafferty@worldnet.att.net</email></address></author>
+<author initials='S.' surname='Zilles' fullname='Stephen Zilles'>
+<organization>Adobe Systems Inc.</organization>
+<address>
+<postal>
+<street>Mailstop W14</street>
+<street>345 Park Avenue</street>
+<street>Voice:  +1-408-536-4766</street>
+<city>San Jose</city>
+<region>CA</region>
+<code>95110-2704</code>
+<country>USA</country></postal>
+<email>szilles@adobe.com</email></address></author>
+<date year='1998' month='March' />
+<area>Applications</area>
+<keyword>TIFF</keyword>
+<keyword>multipurpose internet mail extensions</keyword>
+<abstract>
+<t>
+
+   This document describes the registration of the MIME sub-type
+
+   image/tiff.  The baseline encoding is defined by [TIFF].  This
+
+   document refines an earlier sub-type registration in RFC 1528
+
+   [TPC.INT].
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2302' />
+<format type='TXT' octets='14375' target='http://www.rfc-editor.org/rfc/rfc2302.txt' />
+<format type='XML' octets='15092' target='http://xml.resource.org/public/rfc/xml/rfc2302.xml' />
+</reference>

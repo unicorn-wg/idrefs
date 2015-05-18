@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0843'>
+
+<front>
+<title>Who talks TCP? - survey of 8 February 83</title>
+<author initials='D.' surname='Smallberg' fullname='D. Smallberg'>
+<organization /></author>
+<date year='1983' day='9' month='February' />
+<abstract>
+<t>The list of hosts was taken from the NIC hostname table of 3-Feb-83.</t></abstract></front>
+
+<seriesInfo name='RFC' value='843' />
+<format type='TXT' octets='46193' target='http://www.rfc-editor.org/rfc/rfc843.txt' />
+</reference>

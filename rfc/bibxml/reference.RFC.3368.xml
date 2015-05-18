@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC3368'>
+
+<front>
+<title>The 'go' URI Scheme for the Common Name Resolution Protocol</title>
+<author initials='M.' surname='Mealling' fullname='M. Mealling'>
+<organization /></author>
+<date year='2002' month='August' /></front>
+
+<seriesInfo name='RFC' value='3368' />
+<format type='TXT' octets='12726' target='http://www.rfc-editor.org/rfc/rfc3368.txt' />
+</reference>

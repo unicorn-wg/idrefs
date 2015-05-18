@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC4203'>
+
+<front>
+<title>OSPF Extensions in Support of Generalized Multi-Protocol Label Switching (GMPLS)</title>
+<author initials='K.' surname='Kompella' fullname='K. Kompella'>
+<organization /></author>
+<author initials='Y.' surname='Rekhter' fullname='Y. Rekhter'>
+<organization /></author>
+<date year='2005' month='October' />
+<abstract>
+<t>This document specifies encoding of extensions to the OSPF routing protocol in support of Generalized Multi-Protocol Label Switching (GMPLS). [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='4203' />
+<format type='TXT' octets='23130' target='http://www.rfc-editor.org/rfc/rfc4203.txt' />
+</reference>

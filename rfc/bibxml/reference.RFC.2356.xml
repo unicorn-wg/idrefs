@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC2356'>
+
+<front>
+<title abbrev='SKIP for Mobile IP'>Sun&apos;s SKIP Firewall Traversal for Mobile IP</title>
+<author initials='G.E.' surname='Montenegro' fullname='Gabriel E. Montenegro'>
+<organization>Sun Microsystems, Inc.</organization>
+<address>
+<postal>
+<street>901 San Antonio Road</street>
+<street>Mailstop UMPK 15-214</street>
+<street>Mountain View</street>
+<street>California 94303</street></postal>
+<phone>(415)786-6288</phone>
+<facsimile>(415)786-6445</facsimile>
+<email>gabriel.montenegro@Eng.Sun.COM</email></address></author>
+<author initials='V.' surname='Gupta' fullname='Vipul Gupta'>
+<organization>Sun Microsystems, Inc.</organization>
+<address>
+<postal>
+<street>901 San Antonio Road</street>
+<street>Mailstop UMPK 15-214</street>
+<street>Mountain View</street>
+<street>California 94303</street></postal>
+<phone>(415)786-3614</phone>
+<facsimile>(415)786-6445</facsimile>
+<email>vipul.gupta@Eng.Sun.COM</email></address></author>
+<date year='1998' month='June' />
+<area>Security</area>
+<area>Internet</area>
+<keyword>firewall</keyword>
+<keyword>SKIP</keyword>
+<keyword>mobile ip</keyword>
+<keyword>routing</keyword>
+<keyword>security</keyword>
+<keyword>simple key management for internet protocols</keyword>
+<keyword>wireless</keyword>
+<abstract>
+<t>
+   The Mobile IP specification establishes the mechanisms that enable a
+   mobile host to maintain and use the same IP address as it changes its
+   point of attachment to the network. Mobility implies higher security
+   risks than static operation, because the traffic may at times take
+   unforeseen network paths with unknown or unpredictable security
+   characteristics. The Mobile IP specification makes no provisions for
+   securing data traffic.  The mechanisms described in this document
+   allow a mobile node out on a public sector of the internet to
+   negotiate access past a SKIP firewall, and construct a secure channel
+   into its home network.
+</t>
+<t>
+   In addition to securing traffic, our mechanisms allow a mobile node
+   to roam into regions that (1) impose ingress filtering, and (2) use a
+   different address space.
+</t></abstract></front>
+
+<seriesInfo name='RFC' value='2356' />
+<format type='TXT' octets='53198' target='http://www.rfc-editor.org/rfc/rfc2356.txt' />
+<format type='XML' octets='53388' target='http://xml.resource.org/public/rfc/xml/rfc2356.xml' />
+</reference>

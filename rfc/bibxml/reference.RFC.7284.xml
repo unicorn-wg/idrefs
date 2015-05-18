@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC7284'>
+
+<front>
+<title>The Profile URI Registry</title>
+<author initials='M.' surname='Lanthaler' fullname='M. Lanthaler'>
+<organization /></author>
+<date year='2014' month='June' />
+<abstract>
+<t>This document defines a registry for profile URIs to be used in specifications standardizing profiles.</t></abstract></front>
+
+<seriesInfo name='RFC' value='7284' />
+<format type='TXT' octets='8848' target='http://www.rfc-editor.org/rfc/rfc7284.txt' />
+</reference>

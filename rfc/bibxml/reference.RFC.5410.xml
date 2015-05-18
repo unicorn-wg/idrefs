@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5410'>
+
+<front>
+<title>Multimedia Internet KEYing (MIKEY) General Extension Payload for Open Mobile Alliance BCAST 1.0</title>
+<author initials='A.' surname='Jerichow' fullname='A. Jerichow'>
+<organization /></author>
+<author initials='L.' surname='Piron' fullname='L. Piron'>
+<organization /></author>
+<date year='2009' month='January' /></front>
+
+<seriesInfo name='RFC' value='5410' />
+<format type='TXT' octets='12444' target='http://www.rfc-editor.org/rfc/rfc5410.txt' />
+</reference>

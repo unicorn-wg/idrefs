@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC5574'>
+
+<front>
+<title>RTP Payload Format for the Speex Codec</title>
+<author initials='G.' surname='Herlein' fullname='G. Herlein'>
+<organization /></author>
+<author initials='J.' surname='Valin' fullname='J. Valin'>
+<organization /></author>
+<author initials='A.' surname='Heggestad' fullname='A. Heggestad'>
+<organization /></author>
+<author initials='A.' surname='Moizard' fullname='A. Moizard'>
+<organization /></author>
+<date year='2009' month='June' />
+<abstract>
+<t>Speex is an open-source voice codec suitable for use in VoIP (Voice over IP) type applications.  This document describes the payload format for Speex-generated bit streams within an RTP packet.  Also included here are the necessary details for the use of Speex with the Session Description Protocol (SDP). [STANDARDS-TRACK]</t></abstract></front>
+
+<seriesInfo name='RFC' value='5574' />
+<format type='TXT' octets='27995' target='http://www.rfc-editor.org/rfc/rfc5574.txt' />
+</reference>

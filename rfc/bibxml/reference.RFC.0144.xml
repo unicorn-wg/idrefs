@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='RFC0144'>
+
+<front>
+<title>Data sharing on computer networks</title>
+<author initials='A.' surname='Shoshani' fullname='A. Shoshani'>
+<organization /></author>
+<date year='1971' month='April' /></front>
+
+<seriesInfo name='RFC' value='144' />
+<format type='TXT' octets='13744' target='http://www.rfc-editor.org/rfc/rfc144.txt' />
+</reference>
