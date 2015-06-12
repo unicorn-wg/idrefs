@@ -8,13 +8,13 @@
     <organization />
 </author>
 
-<date month='February' day='24' year='2015' />
+<date month='June' day='12' year='2015' />
 
 <abstract><t>This document defines encoding rules for representing configuration, state data, RPC input and output parameters, and notifications defined using YANG as JavaScript Object Notation (JSON) text.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-netmod-yang-json-03' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-netmod-yang-json-04' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-netmod-yang-json-03.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-netmod-yang-json-04.txt' />
 </reference>

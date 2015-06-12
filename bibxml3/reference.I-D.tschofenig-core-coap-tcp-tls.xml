@@ -20,13 +20,13 @@
     <organization />
 </author>
 
-<date month='April' day='8' year='2015' />
+<date month='June' day='10' year='2015' />
 
 <abstract><t>The Hypertext Transfer Protocol (HTTP) has been designed with TCP as an underlying transport protocol.  The Constrained Application Protocol (CoAP), which has been inspired by HTTP, has on the other hand been defined to make use of UDP.  Therefore, reliable delivery and a simple congestion control and flow control mechanism are provided by the message layer of the CoAP protocol.  A number of environments benefit from the use of CoAP directly over a reliable byte stream that already provides these services.  This document defines the use of CoAP over TCP as well as CoAP over TLS.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-tschofenig-core-coap-tcp-tls-03' />
+<seriesInfo name='Internet-Draft' value='draft-tschofenig-core-coap-tcp-tls-04' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-tschofenig-core-coap-tcp-tls-03.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-tschofenig-core-coap-tcp-tls-04.txt' />
 </reference>

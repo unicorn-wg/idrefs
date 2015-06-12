@@ -6,7 +6,7 @@
 <title>Binary Lexical Octet Ad-hoc Transport</title>
 <author initials='H.' surname='Kennedy' fullname='H. Kennedy'>
 <organization /></author>
-<date year='1 2002' month='April' />
+<date year='2002' month='April' />
 <abstract>
 <t>This document defines a reformulation of IP and two transport layer protocols (TCP and UDP) as XML applications.  This memo provides information for the Internet community.</t></abstract></front>
 

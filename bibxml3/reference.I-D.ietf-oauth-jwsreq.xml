@@ -12,13 +12,15 @@
     <organization />
 </author>
 
-<date month='November' day='12' year='2014' />
+<date month='May' day='29' year='2015' />
 
 <abstract><t>The authorization request in OAuth 2.0 utilizes query parameter serialization.  This specification defines the authorization request using JWT serialization.  The request is sent through "request" parameter or by reference through "request_uri" parameter that points to the JWT, allowing the request to be optionally signed and encrypted.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-oauth-jwsreq-01' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-oauth-jwsreq-02' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-oauth-jwsreq-01.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-oauth-jwsreq-02.txt' />
+<format type='PDF'
+        target='http://www.ietf.org/internet-drafts/draft-ietf-oauth-jwsreq-02.pdf' />
 </reference>

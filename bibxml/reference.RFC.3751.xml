@@ -6,7 +6,7 @@
 <title>Omniscience Protocol Requirements</title>
 <author initials='S.' surname='Bradner' fullname='S. Bradner'>
 <organization /></author>
-<date year='1 2004' month='April' />
+<date year='2004' month='April' />
 <abstract>
 <t>There have been a number of legislative initiatives in the U.S.  and elsewhere over the past few years to use the Internet to actively interfere with allegedly illegal activities of Internet users.  This memo proposes a number of requirements for a new protocol, the Omniscience Protocol, that could be used to enable such efforts.  This memo provides information for the Internet community.</t></abstract></front>
 

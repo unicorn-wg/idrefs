@@ -28,13 +28,13 @@
     <organization />
 </author>
 
-<date month='November' day='10' year='2014' />
+<date month='May' day='27' year='2015' />
 
 <abstract><t>This document defines an extension to the Port Control Protocol (PCP) allowing clients to manipulate sets of ports as a whole.  This is accomplished by a new MAP option: PORT_SET.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-pcp-port-set-07' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-pcp-port-set-09' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-pcp-port-set-07.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-pcp-port-set-09.txt' />
 </reference>

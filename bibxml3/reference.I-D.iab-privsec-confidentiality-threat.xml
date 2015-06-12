@@ -32,13 +32,13 @@
     <organization />
 </author>
 
-<date month='May' day='11' year='2015' />
+<date month='May' day='28' year='2015' />
 
 <abstract><t>Since the initial revelations of pervasive surveillance in 2013, several classes of attacks on Internet communications have been discovered.  In this document we develop a threat model that describes these attacks on Internet confidentiality.  We assume an attacker that is interested in undetected, indiscriminate eavesdropping.  The threat model is based on published, verified attacks.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-iab-privsec-confidentiality-threat-06' />
+<seriesInfo name='Internet-Draft' value='draft-iab-privsec-confidentiality-threat-07' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-iab-privsec-confidentiality-threat-06.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-iab-privsec-confidentiality-threat-07.txt' />
 </reference>

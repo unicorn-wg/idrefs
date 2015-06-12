@@ -16,13 +16,13 @@
     <organization />
 </author>
 
-<date month='February' day='25' year='2015' />
+<date month='May' day='25' year='2015' />
 
-<abstract><t>The CAPWAP control channel and data channel split architecture has some benefits, such as relieving the capacity pressure of the AC, which has been discussed in [I-D.ietf-opsawg-capwap-alt-tunnel] and [I-D.xue-opsawg-capwap-separation-capability].  However, only single- provider scenario is considered so far.  This document discusses the third-party WLAN service provider scenario (i.e.  multi-provider), and proposes to extend CAPWAP for supporting this use case.</t></abstract>
+<abstract><t>The CAPWAP control channel and data channel split architecture has some benefits, such as relieving the capacity pressure of the AC. However, the current documents are not specific to the multi-provider scenario.  This document discusses the third-party WLAN service provider scenario (i.e.  Virtual Network Operator, VNO), and proposes to extend CAPWAP for supporting this use case.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-you-opsawg-capwap-separation-for-mp-00' />
+<seriesInfo name='Internet-Draft' value='draft-you-opsawg-capwap-separation-for-mp-01' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-you-opsawg-capwap-separation-for-mp-00.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-you-opsawg-capwap-separation-for-mp-01.txt' />
 </reference>

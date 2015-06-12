@@ -24,13 +24,13 @@
     <organization />
 </author>
 
-<date month='December' day='1' year='2014' />
+<date month='June' day='9' year='2015' />
 
 <abstract><t>This document describes when and how an operator uses the technique of Mapping of Address and Port (MAP) for the IPv4 residual deployment in the IPv6-dominant domain.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-softwire-map-deployment-05' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-softwire-map-deployment-06' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-softwire-map-deployment-05.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-softwire-map-deployment-06.txt' />
 </reference>

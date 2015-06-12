@@ -3,7 +3,7 @@
 <reference anchor='RFC5784'>
 
 <front>
-<title>Sieve Email Filtering: Sieves and Display Directives in XML</title>
+<title>Sieve Email Filtering:  Sieves and Display Directives in XML</title>
 <author initials='N.' surname='Freed' fullname='N. Freed'>
 <organization /></author>
 <author initials='S.' surname='Vedam' fullname='S. Vedam'>

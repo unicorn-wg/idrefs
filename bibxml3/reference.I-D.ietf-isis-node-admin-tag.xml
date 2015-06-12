@@ -40,15 +40,15 @@
     <organization />
 </author>
 
-<date month='March' day='9' year='2015' />
+<date month='June' day='1' year='2015' />
 
 <abstract><t>This document describes an extension to IS-IS protocol [ISO10589], [RFC1195] to add an optional operational capability, that allows tagging and grouping of the nodes in an IS-IS domain.  This allows simple management and easy control over route and path selection, based on local configured policies.  This document describes the protocol extensions to disseminate per- node administrative tags in IS-IS protocols.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-isis-node-admin-tag-01' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-isis-node-admin-tag-02' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-isis-node-admin-tag-01.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-isis-node-admin-tag-02.txt' />
 <format type='PDF'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-isis-node-admin-tag-01.pdf' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-isis-node-admin-tag-02.pdf' />
 </reference>

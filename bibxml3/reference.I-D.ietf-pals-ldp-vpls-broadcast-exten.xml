@@ -32,13 +32,13 @@
     <organization />
 </author>
 
-<date month='November' day='22' year='2014' />
+<date month='June' day='5' year='2015' />
 
 <abstract><t>This document proposes a simple extension to LDP-VPLS to improve bandwidth efficiency for Ethernet broadcast/multicast traffic within a carrier's network. It makes use of unidirectional point-to-multipoint PseudoWires to minimise payload frame duplication on physical links.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-pals-ldp-vpls-broadcast-exten-00' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-pals-ldp-vpls-broadcast-exten-01' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-pals-ldp-vpls-broadcast-exten-00.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-pals-ldp-vpls-broadcast-exten-01.txt' />
 </reference>

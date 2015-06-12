@@ -28,13 +28,13 @@
     <organization />
 </author>
 
-<date month='April' day='15' year='2015' />
+<date month='June' day='5' year='2015' />
 
 <abstract><t>This document defines an abstract (generic) YANG data model for network/service topologies and inventories.  The model serves as a base model which is augmented with technology-specific details in other, more specific topology and inventory models.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-i2rs-yang-network-topo-00' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-i2rs-yang-network-topo-01' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-i2rs-yang-network-topo-00.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-i2rs-yang-network-topo-01.txt' />
 </reference>

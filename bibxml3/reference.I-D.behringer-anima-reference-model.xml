@@ -24,13 +24,13 @@
     <organization />
 </author>
 
-<date month='April' day='24' year='2015' />
+<date month='June' day='11' year='2015' />
 
 <abstract><t>This document describes a reference model for Autonomic Networking. The goal is to define how the various elements in an autonomic context work together, to describe their interfaces and relations. While the document is written as generally as possible, the initial solutions are limited to the chartered scope of the WG.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-behringer-anima-reference-model-01' />
+<seriesInfo name='Internet-Draft' value='draft-behringer-anima-reference-model-02' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-behringer-anima-reference-model-01.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-behringer-anima-reference-model-02.txt' />
 </reference>

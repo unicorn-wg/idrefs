@@ -4,11 +4,11 @@
 <front>
 <title>TRILL: Edge Directory Assist Mechanisms</title>
 
-<author initials='L' surname='Dunbar' fullname='Linda Dunbar'>
+<author initials='D' surname='Eastlake' fullname='Donald Eastlake'>
     <organization />
 </author>
 
-<author initials='D' surname='Eastlake' fullname='Donald Eastlake'>
+<author initials='L' surname='Dunbar' fullname='Linda Dunbar'>
     <organization />
 </author>
 
@@ -24,13 +24,13 @@
     <organization />
 </author>
 
-<date month='November' day='10' year='2014' />
+<date month='May' day='21' year='2015' />
 
-<abstract><t>This document describes mechanisms for providing directory service to TRILL (Transparent Interconnection of Lots of Links) edge switches. The directory information provided can be used in reducing multi- destination traffic, particularly ARP/ND and unknown unicast flooding.</t></abstract>
+<abstract><t>This document describes mechanisms for providing directory service to TRILL (Transparent Interconnection of Lots of Links) edge switches. The directory information provided can be used in reducing multi- destination traffic, particularly ARP/ND and unknown unicast flooding. It can also be used to detect traffic with forged source addresses.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-trill-directory-assist-mechanisms-01' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-trill-directory-assist-mechanisms-02' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-trill-directory-assist-mechanisms-01.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-trill-directory-assist-mechanisms-02.txt' />
 </reference>

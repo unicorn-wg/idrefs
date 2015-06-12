@@ -2,19 +2,23 @@
 
 <reference anchor='I-D.sarikaya-6man-sadr-overview'>
 <front>
-<title>Source Address Dependent Routing and Source Address Selection for IPv6 Hosts</title>
+<title>Source Address Dependent Routing and Source Address Selection for IPv6 Hosts: Problem Space Overview</title>
 
 <author initials='B' surname='Sarikaya' fullname='Behcet Sarikaya'>
     <organization />
 </author>
 
-<date month='March' day='31' year='2015' />
+<author initials='M' surname='Boucadair' fullname='Mohamed Boucadair'>
+    <organization />
+</author>
 
-<abstract><t>This document presents the source address dependent routing from the host perspective.  Multihomed hosts and hosts with multiple interfaces are considered.  Different architectures are introduced and with their help, why source address selection and next hop resolution in view of source address dependent routing is needed is explained.  The document concludes with an informative guidelines on the different solution approaches.</t></abstract>
+<date month='June' day='9' year='2015' />
+
+<abstract><t>This document presents the source address dependent routing (SADR) problem space from the host perspective.  Both multihomed hosts and hosts with multiple interfaces are considered.  Several network architectures are presented to illustrate why source address selection and next hop resolution in view of source address dependent routing is needed.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-sarikaya-6man-sadr-overview-06' />
+<seriesInfo name='Internet-Draft' value='draft-sarikaya-6man-sadr-overview-07' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-sarikaya-6man-sadr-overview-06.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-sarikaya-6man-sadr-overview-07.txt' />
 </reference>

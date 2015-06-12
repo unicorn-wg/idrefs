@@ -6,7 +6,7 @@
 <title>UTF-9 and UTF-18 Efficient Transformation Formats of Unicode</title>
 <author initials='M.' surname='Crispin' fullname='M. Crispin'>
 <organization /></author>
-<date year='1 2005' month='April' />
+<date year='2005' month='April' />
 <abstract>
 <t>ISO-10646 defines a large character set called the Universal Character Set (UCS), which encompasses most of the world's writing systems. The same set of codepoints is defined by Unicode, which further defines additional character properties and other implementation details. By policy of the relevant standardization committees, changes to Unicode and amendments and additions to ISO/IEC 10646 track each other, so that the character repertoires and code point assignments remain in synchronization.&lt;/t>&lt;t> The current representation formats for Unicode (UTF-7, UTF-8, UTF-16) are not storage and computation efficient on platforms that utilize the 9 bit nonet as a natural storage unit instead of the 8 bit octet.&lt;/t>&lt;t> This document describes a transformation format of Unicode that takes advantage of the nonet so that the format will be storage and computation efficient. This memo provides information for the Internet community.</t></abstract></front>
 

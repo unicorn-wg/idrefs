@@ -12,15 +12,15 @@
     <organization />
 </author>
 
-<date month='May' day='1' year='2015' />
+<date month='May' day='17' year='2015' />
 
 <abstract><t>This document is a collection of implementation reports from vendors, consortiums, and researchers who have implemented one or more of the standards published from the IETF INCident Handling (INCH) and Management Incident Lightweight Exchange (MILE) working groups.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-mile-implementreport-02' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-mile-implementreport-03' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-mile-implementreport-02.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-mile-implementreport-03.txt' />
 <format type='PDF'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-mile-implementreport-02.pdf' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-mile-implementreport-03.pdf' />
 </reference>

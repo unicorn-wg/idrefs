@@ -6,7 +6,7 @@
 <title>The Security Flag in the IPv4 Header</title>
 <author initials='S.' surname='Bellovin' fullname='S. Bellovin'>
 <organization /></author>
-<date year='1 2003' month='April' />
+<date year='2003' month='April' />
 <abstract>
 <t>Firewalls, packet filters, intrusion detection systems, and the like often have difficulty distinguishing between packets that have malicious intent and those that are merely unusual.  We define a security flag in the IPv4 header as a means of distinguishing the two cases.  This memo provides information for the Internet community.</t></abstract></front>
 

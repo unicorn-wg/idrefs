@@ -8,7 +8,7 @@
 <organization /></author>
 <author initials='H.' surname='Alvestrand' fullname='H. Alvestrand'>
 <organization /></author>
-<date year='1 2008' month='April' />
+<date year='2008' month='April' />
 <abstract>
 <t>Many issues have been identified with the use of general-purpose character sets for internationalized domain names and similar purposes.  This memo describes a fully unified coded character set for scripts based on Latin, Greek, Cyrillic, and Chinese (CJK) characters.  It is not a complete specification of that character set.  This memo provides information for the Internet community.</t></abstract></front>
 

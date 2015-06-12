@@ -12,13 +12,13 @@
     <organization />
 </author>
 
-<date month='June' day='2' year='2015' />
+<date month='June' day='10' year='2015' />
 
 <abstract><t>This document describes some aspects of the "prep tool" that is expected to be created when the new RFC v3 specification is deployed. This draft is just a way to keep track of the ideas; it is not (currently) expected to be published as an RFC.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-hoffman-rfcv3-preptool-02' />
+<seriesInfo name='Internet-Draft' value='draft-hoffman-rfcv3-preptool-03' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-hoffman-rfcv3-preptool-02.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-hoffman-rfcv3-preptool-03.txt' />
 </reference>

@@ -36,13 +36,13 @@
     <organization />
 </author>
 
-<date month='October' day='3' year='2014' />
+<date month='May' day='29' year='2015' />
 
 <abstract><t>The Stream Control Transmission Protocol (SCTP) supports multi-homing for providing network fault tolerance.  However, mainly one path is used for data transmission.  Only timer-based retransmissions are carried over other paths as well.  This document describes how multiple paths can be used simultaneously for transmitting user messages.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-tuexen-tsvwg-sctp-multipath-09' />
+<seriesInfo name='Internet-Draft' value='draft-tuexen-tsvwg-sctp-multipath-10' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-tuexen-tsvwg-sctp-multipath-09.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-tuexen-tsvwg-sctp-multipath-10.txt' />
 </reference>

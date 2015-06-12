@@ -16,13 +16,13 @@
     <organization />
 </author>
 
-<date month='October' day='8' year='2014' />
+<date month='May' day='28' year='2015' />
 
 <abstract><t>This document describes a new option known as an Inter-AS option D to the 'Multi-AS Backbones' section of [RFC4364].  This option combines VPN VRFs at the Autonomous System Border Router (ASBR) as described in 'Option A' with the distribution of labeled VPN-IP routes as described in 'Option B'.  In addition, this option allows for a data plane consisting of two methods of traffic forwarding between attached ASBR pairs.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-mapathak-interas-ab-01' />
+<seriesInfo name='Internet-Draft' value='draft-mapathak-interas-ab-02' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-mapathak-interas-ab-01.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-mapathak-interas-ab-02.txt' />
 </reference>

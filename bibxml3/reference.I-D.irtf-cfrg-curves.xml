@@ -12,10 +12,6 @@
     <organization />
 </author>
 
-<author initials='S' surname='Turner' fullname='Sean Turner'>
-    <organization />
-</author>
-
 <date month='March' day='24' year='2015' />
 
 <abstract><t>This memo describes an algorithm for deterministically generating parameters for elliptic curves over prime fields offering high practical security in cryptographic applications, including Transport Layer Security (TLS) and X.509 certificates.  It also specifies a specific curve at the ~128-bit security level and a specific curve at the ~224-bit security level.</t></abstract>

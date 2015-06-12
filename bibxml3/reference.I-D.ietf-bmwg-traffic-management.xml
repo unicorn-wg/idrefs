@@ -12,13 +12,13 @@
     <organization />
 </author>
 
-<date month='March' day='29' year='2015' />
+<date month='June' day='9' year='2015' />
 
 <abstract><t>This framework describes a practical methodology for benchmarking the traffic management capabilities of networking devices (i.e. policing, shaping, etc.). The goal is to provide a repeatable test method that objectively compares performance of the device's traffic management capabilities and to specify the means to benchmark traffic management with representative application traffic.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-bmwg-traffic-management-04' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-bmwg-traffic-management-06' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-bmwg-traffic-management-04.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-bmwg-traffic-management-06.txt' />
 </reference>

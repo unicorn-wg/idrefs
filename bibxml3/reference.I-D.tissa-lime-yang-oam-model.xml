@@ -28,13 +28,13 @@
     <organization />
 </author>
 
-<date month='April' day='16' year='2015' />
+<date month='June' day='1' year='2015' />
 
-<abstract><t>Operations, Administration, and Maintenance (OAM) are important networking functions that allow operators to:</t></abstract>
+<abstract><t>This document presents base YANG Data model for OAM.  It provides a protocol-independent and technology-independent abstraction of key OAM constructs.  Based model presented here can be extended to include technology specific details.  Leading to uniformity between OAM technologies and support nested OAM workflows (i.e., performing OAM functions at different layers through a unified interface).</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-tissa-lime-yang-oam-model-04' />
+<seriesInfo name='Internet-Draft' value='draft-tissa-lime-yang-oam-model-05' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-tissa-lime-yang-oam-model-04.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-tissa-lime-yang-oam-model-05.txt' />
 </reference>

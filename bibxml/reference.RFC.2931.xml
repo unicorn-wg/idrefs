@@ -3,7 +3,7 @@
 <reference anchor='RFC2931'>
 
 <front>
-<title>DNS Request and Transaction Signatures ( SIG(0)s)</title>
+<title>DNS Request and Transaction Signatures ( SIG(0)s )</title>
 <author initials='D.' surname='Eastlake' fullname='D. Eastlake'>
 <organization /></author>
 <date year='2000' month='September' />

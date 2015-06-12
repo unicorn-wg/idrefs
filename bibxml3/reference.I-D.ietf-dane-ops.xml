@@ -12,13 +12,13 @@
     <organization />
 </author>
 
-<date month='May' day='13' year='2015' />
+<date month='June' day='2' year='2015' />
 
-<abstract><t>This document clarifies and updates the DNS-Based Authentication of Named Entities (DANE) TLSA specification based on subsequent implementation experience.  It also contains guidance for implementers, operators and protocol developers who want to make use of DANE records.</t></abstract>
+<abstract><t>This document clarifies and updates the DNS-Based Authentication of Named Entities (DANE) TLSA specification (RFC6698) based on subsequent implementation experience.  It also contains guidance for implementers, operators and protocol developers who want to make use of DANE records.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-dane-ops-08' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-dane-ops-12' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-dane-ops-08.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-dane-ops-12.txt' />
 </reference>

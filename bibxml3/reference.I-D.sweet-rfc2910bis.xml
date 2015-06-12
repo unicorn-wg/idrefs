@@ -12,13 +12,13 @@
     <organization />
 </author>
 
-<date month='May' day='8' year='2015' />
+<date month='June' day='10' year='2015' />
 
 <abstract><t>This document is one of a set of documents, which together describe all aspects of a new Internet Printing Protocol (IPP).  IPP is an application level protocol that can be used for distributed printing using Internet tools and technologies.  This document defines the rules for encoding IPP operations and IPP attributes into a new Internet mime media type called "application/ipp".  This document also defines the rules for transporting over HTTP a message body whose Content-Type is "application/ipp".  This document defines a new scheme named 'ipp' for identifying IPP printers and jobs.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-sweet-rfc2910bis-02' />
+<seriesInfo name='Internet-Draft' value='draft-sweet-rfc2910bis-04' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-sweet-rfc2910bis-02.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-sweet-rfc2910bis-04.txt' />
 </reference>

@@ -20,13 +20,13 @@
     <organization />
 </author>
 
-<date month='June' day='27' year='2014' />
+<date month='June' day='3' year='2015' />
 
-<abstract><t>The Segment Routing mechanism can be leveraged to realize the service path layer functionality of the Service Function Chaining (i.e, steering traffic through the service function path).  This document describes how to advertise service functions and their corresponding attributes (e.g.,segment ID) using IS-IS.</t></abstract>
+<abstract><t>Source Packet Routing in Networking (SPRING) WG specifies a special MPLS-based source routing mechanism, called MPLS-SPRING.  Such source routing mechanism can be leveraged to realize the service path layer functionality of service function chaining (i.e, steering traffic through a particular service function path) by encoding the service function path information as an explicit path information in the form of an MPLS label stack.  This document describes how to advertise service functions and their corresponding attributes (e.g.,segment ID) using IS-IS.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-xu-isis-service-function-adv-02' />
+<seriesInfo name='Internet-Draft' value='draft-xu-isis-service-function-adv-03' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-xu-isis-service-function-adv-02.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-xu-isis-service-function-adv-03.txt' />
 </reference>

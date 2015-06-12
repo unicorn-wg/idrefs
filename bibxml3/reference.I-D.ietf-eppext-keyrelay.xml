@@ -12,13 +12,13 @@
     <organization />
 </author>
 
-<date month='May' day='1' year='2015' />
+<date month='June' day='9' year='2015' />
 
 <abstract><t>This document describes an Extensible Provisioning Protocol (EPP) mapping for a key relay object that relays DNSSEC key material between EPP clients using the poll queue defined in [RFC5730].  This key relay mapping will help facilitate changing the DNS operator of a domain while keeping the DNSSEC chain of trust intact.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-eppext-keyrelay-02' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-eppext-keyrelay-03' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-eppext-keyrelay-02.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-eppext-keyrelay-03.txt' />
 </reference>

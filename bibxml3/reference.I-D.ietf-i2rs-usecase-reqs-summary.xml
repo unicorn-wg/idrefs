@@ -12,15 +12,15 @@
     <organization />
 </author>
 
-<date month='November' day='6' year='2014' />
+<date month='May' day='19' year='2015' />
 
 <abstract><t>The I2RS Working Group (WG) has described a set of use cases that the I2RS systems could fulfil.  This document summarizes these use cases. It is designed to provide requirements that will aid the design of the I2RS architecture, Information Models, Data Models, Security, and protocols.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-i2rs-usecase-reqs-summary-00' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-i2rs-usecase-reqs-summary-01' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-i2rs-usecase-reqs-summary-00.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-i2rs-usecase-reqs-summary-01.txt' />
 <format type='PDF'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-i2rs-usecase-reqs-summary-00.pdf' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-i2rs-usecase-reqs-summary-01.pdf' />
 </reference>

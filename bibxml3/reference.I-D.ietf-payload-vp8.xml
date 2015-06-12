@@ -24,13 +24,13 @@
     <organization />
 </author>
 
-<date month='March' day='23' year='2015' />
+<date month='June' day='5' year='2015' />
 
 <abstract><t>This memo describes an RTP payload format for the VP8 video codec. The payload format has wide applicability, as it supports applications from low bit-rate peer-to-peer usage, to high bit-rate video conferences.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-payload-vp8-15' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-payload-vp8-16' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-payload-vp8-15.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-payload-vp8-16.txt' />
 </reference>

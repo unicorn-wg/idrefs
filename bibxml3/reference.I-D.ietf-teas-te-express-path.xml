@@ -28,13 +28,13 @@
     <organization />
 </author>
 
-<date month='March' day='26' year='2015' />
+<date month='June' day='9' year='2015' />
 
 <abstract><t>In certain networks, it is critical to consider network performance criteria when selecting the path for an explicitly routed RSVP-TE LSP.  Such performance criteria can include latency, jitter, and loss or other indications such as the conformance to link performance objectives and non-RSVP TE traffic load.  This specification uses network performance data, such as is advertised via the OSPF and ISIS TE metric extensions (defined outside the scope of this document) to perform such path selections.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-teas-te-express-path-01' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-teas-te-express-path-02' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-teas-te-express-path-01.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-teas-te-express-path-02.txt' />
 </reference>

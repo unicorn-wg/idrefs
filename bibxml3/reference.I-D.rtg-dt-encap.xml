@@ -36,13 +36,13 @@
     <organization />
 </author>
 
-<date month='March' day='9' year='2015' />
+<date month='May' day='21' year='2015' />
 
 <abstract><t>The IETF Routing Area director has chartered a design team to look at common issues for the different data plane encapsulations being discussed in the NVO3 and SFC working groups and also in the BIER BoF, and also to look at the relationship between such encapsulations in the case that they might be used at the same time.  The purpose of this design team is to discover, discuss and document considerations across the different encapsulations in the different WGs/BoFs so that we can reduce the number of wheels that need to be reinvented in the future.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-rtg-dt-encap-01' />
+<seriesInfo name='Internet-Draft' value='draft-rtg-dt-encap-02' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-rtg-dt-encap-01.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-rtg-dt-encap-02.txt' />
 </reference>

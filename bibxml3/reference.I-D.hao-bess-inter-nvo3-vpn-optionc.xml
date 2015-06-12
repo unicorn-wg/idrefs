@@ -16,13 +16,17 @@
     <organization />
 </author>
 
-<date month='October' day='27' year='2014' />
+<author initials='O' surname='Zia' fullname='Osama Zia'>
+    <organization />
+</author>
+
+<date month='May' day='20' year='2015' />
 
 <abstract><t>This draft describes inter-as option-C solution between NVO3 network and MPLS/IP VPN network. BGP label routing information is extended to create multi-hop forwarding path between local NVE and remote PE. Also to ensure VPNv4 route exchange correctly between local NVE and remote PE, VN ID space should be partitioned, only the VN IDs of lower 1 Million can be used for interconnection with outer MPLS VPN network using option-C solution, the rest 15 Million VN IDs can only be used for intra DC.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-hao-bess-inter-nvo3-vpn-optionc-00' />
+<seriesInfo name='Internet-Draft' value='draft-hao-bess-inter-nvo3-vpn-optionc-01' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-hao-bess-inter-nvo3-vpn-optionc-00.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-hao-bess-inter-nvo3-vpn-optionc-01.txt' />
 </reference>

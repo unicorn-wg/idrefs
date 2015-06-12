@@ -24,13 +24,13 @@
     <organization />
 </author>
 
-<date month='May' day='13' year='2015' />
+<date month='June' day='8' year='2015' />
 
-<abstract><t>To prevent sending excessive traffic to an endpoint, periodic consent needs to be obtained from that remote endpoint.  This document describes a consent mechanism using a new Session Traversal Utilities for NAT (STUN) usage.</t></abstract>
+<abstract><t>To prevent WebRTC applications, such as browsers, from launching attacks by sending media to unwilling victims, periodic consent to send needs to be obtained from remote endpoints.  This document describes a consent mechanism using a new Session Traversal Utilities for NAT (STUN) usage.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-rtcweb-stun-consent-freshness-13' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-rtcweb-stun-consent-freshness-14' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-rtcweb-stun-consent-freshness-13.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-rtcweb-stun-consent-freshness-14.txt' />
 </reference>

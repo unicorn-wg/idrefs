@@ -20,13 +20,13 @@
     <organization />
 </author>
 
-<date month='October' day='25' year='2014' />
+<date month='June' day='1' year='2015' />
 
 <abstract><t>This memo describes a one-way measurement of IP packet end to end delay.  Delay detection is enabled by a sender of an IP Internet Protocol datagram placing a timestamp in the packet declaring the time at which it was sent.  The receiver of the datagram can then judge how recently it was sent and choose a policy action, which could include discarding packets deemed to be 'too old' (having a timestamp too far into the past) or 'too new' (having a timestamp that is too far into the future).</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-weis-delay-detection-01' />
+<seriesInfo name='Internet-Draft' value='draft-weis-delay-detection-02' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-weis-delay-detection-01.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-weis-delay-detection-02.txt' />
 </reference>

@@ -20,13 +20,13 @@
     <organization />
 </author>
 
-<date month='May' day='12' year='2015' />
+<date month='May' day='18' year='2015' />
 
 <abstract><t>As IPTV deployments grow in number and size, service providers are looking for solutions that minimize the service disruption due to faults in the IP network carrying the packets for these services. This document describes a mechanism for minimizing packet loss in a network when node or link failures occur.  Multicast only Fast Re- Route (MoFRR) works by making simple enhancements to multicast routing protocols such as PIM and mLDP.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-rtgwg-mofrr-07' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-rtgwg-mofrr-08' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-rtgwg-mofrr-07.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-rtgwg-mofrr-08.txt' />
 </reference>

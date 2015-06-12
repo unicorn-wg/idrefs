@@ -12,13 +12,13 @@
     <organization />
 </author>
 
-<date month='October' day='27' year='2014' />
+<date month='May' day='25' year='2015' />
 
-<abstract><t>This document specifies a multi-path extension to the Optimized Link State Routing Protocol version 2 (OLSRv2) to discover multiple disjoint paths, so as to improve reliability of the OLSRv2 protocol. The interoperability with OLSRv2 is retained.</t></abstract>
+<abstract><t>This document specifies a multi-path extension for the Optimized Link State Routing Protocol version 2 (OLSRv2) to discover multiple disjoint paths, so as to improve reliability of the OLSRv2 protocol. The interoperability with OLSRv2 is retained.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-manet-olsrv2-multipath-02' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-manet-olsrv2-multipath-03' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-manet-olsrv2-multipath-02.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-manet-olsrv2-multipath-03.txt' />
 </reference>

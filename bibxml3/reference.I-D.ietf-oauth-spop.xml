@@ -16,13 +16,13 @@
     <organization />
 </author>
 
-<date month='May' day='16' year='2015' />
+<date month='June' day='6' year='2015' />
 
 <abstract><t>OAuth 2.0 public clients utilizing the Authorization Code Grant are susceptible to the authorization code interception attack.  This specification describes the attack as well as a technique to mitigate against the threat.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-oauth-spop-11' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-oauth-spop-12' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-oauth-spop-11.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-oauth-spop-12.txt' />
 </reference>

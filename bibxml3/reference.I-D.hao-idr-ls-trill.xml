@@ -12,13 +12,13 @@
     <organization />
 </author>
 
-<date month='May' day='17' year='2015' />
+<date month='May' day='18' year='2015' />
 
 <abstract><t>This draft describes a TRILL link state and MAC address reachability information distribution mechanism using a BGP LS extension. External components such as an SDN Controller can leverage the information for topology visibility, troubleshooting, network automation, etc.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-hao-idr-ls-trill-00' />
+<seriesInfo name='Internet-Draft' value='draft-hao-idr-ls-trill-01' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-hao-idr-ls-trill-00.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-hao-idr-ls-trill-01.txt' />
 </reference>

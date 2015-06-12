@@ -20,13 +20,13 @@
     <organization />
 </author>
 
-<date month='December' day='3' year='2014' />
+<date month='June' day='3' year='2015' />
 
 <abstract><t>This document specifies a new Remote Authentication Dial-In User Service (RADIUS) attribute to carry the Multicast-Prefixes-64 information, aiming to delivery the Multicast and Unicast IPv6 Prefixes to be used to build multicast and unicast IPv4-Embedded IPv6 addresses. this RADIUS attribute is defined based on the equivalent DHCPv6 OPTION_v6_PREFIX64 option.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-hu-softwire-multicast-radius-ext-07' />
+<seriesInfo name='Internet-Draft' value='draft-hu-softwire-multicast-radius-ext-08' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-hu-softwire-multicast-radius-ext-07.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-hu-softwire-multicast-radius-ext-08.txt' />
 </reference>

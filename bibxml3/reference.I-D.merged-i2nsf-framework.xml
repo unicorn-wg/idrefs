@@ -4,11 +4,15 @@
 <front>
 <title>Framework for Interface to Network Security Functions</title>
 
-<author initials='L' surname='Dunbar' fullname='Linda Dunbar'>
+<author initials='E' surname='Ed' fullname='Ed'>
     <organization />
 </author>
 
 <author initials='D' surname='Lopez' fullname='Diego Lopez'>
+    <organization />
+</author>
+
+<author initials='L' surname='Dunbar' fullname='Linda Dunbar'>
     <organization />
 </author>
 
@@ -28,13 +32,13 @@
     <organization />
 </author>
 
-<date month='April' day='21' year='2015' />
+<date month='June' day='8' year='2015' />
 
-<abstract><t>This document describes the framework for Interface to Network Security Functions and defines a reference model along with functional components.</t></abstract>
+<abstract><t>In the design of interfaces to allow for the provisioning of network security functions (NSFs), a critical consideration is to prevent the creation of implied constraints.  This document makes the recommendation that such interfaces be designed from the paradigm of processing packets and flows on the network. NSFs ultimately are packet-processing engines that inspect packets traversing networks, either directly or in context to sessions to which the packet is associated. This document serves as the framework for detailed work items for I2NSF.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-merged-i2nsf-framework-00' />
+<seriesInfo name='Internet-Draft' value='draft-merged-i2nsf-framework-02' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-merged-i2nsf-framework-00.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-merged-i2nsf-framework-02.txt' />
 </reference>

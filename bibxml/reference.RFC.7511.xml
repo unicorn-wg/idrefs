@@ -6,7 +6,7 @@
 <title>Scenic Routing for IPv6</title>
 <author initials='M.' surname='Wilhelm' fullname='M. Wilhelm'>
 <organization /></author>
-<date year='1 2015' month='April' />
+<date year='2015' month='April' />
 <abstract>
 <t>This document specifies a new routing scheme for the current version of the Internet Protocol version 6 (IPv6) in the spirit of "Green IT", whereby packets will be routed to get as much fresh-air time as possible.</t></abstract></front>
 

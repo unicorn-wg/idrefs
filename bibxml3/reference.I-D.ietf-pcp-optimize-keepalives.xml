@@ -20,13 +20,13 @@
     <organization />
 </author>
 
-<date month='November' day='11' year='2014' />
+<date month='May' day='18' year='2015' />
 
 <abstract><t>This document describes how Port Control Protocol is useful in reducing NAT and firewall keepalive messages for a variety of applications.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-pcp-optimize-keepalives-05' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-pcp-optimize-keepalives-06' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-pcp-optimize-keepalives-05.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-pcp-optimize-keepalives-06.txt' />
 </reference>

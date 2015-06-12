@@ -16,13 +16,13 @@
     <organization />
 </author>
 
-<date month='July' day='4' year='2014' />
+<date month='June' day='7' year='2015' />
 
 <abstract><t>Maintaining the current best practices with communities, ISPs and enterprises that are assigned a 4-octet AS number may want the BGP UPDATE messages they receive from their customers or peers to include a 4-octet AS specific BGP extended community.  This document defines a new sub-type within the four-octet AS specific extended community to facilitate this practice.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-idr-as4octet-extcomm-generic-subtype-07' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-idr-as4octet-extcomm-generic-subtype-08' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-idr-as4octet-extcomm-generic-subtype-07.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-idr-as4octet-extcomm-generic-subtype-08.txt' />
 </reference>

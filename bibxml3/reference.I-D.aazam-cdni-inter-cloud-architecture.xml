@@ -8,13 +8,13 @@
     <organization />
 </author>
 
-<date month='November' day='20' year='2014' />
+<date month='May' day='17' year='2015' />
 
-<abstract><t>Rapidly increasing digital media has triggered the importance of cloud computing. Cloud    computing provides ease of management and ubiquitous access facility to the growing digital content. The ratio with which digital content has been increasing, it now requires multiple clouds to interoperate for the purpose of scalability, efficient service provisioning, and better management. This scenario is known as inter-cloud computing or cloud federation. On the other hand, increase in multimedia content requires much better service provisioning, responsiveness, and efficient transcoding. Thoroughly designing the architecture of Media Cloud Inter-Cloud Computing is today's requirement. This document focuses on this important issue and presents architectural fundamentals and key concerns in Media Inter-Cloud Computing.</t></abstract>
+<abstract><t>With the rapid rise in digital content, cloud computing has become the focus of academia and industry. Cloud computing comes with sophisticated technologies for data storage, management, and distribution. Ubiquitous access facility and pay-as-you-go billing features are additional advantages associated with the cloud computing. However, the massive digital content, more importantly multimedia, has to be managed in a more effective way. Heterogeneous cloud customers, accessing different customized services, with more advanced access networks and devices available today, makes it tough at times for solitary clouds to fulfill the needs. In such cases, different clouds have to interoperate and federate their resources. This scenario is called inter-cloud computing of cloud federation. Since the concept of inter-cloud computing is still very new, it lacks standard architecture. This document focuses on presenting architectural fundamentals and key concerns associated with inter-cloud computing.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-aazam-cdni-inter-cloud-architecture-01' />
+<seriesInfo name='Internet-Draft' value='draft-aazam-cdni-inter-cloud-architecture-02' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-aazam-cdni-inter-cloud-architecture-01.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-aazam-cdni-inter-cloud-architecture-02.txt' />
 </reference>

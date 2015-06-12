@@ -24,13 +24,13 @@
     <organization />
 </author>
 
-<date month='December' day='15' year='2014' />
+<date month='May' day='24' year='2015' />
 
 <abstract><t>This draft addresses the problem of the size and freshness of the endnode learning table in edge RBridges, by allowing endnodes to volunteer for endnode learning and encapsulation/decapsulation.  Such an endnode is known as a "smart endnode".  Only the attached RBridge can distinguish a "smart endnode" from a "normal endnode".  The smart endnode uses the nickname of the attached RBridge, so this solution does not consume extra nicknames.  The solution also enables Fine Grained Label aware endnodes.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-trill-smart-endnodes-00' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-trill-smart-endnodes-01' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-trill-smart-endnodes-00.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-trill-smart-endnodes-01.txt' />
 </reference>

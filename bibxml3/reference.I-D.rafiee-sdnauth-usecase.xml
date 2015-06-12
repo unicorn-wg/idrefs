@@ -12,13 +12,13 @@
     <organization />
 </author>
 
-<date month='February' day='6' year='2015' />
+<date month='June' day='5' year='2015' />
 
-<abstract><t>This document aims to explain the requirement and usecases for a secure authentication and authorization of an app to foreign controllers to enforce policy in order to offer better services to end systems. It also covers the automation of authentication of two controllers and the possibility of two controllers to exchange any information to each other, e.g. end system's master key.</t></abstract>
+<abstract><t>This document aims to explain the requirement and usecases for a secure authentication model for different SDN components (e.g. SDN switch, application, etc.). It also covers the standard structure for the communications of two SDN controllers or an application to different SDN controllers via a mediator service.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-rafiee-sdnauth-usecase-00' />
+<seriesInfo name='Internet-Draft' value='draft-rafiee-sdnauth-usecase-01' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-rafiee-sdnauth-usecase-00.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-rafiee-sdnauth-usecase-01.txt' />
 </reference>

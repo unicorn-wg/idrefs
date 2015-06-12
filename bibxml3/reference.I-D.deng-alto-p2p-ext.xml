@@ -24,13 +24,13 @@
     <organization />
 </author>
 
-<date month='November' day='20' year='2014' />
+<date month='June' day='10' year='2015' />
 
 <abstract><t>The purpose of the Application-Layer Traffic Optimization (ALTO) protocol is to provide better-than-random peer selection for P2P networks. The base ALTO protocol focuses, only on providing network topological location information (i.e., network maps and cost maps). However, the peer selection method of an endpoint may also use other properties, such as geographic location. This document defines a framework and an extended set of End Point properties (EP properties) to extend the base ALTO protocol.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-deng-alto-p2p-ext-05' />
+<seriesInfo name='Internet-Draft' value='draft-deng-alto-p2p-ext-06' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-deng-alto-p2p-ext-05.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-deng-alto-p2p-ext-06.txt' />
 </reference>

@@ -4,6 +4,14 @@
 <front>
 <title>Analysis of Existing Work for I2NSF</title>
 
+<author initials='S' surname='Hares' fullname='Susan Hares'>
+    <organization />
+</author>
+
+<author initials='R' surname='Moskowitz' fullname='Robert Moskowitz'>
+    <organization />
+</author>
+
 <author initials='H' surname='Hosnieh' fullname='Hosnieh'>
     <organization />
 </author>
@@ -12,13 +20,13 @@
     <organization />
 </author>
 
-<date month='February' day='5' year='2015' />
+<date month='June' day='5' year='2015' />
 
 <abstract><t>This document analysis the status of the arts in industries and the existing IETF work/protocols that are relevant to I2NSF.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-zhang-gap-analysis-01' />
+<seriesInfo name='Internet-Draft' value='draft-zhang-gap-analysis-03' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-zhang-gap-analysis-01.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-zhang-gap-analysis-03.txt' />
 </reference>

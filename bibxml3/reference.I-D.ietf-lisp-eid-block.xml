@@ -20,13 +20,13 @@
     <organization />
 </author>
 
-<date month='April' day='27' year='2015' />
+<date month='May' day='19' year='2015' />
 
 <abstract><t>This is a direction to IANA to allocate a /32 IPv6 prefix for use with the Locator/ID Separation Protocol (LISP).  The prefix will be used for local intra-domain routing and global endpoint identification, by sites deploying LISP as EID (Endpoint IDentifier) addressing space.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-lisp-eid-block-11' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-lisp-eid-block-12' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-lisp-eid-block-11.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-lisp-eid-block-12.txt' />
 </reference>

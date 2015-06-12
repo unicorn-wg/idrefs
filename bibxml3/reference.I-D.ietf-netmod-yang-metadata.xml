@@ -8,13 +8,13 @@
     <organization />
 </author>
 
-<date month='April' day='16' year='2015' />
+<date month='June' day='10' year='2015' />
 
 <abstract><t>This document defines a YANG extension statement that allows for defining syntax of metadata annotions in YANG modules.  The document also specifies XML and JSON encoding of annotations and other rules for annotating instances of YANG data nodes.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-netmod-yang-metadata-00' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-netmod-yang-metadata-01' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-netmod-yang-metadata-00.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-netmod-yang-metadata-01.txt' />
 </reference>

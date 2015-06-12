@@ -20,13 +20,17 @@
     <organization />
 </author>
 
-<date month='March' day='23' year='2015' />
+<author initials='G' surname='Mirsky' fullname='Greg Mirsky'>
+    <organization />
+</author>
+
+<date month='June' day='11' year='2015' />
 
 <abstract><t>This document defines a YANG data model that can be used to configure and manage Bidirectional Forwarding Detection (BFD).</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-zheng-bfd-yang-01' />
+<seriesInfo name='Internet-Draft' value='draft-zheng-bfd-yang-03' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-zheng-bfd-yang-01.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-zheng-bfd-yang-03.txt' />
 </reference>

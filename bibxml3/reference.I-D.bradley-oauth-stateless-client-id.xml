@@ -8,13 +8,19 @@
     <organization />
 </author>
 
-<date month='November' day='12' year='2014' />
+<author initials='J' surname='Richer' fullname='Justin Richer'>
+    <organization />
+</author>
+
+<date month='May' day='21' year='2015' />
 
 <abstract><t>This draft provides a method for communicating information about an OAuth client through its client identifier allowing for fully stateless operation.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-bradley-oauth-stateless-client-id-00' />
+<seriesInfo name='Internet-Draft' value='draft-bradley-oauth-stateless-client-id-01' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-bradley-oauth-stateless-client-id-00.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-bradley-oauth-stateless-client-id-01.txt' />
+<format type='PDF'
+        target='http://www.ietf.org/internet-drafts/draft-bradley-oauth-stateless-client-id-01.pdf' />
 </reference>

@@ -24,13 +24,13 @@
     <organization />
 </author>
 
-<date month='January' day='26' year='2015' />
+<date month='June' day='4' year='2015' />
 
 <abstract><t>In a number of environments, a component external to a network is called upon to perform computations based on the network topology and current state of the connections within the network, including traffic engineering information.  This is information typically distributed by IGP routing protocols within the network.  This document describes a mechanism by which links state and traffic engineering information can be collected from networks and shared with external components using the BGP routing protocol.  This is achieved using a new BGP Network Layer Reachability Information (NLRI) encoding format.  The mechanism is applicable to physical and virtual IGP links.  The mechanism described is subject to policy control.  Applications of this technique include Application Layer Traffic Optimization (ALTO) servers, and Path Computation Elements (PCEs).</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-idr-ls-distribution-10' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-idr-ls-distribution-11' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-idr-ls-distribution-10.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-idr-ls-distribution-11.txt' />
 </reference>

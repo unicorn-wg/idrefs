@@ -12,13 +12,13 @@
     <organization />
 </author>
 
-<date month='April' day='24' year='2015' />
+<date month='May' day='21' year='2015' />
 
 <abstract><t>Several review teams ensure specific types of review are performed on Internet-Drafts as they progress towards becoming RFCs.  The tools used by these teams to assign and track reviews would benefit from tighter integration to the Datatracker.  This document discusses requirements for improving those tools without disrupting current work flows.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-sparks-genarea-review-tracker-01' />
+<seriesInfo name='Internet-Draft' value='draft-sparks-genarea-review-tracker-02' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-sparks-genarea-review-tracker-01.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-sparks-genarea-review-tracker-02.txt' />
 </reference>

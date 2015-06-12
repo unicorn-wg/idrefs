@@ -24,13 +24,13 @@
     <organization />
 </author>
 
-<date month='October' day='8' year='2014' />
+<date month='May' day='28' year='2015' />
 
 <abstract><t>This document describes a simple procedure that allows "legacy" BGP speakers to exchange route target membership information in BGP without using mechanisms specified in [RFC4684].  The intention of the proposed technique is to help in partial deployment scenarios and is not meant to replace [RFC4684].</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-idr-legacy-rtc-04' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-idr-legacy-rtc-05' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-idr-legacy-rtc-04.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-idr-legacy-rtc-05.txt' />
 </reference>

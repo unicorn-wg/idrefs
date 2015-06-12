@@ -24,13 +24,13 @@
     <organization />
 </author>
 
-<date month='May' day='5' year='2015' />
+<date month='May' day='18' year='2015' />
 
-<abstract><t>This memo provides extensions to Generalized Multi-Protocol Label Switching (GMPLS) signaling for control of Wavelength Switched Optical Networks (WSON).  Such extensions are applicable in WSONs under a number of conditions including: (a) when optional processing, such as regeneration, must be configured to occur at specific nodes along a path, (b) where equipment must be configured to accept an optical signal with specific attributes, or (c) where equipment must be configured to output an optical signal with specific attributes. In addition this memo provides mechanisms to support distributed wavelength assignment with choice in distributed wavelength assignment algorithms. This draft updates RFC 6205.</t></abstract>
+<abstract><t>This document provides extensions to Generalized Multi-Protocol Label Switching (GMPLS) signaling for control of Wavelength Switched Optical Networks (WSON).  Such extensions are applicable in WSONs under a number of conditions including: (a) when optional processing, such as regeneration, must be configured to occur at specific nodes along a path, (b) where equipment must be configured to accept an optical signal with specific attributes, or (c) where equipment must be configured to output an optical signal with specific attributes. This document provides mechanisms to support distributed wavelength assignment with choice in distributed wavelength assignment algorithms.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-ccamp-wson-signaling-11' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-ccamp-wson-signaling-12' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-ccamp-wson-signaling-11.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-ccamp-wson-signaling-12.txt' />
 </reference>

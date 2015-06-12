@@ -8,13 +8,13 @@
     <organization />
 </author>
 
-<date month='August' day='19' year='2014' />
+<date month='June' day='11' year='2015' />
 
-<abstract><t>The Digital Object Identifier (DOI) is a widely used system that assigns unique identifiers to digital documents that can be queried and managed in a consistent fashion.  We propose a method to assign DOIs to past and future RFCs.</t></abstract>
+<abstract><t>The Digital Object Identifier (DOI) is a widely used system that assigns unique identifiers to digital documents that can be queried and managed in a consistent fashion.  We describe the way that DOIs are assigned to past and future RFCs.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-iab-doi-02' />
+<seriesInfo name='Internet-Draft' value='draft-iab-doi-04' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-iab-doi-02.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-iab-doi-04.txt' />
 </reference>

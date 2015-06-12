@@ -20,13 +20,13 @@
     <organization />
 </author>
 
-<date month='October' day='26' year='2014' />
+<date month='May' day='30' year='2015' />
 
-<abstract><t>This document describes an IS-IS auto-configuration technology.  The key mechanisms of this technology are IS-IS NET (Network Entity Title) self-generation, duplication detection and duplication resolution.  This technology fits the environment where plug-and-play is expected, e.g., home networks and small or medium size enterprise networks.</t></abstract>
+<abstract><t>This document specifies an IS-IS auto-configuration technology.  The key mechanisms of this technology are IS-IS NET (Network Entity Title) self-generation, duplication detection and duplication resolution.  This technology fits the environment where plug-and-play is expected, e.g., home networks and small or medium size enterprise networks.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-liu-isis-auto-conf-03' />
+<seriesInfo name='Internet-Draft' value='draft-liu-isis-auto-conf-04' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-liu-isis-auto-conf-03.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-liu-isis-auto-conf-04.txt' />
 </reference>

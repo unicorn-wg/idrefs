@@ -16,13 +16,13 @@
     <organization />
 </author>
 
-<date month='February' day='23' year='2015' />
+<date month='June' day='9' year='2015' />
 
 <abstract><t>This document describes how unexpected traffic flows can emerge across an autonomous system, as the result of other autonomous systems filtering, or restricting the propagation of more specific prefixes.  We provide a review of the techniques to detect the occurrence of this issue and defend against it.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-grow-filtering-threats-05' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-grow-filtering-threats-06' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-grow-filtering-threats-05.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-grow-filtering-threats-06.txt' />
 </reference>

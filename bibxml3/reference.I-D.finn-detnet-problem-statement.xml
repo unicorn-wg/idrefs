@@ -12,13 +12,13 @@
     <organization />
 </author>
 
-<date month='October' day='23' year='2014' />
+<date month='June' day='11' year='2015' />
 
 <abstract><t>This paper documents the needs in various industries to establish multi-hop paths for characterized flows with deterministic properties .</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-finn-detnet-problem-statement-01' />
+<seriesInfo name='Internet-Draft' value='draft-finn-detnet-problem-statement-03' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-finn-detnet-problem-statement-01.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-finn-detnet-problem-statement-03.txt' />
 </reference>

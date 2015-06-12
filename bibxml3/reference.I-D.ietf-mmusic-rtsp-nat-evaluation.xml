@@ -12,13 +12,13 @@
     <organization />
 </author>
 
-<date month='April' day='20' year='2015' />
+<date month='May' day='19' year='2015' />
 
 <abstract><t>This document describes several Network Address Translator (NAT) traversal techniques that were considered to be used for establishing the RTP media flows controlled by the Real-time Streaming Protocol (RTSP).  Each technique includes a description of how it would be used, the security implications of using it and any other deployment considerations it has.  There are also discussions on how NAT traversal techniques relate to firewalls and how each technique can be applied in different use cases.  These findings were used when selecting the NAT traversal for RTSP 2.0, which is specified in a separate document.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-mmusic-rtsp-nat-evaluation-15' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-mmusic-rtsp-nat-evaluation-16' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-mmusic-rtsp-nat-evaluation-15.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-mmusic-rtsp-nat-evaluation-16.txt' />
 </reference>

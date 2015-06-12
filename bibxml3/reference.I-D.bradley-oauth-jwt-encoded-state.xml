@@ -16,13 +16,15 @@
     <organization />
 </author>
 
-<date month='November' day='12' year='2014' />
+<date month='May' day='20' year='2015' />
 
 <abstract><t>This draft provides a method for a client to encode one or more elements encoding information about the session into the OAuth 2 "state" parameter.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-bradley-oauth-jwt-encoded-state-03' />
+<seriesInfo name='Internet-Draft' value='draft-bradley-oauth-jwt-encoded-state-04' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-bradley-oauth-jwt-encoded-state-03.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-bradley-oauth-jwt-encoded-state-04.txt' />
+<format type='PDF'
+        target='http://www.ietf.org/internet-drafts/draft-bradley-oauth-jwt-encoded-state-04.pdf' />
 </reference>

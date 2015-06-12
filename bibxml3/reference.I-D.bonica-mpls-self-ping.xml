@@ -32,13 +32,13 @@
     <organization />
 </author>
 
-<date month='February' day='13' year='2015' />
+<date month='May' day='18' year='2015' />
 
-<abstract><t>LSP Self-ping is a new, light-weight protocol that ingress LSRs can use to verify an LSPs readiness to carry traffic.  LSP Self-ping does not consume control plane resources on the egress LSR.  When an ingress LSR executes LSP Self-ping procedures, it constructs a probe message.  The probe message is an IP datagram whose destination address represents an interface on the ingress LSR.  The ingress LSR forwards the probe through the LSP under test.  If the LSP is ready to forward traffic, the egress LSR receives the probe.  Because the probe is addressed to the ingress LSR, the egress LSR forwards the probe back to the ingress.  When the ingress LSR receives the probe, it has verified LSP readiness without consuming control plane resources at the egress LSR.</t></abstract>
+<abstract><t>When certain RSVP-TE optimizations are implemented, ingress LSRs can receive RSVP RESV messages before forwarding state has been installed on all downstream nodes.  According to the RSVP-TE specification, the ingress LSR can forward traffic through an LSP as soon as it receives a RESV message.  However, if the ingress LSR forwards traffic through the LSP before forwarding state has been installed on all downstream nodes, traffic can be lost.  This memo describes LSP Self-ping.  When an ingress LSR receives an RESV message, it can invoke LSP Self-ping procedures to ensure that forwarding state has been installed on all downstream nodes.  LSP Self-ping is an extremely light-weight mechanism.  It does not consume control plane resources on transit or egress LSRs.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-bonica-mpls-self-ping-04' />
+<seriesInfo name='Internet-Draft' value='draft-bonica-mpls-self-ping-06' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-bonica-mpls-self-ping-04.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-bonica-mpls-self-ping-06.txt' />
 </reference>

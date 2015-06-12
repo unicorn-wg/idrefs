@@ -8,10 +8,6 @@
     <organization />
 </author>
 
-<author initials='S' surname='Turner' fullname='Sean Turner'>
-    <organization />
-</author>
-
 <date month='January' day='15' year='2015' />
 
 <abstract><t>This document provides an overview of a security extension to the Border Gateway Protocol (BGP) referred to as BGPsec.  BGPsec improves security for BGP routing.</t></abstract>

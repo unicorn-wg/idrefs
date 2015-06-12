@@ -16,15 +16,15 @@
     <organization />
 </author>
 
-<date month='March' day='2' year='2015' />
+<date month='June' day='9' year='2015' />
 
 <abstract><t>The Dynamic Host Configuration Protocol for IPv6 (DHCPv6) has been extended with a Leasequery capability that allows a requestor to request information about DHCPv6 bindings.  That mechanism is limited to queries for DHCPv6 binding data updates prior to the time the DHCPv6 server receives the Leasequery request.  Continuous update of an external requestor with Leasequery data is sometimes desired. This document expands on the DHCPv6 Leasequery protocol, and allows for active transfer of real-time DHCPv6 binding information data via TCP.  This document also updates DHCPv6 Bulk Leasequery (RFC5460) by adding new options.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-dhc-dhcpv6-active-leasequery-02' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-dhc-dhcpv6-active-leasequery-03' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-dhc-dhcpv6-active-leasequery-02.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-dhc-dhcpv6-active-leasequery-03.txt' />
 <format type='PDF'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-dhc-dhcpv6-active-leasequery-02.pdf' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-dhc-dhcpv6-active-leasequery-03.pdf' />
 </reference>

@@ -24,13 +24,13 @@
     <organization />
 </author>
 
-<date month='March' day='7' year='2015' />
+<date month='May' day='19' year='2015' />
 
 <abstract><t>This document summarizes the problems and current practices of energy efficient protocol implementation on constrained devices, mostly about how to make the protocols within IETF scope behave energy friendly.  This document also summarizes the impact of link layer protocol power saving behaviors to the upper layer protocols, so that they can coordinately make the system energy efficient.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-lwig-energy-efficient-02' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-lwig-energy-efficient-03' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-lwig-energy-efficient-02.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-lwig-energy-efficient-03.txt' />
 </reference>

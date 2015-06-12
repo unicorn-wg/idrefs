@@ -28,13 +28,13 @@
     <organization />
 </author>
 
-<date month='April' day='14' year='2015' />
+<date month='June' day='7' year='2015' />
 
 <abstract><t>OSPFv2 requires functional extension beyond what can readily be done with the fixed-format Link State Advertisements (LSAs) as described in RFC 2328.  This document defines OSPF opaque LSAs based on Type- Length-Value (TLV) tuples that can be used to associate additional attributes with prefixes or links.  Dependent on the application, these prefixes and links may or not be advertised in the fixed-format LSAs.  The OSPF opaque LSAs are optional and fully backward compatible.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-ospf-prefix-link-attr-04' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-ospf-prefix-link-attr-06' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-ospf-prefix-link-attr-04.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-ospf-prefix-link-attr-06.txt' />
 </reference>

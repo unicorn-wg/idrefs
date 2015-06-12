@@ -24,13 +24,13 @@
     <organization />
 </author>
 
-<date month='April' day='29' year='2015' />
+<date month='May' day='26' year='2015' />
 
 <abstract><t>This document specifies a new PCP functional element denoted as a PCP Proxy.  The PCP Proxy relays PCP requests received from PCP clients to upstream PCP server(s).  A typical deployment usage of this function is to help establish successful PCP communications for PCP clients that can not be configured with the address of a PCP server located more than one hop away.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-pcp-proxy-07' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-pcp-proxy-08' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-pcp-proxy-07.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-pcp-proxy-08.txt' />
 </reference>

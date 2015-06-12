@@ -10,7 +10,7 @@
 <organization /></author>
 <author initials='IO.' surname='zmoelnig' fullname='IO. zmoelnig'>
 <organization /></author>
-<date year='1 2007' month='April' />
+<date year='2007' month='April' />
 <abstract>
 <t>This document specifies a method for encapsulating and transmitting IPv4/IPv6 packets over the Semaphore Flag Signal System (SFSS).  This memo provides information for the Internet community.</t></abstract></front>
 

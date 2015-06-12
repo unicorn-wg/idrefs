@@ -24,15 +24,17 @@
     <organization />
 </author>
 
-<date month='April' day='23' year='2015' />
+<author initials='P' surname='Fan' fullname='Peng Fan'>
+    <organization />
+</author>
+
+<date month='June' day='10' year='2015' />
 
 <abstract><t>This document describes extensions to the Bidirectional Forwarding Detection (BFD) protocol to measure BFD stability.  Specifically, it describes a mechanism for detection of BFD frame loss.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ashesh-bfd-stability-02' />
+<seriesInfo name='Internet-Draft' value='draft-ashesh-bfd-stability-03' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ashesh-bfd-stability-02.txt' />
-<format type='PDF'
-        target='http://www.ietf.org/internet-drafts/draft-ashesh-bfd-stability-02.pdf' />
+        target='http://www.ietf.org/internet-drafts/draft-ashesh-bfd-stability-03.txt' />
 </reference>

@@ -8,13 +8,13 @@
     <organization />
 </author>
 
-<date month='March' day='6' year='2015' />
+<date month='May' day='26' year='2015' />
 
-<abstract><t>When making routing and resource allocation decisions, Diameter nodes currently have no generic mechanism to determine the relative priority of Diameter requests.  This document defines a mechanism to allow Diameter endpoints to indicate the relative priority of Diameter requests/transactions/messages.  With this information Diameter nodes can factor the relative priority of requests/transactions/messages into routing, resource allocation and overload abatement decisions.</t></abstract>
+<abstract><t>When making routing and resource allocation decisions, Diameter nodes currently have no generic mechanism to determine the relative priority of Diameter messages.  This document defines a mechanism to allow Diameter endpoints to indicate the relative priority of Diameter transactions.  With this information Diameter nodes can factor that priority into routing, resource allocation and overload abatement decisions.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-donovan-dime-drmp-00' />
+<seriesInfo name='Internet-Draft' value='draft-donovan-dime-drmp-01' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-donovan-dime-drmp-00.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-donovan-dime-drmp-01.txt' />
 </reference>

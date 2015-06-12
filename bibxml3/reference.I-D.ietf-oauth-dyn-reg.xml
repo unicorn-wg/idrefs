@@ -24,13 +24,13 @@
     <organization />
 </author>
 
-<date month='May' day='5' year='2015' />
+<date month='May' day='28' year='2015' />
 
 <abstract><t>This specification defines mechanisms for dynamically registering OAuth 2.0 clients with authorization servers.  Registration requests send a set of desired client metadata values to the authorization server.  The resulting registration responses return a client identifier to use at the authorization server and the client metadata values registered for the client.  The client can then use this registration information to communicate with the authorization server using the OAuth 2.0 protocol.  This specification also defines a set of common client metadata fields and values for clients to use during registration.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-oauth-dyn-reg-29' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-oauth-dyn-reg-30' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-oauth-dyn-reg-29.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-oauth-dyn-reg-30.txt' />
 </reference>

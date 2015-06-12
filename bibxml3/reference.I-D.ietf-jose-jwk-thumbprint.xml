@@ -12,13 +12,13 @@
     <organization />
 </author>
 
-<date month='March' day='3' year='2015' />
+<date month='May' day='27' year='2015' />
 
-<abstract><t>This specification defines a means of computing a thumbprint value (a.k.a. digest) of a key represented as a JSON Web Key (JWK).  This value can be used for identifying or selecting the key that is the subject of the thumbprint.</t></abstract>
+<abstract><t>This specification defines a method for computing a hash value over a JSON Web Key (JWK).  It defines which fields in a JWK are used in the hash computation, the method of creating a canonical form for those fields, and how to convert the resulting Unicode string into a byte sequence to be hashed.  The resulting hash value can be used for identifying or selecting the key represented by the JWK that is the subject of the thumbprint.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-jose-jwk-thumbprint-04' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-jose-jwk-thumbprint-05' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-jose-jwk-thumbprint-04.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-jose-jwk-thumbprint-05.txt' />
 </reference>
