@@ -1,37 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1562'>
-
+<reference  anchor='RFC1562' target='http://www.rfc-editor.org/info/rfc1562'>
 <front>
-<title abbrev='Naming Guidelines for the AARNet X.500'>Naming Guidelines for the AARNet X.500 Directory Service</title>
-<author initials='G.' surname='Michaelson' fullname='George G. Michaelson'>
-<organization>The University of Queensland, The Prentice Centre</organization>
-<address>
-<postal>
-<street />
-<city>St Lucia</city>
-<region>Queensland</region>
-<code>Q 4072</code>
-<country>AU</country></postal>
-<phone>+61 7 3654079</phone>
-<facsimile>+61 7 3654477</facsimile>
-<email>G.Michaelson@cc.uq.oz.au</email></address></author>
-<author initials='M.' surname='Prior' fullname='Mark R. Prior'>
-<organization>The University of Adelaide, Information Technology Division</organization>
-<address>
-<postal>
-<street />
-<city>Adelaide</city>
-<region>SA</region>
-<code>5005</code>
-<country>AU</country></postal>
-<phone>+61 8 3035680</phone>
-<facsimile>+61 8 3034400</facsimile>
-<email>mrp@itd.adelaide.edu.au</email></address></author>
+<title>Naming Guidelines for the AARNet X.500 Directory Service</title>
+<author initials='G.' surname='Michaelson' fullname='G. Michaelson'><organization /></author>
+<author initials='M.' surname='Prior' fullname='M. Prior'><organization /></author>
 <date year='1993' month='December' />
-<abstract>
-<t>AARNet is a member network of the global Internet and participates in the global Internet X.500 based Directory Service. A number of RFC's have been issued that make recommendations that alter or supplement the OSI/ETU standards for X.500. In general, these RFCs will be followed by the AARNet Directory Service.  However, in certain cases we wish to align ourselves with our national ISO body (Standards Australia) rather than the Internet where they conflict.  In naming, we have chosen to align ourselves with Standards Australia and this document notes the difference in our approach to the Internet guidelines suggested in RFC 1384.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1562' />
-<format type='TXT' octets='6884' target='http://www.rfc-editor.org/rfc/rfc1562.txt' />
+<abstract><t>This document is an AARNet (Australian Academic and Research Network) Engineering Note (AEN-001).  AARNet Engineering Notes are engineering documents of the AARNet Engineering Working Group, and record current or proposed operational practices related to the provision of Internetworking services within Australia, and AARNet in particular. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1562'/>
+<seriesInfo name='DOI' value='10.17487/RFC1562'/>
 </reference>

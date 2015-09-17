@@ -1,21 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC4452'>
-
+<reference  anchor='RFC4452' target='http://www.rfc-editor.org/info/rfc4452'>
 <front>
-<title>The "info" URI Scheme for Information Assets with Identifiers in Public Namespaces</title>
-<author initials='H.' surname='Van de Sompel' fullname='H. Van de Sompel'>
-<organization /></author>
-<author initials='T.' surname='Hammond' fullname='T. Hammond'>
-<organization /></author>
-<author initials='E.' surname='Neylon' fullname='E. Neylon'>
-<organization /></author>
-<author initials='S.' surname='Weibel' fullname='S. Weibel'>
-<organization /></author>
+<title>The &quot;info&quot; URI Scheme for Information Assets with Identifiers in Public Namespaces</title>
+<author initials='H.' surname='Van de Sompel' fullname='H. Van de Sompel'><organization /></author>
+<author initials='T.' surname='Hammond' fullname='T. Hammond'><organization /></author>
+<author initials='E.' surname='Neylon' fullname='E. Neylon'><organization /></author>
+<author initials='S.' surname='Weibel' fullname='S. Weibel'><organization /></author>
 <date year='2006' month='April' />
-<abstract>
-<t>This document defines the "info" Uniform Resource Identifier (URI) scheme for information assets with identifiers in public namespaces.  Namespaces participating in the "info" URI scheme are regulated by an "info" Registry mechanism.  This memo provides information for the Internet community.</t></abstract></front>
-
-<seriesInfo name='RFC' value='4452' />
-<format type='TXT' octets='36408' target='http://www.rfc-editor.org/rfc/rfc4452.txt' />
+<abstract><t>This document defines the &quot;info&quot; Uniform Resource Identifier (URI) scheme for information assets with identifiers in public namespaces. Namespaces participating in the &quot;info&quot; URI scheme are regulated by an &quot;info&quot; Registry mechanism.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='4452'/>
+<seriesInfo name='DOI' value='10.17487/RFC4452'/>
 </reference>

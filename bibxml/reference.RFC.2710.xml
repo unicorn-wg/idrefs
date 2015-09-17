@@ -1,46 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2710'>
-
+<reference  anchor='RFC2710' target='http://www.rfc-editor.org/info/rfc2710'>
 <front>
-<title abbrev='Multicast Listener Discovery for IPv6'>Multicast Listener Discovery (MLD) for IPv6</title>
-<author initials='S.' surname='Deering' fullname='Stephen E. Deering'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134-1706</code>
-<country>US</country></postal>
-<phone>+1 408 527 8213</phone>
-<email>deering@cisco.com</email></address></author>
-<author initials='W.' surname='Fenner' fullname='William C. Fenner'>
-<organization>AT &amp; T Research</organization>
-<address>
-<postal>
-<street>75 Willow Road</street>
-<city>Menlo Park</city>
-<region>CA</region>
-<code>94025</code>
-<country>US</country></postal>
-<phone>+1 650 867 6073</phone>
-<email>fenner@research.att.com</email></address></author>
-<author initials='B.' surname='Haberman' fullname='Brian Haberman'>
-<organization>IBM Corporation</organization>
-<address>
-<postal>
-<street>800 Park Office Drive</street>
-<city>Research Triangle Park</city>
-<region>NC</region>
-<code>27709</code>
-<country>US</country></postal>
-<phone>+1 919 254 2673</phone>
-<email>haberman@raleigh.ibm.com</email></address></author>
+<title>Multicast Listener Discovery (MLD) for IPv6</title>
+<author initials='S.' surname='Deering' fullname='S. Deering'><organization /></author>
+<author initials='W.' surname='Fenner' fullname='W. Fenner'><organization /></author>
+<author initials='B.' surname='Haberman' fullname='B. Haberman'><organization /></author>
 <date year='1999' month='October' />
-<abstract>
-<t>This document specifies the protocol used by an IPv6 router to discover the presence of multicast listeners (that is, nodes wishing to receive multicast packets) on its directly attached links, and to discover specifically which multicast addresses are of interest to those neighboring nodes.  This protocol is referred to as Multicast Listener Discovery or MLD.  MLD is derived from version 2 of IPv4's Internet Group Management Protocol, IGMPv2.  One important difference to note is that MLD uses ICMPv6 (IP Protocol 58)  essage types, rather than IGMP (IP Protocol 2) message types.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2710' />
-<format type='TXT' octets='46838' target='http://www.rfc-editor.org/rfc/rfc2710.txt' />
+<abstract><t>This document specifies the protocol used by an IPv6 router to discover the presence of multicast listeners (that is, nodes wishing to receive multicast packets) on its directly attached links, and to discover specifically which multicast addresses are of interest to those neighboring nodes.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2710'/>
+<seriesInfo name='DOI' value='10.17487/RFC2710'/>
 </reference>

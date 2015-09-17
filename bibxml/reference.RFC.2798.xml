@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2798'>
-
+<reference  anchor='RFC2798' target='http://www.rfc-editor.org/info/rfc2798'>
 <front>
-<title abbrev='The LDAP inetOrgPerson Object Class'>Definition of the inetOrgPerson LDAP Object Class</title>
-<author initials='M.' surname='Smith' fullname='Mark Smith'>
-<organization>Netscape Communications Corp</organization>
-<address>
-<postal>
-<street>501 E. Middlefield Rd.</street>
-<street>Mailstop MV068</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043</code>
-<country>US</country></postal>
-<phone>+1 650 937 3477</phone>
-<email>mcs@netscape.com</email></address></author>
+<title>Definition of the inetOrgPerson LDAP Object Class</title>
+<author initials='M.' surname='Smith' fullname='M. Smith'><organization /></author>
 <date year='2000' month='April' />
-<abstract>
-<t>While the X.500 standards define many useful attribute typesand object classes, they do not define a person object class that meets the requirements found in today's Internet and Intranet directory service deployments.  We define a new object class called inetOrgPerson for use in LDAP and X.500 directory services that extends the X.521 standard organizationalPerson class to meet these needs.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2798' />
-<format type='TXT' octets='32929' target='http://www.rfc-editor.org/rfc/rfc2798.txt' />
+<abstract><t>We define a new object class called inetOrgPerson for use in LDAP and X.500 directory services that extends the X.521 standard organizationalPerson class to meet these needs.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2798'/>
+<seriesInfo name='DOI' value='10.17487/RFC2798'/>
 </reference>

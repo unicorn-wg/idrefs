@@ -1,40 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2137'>
-
+<reference  anchor='RFC2137' target='http://www.rfc-editor.org/info/rfc2137'>
 <front>
-<title abbrev='SDNSDU'>Secure Domain Name System Dynamic Update</title>
-<author initials='D.E.' surname='Eastlake' fullname='Donald E. Eastlake, 3rd'>
-<organization>CyberCash, Inc.</organization>
-<address>
-<postal>
-<street>318 Acton Street</street>
-<street>Carlisle</street>
-<street>MA 01741</street>
-<country>USA</country></postal>
-<phone>+1 508-287-4877</phone>
-<email>dee@cybercash.com</email></address></author>
+<title>Secure Domain Name System Dynamic Update</title>
+<author initials='D.' surname='Eastlake 3rd' fullname='D. Eastlake 3rd'><organization /></author>
 <date year='1997' month='April' />
-<area>Security</area>
-<keyword>DNSSEC</keyword>
-<keyword>cryptographic</keyword>
-<keyword>digital signature</keyword>
-<keyword>domain name</keyword>
-<keyword>domain name system</keyword>
-<keyword>security</keyword>
-<abstract>
-<t>
-   Domain Name System (DNS) protocol extensions have been defined to
-   authenticate the data in DNS and provide key distribution services
-   .  DNS Dynamic Update operations have also been defined
-   , but without a detailed description of security for the
-   update operation.  This memo describes how to use DNSSEC digital
-   signatures covering requests and data to secure updates and restrict
-   updates to those authorized to perform them as indicated by the
-   updater&apos;s possession of cryptographic keys.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2137' />
-<format type='TXT' octets='24824' target='http://www.rfc-editor.org/rfc/rfc2137.txt' />
-<format type='XML' octets='24813' target='http://xml.resource.org/public/rfc/xml/rfc2137.xml' />
+<abstract><t>This memo describes how to use DNSSEC digital signatures covering requests and data to secure updates and restrict updates to those authorized to perform them as indicated by the updater's possession of cryptographic keys.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2137'/>
+<seriesInfo name='DOI' value='10.17487/RFC2137'/>
 </reference>

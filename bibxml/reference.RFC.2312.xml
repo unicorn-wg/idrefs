@@ -1,56 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2312'>
-
+<reference  anchor='RFC2312' target='http://www.rfc-editor.org/info/rfc2312'>
 <front>
 <title>S/MIME Version 2 Certificate Handling</title>
-<author initials='S.' surname='Dusse' fullname='Steve Dusse'>
-<organization>RSA Data Security, Inc.</organization>
-<address>
-<postal>
-<street>100 Marine Parkway, #500</street>
-<city>Redwood City</city>
-<region>CA</region>
-<code>94065</code></postal>
-<phone>(415) 595-8782</phone>
-<email>spock@rsa.com</email></address></author>
-<author initials='P.' surname='Hoffman' fullname='Paul Hoffman'>
-<organization>Internet Mail Consortium</organization>
-<address>
-<postal>
-<street>127 Segre Place</street>
-<city>Santa Cruz</city>
-<region>CA</region>
-<code>95060</code></postal>
-<phone>(408) 426-9827</phone>
-<email>phoffman@imc.org</email></address></author>
-<author initials='B.' surname='Ramsdell' fullname='Blake Ramsdell'>
-<organization>Worldtalk</organization>
-<address>
-<postal>
-<street>13122 NE 20th St., Suite C</street>
-<city>Bellevue</city>
-<region>WA</region>
-<code>98005</code></postal>
-<phone>(425) 882-8861</phone>
-<email>blaker@deming.com</email></address></author>
-<author initials='J.' surname='Weinstein' fullname='Jeff Weinstein'>
-<organization>Netscape Communications Corporation</organization>
-<address>
-<postal>
-<street>501 East Middlefield Road</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043</code></postal>
-<phone>(415) 254-1900</phone>
-<email>jsw@netscape.com</email></address></author>
+<author initials='S.' surname='Dusse' fullname='S. Dusse'><organization /></author>
+<author initials='P.' surname='Hoffman' fullname='P. Hoffman'><organization /></author>
+<author initials='B.' surname='Ramsdell' fullname='B. Ramsdell'><organization /></author>
+<author initials='J.' surname='Weinstein' fullname='J. Weinstein'><organization /></author>
 <date year='1998' month='March' />
-<area>Applications</area>
-<keyword>multipurpose internet mail extensions</keyword>
-<keyword>MIME</keyword></front>
-
-<seriesInfo name='RFC' value='2312' />
-<format type='TXT' octets='39829' target='http://www.rfc-editor.org/rfc/rfc2312.txt' />
-<format type='HTML' octets='52247' target='http://xml.resource.org/public/rfc/html/rfc2312.html' />
-<format type='XML' octets='39340' target='http://xml.resource.org/public/rfc/xml/rfc2312.xml' />
+<abstract><t>This memo describes the mechanisms S/MIME uses to create and validate keys using certificates.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2312'/>
+<seriesInfo name='DOI' value='10.17487/RFC2312'/>
 </reference>

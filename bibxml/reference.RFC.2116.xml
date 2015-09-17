@@ -1,40 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2116'>
-
+<reference  anchor='RFC2116' target='http://www.rfc-editor.org/info/rfc2116'>
 <front>
 <title>X.500 Implementations Catalog-96</title>
-<author initials='C.' surname='Apple' fullname='Chris Apple'>
-<organization>AT &amp; T Laboratories</organization>
-<address>
-<postal>
-<street>600 Mountain Ave.</street>
-<street>Room 2D-104</street>
-<city>Murray Hill</city>
-<region>NJ</region>
-<code>07974</code>
-<country>US</country></postal>
-<phone>+1 908 582 2409</phone>
-<facsimile>+1 908 582 6113</facsimile>
-<email>capple@master.control.att.com</email></address></author>
-<author initials='K.' surname='Rossen' fullname='Ken Rossen'>
-<organization>MCI Systemhouse, Inc</organization>
-<address>
-<postal>
-<street>10 Williamsville Road</street>
-<city>Hubbardston Center</city>
-<region>MA</region>
-<code>01452-1311</code>
-<country>US</country></postal>
-<phone>+1 508 928 5368</phone>
-<facsimile>+1 508 928 5399</facsimile>
-<email>kenr@shl.com</email></address></author>
+<author initials='C.' surname='Apple' fullname='C. Apple'><organization /></author>
+<author initials='K.' surname='Rossen' fullname='K. Rossen'><organization /></author>
 <date year='1997' month='April' />
-<abstract>
-<t>This document is a revision to: A Revised Catalog of Available X.500 Implementations and is based on the results of data collection via a WWW home page that enabled implementors to submit new or updated descriptions of currently available implementations of  X.500, including commercial products and openly available offerings.
-   [RFC 1632] is a revision of. We contacted each contributor to [RFC 1632] to request an update and published the URL of the WWW home page survey template in several mailing lists to encourage the submission of new product descriptions.</t>
-<t>This document contains detailed description of 31 X.500 implementations - DSAs, DUAs, and DUA interfaces.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2116' />
-<format type='TXT' octets='243994' target='http://www.rfc-editor.org/rfc/rfc2116.txt' />
+<abstract><t>This document is a revision to [RFC 1632]: A Revised Catalog of Available X.500 Implementations and is based on the results of data collection via a WWW home page that enabled implementors to submit new or updated descriptions of currently available implementations of X.500, including commercial products and openly available offerings. [RFC 1632] is a revision of [RFC 1292].  This document contains detailed description of 31 X.500 implementations - DSAs, DUAs, and DUA interfaces.  This memo provides information for the Internet community. This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='FYI' value='11'/>
+<seriesInfo name='RFC' value='2116'/>
+<seriesInfo name='DOI' value='10.17487/RFC2116'/>
 </reference>

@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0873'>
-
+<reference  anchor='RFC0873' target='http://www.rfc-editor.org/info/rfc873'>
 <front>
 <title>Illusion of vendor support</title>
-<author initials='M.' surname='Padlipsky' fullname='M. A. Padlipsky'>
-<organization>The Mitre Corporation</organization>
-<address>
-<postal>
-<street>P.O. Box 208</street>
-<city>Bedford</city>
-<region>MA</region>
-<code>01730</code>
-<country>US</country></postal>
-<email>Padlipsky@ISIA</email></address></author>
-<date year='1982' day='1' month='September' />
-<abstract>
-<t>The sometimes-held position that "vendor supplied" intercomputer networking protocols based upon the International Standards Organization's Reference Model for Open System Interconnection are worth waiting for, in particular in preference to protocols based upon the ARPANET Reference Model  (ARM), is shown to be fallacious</t>
-<t>This paper is a companion piece to M82-47, M82-48, M82-50, and M82-51</t></abstract></front>
-
-<seriesInfo name='RFC' value='873' />
-<format type='TXT' octets='23095' target='http://www.rfc-editor.org/rfc/rfc873.txt' />
+<author initials='M.A.' surname='Padlipsky' fullname='M.A. Padlipsky'><organization /></author>
+<date year='1982' month='September' />
+<abstract><t>This memo takes issue with the claim that international standards in    computer protocols presently provide a basis for low cost vendor    supported protocol implementations.  Originally published as M82-49    by the MITRE Corporation, Bedford, Massachusetts.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='873'/>
+<seriesInfo name='DOI' value='10.17487/RFC0873'/>
 </reference>

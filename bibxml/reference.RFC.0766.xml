@@ -1,24 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0766'>
-
+<reference  anchor='RFC0766' target='http://www.rfc-editor.org/info/rfc766'>
 <front>
 <title>Internet Protocol Handbook: Table of contents</title>
-<author initials='J.' surname='Postel' fullname='J. Postel'>
-<organization>University of Southern California (USC)/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90291</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone></address></author>
-<date year='1980' day='1' month='July' />
-<abstract>
-<t>In recent years the ARPA Network Research Program has had as one concern the interconnection of networks.  In the course of this research a family of protocols suitable for an internetwork environment has emerged.  Much of this work is documented in a series of project memos called Internet Experiment Notes or IENs.  A few of these IENs document protocols in the internet protocol family.  Most of the major internet protocol documents have also been issued as RFCs.</t>
-<t>The situation has evolved to the point that it is appropriate for the internet family of protocols to replace the old ARPANET protocols.  To this end an Internet Protocol Handbook will be prepared by the Network Information Center.  This Handbook is tentatively planned to be available at the end of 1980.  This Internet Protocol Handbook will closely parallel the old ARPANET Protocol Handbook, and will primarily be a collection of existing RFCs and IENs.</t></abstract></front>
-
-<seriesInfo name='RFC' value='766' />
-<format type='TXT' octets='3465' target='http://www.rfc-editor.org/rfc/rfc766.txt' />
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<date year='1980' month='July' />
+</front>
+<seriesInfo name='RFC' value='766'/>
+<seriesInfo name='DOI' value='10.17487/RFC0766'/>
 </reference>

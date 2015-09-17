@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0307'>
-
+<reference  anchor='RFC0307' target='http://www.rfc-editor.org/info/rfc307'>
 <front>
 <title>Using network Remote Job Entry</title>
-<author initials='E.' surname='Harslem' fullname='E. Harslem'>
-<organization>Rand Corporation</organization></author>
-<date year='1972' day='24' month='February' /></front>
-
-<seriesInfo name='RFC' value='307' />
-<format type='TXT' octets='12032' target='http://www.rfc-editor.org/rfc/rfc307.txt' />
+<author initials='E.' surname='Harslem' fullname='E. Harslem'><organization /></author>
+<date year='1972' month='February' />
+</front>
+<seriesInfo name='RFC' value='307'/>
+<seriesInfo name='DOI' value='10.17487/RFC0307'/>
 </reference>

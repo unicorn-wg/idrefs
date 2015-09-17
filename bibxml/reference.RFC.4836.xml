@@ -1,44 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC4836'>
-
+<reference  anchor='RFC4836' target='http://www.rfc-editor.org/info/rfc4836'>
 <front>
-<title abbrev='MAU MIB'>
-  Definitions of Managed Objects for
-  IEEE&nbsp;802.3&nbsp;Medium&nbsp;Attachment&nbsp;Units&nbsp;(MAUs) 
-</title>
-<author initials='E.' surname='Beili' fullname='Edward Beili'>
-<organization>Actelis Networks</organization>
-<address>
-<postal>
-<street>Bazel 25</street>
-<city>Petach-Tikva</city>
-<country>Israel</country></postal>
-<phone>+972-3-924-3491</phone>
-<email>edward.beili@actelis.com</email></address></author>
+<title>Definitions of Managed Objects for IEEE 802.3 Medium Attachment Units (MAUs)</title>
+<author initials='E.' surname='Beili' fullname='E. Beili'><organization /></author>
 <date year='2007' month='April' />
-<area>Operations and Management</area>
-<keyword>Network Management</keyword>
-<keyword>Simple Network Management Protocol</keyword>
-<keyword>SNMP</keyword>
-<keyword>Management Information Base</keyword>
-<keyword>MIB</keyword>
-<keyword>Textual Conventions</keyword>
-<abstract>
-<t>
-   This document defines a portion of the Management Information Base (MIB)
-   for use with network management protocols in the Internet community.
-   In particular, it defines objects for managing IEEE 802.3 Medium
-   Attachment Units (MAUs).  This document obsoletes RFC 3636. It amends
-   that specification by moving MAU type OBJECT-IDENTITY definitions
-   and relevant textual conventions into a separate Internet Assigned
-   Number Authority (IANA) maintained MIB module. In addition,
-   management information is added to enable support for Ethernet in
-   the First Mile (EFM) and 10GBASE-CX4 MAUs.
-  </t></abstract></front>
-
-<seriesInfo name='RFC' value='4836' />
-<format type='TXT' octets='151012' target='http://www.rfc-editor.org/rfc/rfc4836.txt' />
-<format type='HTML' octets='165193' target='http://xml.resource.org/public/rfc/html/rfc4836.html' />
-<format type='XML' octets='159168' target='http://xml.resource.org/public/rfc/xml/rfc4836.xml' />
+<abstract><t>This document defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it defines objects for managing IEEE 802.3 Medium Attachment Units (MAUs).  This document obsoletes RFC 3636. It amends that specification by moving MAU type OBJECT-IDENTITY definitions and relevant textual conventions into a separate Internet Assigned Number Authority (IANA) maintained MIB module.  In addition, management information is added to enable support for Ethernet in the First Mile (EFM) and 10GBASE-CX4 MAUs.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='4836'/>
+<seriesInfo name='DOI' value='10.17487/RFC4836'/>
 </reference>

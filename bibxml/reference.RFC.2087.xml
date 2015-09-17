@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2087'>
-
+<reference  anchor='RFC2087' target='http://www.rfc-editor.org/info/rfc2087'>
 <front>
-<title abbrev='QUOTA'>IMAP4 QUOTA extension</title>
-<author initials='J.' surname='Myers' fullname='John G. Myers'>
-<organization>Carnegie-Mellon University</organization>
-<address>
-<postal>
-<street>5000 Forbes Ave.</street>
-<city>Pittsburgh</city>
-<region>PA</region>
-<code>15213-3890</code>
-<country>US</country></postal>
-<email>jgm+@cmu.edu</email></address></author>
+<title>IMAP4 QUOTA extension</title>
+<author initials='J.' surname='Myers' fullname='J. Myers'><organization /></author>
 <date year='1997' month='January' />
-<abstract>
-<t>The QUOTA extension of the Internet Message Access Protocolpermits administrative limits on resource usage (quotas) to be manipulated through the IMAP protocol.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2087' />
-<format type='TXT' octets='8542' target='http://www.rfc-editor.org/rfc/rfc2087.txt' />
+<abstract><t>The QUOTA extension of the Internet Message Access Protocol [IMAP4] permits administrative limits on resource usage (quotas) to be manipulated through the IMAP protocol.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2087'/>
+<seriesInfo name='DOI' value='10.17487/RFC2087'/>
 </reference>

@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0533'>
-
+<reference  anchor='RFC0533' target='http://www.rfc-editor.org/info/rfc533'>
 <front>
 <title>Message-ID numbers</title>
-<author initials='D.' surname='Walden' fullname='David Walden'>
-<organization>Bolt Baranek and Newman (BBN), NET</organization></author>
-<date year='1973' day='17' month='July' />
-<abstract>
-<t>It has been noted that the IMP message format (specified in BBN Report 1822) constrains network users to low throughputs if messages are to be uniquely identified via the link number.  We have recently implemented a change in the IMP/Host protocol which alleviates this difficulty.</t></abstract></front>
-
-<seriesInfo name='RFC' value='533' />
-<format type='TXT' octets='2102' target='http://www.rfc-editor.org/rfc/rfc533.txt' />
+<author initials='D.C.' surname='Walden' fullname='D.C. Walden'><organization /></author>
+<date year='1973' month='July' />
+</front>
+<seriesInfo name='RFC' value='533'/>
+<seriesInfo name='DOI' value='10.17487/RFC0533'/>
 </reference>

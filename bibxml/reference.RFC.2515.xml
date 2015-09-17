@@ -1,32 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2515'>
-
+<reference  anchor='RFC2515' target='http://www.rfc-editor.org/info/rfc2515'>
 <front>
-<title abbrev='ATM Management Objects'>Definitions of Managed Objects for ATM Management</title>
-<author initials='K.' surname='Tesink' fullname='Kaj Tesink'>
-<organization>Bellcore</organization>
-<address>
-<postal>
-<street>331 Newman Springs Road</street>
-<street>POB 7020</street>
-<city>Red Bank</city>
-<region>NJ</region>
-<code>07701-7020</code>
-<country>US</country></postal>
-<phone>+1 732 758 5254</phone>
-<email>kaj@bellcore.com</email></address></author>
+<title>Definitions of Managed Objects for ATM Management</title>
+<author initials='K.' surname='Tesink' fullname='K. Tesink'><organization /></author>
+<author initials='Ed' surname='' fullname='Ed'><organization /></author>
 <date year='1999' month='February' />
-<abstract>
-<t>This memo defines a portion of the Management Information Base (MIB)
-for use with network management protocols in the Internet community.
-In particular, it describes objects used for managing ATM-based
-interfaces, devices, networks and services.</t>
-<t>This memo replacesRFC 1695.
-Changes relative to RFC 1695 are
-summarized in the MIB module's REVISION clause.</t>
-<t>Textual Conventions used in this MIB are defined inand.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2515' />
-<format type='TXT' octets='179993' target='http://www.rfc-editor.org/rfc/rfc2515.txt' />
+<abstract><t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes objects used for managing ATM-based interfaces, devices, networks and services.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2515'/>
+<seriesInfo name='DOI' value='10.17487/RFC2515'/>
 </reference>

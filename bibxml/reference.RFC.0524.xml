@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0524'>
-
+<reference  anchor='RFC0524' target='http://www.rfc-editor.org/info/rfc524'>
 <front>
 <title>Proposed Mail Protocol</title>
-<author initials='J.E.' surname='White' fullname='J.E. White'>
-<organization /></author>
-<date year='1973' month='June' /></front>
-
-<seriesInfo name='RFC' value='524' />
-<format type='TXT' octets='75385' target='http://www.rfc-editor.org/rfc/rfc524.txt' />
+<author initials='J.E.' surname='White' fullname='J.E. White'><organization /></author>
+<date year='1973' month='June' />
+</front>
+<seriesInfo name='RFC' value='524'/>
+<seriesInfo name='DOI' value='10.17487/RFC0524'/>
 </reference>

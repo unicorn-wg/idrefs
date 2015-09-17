@@ -1,34 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2210'>
-
+<reference  anchor='RFC2210' target='http://www.rfc-editor.org/info/rfc2210'>
 <front>
-<title abbrev='RSVP with INTSERV'>The Use of RSVP with IETF Integrated Services</title>
-<author initials='J.' surname='Wroclawski' fullname='John Wroclawski'>
-<organization>MIT Laboratory for Computer Science</organization>
-<address>
-<postal>
-<street>545 Technology Sq.</street>
-<street>Cambridge</street>
-<street>MA  02139</street></postal>
-<phone>617-253-7885</phone>
-<facsimile>617-253-2673 (FAX)</facsimile>
-<email>jtw@lcs.mit.edu</email></address></author>
+<title>The Use of RSVP with IETF Integrated Services</title>
+<author initials='J.' surname='Wroclawski' fullname='J. Wroclawski'><organization /></author>
 <date year='1997' month='September' />
-<area>Transport</area>
-<keyword>Internet Engineering Task Force</keyword>
-<keyword>integrated services</keyword>
-<keyword>resource reservation protocol</keyword>
-<abstract>
-<t>
-   This note describes the use of the RSVP resource reservation protocol
-   with the Controlled-Load and Guaranteed QoS control services.  The
-   RSVP protocol defines several data objects which carry resource
-   reservation information but are opaque to RSVP itself.  The usage and
-   data format of those objects is given here.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2210' />
-<format type='TXT' octets='77613' target='http://www.rfc-editor.org/rfc/rfc2210.txt' />
-<format type='XML' octets='78536' target='http://xml.resource.org/public/rfc/xml/rfc2210.xml' />
+<abstract><t>This note describes the use of the RSVP resource reservation protocol with the Controlled-Load and Guaranteed QoS control services. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2210'/>
+<seriesInfo name='DOI' value='10.17487/RFC2210'/>
 </reference>

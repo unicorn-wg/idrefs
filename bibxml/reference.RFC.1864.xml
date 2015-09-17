@@ -1,21 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1864'>
-
+<reference  anchor='RFC1864' target='http://www.rfc-editor.org/info/rfc1864'>
 <front>
-<title abbrev='Content-MD5 Header Field'>The Content-MD5 Header Field</title>
-<author initials='J.' surname='Myers' fullname='John G. Myers'>
-<organization>Carnegie Mellon University</organization>
-<address>
-<email>jgm+@cmu.edu</email></address></author>
-<author initials='M.' surname='Rose' fullname='Marshall T. Rose'>
-<organization>Dover Beach Consulting, Inc.</organization>
-<address>
-<email>mrose@dbc.mtview.ca.us</email></address></author>
+<title>The Content-MD5 Header Field</title>
+<author initials='J.' surname='Myers' fullname='J. Myers'><organization /></author>
+<author initials='M.' surname='Rose' fullname='M. Rose'><organization /></author>
 <date year='1995' month='October' />
-<abstract>
-<t>This memo specifies an optional header field, Content-MD5, for use with MIME-conformant messages.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1864' />
-<format type='TXT' octets='7216' target='http://www.rfc-editor.org/rfc/rfc1864.txt' />
+<abstract><t>This memo specifies an optional header field, Content-MD5, for use with MIME-conformant messages.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1864'/>
+<seriesInfo name='DOI' value='10.17487/RFC1864'/>
 </reference>

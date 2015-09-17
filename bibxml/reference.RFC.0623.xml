@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0623'>
-
+<reference  anchor='RFC0623' target='http://www.rfc-editor.org/info/rfc623'>
 <front>
 <title>Comments on on-line host name service</title>
-<author initials='M.' surname='Krilanovich' fullname='Mark Krilanovich'>
-<organization>University of California, Santa Barbara (UCSB)</organization></author>
-<date year='1974' day='22' month='February' />
-<abstract>
-<t>Peter Deutsch in RFC #606 pointed out the desirability of having a single host maintain a data base containing official host names and host addresses, as well as other information of secondary importance.  Mike Kudlick in RFC #608 agreed with the concept, and proposed that the NIC would implement Peter's ideas.  I would like to add my voice to those in support of such a service, and express a few ideas for its modification.</t></abstract></front>
-
-<seriesInfo name='RFC' value='623' />
-<format type='TXT' octets='3740' target='http://www.rfc-editor.org/rfc/rfc623.txt' />
+<author initials='M.' surname='Krilanovich' fullname='M. Krilanovich'><organization /></author>
+<date year='1974' month='February' />
+<abstract><t>See also RFCs 627, 625, 608 and 606.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='623'/>
+<seriesInfo name='DOI' value='10.17487/RFC0623'/>
 </reference>

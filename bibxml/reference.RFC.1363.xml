@@ -1,25 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1363'>
-
+<reference  anchor='RFC1363' target='http://www.rfc-editor.org/info/rfc1363'>
 <front>
 <title>A Proposed Flow Specification</title>
-<author initials='C.' surname='Partridge' fullname='Craig Partridge'>
-<organization>BBN</organization>
-<address>
-<postal>
-<street>824 Kipling St</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94301</code>
-<country>US</country></postal>
-<phone>+1 415 325 4541</phone>
-<email>craig@aland.bbn.com</email></address></author>
+<author initials='C.' surname='Partridge' fullname='C. Partridge'><organization /></author>
 <date year='1992' month='September' />
-<abstract>
-<t>A flow specification (or "flow spec") is a data structure used by internetwork hosts to request special services of the internetwork, often guarantees about how the internetwork will handle some of the hosts' traffic.  In the future, hosts are expected to have to request such services on behalf of distributed applications such as multimedia conferencing.</t>
-<t>The flow specification defined in this memo is intended for information and possible experimentation (i.e., experimental use by consenting routers and applications only).  This RFC is a product of the Internet Research Task Force (IRTF).</t></abstract></front>
-
-<seriesInfo name='RFC' value='1363' />
-<format type='TXT' octets='59214' target='http://www.rfc-editor.org/rfc/rfc1363.txt' />
+</front>
+<seriesInfo name='RFC' value='1363'/>
+<seriesInfo name='DOI' value='10.17487/RFC1363'/>
 </reference>

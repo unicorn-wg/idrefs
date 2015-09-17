@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference  anchor='RFC3100' target='http://www.rfc-editor.org/info/rfc3100'>
+<front>
+<title>Not Issued</title>
+<author initials='' surname='' fullname=''><organization /></author>
+<abstract><t>RFC 3100 was never issued.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='3100'/>
+<seriesInfo name='DOI' value='10.17487/RFC3100'/>
+</reference>

@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1863'>
-
+<reference  anchor='RFC1863' target='http://www.rfc-editor.org/info/rfc1863'>
 <front>
-<title abbrev='A BGP/IDRP Route Server'>A BGP/IDRP Route Server alternative to a full mesh routing</title>
-<author initials='D.' surname='Haskin' fullname='Dimitry Haskin'>
-<organization>Bay Networks, Inc.</organization>
-<address>
-<postal>
-<street>2 Federal Street</street>
-<city>Billerica</city>
-<region>MA</region>
-<code>01821</code>
-<country>US</country></postal>
-<email>dhaskin@baynetworks.com</email></address></author>
+<title>A BGP/IDRP Route Server alternative to a full mesh routing</title>
+<author initials='D.' surname='Haskin' fullname='D. Haskin'><organization /></author>
 <date year='1995' month='October' />
-<abstract>
-<t>This document describes the use and detailed design of Route Servers for dissemination of routing information among BGP/IDRP speaking routers.</t>
-<t>The intention of the proposed technique is to reduce overhead and management complexity of maintaining numerous direct BGP/IDRP sessions which otherwise might be required or desired among routers within a single routing domain as well as among routers in different domains that are connected to a common switched fabric (e.g. an ATM cloud).</t></abstract></front>
-
-<seriesInfo name='RFC' value='1863' />
-<format type='TXT' octets='37426' target='http://www.rfc-editor.org/rfc/rfc1863.txt' />
+<abstract><t>This document describes the use and detailed design of Route Servers for dissemination of routing information among BGP/IDRP speaking routers. This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1863'/>
+<seriesInfo name='DOI' value='10.17487/RFC1863'/>
 </reference>

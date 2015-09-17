@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0415'>
-
+<reference  anchor='RFC0415' target='http://www.rfc-editor.org/info/rfc415'>
 <front>
 <title>Tenex bandwidth</title>
-<author initials='H.' surname='Murray' fullname='H. Murray'>
-<organization /></author>
-<date year='1972' month='November' /></front>
-
-<seriesInfo name='RFC' value='415' />
-<format type='TXT' octets='3456' target='http://www.rfc-editor.org/rfc/rfc415.txt' />
+<author initials='H.' surname='Murray' fullname='H. Murray'><organization /></author>
+<date year='1972' month='November' />
+</front>
+<seriesInfo name='RFC' value='415'/>
+<seriesInfo name='DOI' value='10.17487/RFC0415'/>
 </reference>

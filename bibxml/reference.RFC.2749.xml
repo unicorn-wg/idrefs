@@ -1,79 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2749'>
-
+<reference  anchor='RFC2749' target='http://www.rfc-editor.org/info/rfc2749'>
 <front>
 <title>COPS usage for RSVP</title>
-<author initials='S.' surname='Herzog' fullname='Shai Herzog'>
-<organization>IPHighway, Inc.</organization>
-<address>
-<postal>
-<street>55 New York Avenue</street>
-<city>Framingham</city>
-<region>MA</region>
-<code>01701</code>
-<country>US</country></postal>
-<phone>+1 508 620 1141</phone>
-<email>herzog@iphighway.com</email></address></author>
-<author initials='J.' surname='Boyle' fullname='Jim Boyle'>
-<organization>Level 3 Communications</organization>
-<address>
-<postal>
-<street>1025 Eldorado Boulevard</street>
-<city>Broomfield</city>
-<region>CO</region>
-<code>80021</code>
-<country>US</country></postal>
-<phone>+1 720 888 1192</phone>
-<email>jboyle@Level3.net</email></address></author>
-<author initials='R.' surname='Cohen' fullname='Ron Cohen'>
-<organization>CISCO Systems</organization>
-<address>
-<postal>
-<street>4 Maskit St.</street>
-<region>Herzeliya Pituach</region>
-<code>46766</code>
-<country>IL</country></postal>
-<phone>+972 9 9700064</phone>
-<email>ronc@cisco.com</email></address></author>
-<author initials='D.' surname='Durham' fullname='David Durham'>
-<organization>Intel</organization>
-<address>
-<postal>
-<street>2111 NE 25th Avenue</street>
-<city>Hillsboro</city>
-<region>OR</region>
-<code>97124</code>
-<country>US</country></postal>
-<phone>+1 503 264 6232</phone>
-<email>David.Durham@intel.com</email></address></author>
-<author initials='R.' surname='Rajan' fullname='Raju Rajan'>
-<organization>AT&amp;T Shannon Laboratory</organization>
-<address>
-<postal>
-<street>180 Park Avenue</street>
-<street>P.O. Box 971</street>
-<city>Florham Park</city>
-<region>NJ</region>
-<code>07932-0971</code>
-<country>US</country></postal>
-<phone>+1 973 360 7229</phone>
-<email>rajan@research.att.com</email></address></author>
-<author initials='A.' surname='Sastry' fullname='Arun Sastry'>
-<organization>Cisco Systems</organization>
-<address>
-<postal>
-<street>4 The Square, Stockley Park</street>
-<city>Uxbridge</city>
-<region>Middlesex</region>
-<code>UB11 1BN</code>
-<country>UK</country></postal>
-<phone>+44 20 87568693</phone>
-<email>asastry@cisco.com</email></address></author>
+<author initials='S.' surname='Herzog' fullname='S. Herzog' role='editor'><organization /></author>
+<author initials='J.' surname='Boyle' fullname='J. Boyle'><organization /></author>
+<author initials='R.' surname='Cohen' fullname='R. Cohen'><organization /></author>
+<author initials='D.' surname='Durham' fullname='D. Durham'><organization /></author>
+<author initials='R.' surname='Rajan' fullname='R. Rajan'><organization /></author>
+<author initials='A.' surname='Sastry' fullname='A. Sastry'><organization /></author>
 <date year='2000' month='January' />
-<abstract>
-<t>This document describes usage directives for supporting COPS policy services in RSVP environments.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2749' />
-<format type='TXT' octets='33477' target='http://www.rfc-editor.org/rfc/rfc2749.txt' />
+<abstract><t>This document describes usage directives for supporting COPS policy services in RSVP environments.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2749'/>
+<seriesInfo name='DOI' value='10.17487/RFC2749'/>
 </reference>

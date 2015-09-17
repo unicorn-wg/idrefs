@@ -1,46 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1635'>
-
+<reference  anchor='RFC1635' target='http://www.rfc-editor.org/info/rfc1635'>
 <front>
-<title abbrev='How To FTP'>How to Use Anonymous FTP</title>
-<author initials='P.' surname='Deutsch' fullname='Peter Deutsch'>
-<organization>Bunyip Information Systems</organization>
-<address>
-<postal>
-<street>266 Blvd. Neptune</street>
-<city>Dorval</city>
-<region>Quebec</region>
-<code>H9S 2L4</code>
-<country>CA</country></postal>
-<phone>+1 514 398 3709</phone>
-<email>peterd@bunyip.com</email></address></author>
-<author initials='A.' surname='Emtage' fullname='Alan Emtage'>
-<organization>Bunyip Information Systems</organization>
-<address>
-<postal>
-<street>266 Blvd. Neptune</street>
-<city>Dorval</city>
-<region>Quebec</region>
-<code>H9S 2L4</code>
-<country>CA</country></postal>
-<phone>+1 514 398 3709</phone>
-<email>bajan@bunyip.com</email></address></author>
-<author initials='A.' surname='Marine' fullname='April N. Marine'>
-<organization>NASA NAIC,  Ames Research Center</organization>
-<address>
-<postal>
-<street>M/S 204-14</street>
-<city>Moffett Field</city>
-<region>CA</region>
-<code>94035-1000</code>
-<country>US</country></postal>
-<phone>+1 415 604 0762</phone>
-<email>amarine@atlas.arc.nasa.gov</email></address></author>
+<title>How to Use Anonymous FTP</title>
+<author initials='P.' surname='Deutsch' fullname='P. Deutsch'><organization /></author>
+<author initials='A.' surname='Emtage' fullname='A. Emtage'><organization /></author>
+<author initials='A.' surname='Marine' fullname='A. Marine'><organization /></author>
 <date year='1994' month='May' />
-<abstract>
-<t>This document provides information for the novice Internet user about using the File Transfer Protocol (FTP).  It explains what FTP is, what anonymous FTP is, and what an anonymous FTP archive site is.  It shows a sample anonymous FTP session.  It also discusses common ways files are packaged for efficient storage and transmission.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1635' />
-<format type='TXT' octets='27258' target='http://www.rfc-editor.org/rfc/rfc1635.txt' />
+<abstract><t>This document provides information for the novice Internet user about using the File Transfer Protocol (FTP).  It explains what FTP is, what anonymous FTP is, and what an anonymous FTP archive site is.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='FYI' value='24'/>
+<seriesInfo name='RFC' value='1635'/>
+<seriesInfo name='DOI' value='10.17487/RFC1635'/>
 </reference>

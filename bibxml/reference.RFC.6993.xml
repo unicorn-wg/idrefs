@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC6993'>
-
+<reference  anchor='RFC6993' target='http://www.rfc-editor.org/info/rfc6993'>
 <front>
 <title>Instant Messaging and Presence Purpose for the Call-Info Header Field in the Session Initiation Protocol (SIP)</title>
-<author initials='P.' surname='Saint-Andre' fullname='P. Saint-Andre'>
-<organization /></author>
+<author initials='P.' surname='Saint-Andre' fullname='P. Saint-Andre'><organization /></author>
 <date year='2013' month='July' />
-<abstract>
-<t>This document defines and registers a value of "impp" ("instant messaging and presence protocol") for the "purpose" header field parameter of the Call-Info header field in the Session Initiation Protocol (SIP).</t></abstract></front>
-
-<seriesInfo name='RFC' value='6993' />
-<format type='TXT' octets='7431' target='http://www.rfc-editor.org/rfc/rfc6993.txt' />
+<abstract><t>This document defines and registers a value of &quot;impp&quot;  (&quot;instant messaging and presence protocol&quot;) for the &quot;purpose&quot;  header field parameter of the Call-Info header field in the  Session Initiation Protocol (SIP).</t></abstract>
+</front>
+<seriesInfo name='RFC' value='6993'/>
+<seriesInfo name='DOI' value='10.17487/RFC6993'/>
 </reference>

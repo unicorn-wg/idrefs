@@ -1,36 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2418'>
-
+<reference  anchor='RFC2418' target='http://www.rfc-editor.org/info/rfc2418'>
 <front>
-<title abbrev='IETF Guidelines'>IETF Working Group Guidelines and Procedures</title>
-<author initials='S.' surname='Bradner' fullname='Scott Bradner'>
-<organization>Harvard University</organization>
-<address>
-<postal>
-<street>1350 Mass Ave.</street>
-<street>Cambridge</street>
-<country>MA</country></postal>
-<phone>+1 617 495 3864</phone>
-<email>sob@harvard.edu</email></address></author>
+<title>IETF Working Group Guidelines and Procedures</title>
+<author initials='S.' surname='Bradner' fullname='S. Bradner'><organization /></author>
 <date year='1998' month='September' />
-<area>General</area>
-<keyword>Internet Engineering Task Force</keyword>
-<abstract>
-<t>
-   The Internet Engineering Task Force (IETF) has responsibility for
-   developing and reviewing specifications intended as Internet
-   Standards. IETF activities are organized into working groups (WGs).
-   This document describes the guidelines and procedures for formation
-   and operation of IETF working groups. It also describes the formal
-   relationship between IETF participants WG and the Internet
-   Engineering Steering Group (IESG) and the basic duties of IETF
-   participants, including WG Chairs, WG participants, and IETF Area
-   Directors.
-</t></abstract></front>
-
-<seriesInfo name='BCP' value='25' />
-<seriesInfo name='RFC' value='2418' />
-<format type='TXT' octets='62857' target='http://www.rfc-editor.org/rfc/rfc2418.txt' />
-<format type='XML' octets='62422' target='http://xml.resource.org/public/rfc/xml/rfc2418.xml' />
+<abstract><t>This document describes the guidelines and procedures for formation and operation of IETF working groups.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t></abstract>
+</front>
+<seriesInfo name='BCP' value='25'/>
+<seriesInfo name='RFC' value='2418'/>
+<seriesInfo name='DOI' value='10.17487/RFC2418'/>
 </reference>

@@ -1,49 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2594'>
-
+<reference  anchor='RFC2594' target='http://www.rfc-editor.org/info/rfc2594'>
 <front>
-<title abbrev='WWW Service MIB'>Definitions of Managed Objects for WWW Services</title>
-<author initials='H.' surname='Hazewinkel' fullname='Harrie Hazewinkel'>
-<organization>Joint Research Centre of the E.C.</organization>
-<address>
-<postal>
-<street>via Fermi</street>
-<city>Ispra</city>
-<code>21020</code>
-<country>IT</country></postal>
-<phone>+39 332 786322</phone>
-<email>harrie.hazewinkel@jrc.it</email></address></author>
-<author initials='C.' surname='Kalbfleisch' fullname='Carl W. Kalbfleisch'>
-<organization>Verio, Inc.</organization>
-<address>
-<postal>
-<street>1950 Stemmons Freeway</street>
-<street>Suite 2006</street>
-<city>Dallas</city>
-<region>TX</region>
-<code>75207</code>
-<country>US</country></postal>
-<phone>+1 214 290 8653</phone>
-<email>cwk@verio.net</email></address></author>
-<author initials='J.' surname='Schoenwaelder' fullname='Juergen Schoenwaelder'>
-<organization>TU Braunschweig</organization>
-<address>
-<postal>
-<street>Bueltenweg 74/75</street>
-<city>Braunschweig</city>
-<code>38106</code>
-<country>DE</country></postal>
-<phone>+49 531 3913683</phone>
-<email>schoenw@ibr.cs.tu-bs.de</email></address></author>
+<title>Definitions of Managed Objects for WWW Services</title>
+<author initials='H.' surname='Hazewinkel' fullname='H. Hazewinkel'><organization /></author>
+<author initials='C.' surname='Kalbfleisch' fullname='C. Kalbfleisch'><organization /></author>
+<author initials='J.' surname='Schoenwaelder' fullname='J. Schoenwaelder'><organization /></author>
 <date year='1999' month='May' />
-<abstract>
-<t>This memo defines a portion of the Management Information
-Base (MIB)
-for use with network management protocols in the Internet Community.
-In particular it describes a set of objects for managing World Wide
-Web (WWW) services.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2594' />
-<format type='TXT' octets='88876' target='http://www.rfc-editor.org/rfc/rfc2594.txt' />
+<abstract><t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet Community. In particular it describes a set of objects for managing World Wide Web (WWW) services.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2594'/>
+<seriesInfo name='DOI' value='10.17487/RFC2594'/>
 </reference>

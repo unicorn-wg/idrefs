@@ -1,37 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC3081'>
-
+<reference  anchor='RFC3081' target='http://www.rfc-editor.org/info/rfc3081'>
 <front>
 <title>Mapping the BEEP Core onto TCP</title>
-<author initials='M.T.' surname='Rose' fullname='Marshall T. Rose'>
-<organization>Invisible Worlds, Inc.</organization>
-<address>
-<postal>
-<street>131 Stony Circle</street>
-<street>Suite 500</street>
-<city>Santa Rosa</city>
-<region>CA</region>
-<code>95401</code>
-<country>US</country></postal>
-<phone>+1 707 578 2350</phone>
-<email>mrose@invisible.net</email>
-<uri>http://invisible.net/</uri></address></author>
+<author initials='M.' surname='Rose' fullname='M. Rose'><organization /></author>
 <date year='2001' month='March' />
-<area>Applications</area>
-<keyword>application protocols</keyword>
-<keyword>BEEP</keyword>
-<keyword>BXXP</keyword>
-<keyword>transport mapping</keyword>
-<abstract>
-<t>This memo describes how a BEEP
-(Blocks Extensible Exchange Protocol)
-session is mapped onto a single TCP
-(Transmission Control Protocol)
-connection.</t></abstract></front>
-
-<seriesInfo name='RFC' value='3081' />
-<format type='TXT' octets='14008' target='http://www.rfc-editor.org/rfc/rfc3081.txt' />
-<format type='HTML' octets='28923' target='http://xml.resource.org/public/rfc/html/rfc3081.html' />
-<format type='XML' octets='15054' target='http://xml.resource.org/public/rfc/xml/rfc3081.xml' />
+<abstract><t>This memo describes how a BEEP (Blocks Extensible Exchange Protocol) session is mapped onto a single TCP (Transmission Control Protocol) connection.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='3081'/>
+<seriesInfo name='DOI' value='10.17487/RFC3081'/>
 </reference>

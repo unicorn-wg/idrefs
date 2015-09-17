@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2628'>
-
+<reference  anchor='RFC2628' target='http://www.rfc-editor.org/info/rfc2628'>
 <front>
-<title abbrev='Crypto API'>Simple Cryptographic Program Interface (Crypto API)</title>
-<author initials='V.' surname='Smyslov' fullname='Valery Smyslov'>
-<organization>TWS</organization>
-<address>
-<postal>
-<street>11 Centralny prospekt</street>
-<city>Moscow</city>
-<country>RU</country></postal>
-<phone>+7 095 5314633</phone>
-<email>svan@trustworks.com</email></address></author>
+<title>Simple Cryptographic Program Interface (Crypto API)</title>
+<author initials='V.' surname='Smyslov' fullname='V. Smyslov'><organization /></author>
 <date year='1999' month='June' />
-<abstract>
-<t>This document describes a simple Application Program Interface to cryptographic functions. The main purpose of such an interface is to separate cryptographic libraries from internet applications, thus allowing an independent development of both. It can be used in various internet applications such as,,,.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2628' />
-<format type='TXT' octets='60070' target='http://www.rfc-editor.org/rfc/rfc2628.txt' />
+<abstract><t>This document describes a simple Application Program Interface to cryptographic functions.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2628'/>
+<seriesInfo name='DOI' value='10.17487/RFC2628'/>
 </reference>

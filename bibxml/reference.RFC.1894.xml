@@ -1,38 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1894'>
-
+<reference  anchor='RFC1894' target='http://www.rfc-editor.org/info/rfc1894'>
 <front>
-<title abbrev='Delivery Status Notifications'>An Extensible Message Format for Delivery Status Notifications</title>
-<author initials='K.' surname='Moore' fullname='Keith Moore'>
-<organization>University of Tennessee</organization>
-<address>
-<postal>
-<street>107 Ayres Hall</street>
-<city>Knoxville</city>
-<region>TN</region>
-<code>37996-1301</code>
-<country>US</country></postal>
-<phone>+1 615 974 3126</phone>
-<facsimile>+1 615 974 8296</facsimile>
-<email>moore@cs.utk.edu</email></address></author>
-<author initials='G.' surname='Vaudreuil' fullname='Gregory M. Vaudreuil'>
-<organization>Octel Network Services</organization>
-<address>
-<postal>
-<street>17080 Dallas Parkway</street>
-<city>Dallas</city>
-<region>TX</region>
-<code>75248-1905</code>
-<country>US</country></postal>
-<email>Greg.Vaudreuil@Octel.Com</email></address></author>
+<title>An Extensible Message Format for Delivery Status Notifications</title>
+<author initials='K.' surname='Moore' fullname='K. Moore'><organization /></author>
+<author initials='G.' surname='Vaudreuil' fullname='G. Vaudreuil'><organization /></author>
 <date year='1996' month='January' />
-<abstract>
-<t>This memo defines a MIME content-type that may be used by a message transfer agent (MTA) or electronic mail gateway to report the result of an attempt to deliver a message to one or more recipients.  This content-type is intended as a machine-processable replacement for the various types of delivery status notifications currently used in Internet electronic mail.</t>
-<t>Because many messages are sent between the Internet and other messaging systems (such as X.400 or the so-called "LAN-based" systems), the DSN protocol is designed to be useful in a multi-protocol messaging environment.  To this end, the protocol described in this memo provides for the carriage of "foreign" addresses and error codes, in addition to those normally used in Internet mail.  Additional attributes may also be defined to support "tunneling" of foreign notifications through Internet mail.</t>
-<t>Any questions, comments, and reports of defects or ambiguities in this specification may be sent to the mailing list for the NOTARY working group of the IETF, using the address &lt;notifications@cs.utk.edu&gt;.  Requests to subscribe to the mailing list should be addressed to &lt;notifications-request@cs.utk.edu&gt;. Implementors of this specification are encouraged to subscribe to the mailing list, so that they will quickly be informed of any problems which might hinder interoperability.</t>
-<t>NOTE: This document is a Proposed Standard.  If and when this protocol is submitted for Draft Standard status, any normative text (phrases containing SHOULD, SHOULD NOT, MUST, MUST NOT, or MAY) in this document will be re-evaluated in light of implementation experience, and are thus subject to change.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1894' />
-<format type='TXT' octets='77462' target='http://www.rfc-editor.org/rfc/rfc1894.txt' />
+<abstract><t>This memo defines a MIME content-type that may be used by a message transfer agent (MTA) or electronic mail gateway to report the result of an attempt to deliver a message to one or more recipients.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1894'/>
+<seriesInfo name='DOI' value='10.17487/RFC1894'/>
 </reference>

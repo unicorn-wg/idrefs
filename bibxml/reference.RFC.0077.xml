@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0077'>
-
+<reference  anchor='RFC0077' target='http://www.rfc-editor.org/info/rfc77'>
 <front>
 <title>Network meeting report</title>
-<author initials='J.' surname='Postel' fullname='J. Postel'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<date year='1970' day='20' month='November' />
-<abstract>
-<t>This is a report on a series of three Network Working Group meetings at the Fall Joint Computer Conference, November 16, 17 and 18 in Houston, Texas.</t></abstract></front>
-
-<seriesInfo name='RFC' value='77' />
-<format type='TXT' octets='19196' target='http://www.rfc-editor.org/rfc/rfc77.txt' />
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<date year='1970' month='November' />
+</front>
+<seriesInfo name='RFC' value='77'/>
+<seriesInfo name='DOI' value='10.17487/RFC0077'/>
 </reference>

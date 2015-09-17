@@ -1,59 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2428'>
-
+<reference  anchor='RFC2428' target='http://www.rfc-editor.org/info/rfc2428'>
 <front>
 <title>FTP Extensions for IPv6 and NATs</title>
-<author initials='M.' surname='Allman' fullname='Mark Allman'>
-<organization>NASA Lewis Research Center/Sterling Software</organization>
-<address>
-<postal>
-<street>21000 Brookpark Rd.  MS 54-2</street>
-<street>Cleveland</street>
-<street>OH  44135</street></postal>
-<phone>(216) 433-6586</phone>
-<email>mallman@lerc.nasa.gov</email>
-<uri>http://gigahertz.lerc.nasa.gov/~mallman/</uri></address></author>
-<author initials='S.' surname='Ostermann' fullname='Shawn Ostermann'>
-<organization>School of Electrical Engineering and Computer Science</organization>
-<address>
-<postal>
-<street>Ohio University</street>
-<street>416 Morton Hall</street>
-<street>Athens</street>
-<street>OH  45701</street></postal>
-<phone>(740) 593-1234</phone>
-<email>ostermann@cs.ohiou.edu</email></address></author>
-<author initials='C.' surname='Metz' fullname='Craig Metz'>
-<organization>The Inner Net</organization>
-<address>
-<postal>
-<street>Box 10314-1954</street>
-<street>Blacksburg</street>
-<street>VA  24062-0314</street></postal>
-<phone>(DSN) 754-8590</phone>
-<email>cmetz@inner.net</email></address></author>
+<author initials='M.' surname='Allman' fullname='M. Allman'><organization /></author>
+<author initials='S.' surname='Ostermann' fullname='S. Ostermann'><organization /></author>
+<author initials='C.' surname='Metz' fullname='C. Metz'><organization /></author>
 <date year='1998' month='September' />
-<area>Applications</area>
-<keyword>FTP</keyword>
-<keyword>IPv6</keyword>
-<keyword>file transfer</keyword>
-<keyword>file transfer protocol</keyword>
-<keyword>internet protocol version 6</keyword>
-<keyword>network address translation</keyword>
-<keyword>network address translator</keyword>
-<abstract>
-<t>
-   The specification for the File Transfer Protocol assumes that the
-   underlying network protocol uses a 32-bit network address
-   (specifically IP version 4).  With the deployment of version 6 of the
-   Internet Protocol, network addresses will no longer be 32-bits.  This
-   paper specifies extensions to FTP that will allow the protocol to
-   work over IPv4 and IPv6.  In addition, the framework defined can
-   support additional network protocols in the future.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2428' />
-<format type='TXT' octets='16028' target='http://www.rfc-editor.org/rfc/rfc2428.txt' />
-<format type='XML' octets='17910' target='http://xml.resource.org/public/rfc/xml/rfc2428.xml' />
+<abstract><t>This paper specifies extensions to FTP that will allow the protocol to work over IPv4 and IPv6.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2428'/>
+<seriesInfo name='DOI' value='10.17487/RFC2428'/>
 </reference>

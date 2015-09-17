@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0305'>
-
+<reference  anchor='RFC0305' target='http://www.rfc-editor.org/info/rfc305'>
 <front>
 <title>Unknown Host Numbers</title>
-<author initials='R.' surname='Alter' fullname='Ralph Alter'>
-<organization>Bolt Baranek and Newman (BBN)</organization></author>
-<date year='1972' day='23' month='February' />
-<abstract>
-<t>In response to a recent minor flurry of confusion, it seems worth announcing publicly the fact that new IMPs are tested (almost always) on the ARPA Net here at BBN before delivery to the intended site.  Accordingly, sites should not be surprised to receive RFCs or at least RSTs from IMPs or Hosts they thought didn't exist, or at least did not exist yet.</t></abstract></front>
-
-<seriesInfo name='RFC' value='305' />
-<format type='TXT' octets='1998' target='http://www.rfc-editor.org/rfc/rfc305.txt' />
+<author initials='R.' surname='Alter' fullname='R. Alter'><organization /></author>
+<date year='1972' month='February' />
+</front>
+<seriesInfo name='RFC' value='305'/>
+<seriesInfo name='DOI' value='10.17487/RFC0305'/>
 </reference>

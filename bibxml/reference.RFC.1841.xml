@@ -1,63 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1841'>
-
+<reference  anchor='RFC1841' target='http://www.rfc-editor.org/info/rfc1841'>
 <front>
 <title>PPP Network Control Protocol for LAN Extension</title>
-<author initials='J.' surname='Chapman' fullname='Joelle Bafile Chapman'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134-1706</code>
-<country>US</country></postal>
-<email>joelle@cisco.com</email></address></author>
-<author initials='D.' surname='Coli' fullname='Dave Coli'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134-1706</code>
-<country>US</country></postal>
-<email>dcoli@cisco.com</email></address></author>
-<author initials='A.' surname='Harvey' fullname='Andy Harvey'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134-1706</code>
-<country>US</country></postal>
-<email>agh@cisco.com</email></address></author>
-<author initials='B.' surname='Jensen' fullname='Bent Jensen'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134-1706</code>
-<country>US</country></postal>
-<email>bent@cisco.com</email></address></author>
-<author initials='K.' surname='Rowett' fullname='Kevin Rowett'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134-1706</code>
-<country>US</country></postal>
-<email>krowett@cisco.com</email></address></author>
+<author initials='J.' surname='Chapman' fullname='J. Chapman'><organization /></author>
+<author initials='D.' surname='Coli' fullname='D. Coli'><organization /></author>
+<author initials='A.' surname='Harvey' fullname='A. Harvey'><organization /></author>
+<author initials='B.' surname='Jensen' fullname='B. Jensen'><organization /></author>
+<author initials='K.' surname='Rowett' fullname='K. Rowett'><organization /></author>
 <date year='1995' month='September' />
-<abstract>
-<t>Telecommunications infrastructure is improving to offer higher bandwidth connections at lower cost. Access to the network is changing from modems to more intelligent devices. This informational RFC discusses a PPP Network Control Protocol for one such intelligent device. The protocol is the LAN extension interface protocol.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1841' />
-<format type='TXT' octets='146206' target='http://www.rfc-editor.org/rfc/rfc1841.txt' />
+</front>
+<seriesInfo name='RFC' value='1841'/>
+<seriesInfo name='DOI' value='10.17487/RFC1841'/>
 </reference>

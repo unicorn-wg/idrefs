@@ -1,40 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2355'>
-
+<reference  anchor='RFC2355' target='http://www.rfc-editor.org/info/rfc2355'>
 <front>
 <title>TN3270 Enhancements</title>
-<author initials='B.' surname='Kelly' fullname='Bill Kelly'>
-<organization>Division of University Computing</organization>
-<address>
-<postal>
-<street>144 Parker Hall</street>
-<street>Auburn University</street>
-<street>AL  36849</street></postal>
-<phone>(334) 844-4512</phone>
-<uri>.edu</uri></address></author>
+<author initials='B.' surname='Kelly' fullname='B. Kelly'><organization /></author>
 <date year='1998' month='June' />
-<area>Applications</area>
-<keyword>IBM 3270 display</keyword>
-<keyword>TN3270</keyword>
-<abstract>
-<t>
-   This document describes a protocol that more fully supports 3270
-   devices than do traditional tn3270 practices.  Specifically, it
-   defines a method of emulating both the terminal and printer members
-   of the 3270 family of devices via Telnet; it provides for the ability
-   of a Telnet client to request that it be assigned a specific device-
-   name (also referred to as &quot;LU name&quot; or &quot;network name&quot;); finally, it
-   adds support for a variety of functions such as the ATTN key, the
-   SYSREQ key, and SNA response handling.
-</t>
-<t>
-   This protocol is negotiated under the TN3270E Telnet Option, and is
-   unrelated to the Telnet 3270 Regime Option as defined in RFC 1041
-   .
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2355' />
-<format type='TXT' octets='89394' target='http://www.rfc-editor.org/rfc/rfc2355.txt' />
-<format type='XML' octets='89039' target='http://xml.resource.org/public/rfc/xml/rfc2355.xml' />
+<abstract><t>This document describes a protocol that more fully supports 3270 devices than do traditional tn3270 practices.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2355'/>
+<seriesInfo name='DOI' value='10.17487/RFC2355'/>
 </reference>

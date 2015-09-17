@@ -1,49 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2186'>
-
+<reference  anchor='RFC2186' target='http://www.rfc-editor.org/info/rfc2186'>
 <front>
-<title abbrev='ICP'>Internet Cache Protocol (ICP), version 2</title>
-<author initials='D.' surname='Wessels' fullname='Duane Wessels'>
-<organization>National Laboratory for Applied Network Research</organization>
-<address>
-<postal>
-<street>10100 Hopkins Drive</street>
-<street>La Jolla</street>
-<street>CA 92093</street></postal>
-<email>wessels@nlanr.net</email></address></author>
-<author initials='K.' surname='Claffy' fullname='K. Claffy'>
-<organization>National Laboratory for Applied Network Research</organization>
-<address>
-<postal>
-<street>10100 Hopkins Drive</street>
-<street>La Jolla</street>
-<street>CA 92093</street></postal>
-<email>kc@nlanr.net</email></address></author>
+<title>Internet Cache Protocol (ICP), version 2</title>
+<author initials='D.' surname='Wessels' fullname='D. Wessels'><organization /></author>
+<author initials='K.' surname='Claffy' fullname='K. Claffy'><organization /></author>
 <date year='1997' month='September' />
-<area>Applications</area>
-<keyword>proxy</keyword>
-<keyword>world wide web</keyword>
-<abstract>
-<t>
-   This document describes version 2 of the Internet Cache Protocol
-   (ICPv2) as currently implemented in two World-Wide Web proxy cache
-   packages[3,5].  ICP is a lightweight message format used for
-   communicating among Web caches.  ICP is used to exchange hints about
-   the existence of URLs in neighbor caches.  Caches exchange ICP
-   queries and replies to gather information to use in selecting the
-   most appropriate location from which to retrieve an object.
-</t>
-<t>
-   This document describes only the format and fields of ICP messages.
-   A companion document (RFC2187) describes the application of ICP to
-   Web caches.  Several independent caching implementations now use ICP,
-   and we consider it important to codify the existing practical uses of
-   ICP for those trying to implement, deploy, and extend its use for
-   their own purposes.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2186' />
-<format type='TXT' octets='18808' target='http://www.rfc-editor.org/rfc/rfc2186.txt' />
-<format type='XML' octets='21163' target='http://xml.resource.org/public/rfc/xml/rfc2186.xml' />
+<abstract><t>This document describes version 2 of the Internet Cache Protocol (ICPv2) as currently implemented in two World-Wide Web proxy cache packages. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2186'/>
+<seriesInfo name='DOI' value='10.17487/RFC2186'/>
 </reference>

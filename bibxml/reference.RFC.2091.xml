@@ -1,38 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2091'>
-
+<reference  anchor='RFC2091' target='http://www.rfc-editor.org/info/rfc2091'>
 <front>
-<title abbrev='Trigger RIP'>Triggered Extensions to RIP to Support Demand Circuits</title>
-<author initials='G.' surname='Meyer' fullname='Gerry Meyer'>
-<organization>Shiva</organization>
-<address>
-<postal>
-<street>Stanwell Street</street>
-<city>Edinburgh</city>
-<region>Scotland</region>
-<code>EH6 5NG</code>
-<country>UK</country></postal>
-<phone>+44 131 5549424</phone>
-<facsimile>+44 131 4677749</facsimile>
-<email>gerry@europe.shiva.com</email></address></author>
-<author initials='S.' surname='Sherry' fullname='Steve Sherry'>
-<organization>Xyplex</organization>
-<address>
-<postal>
-<street>295 Foster St.</street>
-<city>Littleton</city>
-<region>MA</region>
-<code>01460</code>
-<country>US</country></postal>
-<phone>+1 508 952 4745</phone>
-<facsimile>+1 508 952 4887</facsimile>
-<email>shs@xyplex.com</email></address></author>
+<title>Triggered Extensions to RIP to Support Demand Circuits</title>
+<author initials='G.' surname='Meyer' fullname='G. Meyer'><organization /></author>
+<author initials='S.' surname='Sherry' fullname='S. Sherry'><organization /></author>
 <date year='1997' month='January' />
-<abstract>
-<t>This document defines a modification which can be applied to Bellman-Ford (distance vector) algorithm information broadcasting protocols - for example IP RIP, Netware RIP or Netware SAP - which makes it feasible to run them on connection oriented Public Data Networks.</t>
-<t>This proposal has a number of efficiency advantages over the Demand RIP proposal (RFC 1582).</t></abstract></front>
-
-<seriesInfo name='RFC' value='2091' />
-<format type='TXT' octets='44835' target='http://www.rfc-editor.org/rfc/rfc2091.txt' />
+<abstract><t>This document defines a modification which can be applied to Bellman- Ford (distance vector) algorithm information broadcasting protocols. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2091'/>
+<seriesInfo name='DOI' value='10.17487/RFC2091'/>
 </reference>

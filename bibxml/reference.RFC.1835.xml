@@ -1,53 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1835'>
-
+<reference  anchor='RFC1835' target='http://www.rfc-editor.org/info/rfc1835'>
 <front>
 <title>Architecture of the WHOIS++ service</title>
-<author initials='P.' surname='Deutsch' fullname='Peter Deutsch'>
-<organization>BUNYIP INFORMATION SYSTEMS, Inc.</organization>
-<address>
-<postal>
-<street>310 St-Catherine St West,</street>
-<street>Suite 202</street>
-<city>Montreal</city>
-<region>Quebec</region>
-<code>H2X 2A1</code>
-<country>CA</country></postal>
-<email>peterd@bunyip.com</email></address></author>
-<author initials='R.' surname='Schoultz' fullname='Rickard Schoultz'>
-<organization>KTHNOC, SUNET/NORDUnet/Ebone Operations Centre</organization>
-<address>
-<postal>
-<street>100 44 STOCKHOLM</street>
-<country>SE</country></postal>
-<email>schoultz@sunet.se</email></address></author>
-<author initials='P.' surname='Faltstrom' fullname='Patrik Faltstrom'>
-<organization>BUNYIP INFORMATION SYSTEMS, Inc.</organization>
-<address>
-<postal>
-<street>310 St-Catherine St West</street>
-<street>Suite 202</street>
-<city>Montreal</city>
-<region>Quebec</region>
-<code>H2X 2A1</code>
-<country>CA</country></postal>
-<email>paf@bunyip.com</email></address></author>
-<author initials='C.' surname='Weider' fullname='Chris Weider'>
-<organization>BUNYIP INFORMATION SYSTEMS, Inc.</organization>
-<address>
-<postal>
-<street>2001 S. Huron Parkway</street>
-<street>#12</street>
-<city>Ann Arbor</city>
-<region>MI</region>
-<code>48104</code>
-<country>US</country></postal>
-<email>clw@bunyip.com</email></address></author>
+<author initials='P.' surname='Deutsch' fullname='P. Deutsch'><organization /></author>
+<author initials='R.' surname='Schoultz' fullname='R. Schoultz'><organization /></author>
+<author initials='P.' surname='Faltstrom' fullname='P. Faltstrom'><organization /></author>
+<author initials='C.' surname='Weider' fullname='C. Weider'><organization /></author>
 <date year='1995' month='August' />
-<abstract>
-<t>This document describes WHOIS++, an extension to the trivial WHOIS service described in RFC 954 to permit WHOIS-like servers to make available more structured information to the Internet.  We describe an extension to the simple WHOIS data model and query protocol and a companion extensible, distributed indexing service.  A number of options have also been added such as the use of multiple languages and character sets, more advanced search expressions, structured data and a number of other useful features.  An optional authentication mechanism for protecting all or part of the associated WHOIS++ information database from unauthorized access is also described.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1835' />
-<format type='TXT' octets='80581' target='http://www.rfc-editor.org/rfc/rfc1835.txt' />
+<abstract><t>This document describes WHOIS++, an extension to the trivial WHOIS service described in RFC 954 to permit WHOIS-like servers to make available more structured information to the Internet.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1835'/>
+<seriesInfo name='DOI' value='10.17487/RFC1835'/>
 </reference>

@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1395'>
-
+<reference  anchor='RFC1395' target='http://www.rfc-editor.org/info/rfc1395'>
 <front>
-<title abbrev='BOOTP Extensions'>BOOTP Vendor Information Extensions</title>
-<author initials='J.' surname='Reynolds' fullname='Joyce K. Reynolds'>
-<organization>University of Southern California,  Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511</phone>
-<email>jkrey@isi.edu</email></address></author>
-<date year='1993' month='January' /></front>
-
-<seriesInfo name='RFC' value='1395' />
-<format type='TXT' octets='16314' target='http://www.rfc-editor.org/rfc/rfc1395.txt' />
+<title>BOOTP Vendor Information Extensions</title>
+<author initials='J.' surname='Reynolds' fullname='J. Reynolds'><organization /></author>
+<date year='1993' month='January' />
+<abstract><t>This RFC is a slight revision and extension of RFC-1048 by Philip Prindeville, who should be credited with the original work in this memo. This memo will be updated as additional tags are defined.  This edition introduces Tag 14 for Merit Dump File, Tag 15 for Domain Name, Tag 16 for Swap Server and Tag 17 for Root Path.  This memo is a status report on the vendor information extensions used int the Bootstrap Protocol (BOOTP).</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1395'/>
+<seriesInfo name='DOI' value='10.17487/RFC1395'/>
 </reference>

@@ -1,42 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2523'>
-
+<reference  anchor='RFC2523' target='http://www.rfc-editor.org/info/rfc2523'>
 <front>
-<title abbrev='Schemes and Attributes'>Photuris: Extended Schemes and Attributes</title>
-<author initials='P.' surname='Karn' fullname='Phil Karn'>
-<organization>Qualcomm, Inc.</organization>
-<address>
-<postal>
-<street>6455 Lusk Boulevard.</street>
-<city>San Diego</city>
-<region>CA</region>
-<code>92121-2779</code>
-<country>US</country></postal>
-<email>karn@unix.ka9q.ampr.org</email></address></author>
-<author initials='W.' surname='Simpson' fullname='William Allen Simpson'>
-<organization>DayDreamer</organization>
-<address>
-<postal>
-<street>Computer Systems Consulting Services</street>
-<street>1384 Fontaine</street>
-<city>Madison Heights</city>
-<region>MI</region>
-<code>48071</code>
-<country>US</country></postal>
-<email>wsimpson@GreenDragon.com</email></address></author>
+<title>Photuris: Extended Schemes and Attributes</title>
+<author initials='P.' surname='Karn' fullname='P. Karn'><organization /></author>
+<author initials='W.' surname='Simpson' fullname='W. Simpson'><organization /></author>
 <date year='1999' month='March' />
-<abstract>
-<t>Photuris is a session-key management protocol.
-Extensible Exchange-Schemes are provided to enable future
-implementation changes without
-affecting the basic protocol.</t>
-<t>Additional authentication attributes are included for use with the IP
-Authentication Header (AH) or the IP Encapsulating Security Protocol
-(ESP).</t>
-<t>Additional confidentiality attributes are included for use with
-ESP.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2523' />
-<format type='TXT' octets='38166' target='http://www.rfc-editor.org/rfc/rfc2523.txt' />
+<abstract><t>Photuris is a session-key management protocol.  Extensible Exchange- Schemes are provided to enable future implementation changes without affecting the basic protocol. This document defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2523'/>
+<seriesInfo name='DOI' value='10.17487/RFC2523'/>
 </reference>

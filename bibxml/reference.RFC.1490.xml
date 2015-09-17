@@ -1,48 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1490'>
-
+<reference  anchor='RFC1490' target='http://www.rfc-editor.org/info/rfc1490'>
 <front>
-<title abbrev='Multiprotocol over Frame Relay'>Multiprotocol Interconnect over Frame Relay</title>
-<author initials='T.' surname='Bradley' fullname='Terry Bradley'>
-<organization>Wellfleet Communications, Inc.</organization>
-<address>
-<postal>
-<street>15 Crosby Drive</street>
-<city>Bedford</city>
-<region>MA</region>
-<code>01730</code>
-<country>US</country></postal>
-<phone>+1 617 280 2401</phone>
-<email>tbradley@wellfleet.com</email></address></author>
-<author initials='C.' surname='Brown' fullname='Caralyn Brown'>
-<organization>Wellfleet Communications, Inc.</organization>
-<address>
-<postal>
-<street>15 Crosby Drive</street>
-<city>Bedford</city>
-<region>MA</region>
-<code>01730</code>
-<country>US</country></postal>
-<phone>+1 617 280 2335</phone>
-<email>cbrown@wellfleet.com</email></address></author>
-<author initials='A.' surname='Malis' fullname='Andrew G. Malis'>
-<organization>Ascom Timeplex, Inc., Advanced Products Business Unit</organization>
-<address>
-<postal>
-<street>289 Great Road</street>
-<street>Suite 205</street>
-<city>Acton</city>
-<region>MA</region>
-<code>01720</code>
-<country>US</country></postal>
-<phone>+1 508 266 4500</phone>
-<email>malis_a@timeplex.com</email></address></author>
+<title>Multiprotocol Interconnect over Frame Relay</title>
+<author initials='T.' surname='Bradley' fullname='T. Bradley'><organization /></author>
+<author initials='C.' surname='Brown' fullname='C. Brown'><organization /></author>
+<author initials='A.' surname='Malis' fullname='A. Malis'><organization /></author>
 <date year='1993' month='July' />
-<abstract>
-<t>This memo describes an encapsulation method for carrying network interconnect traffic over a Frame Relay backbone.  It covers aspects of both Bridging and Routing.  Additionally, it describes a simple fragmentation procedure for carrying large frames over a frame relay network with a smaller MTU.</t>
-<t>Systems with the ability to transfer both the encapsulation method described in this document, and others must have a priori knowledge of which virtual circuits will carry which encapsulation method and this encapsulation must only be used over virtual circuits that have been explicitly configured for its use.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1490' />
-<format type='TXT' octets='75206' target='http://www.rfc-editor.org/rfc/rfc1490.txt' />
+<abstract><t>This memo describes an encapsulation method for carrying network interconnect traffic over a Frame Relay backbone.  It covers aspects of both Bridging and Routing.  Additionally, it describes a simple fragmentation procedure for carrying large frames over a frame relay network with a smaller MTU.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1490'/>
+<seriesInfo name='DOI' value='10.17487/RFC1490'/>
 </reference>

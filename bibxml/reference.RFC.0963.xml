@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0963'>
-
+<reference  anchor='RFC0963' target='http://www.rfc-editor.org/info/rfc963'>
 <front>
-<title abbrev='Some Problems with MIL-STD IP'>Some problems with the specification of the Military Standard Internet Protocol</title>
-<author initials='D.' surname='Sidhu' fullname='Deepinder P. Sidhu'>
-<organization>Iowa State University</organization></author>
-<date year='1985' day='1' month='November' />
-<abstract>
-<t>This paper points out several significant problems in the specification of the Military Standard Internet Protocol (MIL-STD-1777, dated August 1983).  These results are based on an initial investigation of this protocol standard.  The problems are: (1) a failure to reassemble fragmented messages completely; (2) a missing state transition; (3) errors in testing for reassembly completion; (4) errors in computing fragment sizes; (5) minor errors in message reassembly; (6) incorrectly computed length for certain datagrams.  This note also proposes solutions to these problems.</t></abstract></front>
-
-<seriesInfo name='RFC' value='963' />
-<format type='TXT' octets='44019' target='http://www.rfc-editor.org/rfc/rfc963.txt' />
+<title>Some problems with the specification of the Military Standard Internet Protocol</title>
+<author initials='D.P.' surname='Sidhu' fullname='D.P. Sidhu'><organization /></author>
+<date year='1985' month='November' />
+<abstract><t>The purpose of this RFC is to provide helpful information on the    Military Standard Internet Protocol (MIL-STD-1777) so that one can    obtain a reliable implementation of this protocol.  This paper points    out several problems in this specification.  This note also proposes    solutions to these problems.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='963'/>
+<seriesInfo name='DOI' value='10.17487/RFC0963'/>
 </reference>

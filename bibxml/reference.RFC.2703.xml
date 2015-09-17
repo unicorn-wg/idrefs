@@ -1,27 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2703'>
-
+<reference  anchor='RFC2703' target='http://www.rfc-editor.org/info/rfc2703'>
 <front>
-<title abbrev='Protocol-independent Content Negotiation'>Protocol-independent Content Negotiation Framework</title>
-<author initials='G.' surname='Klyne' fullname='Graham Klyne'>
-<organization>Content Technologies Ltd.</organization>
-<address>
-<postal>
-<street>1220 Parkview</street>
-<street>Arlington Business Park</street>
-<city>Theale</city>
-<region>Reading</region>
-<code>RG7 4SA</code>
-<country>UK</country></postal>
-<phone>+44 118 9301300</phone>
-<email>+44 118 9301301</email></address></author>
+<title>Protocol-independent Content Negotiation Framework</title>
+<author initials='G.' surname='Klyne' fullname='G. Klyne'><organization /></author>
 <date year='1999' month='September' />
-<abstract>
-<t>A number of Internet application protocols have a need to provide content negotiation for the resources with which they interact.  MIME media types,provide a standard method for handling one major axis of variation, but resources also vary in ways which cannot be expressed using currently available MIME headers.</t>
-<t>This memo sets out terminology, an abstract framework and goals for protocol-independent content negotiation, and identifies some technical issues which may need to be addressed.</t>
-<t>The abstract framework does not attempt to specify the content negotiation process, but gives an indication of the anticipated scope and form of any such specification.  The goals set out the desired properties of a content negotiation mechanism.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2703' />
-<format type='TXT' octets='42071' target='http://www.rfc-editor.org/rfc/rfc2703.txt' />
+<abstract><t>This memo sets out terminology, an abstract framework and goals for protocol-independent content negotiation, and identifies some technical issues which may need to be addressed.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2703'/>
+<seriesInfo name='DOI' value='10.17487/RFC2703'/>
 </reference>

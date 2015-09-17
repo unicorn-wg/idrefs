@@ -1,62 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC3744'>
-
+<reference  anchor='RFC3744' target='http://www.rfc-editor.org/info/rfc3744'>
 <front>
-<title abbrev='WebDAV Access Control Protocol'>Web Distributed Authoring and Versioning (WebDAV) Access Control Protocol</title>
-<author initials='G.' surname='Clemm' fullname='Geoffrey Clemm'>
-<organization>IBM</organization>
-<address>
-<postal>
-<street>20 Maguire Road</street>
-<city>Lexington</city>
-<region>MA</region>
-<code>02421</code></postal>
-<email>geoffrey.clemm@us.ibm.com</email></address></author>
-<author initials='J. F.' surname='Reschke' fullname='Julian F. Reschke'>
-<organization abbrev='greenbytes'>greenbytes GmbH</organization>
-<address>
-<postal>
-<street>Salzmannstrasse 152</street>
-<city>Muenster</city>
-<region>NW</region>
-<code>48159</code>
-<country>Germany</country></postal>
-<email>julian.reschke@greenbytes.de</email></address></author>
-<author initials='E.' surname='Sedlar' fullname='Eric Sedlar'>
-<organization>Oracle Corporation</organization>
-<address>
-<postal>
-<street>500 Oracle Parkway</street>
-<city>Redwood Shores</city>
-<region>CA</region>
-<code>94065</code></postal>
-<email>eric.sedlar@oracle.com</email></address></author>
-<author initials='J.' surname='Whitehead' fullname='Jim Whitehead'>
-<organization abbrev='U.C. Santa Cruz'>U.C. Santa Cruz, Dept. of Computer Science</organization>
-<address>
-<postal>
-<street>1156 High Street</street>
-<city>Santa Cruz</city>
-<region>CA</region>
-<code>95064</code></postal>
-<email>ejw@cse.ucsc.edu</email></address></author>
+<title>Web Distributed Authoring and Versioning (WebDAV) Access Control Protocol</title>
+<author initials='G.' surname='Clemm' fullname='G. Clemm'><organization /></author>
+<author initials='J.' surname='Reschke' fullname='J. Reschke'><organization /></author>
+<author initials='E.' surname='Sedlar' fullname='E. Sedlar'><organization /></author>
+<author initials='J.' surname='Whitehead' fullname='J. Whitehead'><organization /></author>
 <date year='2004' month='May' />
-<abstract>
-<t>
-        This document specifies a set of methods, headers, message bodies,
-        properties, and reports that define Access Control extensions to the
-        WebDAV Distributed Authoring Protocol.  This protocol permits a client to
-        read and modify access control lists that instruct a server whether to
-        allow or deny operations upon a resource (such as HyperText Transfer
-        Protocol (HTTP) method invocations) by a given principal.  A lightweight
-        representation of principals as Web resources supports integration of a
-        wide range of user management repositories.  Search operations allow
-        discovery and manipulation of principals using human names.
-      </t></abstract></front>
-
-<seriesInfo name='RFC' value='3744' />
-<format type='TXT' octets='146623' target='http://www.rfc-editor.org/rfc/rfc3744.txt' />
-<format type='HTML' octets='228825' target='http://xml.resource.org/public/rfc/html/rfc3744.html' />
-<format type='XML' octets='171435' target='http://xml.resource.org/public/rfc/xml/rfc3744.xml' />
+<abstract><t>This document specifies a set of methods, headers, message bodies, properties, and reports that define Access Control extensions to the WebDAV Distributed Authoring Protocol.  This protocol permits a client to read and modify access control lists that instruct a server whether to allow or deny operations upon a resource (such as HyperText Transfer Protocol (HTTP) method invocations) by a given principal.  A lightweight representation of principals as Web resources supports integration of a wide range of user management repositories.  Search operations allow discovery and manipulation of principals using human names.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='3744'/>
+<seriesInfo name='DOI' value='10.17487/RFC3744'/>
 </reference>

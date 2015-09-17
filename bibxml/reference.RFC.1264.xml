@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1264'>
-
+<reference  anchor='RFC1264' target='http://www.rfc-editor.org/info/rfc1264'>
 <front>
-<title abbrev='Routing Protocol Criteria'>Internet Engineering Task Force Internet Routing Protocol Standardization Criteria</title>
-<author initials='R.' surname='Hinden' fullname='Robert M. Hinden'>
-<organization>Bolt Beranek and Newman, Inc. (BBN)</organization>
-<address>
-<postal>
-<street>50 Moulton Street</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02138</code>
-<country>US</country></postal>
-<phone>+1 617 873 3757</phone>
-<email>hinden@bbn.com</email></address></author>
-<date year='1991' day='1' month='October' /></front>
-
-<seriesInfo name='RFC' value='1264' />
-<format type='TXT' octets='17016' target='http://www.rfc-editor.org/rfc/rfc1264.txt' />
+<title>Internet Engineering Task Force Internet Routing Protocol Standardization Criteria</title>
+<author initials='R.M.' surname='Hinden' fullname='R.M. Hinden'><organization /></author>
+<date year='1991' month='October' />
+<abstract><t>This informational RFC presents procedures for creating and documenting Internet standards on routing protocols.  These procedures have been established by the Internet Activities Board (IAB) in consultation with the Internet Engineering Steering Group (IESG). This memo provides information for the Internet community. It does not specifiy an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1264'/>
+<seriesInfo name='DOI' value='10.17487/RFC1264'/>
 </reference>

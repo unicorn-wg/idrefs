@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0065'>
-
+<reference  anchor='RFC0065' target='http://www.rfc-editor.org/info/rfc65'>
 <front>
-<title abbrev='Comments on Host-Host Protocol'>Comments on Host/Host Protocol document #1</title>
-<author initials='D.' surname='Walden' fullname='Dave Walden'>
-<organization>A/S Norsk Data-Elektonikk</organization></author>
-<date year='1970' day='29' month='August' />
-<abstract>
-<t>Eliminate marking.  Instead, make all regular messages into two message: The first containing just the leader and indicating that the data follows in the second (next) message. Do this both from the source Host to its IMP and from the destination IMP to its Host.</t></abstract></front>
-
-<seriesInfo name='RFC' value='65' />
-<format type='TXT' octets='5628' target='http://www.rfc-editor.org/rfc/rfc65.txt' />
+<title>Comments on Host/Host Protocol document #1</title>
+<author initials='D.C.' surname='Walden' fullname='D.C. Walden'><organization /></author>
+<date year='1970' month='August' />
+</front>
+<seriesInfo name='RFC' value='65'/>
+<seriesInfo name='DOI' value='10.17487/RFC0065'/>
 </reference>

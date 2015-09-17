@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1966'>
-
+<reference  anchor='RFC1966' target='http://www.rfc-editor.org/info/rfc1966'>
 <front>
 <title>BGP Route Reflection An alternative to full mesh IBGP</title>
-<author initials='T.' surname='Bates' fullname='Tony Bates'>
-<organization>cisco Systems</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134</code>
-<country>US</country></postal>
-<phone>+1 408 527 2470</phone>
-<email>tbates@cisco.com</email></address></author>
-<author initials='R.' surname='Chandrasekeran' fullname='Ravishanker Chandrasekeran'>
-<organization>cisco Systems</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134</code>
-<country>US</country></postal>
-<email>rchandra@cisco.com</email></address></author>
+<author initials='T.' surname='Bates' fullname='T. Bates'><organization /></author>
+<author initials='R.' surname='Chandra' fullname='R. Chandra'><organization /></author>
 <date year='1996' month='June' />
-<abstract>
-<t>The Border Gateway Protocolis an inter-autonomous system routing protocol designed for TCP/IP internets. BGP deployments are configured such that that all BGP speakers within a single AS must be fully meshed so that any external routing information must be re-distributed to all other routers within that AS. This represents a serious scaling problem that has been well documented with several alternatives proposed,</t>
-<t>This document describes the use and design of a method known as "Route Reflection" to alleviate the the need for "full mesh" IBGP.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1966' />
-<format type='TXT' octets='14320' target='http://www.rfc-editor.org/rfc/rfc1966.txt' />
+<abstract><t>This document describes the use and design of a method known as &quot;Route Reflection&quot; to alleviate the the need for &quot;full mesh&quot; IBGP.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1966'/>
+<seriesInfo name='DOI' value='10.17487/RFC1966'/>
 </reference>

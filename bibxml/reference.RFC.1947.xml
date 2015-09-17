@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1947'>
-
+<reference  anchor='RFC1947' target='http://www.rfc-editor.org/info/rfc1947'>
 <front>
-<title abbrev='Greek Encoding for E-mail Messages'>Greek Character Encoding for Electronic Mail Messages</title>
-<author initials='D.' surname='Spinellis' fullname='Diomidis Spinellis'>
-<organization>SENA S.A.</organization>
-<address>
-<postal>
-<street>Kyprou 27</street>
-<city>Filothei</city>
-<region />
-<code>152 47</code>
-<country>GR</country></postal>
-<phone>+30 1 6854535</phone>
-<facsimile>+30 1 6840631</facsimile>
-<email>D.Spinellis@senanet.com</email></address></author>
-<date year='1996' month='May' /></front>
-
-<seriesInfo name='RFC' value='1947' />
-<format type='TXT' octets='14428' target='http://www.rfc-editor.org/rfc/rfc1947.txt' />
+<title>Greek Character Encoding for Electronic Mail Messages</title>
+<author initials='D.' surname='Spinellis' fullname='D. Spinellis'><organization /></author>
+<date year='1996' month='May' />
+<abstract><t>This document describes a standard encoding for electronic mail [RFC822] containing Greek text and provides implementation guide-lines.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1947'/>
+<seriesInfo name='DOI' value='10.17487/RFC1947'/>
 </reference>

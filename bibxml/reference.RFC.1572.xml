@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1572'>
-
+<reference  anchor='RFC1572' target='http://www.rfc-editor.org/info/rfc1572'>
 <front>
 <title>Telnet Environment Option</title>
-<author initials='S.' surname='Alexander' fullname='Steve Alexander'>
-<organization>Lachman Technology, Inc.</organization>
-<address>
-<postal>
-<street>1901 North Naper Boulevard</street>
-<city>Naperville</city>
-<region>IL</region>
-<code>60563-8895</code>
-<country>US</country></postal>
-<phone>+1 708 505 9555 x256</phone>
-<email>stevea@lachman.com</email></address></author>
+<author initials='S.' surname='Alexander' fullname='S. Alexander' role='editor'><organization /></author>
 <date year='1994' month='January' />
-<abstract>
-<t>This document specifies a mechanism for passing environment information between a telnet client and server.  Use of this mechanism enables a telnet user to propagate configuration information to a remote host when connecting.</t>
-<t>This document corrects some errors in.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1572' />
-<format type='TXT' octets='14676' target='http://www.rfc-editor.org/rfc/rfc1572.txt' />
+<abstract><t>This document specifies a mechanism for passing environment information between a telnet client and server.  Use of this mechanism enables a telnet user to propagate configuration information to a remote host when connecting. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1572'/>
+<seriesInfo name='DOI' value='10.17487/RFC1572'/>
 </reference>

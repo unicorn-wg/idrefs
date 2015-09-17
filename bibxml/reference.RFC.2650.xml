@@ -1,40 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2650'>
-
+<reference  anchor='RFC2650' target='http://www.rfc-editor.org/info/rfc2650'>
 <front>
 <title>Using RPSL in Practice</title>
-<author initials='D.' surname='Meyer' fullname='David Meyer'>
-<organization>Cisco Systems</organization>
-<address>
-<email>dmm@cisco.com</email></address></author>
-<author initials='J.' surname='Schmitz' fullname='Joachim Schmitz'>
-<organization>America On-Line</organization>
-<address>
-<email>SchmitzJo@aol.com</email></address></author>
-<author initials='C.' surname='Orange' fullname='Carol Orange'>
-<organization>RIPE NCC</organization>
-<address>
-<email>orange@spiritone.com</email></address></author>
-<author initials='M.' surname='Prior' fullname='Mark Prior'>
-<organization>connect.com.au pty ltd</organization>
-<address>
-<email>mrp@connect.com.au</email></address></author>
-<author initials='C.' surname='Alaettinoglu' fullname='Cengiz Alaettinoglu'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90291</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone>
-<email>cengiz@isi.edu</email></address></author>
+<author initials='D.' surname='Meyer' fullname='D. Meyer'><organization /></author>
+<author initials='J.' surname='Schmitz' fullname='J. Schmitz'><organization /></author>
+<author initials='C.' surname='Orange' fullname='C. Orange'><organization /></author>
+<author initials='M.' surname='Prior' fullname='M. Prior'><organization /></author>
+<author initials='C.' surname='Alaettinoglu' fullname='C. Alaettinoglu'><organization /></author>
 <date year='1999' month='August' />
-<abstract>
-<t>This document is a tutorial on using the Routing Policy Specification Language (RPSL) to describe routing policies in the Internet Routing Registry (IRR). We explain how to specify various routing policies and configurations using RPSL, how to register these policies in the IRR, and how to analyze them using the routing policy analysis tools, for example to generate vendor specific router configurations.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2650' />
-<format type='TXT' octets='55272' target='http://www.rfc-editor.org/rfc/rfc2650.txt' />
+<abstract><t>This document is a tutorial on using the Routing Policy Specification Language (RPSL) to describe routing policies in the Internet Routing Registry (IRR).  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2650'/>
+<seriesInfo name='DOI' value='10.17487/RFC2650'/>
 </reference>

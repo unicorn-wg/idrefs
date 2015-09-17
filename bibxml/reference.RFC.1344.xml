@@ -1,28 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1344'>
-
+<reference  anchor='RFC1344' target='http://www.rfc-editor.org/info/rfc1344'>
 <front>
-<title abbrev='MIME and Mail Gateways'>Implications of MIME for Internet Mail Gateways</title>
-<author initials='N.' surname='Borenstein' fullname='Nathaniel S. Borenstein'>
-<organization>Bellcore</organization>
-<address>
-<postal>
-<street>445 South St.</street>
-<street>MRE 2D-296</street>
-<city>Morristown</city>
-<region>NJ</region>
-<code>07962-1910</code>
-<country>US</country></postal>
-<phone>+1 201 829 4270</phone>
-<facsimile>+1 201 829 7019</facsimile>
-<email>nsb@bellcore.com</email></address></author>
+<title>Implications of MIME for Internet Mail Gateways</title>
+<author initials='N.' surname='Borenstein' fullname='N. Borenstein'><organization /></author>
 <date year='1992' month='June' />
-<abstract>
-<t>The recent development of MIME (Multipurpose  Internet Mail Extensions)  offers  a  wide  range of new opportunities for electronic mail system systems.  Most of these  opportunites are relevant only to user agents, the programs that interact with human users when they send and receive mail.   However, some  opportunities  are  also  opened up for mail transport systems.  While MIME was carefully designed so that it  does not  require  any  changes  to  Internet  electronic message transport  facilities,  there  are  several  ways  in  which message  transport  systems  may  want  to take advantage of MIME.  These opportunities are the subject of this memo.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1344' />
-<format type='TXT' octets='25872' target='http://www.rfc-editor.org/rfc/rfc1344.txt' />
-<format type='PS' octets='51812' target='http://www.rfc-editor.org/rfc/rfc1344.ps' />
-<format type='PDF' octets='24430' target='http://www.rfc-editor.org/rfc/rfc1344.pdf' />
+<abstract><t>While MIME was carefully designed so that it does not require any changes to Internet electronic message transport facilities, there are several ways in which message transport systems may want to take advantage of MIME.  These opportunities are the subject of this memo. This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1344'/>
+<seriesInfo name='DOI' value='10.17487/RFC1344'/>
 </reference>

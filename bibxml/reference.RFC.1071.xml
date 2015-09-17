@@ -1,34 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1071'>
-
+<reference  anchor='RFC1071' target='http://www.rfc-editor.org/info/rfc1071'>
 <front>
 <title>Computing the Internet checksum</title>
-<author initials='R.' surname='Braden' fullname='R.  Braden'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90291</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone></address></author>
-<author initials='D.' surname='Borman' fullname='D.  Borman'>
-<organization>Cray Research</organization></author>
-<author initials='C.' surname='Partridge' fullname='C. Partridge'>
-<organization>Bolt Baranek and Newman (BBN) Laboratories</organization></author>
-<author initials='W.' surname='Plummer' fullname='William W. Plummer'>
-<organization>Bolt Beranek and Newman, Inc. (BBN)</organization>
-<address>
-<postal>
-<street>50 Moulton Street</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02138</code>
-<country>US</country></postal></address></author>
-<date year='1988' day='1' month='September' /></front>
-
-<seriesInfo name='RFC' value='1071' />
-<format type='TXT' octets='54941' target='http://www.rfc-editor.org/rfc/rfc1071.txt' />
+<author initials='R.T.' surname='Braden' fullname='R.T. Braden'><organization /></author>
+<author initials='D.A.' surname='Borman' fullname='D.A. Borman'><organization /></author>
+<author initials='C.' surname='Partridge' fullname='C. Partridge'><organization /></author>
+<date year='1988' month='September' />
+<abstract><t>This RFC summarizes techniques and algorithms for efficiently computing the Internet checksum.  It is not a standard, but a set of useful implementation techniques.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1071'/>
+<seriesInfo name='DOI' value='10.17487/RFC1071'/>
 </reference>

@@ -1,61 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1848'>
-
+<reference  anchor='RFC1848' target='http://www.rfc-editor.org/info/rfc1848'>
 <front>
 <title>MIME Object Security Services</title>
-<author initials='S.' surname='Crocker' fullname='Steve Crocker'>
-<organization>CyberCash, Inc.</organization>
-<address>
-<postal>
-<street>2086 Hunters Crest Way</street>
-<city>Vienna</city>
-<region>VA</region>
-<code>22181</code>
-<country>US</country></postal>
-<phone>+1 703 620 1222</phone>
-<facsimile>+1 703 391 2651</facsimile>
-<email>crocker@cybercash.com</email></address></author>
-<author initials='J.' surname='Galvin' fullname='James M. Galvin'>
-<organization>Trusted Information Systems</organization>
-<address>
-<postal>
-<street>3060 Washington Road</street>
-<city>Glenwood</city>
-<region>MD</region>
-<code>21738</code>
-<country>US</country></postal>
-<phone>+1 301 854 6889</phone>
-<facsimile>+1 301 854 5363</facsimile>
-<email>galvin@tis.com</email></address></author>
-<author initials='S.' surname='Murphy' fullname='Sandra Murphy'>
-<organization>Trusted Information Systems</organization>
-<address>
-<postal>
-<street>3060 Washington Road</street>
-<city>Glenwood</city>
-<region>MD</region>
-<code>21738</code>
-<country>US</country></postal>
-<phone>+1 301 854 6889</phone>
-<facsimile>+1 301 854 5363</facsimile>
-<email>murphy@tis.com</email></address></author>
-<author initials='N.' surname='Freed' fullname='Ned Freed'>
-<organization>Innosoft International, Inc.</organization>
-<address>
-<postal>
-<street>1050 East Garvey Avenue South</street>
-<city>West Covina</city>
-<region>CA</region>
-<code>91790</code>
-<country>US</country></postal>
-<phone>+1 818 919 3600</phone>
-<facsimile>+1 818 919 3614</facsimile>
-<email>ned@innosoft.com</email></address></author>
+<author initials='S.' surname='Crocker' fullname='S. Crocker'><organization /></author>
+<author initials='N.' surname='Freed' fullname='N. Freed'><organization /></author>
+<author initials='J.' surname='Galvin' fullname='J. Galvin'><organization /></author>
+<author initials='S.' surname='Murphy' fullname='S. Murphy'><organization /></author>
 <date year='1995' month='October' />
-<abstract>
-<t>This document defines MIME Object Security Services (MOSS), a protocol that uses the multipart/signed and multipart/encrypted frameworkto apply digital signature and encryption services to MIME objects.  The services are offered through the use of end-to-end cryptography between an originator and a recipient at the application layer.  Asymmetric (public key) cryptography is used in support of the digital signature service and encryption key management. Symmetric (secret key) cryptography is used in support of the encryption service.  The procedures are intended to be compatible with a wide range of public key management approaches, including both ad hoc and certificate-based schemes.  Mechanisms are provided to support many public key management approaches.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1848' />
-<format type='TXT' octets='95010' target='http://www.rfc-editor.org/rfc/rfc1848.txt' />
+<abstract><t>This document defines MIME Object Security Services (MOSS), a protocol that uses the multipart/signed and multipart/encrypted framework [7] to apply digital signature and encryption services to MIME objects. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1848'/>
+<seriesInfo name='DOI' value='10.17487/RFC1848'/>
 </reference>

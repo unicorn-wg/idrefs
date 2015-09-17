@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0488'>
-
+<reference  anchor='RFC0488' target='http://www.rfc-editor.org/info/rfc488'>
 <front>
 <title>NLS classes at network sites</title>
-<author initials='M.' surname='Auerbach' fullname='Marilyn Auerbach'>
-<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
-<date year='1973' day='23' month='March' />
-<abstract>
-<t>Network users have expressed interest in holding NLS classes at sites on the Network, instead of at SRI-ARC.</t></abstract></front>
-
-<seriesInfo name='RFC' value='488' />
-<format type='TXT' octets='3806' target='http://www.rfc-editor.org/rfc/rfc488.txt' />
+<author initials='M.F.' surname='Auerbach' fullname='M.F. Auerbach'><organization /></author>
+<date year='1973' month='March' />
+</front>
+<seriesInfo name='RFC' value='488'/>
+<seriesInfo name='DOI' value='10.17487/RFC0488'/>
 </reference>

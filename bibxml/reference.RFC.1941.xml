@@ -1,36 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1941'>
-
+<reference  anchor='RFC1941' target='http://www.rfc-editor.org/info/rfc1941'>
 <front>
 <title>Frequently Asked Questions for Schools</title>
-<author initials='J.' surname='Sellers' fullname='Jennifer Sellers'>
-<organization>Sterling Software/NASA IITA</organization>
-<address>
-<postal>
-<street>700 13th Street NW</street>
-<street>Suite 950</street>
-<city>Washington</city>
-<region>DC</region>
-<code>20005</code>
-<country>US</country></postal>
-<phone>+1 202 434 8954</phone>
-<email>sellers@quest.arc.nasa.gov</email></address></author>
-<author initials='J.' surname='Robichaux' fullname='Julie Robichaux'>
-<organization>InterNIC</organization>
-<address>
-<postal>
-<street>505 Huntmar Park Dr.</street>
-<city>Herndon</city>
-<region>VA</region>
-<code>22070</code>
-<country>US</country></postal>
-<phone>+1 703 742 4839</phone>
-<email>julier@internic.net</email></address></author>
+<author initials='J.' surname='Sellers' fullname='J. Sellers'><organization /></author>
+<author initials='J.' surname='Robichaux' fullname='J. Robichaux'><organization /></author>
 <date year='1996' month='May' />
-<abstract>
-<t>The goal of this FYI document, produced by the Internet School Networking (ISN) group in the User Services Area of the Internet Engineering Task Force (IETF), is to act as an introduction to the Internet for faculty, administration, and other school personnel in primary and secondary schools. The intended audience is educators who are recently connected to the Internet, who are accessing the Internet by some means other than a direct connection, or who are just beginning to consider Internet access as a resource for their schools.  Although the Internet Engineering Task Force is an international organization and this paper will be valuable to educators in many countries, it is limited in focus to internetworking in the United States.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1941' />
-<format type='TXT' octets='150980' target='http://www.rfc-editor.org/rfc/rfc1941.txt' />
+<abstract><t>The goal of this FYI document, produced by the Internet School Networking (ISN) group in the User Services Area of the Internet Engineering Task Force (IETF), is to act as an introduction to the Internet for faculty, administration, and other school personnel in primary and secondary schools.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='FYI' value='22'/>
+<seriesInfo name='RFC' value='1941'/>
+<seriesInfo name='DOI' value='10.17487/RFC1941'/>
 </reference>

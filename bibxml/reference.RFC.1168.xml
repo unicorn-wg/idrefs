@@ -1,57 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1168'>
-
+<reference  anchor='RFC1168' target='http://www.rfc-editor.org/info/rfc1168'>
 <front>
-<title abbrev='Intermail and Commercial Mail Relay Services'>Intermail and Commercial Mail Relay services</title>
-<author initials='A.' surname='Westine' fullname='Ann Westine'>
-<organization>University of Southern California (USC), Information Sciences Instutite</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292-6695</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone>
-<email>Westine@ISI.EDU</email></address></author>
-<author initials='A.' surname='DeSchon' fullname='Annette DeSchon'>
-<organization>University of Southern California (USC), Information Sciences Instutite</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292-6695</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone>
-<email>DeSchon@ISI.EDU</email></address></author>
-<author initials='J.' surname='Postel' fullname='Jon Postel'>
-<organization>University of Southern California (USC), Information Sciences Instutite</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292-6695</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone>
-<email>Postel@ISI.EDU</email></address></author>
-<author initials='C.' surname='Ward' fullname='Craig E. Ward'>
-<organization>University of Southern California (USC), Information Sciences Instutite</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292-6695</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone>
-<email>Ward@ISI.EDU</email></address></author>
-<date year='1990' day='1' month='July' /></front>
-
-<seriesInfo name='RFC' value='1168' />
-<format type='TXT' octets='40306' target='http://www.rfc-editor.org/rfc/rfc1168.txt' />
-<format type='PS' octets='149816' target='http://www.rfc-editor.org/rfc/rfc1168.ps' />
-<format type='PDF' octets='55890' target='http://www.rfc-editor.org/rfc/rfc1168.pdf' />
+<title>Intermail and Commercial Mail Relay services</title>
+<author initials='A.' surname='Westine' fullname='A. Westine'><organization /></author>
+<author initials='A.L.' surname='DeSchon' fullname='A.L. DeSchon'><organization /></author>
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<author initials='C.E.' surname='Ward' fullname='C.E. Ward'><organization /></author>
+<date year='1990' month='July' />
+<abstract><t>This RFC discusses the history and evolution of the Intermail and Commercial mail systems.  The problems encountered in operating a store-and-forward mail relay between commercial systems such as Telemail, MCI Mail and Dialcom are also discussed.  This RFC provides information for the Internet community, and does not specify any standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1168'/>
+<seriesInfo name='DOI' value='10.17487/RFC1168'/>
 </reference>

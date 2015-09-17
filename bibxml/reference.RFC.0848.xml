@@ -1,28 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0848'>
-
+<reference  anchor='RFC0848' target='http://www.rfc-editor.org/info/rfc848'>
 <front>
-<title>Who provides the "little" TCP services?</title>
-<author initials='D.' surname='Smallberg' fullname='Dave Smallberg'>
-<organization /></author>
-<date year='1983' day='14' month='March' />
-<abstract>
-<t>This report lists those hosts which provide any of these "little" TCP
-services:
-
-Port (in decimal)   Service
-        -----------------   -------
-                7           Echo
-                9           Discard
-               11           Active Users (systat)
-               13           Date and Time in printable form
-               15           Netstat
-               17           Quote of the Day
-               19           Character Generator (ttytst)
-               37           Time (32 bits)
-               79           Finger</t></abstract></front>
-
-<seriesInfo name='RFC' value='848' />
-<format type='TXT' octets='10985' target='http://www.rfc-editor.org/rfc/rfc848.txt' />
+<title>Who provides the &quot;little&quot; TCP services?</title>
+<author initials='D.' surname='Smallberg' fullname='D. Smallberg'><organization /></author>
+<date year='1983' month='March' />
+<abstract><t>This RFC lists those hosts which provide any of these &quot;little&quot; TCP    services:  The list of hosts were taken from the NIC hostname table    of 24-Feb-83.  The tests were run on February 23 and 24, and March 3    and 5 from ISI-VAXA.ARPA.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='848'/>
+<seriesInfo name='DOI' value='10.17487/RFC0848'/>
 </reference>

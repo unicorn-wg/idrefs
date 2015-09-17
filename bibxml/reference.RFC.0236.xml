@@ -1,16 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0236'>
-
+<reference  anchor='RFC0236' target='http://www.rfc-editor.org/info/rfc236'>
 <front>
 <title>Standard host names</title>
-<author initials='J.' surname='Postel' fullname='Jon Postel'>
-<organization>University of California, Los Angeles (UCLA), Computer Science Department, NMC</organization></author>
-<date year='1971' day='27' month='September' />
-<abstract>
-<t>In RFC #226, Peggy Karp suggested that there be a set of standard host names, that the names be 6 characters in length, and gave a partial list.  In RFC #229, I suggested 8 character names and gave a longer list.  Here I present my list again with some modifications.</t>
-<t>I also suggest that as far as possible the Standard host names be consistent with the site names used by the Network Information Center.  It also seems to me to be a good idea to consult with each host's technical liaison officer before assigning that host's name.</t></abstract></front>
-
-<seriesInfo name='RFC' value='236' />
-<format type='TXT' octets='5112' target='http://www.rfc-editor.org/rfc/rfc236.txt' />
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<date year='1971' month='September' />
+</front>
+<seriesInfo name='RFC' value='236'/>
+<seriesInfo name='DOI' value='10.17487/RFC0236'/>
 </reference>

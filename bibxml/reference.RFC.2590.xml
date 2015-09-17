@@ -1,50 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2590'>
-
+<reference  anchor='RFC2590' target='http://www.rfc-editor.org/info/rfc2590'>
 <front>
-<title abbrev='IPv6 over Frame Relay Networks'>Transmission of IPv6 Packets over Frame Relay Networks Specification</title>
-<author initials='A.' surname='Conta' fullname='Alex Conta'>
-<organization>Lucent Technologies Inc.</organization>
-<address>
-<postal>
-<street>300 Baker Avenue</street>
-<street>Suite 100</street>
-<city>Concord</city>
-<region>MA</region>
-<code>01742</code>
-<country>US</country></postal>
-<phone>+1 978 287 2842</phone>
-<email>aconta@lucent.com</email></address></author>
-<author initials='A.' surname='Malis' fullname='Andrew Malis'>
-<organization>Ascend Communications</organization>
-<address>
-<postal>
-<street>1 Robbins Road</street>
-<city>Westford</city>
-<region>MA</region>
-<code>01886</code>
-<country>US</country></postal>
-<phone>+1 978 952 7414</phone>
-<email>malis@ascend.com</email></address></author>
-<author initials='M.' surname='Mueller' fullname='Martin Mueller'>
-<organization>Lucent Technologies Inc.</organization>
-<address>
-<postal>
-<street>300 Baker Avenue</street>
-<street>Suite 100</street>
-<city>Concord</city>
-<region>MA</region>
-<code>01742</code>
-<country>US</country></postal>
-<phone>+1 978 287 2833</phone>
-<email>memueller@lucent.com</email></address></author>
+<title>Transmission of IPv6 Packets over Frame Relay Networks Specification</title>
+<author initials='A.' surname='Conta' fullname='A. Conta'><organization /></author>
+<author initials='A.' surname='Malis' fullname='A. Malis'><organization /></author>
+<author initials='M.' surname='Mueller' fullname='M. Mueller'><organization /></author>
 <date year='1999' month='May' />
-<abstract>
-<t>This memo describes mechanisms for the transmission of
-IPv6 packets
-over Frame Relay networks.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2590' />
-<format type='TXT' octets='41817' target='http://www.rfc-editor.org/rfc/rfc2590.txt' />
+<abstract><t>This memo describes mechanisms for the transmission of IPv6 packets over Frame Relay networks.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2590'/>
+<seriesInfo name='DOI' value='10.17487/RFC2590'/>
 </reference>

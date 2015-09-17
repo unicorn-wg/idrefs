@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2542'>
-
+<reference  anchor='RFC2542' target='http://www.rfc-editor.org/info/rfc2542'>
 <front>
 <title>Terminology and Goals for Internet Fax</title>
-<author initials='L.' surname='Masinter' fullname='Larry Masinter'>
-<organization>Xerox Corporation</organization>
-<address>
-<postal>
-<street>3333 Coyote Hill Road</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94304</code>
-<country>US</country></postal>
-<facsimile>+1 650 812 4333</facsimile>
-<email>masinter@parc.xerox.com</email>
-<uri>http://www.parc.xerox.com/masinter/</uri></address></author>
+<author initials='L.' surname='Masinter' fullname='L. Masinter'><organization /></author>
 <date year='1999' month='March' />
-<abstract>
-<t>This document defines a number of terms useful for the discussion of Internet Fax. In addition, it describes the goals of the Internet Fax working group and establishes a baseline of desired functionality against which protocols for Internet Fax can be judged. It encompasses the goals for all modes of facsimile delivery, including 'real-time', 'session', and 'store and forward'.  Different levels of desirability are indicated throughout the document.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2542' />
-<format type='TXT' octets='46372' target='http://www.rfc-editor.org/rfc/rfc2542.txt' />
+<abstract><t>This document defines a number of terms useful for the discussion of Internet Fax. In addition, it describes the goals of the Internet Fax working group and establishes a baseline of desired functionality against which protocols for Internet Fax can be judged. This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2542'/>
+<seriesInfo name='DOI' value='10.17487/RFC2542'/>
 </reference>

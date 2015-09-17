@@ -1,27 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1781'>
-
+<reference  anchor='RFC1781' target='http://www.rfc-editor.org/info/rfc1781'>
 <front>
-<title abbrev='User Friendly Naming'>Using the OSI Directory to Achieve User Friendly Naming</title>
-<author initials='S.' surname='Kille' fullname='Steve Kille'>
-<organization>ISODE Consortium</organization>
-<address>
-<postal>
-<street>The Dome, The Square</street>
-<city>Richmond</city>
-<region>England</region>
-<code>TW9 1DT</code>
-<country>UK</country></postal>
-<phone>+44 181 3329091</phone>
-<email>S.Kille@ISODE.COM</email></address></author>
+<title>Using the OSI Directory to Achieve User Friendly Naming</title>
+<author initials='S.' surname='Kille' fullname='S. Kille'><organization /></author>
 <date year='1995' month='March' />
-<abstract>
-<t>The OSI Directory has user friendly naming as a goal.  A simple minded usage of the directory does not achieve this.  Two aspects not achieved are:</t>
-<t>o  A user oriented notation</t>
-<t>o  Guessability</t>
-<t>This proposal sets out some conventions for representing names in a friendly manner, and shows how this can be used to achieve really friendly naming.  This then leads to a specification of a standard format for representing names, and to procedures to resolve them. This leads to a specification which allows directory names to be communicated between humans.  The format in this specification is identical to that defined in, and it is intended that these specifications are compatible.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1781' />
-<format type='TXT' octets='47129' target='http://www.rfc-editor.org/rfc/rfc1781.txt' />
+<abstract><t>This proposal sets out some conventions for representing names in a friendly manner, and shows how this can be used to achieve really friendly naming. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1781'/>
+<seriesInfo name='DOI' value='10.17487/RFC1781'/>
 </reference>

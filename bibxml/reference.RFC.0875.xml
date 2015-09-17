@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0875'>
-
+<reference  anchor='RFC0875' target='http://www.rfc-editor.org/info/rfc875'>
 <front>
 <title>Gateways, architectures, and heffalumps</title>
-<author initials='M.' surname='Padlipsky' fullname='Mike A. Padlipsky'>
-<organization>The Mitre Corporation</organization>
-<address>
-<postal>
-<street>P.O. Box 208</street>
-<city>Bedford</city>
-<region>MA</region>
-<code>01730</code>
-<country>US</country></postal>
-<email>Padlipsky@ISIA</email></address></author>
-<date year='1982' day='1' month='September' />
-<abstract>
-<t>The growth of autonomous intercomputer networks has led to a desire on the part of their respective proprietors to "gateway" from one to the other.  Unfortunately, however, the implications and shortcomings of gateways which must translate or map between differing protocol suites are not widely understood.  Some protocol sets have such severe functionality mismatches that proper T/MG's cannot be generated for them; all attempts to mesh heterogeneous suites are subject to numerous problems, including the introduction of "singularity points" on logical connections which would otherwise be able to enjoy the advantages of communications subnetwork alternate routing, loss of functionality, difficulty of Flow Control resolution, higher cost than non-translating/mapping Gateways, and the necessity of re-creating T/MG's when a given suite changes.  The preferability of a protocol-compatible internet is also touched upon, as is the psychology of those soi-disant architects who posit T/MG's.</t></abstract></front>
-
-<seriesInfo name='RFC' value='875' />
-<format type='TXT' octets='22816' target='http://www.rfc-editor.org/rfc/rfc875.txt' />
+<author initials='M.A.' surname='Padlipsky' fullname='M.A. Padlipsky'><organization /></author>
+<date year='1982' month='September' />
+<abstract><t>This RFC is a discussion about the role of gateways in an    internetwork, especially the problems of translating or mapping    protocols between different protocol suites.  The discussion notes    possible functionality mis-matches, undesirable routing &quot;singularity    points&quot;, flow control issues, and high cost of translating gateways.    Originally published as M82-51 by the MITRE Corporation, Bedford,    Massachusetts.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='875'/>
+<seriesInfo name='DOI' value='10.17487/RFC0875'/>
 </reference>

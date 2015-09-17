@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0345'>
-
+<reference  anchor='RFC0345' target='http://www.rfc-editor.org/info/rfc345'>
 <front>
 <title>Interest in Mixed Integer Programming (MPSX on NIC 360/91 at CCN)</title>
-<author initials='K.' surname='Kelley' fullname='Karl Kelley'>
-<organization>University of Illinois</organization></author>
-<date year='1972' day='26' month='May' />
-<abstract>
-<t>MPSX is a newer version of the IBM project MPS, used for integer programming.  From what I've been told, MPSX outperforms the previous package.  In addition, it has available a feature of mixed integer programming.</t></abstract></front>
-
-<seriesInfo name='RFC' value='345' />
-<format type='TXT' octets='1999' target='http://www.rfc-editor.org/rfc/rfc345.txt' />
+<author initials='K.C.' surname='Kelley' fullname='K.C. Kelley'><organization /></author>
+<date year='1972' month='May' />
+</front>
+<seriesInfo name='RFC' value='345'/>
+<seriesInfo name='DOI' value='10.17487/RFC0345'/>
 </reference>

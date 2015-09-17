@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0237'>
-
+<reference  anchor='RFC0237' target='http://www.rfc-editor.org/info/rfc237'>
 <front>
 <title>NIC view of standard host names</title>
-<author initials='R.' surname='Watson' fullname='Richard W. Watson'>
-<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
-<date year='1971' day='5' month='October' />
-<abstract>
-<t>The NIC strongly favors standardization of host names.</t></abstract></front>
-
-<seriesInfo name='RFC' value='237' />
-<format type='TXT' octets='2212' target='http://www.rfc-editor.org/rfc/rfc237.txt' />
+<author initials='R.W.' surname='Watson' fullname='R.W. Watson'><organization /></author>
+<date year='1971' month='October' />
+</front>
+<seriesInfo name='RFC' value='237'/>
+<seriesInfo name='DOI' value='10.17487/RFC0237'/>
 </reference>

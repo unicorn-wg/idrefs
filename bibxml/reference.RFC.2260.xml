@@ -1,32 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2260'>
-
+<reference  anchor='RFC2260' target='http://www.rfc-editor.org/info/rfc2260'>
 <front>
-<title abbrev='Multihoming'>Scalable Support for Multi-homed Multi-provider Connectivity</title>
-<author initials='T.' surname='Bates' fullname='Tony Bates'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<street>San Jose</street>
-<street>CA 95134</street></postal>
-<email>tbates@cisco.com</email></address></author>
-<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<street>San Jose</street>
-<street>CA 95134</street></postal>
-<email>yakov@cisco.com</email></address></author>
+<title>Scalable Support for Multi-homed Multi-provider Connectivity</title>
+<author initials='T.' surname='Bates' fullname='T. Bates'><organization /></author>
+<author initials='Y.' surname='Rekhter' fullname='Y. Rekhter'><organization /></author>
 <date year='1998' month='January' />
-<area>Operations</area>
-<keyword>multihome</keyword>
-<keyword>routing</keyword></front>
-
-<seriesInfo name='RFC' value='2260' />
-<format type='TXT' octets='28085' target='http://www.rfc-editor.org/rfc/rfc2260.txt' />
-<format type='HTML' octets='42377' target='http://xml.resource.org/public/rfc/html/rfc2260.html' />
-<format type='XML' octets='26686' target='http://xml.resource.org/public/rfc/xml/rfc2260.xml' />
+<abstract><t>This document describes addressing and routing strategies for multi- homed enterprises attached to multiple Internet Service Providers (ISPs) that are intended to reduce the routing overhead due to these enterprises in the global Internet routing system.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2260'/>
+<seriesInfo name='DOI' value='10.17487/RFC2260'/>
 </reference>

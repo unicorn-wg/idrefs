@@ -1,73 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2661'>
-
+<reference  anchor='RFC2661' target='http://www.rfc-editor.org/info/rfc2661'>
 <front>
-<title abbrev='L2TP'>Layer Two Tunneling Protocol "L2TP"</title>
-<author initials='W.' surname='Townsley' fullname='W. Mark Townsley'>
-<organization>Cisco Systems</organization>
-<address>
-<postal>
-<street>7025 Kit Creek Road</street>
-<city>Research Triangle Park</city>
-<region>NC</region>
-<code>27709</code>
-<country>US</country></postal>
-<email>townsley@cisco.com</email></address></author>
-<author initials='A.' surname='Valencia' fullname='A. Valencia'>
-<organization>cisco Systems</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134-1706</code>
-<country>US</country></postal>
-<email>vandys@cisco.com</email></address></author>
-<author initials='A.' surname='Rubens' fullname='A. Rubens'>
-<organization>Ascend Communications</organization>
-<address>
-<postal>
-<street>1701 Harbor Bay Parkway</street>
-<city>Alameda</city>
-<region>CA</region>
-<code>94502</code>
-<country>US</country></postal>
-<email>acr@del.com</email></address></author>
-<author initials='G.' surname='Pall' fullname='Gurdeep Pall'>
-<organization>Microsoft Corporation</organization>
-<address>
-<postal>
-<street>One Microsoft Way</street>
-<city>Redmond</city>
-<region>WA</region>
-<code>98052</code>
-<country>US</country></postal>
-<email>gurdeep@microsoft.com</email></address></author>
-<author initials='G.' surname='Zorn' fullname='Glen Zorn'>
-<organization>Microsoft Corporation</organization>
-<address>
-<postal>
-<street>One Microsoft Way</street>
-<city>Redmond</city>
-<region>WA</region>
-<code>98052</code>
-<country>US</country></postal>
-<email>gwz@acm.org</email></address></author>
-<author initials='B.' surname='Palter' fullname='Bill Palter'>
-<organization>RedBack Networks, Inc</organization>
-<address>
-<postal>
-<street>1389 Moffett Park Drive</street>
-<city>Sunnyvale</city>
-<region>CA</region>
-<code>94089</code>
-<country>US</country></postal>
-<email>palter@zev.net</email></address></author>
+<title>Layer Two Tunneling Protocol &quot;L2TP&quot;</title>
+<author initials='W.' surname='Townsley' fullname='W. Townsley'><organization /></author>
+<author initials='A.' surname='Valencia' fullname='A. Valencia'><organization /></author>
+<author initials='A.' surname='Rubens' fullname='A. Rubens'><organization /></author>
+<author initials='G.' surname='Pall' fullname='G. Pall'><organization /></author>
+<author initials='G.' surname='Zorn' fullname='G. Zorn'><organization /></author>
+<author initials='B.' surname='Palter' fullname='B. Palter'><organization /></author>
 <date year='1999' month='August' />
-<abstract>
-<t>This document describes the Layer Two Tunneling Protocol (L2TP). STD 51, RFC 1661 specifies multi-protocol access viaPPP. L2TP facilitates the tunneling of PPP packets across an intervening network in a way that is as transparent as possible to both end-users and applications.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2661' />
-<format type='TXT' octets='168150' target='http://www.rfc-editor.org/rfc/rfc2661.txt' />
+<abstract><t>This document describes the Layer Two Tunneling Protocol (L2TP). [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2661'/>
+<seriesInfo name='DOI' value='10.17487/RFC2661'/>
 </reference>

@@ -1,26 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2197'>
-
+<reference  anchor='RFC2197' target='http://www.rfc-editor.org/info/rfc2197'>
 <front>
-<title abbrev='SMTP Service Extension'>SMTP Service Extension for Command Pipelining</title>
-<author initials='N.' surname='Freed' fullname='Ned Freed'>
-<organization>Innosoft International, Inc.</organization>
-<address>
-<postal>
-<street>1050 Lakes Drive</street>
-<street>West Covina</street>
-<street>CA 91790</street>
-<country>USA</country></postal>
-<phone>+1 626 919 3600</phone>
-<facsimile>+1 626 919 3614</facsimile>
-<email>ned.freed@innosoft.com</email></address></author>
+<title>SMTP Service Extension for Command Pipelining</title>
+<author initials='N.' surname='Freed' fullname='N. Freed'><organization /></author>
 <date year='1997' month='September' />
-<area>Applications</area>
-<keyword>SMTP</keyword>
-<keyword>simple mail transfer protocol</keyword></front>
-
-<seriesInfo name='RFC' value='2197' />
-<format type='TXT' octets='15003' target='http://www.rfc-editor.org/rfc/rfc2197.txt' />
-<format type='XML' octets='17303' target='http://xml.resource.org/public/rfc/xml/rfc2197.xml' />
+<abstract><t>This memo defines an extension to the SMTP service whereby a server can indicate the extent of its ability to accept multiple commands in a single TCP send operation. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2197'/>
+<seriesInfo name='DOI' value='10.17487/RFC2197'/>
 </reference>

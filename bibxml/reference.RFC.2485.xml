@@ -1,35 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2485'>
-
+<reference  anchor='RFC2485' target='http://www.rfc-editor.org/info/rfc2485'>
 <front>
-<title abbrev='DCHP Option for the Open Group&apos;s UAP'>DHCP Option for The Open Group&apos;s User Authentication Protocol</title>
-<author initials='S.' surname='Drach' fullname='Steve Drach'>
-<organization>Sun Microsystems, Inc.</organization>
-<address>
-<postal>
-<street>901 San Antonio Road</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94303</code>
-<country>USA</country></postal>
-<phone>+1 650 960 1300</phone>
-<email>drach@sun.com</email></address></author>
+<title>DHCP Option for The Open Group's User Authentication Protocol</title>
+<author initials='S.' surname='Drach' fullname='S. Drach'><organization /></author>
 <date year='1999' month='January' />
-<area>Security</area>
-<keyword>DHCP</keyword>
-<keyword>authentication</keyword>
-<keyword>dynamic host configuration protocol</keyword>
-<abstract>
-<t>
-   This document defines a DHCP  option that contains a list of
-   pointers to User Authentication Protocol servers that provide user
-   authentication services for clients that conform to The Open Group
-   Network Computing Client Technical Standard .
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2485' />
-<format type='TXT' octets='7205' target='http://www.rfc-editor.org/rfc/rfc2485.txt' />
-<format type='HTML' octets='18241' target='http://xml.resource.org/public/rfc/html/rfc2485.html' />
-<format type='XML' octets='13370' target='http://xml.resource.org/public/rfc/xml/rfc2485.xml' />
+<abstract><t>This document defines a DHCP option that contains a list of pointers to User Authentication Protocol servers that provide user authentication services for clients that conform to The Open Group Network Computing Client Technical Standard.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2485'/>
+<seriesInfo name='DOI' value='10.17487/RFC2485'/>
 </reference>

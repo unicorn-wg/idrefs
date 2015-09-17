@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0813'>
-
+<reference  anchor='RFC0813' target='http://www.rfc-editor.org/info/rfc813'>
 <front>
 <title>Window and Acknowledgement Strategy in TCP</title>
-<author initials='D.' surname='Clark' fullname='David D. Clark'>
-<organization>Massachusetts Institute of Technology (MIT), Laboratory for Computer Science, Computer Systems and Communications Group</organization></author>
-<date year='1982' day='1' month='July' /></front>
-
-<seriesInfo name='RFC' value='813' />
-<format type='TXT' octets='38110' target='http://www.rfc-editor.org/rfc/rfc813.txt' />
+<author initials='D.D.' surname='Clark' fullname='D.D. Clark'><organization /></author>
+<date year='1982' month='July' />
+<abstract><t>This RFC describes implementation strategies to deal with two mechanisms in TCP, the window and the acknowledgement.  It also presents a particular set of algorithms which have received testing in the field, and which appear to work properly with each other.  With more experience, these algorithms may become part of the formal specification, until such time their use is recommended.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='813'/>
+<seriesInfo name='DOI' value='10.17487/RFC0813'/>
 </reference>

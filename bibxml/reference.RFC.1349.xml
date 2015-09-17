@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1349'>
-
+<reference  anchor='RFC1349' target='http://www.rfc-editor.org/info/rfc1349'>
 <front>
-<title abbrev='Type of Service'>Type of Service in the Internet Protocol Suite</title>
-<author initials='P.' surname='Almquist' fullname='Philip Almquist'>
-<organization />
-<address>
-<postal>
-<street>214 Cole Street</street>
-<street>Suite 2</street>
-<city>San Francisco</city>
-<region>CA</region>
-<code>94117-1916</code>
-<country>US</country></postal>
-<phone>+1 415 752 2427</phone>
-<email>almquist@Jessica.Stanford.EDU</email></address></author>
-<date year='1992' month='July' /></front>
-
-<seriesInfo name='RFC' value='1349' />
-<format type='TXT' octets='68949' target='http://www.rfc-editor.org/rfc/rfc1349.txt' />
+<title>Type of Service in the Internet Protocol Suite</title>
+<author initials='P.' surname='Almquist' fullname='P. Almquist'><organization /></author>
+<date year='1992' month='July' />
+<abstract><t>This memo changes and clarifies some aspects of the semantics of the Type of Service octet in the Internet Protocol (IP) header. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1349'/>
+<seriesInfo name='DOI' value='10.17487/RFC1349'/>
 </reference>

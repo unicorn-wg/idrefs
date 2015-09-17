@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0348'>
-
+<reference  anchor='RFC0348' target='http://www.rfc-editor.org/info/rfc348'>
 <front>
 <title>Discard Process</title>
-<author initials='J.' surname='Postel' fullname='Jon Postel'>
-<organization>University of California, Los Angeles (UCLA),  Computer Science, NMC</organization></author>
-<date year='1972' day='30' month='May' />
-<abstract>
-<t>I suggest that for debugging and measurement purposes those hosts which are willing implement a "Discard" process.</t></abstract></front>
-
-<seriesInfo name='RFC' value='348' />
-<format type='TXT' octets='1181' target='http://www.rfc-editor.org/rfc/rfc348.txt' />
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<date year='1972' month='May' />
+</front>
+<seriesInfo name='RFC' value='348'/>
+<seriesInfo name='DOI' value='10.17487/RFC0348'/>
 </reference>

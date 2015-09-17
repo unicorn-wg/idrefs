@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0359'>
-
+<reference  anchor='RFC0359' target='http://www.rfc-editor.org/info/rfc359'>
 <front>
 <title>Status of the Release of the New IMP System (2600)</title>
-<author initials='D.' surname='Walden' fullname='Dave Walden'>
-<organization>Bolt Baranek and Newman (BBN)</organization></author>
-<date year='1972' day='22' month='June' />
-<abstract>
-<t>We have still not managed to get the new IMP system up.</t></abstract></front>
-
-<seriesInfo name='RFC' value='359' />
-<format type='TXT' octets='2015' target='http://www.rfc-editor.org/rfc/rfc359.txt' />
+<author initials='D.C.' surname='Walden' fullname='D.C. Walden'><organization /></author>
+<date year='1972' month='June' />
+</front>
+<seriesInfo name='RFC' value='359'/>
+<seriesInfo name='DOI' value='10.17487/RFC0359'/>
 </reference>

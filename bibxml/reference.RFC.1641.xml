@@ -1,41 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1641'>
-
+<reference  anchor='RFC1641' target='http://www.rfc-editor.org/info/rfc1641'>
 <front>
 <title>Using Unicode with MIME</title>
-<author initials='D.' surname='Goldsmith' fullname='David Goldsmith'>
-<organization>Taligent, Inc.</organization>
-<address>
-<postal>
-<street>10201 N. DeAnza Blvd.</street>
-<city>Cupertino</city>
-<region>CA</region>
-<code>95014-2233</code>
-<country>US</country></postal>
-<phone>+1 408 777 5225</phone>
-<facsimile>+1 408 777 5081</facsimile>
-<email>david_goldsmith@taligent.com</email></address></author>
-<author initials='M.' surname='Davis' fullname='Mark Davis'>
-<organization>Taligent, Inc.</organization>
-<address>
-<postal>
-<street>10201 N. DeAnza Blvd.</street>
-<city>Cupertino</city>
-<region>CA</region>
-<code>95014-2233</code>
-<country>US</country></postal>
-<phone>+1 408 777 5116</phone>
-<facsimile>+1 408 777 5081</facsimile>
-<email>mark_davis@taligent.com</email></address></author>
+<author initials='D.' surname='Goldsmith' fullname='D. Goldsmith'><organization /></author>
+<author initials='M.' surname='Davis' fullname='M. Davis'><organization /></author>
 <date year='1994' month='July' />
-<abstract>
-<t>The Unicode Standard, version 1.1, and ISO/IEC 10646-1:1993(E) jointly define a 16 bit character set (hereafter referred to as Unicode) which encompasses most of the world's writing systems. However, Internet mail (STD 11, RFC 822) currently supports only 7-bit US ASCII as a character set. MIME (RFC 1521 and RFC 1522) extends Internet mail to support different media types and character sets, and thus could support Unicode in mail messages. MIME neither defines Unicode as a permitted character set nor specifies how it would be
- encoded, although it does provide for the registration of additional character sets over time.</t>
-<t>This document specifies the usage of Unicode within MIME.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1641' />
-<format type='TXT' octets='11258' target='http://www.rfc-editor.org/rfc/rfc1641.txt' />
-<format type='PS' octets='20451' target='http://www.rfc-editor.org/rfc/rfc1641.ps' />
-<format type='PDF' octets='11658' target='http://www.rfc-editor.org/rfc/rfc1641.pdf' />
+<abstract><t>This document specifies the usage of Unicode within MIME.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1641'/>
+<seriesInfo name='DOI' value='10.17487/RFC1641'/>
 </reference>

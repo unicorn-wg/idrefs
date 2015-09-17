@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0778'>
-
+<reference  anchor='RFC0778' target='http://www.rfc-editor.org/info/rfc778'>
 <front>
 <title>DCNET Internet Clock Service</title>
-<author initials='D.' surname='Mills' fullname='D. L. Mills'>
-<organization>COMSAT Laboratories</organization></author>
-<date year='1981' day='18' month='April' /></front>
-
-<seriesInfo name='RFC' value='778' />
-<format type='TXT' octets='9464' target='http://www.rfc-editor.org/rfc/rfc778.txt' />
+<author initials='D.L.' surname='Mills' fullname='D.L. Mills'><organization /></author>
+<date year='1981' month='April' />
+</front>
+<seriesInfo name='RFC' value='778'/>
+<seriesInfo name='DOI' value='10.17487/RFC0778'/>
 </reference>

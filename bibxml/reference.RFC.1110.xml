@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1110'>
-
+<reference  anchor='RFC1110' target='http://www.rfc-editor.org/info/rfc1110'>
 <front>
-<title abbrev='Comments on TCP Big Window Option'>Problem with the TCP big window option</title>
-<author initials='A.' surname='McKenzie' fullname='Alex McKenzie'>
-<organization>Bolt Beranek and Newman Inc. (BBN)</organization>
-<address>
-<postal>
-<street>10 Moulton Street</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02238</code>
-<country>US</country></postal>
-<phone>+1 617 873 2962</phone>
-<email>MCKENZIE@BBN.COM</email></address></author>
-<date year='1989' day='1' month='August' />
-<abstract>
-<t>The TCP Big Window option discussed in RFC 1106 will not work properly in an Internet environment which has both a high bandwidth * delay product and the possibility of disordering and duplicating packets.  In such networks, the window size must not be increased without a similar increase in the sequence number space.  Therefore, a different approach to big windows should be taken in the Internet.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1110' />
-<format type='TXT' octets='5778' target='http://www.rfc-editor.org/rfc/rfc1110.txt' />
+<title>Problem with the TCP big window option</title>
+<author initials='A.M.' surname='McKenzie' fullname='A.M. McKenzie'><organization /></author>
+<date year='1989' month='August' />
+<abstract><t>This memo comments on the TCP Big Window option described in RFC 1106.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1110'/>
+<seriesInfo name='DOI' value='10.17487/RFC1110'/>
 </reference>

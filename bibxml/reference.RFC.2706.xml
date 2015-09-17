@@ -1,38 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2706'>
-
+<reference  anchor='RFC2706' target='http://www.rfc-editor.org/info/rfc2706'>
 <front>
-<title abbrev='ECom Field Names'>ECML v1: Field Names for E-Commerce</title>
-<author initials='D.' surname='Eastlake' fullname='Donald E. Eastlake, 3rd'>
-<organization>IBM, J1-N63</organization>
-<address>
-<postal>
-<street>17 Skyline Drive</street>
-<city>Hawthorne</city>
-<region>NY</region>
-<code>10532</code>
-<country>US</country></postal>
-<phone>+1 914 784 7913</phone>
-<facsimile>+1 914 784 3833</facsimile>
-<email>dee3@us.ibm.com</email></address></author>
-<author initials='T.' surname='Goldstein' fullname='Ted Goldstein'>
-<organization>Brodia Networks, Inc.</organization>
-<address>
-<postal>
-<street>221 Main Street</street>
-<street>Suite 1530</street>
-<city>San Francisco</city>
-<region>CA</region>
-<code>94105</code>
-<country>US</country></postal>
-<phone>+1 415 495 3100 x222</phone>
-<facsimile>+1 415 495 3177</facsimile>
-<email>tgoldstein@brodia.com</email></address></author>
+<title>ECML v1: Field Names for E-Commerce</title>
+<author initials='D.' surname='Eastlake 3rd' fullname='D. Eastlake 3rd'><organization /></author>
+<author initials='T.' surname='Goldstein' fullname='T. Goldstein'><organization /></author>
 <date year='1999' month='October' />
-<abstract>
-<t>Customers are frequently required to enter substantial amounts of information at an Internet merchant site in order to complete a purchase or other transaction, especially the first time they go there. A standard set of information fields is defined as the first version of an Electronic Commerce Modeling Language (ECML) so that this task can be more easily automated, for example by wallet software that could fill in fields.  Even for the manual data entry case, customers will be less confused by varying merchant sites if a substantial number adopt these standard fields.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2706' />
-<format type='TXT' octets='26135' target='http://www.rfc-editor.org/rfc/rfc2706.txt' />
+<abstract><t>A standard set of information fields is defined as the first version of an Electronic Commerce Modeling Language (ECML) so that this task can be more easily automated, for example by wallet software that could fill in fields.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2706'/>
+<seriesInfo name='DOI' value='10.17487/RFC2706'/>
 </reference>

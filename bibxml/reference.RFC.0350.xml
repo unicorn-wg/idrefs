@@ -1,16 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0350'>
-
+<reference  anchor='RFC0350' target='http://www.rfc-editor.org/info/rfc350'>
 <front>
 <title>User Accounts for UCSB On-Line System</title>
-<author initials='R.' surname='Stoughton' fullname='R. M. Stoughton'>
-<organization>University of California, Santa Barbara (UCSB)</organization></author>
-<date year='1972' day='18' month='May' />
-<abstract>
-<t>For the past year UCSB has provided free use of the UCSB On-line System to Network sites.  Recharges for this service are being paid for by the Computer Research Lab with funds out of our current ARPA contract.  Connect time for the month of April totaled 152 hours.</t>
-<t>Presently, all users are running on the same account: User Number=196, ID Code=57372, User Name=ARPA.  As such, it is difficult to monitor the amount of use by each site.  Consequently, we are changing the login procedure for Network users, effective 1 June 72.</t></abstract></front>
-
-<seriesInfo name='RFC' value='350' />
-<format type='TXT' octets='5117' target='http://www.rfc-editor.org/rfc/rfc350.txt' />
+<author initials='R.' surname='Stoughton' fullname='R. Stoughton'><organization /></author>
+<date year='1972' month='May' />
+</front>
+<seriesInfo name='RFC' value='350'/>
+<seriesInfo name='DOI' value='10.17487/RFC0350'/>
 </reference>

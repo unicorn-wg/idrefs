@@ -1,23 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0299'>
-
+<reference  anchor='RFC0299' target='http://www.rfc-editor.org/info/rfc299'>
 <front>
 <title>Information Management System</title>
-<author initials='D.' surname='Hopkin' fullname='Dorothy Hopkin'>
-<organization>University of Illinois, Urbana, Center for Advanced Computation</organization>
-<address>
-<postal>
-<street>333 Advanced Computation Building</street>
-<city>Urbana</city>
-<region>IL</region>
-<code>61801</code>
-<country>US</country></postal>
-<phone>+1 217 333 8060</phone></address></author>
-<date year='1972' day='11' month='February' />
-<abstract>
-<t>We intend to build an Information Management and Statistical System for the ILLIAC IV.  It is intended to support various areas of research whose problems are ILLIAC IV suited and whose data bases are large.</t></abstract></front>
-
-<seriesInfo name='RFC' value='299' />
-<format type='TXT' octets='1825' target='http://www.rfc-editor.org/rfc/rfc299.txt' />
+<author initials='D.' surname='Hopkin' fullname='D. Hopkin'><organization /></author>
+<date year='1972' month='February' />
+</front>
+<seriesInfo name='RFC' value='299'/>
+<seriesInfo name='DOI' value='10.17487/RFC0299'/>
 </reference>

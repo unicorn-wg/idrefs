@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1776'>
-
+<reference  anchor='RFC1776' target='http://www.rfc-editor.org/info/rfc1776'>
 <front>
 <title>The Address is the Message</title>
-<author initials='S.' surname='Crocker' fullname='Steve Crocker'>
-<organization>CyberCash, Inc.</organization>
-<address>
-<postal>
-<street>2086 Hunters Crest Way</street>
-<city>Vienna</city>
-<region>VA</region>
-<code>22181</code>
-<country>US</country></postal>
-<phone>+1 703 620 1222</phone>
-<email>crocker@cybercash.com</email></address></author>
-<date year='1995' day='1' month='April' />
-<abstract>
-<t></t></abstract></front>
-
-<seriesInfo name='RFC' value='1776' />
-<format type='TXT' octets='2051' target='http://www.rfc-editor.org/rfc/rfc1776.txt' />
+<author initials='S.' surname='Crocker' fullname='S. Crocker'><organization /></author>
+<date year='1995' month='April' />
+<abstract><t>Declaring that the address is the message, the IPng WG has selected a packet format which includes 1696 bytes of address space. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1776'/>
+<seriesInfo name='DOI' value='10.17487/RFC1776'/>
 </reference>

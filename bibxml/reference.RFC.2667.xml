@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2667'>
-
+<reference  anchor='RFC2667' target='http://www.rfc-editor.org/info/rfc2667'>
 <front>
 <title>IP Tunnel MIB</title>
-<author initials='D.' surname='Thaler' fullname='Dave Thaler'>
-<organization>Microsoft Corporation</organization>
-<address>
-<postal>
-<street>One Microsoft Way</street>
-<city>Redmond</city>
-<region>WA</region>
-<code>98052</code>
-<country>US</country></postal>
-<phone>+1 425 703 8835</phone>
-<email>dthaler@microsoft.com</email></address></author>
+<author initials='D.' surname='Thaler' fullname='D. Thaler'><organization /></author>
 <date year='1999' month='August' />
-<abstract>
-<t>This memo defines a Management Information Base (MIB) for use with network management protocols in the Internet community. In particular, it describes managed objects used for managing tunnels of any type over IPv4 networks. Extension MIBs may be designed for managing protocol-specific objects. Likewise, extension MIBs may be designed for managing security-specific objects. This MIB does not support tunnels over non-IPv4 networks (including IPv6 networks). Management of such tunnels may be supported by other MIBs.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2667' />
-<format type='TXT' octets='32770' target='http://www.rfc-editor.org/rfc/rfc2667.txt' />
+<abstract><t>This memo defines a Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects used for managing tunnels of any type over IPv4 networks.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2667'/>
+<seriesInfo name='DOI' value='10.17487/RFC2667'/>
 </reference>

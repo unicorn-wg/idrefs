@@ -1,26 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2394'>
-
+<reference  anchor='RFC2394' target='http://www.rfc-editor.org/info/rfc2394'>
 <front>
 <title>IP Payload Compression Using DEFLATE</title>
-<author initials='R.' surname='Pereira' fullname='Roy Pereira'>
-<organization>TimeStep Corporation</organization>
-<address>
-<phone>+1 (613) 599-3610 x 4808</phone>
-<email>rpereira@timestep.com</email></address></author>
+<author initials='R.' surname='Pereira' fullname='R. Pereira'><organization /></author>
 <date year='1998' month='December' />
-<area>Internet</area>
-<keyword>IP</keyword>
-<keyword>compress</keyword>
-<abstract>
-<t>
-   This document describes a compression method based on the DEFLATE
-   compression algorithm.  This document defines the application of the
-   DEFLATE algorithm to the IP Payload Compression Protocol.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2394' />
-<format type='TXT' octets='11053' target='http://www.rfc-editor.org/rfc/rfc2394.txt' />
-<format type='XML' octets='11224' target='http://xml.resource.org/public/rfc/xml/rfc2394.xml' />
+<abstract><t>This document describes a compression method based on the DEFLATE compression algorithm.  This document defines the application of the DEFLATE algorithm to the IP Payload Compression Protocol.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2394'/>
+<seriesInfo name='DOI' value='10.17487/RFC2394'/>
 </reference>

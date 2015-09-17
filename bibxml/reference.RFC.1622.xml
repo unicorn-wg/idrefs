@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1622'>
-
+<reference  anchor='RFC1622' target='http://www.rfc-editor.org/info/rfc1622'>
 <front>
 <title>Pip Header Processing</title>
-<author initials='P.' surname='Francis' fullname='Paul Francis'>
-<organization>NTT Software Lab</organization>
-<address>
-<postal>
-<street>3-9-11 Midori-cho Musashino-shi</street>
-<city>Tokyo</city>
-<region />
-<code>180</code>
-<country>JP</country></postal>
-<phone>+81 422 593843</phone>
-<facsimile>+81 422 593765</facsimile>
-<email>francis@cactus.ntt.jp</email></address></author>
+<author initials='P.' surname='Francis' fullname='P. Francis'><organization /></author>
 <date year='1994' month='May' />
-<abstract>
-<t>Pip is an internet protocol intended as the replacement for IP version 4.  Pip is a general purpose internet protocol, designed to handle all forseeable internet protocol requirements.  This specification defines the Pip header processing for Routers and Hosts.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1622' />
-<format type='TXT' octets='34837' target='http://www.rfc-editor.org/rfc/rfc1622.txt' />
+<abstract><t>The purpose of this RFC and the companion RFC &quot;Pip Near-term Architecture&quot; are to record the ideas (good and bad) of Pip.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1622'/>
+<seriesInfo name='DOI' value='10.17487/RFC1622'/>
 </reference>

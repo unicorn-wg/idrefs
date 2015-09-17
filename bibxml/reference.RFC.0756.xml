@@ -1,40 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0756'>
-
+<reference  anchor='RFC0756' target='http://www.rfc-editor.org/info/rfc756'>
 <front>
-<title abbrev='NIC Name Server'>NIC name server - a datagram-based information utility</title>
-<author initials='J.' surname='Pickens' fullname='John R. Pickens'>
-<organization>SRI International, Telecommunications Sciences Center</organization>
-<address>
-<postal>
-<street>333 Ravenswood</street>
-<city>Menlo Park</city>
-<region>CA</region>
-<code>94025</code>
-<country>US</country></postal></address></author>
-<author initials='E.' surname='Feinler' fullname='Elizabeth J. Feinler'>
-<organization>SRI International, Telecommunications Sciences Center</organization>
-<address>
-<postal>
-<street>333 Ravenswood</street>
-<city>Menlo Park</city>
-<region>CA</region>
-<code>94025</code>
-<country>US</country></postal></address></author>
-<author initials='J.' surname='Mathis' fullname='James E. Mathis'>
-<organization>SRI International, Telecommunications Sciences Center</organization>
-<address>
-<postal>
-<street>333 Ravenswood</street>
-<city>Menlo Park</city>
-<region>CA</region>
-<code>94025</code>
-<country>US</country></postal></address></author>
-<date year='1979' day='1' month='July' />
-<abstract>
-<t>In this paper a new method for distributing and updating host name/address information in large computer networks is described. The technique uses datagrams to provide a simple transaction-based query/response service.  A provisional service is being provided by the Arpanet Network Information Center (NIC) and is used by mobile packet radio terminals, as well as by several Arpanet DEC-10 hosts.  Extensions to the service are suggested that would expand the query functionality to allow more flexible query formats as well as queries for service addresses. Several architectural approaches with potential for expansion into a distributed internet environment are proposed.  This technique may be utilized in support of other distributed applications such as user identification and group distribution for computer based mail.</t></abstract></front>
-
-<seriesInfo name='RFC' value='756' />
-<format type='TXT' octets='23491' target='http://www.rfc-editor.org/rfc/rfc756.txt' />
+<title>NIC name server - a datagram-based information utility</title>
+<author initials='J.R.' surname='Pickens' fullname='J.R. Pickens'><organization /></author>
+<author initials='E.J.' surname='Feinler' fullname='E.J. Feinler'><organization /></author>
+<author initials='J.E.' surname='Mathis' fullname='J.E. Mathis'><organization /></author>
+<date year='1979' month='July' />
+</front>
+<seriesInfo name='RFC' value='756'/>
+<seriesInfo name='DOI' value='10.17487/RFC0756'/>
 </reference>

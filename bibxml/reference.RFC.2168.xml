@@ -1,40 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2168'>
-
+<reference  anchor='RFC2168' target='http://www.rfc-editor.org/info/rfc2168'>
 <front>
-<title abbrev='Resolution of URIs Using the DNS'>Resolution of Uniform Resource Identifiers using the Domain Name System</title>
-<author initials='R.' surname='Daniel' fullname='Ron Daniel'>
-<organization>Los Alamos National Laboratory</organization>
-<address>
-<postal>
-<street>MS B287</street>
-<city>Los Alamos</city>
-<region>NM</region>
-<code>87545</code>
-<country>US</country></postal>
-<phone>+1 505 665 0597</phone>
-<facsimile>+1 505 665 4939</facsimile>
-<email>rdaniel@lanl.gov</email></address></author>
-<author initials='M.' surname='Mealling' fullname='Michael Mealling'>
-<organization>Network Solutions</organization>
-<address>
-<postal>
-<street>505 Huntmar Park Drive</street>
-<city>Herndon</city>
-<region>VA</region>
-<code>22070</code>
-<country>US</country></postal>
-<phone>+1 703 742 0400</phone>
-<facsimile>+1 703 742 9552</facsimile>
-<email>michaelm@internic.net</email>
-<uri>http://www.netsol.com/</uri></address></author>
+<title>Resolution of Uniform Resource Identifiers using the Domain Name System</title>
+<author initials='R.' surname='Daniel' fullname='R. Daniel'><organization /></author>
+<author initials='M.' surname='Mealling' fullname='M. Mealling'><organization /></author>
 <date year='1997' month='June' />
-<abstract>
-<t>Uniform Resource Locators (URLs) are the foundation of the World Wide Web, and are a vital Internet technology. However, they have proven to be brittle in practice. The basic problem is that URLs typically identify a particular path to a file on a particular host. There is no graceful way of changing the path or host once the URL has been assigned. Neither is there a graceful way of replicating the resource located by the URL to achieve better network utilization and/or fault tolerance. Uniform Resource Names (URNs) have been  hypothesized as an adjunct to URLs that would overcome such problems. URNs and URLs are both instances of a broader class of identifiers known as Uniform Resource Identifiers (URIs).</t>
-<t>The requirements document for URN resolution systemsdefines the concept of a "resolver discovery service". This document describes the first, experimental, RDS. It is implemented by a new DNS Resource Record, NAPTR (Naming Authority PoinTeR), that provides rules for mapping parts of URIs to domain names.  By changing the mapping rules, we can change the host that is contacted to resolve a URI. This will allow a more graceful handling of URLs over long time periods, and forms the foundation for a new proposal for Uniform Resource Names.</t>
-<t>In addition to locating resolvers, the NAPTR provides for other naming systems to be grandfathered into the URN world, provides independence between the name assignment system and the resolution protocol system, and allows multiple services (Name to Location, Name to Description, Name to Resource, ...) to be offered.  In conjunction with the SRV RR, the NAPTR record allows those services to be replicated for the purposes of fault tolerance and load balancing.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2168' />
-<format type='TXT' octets='46528' target='http://www.rfc-editor.org/rfc/rfc2168.txt' />
+<abstract><t>The requirements document for URN resolution systems defines the concept of a &quot;resolver discovery service&quot;. This document describes the first, experimental, RDS. It is implemented by a new DNS Resource Record, NAPTR (Naming Authority PoinTeR), that provides rules for mapping parts of URIs to domain names.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2168'/>
+<seriesInfo name='DOI' value='10.17487/RFC2168'/>
 </reference>

@@ -1,17 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0187'>
-
+<reference  anchor='RFC0187' target='http://www.rfc-editor.org/info/rfc187'>
 <front>
 <title>Network/440 Protocol Concept</title>
-<author initials='D.' surname='McKay' fullname='Douglas B. McKay'>
-<organization>International Business Machines (IBM), Thomas J. Watson Research Center</organization></author>
-<author initials='D.' surname='Karp' fullname='Donald P. Karp'>
-<organization>International Business Machines (IBM), Thomas J. Watson Research Center</organization></author>
-<date year='1971' day='1' month='July' />
-<abstract>
-<t>This RFC is being circulated as an	information RFC. Its intent is to convey some of the thinking and philosophy that went into IBM's network protocol and overall network design.</t></abstract></front>
-
-<seriesInfo name='RFC' value='187' />
-<format type='TXT' octets='25042' target='http://www.rfc-editor.org/rfc/rfc187.txt' />
+<author initials='D.B.' surname='McKay' fullname='D.B. McKay'><organization /></author>
+<author initials='D.P.' surname='Karp' fullname='D.P. Karp'><organization /></author>
+<date year='1971' month='July' />
+</front>
+<seriesInfo name='RFC' value='187'/>
+<seriesInfo name='DOI' value='10.17487/RFC0187'/>
 </reference>

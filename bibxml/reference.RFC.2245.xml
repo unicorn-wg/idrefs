@@ -1,34 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2245'>
-
+<reference  anchor='RFC2245' target='http://www.rfc-editor.org/info/rfc2245'>
 <front>
-<title abbrev='Anonymous SASL'>Anonymous SASL Mechanism</title>
-<author initials='C.' surname='Newman' fullname='Chris Newman'>
-<organization>Innosoft International, Inc.</organization>
-<address>
-<postal>
-<street>1050 Lakes Drive</street>
-<street>West Covina</street>
-<street>CA 91790</street>
-<country>USA</country></postal>
-<email>chris.newman@innosoft.com</email></address></author>
+<title>Anonymous SASL Mechanism</title>
+<author initials='C.' surname='Newman' fullname='C. Newman'><organization /></author>
 <date year='1997' month='November' />
-<area>Security</area>
-<area>Applications</area>
-<keyword>anonymous</keyword>
-<abstract>
-<t>
-   It is common practice on the Internet to permit anonymous access to
-   various services.  Traditionally, this has been done with a plain
-   text password mechanism using &quot;anonymous&quot; as the user name and
-   optional trace information, such as an email address, as the
-   password.  As plaintext login commands are not permitted in new IETF
-   protocols, a new way to provide anonymous login is needed within the
-   context of the SASL  framework.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2245' />
-<format type='TXT' octets='9974' target='http://www.rfc-editor.org/rfc/rfc2245.txt' />
-<format type='XML' octets='10669' target='http://xml.resource.org/public/rfc/xml/rfc2245.xml' />
+<abstract><t>As plaintext login commands are not permitted in new IETF protocols, a new way to provide anonymous login is needed within the context of the SASL [SASL] framework.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2245'/>
+<seriesInfo name='DOI' value='10.17487/RFC2245'/>
 </reference>

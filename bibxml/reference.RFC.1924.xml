@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1924'>
-
+<reference  anchor='RFC1924' target='http://www.rfc-editor.org/info/rfc1924'>
 <front>
 <title>A Compact Representation of IPv6 Addresses</title>
-<author initials='R.' surname='Elz' fullname='Robert Elz'>
-<organization>University of Melbourne, Computer Science</organization>
-<address>
-<postal>
-<street />
-<city>Parkville</city>
-<region>Victoria</region>
-<code>3052</code>
-<country>AU</country></postal>
-<email>kre@munnari.OZ.AU</email></address></author>
-<date year='1996' month='April' day='1' />
-<abstract>
-<t>IPv6 addresses, being 128 bits long, need 32 characters to write in the general case, if standard hex representation, is used, plus more for any punctuation inserted (typically about another 7 characters, or 39 characters total).  This document specifies a more compact representation of IPv6 addresses, which permits encoding in a mere 20 bytes.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1924' />
-<format type='TXT' octets='10409' target='http://www.rfc-editor.org/rfc/rfc1924.txt' />
+<author initials='R.' surname='Elz' fullname='R. Elz'><organization /></author>
+<date year='1996' month='April' />
+<abstract><t>This document specifies a more compact representation of IPv6 addresses, which permits encoding in a mere 20 bytes.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1924'/>
+<seriesInfo name='DOI' value='10.17487/RFC1924'/>
 </reference>

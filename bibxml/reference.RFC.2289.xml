@@ -1,65 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2289'>
-
+<reference  anchor='RFC2289' target='http://www.rfc-editor.org/info/rfc2289'>
 <front>
-<title abbrev='OTP'>A One-Time Password System</title>
-<author initials='N.' surname='Haller' fullname='Neil Haller'>
-<organization>Bellcore</organization>
-<address>
-<postal>
-<street>MCC 1C-265B</street>
-<street>445 South Street</street>
-<street>Morristown</street>
-<street>NJ</street>
-<street>07960-6438</street>
-<country>USA</country></postal>
-<phone>+1 201 829-4478</phone>
-<facsimile>+1 201 829-2504</facsimile>
-<email>nmh@bellcore.com</email></address></author>
-<author initials='C.' surname='Metz' fullname='Craig Metz'>
-<organization>Kaman Sciences Corporation</organization>
-<address>
-<postal>
-<street>For NRL Code 5544</street>
-<street>4555 Overlook Avenue</street>
-<street>S.W.</street>
-<street>Washington</street>
-<street>DC</street>
-<street>20375-5337</street>
-<country>USA</country></postal>
-<phone>+1 202 404-7122</phone>
-<facsimile>+1 202 404-7942</facsimile>
-<email>cmetz@cs.nrl.navy.mil</email></address></author>
-<author initials='P.J.' surname='Nesser' fullname='Philip J. Nesser II'>
-<organization>Nesser &amp; Nesser Consulting</organization>
-<address>
-<postal>
-<street>13501 100th Ave</street>
-<street>Suite 5202</street>
-<street>Kirkland</street>
-<street>WA 98034</street>
-<country>USA</country></postal>
-<phone>+1 206 481 4303</phone>
-<email>pjnesser@martigny.ai.mit.edu</email></address></author>
-<author initials='M.' surname='Straw' fullname='Mike Straw'>
-<organization>Bellcore</organization>
-<address>
-<postal>
-<street>RRC 1A-225</street>
-<street>445 Hoes Lane</street>
-<street>Piscataway</street>
-<street>NJ 08854-4182</street></postal>
-<phone>+1 908 699-5212</phone>
-<email>mess@bellcore.com</email></address></author>
+<title>A One-Time Password System</title>
+<author initials='N.' surname='Haller' fullname='N. Haller'><organization /></author>
+<author initials='C.' surname='Metz' fullname='C. Metz'><organization /></author>
+<author initials='P.' surname='Nesser' fullname='P. Nesser'><organization /></author>
+<author initials='M.' surname='Straw' fullname='M. Straw'><organization /></author>
 <date year='1998' month='February' />
-<area>Security</area>
-<keyword>attack</keyword>
-<keyword>authentication</keyword>
-<keyword>one-time password</keyword>
-<keyword>password</keyword></front>
-
-<seriesInfo name='RFC' value='2289' />
-<format type='TXT' octets='56495' target='http://www.rfc-editor.org/rfc/rfc2289.txt' />
-<format type='XML' octets='73333' target='http://xml.resource.org/public/rfc/xml/rfc2289.xml' />
+<abstract><t>This document describes a one-time password authentication system (OTP). The system provides authentication for system access (login) and other applications requiring authentication that is secure against passive attacks based on replaying captured reusable passwords.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='STD' value='61'/>
+<seriesInfo name='RFC' value='2289'/>
+<seriesInfo name='DOI' value='10.17487/RFC2289'/>
 </reference>

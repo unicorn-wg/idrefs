@@ -1,49 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2767'>
-
+<reference  anchor='RFC2767' target='http://www.rfc-editor.org/info/rfc2767'>
 <front>
-<title abbrev='Dual Stack Hosts using BIS'>Dual Stack Hosts using the "Bump-In-the-Stack" Technique (BIS)</title>
-<author initials='K.' surname='Tsuchiya' fullname='Kazuaki Tsuchiya'>
-<organization>Hitachi, Ltd.,  Enterprise Server Division</organization>
-<address>
-<postal>
-<street>810 Shimoimaizumi</street>
-<city>Ebina-shi</city>
-<region>Kanagawa-ken</region>
-<code>243-0435</code>
-<country>JP</country></postal>
-<phone>+81 462 322121</phone>
-<facsimile>+81 462 358324</facsimile>
-<email>tsuchi@ebina.hitachi.co.jp</email></address></author>
-<author initials='H.' surname='HIGUCHI' fullname='Hidemitsu HIGUCHI'>
-<organization>Hitachi, Ltd.,  Enterprise Server Division</organization>
-<address>
-<postal>
-<street>810 Shimoimaizumi</street>
-<city>Ebina-shi</city>
-<region>Kanagawa-ken</region>
-<code>243-0435</code>
-<country>JP</country></postal>
-<phone>+81 462 322121</phone>
-<facsimile>+81 462 358324</facsimile>
-<email>h-higuti@ebina.hitachi.co.jp</email></address></author>
-<author initials='Y.' surname='Atarashi' fullname='Yoshifumi Atarashi'>
-<organization>Hitachi, Ltd.,  Enterprise Server Division</organization>
-<address>
-<postal>
-<street>810 Shimoimaizumi</street>
-<city>Ebina-shi</city>
-<region>Kanagawa-ken</region>
-<code>243-0435</code>
-<country>JP</country></postal>
-<phone>+81 462 322121</phone>
-<facsimile>+81 462 358324</facsimile>
-<email>atarashi@ebina.hitachi.co.jp</email></address></author>
+<title>Dual Stack Hosts using the &quot;Bump-In-the-Stack&quot; Technique (BIS)</title>
+<author initials='K.' surname='Tsuchiya' fullname='K. Tsuchiya'><organization /></author>
+<author initials='H.' surname='Higuchi' fullname='H. Higuchi'><organization /></author>
+<author initials='Y.' surname='Atarashi' fullname='Y. Atarashi'><organization /></author>
 <date year='2000' month='February' />
-<abstract>
-<t>In the especially initial stage of the transition from IPv4 to IPv6, it is hard to provide a complete set of IPv6 applications.  This memo proposes a mechanism of dual stack hosts using the technique called "Bump-in-the-Stack" in the IP security area. The mechanism allows the hosts to communicate with other IPv6 hosts using existing IPv4 applications.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2767' />
-<format type='TXT' octets='26402' target='http://www.rfc-editor.org/rfc/rfc2767.txt' />
+<abstract><t>This memo proposes a mechanism of dual stack hosts using the technique called &quot;Bump-in-the-Stack&quot; in the IP security area.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2767'/>
+<seriesInfo name='DOI' value='10.17487/RFC2767'/>
 </reference>

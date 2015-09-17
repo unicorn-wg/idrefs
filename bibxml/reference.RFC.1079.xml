@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1079'>
-
+<reference  anchor='RFC1079' target='http://www.rfc-editor.org/info/rfc1079'>
 <front>
 <title>Telnet terminal speed option</title>
-<author initials='C.' surname='Hedrick' fullname='Charles Hedrick'>
-<organization>Rutgers University, Center for Computer and Information Services,</organization>
-<address>
-<postal>
-<street>Hill Center, Busch Campus</street>
-<street>P.O. Box 879</street>
-<city>Piscataway</city>
-<region>NJ</region>
-<code>08855-0879</code>
-<country>US</country></postal>
-<phone>+1 201 932 3088</phone>
-<email>HEDRICK@ARAMIS.RUTGERS.EDU</email></address></author>
-<date year='1988' day='1' month='December' /></front>
-
-<seriesInfo name='RFC' value='1079' />
-<format type='TXT' octets='4942' target='http://www.rfc-editor.org/rfc/rfc1079.txt' />
+<author initials='C.L.' surname='Hedrick' fullname='C.L. Hedrick'><organization /></author>
+<date year='1988' month='December' />
+<abstract><t>This RFC specifies a standard for the Internet community.  Hosts on the Internet that exchange terminal speed information within the Telnet protocol are expected to adopt and implement this standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1079'/>
+<seriesInfo name='DOI' value='10.17487/RFC1079'/>
 </reference>

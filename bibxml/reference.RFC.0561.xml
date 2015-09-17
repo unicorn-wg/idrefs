@@ -1,21 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0561'>
-
+<reference  anchor='RFC0561' target='http://www.rfc-editor.org/info/rfc561'>
 <front>
 <title>Standardizing Network Mail Headers</title>
-<author initials='A.' surname='Bhushan' fullname='Abhay Bhushan'>
-<organization>Massachusetts Institute of Technology (MIT), DMCG</organization></author>
-<author initials='K.' surname='Pogran' fullname='Ken Pogran'>
-<organization>Massachusetts Institute of Technology (MIT), MULTICS</organization></author>
-<author initials='R.' surname='Tomlinson' fullname='Ray Tomlinson'>
-<organization>Bolt Baranek and Newman (BBN), TENEX</organization></author>
-<author initials='J.' surname='White' fullname='Jim White'>
-<organization>Stanford Research Institute (SRI), Augmentation Research Center (ARC)</organization></author>
-<date year='1973' day='5' month='September' />
-<abstract>
-<t>One of the deficiences of the current FTP mail protocol is that it makes no provision for the explicit specification of such header information as author, title, and date.  Many systems send that information, but each in a different format.  One fairly serious result of this lack of standardization is that it's next to impossible for a system or user program to intelligently process incoming mail.</t></abstract></front>
-
-<seriesInfo name='RFC' value='561' />
-<format type='TXT' octets='6159' target='http://www.rfc-editor.org/rfc/rfc561.txt' />
+<author initials='A.K.' surname='Bhushan' fullname='A.K. Bhushan'><organization /></author>
+<author initials='K.T.' surname='Pogran' fullname='K.T. Pogran'><organization /></author>
+<author initials='R.S.' surname='Tomlinson' fullname='R.S. Tomlinson'><organization /></author>
+<author initials='J.E.' surname='White' fullname='J.E. White'><organization /></author>
+<date year='1973' month='September' />
+</front>
+<seriesInfo name='RFC' value='561'/>
+<seriesInfo name='DOI' value='10.17487/RFC0561'/>
 </reference>

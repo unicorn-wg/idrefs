@@ -1,41 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2395'>
-
+<reference  anchor='RFC2395' target='http://www.rfc-editor.org/info/rfc2395'>
 <front>
 <title>IP Payload Compression Using LZS</title>
-<author initials='R.' surname='Friend' fullname='Robert Friend'>
-<organization>Hi/fn Inc.</organization>
-<address>
-<postal>
-<street>5973 Avenida Encinas</street>
-<street>Suite 110</street>
-<street>Carlsbad</street>
-<street>CA  92008</street></postal>
-<email>rfriend@hifn.com</email></address></author>
-<author initials='R.' surname='Monsour' fullname='Robert Monsour'>
-<organization>Hi/fn Inc.</organization>
-<address>
-<postal>
-<street>2105 Hamilton Avenue</street>
-<street>Suite 230</street>
-<street>San Jose</street>
-<street>CA 95125</street></postal>
-<email>rmonsour@hifn.com</email></address></author>
+<author initials='R.' surname='Friend' fullname='R. Friend'><organization /></author>
+<author initials='R.' surname='Monsour' fullname='R. Monsour'><organization /></author>
 <date year='1998' month='December' />
-<area>Internet</area>
-<keyword>IP</keyword>
-<keyword>compress</keyword>
-<abstract>
-<t>
-   This document describes a compression method based on the LZS
-   compression algorithm. This document defines the application of the
-   LZS algorithm to the IP Payload Compression Protocol .
-    defines a method for applying lossless compression to the
-   payloads of Internet Protocol datagrams.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2395' />
-<format type='TXT' octets='14882' target='http://www.rfc-editor.org/rfc/rfc2395.txt' />
-<format type='XML' octets='16098' target='http://xml.resource.org/public/rfc/xml/rfc2395.xml' />
+<abstract><t>This document describes a compression method based on the LZS compression algorithm. This document defines the application of the LZS algorithm to the IP Payload Compression Protocol.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2395'/>
+<seriesInfo name='DOI' value='10.17487/RFC2395'/>
 </reference>

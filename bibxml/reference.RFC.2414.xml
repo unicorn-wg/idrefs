@@ -1,55 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2414'>
-
+<reference  anchor='RFC2414' target='http://www.rfc-editor.org/info/rfc2414'>
 <front>
-<title abbrev='Increasing TCP&apos;s Initial Window'>Increasing TCP&apos;s Initial Window</title>
-<author initials='M.' surname='Allman' fullname='Mark Allman'>
-<organization>NASA Lewis Research Center/Sterling Software</organization>
-<address>
-<postal>
-<street>21000 Brookpark Road</street>
-<street>MS 54-2</street>
-<region>OH</region>
-<code>44135</code>
-<country>USA</country></postal>
-<email>mallman@lerc.nasa.gov</email>
-<uri>http://gigahertz.lerc.nasa.gov/~mallman/</uri></address></author>
-<author initials='S.' surname='Floyd' fullname='Sally Floyd'>
-<organization>Lawrence Berkeley National Laboratory</organization>
-<address>
-<postal>
-<street>One Cyclotron Road</street>
-<city>Berkeley</city>
-<region>CA</region>
-<code>94720</code>
-<country>USA</country></postal>
-<email>floyd@ee.lbl.gov</email></address></author>
-<author initials='C.' surname='Partridge' fullname='Craig Partridge'>
-<organization>BBN Technologies</organization>
-<address>
-<postal>
-<street>10 Moulton Street</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02138</code>
-<country>USA</country></postal>
-<email>craig@bbn.com</email></address></author>
+<title>Increasing TCP's Initial Window</title>
+<author initials='M.' surname='Allman' fullname='M. Allman'><organization /></author>
+<author initials='S.' surname='Floyd' fullname='S. Floyd'><organization /></author>
+<author initials='C.' surname='Partridge' fullname='C. Partridge'><organization /></author>
 <date year='1998' month='September' />
-<area>Transport</area>
-<keyword>transmission control protocol</keyword>
-<keyword>TCP</keyword>
-<abstract>
-<t>
-   This document specifies an increase in the permitted initial window
-   for TCP from one segment to roughly 4K bytes.  This document
-   discusses the advantages and disadvantages of such a change,
-   outlining experimental results that indicate the costs and benefits
-   of such a change to TCP.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2414' />
-<format type='TXT' octets='32019' target='http://www.rfc-editor.org/rfc/rfc2414.txt' />
-<format type='HTML' octets='55667' target='http://xml.resource.org/public/rfc/html/rfc2414.html' />
-<format type='XML' octets='57425' target='http://xml.resource.org/public/rfc/xml/rfc2414.xml' />
+<abstract><t>This document specifies an increase in the permitted initial window for TCP from one segment to roughly 4K bytes.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2414'/>
+<seriesInfo name='DOI' value='10.17487/RFC2414'/>
 </reference>

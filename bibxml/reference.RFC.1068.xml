@@ -1,31 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1068'>
-
+<reference  anchor='RFC1068' target='http://www.rfc-editor.org/info/rfc1068'>
 <front>
 <title>Background File Transfer Program (BFTP)</title>
-<author initials='A.' surname='DeSchon' fullname='A. DeSchon'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90291</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone></address></author>
-<author initials='R.' surname='Braden' fullname='R. Braden'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90291</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone></address></author>
-<date year='1988' day='1' month='August' /></front>
-
-<seriesInfo name='RFC' value='1068' />
-<format type='TXT' octets='51004' target='http://www.rfc-editor.org/rfc/rfc1068.txt' />
+<author initials='A.L.' surname='DeSchon' fullname='A.L. DeSchon'><organization /></author>
+<author initials='R.T.' surname='Braden' fullname='R.T. Braden'><organization /></author>
+<date year='1988' month='August' />
+<abstract><t>This RFC describes an Internet background file transfer service that is built upon the third-party transfer model of FTP.  No new protocols are involved.  The purpose of this memo is to stimulate discussions on new Internet service modes.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1068'/>
+<seriesInfo name='DOI' value='10.17487/RFC1068'/>
 </reference>

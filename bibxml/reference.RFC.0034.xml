@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0034'>
-
+<reference  anchor='RFC0034' target='http://www.rfc-editor.org/info/rfc34'>
 <front>
-<title abbrev='Prelimary Notes on the ARC Clock'>Some Brief Preliminary Notes on the Augmentation Research Center Clock</title>
-<author initials='B.' surname='English' fullname='Bill English'>
-<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
-<date year='1970' day='26' month='February' />
-<abstract>
-<t>The ARC clock system provides a time reference that is written into the core memory of the XDS 940 Computer. There are two types of time information available--absolute and relative.</t></abstract></front>
-
-<seriesInfo name='RFC' value='34' />
-<format type='TXT' octets='2534' target='http://www.rfc-editor.org/rfc/rfc34.txt' />
+<title>Some Brief Preliminary Notes on the Augmentation Research Center Clock</title>
+<author initials='W.K.' surname='English' fullname='W.K. English'><organization /></author>
+<date year='1970' month='February' />
+</front>
+<seriesInfo name='RFC' value='34'/>
+<seriesInfo name='DOI' value='10.17487/RFC0034'/>
 </reference>

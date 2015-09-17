@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0401'>
-
+<reference  anchor='RFC0401' target='http://www.rfc-editor.org/info/rfc401'>
 <front>
 <title>Conversion of NGP-0 Coordinates to Device Specific Coordinates</title>
-<author initials='J.' surname='Hansen' fullname='Jim Hansen'>
-<organization>University of Illinois, Center for Advanced Computation</organization></author>
-<date year='1972' day='23' month='October' />
-<abstract>
-<t>Conversion of NGP-0 coordinates to floating point PDP-10 coordinates was discussed in RFC #387.  In general, however, it is undesirable to convert NGP coordinates to floating point coordinates because real devices require integer addressing.</t></abstract></front>
-
-<seriesInfo name='RFC' value='401' />
-<format type='TXT' octets='3894' target='http://www.rfc-editor.org/rfc/rfc401.txt' />
+<author initials='J.' surname='Hansen' fullname='J. Hansen'><organization /></author>
+<date year='1972' month='October' />
+</front>
+<seriesInfo name='RFC' value='401'/>
+<seriesInfo name='DOI' value='10.17487/RFC0401'/>
 </reference>

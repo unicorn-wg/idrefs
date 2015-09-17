@@ -1,37 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2220'>
-
+<reference  anchor='RFC2220' target='http://www.rfc-editor.org/info/rfc2220'>
 <front>
-<title abbrev='MARC Content-type'>The Application/MARC Content-type</title>
-<author initials='R.' surname='Guenther' fullname='Rebecca Guenther'>
-<organization>Network Development &amp; MARC Standards Office</organization>
-<address>
-<postal>
-<street>Library of Congress</street>
-<street>101 Independence Ave.</street>
-<street>Washington</street>
-<street>DC 20540-4102 U.S.A.</street>
-<country>SE</country></postal>
-<phone>+1 (202) 707-5092</phone>
-<facsimile>+1 (202) 707-0115</facsimile>
-<email>rgue@loc.gov</email></address></author>
+<title>The Application/MARC Content-type</title>
+<author initials='R.' surname='Guenther' fullname='R. Guenther'><organization /></author>
 <date year='1997' month='October' />
-<area>Applications</area>
-<keyword>MARC</keyword>
-<keyword>content-type</keyword>
-<abstract>
-<t>
-   This memorandum provides a mechanism for representing objects which
-   are files of Machine-Readable Cataloging records (MARC).  The MARC
-   formats are standards for the representation and communication of
-   bibliographic and related information.  A MARC record contains
-   metadata for an information resource following MARC format
-   specifications.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2220' />
-<format type='TXT' octets='7025' target='http://www.rfc-editor.org/rfc/rfc2220.txt' />
-<format type='HTML' octets='19593' target='http://xml.resource.org/public/rfc/html/rfc2220.html' />
-<format type='XML' octets='6505' target='http://xml.resource.org/public/rfc/xml/rfc2220.xml' />
+<abstract><t>This memorandum provides a mechanism for representing objects which are files of Machine-Readable Cataloging records (MARC).  The MARC formats are standards for the representation and communication of bibliographic and related information.  A MARC record contains metadata for an information resource following MARC format specifications.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2220'/>
+<seriesInfo name='DOI' value='10.17487/RFC2220'/>
 </reference>

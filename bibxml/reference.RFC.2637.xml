@@ -1,55 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2637'>
-
+<reference  anchor='RFC2637' target='http://www.rfc-editor.org/info/rfc2637'>
 <front>
-<title>Point-to-Point Tunneling Protocol</title>
-<author initials='K.' surname='Hamzeh' fullname='Kory Hamzeh'>
-<organization>Ascend Communications</organization>
-<address>
-<postal>
-<street>1275 Harbor Bay Parkway</street>
-<city>Alameda</city>
-<region>CA</region>
-<code>94502</code>
-<country>US</country></postal>
-<email>kory@ascend.com</email></address></author>
-<author initials='G.' surname='Pall' fullname='Gall Pall'>
-<organization>Microsoft Corporation</organization>
-<address>
-<postal>
-<street>One Microsoft Way</street>
-<city>Redmond</city>
-<region>WA</region>
-<code>98052-6399</code>
-<country>US</country></postal>
-<email>gurdeep@microsoft.com</email></address></author>
-<author initials='W.' surname='Verthein' fullname='William Verthein'>
-<organization>U.S. Robotics/3Com</organization></author>
-<author initials='J.' surname='Taarud' fullname='Jeff Taarud'>
-<organization>Copper Mountain Networks</organization></author>
-<author initials='W.' surname='Little' fullname='W.  Andrew Little'>
-<organization>ECI Telematics</organization></author>
-<author initials='G.' surname='Zorn' fullname='Glen Zorn'>
-<organization>Microsoft Corporation</organization>
-<address>
-<postal>
-<street>One Microsoft Way</street>
-<city>Redmond</city>
-<region>WA</region>
-<code>98052-6399</code>
-<country>US</country></postal>
-<email>glennz@microsoft.com</email></address></author>
+<title>Point-to-Point Tunneling Protocol (PPTP)</title>
+<author initials='K.' surname='Hamzeh' fullname='K. Hamzeh'><organization /></author>
+<author initials='G.' surname='Pall' fullname='G. Pall'><organization /></author>
+<author initials='W.' surname='Verthein' fullname='W. Verthein'><organization /></author>
+<author initials='J.' surname='Taarud' fullname='J. Taarud'><organization /></author>
+<author initials='W.' surname='Little' fullname='W. Little'><organization /></author>
+<author initials='G.' surname='Zorn' fullname='G. Zorn'><organization /></author>
 <date year='1999' month='July' />
-<abstract>
-<t>This document specifies a protocol which allows the Point to Point Protocol (PPP) to be tunneled through an IP network. PPTP does not specify any changes to the PPP  protocol but rather describes a new vehicle for carrying PPP. A client-server architecture is defined in order to decouple functions which exist in current Network Access Servers (NAS) and support Virtual Private Networks (VPNs). The PPTP Network Server (PNS) is envisioned to run on a general purpose operating system while the client, referred to as a PPTP Access Concentrator (PAC) operates on a dial access platform. PPTP specifies a call-control and management protocol which allows the server to control access for dial-in circuit switched calls
-originating from a PSTN or ISDN or to initiate outbound circuit-switched connections. PPTP uses an enhanced GRE (Generic Routing Encapsulation) mechanism to provide a flow- and congestion-controlled encapsulated datagram service for carrying PPP packets.</t></abstract>
-<note title='IESG Note'>
-<t>The PPTP protocol was developed by a vendor consortium. The documentation of PPTP is provided as information to the Internet community. The PPP WG is currently defining a Standards Track protocol (L2TP) for tunneling PPP across packet-switched networks.</t></note>
-<note title='Specification of Requirements'>
-<t>In this document, the key words "MAY", "MUST, "MUST NOT", "optional", "recommended", "SHOULD", and "SHOULD NOT" are to be interpreted as described in.</t>
-<t>The words "silently discard", when used in reference to the behavior of an implementation upon receipt of an incoming packet, are to be interpreted as follows: the  implementation discards the datagram without further processing, and without indicating an error to the sender. The implementation SHOULD provide the capability of logging the error, including the contents of the discarded datagram, and SHOULD record the event in a statistics counter.</t></note></front>
-
-<seriesInfo name='RFC' value='2637' />
-<format type='TXT' octets='132565' target='http://www.rfc-editor.org/rfc/rfc2637.txt' />
+<abstract><t>This document specifies a protocol which allows the Point to Point Protocol (PPP) to be tunneled through an IP network.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2637'/>
+<seriesInfo name='DOI' value='10.17487/RFC2637'/>
 </reference>

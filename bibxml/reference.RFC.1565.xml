@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1565'>
-
+<reference  anchor='RFC1565' target='http://www.rfc-editor.org/info/rfc1565'>
 <front>
 <title>Network Services Monitoring MIB</title>
-<author initials='S.' surname='Kille' fullname='Steve Kille'>
-<organization>ISODE Consortium</organization>
-<address>
-<postal>
-<street>The Dome, The Square</street>
-<city>Richmond</city>
-<region>England</region>
-<code>TW9 1DT</code>
-<country>UK</country></postal>
-<phone>+44 81 3329091</phone>
-<email>S.Kille@isode.com</email></address></author>
-<author initials='N.' surname='Freed' fullname='Ned Freed'>
-<organization>Innosoft International, Inc.</organization>
-<address>
-<postal>
-<street>250 West First Street</street>
-<street>Suite 240</street>
-<city>Claremont</city>
-<region>CA</region>
-<code>91711</code>
-<country>US</country></postal>
-<phone>+1 909 624 7907</phone>
-<facsimile>+1 909 621 5319</facsimile>
-<email>ned@innosoft.com</email></address></author>
-<date year='1994' month='January' /></front>
-
-<seriesInfo name='RFC' value='1565' />
-<format type='TXT' octets='29761' target='http://www.rfc-editor.org/rfc/rfc1565.txt' />
+<author initials='S.' surname='Kille' fullname='S. Kille'><organization /></author>
+<author initials='N.' surname='Freed' fullname='N. Freed'><organization /></author>
+<date year='1994' month='January' />
+<abstract><t>This document defines a MIB which contains the elements common to the monitoring of any network service application.  This information includes a table of all monitorable network service applications, a count of the associations (connections) to each application, and basic information about the parameters and status of each application-related association. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1565'/>
+<seriesInfo name='DOI' value='10.17487/RFC1565'/>
 </reference>

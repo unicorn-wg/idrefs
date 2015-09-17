@@ -1,32 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2687'>
-
+<reference  anchor='RFC2687' target='http://www.rfc-editor.org/info/rfc2687'>
 <front>
-<title abbrev='PPP in Real-time Oriented HDLC Framing'>PPP in a Real-time Oriented HDLC-like Framing</title>
-<author initials='C.' surname='Bormann' fullname='Carsten Bormann'>
-<organization>Universitaet Bremen FB3 TZI</organization>
-<address>
-<postal>
-<street>Postfach 330440</street>
-<city>Bremen</city>
-<code>D-28334</code>
-<country>DE</country></postal>
-<phone>+49 421 2187024</phone>
-<email>cabo@tzi.org</email></address></author>
+<title>PPP in a Real-time Oriented HDLC-like Framing</title>
+<author initials='C.' surname='Bormann' fullname='C. Bormann'><organization /></author>
 <date year='1999' month='September' />
-<abstract>
-<t>A companion document describes an architecture for providing
-integrated services over low-bitrate links, such as modem lines, ISDN
-B-channels, and sub-T1 links. The main components of the architecture are: a real-time encapsulation format for asynchronous
-and synchronous low-bitrate links, a header compression architecture
-optimized for real-time flows, elements of negotiation protocols used
-between routers (or between hosts and routers), and announcement
-protocols used by applications to allow this negotiation to take
-place.</t>
-<t>This document proposes the suspend/resume-oriented solution for the real-time encapsulation format part of the architecture. The general
-approach is to start from the PPP Multilink fragmentation protocoland its multi-class extensionand add suspend/resume in a way that is as compatible to existing hard- and firmware as possible.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2687' />
-<format type='TXT' octets='28699' target='http://www.rfc-editor.org/rfc/rfc2687.txt' />
+<abstract><t>This document proposes the suspend/resume-oriented solution for the real-time encapsulation format part of the architecture.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2687'/>
+<seriesInfo name='DOI' value='10.17487/RFC2687'/>
 </reference>

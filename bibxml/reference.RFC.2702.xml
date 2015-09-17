@@ -1,68 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2702'>
-
+<reference  anchor='RFC2702' target='http://www.rfc-editor.org/info/rfc2702'>
 <front>
-<title abbrev='MPLS Traffic Engineering'>Requirements for Traffic Engineering Over MPLS</title>
-<author initials='D.' surname='Awduche' fullname='Daniel O. Awduche'>
-<organization>UUNET  (MCI Worldcom)</organization>
-<address>
-<postal>
-<street>3060 Williams Drive</street>
-<city>Fairfax</city>
-<region>VA</region>
-<code>22031</code>
-<country>US</country></postal>
-<phone>+1 703 208 5277</phone>
-<email>awduche@uu.net</email></address></author>
-<author initials='J.' surname='Malcolm' fullname='Joe Malcolm'>
-<organization>UUNET  (MCI Worldcom)</organization>
-<address>
-<postal>
-<street>3060 Williams Drive</street>
-<city>Fairfax</city>
-<region>VA</region>
-<code>22031</code>
-<country>US</country></postal>
-<phone>+1 703 206 5895</phone>
-<email>jmalcolm@uu.net</email></address></author>
-<author initials='J.' surname='Agogbua' fullname='Johnson Agogbua'>
-<organization>UUNET  (MCI Worldcom)</organization>
-<address>
-<postal>
-<street>3060 Williams Drive</street>
-<city>Fairfax</city>
-<region>VA</region>
-<code>22031</code>
-<country>US</country></postal>
-<phone>+1 703 206 5794</phone>
-<email>ja@uu.net</email></address></author>
-<author initials='M.' surname='O&apos;Dell' fullname='Mike O&apos;Dell'>
-<organization>UUNET  (MCI Worldcom)</organization>
-<address>
-<postal>
-<street>3060 Williams Drive</street>
-<city>Fairfax</city>
-<region>VA</region>
-<code>22031</code>
-<country>US</country></postal>
-<phone>+1 703 206 5890</phone>
-<email>mo@uu.net</email></address></author>
-<author initials='J.' surname='McManus' fullname='Jim McManus'>
-<organization>UUNET  (MCI Worldcom)</organization>
-<address>
-<postal>
-<street>3060 Williams Drive</street>
-<city>Fairfax</city>
-<region>VA</region>
-<code>22031</code>
-<country>US</country></postal>
-<phone>+1 703 206 5607</phone>
-<email>jmcmanus@uu.net</email></address></author>
+<title>Requirements for Traffic Engineering Over MPLS</title>
+<author initials='D.' surname='Awduche' fullname='D. Awduche'><organization /></author>
+<author initials='J.' surname='Malcolm' fullname='J. Malcolm'><organization /></author>
+<author initials='J.' surname='Agogbua' fullname='J. Agogbua'><organization /></author>
+<author initials='M.' surname='O&apos;Dell' fullname='M. O&apos;Dell'><organization /></author>
+<author initials='J.' surname='McManus' fullname='J. McManus'><organization /></author>
 <date year='1999' month='September' />
-<abstract>
-<t>This document presents a set of requirements for Traffic Engineering over Multiprotocol Label Switching (MPLS). It identifies the functional capabilities required to implement policies that facilitate efficient and reliable network operations in an MPLS domain. These capabilities can be used to optimize the utilization of  network resources and to enhance traffic oriented performance characteristics.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2702' />
-<format type='TXT' octets='68386' target='http://www.rfc-editor.org/rfc/rfc2702.txt' />
+<abstract><t>This document presents a set of requirements for Traffic Engineering over Multiprotocol Label Switching (MPLS).  It identifies the functional capabilities required to implement policies that facilitate efficient and reliable network operations in an MPLS domain.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2702'/>
+<seriesInfo name='DOI' value='10.17487/RFC2702'/>
 </reference>

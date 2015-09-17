@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0938'>
-
+<reference  anchor='RFC0938' target='http://www.rfc-editor.org/info/rfc938'>
 <front>
-<title abbrev='Internet Reliable Transaction Protocol'>Internet Reliable Transaction Protocol functional and interface specification</title>
-<author initials='T.' surname='Miller' fullname='Trudy Miller'>
-<organization>Advanced Computer Communications (ACC)</organization>
-<address>
-<postal>
-<street>720 Santa Barbara Street</street>
-<city>Santa Barbara</city>
-<region>CA</region>
-<code>93101</code>
-<country>US</country></postal>
-<phone>+1 805 963 9431</phone></address></author>
-<date year='1985' day='1' month='February' />
-<abstract>
-<t>The Internet Reliable Transaction Protocol (IRTP) is a transport level host to host protocol designed for an internet environment.  It provides reliable, sequenced delivery of packets of data between hosts and multiplexes/demultiplexes streams of packets from/to user processes representing ports.  It is simple to implement, with a minimum of connection management, at the possible expense of efficiency.</t></abstract></front>
-
-<seriesInfo name='RFC' value='938' />
-<format type='TXT' octets='39478' target='http://www.rfc-editor.org/rfc/rfc938.txt' />
+<title>Internet Reliable Transaction Protocol functional and interface specification</title>
+<author initials='T.' surname='Miller' fullname='T. Miller'><organization /></author>
+<date year='1985' month='February' />
+<abstract><t>This RFC is being distributed to members of the DARPA research community    in order to solicit their reactions to the proposals contained in it.    While the issues discussed may not be directly relevant to the research    problems of the DARPA community, they may be interesting to a number of    researchers and implementors.  This RFC suggests a proposed protocol for    the ARPA-Internet community, and requests discussion and suggestions for    improvements.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='938'/>
+<seriesInfo name='DOI' value='10.17487/RFC0938'/>
 </reference>

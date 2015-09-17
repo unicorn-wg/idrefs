@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1868'>
-
+<reference  anchor='RFC1868' target='http://www.rfc-editor.org/info/rfc1868'>
 <front>
-<title abbrev='UNARP'>ARP Extension - UNARP</title>
-<author initials='G.' surname='Malkin' fullname='Gary Scott Malkin'>
-<organization>Xylogics, Inc.</organization>
-<address>
-<postal>
-<street>53 Third Avenue</street>
-<city>Burlington</city>
-<region>MA</region>
-<code>01803</code>
-<country>US</country></postal>
-<phone>+1 617 272 8140</phone>
-<email>gmalkin@xylogics.com</email></address></author>
+<title>ARP Extension - UNARP</title>
+<author initials='G.' surname='Malkin' fullname='G. Malkin'><organization /></author>
 <date year='1995' month='November' />
-<abstract>
-<t>The Address Resolution Protocol allows an IP node to determine the hardware (datalink) address of a neighboring node on a broadcast network.  The protocol depends on timers to age away old ARP entries. This document specifies a trivial modification to the ARP mechanism, not the packet format, which allows a node to announce that it is leaving the network and that all other nodes should modify their ARP tables accordingly.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1868' />
-<format type='TXT' octets='7681' target='http://www.rfc-editor.org/rfc/rfc1868.txt' />
+<abstract><t>This document specifies a trivial modification to the ARP mechanism, not the packet format, which allows a node to announce that it is leaving the network and that all other nodes should modify their ARP tables accordingly.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1868'/>
+<seriesInfo name='DOI' value='10.17487/RFC1868'/>
 </reference>

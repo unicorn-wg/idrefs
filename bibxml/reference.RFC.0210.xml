@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0210'>
-
+<reference  anchor='RFC0210' target='http://www.rfc-editor.org/info/rfc210'>
 <front>
 <title>Improvement of Flow Control</title>
-<author initials='W.' surname='Conrad' fullname='W. Conrad'>
-<organization>Harvard University</organization></author>
-<date year='1971' day='16' month='August' />
-<abstract>
-<t>The current "give back" - "return" scheme seems to put the cart before the horse in that the "return" command indicates the amount of space the sending host is returning rather than the amount of space it has left after decrementing by the amount specified in the "give back" command.  Considering the fact that allocation counters at sending and receiving hosts may get out of synchronization and the fact that the receiving host has a preemptive priority in the allocation of its resources, it is only logical that the receiving host be able to find out exactly how much of its buffer space a sending host thinks it can claim.</t></abstract></front>
-
-<seriesInfo name='RFC' value='210' />
-<format type='TXT' octets='3329' target='http://www.rfc-editor.org/rfc/rfc210.txt' />
+<author initials='W.' surname='Conrad' fullname='W. Conrad'><organization /></author>
+<date year='1971' month='August' />
+</front>
+<seriesInfo name='RFC' value='210'/>
+<seriesInfo name='DOI' value='10.17487/RFC0210'/>
 </reference>

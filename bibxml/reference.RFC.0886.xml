@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0886'>
-
+<reference  anchor='RFC0886' target='http://www.rfc-editor.org/info/rfc886'>
 <front>
 <title>Proposed standard for message header munging</title>
-<author initials='M.' surname='Rose' fullname='Marshall T. Rose'>
-<organization>University of California, Irvine, Department of Information and Computer Science</organization>
-<address>
-<postal>
-<street />
-<city>Irvine</city>
-<region>CA</region>
-<code>92717</code>
-<country>US</country></postal>
-<email>MRose.UCI@Rand-Relay</email></address></author>
-<date year='1983' day='15' month='December' />
-<abstract>
-<t>This memo proposes a standard for the ARPA Internet community. If this proposal is adopted, hosts on the ARPA Internet that do message translation would be expected to adopt and implement this standard.</t></abstract></front>
-
-<seriesInfo name='RFC' value='886' />
-<format type='TXT' octets='30566' target='http://www.rfc-editor.org/rfc/rfc886.txt' />
+<author initials='M.T.' surname='Rose' fullname='M.T. Rose'><organization /></author>
+<date year='1983' month='December' />
+<abstract><t>This RFC specifies a draft standard for the ARPA Internet community.    It describes the rules to be used when transforming mail from the    conventions of one message system to those of another message system.    In particular, the treatment of header fields, and recipient    addresses is specified.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='886'/>
+<seriesInfo name='DOI' value='10.17487/RFC0886'/>
 </reference>

@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1225'>
-
+<reference  anchor='RFC1225' target='http://www.rfc-editor.org/info/rfc1225'>
 <front>
-<title abbrev='POP3'>Post Office Protocol: Version 3</title>
-<author initials='M.' surname='Rose' fullname='Marshall T. Rose'>
-<organization>Performance Systems International</organization>
-<address>
-<postal>
-<street>5201 Great America Parkway</street>
-<street>Suite 3106</street>
-<city>Santa Clara</city>
-<region>CA</region>
-<code>95054</code>
-<country>US</country></postal>
-<phone>+1 408 562 6222</phone>
-<email>mrose@psi.com</email></address></author>
-<date year='1991' day='1' month='May' /></front>
-
-<seriesInfo name='RFC' value='1225' />
-<format type='TXT' octets='37340' target='http://www.rfc-editor.org/rfc/rfc1225.txt' />
+<title>Post Office Protocol: Version 3</title>
+<author initials='M.T.' surname='Rose' fullname='M.T. Rose'><organization /></author>
+<date year='1991' month='May' />
+<abstract><t>This memo suggests a simple method for workstations to dynamically access mail from a mailbox server.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1225'/>
+<seriesInfo name='DOI' value='10.17487/RFC1225'/>
 </reference>

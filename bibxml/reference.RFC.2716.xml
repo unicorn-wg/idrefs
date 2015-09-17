@@ -1,36 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2716'>
-
+<reference  anchor='RFC2716' target='http://www.rfc-editor.org/info/rfc2716'>
 <front>
 <title>PPP EAP TLS Authentication Protocol</title>
-<author initials='B.' surname='Aboba' fullname='Bernard Aboba'>
-<organization>Microsoft Corporation</organization>
-<address>
-<postal>
-<street>One Microsoft Way</street>
-<city>Redmond</city>
-<region>WA</region>
-<code>98052</code>
-<country>US</country></postal>
-<phone>+1 425 936 6605</phone>
-<email>bernarda@microsoft.com</email></address></author>
-<author initials='D.' surname='Simon' fullname='Dan Simon'>
-<organization>Microsoft Corporation</organization>
-<address>
-<postal>
-<street>One Microsoft Way</street>
-<city>Redmond</city>
-<region>WA</region>
-<code>98052</code>
-<country>US</country></postal>
-<phone>+1 425 936 6711</phone>
-<email>dansimon@microsoft.com</email></address></author>
+<author initials='B.' surname='Aboba' fullname='B. Aboba'><organization /></author>
+<author initials='D.' surname='Simon' fullname='D. Simon'><organization /></author>
 <date year='1999' month='October' />
-<abstract>
-<t>The Point-to-Point Protocol (PPP) provides a standard method for transporting multi-protocol datagrams over point-to-point links.  PPP also defines an extensible Link Control Protocol (LCP), which can be used to negotiate authentication methods, as well as an Encryption Control Protocol (ECP), used to negotiate data encryption over PPP links, and a Compression Control Protocol (CCP), used to negotiate compression methods.  The Extensible Authentication Protocol (EAP) is a PPP extension that provides support for additional authentication methods within PPP.</t>
-<t>Transport Level Security (TLS) provides for mutual authentication, integrity-protected ciphersuite negotiation and key exchange between two endpoints.  This document describes how EAP-TLS, which includes support for fragmentation and reassembly, provides for these TLS mechanisms within EAP.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2716' />
-<format type='TXT' octets='50108' target='http://www.rfc-editor.org/rfc/rfc2716.txt' />
+<abstract><t>The Point-to-Point Protocol (PPP) provides a standard method for transporting multi-protocol datagrams over point-to-point links.The Extensible Authentication Protocol (EAP) is a PPP extension that provides support for additional authentication methods within PPP.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2716'/>
+<seriesInfo name='DOI' value='10.17487/RFC2716'/>
 </reference>

@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0122'>
-
+<reference  anchor='RFC0122' target='http://www.rfc-editor.org/info/rfc122'>
 <front>
-<title abbrev='Simple-Minded file System'>Network specifications for UCSB's Simple-Minded File System</title>
-<author initials='J.' surname='White' fullname='James E. White'>
-<organization>University of California, Santa Barbara (UCSB)</organization></author>
-<date year='1971' day='26' month='April' /></front>
-
-<seriesInfo name='RFC' value='122' />
-<format type='TXT' octets='47638' target='http://www.rfc-editor.org/rfc/rfc122.txt' />
+<title>Network specifications for UCSB's Simple-Minded File System</title>
+<author initials='J.E.' surname='White' fullname='J.E. White'><organization /></author>
+<date year='1971' month='April' />
+</front>
+<seriesInfo name='RFC' value='122'/>
+<seriesInfo name='DOI' value='10.17487/RFC0122'/>
 </reference>

@@ -1,34 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1206'>
-
+<reference  anchor='RFC1206' target='http://www.rfc-editor.org/info/rfc1206'>
 <front>
-<title abbrev='FYI Q/A - for New Internet Users'>FYI on Questions and Answers: Answers to commonly asked "new Internet user" questions</title>
-<author initials='G.' surname='Malkin' fullname='Gary Scott Malkin'>
-<organization>FTP Software, Inc.</organization>
-<address>
-<postal>
-<street>26 Princess Street</street>
-<city>Wakefield</city>
-<region>MA</region>
-<code>01880</code>
-<country>US</country></postal>
-<phone>+1 617 246 0900</phone>
-<email>gmalkin@ftp.com</email></address></author>
-<author initials='A.' surname='Marine' fullname='April N. Marine'>
-<organization>SRI International, Network Information Systems Center</organization>
-<address>
-<postal>
-<street>333 Ravenswood Avenue</street>
-<street>EJ294</street>
-<city>Menlo Park</city>
-<region>CA</region>
-<code>94025</code>
-<country>US</country></postal>
-<phone>+1 415 859 5318</phone>
-<email>APRIL@nic.ddn.mil</email></address></author>
-<date year='1991' day='1' month='February' /></front>
-
-<seriesInfo name='RFC' value='1206' />
-<format type='TXT' octets='72479' target='http://www.rfc-editor.org/rfc/rfc1206.txt' />
+<title>FYI on Questions and Answers: Answers to commonly asked &quot;new Internet user&quot; questions</title>
+<author initials='G.S.' surname='Malkin' fullname='G.S. Malkin'><organization /></author>
+<author initials='A.N.' surname='Marine' fullname='A.N. Marine'><organization /></author>
+<date year='1991' month='February' />
+<abstract><t>This FYI RFC is one of two FYI's called, &quot;Questions and Answers&quot; (Q/A). The goal is to document the most commonly asked questions and answers in the Internet. This memo provides information for the Internet community. It does not specify any standard. [FYI 4]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1206'/>
+<seriesInfo name='DOI' value='10.17487/RFC1206'/>
 </reference>

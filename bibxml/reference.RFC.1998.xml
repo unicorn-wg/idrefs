@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1998'>
-
+<reference  anchor='RFC1998' target='http://www.rfc-editor.org/info/rfc1998'>
 <front>
 <title>An Application of the BGP Community Attribute in Multi-home Routing</title>
-<author initials='E.' surname='Chen' fullname='Enke Chen'>
-<organization>MCI</organization>
-<address>
-<postal>
-<street>2100 Reston Parkway</street>
-<city>Reston</city>
-<region>VA</region>
-<code>22091</code>
-<country>US</country></postal>
-<phone>+1 703 715 7087</phone>
-<email>enke@mci.net</email></address></author>
-<author initials='T.' surname='Bates' fullname='Tony Bates'>
-<organization>cisco Systems</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134</code>
-<country>US</country></postal>
-<phone>+1 408 527 2470</phone>
-<email>tbates@cisco.com</email></address></author>
+<author initials='E.' surname='Chen' fullname='E. Chen'><organization /></author>
+<author initials='T.' surname='Bates' fullname='T. Bates'><organization /></author>
 <date year='1996' month='August' />
-<abstract>
-<t>This document presents an application of the BGP community attributein simplifying the implementation and configuration of routing policies in the multi-provider Internet. It shows how the community based configuration can be used to replace the AS-based customization of the BGP "LOCAL_PREF" attribute, a common method used today.  Not only does the technique presented simplifies configuration and management at the provider level, it also represents a paradigm shift in that it gives the potential for the customer to control its own routing policy with respect to its service provider, as well as providing the ability for policy configuration to be done at a prefix based granularity rather than the more common AS based granularity.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1998' />
-<format type='TXT' octets='16953' target='http://www.rfc-editor.org/rfc/rfc1998.txt' />
+<abstract><t>This document presents an application of the BGP community attribute [2] in simplifying the implementation and configuration of routing policies in the multi-provider Internet.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1998'/>
+<seriesInfo name='DOI' value='10.17487/RFC1998'/>
 </reference>

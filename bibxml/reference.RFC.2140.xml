@@ -1,45 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2140'>
-
+<reference  anchor='RFC2140' target='http://www.rfc-editor.org/info/rfc2140'>
 <front>
-<title abbrev='TCP Control Block'>TCP Control Block Interdependence</title>
-<author initials='J.' surname='Touch' fullname='Joe Touch'>
-<organization>University of Southern California/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<street>Marina del Rey</street>
-<street>CA 90292-6695</street>
-<country>USA</country></postal>
-<phone>+1 310-822-1511 x151</phone>
-<facsimile>+1 310-823-6714</facsimile>
-<email>touch@isi.edu</email>
-<uri>http://www.isi.edu/~touch</uri></address></author>
+<title>TCP Control Block Interdependence</title>
+<author initials='J.' surname='Touch' fullname='J. Touch'><organization /></author>
 <date year='1997' month='April' />
-<area>Transport</area>
-<keyword>TCP</keyword>
-<keyword>congestion</keyword>
-<keyword>transmission control protocol</keyword>
-<abstract>
-<t>
-   This memo makes the case for interdependent TCP control blocks, where
-   part of the TCP state is shared among similar concurrent connections,
-   or across similar connection instances. TCP state includes a
-   combination of parameters, such as connection state, current round-
-   trip time estimates, congestion control information, and process
-   information.  This state is currently maintained on a per-connection
-   basis in the TCP control block, but should be shared across
-   connections to the same host. The goal is to improve transient
-   transport performance, while maintaining backward-compatibility with
-   existing implementations.
-</t>
-<t>
-   This document is a product of the LSAM project at ISI.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2140' />
-<format type='TXT' octets='26032' target='http://www.rfc-editor.org/rfc/rfc2140.txt' />
-<format type='HTML' octets='39449' target='http://xml.resource.org/public/rfc/html/rfc2140.html' />
-<format type='XML' octets='23381' target='http://xml.resource.org/public/rfc/xml/rfc2140.xml' />
+<abstract><t>This memo makes the case for interdependent TCP control blocks, where part of the TCP state is shared among similar concurrent connections, or across similar connection instances. TCP state includes a combination of parameters, such as connection state, current round-trip time estimates, congestion control information, and process information.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2140'/>
+<seriesInfo name='DOI' value='10.17487/RFC2140'/>
 </reference>

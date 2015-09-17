@@ -1,33 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1244'>
-
+<reference  anchor='RFC1244' target='http://www.rfc-editor.org/info/rfc1244'>
 <front>
 <title>Site Security Handbook</title>
-<author initials='J.' surname='Holbrook' fullname='J. Paul Holbrook'>
-<organization>CICNet, Inc.</organization>
-<address>
-<postal>
-<street>2901 Hubbard</street>
-<city>Ann Arbor</city>
-<region>MI</region>
-<code>48105</code>
-<country>US</country></postal>
-<phone>+1 313 998 7680</phone>
-<email>holbrook@cic.net</email></address></author>
-<author initials='J.' surname='Reynolds' fullname='Joyce K. Reynolds'>
-<organization>University of Southern California, Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone>
-<email>JKREY@ISI.EDU</email></address></author>
-<date year='1991' day='1' month='July' /></front>
-
-<seriesInfo name='RFC' value='1244' />
-<format type='TXT' octets='259129' target='http://www.rfc-editor.org/rfc/rfc1244.txt' />
+<author initials='J.P.' surname='Holbrook' fullname='J.P. Holbrook'><organization /></author>
+<author initials='J.K.' surname='Reynolds' fullname='J.K. Reynolds'><organization /></author>
+<date year='1991' month='July' />
+<abstract><t>This FYI RFC is a first attempt at providing Internet users guidance on how to deal with security issues in the Internet. This FYI RFC provides information for the Internet community.  It does not specify an Internet standard. [FYI 8]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1244'/>
+<seriesInfo name='DOI' value='10.17487/RFC1244'/>
 </reference>

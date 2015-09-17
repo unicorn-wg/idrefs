@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1204'>
-
+<reference  anchor='RFC1204' target='http://www.rfc-editor.org/info/rfc1204'>
 <front>
-<title abbrev='MPP'>Message Posting Protocol (MPP)</title>
-<author initials='S.' surname='Yeh' fullname='Shannon Yeh'>
-<organization>Netix Communications, Inc.</organization>
-<address>
-<postal>
-<street>15375 Barranca Parkway</street>
-<street>Suite A-215</street>
-<city>Irvine</city>
-<region>CA</region>
-<code>92718</code>
-<country>US</country></postal>
-<phone>+1 714 727 9335</phone>
-<email>yeh@netix.com</email></address></author>
-<author initials='D.' surname='Lee' fullname='David Lee'>
-<organization>Netix Communications, Inc.</organization>
-<address>
-<postal>
-<street>15375 Barranca Parkway</street>
-<street>Suite A-215</street>
-<city>Irvine</city>
-<region>CA</region>
-<code>92718</code>
-<country>US</country></postal>
-<phone>+1 714 727 9335</phone>
-<email>dlee@netix.com</email></address></author>
-<date year='1991' day='1' month='February' /></front>
-
-<seriesInfo name='RFC' value='1204' />
-<format type='TXT' octets='11371' target='http://www.rfc-editor.org/rfc/rfc1204.txt' />
+<title>Message Posting Protocol (MPP)</title>
+<author initials='S.' surname='Yeh' fullname='S. Yeh'><organization /></author>
+<author initials='D.' surname='Lee' fullname='D. Lee'><organization /></author>
+<date year='1991' month='February' />
+<abstract><t>This memo describes a protocol for posting messages from workstations (e.g., PCs) to a mail service host.  This RFC specifies an Experimental Protocol for the Internet community. It does not specify any standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1204'/>
+<seriesInfo name='DOI' value='10.17487/RFC1204'/>
 </reference>

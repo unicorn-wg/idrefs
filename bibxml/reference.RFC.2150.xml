@@ -1,23 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2150'>
-
+<reference  anchor='RFC2150' target='http://www.rfc-editor.org/info/rfc2150'>
 <front>
-<title abbrev='Humanities and Arts on the Internet'>Humanities and Arts: Sharing Center Stage on the Internet</title>
-<author initials='J.' surname='Max' fullname='Janet Max'>
-<organization>Rainfarm</organization>
-<address>
-<email>jlm@rainfarm.com</email></address></author>
-<author initials='W.' surname='Stickle' fullname='Walter Stickle'>
-<organization>Rainfarm</organization>
-<address>
-<email>wls@rainfarm.com</email></address></author>
+<title>Humanities and Arts: Sharing Center Stage on the Internet</title>
+<author initials='J.' surname='Max' fullname='J. Max'><organization /></author>
+<author initials='W.' surname='Stickle' fullname='W. Stickle'><organization /></author>
 <date year='1997' month='October' />
-<abstract>
-<t>This document is designed primarily for individuals who have limited knowledge of, or experience with, the Internet.</t>
-<t>The purpose of this document is to provide members of the Arts and Humanities communities with an introduction to the Internet as a valuable tool, resource, and medium for the creation, presentation, and preservation of Arts and Humanities-based content.</t>
-<t>The intended audience is practicing artists, scholars, related professionals, and others whose knowledge, expertise and support is important to ensuring that the Arts and Humanities are well-placed in the global information infrastructure.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2150' />
-<format type='TXT' octets='154037' target='http://www.rfc-editor.org/rfc/rfc2150.txt' />
+<abstract><t>The purpose of this document is to provide members of the Arts and Humanities communities with an introduction to the Internet as a valuable tool, resource, and medium for the creation, presentation, and preservation of Arts and Humanities-based content.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='FYI' value='31'/>
+<seriesInfo name='RFC' value='2150'/>
+<seriesInfo name='DOI' value='10.17487/RFC2150'/>
 </reference>

@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2689'>
-
+<reference  anchor='RFC2689' target='http://www.rfc-editor.org/info/rfc2689'>
 <front>
 <title>Providing Integrated Services over Low-bitrate Links</title>
-<author initials='C.' surname='Bormann' fullname='C. Bormann'>
-<organization /></author>
+<author initials='C.' surname='Bormann' fullname='C. Bormann'><organization /></author>
 <date year='1999' month='September' />
-<abstract>
-<t>This document describes an architecture for providing integrated services over low-bitrate links, such as modem lines, ISDN B-channels, and sub-T1 links.  It covers only the lower parts of the Internet Multimedia Conferencing Architecture; additional components required for application services such as Internet Telephony (e.g., a session initiation protocol) are outside the scope of this document.  The main components of the architecture are: a real-time encapsulation format for asynchronous and synchronous low- bitrate links, a header compression architecture optimized for real-time flows, elements of negotiation protocols used between routers (or between hosts and routers), and announcement protocols used by applications to allow this negotiation to take place.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2689' />
-<format type='TXT' octets='34345' target='http://www.rfc-editor.org/rfc/rfc2689.txt' />
+<abstract><t>This document describes an architecture for providing integrated services over low-bitrate links, such as modem lines, ISDN B-channels, and sub-T1 links.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2689'/>
+<seriesInfo name='DOI' value='10.17487/RFC2689'/>
 </reference>

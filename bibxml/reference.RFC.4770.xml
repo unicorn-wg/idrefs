@@ -1,44 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC4770'>
-
+<reference  anchor='RFC4770' target='http://www.rfc-editor.org/info/rfc4770'>
 <front>
-<title abbrev='IMPP vCard'>vCard Extensions for Instant Messaging
-    (IM)</title>
-<author fullname='Cullen Jennings' initials='C.' surname='Jennings'>
-<organization>Cisco Systems</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<street>MS: SJC-21/2</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134</code>
-<country>USA</country></postal>
-<phone>+1 408 902-3341</phone>
-<email>fluffy@cisco.com</email></address></author>
-<author initials='J. F.' surname='Reschke' fullname='Julian F. Reschke' role='editor'>
-<organization abbrev='greenbytes'>greenbytes GmbH</organization>
-<address>
-<postal>
-<street>Hafenweg 16</street>
-<city>Muenster</city>
-<region>NW</region>
-<code>48155</code>
-<country>Germany</country></postal>
-<phone>+49 251 2807760</phone>
-<email>julian.reschke@greenbytes.de</email></address></author>
+<title>vCard Extensions for Instant Messaging (IM)</title>
+<author initials='C.' surname='Jennings' fullname='C. Jennings'><organization /></author>
+<author initials='J.' surname='Reschke' fullname='J. Reschke' role='editor'><organization /></author>
 <date year='2007' month='January' />
-<abstract>
-<t>This document describes an extension to vCard to support Instant
-      Messaging (IM) and Presence Protocol (PP) applications. IM and PP are
-      becoming increasingly common ways of communicating, and users want to
-      save this contact information in their address books. It allows
-      a URI that is associated with IM or PP to be specified inside a
-      vCard.</t></abstract></front>
-
-<seriesInfo name='RFC' value='4770' />
-<format type='TXT' octets='11077' target='http://www.rfc-editor.org/rfc/rfc4770.txt' />
-<format type='HTML' octets='26127' target='http://xml.resource.org/public/rfc/html/rfc4770.html' />
-<format type='XML' octets='16352' target='http://xml.resource.org/public/rfc/xml/rfc4770.xml' />
+<abstract><t>This document describes an extension to vCard to support Instant Messaging (IM) and Presence Protocol (PP) applications.  IM and PP are becoming increasingly common ways of communicating, and users want to save this contact information in their address books.  It allows a URI that is associated with IM or PP to be specified inside a vCard.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='4770'/>
+<seriesInfo name='DOI' value='10.17487/RFC4770'/>
 </reference>

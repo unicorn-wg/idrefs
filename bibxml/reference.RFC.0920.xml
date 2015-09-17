@@ -1,31 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0920'>
-
+<reference  anchor='RFC0920' target='http://www.rfc-editor.org/info/rfc920'>
 <front>
 <title>Domain requirements</title>
-<author initials='J.' surname='Postel' fullname='J. Postel'>
-<organization>University of Southern California (USC)/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90291</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone></address></author>
-<author initials='J.' surname='Reynolds' fullname='J. Reynolds'>
-<organization>University of Southern California (USC)/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90291</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone></address></author>
-<date year='1984' day='1' month='October' /></front>
-
-<seriesInfo name='RFC' value='920' />
-<format type='TXT' octets='27823' target='http://www.rfc-editor.org/rfc/rfc920.txt' />
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<author initials='J.K.' surname='Reynolds' fullname='J.K. Reynolds'><organization /></author>
+<date year='1984' month='October' />
+<abstract><t>This memo states the requirements on establishing a Domain, and    introduces the limited set of top level domains.  This memo is a policy    statement on the requirements of establishing a new domain in the    ARPA-Internet and the DARPA research community.  This is an official    policy statement of the IAB and the DARPA.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='920'/>
+<seriesInfo name='DOI' value='10.17487/RFC0920'/>
 </reference>

@@ -1,41 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2403'>
-
+<reference  anchor='RFC2403' target='http://www.rfc-editor.org/info/rfc2403'>
 <front>
 <title>The Use of HMAC-MD5-96 within ESP and AH</title>
-<author initials='C.' surname='Madson' fullname='Cheryl Madson'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<email>cmadson@cisco.com</email></address></author>
-<author initials='R.' surname='Glenn' fullname='Rob Glenn'>
-<organization>NIST</organization>
-<address>
-<email>rob.glenn@nist.gov</email></address></author>
+<author initials='C.' surname='Madson' fullname='C. Madson'><organization /></author>
+<author initials='R.' surname='Glenn' fullname='R. Glenn'><organization /></author>
 <date year='1998' month='November' />
-<area>Security</area>
-<area>Internet</area>
-<keyword>IP security protocol</keyword>
-<keyword>authentication</keyword>
-<keyword>cryptographic hash message authentication codes</keyword>
-<keyword>encapsulate</keyword>
-<keyword>encapsulating security payload</keyword>
-<keyword>message digest</keyword>
-<keyword>security</keyword>
-<abstract>
-<t>
-   This memo describes the use of the HMAC algorithm  in
-   conjunction with the MD5 algorithm  as an authentication
-   mechanism within the revised IPSEC Encapsulating Security Payload
-    and the revised IPSEC Authentication Header . HMAC with MD5
-   provides data origin authentication and integrity protection.
-</t>
-<t>
-   Further information on the other components necessary for ESP and AH
-   implementations is provided by .
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2403' />
-<format type='TXT' octets='13578' target='http://www.rfc-editor.org/rfc/rfc2403.txt' />
-<format type='XML' octets='16143' target='http://xml.resource.org/public/rfc/xml/rfc2403.xml' />
+<abstract><t>This memo describes the use of the HMAC algorithm in conjunction with the MD5 algorithm as an authentication mechanism within the revised IPSEC Encapsulating Security Payload and the revised IPSEC Authentication Header.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2403'/>
+<seriesInfo name='DOI' value='10.17487/RFC2403'/>
 </reference>

@@ -1,27 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2524'>
-
+<reference  anchor='RFC2524' target='http://www.rfc-editor.org/info/rfc2524'>
 <front>
-<title abbrev='EMSD'>Neda's Efficient Mail Submission and Delivery (EMSD) Protocol Specification Version 1.3</title>
-<author initials='M.' surname='Banan' fullname='Mohsen Banan'>
-<organization>Neda Communications, Inc.</organization>
-<address>
-<postal>
-<street>17005 SE 31st Place</street>
-<city>Bellevue</city>
-<region>WA</region>
-<code>98008</code>
-<country>US</country></postal>
-<email>mohsen@neda.com</email></address></author>
+<title>Neda's Efficient Mail Submission and Delivery (EMSD) Protocol Specification Version 1.3</title>
+<author initials='M.' surname='Banan' fullname='M. Banan'><organization /></author>
 <date year='1999' month='February' />
-<abstract>
-<t>This document specifies the protocol and format encodings for Efficient Mail Submission and Delivery (EMSD). EMSD is a messaging protocol that is highly optimized for submission and delivery of short Internet mail messages. EMSD is designed to be a companion to existing Internet mail protocols.</t>
-<t>This specification narrowly focuses on submission and delivery of short mail messages with a clear emphasis on efficiency. EMSD is designed specifically with wireless network (e.g., CDPD, Wireless-IP, Mobile-IP) usage in mind. EMSD is designed to be a natural enhancement to the mainstream of Internet mail protocols when efficiency in mail submission and mail delivery are important. As such, EMSD is anticipated to become an initial basis for convergence of Internet Mail and IP-based Two-Way Paging.</t>
-<t>The reliability requirement for message submission and message delivery in EMSD are the same as existing email protocols. EMSD protocol accomplishes reliable connectionless mail submission and delivery services on top of Efficient Short Remote Operations (ESRO) protocols as specified in.</t>
-<t>Most existing Internet mail protocols are not efficient.  Most existing Internet mail protocols are designed with simplicity and continuity with SMTP traditions as two primary requirements.  EMSD is designed with efficiency as a primary requirement.</t>
-<t>The early use of EMSD in the wireless environment is manifested as IP-based Two-Way Paging services.  The efficiency of this protocol also presents significant benefits for large centrally operated Internet mail service providers.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2524' />
-<format type='TXT' octets='153171' target='http://www.rfc-editor.org/rfc/rfc2524.txt' />
+<abstract><t>This specification narrowly focuses on submission and delivery of short mail messages with a clear emphasis on efficiency. This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2524'/>
+<seriesInfo name='DOI' value='10.17487/RFC2524'/>
 </reference>

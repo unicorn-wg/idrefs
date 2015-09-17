@@ -1,72 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2208'>
-
+<reference  anchor='RFC2208' target='http://www.rfc-editor.org/info/rfc2208'>
 <front>
-<title abbrev='RSVP Applicability and Deployment'>Resource ReSerVation Protocol (RSVP) Version 1 Applicability Statement Some Guidelines on Deployment</title>
-<author initials='A.' surname='Mankin' fullname='Allison Mankin'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<email>mankin@isi.edu</email></address></author>
-<author initials='F.' surname='Baker' fullname='Fred Baker'>
-<organization>Cisco Systems</organization>
-<address>
-<phone>+1 408 526 4257</phone>
-<email>fred@cisco.com</email></address></author>
-<author initials='B.' surname='Braden' fullname='Bob Braden'>
-<organization>USC/ISI</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<street>Marina del Rey</street>
-<street>CA 90292</street></postal>
-<phone>+1 310 822 1511</phone>
-<email>braden@isi.edu</email></address></author>
-<author initials='S.' surname='Bradner' fullname='Scott Bradner'>
-<organization>Harvard University</organization>
-<address>
-<phone>+1 617 495 3864</phone>
-<email>sob@harvard.edu</email></address></author>
-<author initials='M.D.' surname='O&apos;Dell' fullname='Michael D. O&apos;Dell'>
-<organization>UUNET Technologies</organization>
-<address>
-<phone>+1 703 206 5890</phone>
-<email>mo@uu.net</email></address></author>
-<author initials='A.' surname='Romanow' fullname='Allyn Romanow'>
-<organization>Sun Microsystems</organization>
-<address>
-<phone>+1 415 786 5179</phone>
-<email>allyn@eng.sun.com</email></address></author>
-<author initials='A.' surname='Weinrib' fullname='Abel Weinrib'>
-<organization>Intel Corporation</organization>
-<address>
-<phone>+1 503 264 8972</phone>
-<email>weinrib@ibeam.intel.com</email></address></author>
-<author initials='L.' surname='Zhang' fullname='Lixia Zhang'>
-<organization>UCLA Computer Science Department</organization>
-<address>
-<postal>
-<street>4531G Boelter Hall</street>
-<street>Los Angeles</street>
-<street>CA 90095-1596</street>
-<country>US</country></postal>
-<phone>+1 310 825 2695</phone>
-<email>lixia@cs.ucla.edu</email></address></author>
+<title>Resource ReSerVation Protocol (RSVP) -- Version 1 Applicability Statement Some Guidelines on Deployment</title>
+<author initials='A.' surname='Mankin' fullname='A. Mankin' role='editor'><organization /></author>
+<author initials='F.' surname='Baker' fullname='F. Baker'><organization /></author>
+<author initials='B.' surname='Braden' fullname='B. Braden'><organization /></author>
+<author initials='S.' surname='Bradner' fullname='S. Bradner'><organization /></author>
+<author initials='M.' surname='O&apos;Dell' fullname='M. O&apos;Dell'><organization /></author>
+<author initials='A.' surname='Romanow' fullname='A. Romanow'><organization /></author>
+<author initials='A.' surname='Weinrib' fullname='A. Weinrib'><organization /></author>
+<author initials='L.' surname='Zhang' fullname='L. Zhang'><organization /></author>
 <date year='1997' month='September' />
-<area>Transport</area>
-<keyword>resource reservation protocol</keyword>
-<keyword>RSVP</keyword>
-<abstract>
-<t>
-   This document describes the applicability of RSVP along with the
-   Integrated Services protocols and other components of resource
-   reservation and offers guidelines for deployment of resource
-   reservation at this time.  This document accompanies the first
-   submission of RSVP and integrated services specifications onto the
-   Internet standards track.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2208' />
-<format type='TXT' octets='14289' target='http://www.rfc-editor.org/rfc/rfc2208.txt' />
-<format type='XML' octets='16204' target='http://xml.resource.org/public/rfc/xml/rfc2208.xml' />
+<abstract><t>This document describes the applicability of RSVP along with the Integrated Services protocols and other components of resource reservation and offers guidelines for deployment of resource reservation at this time. This memo provides information for the Internet community. It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2208'/>
+<seriesInfo name='DOI' value='10.17487/RFC2208'/>
 </reference>

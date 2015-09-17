@@ -1,35 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2282'>
-
+<reference  anchor='RFC2282' target='http://www.rfc-editor.org/info/rfc2282'>
 <front>
-<title abbrev='IAB and IESG Confirmation'>IAB and IESG Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees</title>
-<author initials='J.M.' surname='Galvin' fullname='James M. Galvin'>
-<organization>eList eXpress LLC</organization>
-<address>
-<postal>
-<street>PO Box 220</street>
-<street>Glenwood</street>
-<street>21738</street>
-<country>MD</country></postal>
-<email>galvin@elistx.com</email></address></author>
+<title>IAB and IESG Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees</title>
+<author initials='J.' surname='Galvin' fullname='J. Galvin'><organization /></author>
 <date year='1998' month='February' />
-<area>General</area>
-<keyword>Internet Architecture Board</keyword>
-<keyword>Internet Engineering Steering Group</keyword>
-<abstract>
-<t>
-   The process by which the members of the IAB and IESG are selected,
-   confirmed, and recalled is specified.  The evolution of the process
-   has relied principally on oral tradition as a means by which the
-   lessons learned could be passed on to successive committees.  This
-   document is a self-consistent, organized compilation of the process
-   as it is known today.
-</t></abstract></front>
-
-<seriesInfo name='BCP' value='10' />
-<seriesInfo name='RFC' value='2282' />
-<format type='TXT' octets='29852' target='http://www.rfc-editor.org/rfc/rfc2282.txt' />
-<format type='HTML' octets='43012' target='http://xml.resource.org/public/rfc/html/rfc2282.html' />
-<format type='XML' octets='28679' target='http://xml.resource.org/public/rfc/xml/rfc2282.xml' />
+<abstract><t>The process by which the members of the IAB and IESG are selected, confirmed, and recalled is specified.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2282'/>
+<seriesInfo name='DOI' value='10.17487/RFC2282'/>
 </reference>

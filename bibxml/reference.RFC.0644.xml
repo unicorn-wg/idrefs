@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0644'>
-
+<reference  anchor='RFC0644' target='http://www.rfc-editor.org/info/rfc644'>
 <front>
 <title>On the problem of signature authentication for network mail</title>
-<author initials='B.' surname='Thomas' fullname='Bob Thomas'>
-<organization>Bolt Baranek and Newman (BBN), TENEX</organization></author>
-<date year='1974' day='22' month='July' />
-<abstract>
-<t>This note describes the problem of signature authentication for network mail, presents a general approach to the problem and proposes a specific implementation of that approach.</t></abstract></front>
-
-<seriesInfo name='RFC' value='644' />
-<format type='TXT' octets='9501' target='http://www.rfc-editor.org/rfc/rfc644.txt' />
+<author initials='R.' surname='Thomas' fullname='R. Thomas'><organization /></author>
+<date year='1974' month='July' />
+</front>
+<seriesInfo name='RFC' value='644'/>
+<seriesInfo name='DOI' value='10.17487/RFC0644'/>
 </reference>

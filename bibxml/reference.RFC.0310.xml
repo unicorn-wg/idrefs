@@ -1,16 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0310'>
-
+<reference  anchor='RFC0310' target='http://www.rfc-editor.org/info/rfc310'>
 <front>
-<title abbrev='Another Look At Data And FTP'>Another Look at Data and File Transfer Protocols</title>
-<author initials='A.' surname='Bhushan' fullname='Abhay K. Bhushan'>
-<organization>Massachusetts Institute of Technology (MIT), Project MAC</organization></author>
-<date year='1972' day='3' month='April' />
-<abstract>
-<t>Our experience with ad hoc techniques of data and file transfer over the ARPANET together with a better knowledge of terminal IMP (TIP) capabilities and Datacomputer requirements has indicated to us that the Data Transfer Protocol (DTP) (see ref 1) and the File Transfer Protocol (FTP) (see ref 2) could undergo revision.  Our effort in implementing DTP and FTP has revealed areas in which the protocols could be simplified without degrading their usefulness.</t>
-<t>This paper suggests some specific changes in DTP and FTP that should make them more useful and/or simplify implementation.  The attempt here is to stimulate thinking so that we may come up with a better protocol at the forthcoming Data and File Transfer Workshop (see ref 3).</t></abstract></front>
-
-<seriesInfo name='RFC' value='310' />
-<format type='TXT' octets='18593' target='http://www.rfc-editor.org/rfc/rfc310.txt' />
+<title>Another Look at Data and File Transfer Protocols</title>
+<author initials='A.K.' surname='Bhushan' fullname='A.K. Bhushan'><organization /></author>
+<date year='1972' month='April' />
+</front>
+<seriesInfo name='RFC' value='310'/>
+<seriesInfo name='DOI' value='10.17487/RFC0310'/>
 </reference>

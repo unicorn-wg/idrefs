@@ -1,19 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC3318'>
-
+<reference  anchor='RFC3318' target='http://www.rfc-editor.org/info/rfc3318'>
 <front>
 <title>Framework Policy Information Base</title>
-<author initials='R.' surname='Sahita' fullname='R. Sahita'>
-<organization /></author>
-<author initials='S.' surname='Hahn' fullname='S. Hahn'>
-<organization /></author>
-<author initials='K.' surname='Chan' fullname='K. Chan'>
-<organization /></author>
-<author initials='K.' surname='McCloghrie' fullname='K. McCloghrie'>
-<organization /></author>
-<date year='2003' month='March' /></front>
-
-<seriesInfo name='RFC' value='3318' />
-<format type='TXT' octets='144530' target='http://www.rfc-editor.org/rfc/rfc3318.txt' />
+<author initials='R.' surname='Sahita' fullname='R. Sahita' role='editor'><organization /></author>
+<author initials='S.' surname='Hahn' fullname='S. Hahn'><organization /></author>
+<author initials='K.' surname='Chan' fullname='K. Chan'><organization /></author>
+<author initials='K.' surname='McCloghrie' fullname='K. McCloghrie'><organization /></author>
+<date year='2003' month='March' />
+</front>
+<seriesInfo name='RFC' value='3318'/>
+<seriesInfo name='DOI' value='10.17487/RFC3318'/>
 </reference>

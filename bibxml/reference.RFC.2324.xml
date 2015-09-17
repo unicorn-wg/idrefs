@@ -1,31 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2324'>
-
+<reference  anchor='RFC2324' target='http://www.rfc-editor.org/info/rfc2324'>
 <front>
-<title abbrev='HTCPCP/1.0'>Hyper Text Coffee Pot Control Protocol (HTCPCP/1.0)</title>
-<author initials='L.' surname='Masinter' fullname='Larry Masinter'>
-<organization>Xerox Palo Alto Research Center</organization>
-<address>
-<postal>
-<street>3333 Coyote Hill Road</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94304</code></postal>
-<email>masinter@parc.xerox.com</email></address></author>
-<date year='1998' day='1' month='April' />
-<area>General</area>
-<keyword>control protocol</keyword>
-<keyword>coffee</keyword>
-<abstract>
-<t>
-
-   This document describes HTCPCP, a protocol for controlling,
-
-   monitoring, and diagnosing coffee pots.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2324' />
-<format type='TXT' octets='19610' target='http://www.rfc-editor.org/rfc/rfc2324.txt' />
-<format type='XML' octets='22570' target='http://xml.resource.org/public/rfc/xml/rfc2324.xml' />
+<title>Hyper Text Coffee Pot Control Protocol (HTCPCP/1.0)</title>
+<author initials='L.' surname='Masinter' fullname='L. Masinter'><organization /></author>
+<date year='1998' month='April' />
+<abstract><t>This document describes HTCPCP, a protocol for controlling, monitoring, and diagnosing coffee pots.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2324'/>
+<seriesInfo name='DOI' value='10.17487/RFC2324'/>
 </reference>

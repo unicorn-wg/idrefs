@@ -1,76 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2342'>
-
+<reference  anchor='RFC2342' target='http://www.rfc-editor.org/info/rfc2342'>
 <front>
 <title>IMAP4 Namespace</title>
-<author initials='M.' surname='Gahrns' fullname='Mike Gahrns'>
-<organization>Microsoft</organization>
-<address>
-<postal>
-<street>One Microsoft Way</street>
-<city>Redmond</city>
-<region>WA</region>
-<code>98072</code></postal>
-<phone>(425) 936-9833</phone>
-<email>mikega@microsoft.com</email></address></author>
-<author initials='C.' surname='Newman' fullname='Chris Newman'>
-<organization>Innosoft International, Inc.</organization>
-<address>
-<postal>
-<street>1050 East Garvey Ave. South</street>
-<city>West Covina</city>
-<region>CA</region>
-<code>91790</code></postal>
-<email>chris.newman@innosoft.com</email></address></author>
+<author initials='M.' surname='Gahrns' fullname='M. Gahrns'><organization /></author>
+<author initials='C.' surname='Newman' fullname='C. Newman'><organization /></author>
 <date year='1998' month='May' />
-<area>Applications</area>
-<keyword>internet message access protocol</keyword>
-<abstract>
-<t>
-
-   IMAP4 [RFC-2060] does not define a default server namespace. As a
-
-   result, two common namespace models have evolved:
-
-
-<list>
-<t>
-
-   The "Personal Mailbox" model, in which the default namespace that is
-
-   presented consists of only the user's personal mailboxes. To access
-
-   shared mailboxes, the user must use an escape mechanism to reach
-
-   another namespace.
-
-</t>
-<t>
-
-   The "Complete Hierarchy" model, in which the default namespace that
-
-   is presented includes the user's personal mailboxes along with any
-
-   other mailboxes they have access to.
-</t></list></t>
-<t>
-
-
-   These two models, create difficulties for certain client operations.
-
-   This document defines a NAMESPACE command that allows a client to
-
-   discover the prefixes of namespaces used by a server for personal
-
-   mailboxes, other users' mailboxes, and shared mailboxes.  This allows
-
-   a client to avoid much of the manual user configuration that is now
-
-   necessary when mixing and matching IMAP4 clients and servers.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2342' />
-<format type='TXT' octets='19489' target='http://www.rfc-editor.org/rfc/rfc2342.txt' />
-<format type='XML' octets='17890' target='http://xml.resource.org/public/rfc/xml/rfc2342.xml' />
+<abstract><t>This document defines a NAMESPACE command that allows a client to discover the prefixes of namespaces used by a server for personal mailboxes, other users' mailboxes, and shared mailboxes.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2342'/>
+<seriesInfo name='DOI' value='10.17487/RFC2342'/>
 </reference>

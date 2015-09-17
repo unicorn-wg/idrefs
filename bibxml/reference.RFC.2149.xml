@@ -1,49 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2149'>
-
+<reference  anchor='RFC2149' target='http://www.rfc-editor.org/info/rfc2149'>
 <front>
-<title abbrev='Multicast Server Architectures'>Multicast Server Architectures for MARS-based ATM multicasting</title>
-<author initials='R.' surname='Talpade' fullname='Rajesh Talpade'>
-<organization>College of Computing</organization>
-<address>
-<postal>
-<street>Georgia Institute of Technology</street>
-<street>Atlanta</street>
-<street>GA 30332-0280</street></postal>
-<phone>(404)-894-6737</phone>
-<email>taddy@cc.gatech.edu</email></address></author>
-<author initials='M.H.' surname='Ammar' fullname='Mostafa H. Ammar'>
-<organization>College of Computing</organization>
-<address>
-<postal>
-<street>Georgia Institute of Technology</street>
-<street>Atlanta</street>
-<street>GA 30332-0280</street></postal>
-<phone>(404)-894-3292</phone>
-<email>ammar@cc.gatech.edu</email></address></author>
+<title>Multicast Server Architectures for MARS-based ATM multicasting</title>
+<author initials='R.' surname='Talpade' fullname='R. Talpade'><organization /></author>
+<author initials='M.' surname='Ammar' fullname='M. Ammar'><organization /></author>
 <date year='1997' month='May' />
-<area>Internet</area>
-<keyword>asynchronous transfer mode</keyword>
-<keyword>multicast</keyword>
-<keyword>non-broadcast multiple access</keyword>
-<abstract>
-<t>
-   A mechanism to support the multicast needs of layer 3 protocols in
-   general, and IP in particular, over UNI 3.0/3.1 based ATM networks
-   has been described in RFC 2022.  Two basic approaches exist for the
-   intra-subnet (intra-cluster) multicasting of IP packets.  One makes
-   use of a mesh of point to multipoint VCs (the &apos;VC Mesh&apos; approach),
-   while the other uses a shared point to multipoint tree rooted on a
-   Multicast Server (MCS). This memo provides details on the design and
-   implementation of an MCS, building on the core mechanisms defined in
-   RFC 2022.  It also provides a mechanism for using multiple MCSs per
-   group for providing fault tolerance.  This approach can be used with
-   RFC 2022 based MARS server and clients, without needing any change in
-   their functionality.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2149' />
-<format type='TXT' octets='42007' target='http://www.rfc-editor.org/rfc/rfc2149.txt' />
-<format type='XML' octets='45741' target='http://xml.resource.org/public/rfc/xml/rfc2149.xml' />
+<abstract><t>This memo provides details on the design and implementation of an MCS, building on the core mechanisms defined in RFC 2022.  It also provides a mechanism for using multiple MCSs per group for providing fault tolerance.  This approach can be used with RFC 2022 based MARS server and clients, without needing any change in their functionality.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2149'/>
+<seriesInfo name='DOI' value='10.17487/RFC2149'/>
 </reference>

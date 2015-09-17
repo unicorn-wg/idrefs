@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0142'>
-
+<reference  anchor='RFC0142' target='http://www.rfc-editor.org/info/rfc142'>
 <front>
 <title>Time-Out Mechanism in the Host-Host Protocol</title>
-<author initials='C.' surname='Kline' fullname='Charley Kline'>
-<organization>University California Los Angeles (UCLA), Network Measurement Center (NMC)</organization></author>
-<author initials='J.' surname='Wong' fullname='Johnny Wong'>
-<organization>University California Los Angeles (UCLA), Network Measurement Center (NMC)</organization></author>
-<date year='1971' day='3' month='May' />
-<abstract>
-<t>On sending a message to a foreign site, the following situations can occur:</t>
-<t>1. Destination IMP down - Type 7 message is returned.</t>
-<t>2. Destination IMP up but destination IMP-HOST interface is down - Type 7 message is returned.</t>
-<t>3. Destination IMP and IMP-HOST interface up, but IMP-HOST inter-face is not taking messages - Type 9 message is returned after IMP time-out (ask BBN for time).</t>
-<t>4. Destination IMP and IMP-HOST interface up and IMP-HOST interface is taking messages - Type 5 (rfnm) message is returned.</t>
-<t>A suggestion for handling type 7 and type 9 messages has been made in NWG/RFC #117.  In this document we would like to discuss in detail the problem: what should happen to the HOST-HOST protocol on receiving a rfnm?</t></abstract></front>
-
-<seriesInfo name='RFC' value='142' />
-<format type='TXT' octets='4372' target='http://www.rfc-editor.org/rfc/rfc142.txt' />
+<author initials='C.' surname='Kline' fullname='C. Kline'><organization /></author>
+<author initials='J.' surname='Wong' fullname='J. Wong'><organization /></author>
+<date year='1971' month='May' />
+</front>
+<seriesInfo name='RFC' value='142'/>
+<seriesInfo name='DOI' value='10.17487/RFC0142'/>
 </reference>

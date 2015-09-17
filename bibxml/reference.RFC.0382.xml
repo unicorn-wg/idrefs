@@ -1,19 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0382'>
-
+<reference  anchor='RFC0382' target='http://www.rfc-editor.org/info/rfc382'>
 <front>
 <title>Mathematical Software on the ARPA Network</title>
-<author initials='L.' surname='McDaniel' fullname='Lawrence McDaniel'>
-<organization>University of Illinois, Center for Advanced Computation</organization></author>
-<date year='1972' day='3' month='August' />
-<abstract>
-<t>There have been several efforts in the past few years to develop high quality libraries of mathematical and statistical subroutines.  Some of the projects mentioned in the literature include:</t>
-<t>1.  The Bell Laboratories numerical mathematics program library project.
-				2.  IMSL Inc.:  IMSL Library I, mathematical-statistical computer subroutines
-				3.  The NATS (National Science Foundation,Argonne Laboratories, Stanford and Texas) joint project on the Wilkinson linear algebra routines.</t>
-<t>The ARPA Network could further enhance the desirability of such libraries as they would become another sharable network resource.  Although the diversity of network computing no doubt requires an equally diverse set of mathematical software, and in spite of the fact everyone has their own software hangups - not to mention hardware!, it seems everyone could benefit from some type of information interchange regarding mathematical software of interest.</t></abstract></front>
-
-<seriesInfo name='RFC' value='382' />
-<format type='TXT' octets='2041' target='http://www.rfc-editor.org/rfc/rfc382.txt' />
+<author initials='L.' surname='McDaniel' fullname='L. McDaniel'><organization /></author>
+<date year='1972' month='August' />
+</front>
+<seriesInfo name='RFC' value='382'/>
+<seriesInfo name='DOI' value='10.17487/RFC0382'/>
 </reference>

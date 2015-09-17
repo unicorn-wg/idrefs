@@ -1,37 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1307'>
-
+<reference  anchor='RFC1307' target='http://www.rfc-editor.org/info/rfc1307'>
 <front>
 <title>Dynamically Switched Link Control Protocol</title>
-<author initials='J.' surname='Young' fullname='Jeff Young'>
-<organization>Cray Research, Inc.</organization>
-<address>
-<postal>
-<street>655F Lone Oak Drive</street>
-<city>Eagan</city>
-<region>MN</region>
-<code>55123</code>
-<country>US</country></postal>
-<phone>+1 612 452 6650</phone>
-<email>jsy@cray.com</email></address></author>
-<author initials='A.' surname='Nicholson' fullname='Andy Nicholson'>
-<organization>Cray Research, Inc.</organization>
-<address>
-<postal>
-<street>655F Lone Oak Drive</street>
-<city>Eagan</city>
-<region>MN</region>
-<code>55123</code>
-<country>US</country></postal>
-<phone>+1 612 452 6650</phone>
-<email>droid@cray.com</email></address></author>
+<author initials='J.' surname='Young' fullname='J. Young'><organization /></author>
+<author initials='A.' surname='Nicholson' fullname='A. Nicholson'><organization /></author>
 <date year='1992' month='March' />
-<abstract>
-<t>This memo describes an experimental protocol developed by a project team at Cray Research, Inc., in implementing support for circuit-switched T3 services.  The protocol is used for the control of network connections external to a host, but known to the host.  It is documented here for the benefit of others who may wish to perform further research.</t>
-<t>While working with circuit-switched T3 networks, developers at Cray Research, Inc., defined a model wherein a host would generate control messages for a network switch.  This work is described in RFC  1306, "Experiences Supporting By-Request Circuit-Switched T3 Networks".  In order to simplify the model it was decided that the inconsistencies of switch control should be hidden from the host generating the
-   control messages.  To that end, a protocol was defined and implemented.  This RFC documents the Dynamically Switched Link Control Protocol (DSLCP), which is used for creation and control of downstream network links by a host.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1307' />
-<format type='TXT' octets='24145' target='http://www.rfc-editor.org/rfc/rfc1307.txt' />
+<abstract><t>This memo describes an experimental protocol developed by a project team at Cray Research, Inc., in implementing support for circuit-switched T3 services.  The protocol is used for the control of network connections external to a host, but known to the host.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1307'/>
+<seriesInfo name='DOI' value='10.17487/RFC1307'/>
 </reference>

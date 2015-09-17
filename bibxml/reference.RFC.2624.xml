@@ -1,27 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2624'>
-
+<reference  anchor='RFC2624' target='http://www.rfc-editor.org/info/rfc2624'>
 <front>
-<title abbrev='NFSv4 Design Considerations'>NFS Version 4 Design Considerations</title>
-<author initials='S.' surname='Shepler' fullname='Spencer Shepler'>
-<organization>Sun Microsystems, Inc.</organization>
-<address>
-<postal>
-<street>7808 Moonflower Drive</street>
-<city>Austin</city>
-<region>TX</region>
-<code>78750</code>
-<country>US</country></postal>
-<phone>+1 512 349 9376</phone>
-<email>spencer.shepler@eng.sun.com</email></address></author>
+<title>NFS Version 4 Design Considerations</title>
+<author initials='S.' surname='Shepler' fullname='S. Shepler'><organization /></author>
 <date year='1999' month='June' />
-<abstract>
-<t>The main task of the NFS version 4 working group is to create a protocol definition for a distributed file system that focuses on the following items: improved access and good performance on the Internet, strong security with negotiation built into the protocol, better cross-platform interoperability, and designed for protocol extensions.  NFS version 4 will owe its general design to the previous versions of NFS.  It is expected, however, that many features will be quite different in NFS version 4 than previous versions to facilitate the goals of the working group and to address areas that NFS version 2 and 3 have not.</t>
-<t>This design considerations document is meant to present more detail than the working group charter.  Specifically, it presents the areas that the working group will investigate and consider while developing a protocol specification for NFS version 4.  Based on this investigation the working group will decide the features of the new protocol based on the cost and benefits within the specific feature areas.</t></abstract>
-<note title='Key Words'>
-<t>The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119.</t></note></front>
-
-<seriesInfo name='RFC' value='2624' />
-<format type='TXT' octets='52891' target='http://www.rfc-editor.org/rfc/rfc2624.txt' />
+<abstract><t>This design considerations document is meant to present more detail than the working group charter.  Specifically, it presents the areas that the working group will investigate and consider while developing a protocol specification for NFS version 4.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2624'/>
+<seriesInfo name='DOI' value='10.17487/RFC2624'/>
 </reference>

@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2657'>
-
+<reference  anchor='RFC2657' target='http://www.rfc-editor.org/info/rfc2657'>
 <front>
-<title abbrev='LDAPv2 vs. Index Mesh'>LDAPv2 Client vs</title>
-<author initials='R.' surname='Hedberg' fullname='Roland Hedberg'>
-<organization>Catalogix</organization>
-<address>
-<postal>
-<street>Dalsveien 53</street>
-<city>Oslo</city>
-<code>0387</code>
-<country>NO</country></postal>
-<phone>+47 23 082996</phone>
-<email>roland@catalogix.ac.se</email></address></author>
+<title>LDAPv2 Client vs. the Index Mesh</title>
+<author initials='R.' surname='Hedberg' fullname='R. Hedberg'><organization /></author>
 <date year='1999' month='August' />
-<abstract>
-<t>LDAPv2 clients as implemented according tohave no notion on referral. The integration between such a client and an Index Mesh, as defined by theCommon Indexing Protocol, heavily depends on referrals and therefore needs to be handled in a special way. This document defines one possible way of doing this.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2657' />
-<format type='TXT' octets='19251' target='http://www.rfc-editor.org/rfc/rfc2657.txt' />
+<abstract><t>LDAPv2 clients as implemented according to RFC 1777 have no notion on referral.  The integration between such a client and an Index Mesh, as defined by the Common Indexing Protocol, heavily depends on referrals and therefore needs to be handled in a special way.  This document defines one possible way of doing this.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2657'/>
+<seriesInfo name='DOI' value='10.17487/RFC2657'/>
 </reference>

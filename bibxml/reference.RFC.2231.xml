@@ -1,39 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2231'>
-
+<reference  anchor='RFC2231' target='http://www.rfc-editor.org/info/rfc2231'>
 <front>
-<title abbrev='MIME Value and Encoded Word Extensions'>MIME Parameter Value and Encoded Word Extensions: Character Sets, Languages, and Continuations</title>
-<author initials='N.' surname='Freed' fullname='Ned Freed'>
-<organization abbrev='Innosoft'>Innosoft International, Inc.</organization>
-<address>
-<postal>
-<street>1050 Lakes Drive</street>
-<street>West Covina</street>
-<street>CA 91790</street>
-<country>USA</country></postal>
-<phone>+1 626 919 3600</phone>
-<facsimile>+1 626 919 3614</facsimile>
-<email>ned.freed@innosoft.com</email></address></author>
-<author initials='K.' surname='Moore' fullname='Keith Moore'>
-<organization>University of Tennessee</organization>
-<address>
-<postal>
-<street>Computer Science Dept.</street>
-<street>107 Ayres Hall</street>
-<street>Knoxville</street>
-<street>TN 37996-1301</street>
-<country>USA</country></postal>
-<email>moore@cs.utk.edu</email></address></author>
+<title>MIME Parameter Value and Encoded Word Extensions: Character Sets, Languages, and Continuations</title>
+<author initials='N.' surname='Freed' fullname='N. Freed'><organization /></author>
+<author initials='K.' surname='Moore' fullname='K. Moore'><organization /></author>
 <date year='1997' month='November' />
-<area>Applications</area>
-<keyword>MIME</keyword>
-<keyword>character encoding</keyword>
-<keyword>media type</keyword>
-<keyword>multipurpose internet mail extensions</keyword></front>
-
-<seriesInfo name='RFC' value='2231' />
-<format type='TXT' octets='19280' target='http://www.rfc-editor.org/rfc/rfc2231.txt' />
-<format type='HTML' octets='33220' target='http://xml.resource.org/public/rfc/html/rfc2231.html' />
-<format type='XML' octets='28825' target='http://xml.resource.org/public/rfc/xml/rfc2231.xml' />
+<abstract><t>This memo defines extensions to the RFC 2045 media type and RFC 2183 disposition parameter value mechanisms.  This memo also defines an extension to the encoded words defined in RFC 2047 to allow the specification of the language to be used for display as well as the character set.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2231'/>
+<seriesInfo name='DOI' value='10.17487/RFC2231'/>
 </reference>

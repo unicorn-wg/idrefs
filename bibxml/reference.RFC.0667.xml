@@ -1,16 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0667'>
-
+<reference  anchor='RFC0667' target='http://www.rfc-editor.org/info/rfc667'>
 <front>
 <title>Host Ports</title>
-<author initials='S.G.' surname='Chipman' fullname='S.G. Chipman'>
-<organization /></author>
+<author initials='S.G.' surname='Chipman' fullname='S.G. Chipman'><organization /></author>
 <date year='1974' month='December' />
-<abstract>
-<t>Approved scheme to connect host ports to the network.</t></abstract></front>
-
-<seriesInfo name='RFC' value='667' />
-<format type='TXT' octets='3244' target='http://www.rfc-editor.org/rfc/rfc667.txt' />
-<format type='PDF' octets='52660' target='http://www.rfc-editor.org/rfc/rfc667.pdf' />
+<abstract><t>Approved scheme to connect host ports to the network.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='667'/>
+<seriesInfo name='DOI' value='10.17487/RFC0667'/>
 </reference>

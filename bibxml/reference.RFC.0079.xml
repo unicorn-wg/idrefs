@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0079'>
-
+<reference  anchor='RFC0079' target='http://www.rfc-editor.org/info/rfc79'>
 <front>
 <title>Logger Protocol error</title>
-<author initials='E.' surname='Meyer' fullname='Edwin W. Meyer Jr.'>
-<organization>Massachusetts Institute of Technology (MIT), Project MAC</organization></author>
-<date year='1970' day='16' month='November' />
-<abstract>
-<t>A conflict was recently discovered between the official NCP protocol as described in protocol document 1 and the logger protocol as described in RFC 66by Steve Crocker.  Steve suggested that we put out an RFC to alert the network community to this point.</t></abstract></front>
-
-<seriesInfo name='RFC' value='79' />
-<format type='TXT' octets='1515' target='http://www.rfc-editor.org/rfc/rfc79.txt' />
+<author initials='E.' surname='Meyer' fullname='E. Meyer'><organization /></author>
+<date year='1970' month='November' />
+</front>
+<seriesInfo name='RFC' value='79'/>
+<seriesInfo name='DOI' value='10.17487/RFC0079'/>
 </reference>

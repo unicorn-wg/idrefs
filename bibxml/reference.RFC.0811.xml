@@ -1,17 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0811'>
-
+<reference  anchor='RFC0811' target='http://www.rfc-editor.org/info/rfc811'>
 <front>
 <title>Hostnames Server</title>
-<author initials='K.' surname='Harrenstien' fullname='Ken Harrenstien'>
-<organization>SRI International, Network Information Center</organization></author>
-<author initials='V.' surname='White' fullname='Vic White'>
-<organization>SRI International, Network Information Center</organization></author>
-<author initials='E.' surname='Feinler' fullname='Elizabeth Feinler'>
-<organization>SRI International, Network Information Center</organization></author>
-<date year='1982' day='1' month='March' /></front>
-
-<seriesInfo name='RFC' value='811' />
-<format type='TXT' octets='7771' target='http://www.rfc-editor.org/rfc/rfc811.txt' />
+<author initials='K.' surname='Harrenstien' fullname='K. Harrenstien'><organization /></author>
+<author initials='V.' surname='White' fullname='V. White'><organization /></author>
+<author initials='E.J.' surname='Feinler' fullname='E.J. Feinler'><organization /></author>
+<date year='1982' month='March' />
+<abstract><t>This RFC gives a description of what the Hostnames Server is and how to access it.  The function of this particular server is to deliver machine-readable name/address information describing networks, gateways, hosts, and eventually domains, within the internet environment.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='811'/>
+<seriesInfo name='DOI' value='10.17487/RFC0811'/>
 </reference>

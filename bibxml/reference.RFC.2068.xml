@@ -1,68 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2068'>
-
+<reference  anchor='RFC2068' target='http://www.rfc-editor.org/info/rfc2068'>
 <front>
-<title abbrev='HTTP/1.1'>Hypertext Transfer Protocol -- HTTP/1.1</title>
-<author initials='R.' surname='Fielding' fullname='Roy T. Fielding'>
-<organization>University of California, Irvine, Department of Information and Computer Science</organization>
-<address>
-<postal>
-<street />
-<city>Irvine</city>
-<region>CA</region>
-<code>92717-3425</code>
-<country>US</country></postal>
-<facsimile>+1 714 824 4056</facsimile>
-<email>fielding@ics.uci.edu</email></address></author>
-<author initials='J.' surname='Gettys' fullname='Jim Gettys'>
-<organization>MIT Laboratory for Computer Science</organization>
-<address>
-<postal>
-<street>545 Technology Square</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02139</code>
-<country>US</country></postal>
-<facsimile>+1 617 258 8682</facsimile>
-<email>jg@w3.org</email></address></author>
-<author initials='J.' surname='Mogul' fullname='Jeffrey C. Mogul'>
-<organization>Digital Equipment Corporation, Western Research Laboratory</organization>
-<address>
-<postal>
-<street>250 University Avenue</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94301</code>
-<country>US</country></postal>
-<email>mogul@wrl.dec.com</email></address></author>
-<author initials='H.' surname='Nielsen' fullname='Henrik Frystyk Nielsen'>
-<organization>MIT Laboratory for Computer Science</organization>
-<address>
-<postal>
-<street>545 Technology Square</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02139</code>
-<country>US</country></postal>
-<facsimile>+1 617 258 8682</facsimile>
-<email>frystyk@w3.org</email></address></author>
-<author initials='T.' surname='Berners-Lee' fullname='Tim Berners-Lee'>
-<organization>MIT Laboratory for Computer Science</organization>
-<address>
-<postal>
-<street>545 Technology Square</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02139</code>
-<country>US</country></postal>
-<facsimile>+1 617 258 8682</facsimile>
-<email>timbl@w3.org</email></address></author>
+<title>Hypertext Transfer Protocol -- HTTP/1.1</title>
+<author initials='R.' surname='Fielding' fullname='R. Fielding'><organization /></author>
+<author initials='J.' surname='Gettys' fullname='J. Gettys'><organization /></author>
+<author initials='J.' surname='Mogul' fullname='J. Mogul'><organization /></author>
+<author initials='H.' surname='Frystyk' fullname='H. Frystyk'><organization /></author>
+<author initials='T.' surname='Berners-Lee' fullname='T. Berners-Lee'><organization /></author>
 <date year='1997' month='January' />
-<abstract>
-<t>The Hypertext Transfer Protocol (HTTP) is an application-level protocol for distributed, collaborative, hypermedia information systems. It is a generic, stateless, object-oriented protocol which can be used for many tasks, such as name servers and distributed object management systems, through extension of its request methods. A feature of HTTP is the typing and negotiation of data representation, allowing systems to be built independently of the data being transferred.</t>
-<t>HTTP has been in use by the World-Wide Web global information initiative since 1990. This specification defines the protocol referred to as "HTTP/1.1".</t></abstract></front>
-
-<seriesInfo name='RFC' value='2068' />
-<format type='TXT' octets='378114' target='http://www.rfc-editor.org/rfc/rfc2068.txt' />
+<abstract><t>The Hypertext Transfer Protocol (HTTP) is an application-level protocol for distributed, collaborative, hypermedia information systems. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2068'/>
+<seriesInfo name='DOI' value='10.17487/RFC2068'/>
 </reference>

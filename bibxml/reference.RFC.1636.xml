@@ -1,59 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1636'>
-
+<reference  anchor='RFC1636' target='http://www.rfc-editor.org/info/rfc1636'>
 <front>
-<title abbrev='IAB Workshop Report'>Report of IAB Workshop on Security in the Internet Architecture - February 8-10, 1994</title>
-<author initials='B.' surname='Braden' fullname='Bob Braden'>
-<organization>University of Southern California (USC), Information Sciences Institute (ISI)</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292-6695</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511</phone>
-<email>Braden@ISI.EDU</email></address></author>
-<author initials='D.' surname='Clark' fullname='David Clark'>
-<organization>MIT Laboratory for Computer Science</organization>
-<address>
-<postal>
-<street>545 Technology Square</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02139-1986</code>
-<country>US</country></postal>
-<phone>+1 617 253 6003</phone>
-<email>ddc@lcs.mit.edu</email></address></author>
-<author initials='S.' surname='Crocker' fullname='Steve Crocker'>
-<organization>Trusted Information Systems, Inc.</organization>
-<address>
-<postal>
-<street>3060 Washington Road (Rte 97)</street>
-<city>Glenwood</city>
-<region>MD</region>
-<code>21738</code>
-<country>US</country></postal>
-<phone>+1 301 854 6889</phone>
-<email>crocker@tis.com</email></address></author>
-<author initials='C.' surname='Huitema' fullname='Christian Huitema'>
-<organization>INRIA, Sophia-Antipolis</organization>
-<address>
-<postal>
-<street>2004 Route des Lucioles</street>
-<street>BP 109</street>
-<city>Valbonne Cedex</city>
-<region />
-<code>F-06561</code>
-<country>FR</country></postal>
-<phone>+33 93 657715</phone>
-<email>Christian.Huitema@MIRSA.INRIA.FR</email></address></author>
+<title>Report of IAB Workshop on Security in the Internet Architecture - February 8-10, 1994</title>
+<author initials='R.' surname='Braden' fullname='R. Braden'><organization /></author>
+<author initials='D.' surname='Clark' fullname='D. Clark'><organization /></author>
+<author initials='S.' surname='Crocker' fullname='S. Crocker'><organization /></author>
+<author initials='C.' surname='Huitema' fullname='C. Huitema'><organization /></author>
 <date year='1994' month='June' />
-<abstract>
-<t>This document is a report on an Internet architecture workshop, initiated by the IAB and held at USC Information Sciences Institute on February 8-10, 1994.  This workshop generally focused on security issues in the Internet architecture.</t>
-<t>This document should be regarded as a set of working notes containing ideas about security that were developed by Internet experts in a broad spectrum of areas, including routing, mobility, realtime service, and provider requirements, as well as security.  It contains some significant diversity of opinions on some important issues. This memo is offered as one input in the process of developing viable security mechanisms and procedures for the Internet.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1636' />
-<format type='TXT' octets='130761' target='http://www.rfc-editor.org/rfc/rfc1636.txt' />
+<abstract><t>This document is a report on an Internet architecture workshop, initiated by the IAB and held at USC Information Sciences Institute on February 8-10, 1994.  This workshop generally focused on security issues in the Internet architecture.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1636'/>
+<seriesInfo name='DOI' value='10.17487/RFC1636'/>
 </reference>

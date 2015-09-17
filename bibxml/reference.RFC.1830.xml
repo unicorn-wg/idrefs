@@ -1,26 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1830'>
-
+<reference  anchor='RFC1830' target='http://www.rfc-editor.org/info/rfc1830'>
 <front>
-<title abbrev='Binary and Large Message Transport'>SMTP Service Extensions for Transmission of Large and Binary MIME Messages</title>
-<author initials='G.' surname='Vaudreuil' fullname='Gregory M. Vaudreuil'>
-<organization>Octel Network Services</organization>
-<address>
-<postal>
-<street>17060 Dallas Parkway</street>
-<street>Suite 214</street>
-<city>Dallas</city>
-<region>TX</region>
-<code>75248-1905</code>
-<country>US</country></postal>
-<phone>+1 214 733 2722</phone>
-<facsimile>+1 214 733 2722</facsimile>
-<email>Greg.Vaudreuil@Octel.com</email></address></author>
+<title>SMTP Service Extensions for Transmission of Large and Binary MIME Messages</title>
+<author initials='G.' surname='Vaudreuil' fullname='G. Vaudreuil'><organization /></author>
 <date year='1995' month='August' />
-<abstract>
-<t>This memo defines two extensions to the SMTP service.  The first service enables a SMTP client and server to negotiate the use of an alternate DATA command "BDAT" for efficiently sending large MIME messages.  The second extension takes advantage of the BDAT command to permit the negotiated sending of unencoded binary data.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1830' />
-<format type='TXT' octets='16555' target='http://www.rfc-editor.org/rfc/rfc1830.txt' />
+<abstract><t>This memo defines two extensions to the SMTP service.  The first service enables a SMTP client and server to negotiate the use of an alternate DATA command &quot;BDAT&quot; for efficiently sending large MIME messages.  The second extension takes advantage of the BDAT command to permit the negotiated sending of unencoded binary data.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1830'/>
+<seriesInfo name='DOI' value='10.17487/RFC1830'/>
 </reference>

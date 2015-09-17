@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC6351'>
-
+<reference  anchor='RFC6351' target='http://www.rfc-editor.org/info/rfc6351'>
 <front>
 <title>xCard: vCard XML Representation</title>
-<author initials='S.' surname='Perreault' fullname='S. Perreault'>
-<organization /></author>
+<author initials='S.' surname='Perreault' fullname='S. Perreault'><organization /></author>
 <date year='2011' month='August' />
-<abstract>
-<t>This document defines the XML schema of the vCard data format. [STANDARDS-TRACK]</t></abstract></front>
-
-<seriesInfo name='RFC' value='6351' />
-<format type='TXT' octets='34086' target='http://www.rfc-editor.org/rfc/rfc6351.txt' />
+<abstract><t>This document defines the XML schema of the vCard data format.   [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='6351'/>
+<seriesInfo name='DOI' value='10.17487/RFC6351'/>
 </reference>

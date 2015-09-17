@@ -1,51 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2284'>
-
+<reference  anchor='RFC2284' target='http://www.rfc-editor.org/info/rfc2284'>
 <front>
-<title abbrev='PPP EAP'>PPP Extensible Authentication Protocol (EAP)</title>
-<author initials='L.J.' surname='Blunk' fullname='Larry J. Blunk'>
-<organization>Merit Network, Inc.</organization>
-<address>
-<postal>
-<street>4251 Plymouth Rd.</street>
-<street>Suite C</street>
-<street>Ann Arbor</street>
-<street>MI  48105</street></postal>
-<phone>734-763-6056</phone>
-<facsimile>734-647-3185</facsimile>
-<email>ljb@merit.edu</email></address></author>
-<author initials='J.R.' surname='Vollbrecht' fullname='John R. Vollbrecht'>
-<organization>Merit Network, Inc.</organization>
-<address>
-<postal>
-<street>4251 Plymouth Rd.</street>
-<street>Suite C</street>
-<street>Ann Arbor</street>
-<street>MI  48105</street></postal>
-<phone>+1-313-763-1206</phone>
-<facsimile>+1-734-647-3185</facsimile>
-<email>jrv@merit.edu</email></address></author>
+<title>PPP Extensible Authentication Protocol (EAP)</title>
+<author initials='L.' surname='Blunk' fullname='L. Blunk'><organization /></author>
+<author initials='J.' surname='Vollbrecht' fullname='J. Vollbrecht'><organization /></author>
 <date year='1998' month='March' />
-<area>Internet</area>
-<keyword>EAP</keyword>
-<keyword>authentication</keyword>
-<keyword>point-to-point protocol</keyword>
-<abstract>
-<t>
-   The Point-to-Point Protocol (PPP)  provides a standard method for
-   transporting multi-protocol datagrams over point-to-point links.
-</t>
-<t>
-   PPP also defines an extensible Link Control Protocol, which allows
-   negotiation of an Authentication Protocol for authenticating its peer
-   before allowing Network Layer protocols to transmit over the link.
-</t>
-<t>
-   This document defines the PPP Extensible Authentication Protocol.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2284' />
-<format type='TXT' octets='29452' target='http://www.rfc-editor.org/rfc/rfc2284.txt' />
-<format type='XML' octets='28484' target='http://xml.resource.org/public/rfc/xml/rfc2284.xml' />
+<abstract><t>The Point-to-Point Protocol (PPP) provides a standard method for transporting multi-protocol datagrams over point-to-point links.  PPP also defines an extensible Link Control Protocol, which allows negotiation of an Authentication Protocol for authenticating its peer before allowing Network Layer protocols to transmit over the link.  This document defines the PPP Extensible Authentication Protocol. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2284'/>
+<seriesInfo name='DOI' value='10.17487/RFC2284'/>
 </reference>

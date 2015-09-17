@@ -1,21 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0292'>
-
+<reference  anchor='RFC0292' target='http://www.rfc-editor.org/info/rfc292'>
 <front>
-<title abbrev='Graphics Protocol Level 0'>Graphics Protocol: Level 0 only</title>
-<author initials='J.' surname='Michener' fullname='Jim Michener'>
-<organization>Massachusetts Institute of Technology (MIT), Project MAC</organization></author>
-<author initials='I.' surname='Cotton' fullname='Ira Cotton'>
-<organization>The Mitre Corporation (MITRE)</organization></author>
-<author initials='K.' surname='Kelley' fullname='Karl Kelley'>
-<organization>University of Illinois</organization></author>
-<author initials='D.' surname='Liddle' fullname='Dave Liddle'>
-<organization /></author>
-<author initials='E.' surname='Meyer' fullname='Ed Meyer'>
-<organization>Massachusetts Institute of Technology (MIT), Project MAC</organization></author>
-<date year='1972' day='12' month='January' /></front>
-
-<seriesInfo name='RFC' value='292' />
-<format type='TXT' octets='22342' target='http://www.rfc-editor.org/rfc/rfc292.txt' />
+<title>Graphics Protocol: Level 0 only</title>
+<author initials='J.C.' surname='Michener' fullname='J.C. Michener'><organization /></author>
+<author initials='I.W.' surname='Cotton' fullname='I.W. Cotton'><organization /></author>
+<author initials='K.C.' surname='Kelley' fullname='K.C. Kelley'><organization /></author>
+<author initials='D.E.' surname='Liddle' fullname='D.E. Liddle'><organization /></author>
+<author initials='E.' surname='Meyer' fullname='E. Meyer'><organization /></author>
+<date year='1972' month='January' />
+</front>
+<seriesInfo name='RFC' value='292'/>
+<seriesInfo name='DOI' value='10.17487/RFC0292'/>
 </reference>

@@ -1,61 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1847'>
-
+<reference  anchor='RFC1847' target='http://www.rfc-editor.org/info/rfc1847'>
 <front>
-<title abbrev='Security Multiparts'>Security Multiparts for MIME: Multipart/Signed and Multipart/Encrypted</title>
-<author initials='J.' surname='Galvin' fullname='Jim Galvin'>
-<organization>Trusted Information Systems</organization>
-<address>
-<postal>
-<street>3060 Washington Road</street>
-<city>Glenwood</city>
-<region>MD</region>
-<code>21738</code>
-<country>US</country></postal>
-<phone>+1 301 854 6889</phone>
-<facsimile>+1 301 854 5363</facsimile>
-<email>galvin@tis.com</email></address></author>
-<author initials='S.' surname='Murphy' fullname='Sandy Murphy'>
-<organization>Trusted Information Systems</organization>
-<address>
-<postal>
-<street>3060 Washington Road</street>
-<city>Glenwood</city>
-<region>MD</region>
-<code>21738</code>
-<country>US</country></postal>
-<phone>+1 301 854 6889</phone>
-<facsimile>+1 301 854 5363</facsimile>
-<email>sandy@tis.com</email></address></author>
-<author initials='S.' surname='Crocker' fullname='Steve Crocker'>
-<organization>CyberCash, Inc.</organization>
-<address>
-<postal>
-<street>2086 Hunters Crest Way</street>
-<city>Vienna</city>
-<region>VA</region>
-<code>22181</code>
-<country>US</country></postal>
-<phone>+1 703 620 1222</phone>
-<facsimile>+1 703 391 2651</facsimile>
-<email>crocker@cybercash.com</email></address></author>
-<author initials='N.' surname='Freed' fullname='Ned Freed'>
-<organization>Innosoft International, Inc.</organization>
-<address>
-<postal>
-<street>1050 East Garvey Avenue South</street>
-<city>West Covina</city>
-<region>CA</region>
-<code>91790</code>
-<country>US</country></postal>
-<phone>+1 818 919 3600</phone>
-<facsimile>+1 818 919 3614</facsimile>
-<email>ned@innosoft.com</email></address></author>
+<title>Security Multiparts for MIME: Multipart/Signed and Multipart/Encrypted</title>
+<author initials='J.' surname='Galvin' fullname='J. Galvin'><organization /></author>
+<author initials='S.' surname='Murphy' fullname='S. Murphy'><organization /></author>
+<author initials='S.' surname='Crocker' fullname='S. Crocker'><organization /></author>
+<author initials='N.' surname='Freed' fullname='N. Freed'><organization /></author>
 <date year='1995' month='October' />
-<abstract>
-<t>This document defines a framework within which security services may be applied to MIME body parts.  MIME, an acronym for "Multipurpose Internet Mail Extensions", defines the format of the contents of Internet mail messages and provides for multi-part textual and non-textual message bodies.  The new content types are subtypes of multipart: signed and encrypted.  Each will contain two body parts: one for the protected data and one for the control information necessary to remove the protection.  The type and contents of the control information body parts are determined by the value of the protocol parameter of the enclosing multipart/signed or multipart/encrypted content type, which is required to be present.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1847' />
-<format type='TXT' octets='23679' target='http://www.rfc-editor.org/rfc/rfc1847.txt' />
+<abstract><t>This document defines a framework within which security services may be applied to MIME body parts.  [STANDARDS-TRACK] This memo defines a new Simple Mail Transfer Protocol (SMTP) [1] reply code, 521, which one may use to indicate that an Internet host does not accept incoming mail.  This memo defines an Experimental Protocol for the Internet community. This memo defines an extension to the SMTP service whereby an interrupted SMTP transaction can be restarted at a later time without having to repeat all of the commands and message content sent prior to the interruption.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1847'/>
+<seriesInfo name='DOI' value='10.17487/RFC1847'/>
 </reference>

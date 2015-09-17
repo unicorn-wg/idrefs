@@ -1,27 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2759'>
-
+<reference  anchor='RFC2759' target='http://www.rfc-editor.org/info/rfc2759'>
 <front>
-<title abbrev='Microsoft MS-CHAP-V2'>Microsoft PPP CHAP Extensions, Version 2</title>
-<author initials='G.' surname='Zorn' fullname='Glen Zorn'>
-<organization>Microsoft Corporation</organization>
-<address>
-<postal>
-<street>One Microsoft Way</street>
-<city>Redmond</city>
-<region>WA</region>
-<code>98052</code>
-<country>US</country></postal>
-<phone>+1 425 703 1559</phone>
-<facsimile>+1 425 936 7329</facsimile>
-<email>gwz@acm.org</email></address></author>
+<title>Microsoft PPP CHAP Extensions, Version 2</title>
+<author initials='G.' surname='Zorn' fullname='G. Zorn'><organization /></author>
 <date year='2000' month='January' />
-<abstract>
-<t>The Point-to-Point Protocol (PPP)provides a standard method for transporting multi-protocol datagrams over point-to-point links.  PPP defines an extensible Link Control Protocol and a family of Network Control Protocols (NCPs) for establishing and configuring different network-layer protocols.</t>
-<t>This document describes version two of Microsoft's PPP CHAP dialect (MS-CHAP-V2).  MS-CHAP-V2 is similar to, but incompatible with, MS-CHAP version one (MS-CHAP-V1, described in. In particular, certain protocol fields have been deleted or reused but with different semantics.  In addition, MS-CHAP-V2 features mutual authentication.</t>
-<t>The algorithms used in the generation of various MS-CHAP-V2 protocol fields are described in section 8.  Negotiation and hash generation examples are provided in section 9.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2759' />
-<format type='TXT' octets='34178' target='http://www.rfc-editor.org/rfc/rfc2759.txt' />
+<abstract><t>This document describes version two of Microsoft's PPP CHAP dialect (MS-CHAP-V2).  MS-CHAP-V2 is similar to, but incompatible with, MS-CHAP version one (MS-CHAP-V1).  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2759'/>
+<seriesInfo name='DOI' value='10.17487/RFC2759'/>
 </reference>

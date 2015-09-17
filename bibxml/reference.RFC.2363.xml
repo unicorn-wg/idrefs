@@ -1,71 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2363'>
-
+<reference  anchor='RFC2363' target='http://www.rfc-editor.org/info/rfc2363'>
 <front>
 <title>PPP Over FUNI</title>
-<author initials='G.' surname='Gross' fullname='George Gross'>
-<organization>Lucent Technologies, Inc</organization>
-<address>
-<postal>
-<street>184 Liberty Corner Road</street>
-<street>Warren</street>
-<street>NJ 07059</street></postal>
-<phone>+1.908.580.4589</phone>
-<email>gmgross@lucent.com</email></address></author>
-<author initials='M.' surname='Kaycee' fullname='Manu Kaycee'>
-<organization>Paradyne Corporation</organization>
-<address>
-<postal>
-<street>21 Bear Meadow Road</street>
-<street>Londonderry</street>
-<street>NH 03053-2168</street></postal>
-<phone>+1.603.434.6088</phone>
-<email>mjk@nj.paradyne.com</email></address></author>
-<author initials='A.' surname='Lin' fullname='Arthur Lin'>
-<organization>Shasta Networks Inc.</organization>
-<address>
-<postal>
-<street>249 Humboldt Court</street>
-<street>Sunnyvale</street>
-<street>CA 94089-1300</street></postal>
-<phone>+1.408.747.5051</phone>
-<email>alin@shastanets.com</email></address></author>
-<author initials='A.' surname='Malis' fullname='Andrew Malis'>
-<organization>Ascend Communications, Inc.</organization>
-<address>
-<postal>
-<street>1 Robbins Road</street>
-<street>Westford</street>
-<street>MA 01886</street></postal>
-<phone>+1.978.952.7414</phone>
-<email>malis@ascend.com</email></address></author>
-<author initials='J.' surname='Stephens' fullname='John Stephens'>
-<organization>Cayman Systems, Inc.</organization>
-<address>
-<postal>
-<street>100 Maple Street</street>
-<street>Stoneham</street>
-<street>MA 02180</street></postal>
-<phone>+1.617.279.1101</phone>
-<email>john@cayman.com</email></address></author>
+<author initials='G.' surname='Gross' fullname='G. Gross'><organization /></author>
+<author initials='M.' surname='Kaycee' fullname='M. Kaycee'><organization /></author>
+<author initials='A.' surname='Li' fullname='A. Li'><organization /></author>
+<author initials='A.' surname='Malis' fullname='A. Malis'><organization /></author>
+<author initials='J.' surname='Stephens' fullname='J. Stephens'><organization /></author>
 <date year='1998' month='July' />
-<area>Internet</area>
-<keyword>asynchronous transfer mode</keyword>
-<keyword>encapsulate</keyword>
-<keyword>point-to-point protocol</keyword>
-<keyword>PPP</keyword>
-<abstract>
-<t>
-   The Point-to-Point Protocol (PPP)  provides a standard method for
-   transporting multi-protocol datagrams over point-to-point links.
-</t>
-<t>
-   This document describes the use of ATM Frame User Network Interface
-   (FUNI)  for framing PPP encapsulated packets.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2363' />
-<format type='TXT' octets='22576' target='http://www.rfc-editor.org/rfc/rfc2363.txt' />
-<format type='XML' octets='23272' target='http://xml.resource.org/public/rfc/xml/rfc2363.xml' />
+<abstract><t>This document describes the use of ATM Frame User Network Interface (FUNI)  for framing PPP encapsulated packets.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2363'/>
+<seriesInfo name='DOI' value='10.17487/RFC2363'/>
 </reference>

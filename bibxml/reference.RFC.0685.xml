@@ -1,18 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0685'>
-
+<reference  anchor='RFC0685' target='http://www.rfc-editor.org/info/rfc685'>
 <front>
 <title>Response time in cross network debugging</title>
-<author initials='M.' surname='Beeler' fullname='Michael Beeler'>
-<organization>Bolt Baranek and Newman (BBN), TENEX</organization></author>
-<date year='1975' month='April' day='16' />
-<abstract>
-<t>Cross-network debugging is a means whereby a programmer at one computer on a network can debug a program which executes on another computer. One form of cross-net debugging has been in use for some years by programmers who maintain IMPs on the ARPA network. Another form has been used by ARPA network users who employ TELNET or RSEXEC to log into a distant computer and remotely run a debugger on that machine. In both of these cases, the debugger is almost entirely resident in the same machine as the subject program, and only a remote means of access to that computer distinguishes the activity
-from single-computer debugging.</t>
-<t>In our case, we use a PDP-10 to perform complex debugging manipulations. Simple manipulations, and complex actions which the PDP-10 has partially digested into simple actions, are sent over the ARPA network to a PDP-11. The portion of the debugger resident in the PDP-11, where the subject program executes, can perform only simple actions (examine, deposit, start, stop, set breakpoint, etc.). This division of debugging computation between the two machines is implemented and in use at BBN. A user s manual is available (as (BBN] DOCUMENTATION XNET.DOC) describing the debugger s features and discussing some of the issues involved.</t>
-<t>The purpose of this RFC is to describe our experience with response times the debugger exhibits. Response time is a serious problem in any elaboration to a debugger. Here we wish to discuss the contribution of communicating over the ARPA network to response time. The debugger (X-NET) keeps statistics during each debugging session, and a debugger command prints them out. We used a "standard scenario" to measure response times on two occasions. The first was debugging a PDP-11 at BBN on the same IMP as the PDP-10. The second was with a PDP-11 at SRI-ARC in California, with at least nine IMPs intervening.</t></abstract></front>
-
-<seriesInfo name='RFC' value='685' />
-<format type='TXT' octets='6914' target='http://www.rfc-editor.org/rfc/rfc685.txt' />
+<author initials='M.' surname='Beeler' fullname='M. Beeler'><organization /></author>
+<date year='1975' month='April' />
+<abstract><t>The contribution of ARPANET communication to response time.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='685'/>
+<seriesInfo name='DOI' value='10.17487/RFC0685'/>
 </reference>

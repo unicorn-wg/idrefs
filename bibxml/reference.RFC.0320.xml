@@ -1,14 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0320'>
-
+<reference  anchor='RFC0320' target='http://www.rfc-editor.org/info/rfc320'>
 <front>
 <title>Workshop on Hard Copy Line Graphics</title>
-<author initials='R.' surname='Reddy' fullname='R. Reddy'>
-<organization /></author>
-<date year='1972' month='March' /></front>
-
-<seriesInfo name='RFC' value='320' />
-<format type='TXT' octets='5600' target='http://www.rfc-editor.org/rfc/rfc320.txt' />
-<format type='PDF' octets='14422' target='http://www.rfc-editor.org/rfc/rfc320.pdf' />
+<author initials='R.' surname='Reddy' fullname='R. Reddy'><organization /></author>
+<date year='1972' month='March' />
+</front>
+<seriesInfo name='RFC' value='320'/>
+<seriesInfo name='DOI' value='10.17487/RFC0320'/>
 </reference>

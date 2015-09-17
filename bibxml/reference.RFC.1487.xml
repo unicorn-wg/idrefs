@@ -1,50 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1487'>
-
+<reference  anchor='RFC1487' target='http://www.rfc-editor.org/info/rfc1487'>
 <front>
-<title abbrev='X.500 LDAP'>X.500 Lightweight Directory Access Protocol</title>
-<author initials='W.' surname='Yeong' fullname='Wengyik Yeong'>
-<organization>PSI, Inc.</organization>
-<address>
-<postal>
-<street>510 Huntmar Park Drive</street>
-<city>Herndon</city>
-<region>VA</region>
-<code>22070</code>
-<country>US</country></postal>
-<phone>+1 703 450 8001</phone>
-<email>yeongw@psilink.com</email></address></author>
-<author initials='T.' surname='Howes' fullname='Tim Howes'>
-<organization>University of Michigan, ITD Research Systems</organization>
-<address>
-<postal>
-<street>535 W William St.</street>
-<city>Ann Arbor</city>
-<region>MI</region>
-<code>48103-4943</code>
-<country>US</country></postal>
-<phone>+1 313 747 4454</phone>
-<email>tim@umich.edu</email></address></author>
-<author initials='S.' surname='Kille' fullname='Steve Kille'>
-<organization>ISODE Consortium</organization>
-<address>
-<postal>
-<street>POB 505</street>
-<city>London</city>
-<region>England</region>
-<code>SW11 1DX</code>
-<country>UK</country></postal>
-<phone>+44 71 2234062</phone>
-<email>S.Kille@isode.com</email></address></author>
+<title>X.500 Lightweight Directory Access Protocol</title>
+<author initials='W.' surname='Yeong' fullname='W. Yeong'><organization /></author>
+<author initials='T.' surname='Howes' fullname='T. Howes'><organization /></author>
+<author initials='S.' surname='Kille' fullname='S. Kille'><organization /></author>
 <date year='1993' month='July' />
-<abstract>
-<t>The protocol described in this document is designed to provide access to the Directory while not incurring the resource requirements of the Directory Access Protocol (DAP). This protocol is specifically targeted at simple management applications and browser applications that provide simple read/write interactive access to the Directory, and is intended to be a complement to the DAP itself.</t>
-<t>Key aspects of LDAP are:</t>
-<t>- Protocol elements are carried directly over TCP or other transport, bypassing much of the session/presentation overhead.</t>
-<t>- Many protocol data elements are encoding as ordinary strings (e.g., Distinguished Names).</t>
-<t>- A lightweight BER encoding is used to encode all protocol elements.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1487' />
-<format type='TXT' octets='44947' target='http://www.rfc-editor.org/rfc/rfc1487.txt' />
+<abstract><t>The protocol described in this document is designed to provide access to the Directory while not incurring the resource requirements of the Directory Access Protocol (DAP).  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1487'/>
+<seriesInfo name='DOI' value='10.17487/RFC1487'/>
 </reference>

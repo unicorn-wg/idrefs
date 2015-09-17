@@ -1,95 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2445'>
-
+<reference  anchor='RFC2445' target='http://www.rfc-editor.org/info/rfc2445'>
 <front>
-<title abbrev='iCalendar'>Internet Calendaring and Scheduling Core Object Specification (iCalendar)</title>
-<author initials='F.' surname='Dawson' fullname='Frank Dawson'>
-<organization>Lotus Development Corporation</organization>
-<address>
-<postal>
-<street>6544 Battleford Drive</street>
-<city>Raleigh</city>
-<region>NC</region>
-<code>27613-3502</code>
-<country>USA</country></postal>
-<phone>+1-919-676-9515</phone>
-<facsimile>+1-919-676-9564</facsimile>
-<email>Frank_Dawson@Lotus.com</email>
-<uri>http://home.earthlink.net/~fdawson</uri></address></author>
-<author initials='D.' surname='Stenerson' fullname='Derik Stenerson'>
-<organization>Microsoft Corporation</organization>
-<address>
-<postal>
-<street>One Microsoft Way</street>
-<city>Redmond</city>
-<region>WA</region>
-<code>98052-6399</code>
-<country>USA</country></postal>
-<phone>+1-425-936-5522</phone>
-<facsimile>+1-425-936-7329</facsimile>
-<email>deriks@Microsoft.com</email></address></author>
-<author>
-<organization /></author>
-<author>
-<organization /></author>
+<title>Internet Calendaring and Scheduling Core Object Specification (iCalendar)</title>
+<author initials='F.' surname='Dawson' fullname='F. Dawson'><organization /></author>
+<author initials='D.' surname='Stenerson' fullname='D. Stenerson'><organization /></author>
 <date year='1998' month='November' />
-<area>Applications</area>
-<keyword>calendaring</keyword>
-<keyword>scheduling</keyword>
-<keyword>PIM</keyword>
-<abstract>
-<t>
-   There is a clear need to provide and deploy interoperable calendaring
-   and scheduling services for the Internet. Current group scheduling
-   and Personal Information Management (PIM) products are being extended
-   for use across the Internet, today, in proprietary ways. This memo
-   has been defined to provide the definition of a common format for
-   openly exchanging calendaring and scheduling information across the
-   Internet.
-</t>
-<t>
-   This memo is formatted as a registration for a MIME media type per
-   . However, the format in this memo is equally applicable
-   for use outside of a MIME message content type.
-</t>
-<t>
-   The proposed media type value is &apos;text/calendar&apos;. This string would
-   label a media type containing calendaring and scheduling information
-   encoded as text characters formatted in a manner outlined below.
-</t>
-<t>
-   This MIME media type provides a standard content type for capturing
-   calendar event, to-do and journal entry information. It also can be
-   used to convey free/busy time information. The content type is
-   suitable as a MIME message entity that can be transferred over MIME
-   based email systems, using HTTP or some other Internet transport. In
-   addition, the content type is useful as an object for interactions
-   between desktop applications using the operating system clipboard,
-   drag/drop or file systems capabilities.
-</t>
-<t>
-   This memo is based on the earlier work of the vCalendar specification
-   for the exchange of personal calendaring and scheduling information.
-   In order to avoid confusion with this referenced work, this memo is
-   to be known as the iCalendar specification.
-</t>
-<t>
-   This memo defines the format for specifying iCalendar object methods.
-   An iCalendar object method is a set of usage constraints for the
-   iCalendar object. For example, these methods might define scheduling
-   messages that request an event be scheduled, reply to an event
-   request, send a cancellation notice for an event, modify or replace
-   the definition of an event, provide a counter proposal for an
-   original event request, delegate an event request to another
-   individual, request free or busy time, reply to a free or busy time
-   request, or provide similar scheduling messages for a to-do or
-   journal entry calendar component. The iCalendar Transport-indendent
-   Interoperability Protocol (iTIP) defined in  is one such
-   scheduling protocol.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2445' />
-<format type='TXT' octets='291838' target='http://www.rfc-editor.org/rfc/rfc2445.txt' />
-<format type='XML' octets='305617' target='http://xml.resource.org/public/rfc/xml/rfc2445.xml' />
+<abstract><t>This memo has been defined to provide the definition of a common format for openly exchanging calendaring and scheduling information across the Internet.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2445'/>
+<seriesInfo name='DOI' value='10.17487/RFC2445'/>
 </reference>

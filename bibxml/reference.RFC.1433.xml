@@ -1,47 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1433'>
-
+<reference  anchor='RFC1433' target='http://www.rfc-editor.org/info/rfc1433'>
 <front>
 <title>Directed ARP</title>
-<author initials='J.' surname='Garrett' fullname='John Garrett'>
-<organization>AT&amp;T Bell Laboratories</organization>
-<address>
-<postal>
-<street>184 Liberty Corner Road</street>
-<city>Warren</city>
-<region>NJ</region>
-<code>07060-0906</code>
-<country>US</country></postal>
-<phone>+1 908 580 4719</phone>
-<email>jwg@garage.att.com</email></address></author>
-<author initials='J.' surname='Hagan' fullname='John Dotts Hagan'>
-<organization>University of Pennsylvania</organization>
-<address>
-<postal>
-<street>3401 Walnut Street</street>
-<street>Suite 221A</street>
-<city>Philadelphia</city>
-<region>PA</region>
-<code>19104-6228</code>
-<country>US</country></postal>
-<phone>+1 215 898 9192</phone>
-<email>Hagan@UPENN.EDU</email></address></author>
-<author initials='J.' surname='Wong' fullname='Jeffrey A. Wong'>
-<organization>AT&amp;T Bell Laboratories</organization>
-<address>
-<postal>
-<street>184 Liberty Corner Road</street>
-<city>Warren</city>
-<region>NJ</region>
-<code>07060-0906</code>
-<country>US</country></postal>
-<phone>+1 908 580 5361</phone>
-<email>jwong@garage.att.com</email></address></author>
+<author initials='J.' surname='Garrett' fullname='J. Garrett'><organization /></author>
+<author initials='J.' surname='Hagan' fullname='J. Hagan'><organization /></author>
+<author initials='J.' surname='Wong' fullname='J. Wong'><organization /></author>
 <date year='1993' month='March' />
-<abstract>
-<t>A router with an interface to two IP networks via the same link level interface could observe that the two IP networks share the same link level network, and could advertise that information to hosts (via ICMP Redirects) and routers (via dynamic routing protocols). However, a host or router on only one of the IP networks could not use that information to communicate directly with hosts and routers on the other IP network unless it could resolve IP addresses on the "foreign" IP network to their corresponding link level addresses. Directed ARP is a dynamic address resolution procedure that enables hosts and routers to resolve advertised potential next-hop IP addresses on foreign IP networks to their associated link level addresses.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1433' />
-<format type='TXT' octets='41028' target='http://www.rfc-editor.org/rfc/rfc1433.txt' />
+<abstract><t>Directed ARP is a dynamic address resolution procedure that enables hosts and routers to resolve advertised potential next-hop IP addresses on foreign IP networks to their associated link level addresses.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1433'/>
+<seriesInfo name='DOI' value='10.17487/RFC1433'/>
 </reference>

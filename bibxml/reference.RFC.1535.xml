@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1535'>
-
+<reference  anchor='RFC1535' target='http://www.rfc-editor.org/info/rfc1535'>
 <front>
-<title abbrev='DNS Software Enhancements'>A Security Problem and Proposed Correction With Widely Deployed DNS Software</title>
-<author initials='E.' surname='Gavron' fullname='Ehud Gavron'>
-<organization>ACES Research Inc.</organization>
-<address>
-<postal>
-<street>PO Box 14546</street>
-<city>Tucson</city>
-<region>AZ</region>
-<code>85711</code>
-<country>US</country></postal>
-<phone>+1 602 743 9841</phone>
-<email>gavron@aces.com</email></address></author>
+<title>A Security Problem and Proposed Correction With Widely Deployed DNS Software</title>
+<author initials='E.' surname='Gavron' fullname='E. Gavron'><organization /></author>
 <date year='1993' month='October' />
-<abstract>
-<t>This document discusses a flaw in some of the currently distributed name resolver clients.  The flaw exposes a security weakness related to the search heuristic invoked by these same resolvers when users provide a partial domain name, and which is easy to exploit (although not by the masses).  This document points out the flaw, a case in point, and a solution.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1535' />
-<format type='TXT' octets='9722' target='http://www.rfc-editor.org/rfc/rfc1535.txt' />
+<abstract><t>This document discusses a flaw in some of the currently distributed name resolver clients.  The flaw exposes a security weakness related to the search heuristic invoked by these same resolvers when users provide a partial domain name, and which is easy to exploit.  This document points out the flaw, a case in point, and a solution. This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1535'/>
+<seriesInfo name='DOI' value='10.17487/RFC1535'/>
 </reference>

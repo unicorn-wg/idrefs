@@ -1,27 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0720'>
-
+<reference  anchor='RFC0720' target='http://www.rfc-editor.org/info/rfc720'>
 <front>
 <title>Address Specification Syntax for Network Mail</title>
-<author initials='D.' surname='Crocker' fullname='D. Crocker'>
-<organization>University of Southern California (USC)/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90291</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone></address></author>
-<date year='1976' day='5' month='August' />
-<abstract>
-<t>Experience with processing mail on the Arpanet has pointed up many addressing issues, including:</t>
-<t>1. People's names are not the same as their addresses;
-				2. Mailing lists can get quite long;
-				3. To allow responding, messages often need to carry all of their mailing list with them;
-				4. It would be very useful to be able to send mail to files other than the person's primary mailbox.</t></abstract></front>
-
-<seriesInfo name='RFC' value='720' />
-<format type='TXT' octets='6602' target='http://www.rfc-editor.org/rfc/rfc720.txt' />
+<author initials='D.' surname='Crocker' fullname='D. Crocker'><organization /></author>
+<date year='1976' month='August' />
+</front>
+<seriesInfo name='RFC' value='720'/>
+<seriesInfo name='DOI' value='10.17487/RFC0720'/>
 </reference>

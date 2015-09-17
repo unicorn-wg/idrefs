@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2009'>
-
+<reference  anchor='RFC2009' target='http://www.rfc-editor.org/info/rfc2009'>
 <front>
 <title>GPS-Based Addressing and Routing</title>
-<author initials='T.' surname='Imielinski' fullname='Tomasz Imielinski'>
-<organization>Rutgers State University, Computer Science Department, Busch Campus</organization>
-<address>
-<postal>
-<street />
-<city>Piscataway</city>
-<region>NJ</region>
-<code>08855</code>
-<country>US</country></postal>
-<phone>+1 908 445 3551</phone>
-<email>imielins@cs.rutgers.edu</email></address></author>
-<author initials='J.C.' surname='Navas' fullname='Julio C. Navas'>
-<organization>Rutgers State University, Computer Science Department, Busch Campus</organization>
-<address>
-<postal>
-<street />
-<city>Piscataway</city>
-<region>NJ</region>
-<code>08855</code>
-<country>US</country></postal>
-<phone>+1 908 445 3551</phone>
-<email>navas@cs.rutgers.edu</email></address></author>
+<author initials='T.' surname='Imielinski' fullname='T. Imielinski'><organization /></author>
+<author initials='J.' surname='Navas' fullname='J. Navas'><organization /></author>
 <date year='1996' month='November' />
-<abstract>
-<t></t></abstract></front>
-
-<seriesInfo name='RFC' value='2009' />
-<format type='TXT' octets='66229' target='http://www.rfc-editor.org/rfc/rfc2009.txt' />
+<abstract><t>This document describes a possible experiment with geographic addresses. It uses several specific IP addresses and domain names in the discussion as concrete examples to aid in understanding the concepts.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2009'/>
+<seriesInfo name='DOI' value='10.17487/RFC2009'/>
 </reference>

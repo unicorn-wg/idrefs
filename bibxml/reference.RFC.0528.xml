@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0528'>
-
+<reference  anchor='RFC0528' target='http://www.rfc-editor.org/info/rfc528'>
 <front>
 <title>Software checksumming in the IMP and network reliability</title>
-<author initials='J.M.' surname='McQuillan' fullname='J.M. McQuillan'>
-<organization /></author>
-<date year='1973' month='June' /></front>
-
-<seriesInfo name='RFC' value='528' />
-<format type='TXT' octets='23152' target='http://www.rfc-editor.org/rfc/rfc528.txt' />
+<author initials='J.M.' surname='McQuillan' fullname='J.M. McQuillan'><organization /></author>
+<date year='1973' month='June' />
+</front>
+<seriesInfo name='RFC' value='528'/>
+<seriesInfo name='DOI' value='10.17487/RFC0528'/>
 </reference>

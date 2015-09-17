@@ -1,17 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0887'>
-
+<reference  anchor='RFC0887' target='http://www.rfc-editor.org/info/rfc887'>
 <front>
 <title>Resource Location Protocol</title>
-<author initials='M.' surname='Accetta' fullname='M. Accetta'>
-<organization>Carnegie-Mellon University</organization></author>
-<date year='1983' day='1' month='December' />
-<abstract>
-<t>This note describes a resource location protocol for use in the ARPA Internet.  It is most useful on networks employing technologies which support some method of broadcast addressing, however it may also be used on other types of networks.  For maximum benefit, all hosts which provide significant resources or services to other hosts on the Internet should implement this protocol.  Hosts failing to implement the Resource Location Protocol risk being ignored by other hosts which are attempting to locate resources on the Internet.  This RFC specifies a draft standard for the ARPA Internet community.</t>
-<t>The Resource Location Protocol (RLP) utilizes the User Datagram Protocol (UDP)which in turn calls on the Internet Protocol (IP)to deliver its datagrams.  See Appendix A andfor the appropriate port and protocol number assignments.</t>
-<t>Unless otherwise indicated, all numeric quantities in this document are decimal numbers.</t></abstract></front>
-
-<seriesInfo name='RFC' value='887' />
-<format type='TXT' octets='36770' target='http://www.rfc-editor.org/rfc/rfc887.txt' />
+<author initials='M.' surname='Accetta' fullname='M. Accetta'><organization /></author>
+<date year='1983' month='December' />
+<abstract><t>This RFC specifies a draft standard for the ARPA Internet community.    It describes a resource location protocol for use in the ARPA    Internet.  It is most useful on networks employing technologies which    support some method of broadcast addressing, however it may also be    used on other types of networks.  For maximum benefit, all hosts    which provide significant resources or services to other hosts on the    Internet should implement this protocol.  Hosts failing to implement    the Resource Location Protocol risk being ignored by other hosts    which are attempting to locate resources on the Internet.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='887'/>
+<seriesInfo name='DOI' value='10.17487/RFC0887'/>
 </reference>

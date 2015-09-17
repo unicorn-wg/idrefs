@@ -1,39 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1637'>
-
+<reference  anchor='RFC1637' target='http://www.rfc-editor.org/info/rfc1637'>
 <front>
-<title abbrev='DNS NSAP RRs'>DNS NSAP Resource Records</title>
-<author initials='B.' surname='Manning' fullname='Bill Manning'>
-<organization>Rice University -- ONCS</organization>
-<address>
-<postal>
-<street>P.O. Box 1892</street>
-<street>6100 South Main</street>
-<city>Houston</city>
-<region>TX</region>
-<code>77251-1892</code>
-<country>US</country></postal>
-<phone>+1 713 285 5415</phone>
-<email>bmanning@rice.edu</email></address></author>
-<author initials='R.' surname='Colella' fullname='Richard Colella'>
-<organization>National Institute of Standards and Technology (NIST)/B217</organization>
-<address>
-<postal>
-<street />
-<city>Gaithersburg</city>
-<region>MD</region>
-<code>20899</code>
-<country>US</country></postal>
-<phone>+1 301 975 3627</phone>
-<facsimile>+1 301 590 0932</facsimile>
-<email>colella@nist.gov</email></address></author>
+<title>DNS NSAP Resource Records</title>
+<author initials='B.' surname='Manning' fullname='B. Manning'><organization /></author>
+<author initials='R.' surname='Colella' fullname='R. Colella'><organization /></author>
 <date year='1994' month='June' />
-<abstract>
-<t>The Internet is moving towards the deployment of an OSI lower layers infrastructure. This infrastructure comprises the connectionless network protocol (CLNP) and supporting routing protocols. Also required as part of this infrastructure is support in the Domain Name System (DNS) for mapping between names and NSAP addresses.</t>
-<t>This document defines the format of one new Resource Record (RR) for the DNS for domain name-to-NSAP mapping. The RR may be used with any NSAP address format. This document supercedes RFC 1348.</t>
-<t>NSAP-to-name translation is accomplished through use of the PTR RR (see STD 13, RFC 1035 for a description of the PTR RR). This paper describes how PTR RRs are used to support this translation.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1637' />
-<format type='TXT' octets='21768' target='http://www.rfc-editor.org/rfc/rfc1637.txt' />
+<abstract><t>This document defines the format of one new Resource Record (RR) for the DNS for domain name-to-NSAP mapping.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1637'/>
+<seriesInfo name='DOI' value='10.17487/RFC1637'/>
 </reference>

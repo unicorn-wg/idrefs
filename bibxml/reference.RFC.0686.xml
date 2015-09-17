@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0686'>
-
+<reference  anchor='RFC0686' target='http://www.rfc-editor.org/info/rfc686'>
 <front>
 <title>Leaving well enough alone</title>
-<author initials='B.' surname='Harvey' fullname='Brian Harvey'>
-<organization>Stanford University (SU), Artificial Intelligence (AI)</organization></author>
-<date year='1975' day='10' month='May' />
-<abstract>
-<t>I recently decided it was time for an overhaul of our FTP user and server programs.  This was my first venture into the world of network protocols, and I soon discovered that there was a lot we were doing wrong -- and a few things that everyone seemed to be doing differently from each other.  When I enquired about this, the response from some quarters was "Oh, you're running version 1!"</t></abstract></front>
-
-<seriesInfo name='RFC' value='686' />
-<format type='TXT' octets='24605' target='http://www.rfc-editor.org/rfc/rfc686.txt' />
+<author initials='B.' surname='Harvey' fullname='B. Harvey'><organization /></author>
+<date year='1975' month='May' />
+<abstract><t>Discusses difference between early and later versions of FTP; see also   RFCs 691, 640, 630, 542, 454, 448, 414, 385 and 354.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='686'/>
+<seriesInfo name='DOI' value='10.17487/RFC0686'/>
 </reference>

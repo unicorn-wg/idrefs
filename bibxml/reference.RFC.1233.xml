@@ -1,37 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1233'>
-
+<reference  anchor='RFC1233' target='http://www.rfc-editor.org/info/rfc1233'>
 <front>
-<title abbrev='DS3 Interface Objects'>Definitions of managed objects for the DS3 Interface type</title>
-<author initials='T.' surname='Cox' fullname='Tracy A. Cox'>
-<organization>Bell Communications Research</organization>
-<address>
-<postal>
-<street>331 Newman Springs Road</street>
-<street>P.O. Box 7020</street>
-<city>Red Bank</city>
-<region>NJ</region>
-<code>07701-7020</code>
-<country>US</country></postal>
-<phone>+1 908 758 2107</phone>
-<email>tacox@sabre.bellcore.com</email></address></author>
-<author initials='K.' surname='Tesink' fullname='Kaj Tesink'>
-<organization>Bell Communications Research</organization>
-<address>
-<postal>
-<street>331 Newman Springs Road</street>
-<street>P.O. Box 7020</street>
-<city>Red Bank</city>
-<region>NJ</region>
-<code>07701-7020</code>
-<country>US</country></postal>
-<phone>+1 908 758 5254</phone>
-<email>kaj@nvuxr.cc.bellcore.com</email></address></author>
-<date year='1991' day='1' month='May' />
-<abstract>
-<t>This memo defines an experimental portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, this memo defines MIB objects for representing DS3 physical interfaces.  Implementors should consult in addition to this memo the companion document that   describes that DS1 managed objects.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1233' />
-<format type='TXT' octets='49559' target='http://www.rfc-editor.org/rfc/rfc1233.txt' />
+<title>Definitions of managed objects for the DS3 Interface type</title>
+<author initials='T.A.' surname='Cox' fullname='T.A. Cox'><organization /></author>
+<author initials='K.' surname='Tesink' fullname='K. Tesink'><organization /></author>
+<date year='1991' month='May' />
+<abstract><t>This memo defines objects for managing DS3 Interface objects for use with the SNMP protocol. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1233'/>
+<seriesInfo name='DOI' value='10.17487/RFC1233'/>
 </reference>

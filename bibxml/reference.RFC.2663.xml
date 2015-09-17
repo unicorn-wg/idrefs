@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2663'>
-
+<reference  anchor='RFC2663' target='http://www.rfc-editor.org/info/rfc2663'>
 <front>
-<title abbrev='NAT Terminology and Considerations'>IP Network Address Translator (NAT) Terminology and Considerations</title>
-<author initials='P.' surname='Srisuresh' fullname='Pyda Srisuresh'>
-<organization>Lucent Technologies</organization>
-<address>
-<postal>
-<street>4464 Willow Road</street>
-<city>Pleasanton</city>
-<region>CA</region>
-<code>94588-8519</code>
-<country>US</country></postal>
-<phone>+1 925 737 2153</phone>
-<email>srisuresh@lucent.com</email></address></author>
-<author initials='M.' surname='Holdrege' fullname='Matt Holdrege'>
-<organization>Lucent Technologiesv</organization>
-<address>
-<postal>
-<street>1701 Harbor Bay Parkway</street>
-<city>Alameda</city>
-<region>CA</region>
-<code>94502</code>
-<country>US</country></postal>
-<phone>+1 510 769 6001</phone>
-<email>holdrege@lucent.com</email></address></author>
+<title>IP Network Address Translator (NAT) Terminology and Considerations</title>
+<author initials='P.' surname='Srisuresh' fullname='P. Srisuresh'><organization /></author>
+<author initials='M.' surname='Holdrege' fullname='M. Holdrege'><organization /></author>
 <date year='1999' month='August' />
-<abstract>
-<t>Network Address Translation is a method by which IP addresses are mapped from one realm to another, in an attempt to provide transparent routing to hosts. Traditionally, NAT devices are used to connect an isolated address realm with private unregistered addresses to an external realm with globally unique registered addresses. This document attempts to describe the operation of NAT devices and the associated considerations in general, and to define the terminology used to identify various flavors of NAT.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2663' />
-<format type='TXT' octets='72265' target='http://www.rfc-editor.org/rfc/rfc2663.txt' />
+<abstract><t>This document attempts to describe the operation of NAT devices and the associated considerations in general, and to define the terminology used to identify various flavors of NAT.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2663'/>
+<seriesInfo name='DOI' value='10.17487/RFC2663'/>
 </reference>

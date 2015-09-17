@@ -1,68 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2182'>
-
+<reference  anchor='RFC2182' target='http://www.rfc-editor.org/info/rfc2182'>
 <front>
-<title abbrev='DNS Secondary Services'>Selection and Operation of Secondary DNS Servers</title>
-<author initials='R.' surname='Elz' fullname='Robert Elz'>
-<organization>Computer Science</organization>
-<address>
-<postal>
-<street>Parkville</street>
-<street>Vic</street>
-<street>3052</street>
-<street>Australia.</street></postal>
-<email>kre@munnari.OZ.AU</email>
-<uri>e</uri></address></author>
-<author initials='R.' surname='Bush' fullname='Randy Bush'>
-<organization>RGnet, Inc.</organization>
-<address>
-<postal>
-<street>5147 Crystal Springs Drive</street>
-<street>Bainbridge Island</street>
-<street>Washington</street>
-<street>98110</street>
-<street>United States.</street>
-<country>NE</country></postal>
-<email>randy@psg.com</email></address></author>
-<author initials='S.' surname='Bradner' fullname='Scott Bradner'>
-<organization>Harvard University</organization>
-<address>
-<postal>
-<street>1350 Mass Ave</street>
-<street>Cambridge</street>
-<street>02138</street>
-<street>United States.</street>
-<country>MA</country></postal>
-<email>sob@harvard.edu</email></address></author>
-<author initials='M.A.' surname='Patton' fullname='Michael A. Patton'>
-<organization />
-<address>
-<postal>
-<street>33 Blanchard Road</street>
-<street>Cambridge</street>
-<street>02138</street>
-<street>United States.</street>
-<country>MA</country></postal>
-<email>MAP@POBOX.COM</email></address></author>
+<title>Selection and Operation of Secondary DNS Servers</title>
+<author initials='R.' surname='Elz' fullname='R. Elz'><organization /></author>
+<author initials='R.' surname='Bush' fullname='R. Bush'><organization /></author>
+<author initials='S.' surname='Bradner' fullname='S. Bradner'><organization /></author>
+<author initials='M.' surname='Patton' fullname='M. Patton'><organization /></author>
 <date year='1997' month='July' />
-<area>Applications</area>
-<area>Operations</area>
-<keyword>secondary</keyword>
-<keyword>domain name system</keyword>
-<abstract>
-<t>
-   The Domain Name System requires that multiple servers exist for every
-   delegated domain (zone).  This document discusses the selection of
-   secondary servers for DNS zones.  Both the physical and topological
-   location of each server are material considerations when selecting
-   secondary servers.  The number of servers appropriate for a zone is
-   also discussed, and some general secondary server maintenance issues
-   considered.
-</t></abstract></front>
-
-<seriesInfo name='BCP' value='16' />
-<seriesInfo name='RFC' value='2182' />
-<format type='TXT' octets='27456' target='http://www.rfc-editor.org/rfc/rfc2182.txt' />
-<format type='XML' octets='28438' target='http://xml.resource.org/public/rfc/xml/rfc2182.xml' />
+<abstract><t>This document discusses the selection of secondary servers for DNS zones.The number of servers appropriate for a zone is also discussed, and some general secondary server maintenance issues considered.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='BCP' value='16'/>
+<seriesInfo name='RFC' value='2182'/>
+<seriesInfo name='DOI' value='10.17487/RFC2182'/>
 </reference>

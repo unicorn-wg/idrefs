@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1218'>
-
+<reference  anchor='RFC1218' target='http://www.rfc-editor.org/info/rfc1218'>
 <front>
 <title>Naming scheme for c=US</title>
-<author initials='T.' surname='Myer' fullname='Theodore H. Myer'>
-<organization>North American Directory Forum</organization>
-<address>
-<postal>
-<street>3055 Q Street NW</street>
-<city>Washington</city>
-<region>DC</region>
-<code>20007</code>
-<country>US</country></postal>
-<phone>+1 202 342 2727</phone></address></author>
-<date year='1991' day='1' month='April' />
-<abstract>
-<t>This is one of a series of documents produced for discussion within the North American Directory Forum.  Distribution, with attribution, is unlimited.  This document is being circulated for comment.  The deadline for comments is July 1, 1991.  Comments should be directed to the contact given on page 16.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1218' />
-<format type='TXT' octets='42698' target='http://www.rfc-editor.org/rfc/rfc1218.txt' />
+<author><organization>North American Directory Forum</organization></author>
+<date year='1991' month='April' />
+<abstract><t>This RFC is a near-verbatim copy of a document, known as NADF-123, which has been produced by the North American Directory Forum (NADF). As a part of its charter, the NADF must reach agreement as to how entries are named in the public portions of the North American Directory. This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1218'/>
+<seriesInfo name='DOI' value='10.17487/RFC1218'/>
 </reference>

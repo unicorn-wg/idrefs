@@ -1,19 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1421'>
-
+<reference  anchor='RFC1421' target='http://www.rfc-editor.org/info/rfc1421'>
 <front>
-<title abbrev='Privacy Enhancement for Electronic Mail'>Privacy Enhancement for Internet Electronic Mail: Part I: Message Encryption and Authentication Procedures</title>
-<author initials='J.' surname='Linn' fullname='John Linn'>
-<organization>Internet Architecture Board (IAB)
-			Internet Research Task Force (IRTF),
-			MIT's Programming Systems Research Group (PSRG),
-			Internet Engineering Task Force (IETF),
-			Privacy Enhanced Mail Work Group (PEM WG)</organization>
-<address>
-<email>104-8456@mcimail.com</email></address></author>
-<date year='1993' month='February' /></front>
-
-<seriesInfo name='RFC' value='1421' />
-<format type='TXT' octets='103894' target='http://www.rfc-editor.org/rfc/rfc1421.txt' />
+<title>Privacy Enhancement for Internet Electronic Mail: Part I: Message Encryption and Authentication Procedures</title>
+<author initials='J.' surname='Linn' fullname='J. Linn'><organization /></author>
+<date year='1993' month='February' />
+<abstract><t>This document defines message encryption and authentication procedures, in order to provide privacy-enhanced mail (PEM) services for electronic mail transfer in the Internet.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1421'/>
+<seriesInfo name='DOI' value='10.17487/RFC1421'/>
 </reference>

@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1874'>
-
+<reference  anchor='RFC1874' target='http://www.rfc-editor.org/info/rfc1874'>
 <front>
 <title>SGML Media Types</title>
-<author initials='E.' surname='Levinson' fullname='Ed Levinson'>
-<organization>Accurate Information Systems, Inc.</organization>
-<address>
-<postal>
-<street>2 Industrial Way</street>
-<city>Eatontown</city>
-<region>NJ</region>
-<code>07724</code>
-<country>US</country></postal>
-<email>ELevinson@Accurate.com</email></address></author>
+<author initials='E.' surname='Levinson' fullname='E. Levinson'><organization /></author>
 <date year='1995' month='December' />
-<abstract>
-<t>This document proposes new media sub-types of Text/SGML and Application/SGML.  These media types can be used in the exchange of SGML documents and their entities.  Specific details for the exchange or encapsulation of groups of related SGML entities using MIME are currently being considered by the mimesgml Working Group sgml-internet@ebt.com.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1874' />
-<format type='TXT' octets='12515' target='http://www.rfc-editor.org/rfc/rfc1874.txt' />
+<abstract><t>This document proposes new media sub-types of Text/SGML and Application/SGML.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1874'/>
+<seriesInfo name='DOI' value='10.17487/RFC1874'/>
 </reference>

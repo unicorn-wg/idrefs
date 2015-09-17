@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1051'>
-
+<reference  anchor='RFC1051' target='http://www.rfc-editor.org/info/rfc1051'>
 <front>
-<title abbrev='IP and ARP on ARCNET'>Standard for the transmission of IP datagrams and ARP packets over ARCNET networks</title>
-<author initials='P.' surname='Prindeville' fullname='P. Prindeville'>
-<organization>McGill University</organization></author>
-<date year='1988' day='1' month='March' /></front>
-
-<seriesInfo name='RFC' value='1051' />
-<format type='TXT' octets='7779' target='http://www.rfc-editor.org/rfc/rfc1051.txt' />
+<title>Standard for the transmission of IP datagrams and ARP packets over ARCNET networks</title>
+<author initials='P.A.' surname='Prindeville' fullname='P.A. Prindeville'><organization /></author>
+<date year='1988' month='March' />
+<abstract><t>This memo specifies a standard method of encapsulating Internet Protocol (IP) and Address Resolution Protocol (ARP) datagrams on an ARCNET.  This RFC is a standard protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1051'/>
+<seriesInfo name='DOI' value='10.17487/RFC1051'/>
 </reference>

@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0266'>
-
+<reference  anchor='RFC0266' target='http://www.rfc-editor.org/info/rfc266'>
 <front>
 <title>Network host status</title>
-<author initials='E.' surname='Westheimer' fullname='Ellen Westheimer'>
-<organization>Bolt Beranek and Newman Inc. (BBN)</organization></author>
-<date year='1971' day='8' month='November' />
-<abstract>
-<t>This RFC reports on the status of most.Network Hosts from October 26 to November 5</t></abstract></front>
-
-<seriesInfo name='RFC' value='266' />
-<format type='TXT' octets='3174' target='http://www.rfc-editor.org/rfc/rfc266.txt' />
+<author initials='E.' surname='Westheimer' fullname='E. Westheimer'><organization /></author>
+<date year='1971' month='November' />
+</front>
+<seriesInfo name='RFC' value='266'/>
+<seriesInfo name='DOI' value='10.17487/RFC0266'/>
 </reference>

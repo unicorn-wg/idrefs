@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0589'>
-
+<reference  anchor='RFC0589' target='http://www.rfc-editor.org/info/rfc589'>
 <front>
 <title>CCN NETRJS server messages to remote user</title>
-<author initials='R.T.' surname='Braden' fullname='R.T. Braden'>
-<organization /></author>
-<date year='1973' month='November' /></front>
-
-<seriesInfo name='RFC' value='589' />
-<format type='TXT' octets='7998' target='http://www.rfc-editor.org/rfc/rfc589.txt' />
+<author initials='R.T.' surname='Braden' fullname='R.T. Braden'><organization /></author>
+<date year='1973' month='November' />
+</front>
+<seriesInfo name='RFC' value='589'/>
+<seriesInfo name='DOI' value='10.17487/RFC0589'/>
 </reference>

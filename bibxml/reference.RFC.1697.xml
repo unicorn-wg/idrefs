@@ -1,68 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1697'>
-
+<reference  anchor='RFC1697' target='http://www.rfc-editor.org/info/rfc1697'>
 <front>
-<title abbrev='RDBMS-MIB'>Relational Database Management System (RDBMS) Management Information Base (MIB) using SMIv2</title>
-<author initials='D.' surname='Brower' fullname='David Brower'>
-<organization>The ASK Group, INGRES DBMS Development</organization>
-<address>
-<postal>
-<street>1080 Marina Village Parkway</street>
-<city>Alameda</city>
-<region>CA</region>
-<code>94501</code>
-<country>US</country></postal>
-<phone>+1 510 748 3418</phone>
-<email>daveb@ingres.com</email></address></author>
-<author initials='B.' surname='Purvy' fullname='Bob Purvy'>
-<organization>Oracle Corporation</organization>
-<address>
-<postal>
-<street>500 Oracle Parkway</street>
-<city>Redwood City</city>
-<region>CA</region>
-<code>94065</code>
-<country>US</country></postal>
-<phone>+1 415 506 2972</phone>
-<email>bpurvy@us.oracle.com</email></address></author>
-<author initials='A.' surname='Daniel' fullname='Anthony Daniel'>
-<organization>Informix Software, Inc.</organization>
-<address>
-<postal>
-<street>921 S.W. Washington Street</street>
-<city>Portland</city>
-<region>OR</region>
-<code>97205</code>
-<country>US</country></postal>
-<phone>+1 503 221 2638</phone>
-<email>anthony@informix.com</email></address></author>
-<author initials='M.' surname='Sinykin' fullname='Marc Sinykin'>
-<organization>Oracle Corporation</organization>
-<address>
-<postal>
-<street>400 Oracle Parkway</street>
-<city>Redwood City</city>
-<region>CA</region>
-<code>94065</code>
-<country>US</country></postal>
-<phone>+1 415 506 2477</phone>
-<email>msinykin@us.oracle.com</email></address></author>
-<author initials='J.' surname='Smith' fullname='Jay Smith'>
-<organization>Oracle Corporation</organization>
-<address>
-<postal>
-<street>400 Oracle Parkway</street>
-<city>Redwood City</city>
-<region>CA</region>
-<code>94065</code>
-<country>US</country></postal>
-<phone>+1 415 506 6239</phone>
-<email>jaysmith@us.oracle.com</email></address></author>
+<title>Relational Database Management System (RDBMS) Management Information Base (MIB) using SMIv2</title>
+<author initials='D.' surname='Brower' fullname='D. Brower' role='editor'><organization /></author>
+<author initials='B.' surname='Purvy' fullname='B. Purvy'><organization /></author>
+<author initials='A.' surname='Daniel' fullname='A. Daniel'><organization /></author>
+<author initials='M.' surname='Sinykin' fullname='M. Sinykin'><organization /></author>
+<author initials='J.' surname='Smith' fullname='J. Smith'><organization /></author>
 <date year='1994' month='August' />
-<abstract>
-<t></t></abstract></front>
-
-<seriesInfo name='RFC' value='1697' />
-<format type='TXT' octets='76202' target='http://www.rfc-editor.org/rfc/rfc1697.txt' />
+<abstract><t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects used for managing relational database (RDBMS) implementations.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1697'/>
+<seriesInfo name='DOI' value='10.17487/RFC1697'/>
 </reference>

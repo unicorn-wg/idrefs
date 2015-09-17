@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC3953'>
-
+<reference  anchor='RFC3953' target='http://www.rfc-editor.org/info/rfc3953'>
 <front>
 <title>Telephone Number Mapping (ENUM) Service Registration for Presence Services</title>
-<author initials='J.' surname='Peterson' fullname='J. Peterson'>
-<organization /></author>
+<author initials='J.' surname='Peterson' fullname='J. Peterson'><organization /></author>
 <date year='2005' month='January' />
-<abstract>
-<t>This document registers a Telephone Number Mapping (ENUM) service for presence.  Specifically, this document focuses on provisioning pres URIs in ENUM. [STANDARDS-TRACK]</t></abstract></front>
-
-<seriesInfo name='RFC' value='3953' />
-<format type='TXT' octets='13875' target='http://www.rfc-editor.org/rfc/rfc3953.txt' />
+<abstract><t>This document registers a Telephone Number Mapping (ENUM) service for presence.  Specifically, this document focuses on provisioning pres URIs in ENUM.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='3953'/>
+<seriesInfo name='DOI' value='10.17487/RFC3953'/>
 </reference>

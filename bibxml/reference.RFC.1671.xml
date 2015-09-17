@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1671'>
-
+<reference  anchor='RFC1671' target='http://www.rfc-editor.org/info/rfc1671'>
 <front>
-<title abbrev='IPng White Paper on Transition, etc.'>IPng White Paper on Transition and Other Considerations</title>
-<author initials='B.' surname='Carpenter' fullname='Brian E. Carpenter'>
-<organization>CERN, Communications Systems, Computing and Networks Division</organization>
-<address>
-<postal>
-<street>1211 Geneva 23</street>
-<city />
-<region />
-<code />
-<country>CH</country></postal>
-<phone>+41 22 7674967</phone>
-<facsimile>+41 22 7677155</facsimile>
-<email>brian@dxcoms.cern.ch</email></address></author>
+<title>IPng White Paper on Transition and Other Considerations</title>
+<author initials='B.' surname='Carpenter' fullname='B. Carpenter'><organization /></author>
 <date year='1994' month='August' />
-<abstract>
-<t>This document was submitted to the IETF IPng area in response to RFC 1550.  Publication of this document does not imply acceptance by the IPng area of any ideas expressed within.  Comments should be submitted to the big-internet@munnari.oz.au mailing list.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1671' />
-<format type='TXT' octets='17631' target='http://www.rfc-editor.org/rfc/rfc1671.txt' />
+<abstract><t>This white paper outlines some general requirements for IPng in selected areas.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1671'/>
+<seriesInfo name='DOI' value='10.17487/RFC1671'/>
 </reference>

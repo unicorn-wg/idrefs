@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0599'>
-
+<reference  anchor='RFC0599' target='http://www.rfc-editor.org/info/rfc599'>
 <front>
 <title>Update on NETRJS</title>
-<author initials='R.' surname='Braden' fullname='Robert T. Braden'>
-<organization>University of California, Los Angeles (UCLA), CCN</organization></author>
-<date year='1973' day='13' month='December' /></front>
-
-<seriesInfo name='RFC' value='599' />
-<format type='TXT' octets='16590' target='http://www.rfc-editor.org/rfc/rfc599.txt' />
+<author initials='R.T.' surname='Braden' fullname='R.T. Braden'><organization /></author>
+<date year='1973' month='December' />
+</front>
+<seriesInfo name='RFC' value='599'/>
+<seriesInfo name='DOI' value='10.17487/RFC0599'/>
 </reference>

@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0816'>
-
+<reference  anchor='RFC0816' target='http://www.rfc-editor.org/info/rfc816'>
 <front>
 <title>Fault isolation and recovery</title>
-<author initials='D.' surname='Clark' fullname='David D. Clark'>
-<organization>Massachusetts Institute of Technology (MIT), Laboratory for Computer Science, Computer Systems and Communications Group</organization></author>
-<date year='1982' day='1' month='July' /></front>
-
-<seriesInfo name='RFC' value='816' />
-<format type='TXT' octets='20106' target='http://www.rfc-editor.org/rfc/rfc816.txt' />
+<author initials='D.D.' surname='Clark' fullname='D.D. Clark'><organization /></author>
+<date year='1982' month='July' />
+<abstract><t>This RFC describes the portion of fault isolation and recovery which is the responsibility of the host.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='816'/>
+<seriesInfo name='DOI' value='10.17487/RFC0816'/>
 </reference>

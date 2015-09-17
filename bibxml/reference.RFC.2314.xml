@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2314'>
-
+<reference  anchor='RFC2314' target='http://www.rfc-editor.org/info/rfc2314'>
 <front>
-<title abbrev='PKCS #10: Certification Request Syntax'>PKCS #10: Certification Request Syntax Version 1.5</title>
-<author initials='B.' surname='Kaliski' fullname='Burt Kaliski'>
-<organization>RSA Laboratories East</organization>
-<address>
-<postal>
-<street>20 Crosby Drive</street>
-<city>Bedford</city>
-<region>MA</region>
-<code>01730</code></postal>
-<phone>(617) 687-7000</phone>
-<email>burt@rsa.com</email></address></author>
+<title>PKCS #10: Certification Request Syntax Version 1.5</title>
+<author initials='B.' surname='Kaliski' fullname='B. Kaliski'><organization /></author>
 <date year='1998' month='March' />
-<area>Security</area>
-<keyword>public key cryptography standards</keyword></front>
-
-<seriesInfo name='RFC' value='2314' />
-<format type='TXT' octets='15814' target='http://www.rfc-editor.org/rfc/rfc2314.txt' />
-<format type='HTML' octets='12280' target='http://xml.resource.org/public/rfc/html/rfc2314.html' />
-<format type='XML' octets='2390' target='http://xml.resource.org/public/rfc/xml/rfc2314.xml' />
+<abstract><t>This document describes a syntax for certification requests.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2314'/>
+<seriesInfo name='DOI' value='10.17487/RFC2314'/>
 </reference>

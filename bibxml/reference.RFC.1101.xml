@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1101'>
-
+<reference  anchor='RFC1101' target='http://www.rfc-editor.org/info/rfc1101'>
 <front>
 <title>DNS encoding of network names and other types</title>
-<author initials='P.' surname='Mockapetris' fullname='Paul Mockapetris'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone>
-<email>PVM@ISI.EDU</email></address></author>
-<date year='1989' day='1' month='April' /></front>
-
-<seriesInfo name='RFC' value='1101' />
-<format type='TXT' octets='28677' target='http://www.rfc-editor.org/rfc/rfc1101.txt' />
+<author initials='P.V.' surname='Mockapetris' fullname='P.V. Mockapetris'><organization /></author>
+<date year='1989' month='April' />
+<abstract><t>This RFC proposes two extensions to the Domain Name System:    - A specific method for entering and retrieving RRs which map      between network names and numbers.    - Ideas for a general method for describing mappings between      arbitrary identifiers and numbers. The method for mapping between network names and addresses is a proposed standard, the ideas for a general method are experimental.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1101'/>
+<seriesInfo name='DOI' value='10.17487/RFC1101'/>
 </reference>

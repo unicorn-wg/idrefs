@@ -1,18 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0217'>
-
+<reference  anchor='RFC0217' target='http://www.rfc-editor.org/info/rfc217'>
 <front>
 <title>Specifications changes for OLS, RJE/RJOR, and SMFS</title>
-<author initials='J.' surname='White' fullname='James E. White'>
-<organization>University of California, Santa Barbara (UCSB), Computer Research Lab</organization></author>
-<date year='1971' day='8' month='September' />
-<abstract>
-<t>The following documents are hereby revised:</t>
-<t>1)  'Specifications for Network Use of the UCSB On-Line System [16 October 70, RFC 74, NIC 5417],</t>
-<t>(2)  'Network Specifications for Remote Job Entry and Remote Job Output Retrieval at UCSB' [22 March 71, RFC 105, NIC 5775], and</t>
-<t>(3)  'Network Specifications for UCSB's Simple-Minded File System' [26 April 71, RFC 122, NIC 5834].</t></abstract></front>
-
-<seriesInfo name='RFC' value='217' />
-<format type='TXT' octets='2956' target='http://www.rfc-editor.org/rfc/rfc217.txt' />
+<author initials='J.E.' surname='White' fullname='J.E. White'><organization /></author>
+<date year='1971' month='September' />
+</front>
+<seriesInfo name='RFC' value='217'/>
+<seriesInfo name='DOI' value='10.17487/RFC0217'/>
 </reference>

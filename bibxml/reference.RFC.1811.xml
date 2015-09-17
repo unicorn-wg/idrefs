@@ -1,26 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1811'>
-
+<reference  anchor='RFC1811' target='http://www.rfc-editor.org/info/rfc1811'>
 <front>
-<title>U.S</title>
-<author>
-<organization>Federal Networking Council</organization>
-<address>
-<postal>
-<street>4001 N. Fairfax Drive</street>
-<city>Arlington</city>
-<region>VA</region>
-<code>22203</code>
-<country>US</country></postal>
-<phone>+1 703 522 6410</phone>
-<email>execdir@fnc.gov</email>
-<uri>http://www.fnc.gov/</uri></address></author>
+<title>U.S. Government Internet Domain Names</title>
+<author><organization>Federal Networking Council</organization></author>
 <date year='1995' month='June' />
-<abstract>
-<t>This document describes the registration policies for the top-level domain ".GOV". Thus far, Federal Agencies and their subsidiaries have registered without any guidance. This has resulted in multiple registrations for Federal Agencies and naming schemes that do not facilitate responsiveness to the public.  This document fixes this by restricting registrations to coincide with the approved structure of the US government.  The document cited, FIPS 95-1, provides a standard recognized structure into which domain registrations for top-level domains. The IANA requires that an organization/country apply for and get a 2 letter code from ISO/ITU (e.g., US for United States) for additional top-level registration.</t>
-<t>As a side effect, this reduces the number of .GOV level registrations and reduces the workload on the Internic.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1811' />
-<format type='TXT' octets='6641' target='http://www.rfc-editor.org/rfc/rfc1811.txt' />
+<abstract><t>This document describes the registration policies for the top-level domain &quot;.GOV&quot;.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1811'/>
+<seriesInfo name='DOI' value='10.17487/RFC1811'/>
 </reference>

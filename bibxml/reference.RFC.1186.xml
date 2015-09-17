@@ -1,28 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1186'>
-
+<reference  anchor='RFC1186' target='http://www.rfc-editor.org/info/rfc1186'>
 <front>
-<title abbrev='MD4 Message Digest Algorithm'>MD4 Message Digest Algorithm</title>
-<author initials='R.' surname='Rivest' fullname='Ronald L. Rivest'>
-<organization>Massachusetts Institute of Technology (MIT), Laboratory for Computer Science</organization>
-<address>
-<postal>
-<street>545 Technology Square</street>
-<street>NE43-324</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02139-1986</code>
-<country>US</country></postal>
-<phone>+1 617 253 5880</phone>
-<email>rivest@theory.lcs.mit.edu</email></address></author>
-<date year='1990' day='1' month='October' />
-<abstract>
-<t>This note describes the MD4 message digest algorithm.  The algorithm takes as input an input message of arbitrary length and produces as output a 128-bit "fingerprint" or "message digest" of the input.  It is conjectured that it is computationally infeasible to produce two messages having the same message digest, or to produce any message having a given prespecified target message digest.  The MD4 algorithm is thus ideal for digital signature applications, where a large file must be "compressed" in a secure manner before being signed with the RSA public-key cryptosystem.</t>
-<t>The MD4 algorithm is designed to be quite fast on 32-bit machines. On a SUN Sparc station, MD4 runs at 1,450,000 bytes/second.  On a DEC MicroVax II, MD4 runs at approximately 70,000 bytes/second.  On a 20MHz 80286, MD4 runs at approximately 32,000 bytes/second.  In addition, the MD4 algorithm does not require any large substitution tables; the algorithm can be coded quite compactly.</t>
-<t>The MD4 algorithm is being placed in the public domain for review and possible adoption as a standard.</t>
-<t>(Note: The document supersedes an earlier draft.  The algorithm described here is a slight modification of the one described in the draft.)</t></abstract></front>
-
-<seriesInfo name='RFC' value='1186' />
-<format type='TXT' octets='35391' target='http://www.rfc-editor.org/rfc/rfc1186.txt' />
+<title>MD4 Message Digest Algorithm</title>
+<author initials='R.L.' surname='Rivest' fullname='R.L. Rivest'><organization /></author>
+<date year='1990' month='October' />
+<abstract><t>This RFC is the specification of the MD4 Digest Algorithm.  If you are going to implement MD4, it is suggested you do it this way.  This memo is for informational use and does not constitute a standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1186'/>
+<seriesInfo name='DOI' value='10.17487/RFC1186'/>
 </reference>

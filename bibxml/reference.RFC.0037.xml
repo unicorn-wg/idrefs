@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0037'>
-
+<reference  anchor='RFC0037' target='http://www.rfc-editor.org/info/rfc37'>
 <front>
 <title>Network Meeting Epilogue, etc</title>
-<author initials='S.' surname='Crocker' fullname='Steve Crocker'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<date year='1970' day='20' month='March' /></front>
-
-<seriesInfo name='RFC' value='37' />
-<format type='TXT' octets='9107' target='http://www.rfc-editor.org/rfc/rfc37.txt' />
+<author initials='S.D.' surname='Crocker' fullname='S.D. Crocker'><organization /></author>
+<date year='1970' month='March' />
+</front>
+<seriesInfo name='RFC' value='37'/>
+<seriesInfo name='DOI' value='10.17487/RFC0037'/>
 </reference>

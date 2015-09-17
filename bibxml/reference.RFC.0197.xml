@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0197'>
-
+<reference  anchor='RFC0197' target='http://www.rfc-editor.org/info/rfc197'>
 <front>
 <title>Initial Connection Protocol - Reviewed</title>
-<author initials='A.' surname='Shoshani' fullname='A. Shoshani'>
-<organization>System Development Corporation ( SDC)</organization></author>
-<author initials='E.' surname='Harslem' fullname='E. Harslem'>
-<organization>Rand Corporation</organization></author>
-<date year='1971' day='14' month='July' /></front>
-
-<seriesInfo name='RFC' value='197' />
-<format type='TXT' octets='7094' target='http://www.rfc-editor.org/rfc/rfc197.txt' />
+<author initials='A.' surname='Shoshani' fullname='A. Shoshani'><organization /></author>
+<author initials='E.' surname='Harslem' fullname='E. Harslem'><organization /></author>
+<date year='1971' month='July' />
+</front>
+<seriesInfo name='RFC' value='197'/>
+<seriesInfo name='DOI' value='10.17487/RFC0197'/>
 </reference>

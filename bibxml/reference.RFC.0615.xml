@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0615'>
-
+<reference  anchor='RFC0615' target='http://www.rfc-editor.org/info/rfc615'>
 <front>
 <title>Proposed Network Standard Data Pathname syntax</title>
-<author initials='D.' surname='Crocker' fullname='D. Crocker'>
-<organization>University of California, Los Angeles (UCLA), NMC</organization></author>
-<date year='1974' day='1' month='March' />
-<abstract>
-<t>There seems to be an increasing call for a Network Standard Data Pathname (NSDP); that is, a standardized means of referring to a specific location for/of a collection of bits somewhere on the Network.</t></abstract></front>
-
-<seriesInfo name='RFC' value='615' />
-<format type='TXT' octets='9448' target='http://www.rfc-editor.org/rfc/rfc615.txt' />
+<author initials='D.' surname='Crocker' fullname='D. Crocker'><organization /></author>
+<date year='1974' month='March' />
+</front>
+<seriesInfo name='RFC' value='615'/>
+<seriesInfo name='DOI' value='10.17487/RFC0615'/>
 </reference>

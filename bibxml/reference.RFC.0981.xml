@@ -1,17 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0981'>
-
+<reference  anchor='RFC0981' target='http://www.rfc-editor.org/info/rfc981'>
 <front>
 <title>Experimental multiple-path routing algorithm</title>
-<author initials='D.' surname='Mills' fullname='D. L. Mills'>
-<organization>M/A-COM Linkabit</organization></author>
-<date year='1986' day='1' month='March' />
-<abstract>
-<t>This document introduces wiretap algorithms, which are a class of routing algorithms that compute quasi-optimum routes for stations sharing a broadcast channel, but with some stations hidden from others. The wiretapper observes the paths (source routes) used by other stations sending traffic on the channel and, using a heuristic set of factors and weights, constructs speculative paths for its own traffic.  A prototype algorithm, called here the Wiretap Algorithm, has been designed for the AX.25 packet-radio channel.  Its design is similar in many respects to the shortest-path-first (spf) algorithm used in the ARPANET and elsewhere, and is in fact a variation in the class of algorithms, including the Viterbi Algorithm, that construct optimum paths on a graph according to a distance computed as a weighted sum of factors assigned to the nodes and edges.</t>
-<t>The Wiretap Algorithm differs from conventional algorithms in that it computes not only the primary route (a minimum-distance path), but also additional paths ordered by distance, which serve as alternate routes should the primary route fail.  This feature is also useful for the discovery of new paths not previously observed on the channel.</t>
-<t>Since the amateur AX.25 packet-radio channel is very active in the Washington, DC, area and carries a good deal of traffic under punishing conditions, it was considered a sufficiently heroic environment for a convincing demonstration of the prototype algorithm.  It was implemented as part of an IP/TCP driver for the LSI-11 processor running the "fuzzball" operating system.  The driver is connected via serial line to a 6809-based TAPR-1 processor running the WA8DED firmware, which controls the radio equipmnet in both virtual-circuit and datagram modes. The prototype implementation provides primary and alternate routes, can route around congested areas and can change routes during a connection. This document describes the design, implementation and initial testing of the algorithm.</t></abstract></front>
-
-<seriesInfo name='RFC' value='981' />
-<format type='TXT' octets='59069' target='http://www.rfc-editor.org/rfc/rfc981.txt' />
+<author initials='D.L.' surname='Mills' fullname='D.L. Mills'><organization /></author>
+<date year='1986' month='March' />
+<abstract><t>This document introduces wiretap algorithms, a class of experimental,    multiple routing algorithms that compute quasi-optimum routes for    stations sharing a packet-radio broadcast channel.  The primary route (a    minimum-distance path), and additional paths ordered by distance, which    serve as alternate routes should the primary route fail, are computed.    This prototype is presented as an example of a class of routing    algorithms and data-base management techniques that may find wider    application in the Internet community.  Discussions and suggestions for    improvements are welcomed.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='981'/>
+<seriesInfo name='DOI' value='10.17487/RFC0981'/>
 </reference>

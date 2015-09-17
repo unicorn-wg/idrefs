@@ -1,37 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1714'>
-
+<reference  anchor='RFC1714' target='http://www.rfc-editor.org/info/rfc1714'>
 <front>
 <title>Referral Whois Protocol (RWhois)</title>
-<author initials='S.' surname='Williamson' fullname='Scott Williamson'>
-<organization />
-<address>
-<postal>
-<street>505 Huntmar Park Dr.</street>
-<city>Herndon</city>
-<region>VA</region>
-<code>22070</code>
-<country>US</country></postal>
-<phone>+1 703 742 4820</phone>
-<email>scottw@internic.net</email></address></author>
-<author initials='M.' surname='Kosters' fullname='Mark Kosters'>
-<organization />
-<address>
-<postal>
-<street>505 Huntmar Park Dr.</street>
-<city>Herndon</city>
-<region>VA</region>
-<code>22070</code>
-<country>US</country></postal>
-<phone>+1 703 742 4795</phone>
-<email>markk@internic.net</email></address></author>
+<author initials='S.' surname='Williamson' fullname='S. Williamson'><organization /></author>
+<author initials='M.' surname='Kosters' fullname='M. Kosters'><organization /></author>
 <date year='1994' month='November' />
-<abstract>
-<t>This memo describes version 1.0 of the client/server interaction of RWhois.  RWhois provides a distributed system for the display of hierarchical information.  This system is hierarchical by design, allowing for the reduction of a query, and the referral of the user closer to the maintainer of the information.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1714' />
-<format type='TXT' octets='85395' target='http://www.rfc-editor.org/rfc/rfc1714.txt' />
-<format type='PS' octets='204207' target='http://www.rfc-editor.org/rfc/rfc1714.ps' />
-<format type='PDF' octets='85556' target='http://www.rfc-editor.org/rfc/rfc1714.pdf' />
+<abstract><t>This memo describes version 1.0 of the client/server interaction of RWhois.  RWhois provides a distributed system for the display of hierarchical information. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1714'/>
+<seriesInfo name='DOI' value='10.17487/RFC1714'/>
 </reference>

@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0182'>
-
+<reference  anchor='RFC0182' target='http://www.rfc-editor.org/info/rfc182'>
 <front>
 <title>Compilation of list of relevant site reports</title>
-<author initials='J.' surname='North' fullname='Jeanne North'>
-<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC), ARPA Network Information Center</organization></author>
-<date year='1971' day='25' month='June' />
-<abstract>
-<t>The Network Information Center is working to compile a list of all Site-produced reports which are of interest to Network participants. Reports procuced under ARPA IPT contracts and any other relevant reports produced by the Sites on information processing, network planning, the hardware and sorfware for the projects, and some general reports on the subject concerns of individual Sites, are being identified, to be listed and acquired for the Network Information Center collection.</t></abstract></front>
-
-<seriesInfo name='RFC' value='182' />
-<format type='TXT' octets='2565' target='http://www.rfc-editor.org/rfc/rfc182.txt' />
+<author initials='J.B.' surname='North' fullname='J.B. North'><organization /></author>
+<date year='1971' month='June' />
+</front>
+<seriesInfo name='RFC' value='182'/>
+<seriesInfo name='DOI' value='10.17487/RFC0182'/>
 </reference>

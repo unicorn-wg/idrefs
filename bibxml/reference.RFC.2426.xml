@@ -1,59 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2426'>
-
+<reference  anchor='RFC2426' target='http://www.rfc-editor.org/info/rfc2426'>
 <front>
 <title>vCard MIME Directory Profile</title>
-<author initials='F.' surname='Dawson' fullname='Frank Dawson'>
-<organization>Lotus Development Corporation</organization>
-<address>
-<postal>
-<street>6544 Battleford Drive</street>
-<street>Raleigh</street>
-<street>NC 27613</street>
-<country>USA</country></postal>
-<phone>+1-919-676-9515</phone>
-<email>frank_dawson@lotus.com</email></address></author>
-<author initials='T.' surname='Howes' fullname='Tim Howes'>
-<organization>Netscape Communications Corp.</organization>
-<address>
-<postal>
-<street>501 East Middlefield Rd.</street>
-<street>Mountain View</street>
-<street>CA 94041</street>
-<country>USA</country></postal>
-<phone>+1.415.937.3419</phone>
-<email>howes@netscape.com</email></address></author>
+<author initials='F.' surname='Dawson' fullname='F. Dawson'><organization /></author>
+<author initials='T.' surname='Howes' fullname='T. Howes'><organization /></author>
 <date year='1998' month='September' />
-<area>Applications</area>
-<keyword>MIME</keyword>
-<keyword>audio</keyword>
-<keyword>content-type</keyword>
-<keyword>directory</keyword>
-<keyword>multipurpose internet mail extensions</keyword>
-<abstract>
-<t>
-   This memo defines the profile of the MIME Content-Type  for
-   directory information for a white-pages person object, based on a
-   vCard electronic business card. The profile definition is independent
-   of any particular directory service or protocol. The profile is
-   defined for representing and exchanging a variety of information
-   about an individual (e.g., formatted and structured name and delivery
-   addresses, email address, multiple telephone numbers, photograph,
-   logo, audio clips, etc.). The directory information used by this
-   profile is based on the attributes for the person object defined in
-   the X.520 and X.521 directory services recommendations. The profile
-   also provides the method for including a  representation of a
-   white-pages directory entry within the MIME Content-Type defined by
-   the  document.
-</t>
-<t>
-   The key words &quot;MUST&quot;, &quot;MUST NOT&quot;, &quot;REQUIRED&quot;, &quot;SHALL&quot;, &quot;SHALL NOT&quot;,
-   &quot;SHOULD&quot;, &quot;SHOULD NOT&quot;, &quot;RECOMMENDED&quot;, &quot;MAY&quot; and &quot;OPTIONAL&quot; in this
-   document are to be interpreted as described in .
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2426' />
-<format type='TXT' octets='74646' target='http://www.rfc-editor.org/rfc/rfc2426.txt' />
-<format type='XML' octets='77964' target='http://xml.resource.org/public/rfc/xml/rfc2426.xml' />
+<abstract><t>This memo defines the profile of the MIME Content-Type for directory information for a white-pages person object, based on a vCard electronic business card.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2426'/>
+<seriesInfo name='DOI' value='10.17487/RFC2426'/>
 </reference>

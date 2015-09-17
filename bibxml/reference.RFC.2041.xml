@@ -1,62 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2041'>
-
+<reference  anchor='RFC2041' target='http://www.rfc-editor.org/info/rfc2041'>
 <front>
 <title>Mobile Network Tracing</title>
-<author initials='B.' surname='Noble' fullname='Brian D. Noble'>
-<organization>Carnegie Mellon University, Computer Science Department</organization>
-<address>
-<postal>
-<street>5000 Forbes Avenue</street>
-<city>Pittsburgh</city>
-<region>PA</region>
-<code>15213-3891</code>
-<country>US</country></postal>
-<phone>+1 412 268 7399</phone>
-<facsimile>+1 412 268 5576</facsimile>
-<email>bnoble@cs.cmu.edu</email></address></author>
-<author initials='G.' surname='Nguyen' fullname='Giao T. Nguyen'>
-<organization>University of California, Berkeley</organization>
-<address>
-<postal>
-<street />
-<city>Berkeley</city>
-<region>CA</region>
-<code>94720-1776</code>
-<country>US</country></postal>
-<phone>+1 510 642 8919</phone>
-<facsimile>+1 510 642 5775</facsimile>
-<email>gnguyen@cs.berkeley.edu</email></address></author>
-<author initials='M.' surname='Satyanarayanan' fullname='Mahadev Satyanarayanan'>
-<organization>Carnegie Mellon University, Computer Science Department</organization>
-<address>
-<postal>
-<street>5000 Forbes Avenue</street>
-<city>Pittsburgh</city>
-<region>PA</region>
-<code>15213-3891</code>
-<country>US</country></postal>
-<phone>+1 412 268 3743</phone>
-<facsimile>+1 412 268 5576</facsimile>
-<email>satya@cs.cmu.edu</email></address></author>
-<author initials='R.' surname='Katz' fullname='Randy H. Katz'>
-<organization>University of California, Berkeley</organization>
-<address>
-<postal>
-<street />
-<city>Berkeley</city>
-<region>CA</region>
-<code>94720-1776</code>
-<country>US</country></postal>
-<phone>+1 510 642 0253</phone>
-<facsimile>+1 510 642 2845</facsimile>
-<email>randy@cs.berkeley.edu</email></address></author>
+<author initials='B.' surname='Noble' fullname='B. Noble'><organization /></author>
+<author initials='G.' surname='Nguyen' fullname='G. Nguyen'><organization /></author>
+<author initials='M.' surname='Satyanarayanan' fullname='M. Satyanarayanan'><organization /></author>
+<author initials='R.' surname='Katz' fullname='R. Katz'><organization /></author>
 <date year='1996' month='October' />
-<abstract>
-<t>Mobile networks are both poorly understood and difficult to experiment with.  This RFC argues that mobile network tracing provides both tools to improve our understanding of wireless channels, as well as to build realistic, repeatable testbeds for mobile software and systems.  The RFC is a status report on our work tracing mobile networks.  Our goal is to begin discussion on a standard format for mobile network tracing as well as a testbed for mobile systems research.  We present our format for collecting mobile network traces, and tools to produce from such traces analytical models of mobile network behavior.</t>
-<t>We also describe a set of tools to provide network modulation based on collected traces.  Modulation allows the emulation of wireless channel latency, bandwidth, loss, and error rates on private, wired networks.  This allows system designers to test systems in a realistic yet repeatable manner.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2041' />
-<format type='TXT' octets='64688' target='http://www.rfc-editor.org/rfc/rfc2041.txt' />
+<abstract><t>This RFC argues that mobile network tracing provides both tools to improve our understanding of wireless channels, as well as to build realistic, repeatable testbeds for mobile software and systems.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2041'/>
+<seriesInfo name='DOI' value='10.17487/RFC2041'/>
 </reference>

@@ -1,17 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0321'>
-
+<reference  anchor='RFC0321' target='http://www.rfc-editor.org/info/rfc321'>
 <front>
 <title>CBI Networking Activity at MITRE</title>
-<author initials='P.' surname='Karp' fullname='Peggy M. Karp'>
-<organization>MITRE Corporation</organization></author>
-<date year='1972' day='24' month='March' />
-<abstract>
-<t>This RFC is in response to Tom O'Sullivan's probe for comments on Computer Based Instruction. MITRE is currently doing some pre liminary work in the area,at the present time limited to use of CAI-related network resources.</t>
-<t>The most expedient way for me to respond is by attaching excerpts taken from a recent status report prepared for internal MITRE use, intended for staff not generally familiar with the ARPANET. Comments directed at specific items in Tom's attachment will follow in a future RFC.</t>
-<t>We welcome comments on our activities and would like to participate in any CBI dialogs that take place.</t></abstract></front>
-
-<seriesInfo name='RFC' value='321' />
-<format type='TXT' octets='20500' target='http://www.rfc-editor.org/rfc/rfc321.txt' />
+<author initials='P.M.' surname='Karp' fullname='P.M. Karp'><organization /></author>
+<date year='1972' month='March' />
+</front>
+<seriesInfo name='RFC' value='321'/>
+<seriesInfo name='DOI' value='10.17487/RFC0321'/>
 </reference>

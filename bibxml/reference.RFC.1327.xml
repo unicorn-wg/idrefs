@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1327'>
-
+<reference  anchor='RFC1327' target='http://www.rfc-editor.org/info/rfc1327'>
 <front>
-<title abbrev='Mapping between X.400 (1988) and RFC 822'>Mapping between X.400(1988) / ISO 10021 and RFC 822</title>
-<author initials='S.' surname='Hardcastle-Kille' fullname='Steve Hardcastle-Kille'>
-<organization>University College London, Department of Computer Science</organization>
-<address>
-<postal>
-<street>Gower Street</street>
-<city>London</city>
-<region>England</region>
-<code>WC1E 6BT</code>
-<country>UK</country></postal>
-<phone>+44 71 3807294</phone>
-<email>S.Kille@CS.UCL.AC.UK</email></address></author>
+<title>Mapping between X.400(1988) / ISO 10021 and RFC 822</title>
+<author initials='S.' surname='Hardcastle-Kille' fullname='S. Hardcastle-Kille'><organization /></author>
 <date year='1992' month='May' />
-<abstract>
-<t>This document describes a set of mappings which will enable interworking between systems operating the CCITT X.400 1988) Recommendations on Message Handling Systems / ISO IEC 10021 Message Oriented Text Interchange Systems (MOTIS), and systems using the RFC 822 mail protocolor protocols derived from RFC 822.  The approach aims to maximise the services offered across the boundary, whilst not requiring unduly complex mappings. The mappings should not require any changes to end systems. This document is a revision based on RFCs 987, 1026, 1138, and 1148,which it obsoletes.</t>
-<t>This document specifies a mapping between two protocols.  This specification should be used when this mapping is performed on the DARPA Internet or in the UK Academic Community.  This specification may be modified in the light of implementation experience, but no substantial changes are expected.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1327' />
-<format type='TXT' octets='228598' target='http://www.rfc-editor.org/rfc/rfc1327.txt' />
+<abstract><t>This document specifies a mapping between two protocols.  This specification should be used when this mapping is performed on the DARPA Internet or in the UK Academic Community.  This specification may be modified in the light of implementation experience, but no substantial changes are expected.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1327'/>
+<seriesInfo name='DOI' value='10.17487/RFC1327'/>
 </reference>

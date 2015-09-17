@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1366'>
-
+<reference  anchor='RFC1366' target='http://www.rfc-editor.org/info/rfc1366'>
 <front>
 <title>Guidelines for Management of IP Address Space</title>
-<author initials='E.' surname='Gerich' fullname='Elise Gerich'>
-<organization>Merit Computer Network</organization>
-<address>
-<postal>
-<street>1075 Beal Avenue</street>
-<city>Ann Arbor</city>
-<region>MI</region>
-<code>48109-2112</code>
-<country>US</country></postal>
-<phone>+1 313 936 3000</phone>
-<email>epg@MERIT.EDU</email></address></author>
+<author initials='E.' surname='Gerich' fullname='E. Gerich'><organization /></author>
 <date year='1992' month='October' />
-<abstract>
-<t>This document has been reviewed by the Federal Engineering Task Force (FEPG) on behalf of the Federal Networking Council (FNC), the co-chairs of the International Engineering Planning Group (IEPG), and the Reseaux IP Europeens (RIPE).  There was general consensus by those groups to support the recommendations proposed in this document for management of the IP address space.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1366' />
-<format type='TXT' octets='17793' target='http://www.rfc-editor.org/rfc/rfc1366.txt' />
+<abstract><t>This document has been reviewed by the Federal Engineering Task Force (FEPG) on behalf of the Federal Networking Council (FNC), the co-chairs of the International Engineering Planning Group (IEPG), and the Reseaux IP Europeens (RIPE).  There was general consensus by those groups to support the recommendations proposed in this document for management of the IP address space.  This memo provides information for the Internet community.  It does not specify an Internet standard. This RFC suggests an extension to the IP protocol to solve the shortage of IP address problem, and requests discussion and suggestions for improvements.  This memo provides information for the Internet community.  It does not specify an Internet standard. This memo defines the various criteria to be used when designing Autonomous System Border Routers (ASBR) that will run BGP with other ASBRs external to the AS and OSPF as its IGP.  [STANDARDS-TRACK] 1363    Partridge     Spt 92   A Proposed Flow Specification The flow specification defined in this memo is intended for information and possible experimentation (i.e., experimental use by consenting routers and applications only).  This RFC is a product of the Internet Research Task Force (IRTF).  This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1366'/>
+<seriesInfo name='DOI' value='10.17487/RFC1366'/>
 </reference>

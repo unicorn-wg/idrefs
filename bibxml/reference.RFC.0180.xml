@@ -1,25 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0180'>
-
+<reference  anchor='RFC0180' target='http://www.rfc-editor.org/info/rfc180'>
 <front>
 <title>File system questionnaire</title>
-<author initials='A.' surname='McKenzie' fullname='Alex McKenzie'>
-<organization>Bolt Baranek and Newman (BBN)</organization>
-<address>
-<postal>
-<street>50 Moulton Street</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02138</code>
-<country>US</country></postal>
-<phone>+1 617 491 1850 x441</phone></address></author>
-<date year='1971' day='25' month='June' />
-<abstract>
-<t>As noted in RFC #164(page 35), a subcommittee of the NWG, under the chairmanship of Abhay Bhushan, is currently generating proposals for a "data transfer protocol" and a "file transfer protocol".</t>
-<t>The subcommittee has decided that the file transfer protocol should provide standard methods for requesting the transfer of a file but should not, at this time, attempt to standardize file naming conventions, access control conventions, and the like.  Thus a user who is, for example, trying to store a file on a remote Host will be required to use the file naming conventions appropriate to the remote Host.</t>
-<t>Given the above point of view, it becomes imperative for users to have some source of information about Host file conventions.</t></abstract></front>
-
-<seriesInfo name='RFC' value='180' />
-<format type='TXT' octets='8154' target='http://www.rfc-editor.org/rfc/rfc180.txt' />
+<author initials='A.M.' surname='McKenzie' fullname='A.M. McKenzie'><organization /></author>
+<date year='1971' month='June' />
+</front>
+<seriesInfo name='RFC' value='180'/>
+<seriesInfo name='DOI' value='10.17487/RFC0180'/>
 </reference>

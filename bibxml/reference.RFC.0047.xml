@@ -1,17 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0047'>
-
+<reference  anchor='RFC0047' target='http://www.rfc-editor.org/info/rfc47'>
 <front>
 <title>BBN's Comments on NWG/RFC #33</title>
-<author initials='J.' surname='Postel' fullname='J. Postel'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<author initials='S.' surname='Crocker' fullname='S. Crocker'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<date year='1970' day='20' month='April' />
-<abstract>
-<t>BBN has given us the attached comments on NWG/RFC 33, but wouldn't publish them being relectant to embarrass us.  Embarrassment notwithstanding, we found the comments particularly useful and decided to share them with our friends.  Bill Crowther is the author.</t></abstract></front>
-
-<seriesInfo name='RFC' value='47' />
-<format type='TXT' octets='5343' target='http://www.rfc-editor.org/rfc/rfc47.txt' />
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<author initials='S.' surname='Crocker' fullname='S. Crocker'><organization /></author>
+<date year='1970' month='April' />
+</front>
+<seriesInfo name='RFC' value='47'/>
+<seriesInfo name='DOI' value='10.17487/RFC0047'/>
 </reference>

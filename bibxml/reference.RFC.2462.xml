@@ -1,53 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2462'>
-
+<reference  anchor='RFC2462' target='http://www.rfc-editor.org/info/rfc2462'>
 <front>
 <title>IPv6 Stateless Address Autoconfiguration</title>
-<author initials='S.' surname='Thomson' fullname='Susan Thomson'>
-<organization>Bellcore</organization>
-<address>
-<postal>
-<street>445 South Street</street>
-<street>Morristown</street>
-<region>NJ</region>
-<code>07960</code>
-<country>USA</country></postal>
-<phone>+1 201 829 4514</phone>
-<email>set@thumper.bellcore.com</email></address></author>
-<author initials='T.' surname='Narten' fullname='Thomas Narten'>
-<organization>IBM Corporation</organization>
-<address>
-<postal>
-<street>P.O. Box 12195</street>
-<street>Research Triangle Park</street>
-<region>NC</region>
-<code>27709-2195</code>
-<country>USA</country></postal>
-<phone>+1 919 254 7798</phone>
-<email>narten@raleigh.ibm.com</email></address></author>
+<author initials='S.' surname='Thomson' fullname='S. Thomson'><organization /></author>
+<author initials='T.' surname='Narten' fullname='T. Narten'><organization /></author>
 <date year='1998' month='December' />
-<area>Internet</area>
-<keyword>configuration</keyword>
-<keyword>internet protocol version 6</keyword>
-<abstract>
-<t>
-   This document specifies the steps a host takes in deciding how to
-   autoconfigure its interfaces in IP version 6. The autoconfiguration
-   process includes creating a link-local address and verifying its
-   uniqueness on a link, determining what information should be
-   autoconfigured (addresses, other information, or both), and in the
-   case of addresses, whether they should be obtained through the
-   stateless mechanism, the stateful mechanism, or both.  This document
-   defines the process for generating a link-local address, the process
-   for generating site-local and global addresses via stateless address
-   autoconfiguration, and the Duplicate Address Detection procedure. The
-   details of autoconfiguration using the stateful protocol are
-   specified elsewhere.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2462' />
-<format type='TXT' octets='61210' target='http://www.rfc-editor.org/rfc/rfc2462.txt' />
-<format type='HTML' octets='83976' target='http://xml.resource.org/public/rfc/html/rfc2462.html' />
-<format type='XML' octets='66424' target='http://xml.resource.org/public/rfc/xml/rfc2462.xml' />
+<abstract><t>This document specifies the steps a host takes in deciding how to autoconfigure its interfaces in IP version 6.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2462'/>
+<seriesInfo name='DOI' value='10.17487/RFC2462'/>
 </reference>

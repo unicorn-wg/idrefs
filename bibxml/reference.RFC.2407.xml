@@ -1,43 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2407'>
-
+<reference  anchor='RFC2407' target='http://www.rfc-editor.org/info/rfc2407'>
 <front>
-<title abbrev='IP Security Domain of Interpretation'>The Internet IP Security Domain of Interpretation for ISAKMP</title>
-<author initials='D.' surname='Piper' fullname='Derrell Piper'>
-<organization>Network Alchemy</organization>
-<address>
-<postal>
-<street>1521.5 Pacific Ave</street>
-<street>Santa Cruz</street>
-<street>California</street>
-<street>95060</street>
-<country>United States of America</country></postal>
-<phone>+1 408 460-3822</phone>
-<email>ddp@network-alchemy.com</email></address></author>
+<title>The Internet IP Security Domain of Interpretation for ISAKMP</title>
+<author initials='D.' surname='Piper' fullname='D. Piper'><organization /></author>
 <date year='1998' month='November' />
-<area>Security</area>
-<area>Internet</area>
-<keyword>IP security protocol</keyword>
-<keyword>cryptographic</keyword>
-<keyword>internet security association and key management protocol</keyword>
-<keyword>key management</keyword>
-<keyword>security</keyword>
-<note title='IESG Note'>
-<t>
-   Section 4.4.4.2 states, &quot;All implememtations within the IPSEC DOI
-   MUST support ESP_DES...&quot;.  Recent work in the area of cryptanalysis
-   suggests that DES may not be sufficiently strong for many
-   applications.  Therefore, it is very likely that the IETF will
-   deprecate the use of ESP_DES as a mandatory cipher suite in the near
-   future.  It will remain as an optional use protocol.  Although the
-   IPsec working group and the IETF in general have not settled on an
-   alternative algorithm (taking into account concerns of security and
-   performance), implementers may want to heed the recommendations of
-   section 4.4.4.3 on the use of ESP_3DES.
-</t></note></front>
-
-<seriesInfo name='RFC' value='2407' />
-<format type='TXT' octets='67878' target='http://www.rfc-editor.org/rfc/rfc2407.txt' />
-<format type='XML' octets='75558' target='http://xml.resource.org/public/rfc/xml/rfc2407.xml' />
+<abstract><t>This document defines the Internet IP Security DOI (IPSEC DOI), which instantiates ISAKMP for use with IP when IP uses ISAKMP to negotiate security associations.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2407'/>
+<seriesInfo name='DOI' value='10.17487/RFC2407'/>
 </reference>

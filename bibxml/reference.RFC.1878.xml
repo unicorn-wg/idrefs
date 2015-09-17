@@ -1,38 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1878'>
-
+<reference  anchor='RFC1878' target='http://www.rfc-editor.org/info/rfc1878'>
 <front>
-<title abbrev='Subnet Table'>Variable Length Subnet Table For IPv4</title>
-<author initials='T.' surname='Pummill' fullname='Troy T. Pummill'>
-<organization>Alantec</organization>
-<address>
-<postal>
-<street>2115 O'Nel Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95131</code>
-<country>US</country></postal>
-<phone>+1 408 467 4871</phone>
-<facsimile>+1 408 441 0272</facsimile>
-<email>trop@alantec.com</email></address></author>
-<author initials='B.' surname='Manning' fullname='Bill Manning'>
-<organization>University of Southern California, Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292-6695</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511 x387</phone>
-<facsimile>+1 310 823 6714</facsimile>
-<email>bmanning@isi.edu</email></address></author>
+<title>Variable Length Subnet Table For IPv4</title>
+<author initials='T.' surname='Pummill' fullname='T. Pummill'><organization /></author>
+<author initials='B.' surname='Manning' fullname='B. Manning'><organization /></author>
 <date year='1995' month='December' />
-<abstract>
-<t>This memo clarifies issues surrounding subnetting IP networks by providing a standard subnet table.  This table includes subnetting for Class A, B, and C networks, as well as Network IDs, host ranges and IP broadcast addresses with emphasis on Class C subnets.</t>
-<t>This memo is intended as an informational companion to Subneting RFCand the Hosts Requirements RFC.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1878' />
-<format type='TXT' octets='19414' target='http://www.rfc-editor.org/rfc/rfc1878.txt' />
+<abstract><t>This memo clarifies issues surrounding subnetting IP networks by providing a standard subnet table.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1878'/>
+<seriesInfo name='DOI' value='10.17487/RFC1878'/>
 </reference>

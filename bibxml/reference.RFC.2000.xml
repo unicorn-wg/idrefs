@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2000'>
-
+<reference  anchor='RFC2000' target='http://www.rfc-editor.org/info/rfc2000'>
 <front>
-<title abbrev='Internet Standards'>Internet Official Protocol Standards</title>
-<author initials='J.' surname='Postel' fullname='Jon Postel'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511</phone>
-<facsimile>+1 310 823 6714</facsimile>
-<email>Postel@ISI.EDU</email></address></author>
+<title>Internet Official Protocol Standards</title>
+<author initials='J.' surname='Postel' fullname='J. Postel' role='editor'><organization /></author>
 <date year='1997' month='February' />
-<abstract>
-<t></t></abstract></front>
-
-<seriesInfo name='RFC' value='2000' />
-<format type='TXT' octets='121356' target='http://www.rfc-editor.org/rfc/rfc2000.txt' />
+<abstract><t>This memo describes the state of standardization of protocols used in the Internet as determined by the Internet Architecture Board (IAB). This memo is an Internet Standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2000'/>
+<seriesInfo name='DOI' value='10.17487/RFC2000'/>
 </reference>

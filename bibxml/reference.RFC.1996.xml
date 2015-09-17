@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1996'>
-
+<reference  anchor='RFC1996' target='http://www.rfc-editor.org/info/rfc1996'>
 <front>
 <title>A Mechanism for Prompt Notification of Zone Changes (DNS NOTIFY)</title>
-<author initials='P.' surname='Vixie' fullname='Paul Vixie'>
-<organization>Internet Software Consortium</organization>
-<address>
-<postal>
-<street>Star Route Box 159A</street>
-<city>Woodside</city>
-<region>CA</region>
-<code>94062</code>
-<country>US</country></postal>
-<phone>+1 415 747 0204</phone>
-<email>paul@vix.com</email></address></author>
+<author initials='P.' surname='Vixie' fullname='P. Vixie'><organization /></author>
 <date year='1996' month='August' />
-<abstract>
-<t>This memo describes the NOTIFY opcode for DNS, by which a master server advises a set of slave servers that the master's data has been changed and that a query should be initiated to discover the new data.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1996' />
-<format type='TXT' octets='15247' target='http://www.rfc-editor.org/rfc/rfc1996.txt' />
+<abstract><t>This memo describes the NOTIFY opcode for DNS, by which a master server advises a set of slave servers that the master's data has been changed and that a query should be initiated to discover the new data. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1996'/>
+<seriesInfo name='DOI' value='10.17487/RFC1996'/>
 </reference>

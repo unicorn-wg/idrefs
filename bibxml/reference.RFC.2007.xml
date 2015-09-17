@@ -1,48 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2007'>
-
+<reference  anchor='RFC2007' target='http://www.rfc-editor.org/info/rfc2007'>
 <front>
 <title>Catalogue of Network Training Materials</title>
-<author initials='J.' surname='Foster' fullname='Jill Foster'>
-<organization>University of Newcastle,  University Computing Service</organization>
-<address>
-<postal>
-<street>Claremont Road</street>
-<city>Newcastle upon Tyne</city>
-<region>England</region>
-<code>NE1 7RU</code>
-<country>UK</country></postal>
-<phone>+44 191 2228250</phone>
-<facsimile>+44 191 2225001</facsimile>
-<email>Jill.Foster@newcastle.ac.uk</email></address></author>
-<author initials='M.' surname='Isaacs' fullname='Margaret Isaacs'>
-<organization>University of Glasgow, Department of Computing Science</organization>
-<address>
-<postal>
-<street />
-<city>Glasgow</city>
-<region>Scotland</region>
-<code>G12 8QQ</code>
-<country>UK</country></postal>
-<phone>+44 141 3305314</phone>
-<facsimile>+44 141 3304913</facsimile>
-<email>mmi@dcs.gla.ac.uk</email></address></author>
-<author initials='M.' surname='Prior' fullname='Mark Prior'>
-<organization>AAP Telecommunications</organization>
-<address>
-<postal>
-<street>45 Pirie Street (Level 1)</street>
-<city>Adelaide</city>
-<region>SA</region>
-<code>5000</code>
-<country>AU</country></postal>
-<phone>+61 8 82032088</phone>
-<email>mrp@connect.com.au</email></address></author>
+<author initials='J.' surname='Foster' fullname='J. Foster'><organization /></author>
+<author initials='M.' surname='Isaacs' fullname='M. Isaacs'><organization /></author>
+<author initials='M.' surname='Prior' fullname='M. Prior'><organization /></author>
 <date year='1996' month='October' />
-<abstract>
-<t>The purpose of this document is to provide a catalogue of quality Network Training Materials for use by Internet trainers in training their users. By providing such a collection of pointers to useful resources, it is hoped that trainers will be relieved of much of the load of producing current training materials.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2007' />
-<format type='TXT' octets='78941' target='http://www.rfc-editor.org/rfc/rfc2007.txt' />
+<abstract><t>The purpose of this document is to provide a catalogue of quality Network Training Materials for use by Internet trainers in training their users.  This memo provides information for the Internet community. This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='FYI' value='29'/>
+<seriesInfo name='RFC' value='2007'/>
+<seriesInfo name='DOI' value='10.17487/RFC2007'/>
 </reference>

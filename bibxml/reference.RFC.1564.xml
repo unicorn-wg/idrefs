@@ -1,49 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1564'>
-
+<reference  anchor='RFC1564' target='http://www.rfc-editor.org/info/rfc1564'>
 <front>
-<title abbrev='DSA Metrics'>DSA Metrics (OSI-DS 34 (v3))</title>
-<author initials='P.' surname='Barker' fullname='Paul Barker'>
-<organization>University College London, Department of Computer Science</organization>
-<address>
-<postal>
-<street>Gower Street</street>
-<city>London</city>
-<region>England</region>
-<code>WC1E 6BT</code>
-<country>UK</country></postal>
-<phone>+44 71 3807366</phone>
-<facsimile>+44 71 3871397</facsimile>
-<email>P.Barker@cs.ucl.ac.uk</email></address></author>
-<author initials='R.' surname='Hedberg' fullname='Roland Hedberg'>
-<organization>Delft Technical University, Rekencentrum</organization>
-<address>
-<postal>
-<street>Michiel de Ruyterweg 10-12</street>
-<street>Postbus 354</street>
-<city>Delft</city>
-<region />
-<code>2600 AJ</code>
-<country>NL</country></postal>
-<phone>+31 15 785210</phone>
-<email>Roland.Hedberg@rc.tudelft.nl</email></address></author>
-<author initials='R.' surname='Hedberg' fullname='Roland Hedberg'>
-<organization>University of Umea, Umdac</organization>
-<address>
-<postal>
-<street />
-<city>Umea</city>
-<region />
-<code>s-901 87</code>
-<country>SE</country></postal>
-<phone>+46 90 165204</phone>
-<email>Roland.Hedberg@umdac.umu.se</email></address></author>
+<title>DSA Metrics (OSI-DS 34 (v3))</title>
+<author initials='P.' surname='Barker' fullname='P. Barker'><organization /></author>
+<author initials='R.' surname='Hedberg' fullname='R. Hedberg'><organization /></author>
 <date year='1994' month='January' />
-<abstract>
-<t>This document defines a set of criteria by which a DSA implementation may be judged.  Particular issues covered include conformance to standards; performance; demonstrated interoperability.  The intention is that the replies to the questions posed provide a fairly full description of a DSA. Some of the questions will yield answers which are purely descriptive; others, however, are intended to elicit answers which give some measure of the utility of the DSA. The marks awarded for a DSA in each particular area should give a good indication of the DSA's capabilities, and its suitability for particular uses.</t>
-<t>Please send comments to the authors or to the discussion group osi-ds@CS.UCL.AC.UK.;</t></abstract></front>
-
-<seriesInfo name='RFC' value='1564' />
-<format type='TXT' octets='46205' target='http://www.rfc-editor.org/rfc/rfc1564.txt' />
+<abstract><t>This document defines a set of criteria by which a DSA implementation may be judged.  Particular issues covered include conformance to standards; performance; demonstrated interoperability. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1564'/>
+<seriesInfo name='DOI' value='10.17487/RFC1564'/>
 </reference>

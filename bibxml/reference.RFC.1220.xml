@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1220'>
-
+<reference  anchor='RFC1220' target='http://www.rfc-editor.org/info/rfc1220'>
 <front>
-<title abbrev='Bridging Point-to-Point Protocol'>Point-to-Point Protocol extensions for bridging</title>
-<author initials='F.' surname='Baker' fullname='Fred Baker'>
-<organization>Advanced Computer Communications</organization>
-<address>
-<postal>
-<street>720 Santa Barbara Street</street>
-<city>Santa Barbara</city>
-<region>CA</region>
-<code>93101</code>
-<country>US</country></postal>
-<phone>+1 805 963 9431</phone>
-<email>fbaker@ACC.COM</email></address></author>
-<date year='1991' day='1' month='April' /></front>
-
-<seriesInfo name='RFC' value='1220' />
-<format type='TXT' octets='38165' target='http://www.rfc-editor.org/rfc/rfc1220.txt' />
+<title>Point-to-Point Protocol extensions for bridging</title>
+<author initials='F.' surname='Baker' fullname='F. Baker'><organization /></author>
+<date year='1991' month='April' />
+<abstract><t>This document defines an extension of the Internet Point-to-Point Protocol (PPP) described in RFC 1171, targeting the use of Point-to- Point lines for Remote Bridging. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1220'/>
+<seriesInfo name='DOI' value='10.17487/RFC1220'/>
 </reference>

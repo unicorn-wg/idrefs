@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1885'>
-
+<reference  anchor='RFC1885' target='http://www.rfc-editor.org/info/rfc1885'>
 <front>
-<title abbrev='ICMPv6 (ICMP for IPv6)'>Internet Control Message Protocol (ICMPv6) for the Internet Protocol Version 6 (IPv6)</title>
-<author initials='A.' surname='Conta' fullname='Alex Conta'>
-<organization>Digital Equipment Corporation</organization>
-<address>
-<postal>
-<street>110 Spitbrook Rd</street>
-<city>Nashua</city>
-<region>NH</region>
-<code>03062</code>
-<country>US</country></postal>
-<phone>+1 603 881 0744</phone>
-<email>conta@zk3.dec.com</email></address></author>
-<author initials='S.' surname='Deering' fullname='Stephen Deering'>
-<organization>Xerox Palo Alto Research Center</organization>
-<address>
-<postal>
-<street>3333 Coyote Hill Road</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94304</code>
-<country>US</country></postal>
-<phone>+1 415 812 4839</phone>
-<email>deering@parc.xerox.com</email></address></author>
+<title>Internet Control Message Protocol (ICMPv6) for the Internet Protocol Version 6 (IPv6)</title>
+<author initials='A.' surname='Conta' fullname='A. Conta'><organization /></author>
+<author initials='S.' surname='Deering' fullname='S. Deering'><organization /></author>
 <date year='1995' month='December' />
-<abstract>
-<t>This document specifies a set of Internet Control Message Protocol (ICMP) messages for use with version 6 of the Internet Protocol (IPv6).  The Internet Group Management Protocol (IGMP) messages specified in STD 5, RFC 1112 have been merged into ICMP, for IPv6, and are included in this document.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1885' />
-<format type='TXT' octets='32214' target='http://www.rfc-editor.org/rfc/rfc1885.txt' />
+<abstract><t>This document specifies a set of Internet Control Message Protocol (ICMP) messages for use with version 6 of the Internet Protocol (IPv6). [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1885'/>
+<seriesInfo name='DOI' value='10.17487/RFC1885'/>
 </reference>

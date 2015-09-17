@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1977'>
-
+<reference  anchor='RFC1977' target='http://www.rfc-editor.org/info/rfc1977'>
 <front>
 <title>PPP BSD Compression Protocol</title>
-<author initials='V.' surname='Schryver' fullname='Vernon Schryver'>
-<organization />
-<address>
-<postal>
-<street>2482 Lee Hill Drive</street>
-<city>Boulder</city>
-<region>CO</region>
-<code>80302</code>
-<country>US</country></postal>
-<email>vjs@rhyolite.com</email></address></author>
+<author initials='V.' surname='Schryver' fullname='V. Schryver'><organization /></author>
 <date year='1996' month='August' />
-<abstract>
-<t>The Point-to-Point Protocol (PPP)provides a standard method for transporting multi-protocol datagrams over point-to-point links. The PPP Compression Control Protocolprovides a method to negotiate and utilize compression protocols over PPP encapsulated links. This document describes the use of the Unix Compress compression protocol for compressing PPP encapsulated packets.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1977' />
-<format type='TXT' octets='50747' target='http://www.rfc-editor.org/rfc/rfc1977.txt' />
+<abstract><t>This document describes the use of the Unix Compress compression protocol for compressing PPP encapsulated packets.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1977'/>
+<seriesInfo name='DOI' value='10.17487/RFC1977'/>
 </reference>

@@ -1,47 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1322'>
-
+<reference  anchor='RFC1322' target='http://www.rfc-editor.org/info/rfc1322'>
 <front>
 <title>A Unified Approach to Inter-Domain Routing</title>
-<author initials='D.' surname='Estrin' fullname='Deborah Estrin'>
-<organization>University of Southern California (USC)</organization>
-<address>
-<postal>
-<street>MC 0782</street>
-<city>Los Angeles</city>
-<region>CA</region>
-<code>90089-0782</code>
-<country>US</country></postal>
-<phone>+1 310 740 4524</phone>
-<email>estrin@usc.edu</email></address></author>
-<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
-<organization>IBM, T. J. Watson Research Center</organization>
-<address>
-<postal>
-<street>P.O. Box 218</street>
-<city>Yorktown Heights</city>
-<region>NY</region>
-<code>10598</code>
-<country>US</country></postal>
-<phone>+1 914 945 3896</phone>
-<email>yakov@ibm.com</email></address></author>
-<author initials='S.' surname='Hotz' fullname='Steven Hotz'>
-<organization>University of Southern California  (USC), Computer Science Department</organization>
-<address>
-<postal>
-<street>MC 0782</street>
-<city>Los Angeles</city>
-<region>CA</region>
-<code>90089-0782</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511</phone>
-<email>hotz@usc.edu</email></address></author>
+<author initials='D.' surname='Estrin' fullname='D. Estrin'><organization /></author>
+<author initials='Y.' surname='Rekhter' fullname='Y. Rekhter'><organization /></author>
+<author initials='S.' surname='Hotz' fullname='S. Hotz'><organization /></author>
 <date year='1992' month='May' />
-<abstract>
-<t>This memo is an informational RFC which outlines one potential approach for inter-domain routing in future global internets.  The focus is on scalability to very large networks and functionality, as well as scalability, to support routing in an environment of heterogeneous services, requirements, and route selection criteria.</t>
-<t>Note: The work of D. Estrin and S. Hotz was supported by the National Science Foundation under contract number NCR-9011279, with matching funds from GTE Laboratories.  The work of Y. Rekhter was supported by the Defense Advanced Research Projects Agency, under contract DABT63-91-C-0019.  Views and conclusions expressed in this paper are not necessarily those of the Defense Advanced Research Projects Agency and National Science Foundation.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1322' />
-<format type='TXT' octets='96934' target='http://www.rfc-editor.org/rfc/rfc1322.txt' />
+<abstract><t>This memo is an informational RFC which outlines one potential approach for inter-domain routing in future global internets.  This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1322'/>
+<seriesInfo name='DOI' value='10.17487/RFC1322'/>
 </reference>

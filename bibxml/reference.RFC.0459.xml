@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0459'>
-
+<reference  anchor='RFC0459' target='http://www.rfc-editor.org/info/rfc459'>
 <front>
 <title>Network questionnaires</title>
-<author initials='W.' surname='Kantrowitz' fullname='W. Kantrowitz'>
-<organization /></author>
-<date year='1973' day='26' month='February' />
-<abstract>
-<t>In recent times, a steady stream of questionnaires has been arriving from the network community.</t></abstract></front>
-
-<seriesInfo name='RFC' value='459' />
-<format type='TXT' octets='1950' target='http://www.rfc-editor.org/rfc/rfc459.txt' />
+<author initials='W.' surname='Kantrowitz' fullname='W. Kantrowitz'><organization /></author>
+<date year='1973' month='February' />
+</front>
+<seriesInfo name='RFC' value='459'/>
+<seriesInfo name='DOI' value='10.17487/RFC0459'/>
 </reference>

@@ -1,61 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0937'>
-
+<reference  anchor='RFC0937' target='http://www.rfc-editor.org/info/rfc937'>
 <front>
-<title abbrev='Post Office Protocol'>Post Office Protocol: Version 2</title>
-<author initials='M.' surname='Butler' fullname='M. Butler'>
-<organization>University of Southern California (USC)/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90291</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone></address></author>
-<author initials='J.' surname='Postel' fullname='J. Postel'>
-<organization>University of Southern California (USC)/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90291</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone></address></author>
-<author initials='D.' surname='Chase' fullname='D. Chase'>
-<organization>University of Southern California (USC)/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90291</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone></address></author>
-<author initials='J.' surname='Goldberger' fullname='J. Goldberger'>
-<organization>University of Southern California (USC)/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90291</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone></address></author>
-<author initials='J.' surname='Reynolds' fullname='J. K. Reynolds'>
-<organization>University of Southern California (USC)/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90291</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone></address></author>
-<date year='1985' day='1' month='February' /></front>
-
-<seriesInfo name='RFC' value='937' />
-<format type='TXT' octets='42370' target='http://www.rfc-editor.org/rfc/rfc937.txt' />
+<title>Post Office Protocol: Version 2</title>
+<author initials='M.' surname='Butler' fullname='M. Butler'><organization /></author>
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<author initials='D.' surname='Chase' fullname='D. Chase'><organization /></author>
+<author initials='J.' surname='Goldberger' fullname='J. Goldberger'><organization /></author>
+<author initials='J.K.' surname='Reynolds' fullname='J.K. Reynolds'><organization /></author>
+<date year='1985' month='February' />
+<abstract><t>This RFC suggests a simple method for workstations to dynamically access    mail from a mailbox server.  This RFC specifies a proposed protocol for    the ARPA-Internet community, and requests discussion and suggestions for    improvement.  This memo is a revision of RFC-918.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='937'/>
+<seriesInfo name='DOI' value='10.17487/RFC0937'/>
 </reference>

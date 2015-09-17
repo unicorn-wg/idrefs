@@ -1,28 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2793'>
-
+<reference  anchor='RFC2793' target='http://www.rfc-editor.org/info/rfc2793'>
 <front>
 <title>RTP Payload for Text Conversation</title>
-<author initials='G.' surname='Hellstrom' fullname='Gunnar Hellstrom'>
-<organization>Omnitor AB</organization>
-<address>
-<postal>
-<street>Alsnogatan 7</street>
-<street>4 tr</street>
-<city>Stockholm</city>
-<region />
-<code>SE-116 41</code>
-<country>SE</country></postal>
-<phone>+46 708 204288</phone>
-<facsimile>+46 8 55600206</facsimile>
-<email>gunnar.hellstrom@omnitor.se</email></address></author>
+<author initials='G.' surname='Hellstrom' fullname='G. Hellstrom'><organization /></author>
 <date year='2000' month='May' />
-<abstract>
-<t>This memo describes how to carry text conversation session contents in RTP packets. Text conversation session contents are specified in ITU-T Recommendation T.140.</t>
-<t>Text conversation is used alone or in connection to other conversational facilities such as video and voice, to form multimedia conversation services.</t>
-<t>This RTP payload description contains an optional possibility to include redundant text from already transmitted packets in order to reduce the risk of text loss caused by packet loss. The redundancy coding follows RFC 2198.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2793' />
-<format type='TXT' octets='20674' target='http://www.rfc-editor.org/rfc/rfc2793.txt' />
+<abstract><t>This memo describes how to carry text conversation session contents in RTP packets.  Text conversation session contents are specified in ITU-T Recommendation T.140.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2793'/>
+<seriesInfo name='DOI' value='10.17487/RFC2793'/>
 </reference>

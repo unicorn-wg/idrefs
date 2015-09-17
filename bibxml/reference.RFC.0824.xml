@@ -1,17 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0824'>
-
+<reference  anchor='RFC0824' target='http://www.rfc-editor.org/info/rfc824'>
 <front>
-<title abbrev='DOS-26 Rev A - Virtual Local Networ'>CRONUS Virtual Local Network</title>
-<author initials='W.' surname='MacGregor' fullname='William I. MacGregor'>
-<organization>Bolt Beranek and Newman Inc. (BBN)</organization></author>
-<author initials='D.' surname='Tappan' fullname='Daniel C. Tappan'>
-<organization>Bolt Beranek and Newman Inc. (BBN)</organization></author>
-<date year='1982' day='25' month='August' />
-<abstract>
-<t>The purpose of this note is to describe the CRONUS Virtual Local Network, especially the addressing related features. These features include a method for mapping between Internet Addresses and Local Network addresses.  This is a topic of current concern in the ARPA Internet community.  This note is intended to stimulate discussion.  This is not a specification of an Internet Standard.</t></abstract></front>
-
-<seriesInfo name='RFC' value='824' />
-<format type='TXT' octets='58732' target='http://www.rfc-editor.org/rfc/rfc824.txt' />
+<title>CRONUS Virtual Local Network</title>
+<author initials='W.I.' surname='MacGregor' fullname='W.I. MacGregor'><organization /></author>
+<author initials='D.C.' surname='Tappan' fullname='D.C. Tappan'><organization /></author>
+<date year='1982' month='August' />
+<abstract><t>The purpose of this note is to describe the CRONUS Virtual Local Network, especially the addressing related features.  These features include a method for mapping between Internet Addresses and Local Network addresses.  This is a topic of current concern in the ARPA Internet community.  This note is intended to stimulate discussion.  This is not a specification of an Internet Standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='824'/>
+<seriesInfo name='DOI' value='10.17487/RFC0824'/>
 </reference>

@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1149'>
-
+<reference  anchor='RFC1149' target='http://www.rfc-editor.org/info/rfc1149'>
 <front>
-<title abbrev='IP Datagrams on Avian Carriers'>Standard for the transmission of IP datagrams on avian carriers</title>
-<author initials='D.' surname='Waitzman' fullname='David Waitzman'>
-<organization>Bolt Baranek and Newman Systems and Technologies Corporation,  Labs Division</organization>
-<address>
-<postal>
-<street>10 Moulton Street</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02238</code>
-<country>US</country></postal>
-<phone>+1 617 873 4323</phone>
-<email>dwaitzman@BBN.COM</email></address></author>
-<date year='1990' day='1' month='April' /></front>
-
-<seriesInfo name='RFC' value='1149' />
-<format type='TXT' octets='3329' target='http://www.rfc-editor.org/rfc/rfc1149.txt' />
+<title>Standard for the transmission of IP datagrams on avian carriers</title>
+<author initials='D.' surname='Waitzman' fullname='D. Waitzman'><organization /></author>
+<date year='1990' month='April' />
+<abstract><t>This memo describes an experimental method for the encapsulation of IP datagrams in avian carriers.  This specification is primarily useful in Metropolitan Area Networks.  This is an experimental, not recommended standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1149'/>
+<seriesInfo name='DOI' value='10.17487/RFC1149'/>
 </reference>

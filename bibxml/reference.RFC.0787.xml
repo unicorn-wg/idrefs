@@ -1,24 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0787'>
-
+<reference  anchor='RFC0787' target='http://www.rfc-editor.org/info/rfc787'>
 <front>
-<title abbrev='Connectionless Data Transmission'>Connectionless data transmission survey/tutorial</title>
-<author initials='A.' surname='Chapin' fullname='A. Lyman Chapin'>
-<organization>Data General Corporation</organization>
-<address>
-<postal>
-<street>4400 Computer Drive</street>
-<street>MS E111</street>
-<city>Westborough</city>
-<region>MA</region>
-<code>01580</code>
-<country>US</country></postal>
-<phone>+1 617 366 8911 x3056</phone></address></author>
-<date year='1981' day='1' month='July' />
-<abstract>
-<t>The increasingly  familiar and ubiquitous Reference Model of Open  Systems Interconnection, currently being considered by the International Organization  for Standardization (ISO) for promotion to the status of a Draft International Standard, is based on the explicit assumption that a "connection" - an association between two or  more  communicating  entities, possessing certain characteristics over and above those possessed by the entities themselves  -   is required for the transfer of data in an Open Systems Interconnection (OSI)  environment.  Although  the connection-oriented model of communications behavior has proven to be an extremely powerful concept, and has been applied successfully to the design and implementation of protocols and systems covering a wide  range of applications, a growing body of research and experience suggests that a complementary concept  -  connectionless data transmission  -  is an essential part of the Open Systems  Interconnection architecture, and should be embraced  as such by the OSI Reference Model.  This paper explores the concept of connectionless data transmission and its relationship to the more familiar concepts of connection-oriented  data transfer, developing a rationale for the  inclusion of the connectionless concept in the Reference Model  as an integral part of the standard description of the OSI architecture.</t></abstract></front>
-
-<seriesInfo name='RFC' value='787' />
-<format type='TXT' octets='84265' target='http://www.rfc-editor.org/rfc/rfc787.txt' />
+<title>Connectionless data transmission survey/tutorial</title>
+<author initials='A.L.' surname='Chapin' fullname='A.L. Chapin'><organization /></author>
+<date year='1981' month='July' />
+</front>
+<seriesInfo name='RFC' value='787'/>
+<seriesInfo name='DOI' value='10.17487/RFC0787'/>
 </reference>

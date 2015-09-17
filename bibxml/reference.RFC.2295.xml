@@ -1,41 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2295'>
-
+<reference  anchor='RFC2295' target='http://www.rfc-editor.org/info/rfc2295'>
 <front>
-<title abbrev='HTTP Content Negotiation'>Transparent Content Negotiation in HTTP</title>
-<author initials='K.' surname='Holtman' fullname='Koen Holtman'>
-<organization>Technische Universiteit Eindhoven</organization>
-<address>
-<postal>
-<street>Postbus 513</street>
-<street>Kamer HG 6.57</street>
-<street>5600 MB Eindhoven (The Netherlands)</street></postal>
-<email>koen@win.tue.nl</email></address></author>
-<author initials='A.H.' surname='Mutz' fullname='Andrew H. Mutz'>
-<organization>Hewlett-Packard Company</organization>
-<address>
-<postal>
-<street>1501 Page Mill Road 3U-3</street>
-<street>Palo Alto CA 94304</street>
-<country>USA</country></postal>
-<facsimile>+1 415 857 4691</facsimile>
-<email>mutz@hpl.hp.com</email></address></author>
+<title>Transparent Content Negotiation in HTTP</title>
+<author initials='K.' surname='Holtman' fullname='K. Holtman'><organization /></author>
+<author initials='A.' surname='Mutz' fullname='A. Mutz'><organization /></author>
 <date year='1998' month='March' />
-<area>Applications</area>
-<keyword>HTTP</keyword>
-<keyword>hypertext transfer protocol</keyword>
-<abstract>
-<t>
-   HTTP allows web site authors to put multiple versions of the same
-   information under a single URL.  Transparent content negotiation is
-   an extensible negotiation mechanism, layered on top of HTTP, for
-   automatically selecting the best version when the URL is accessed.
-   This enables the smooth deployment of new web data formats and markup
-   tags.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2295' />
-<format type='TXT' octets='125130' target='http://www.rfc-editor.org/rfc/rfc2295.txt' />
-<format type='XML' octets='127056' target='http://xml.resource.org/public/rfc/xml/rfc2295.xml' />
+<abstract><t>HTTP allows web site authors to put multiple versions of the same information under a single URL.  Transparent content negotiation is an extensible negotiation mechanism, layered on top of HTTP, for automatically selecting the best version when the URL is accessed.  This enables the smooth deployment of new web data formats and markup tags. This memo defines an Experimental Protocol for the Internet community. It does not specify an Internet standard of any kind.  Discussion and suggestions for improvement are requested.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2295'/>
+<seriesInfo name='DOI' value='10.17487/RFC2295'/>
 </reference>

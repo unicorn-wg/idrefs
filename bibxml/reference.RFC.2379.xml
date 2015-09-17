@@ -1,38 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2379'>
-
+<reference  anchor='RFC2379' target='http://www.rfc-editor.org/info/rfc2379'>
 <front>
-<title abbrev='RSVP over ATM'>RSVP over ATM Implementation Guidelines</title>
-<author initials='L.' surname='Berger' fullname='Lou Berger'>
-<organization>FORE Systems</organization>
-<address>
-<postal>
-<street>1595 Spring Hill Road</street>
-<street>5th Floor</street>
-<street>Vienna</street>
-<street>VA 22182</street></postal>
-<phone>+1 703-245-4527</phone>
-<email>lberger@fore.com</email></address></author>
+<title>RSVP over ATM Implementation Guidelines</title>
+<author initials='L.' surname='Berger' fullname='L. Berger'><organization /></author>
 <date year='1998' month='August' />
-<area>Transport</area>
-<keyword>ATM</keyword>
-<keyword>RSVP</keyword>
-<keyword>asynchronous transfer mode</keyword>
-<keyword>resource reservation protocol</keyword>
-<keyword>switched virtual circuit</keyword>
-<abstract>
-<t>
-   This memo presents specific implementation guidelines for running
-   RSVP over ATM switched virtual circuits (SVCs).  The general problem
-   is discussed in .  Implementation requirements are discussed in
-   .  Integrated Services to ATM service mappings are covered in .
-   The full set of documents present the background and information
-   needed to implement Integrated Services and RSVP over ATM.
-</t></abstract></front>
-
-<seriesInfo name='BCP' value='24' />
-<seriesInfo name='RFC' value='2379' />
-<format type='TXT' octets='15174' target='http://www.rfc-editor.org/rfc/rfc2379.txt' />
-<format type='XML' octets='17621' target='http://xml.resource.org/public/rfc/xml/rfc2379.xml' />
+<abstract><t>This memo presents specific implementation guidelines for running RSVP over ATM switched virtual circuits (SVCs). This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t></abstract>
+</front>
+<seriesInfo name='BCP' value='24'/>
+<seriesInfo name='RFC' value='2379'/>
+<seriesInfo name='DOI' value='10.17487/RFC2379'/>
 </reference>

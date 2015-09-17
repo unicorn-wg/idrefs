@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0496'>
-
+<reference  anchor='RFC0496' target='http://www.rfc-editor.org/info/rfc496'>
 <front>
 <title>TNLS quick reference card is available</title>
-<author initials='M.' surname='Auerbach' fullname='Marilyn Auerbach'>
-<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
-<date year='1973' day='5' month='April' />
-<abstract>
-<t>This RFC announces a new TNLS Quick Reference Card.  It documents all of the basic commands required for everyday TNLS usage as well as some special purpose features.</t></abstract></front>
-
-<seriesInfo name='RFC' value='496' />
-<format type='TXT' octets='1110' target='http://www.rfc-editor.org/rfc/rfc496.txt' />
+<author initials='M.F.' surname='Auerbach' fullname='M.F. Auerbach'><organization /></author>
+<date year='1973' month='April' />
+</front>
+<seriesInfo name='RFC' value='496'/>
+<seriesInfo name='DOI' value='10.17487/RFC0496'/>
 </reference>

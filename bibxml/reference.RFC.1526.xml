@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1526'>
-
+<reference  anchor='RFC1526' target='http://www.rfc-editor.org/info/rfc1526'>
 <front>
-<title abbrev='System Identifiers for TUBA'>Assignment of System Identifiers for TUBA/CLNP Hosts</title>
-<author initials='D.M.' surname='Piscitello' fullname='David M. Piscitello'>
-<organization>Bell Communications Research</organization>
-<address>
-<postal>
-<street>331 Newman Springs Road</street>
-<street>NVC 1C322</street>
-<city>Red Bank</city>
-<region>NJ</region>
-<code>07701</code>
-<country>US</country></postal>
-<email>dave@mail.bellcore.com</email></address></author>
+<title>Assignment of System Identifiers for TUBA/CLNP Hosts</title>
+<author initials='D.' surname='Piscitello' fullname='D. Piscitello'><organization /></author>
 <date year='1993' month='September' />
-<abstract>
-<t>This document describes conventions whereby the system identifier portion of an RFC 1237 style NSAP address may be guaranteed uniqueness within a routing domain for the purpose of autoconfiguration in TUBA/CLNP internets. The mechanism is extensible and can provide a basis for assigning system identifiers in a globally unique fashion.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1526' />
-<format type='TXT' octets='16848' target='http://www.rfc-editor.org/rfc/rfc1526.txt' />
+<abstract><t>This document describes conventions whereby the system identifier portion of an RFC 1237 style NSAP address may be guaranteed uniqueness within a routing domain for the purpose of autoconfiguration in TUBA/CLNP internets. This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1526'/>
+<seriesInfo name='DOI' value='10.17487/RFC1526'/>
 </reference>

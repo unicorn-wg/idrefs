@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0111'>
-
+<reference  anchor='RFC0111' target='http://www.rfc-editor.org/info/rfc111'>
 <front>
 <title>Pressure from the Chairman</title>
-<author initials='S.' surname='Crocker' fullname='Steve Crocker'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<date year='1971' day='31' month='March' />
-<abstract>
-<t>It is time to set serious schedules for the implementation of NCP's  and Telnets. To  facilitate  matters,  John Heafner of Rand has agreed to monitor each site's progress and test its implementation.</t></abstract></front>
-
-<seriesInfo name='RFC' value='111' />
-<format type='TXT' octets='2098' target='http://www.rfc-editor.org/rfc/rfc111.txt' />
+<author initials='S.D.' surname='Crocker' fullname='S.D. Crocker'><organization /></author>
+<date year='1971' month='March' />
+</front>
+<seriesInfo name='RFC' value='111'/>
+<seriesInfo name='DOI' value='10.17487/RFC0111'/>
 </reference>

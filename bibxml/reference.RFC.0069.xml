@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0069'>
-
+<reference  anchor='RFC0069' target='http://www.rfc-editor.org/info/rfc69'>
 <front>
 <title>Distribution List Change for MIT</title>
-<author initials='A.' surname='Bhushan' fullname='A. Bhushan'>
-<organization>Massachusetts Institute of Technology (MIT)</organization></author>
-<date year='1970' day='22' month='September' />
-<abstract>
-<t>Please delete my name from your distribution list and add that of Mr. Albert Vezza.</t></abstract></front>
-
-<seriesInfo name='RFC' value='69' />
-<format type='TXT' octets='841' target='http://www.rfc-editor.org/rfc/rfc69.txt' />
+<author initials='A.K.' surname='Bhushan' fullname='A.K. Bhushan'><organization /></author>
+<date year='1970' month='September' />
+</front>
+<seriesInfo name='RFC' value='69'/>
+<seriesInfo name='DOI' value='10.17487/RFC0069'/>
 </reference>

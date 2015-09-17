@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1387'>
-
+<reference  anchor='RFC1387' target='http://www.rfc-editor.org/info/rfc1387'>
 <front>
-<title abbrev='RIP-2 Analysis'>RIP Version 2 Protocol Analysis</title>
-<author initials='G.S.' surname='Malkin' fullname='Gary Scott Malkin'>
-<organization>Xylogics, Inc.</organization>
-<address>
-<postal>
-<street>53 Third Avenue</street>
-<city>Burlington</city>
-<region>MA</region>
-<code>01803</code>
-<country>US</country></postal>
-<phone>+1 617 272 8140</phone>
-<email>gmalkin@Xylogics.COM</email></address></author>
+<title>RIP Version 2 Protocol Analysis</title>
+<author initials='G.' surname='Malkin' fullname='G. Malkin'><organization /></author>
 <date year='1993' month='January' />
-<abstract>
-<t>As required by Routing Protocol Criteria (RFC 1264), this report documents the key features of the RIP-2 protocol and the current implementation experience.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1387' />
-<format type='TXT' octets='5598' target='http://www.rfc-editor.org/rfc/rfc1387.txt' />
+<abstract><t>As required by Routing Protocol Criteria (RFC 1264), this report documents the key features of the RIP-2 protocol and the current implementation experience.  This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1387'/>
+<seriesInfo name='DOI' value='10.17487/RFC1387'/>
 </reference>

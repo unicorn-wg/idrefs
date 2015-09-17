@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2726'>
-
+<reference  anchor='RFC2726' target='http://www.rfc-editor.org/info/rfc2726'>
 <front>
 <title>PGP Authentication for RIPE Database Updates</title>
-<author initials='J.' surname='Zsako' fullname='Janos Zsako'>
-<organization>BankNet</organization>
-<address>
-<postal>
-<street>1121 Budapest</street>
-<city>Konkoly-Thege ut</city>
-<region>*</region>
-<code>29-33</code>
-<country>HU</country></postal>
-<phone>+36 1 3959028</phone>
-<facsimile>+36 1 3959032</facsimile>
-<email>zsako@banknet.net</email></address></author>
+<author initials='J.' surname='Zsako' fullname='J. Zsako'><organization /></author>
 <date year='1999' month='December' />
-<abstract>
-<t>This document presents the proposal for a stronger authentication method of the updates of the RIPE database based on digital signatures. The proposal tries to be as general as possible as far as digital signing methods are concerned, however, it concentrates mainly on PGP, as the first method to be implemented.  The proposal is the result of the discussions within the RIPE DBSEC Task Force.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2726' />
-<format type='TXT' octets='22594' target='http://www.rfc-editor.org/rfc/rfc2726.txt' />
+<abstract><t>This document presents the proposal for a stronger authentication method of the updates of the RIPE database based on digital signatures. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2726'/>
+<seriesInfo name='DOI' value='10.17487/RFC2726'/>
 </reference>

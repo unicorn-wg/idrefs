@@ -1,27 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2656'>
-
+<reference  anchor='RFC2656' target='http://www.rfc-editor.org/info/rfc2656'>
 <front>
-<title abbrev='Registration Procedures for SOIF'>Registration Procedures for SOIF Template Types</title>
-<author initials='T.' surname='Hardie' fullname='Tex Hardie'>
-<organization>Equinox</organization>
-<address>
-<postal>
-<street>901 Marshall Street</street>
-<city>Redwood City</city>
-<region>CA</region>
-<code>94063</code>
-<country>US</country></postal>
-<email>hardie@equinix.com</email></address></author>
+<title>Registration Procedures for SOIF Template Types</title>
+<author initials='T.' surname='Hardie' fullname='T. Hardie'><organization /></author>
 <date year='1999' month='August' />
-<abstract>
-<t>TheSummary Object Interchange Formatwas first defined by theHarvest Projectin January 1994. SOIF was derived from a combination of theInternet Anonymous FTP Archives IETF Working Group (IAFA) templatesand theBibTeX bibliography format. The combination was originally noted for its advantages of providing a convenient and intuitive way for delimiting objects within a stream, and setting apart the URL for easy object access or invocation, while still preserving compatibility with IAFA templates.</t>
-<t>SOIF uses named template types to indicate the attributes which may be contained within a particular summary object. Within the context of a single application, private agreement on the definition of template types has been adequate. As SOIF objects are moved among applications, however, the need for standard, well-specified, and easily identifiable template types increases.This need is particularly intense in the context of query referral, where knowledge of an attribute's definition and the allowed data types for specific values is crucial. For a discussion of this in the context of the Common Indexing Protocol, see
-RFC2655
-.</t>
-<t>The registration procedure described in this document is specific to SOIF template types. There is ongoing work within the IETF to specify amore generic schema registration facility. It is not yet clear whether the results of that work will encompass the ability to register entities like SOIF template types. If it does so, the registration of SOIF template types may be shifted to that method and registry. Should that occur, appropriate pointers will be created in cooperation with the Registrar to ensure that no registrations are lost.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2656' />
-<format type='TXT' octets='17409' target='http://www.rfc-editor.org/rfc/rfc2656.txt' />
+<abstract><t>The registration procedure described in this document is specific to SOIF template types.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2656'/>
+<seriesInfo name='DOI' value='10.17487/RFC2656'/>
 </reference>

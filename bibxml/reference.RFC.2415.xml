@@ -1,40 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2415'>
-
+<reference  anchor='RFC2415' target='http://www.rfc-editor.org/info/rfc2415'>
 <front>
-<title abbrev='TCP Window Size'>Simulation Studies of Increased Initial TCP Window Size</title>
-<author initials='K.' surname='Poduri' fullname='Kedarnath Poduri'>
-<organization>Bay Networks</organization>
-<address>
-<postal>
-<street>4401 Great America Parkway</street>
-<street>SC01-04</street>
-<street>Santa Clara</street>
-<street>CA 95052-8185</street></postal>
-<phone>+1-408-495-2463</phone>
-<facsimile>+1-408-495-1299</facsimile>
-<email>knichols@baynetworks.com</email>
-<uri>@Baynetworks.com</uri></address></author>
+<title>Simulation Studies of Increased Initial TCP Window Size</title>
+<author initials='K.' surname='Poduri' fullname='K. Poduri'><organization /></author>
+<author initials='K.' surname='Nichols' fullname='K. Nichols'><organization /></author>
 <date year='1998' month='September' />
-<area>Transport</area>
-<keyword>file transfer</keyword>
-<keyword>transmission control protocol</keyword>
-<keyword>TCP</keyword>
-<abstract>
-<t>
-   An increase in the permissible initial window size of a TCP
-   connection, from one segment to three or four segments, has been
-   under discussion in the tcp-impl working group. This document covers
-   some simulation studies of the effects of increasing the initial
-   window size of TCP. Both long-lived TCP connections (file transfers)
-   and short-lived web-browsing style connections were modeled. The
-   simulations were performed using the publicly available ns-2
-   simulator and our custom models and files are also available.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2415' />
-<format type='TXT' octets='24205' target='http://www.rfc-editor.org/rfc/rfc2415.txt' />
-<format type='HTML' octets='37724' target='http://xml.resource.org/public/rfc/html/rfc2415.html' />
-<format type='XML' octets='24082' target='http://xml.resource.org/public/rfc/xml/rfc2415.xml' />
+<abstract><t>This document covers some simulation studies of the effects of increasing the initial window size of TCP.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2415'/>
+<seriesInfo name='DOI' value='10.17487/RFC2415'/>
 </reference>

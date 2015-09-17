@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0678'>
-
+<reference  anchor='RFC0678' target='http://www.rfc-editor.org/info/rfc678'>
 <front>
 <title>Standard file formats</title>
-<author initials='J.' surname='Postel' fullname='J. Postel'>
-<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
-<date year='1974' day='19' month='December' /></front>
-
-<seriesInfo name='RFC' value='678' />
-<format type='TXT' octets='12393' target='http://www.rfc-editor.org/rfc/rfc678.txt' />
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<date year='1974' month='December' />
+<abstract><t>For transmission of documents across different environments.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='678'/>
+<seriesInfo name='DOI' value='10.17487/RFC0678'/>
 </reference>

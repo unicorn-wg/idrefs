@@ -1,60 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2707'>
-
+<reference  anchor='RFC2707' target='http://www.rfc-editor.org/info/rfc2707'>
 <front>
 <title>Job Monitoring MIB - V1.0</title>
-<author initials='R.' surname='Bergman' fullname='Ron Bergman'>
-<organization>Dataproducts Corp.</organization>
-<address>
-<postal>
-<street>1757 Tapo Canyon Road</street>
-<city>Simi Valley</city>
-<region>CA</region>
-<code>93063-3394</code>
-<country>US</country></postal>
-<phone>+1 805 578 4421</phone>
-<facsimile>+1 805 578 4001</facsimile>
-<email>rbergman@dpc.com</email></address></author>
-<author initials='T.' surname='Hastings' fullname='Tom Hastings'>
-<organization>Xerox Corporation, ESAE-231</organization>
-<address>
-<postal>
-<street>737 Hawaii St.</street>
-<city>El Segundo</city>
-<region>CA</region>
-<code>90245</code>
-<country>US</country></postal>
-<phone>+1 310 333 6413</phone>
-<facsimile>+1 310 333 5514</facsimile>
-<email>hastings@cp10.es.xerox.com</email></address></author>
-<author initials='S.' surname='Isaacson' fullname='Scott A. Isaacson'>
-<organization>Novell, Inc.</organization>
-<address>
-<postal>
-<street>122 E 1700 S</street>
-<city>Provo</city>
-<region>UT</region>
-<code>84606</code>
-<country>US</country></postal>
-<phone>+1 801 861 7366</phone>
-<facsimile>+1 801 861 4025</facsimile>
-<email>scott_isaacson@novell.com</email></address></author>
-<author initials='H.' surname='Lewis' fullname='Harry Lewis'>
-<organization>IBM Corporation</organization>
-<address>
-<postal>
-<street>6300 Diagonal Hwy</street>
-<city>Boulder</city>
-<region>CO</region>
-<code>80301</code>
-<country>US</country></postal>
-<phone>+1 303 924 5337</phone>
-<email>harryl@us.ibm.com</email></address></author>
+<author initials='R.' surname='Bergman' fullname='R. Bergman'><organization /></author>
+<author initials='T.' surname='Hastings' fullname='T. Hastings'><organization /></author>
+<author initials='S.' surname='Isaacson' fullname='S. Isaacson'><organization /></author>
+<author initials='H.' surname='Lewis' fullname='H. Lewis'><organization /></author>
 <date year='1999' month='November' />
-<abstract>
-<t>This document provides a printer industry standard SNMP MIB formonitoring the status and progress of print jobsobtaining resource requirements before a job is processed,monitoring resource consumption while a job is being processed andcollecting resource accounting data after the completion of a job. This MIB is intended to be implementedin a printer orin a server that supports one or more printers.  Use of the object set is not limited to printing.  However, support for services other than printing is outside the scope of this Job Monitoring MIB.  Future extensions to this MIB may include, but are not limited to, fax machines and scanners.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2707' />
-<format type='TXT' octets='255685' target='http://www.rfc-editor.org/rfc/rfc2707.txt' />
+<abstract><t>This document provides a printer industry standard SNMP MIB for (1) monitoring the status and progress of print jobs (2) obtaining resource requirements before a job is processed, (3) monitoring resource consumption while a job is being processed and (4) collecting resource accounting data after the completion of a job.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2707'/>
+<seriesInfo name='DOI' value='10.17487/RFC2707'/>
 </reference>

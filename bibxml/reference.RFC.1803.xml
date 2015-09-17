@@ -1,81 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1803'>
-
+<reference  anchor='RFC1803' target='http://www.rfc-editor.org/info/rfc1803'>
 <front>
-<title abbrev='X.500 Production Directory Service'>Recommendations for an X.500 Production Directory Service</title>
-<author initials='R.' surname='Wright' fullname='Russ Wright'>
-<organization>Lawrence Berkeley Laboratory</organization>
-<address>
-<postal>
-<street>1 Cyclotron Road</street>
-<street>Mail-Stop 50B-2258</street>
-<city>Berkeley</city>
-<region>CA</region>
-<code>94720</code>
-<country>US</country></postal>
-<phone>+1 510 486 6965</phone>
-<email>wright@LBL.Gov</email></address></author>
-<author initials='A.' surname='Getchell' fullname='Arlene F. Getchell'>
-<organization>Lawrence Livermore National Laboratory, National Energy Research Supercomputer Center</organization>
-<address>
-<postal>
-<street>P.O. Box 5509</street>
-<street>L-561</street>
-<city>Livermore</city>
-<region>CA</region>
-<code>94551</code>
-<country>US</country></postal>
-<phone>+1 510 423 6349</phone>
-<email>getchell@es.net</email></address></author>
-<author initials='T.' surname='Howes' fullname='Tim Howes'>
-<organization>University of Michigan, ITD Research Systems</organization>
-<address>
-<postal>
-<street>535 W William St.</street>
-<city>Ann Arbor</city>
-<region>MI</region>
-<code>48103-4943</code>
-<country>US</country></postal>
-<phone>+1 313 747 4454</phone>
-<email>tim@umich.edu</email></address></author>
-<author initials='S.' surname='Sataluri' fullname='Srinivas R. Sataluri'>
-<organization>AT&amp;T Bell Laboratories</organization>
-<address>
-<postal>
-<street>101 Crawfords Corner Road</street>
-<street>Room 1C-429</street>
-<street>P.O. Box 3030</street>
-<city>Holmdel</city>
-<region>NJ</region>
-<code>07733-3030</code>
-<country>US</country></postal>
-<phone>+1 908 949 7782</phone>
-<email>sri@qsun.att.com</email></address></author>
-<author initials='P.' surname='Yee' fullname='Peter Yee'>
-<organization>NASA  Ames Research Center</organization>
-<address>
-<postal>
-<street>MS 233-18</street>
-<city>Moffett Field</city>
-<region>CA</region>
-<code>94035-1000</code>
-<country>US</country></postal>
-<email>yee@atlas.arc.nasa.gov</email></address></author>
-<author initials='W.' surname='Yeong' fullname='Wengyik Yeong'>
-<organization>Performance Systems International, Inc.</organization>
-<address>
-<postal>
-<street>510 Huntmar Park Drive</street>
-<city>Herndon</city>
-<region>VA</region>
-<code>22070</code>
-<country>US</country></postal>
-<email>yeongw@psi.com</email></address></author>
+<title>Recommendations for an X.500 Production Directory Service</title>
+<author initials='R.' surname='Wright' fullname='R. Wright'><organization /></author>
+<author initials='A.' surname='Getchell' fullname='A. Getchell'><organization /></author>
+<author initials='T.' surname='Howes' fullname='T. Howes'><organization /></author>
+<author initials='S.' surname='Sataluri' fullname='S. Sataluri'><organization /></author>
+<author initials='P.' surname='Yee' fullname='P. Yee'><organization /></author>
+<author initials='W.' surname='Yeong' fullname='W. Yeong'><organization /></author>
 <date year='1995' month='June' />
-<abstract>
-<t>This document contains a set of basic recommendations for a country-level X.500 DSA.  These recommendations can only be considered a starting point in the quest to create a global production quality X.500 infrastructure.  For there to be a true "production quality" X.500 infrastructure more work must be done, including a transition from the 1988 X.500 (plus some Internet extensions) to the 1993 X.500 standard (including the '93 replication and knowledge model).  This document does not discuss this transition.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1803' />
-<format type='TXT' octets='14721' target='http://www.rfc-editor.org/rfc/rfc1803.txt' />
+<abstract><t>This document contains a set of basic recommendations for a country- level X.500 DSA.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1803'/>
+<seriesInfo name='DOI' value='10.17487/RFC1803'/>
 </reference>

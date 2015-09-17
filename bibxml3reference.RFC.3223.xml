@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference  anchor='RFC3223' target='http://www.rfc-editor.org/info/rfc3223'>
+<front>
+<title>Not Issued</title>
+<author initials='' surname='' fullname=''><organization /></author>
+<abstract><t>RFC 3223 was never issued.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='3223'/>
+<seriesInfo name='DOI' value='10.17487/RFC3223'/>
+</reference>

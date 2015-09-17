@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC7440'>
-
+<reference  anchor='RFC7440' target='http://www.rfc-editor.org/info/rfc7440'>
 <front>
 <title>TFTP Windowsize Option</title>
-<author initials='P.' surname='Masotta' fullname='P. Masotta'>
-<organization /></author>
+<author initials='P.' surname='Masotta' fullname='P. Masotta'><organization /></author>
 <date year='2015' month='January' />
-<abstract>
-<t>The "Trivial File Transfer Protocol" (RFC 1350) is a simple, lockstep, file transfer protocol that allows a client to get or put a file onto a remote host. One of its primary uses is in the early stages of nodes booting from a Local Area Network (LAN). TFTP has been used for this application because it is very simple to implement. The employment of a lockstep scheme limits throughput when used on a LAN.&lt;/t>&lt;t> This document describes a TFTP option that allows the client and server to negotiate a window size of consecutive blocks to send as an alternative for replacing the single-block lockstep schema. The TFTP option mechanism employed is described in "TFTP Option Extension" (RFC 2347).</t></abstract></front>
-
-<seriesInfo name='RFC' value='7440' />
-<format type='TXT' octets='17710' target='http://www.rfc-editor.org/rfc/rfc7440.txt' />
+<abstract><t>The &quot;Trivial File Transfer Protocol&quot; (RFC 1350) is a simple, lockstep, file transfer protocol that allows a client to get or put a file onto a remote host.  One of its primary uses is in the early stages of nodes booting from a Local Area Network (LAN).  TFTP has been used for this application because it is very simple to implement.  The employment of a lockstep scheme limits throughput when used on a LAN.</t><t>This document describes a TFTP option that allows the client and server to negotiate a window size of consecutive blocks to send as an alternative for replacing the single-block lockstep schema.  The TFTP option mechanism employed is described in &quot;TFTP Option Extension&quot; (RFC 2347).</t></abstract>
+</front>
+<seriesInfo name='RFC' value='7440'/>
+<seriesInfo name='DOI' value='10.17487/RFC7440'/>
 </reference>

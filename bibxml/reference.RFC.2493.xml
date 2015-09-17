@@ -1,31 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2493'>
-
+<reference  anchor='RFC2493' target='http://www.rfc-editor.org/info/rfc2493'>
 <front>
-<title abbrev='Performance History'>Textual Conventions for MIB Modules Using Performance History Based on 15 Minute Intervals</title>
-<author initials='K.' surname='Tesink' fullname='Kaj Tesink'>
-<organization>Bellcore</organization>
-<address>
-<postal>
-<street>331 Newman Springs Road</street>
-<street>P.O. Box 7020</street>
-<street>Red Bank</street>
-<street>NJ  07701-7020</street></postal>
-<phone>(732) 758-5254</phone>
-<email>kaj@bellcore.com</email></address></author>
+<title>Textual Conventions for MIB Modules Using Performance History Based on 15 Minute Intervals</title>
+<author initials='K.' surname='Tesink' fullname='K. Tesink' role='editor'><organization /></author>
 <date year='1999' month='January' />
-<area>Management</area>
-<keyword>Management Information Base</keyword>
-<keyword>SNMP</keyword>
-<abstract>
-<t>
-   This document defines a set of Textual Conventions for MIB modules
-   which make use of performance history data based on 15 minute
-   intervals.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2493' />
-<format type='TXT' octets='18749' target='http://www.rfc-editor.org/rfc/rfc2493.txt' />
-<format type='XML' octets='19124' target='http://xml.resource.org/public/rfc/xml/rfc2493.xml' />
+<abstract><t>This document defines a set of Textual Conventions for MIB modules which make use of performance history data based on 15 minute intervals. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2493'/>
+<seriesInfo name='DOI' value='10.17487/RFC2493'/>
 </reference>

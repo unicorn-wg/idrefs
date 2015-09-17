@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1578'>
-
+<reference  anchor='RFC1578' target='http://www.rfc-editor.org/info/rfc1578'>
 <front>
-<title abbrev='FYI Q/A - for Schools'>FYI on Questions and Answers - Answers to Commonly Asked "Primary and Secondary School Internet User" Questions</title>
-<author initials='J.' surname='Sellers' fullname='Jennifer Sellers'>
-<organization>NASA NREN/Sterling Software</organization>
-<address>
-<postal>
-<street>700 13th Street NW</street>
-<street>Suite 950</street>
-<city>Washington</city>
-<region>DC</region>
-<code>20005</code>
-<country>US</country></postal>
-<phone>+1 202 434 8954</phone>
-<email>sellers@quest.arc.nasa.gov</email></address></author>
+<title>FYI on Questions and Answers - Answers to Commonly Asked &quot;Primary and Secondary School Internet User&quot; Questions</title>
+<author initials='J.' surname='Sellers' fullname='J. Sellers'><organization /></author>
 <date year='1994' month='February' />
-<abstract>
-<t>The goal of this FYI RFC, produced by the Internet School Networking (ISN) group in the User Services Area of the Internet Engineering Task Force (IETF), is to document the questions most commonly asked about the Internet by those in the primary and secondary school community, and to provide pointers to sources which answer those questions.  It is directed at educators, school media specialists, and school administrators who are recently connected to the Internet, who are accessing the Internet via dial-up or another means which is not a direct connection, or who are considering an Internet connection as a resource for their schools.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1578' />
-<format type='TXT' octets='113646' target='http://www.rfc-editor.org/rfc/rfc1578.txt' />
+<abstract><t>The goal of this FYI RFC is to document the questions most commonly asked about the Internet by those in the primary and secondary school community, and to provide pointers to sources which answer those questions. This memo provides information for the Internet community. This memo does not specify an Internet standard of any kind.  [FYI 22]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1578'/>
+<seriesInfo name='DOI' value='10.17487/RFC1578'/>
 </reference>

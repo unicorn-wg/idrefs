@@ -1,58 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2534'>
-
+<reference  anchor='RFC2534' target='http://www.rfc-editor.org/info/rfc2534'>
 <front>
 <title>Media Features for Display, Print, and Fax</title>
-<author initials='L.' surname='Masinter' fullname='Larry Masinter'>
-<organization>Xerox Corporation, Palo Alto Research Center</organization>
-<address>
-<postal>
-<street>3333 Coyote Hill Road</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94304</code>
-<country>US</country></postal>
-<facsimile>+1 650 812 4333</facsimile>
-<email>masinter@parc.xerox.com</email></address></author>
-<author initials='D.' surname='Wing' fullname='Dan Wing'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>101 Cooper Street</street>
-<city>Santa Cruz</city>
-<region>CA</region>
-<code>95060</code>
-<country>US</country></postal>
-<phone>+1 831 457 5200</phone>
-<facsimile>+1 831 457 5208</facsimile>
-<email>dwing@cisco.com</email></address></author>
-<author initials='A.' surname='Mutz' fullname='Andrew H. Mutz'>
-<organization>Jutvision Corporation</organization>
-<address>
-<postal>
-<street>124 University Avenue</street>
-<street>Suite 202</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94301</code>
-<country>US</country></postal>
-<phone>+1 650 325 6787</phone>
-<facsimile>+1 650 325 9337</facsimile>
-<email>mutz@alum.mit.edu</email></address></author>
-<author initials='K.' surname='Holtman' fullname='Koen Holtman'>
-<organization>Technische Universiteit Eindhoven</organization>
-<address>
-<postal>
-<street>Postbus 513</street>
-<street>Kamer HG 6.57</street>
-<street>5600 MB Eindhoven</street>
-<country>NL</country></postal>
-<email>koen@win.tue.nl</email></address></author>
+<author initials='L.' surname='Masinter' fullname='L. Masinter'><organization /></author>
+<author initials='D.' surname='Wing' fullname='D. Wing'><organization /></author>
+<author initials='A.' surname='Mutz' fullname='A. Mutz'><organization /></author>
+<author initials='K.' surname='Holtman' fullname='K. Holtman'><organization /></author>
 <date year='1999' month='March' />
-<abstract>
-<t>This specification defines some common media features for describing image resolution, size, color, and image representation methods that are common to web browsing, printing, and facsimile applications. These features are registered for use within the framework of.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2534' />
-<format type='TXT' octets='15466' target='http://www.rfc-editor.org/rfc/rfc2534.txt' />
+<abstract><t>This specification defines some common media features for describing image resolution, size, color, and image representation methods that are common to web browsing, printing, and facsimile applications. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2534'/>
+<seriesInfo name='DOI' value='10.17487/RFC2534'/>
 </reference>

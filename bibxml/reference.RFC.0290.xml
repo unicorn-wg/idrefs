@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0290'>
-
+<reference  anchor='RFC0290' target='http://www.rfc-editor.org/info/rfc290'>
 <front>
-<title abbrev='Computer Networks and Data Sharing Bibliography'>Computer networks and data sharing: A bibliography</title>
-<author initials='A.' surname='Mullery' fullname='Alvin P. Mullery'>
-<organization>International Business Machines (IBM), Thomas J. Watson Research Center</organization></author>
-<date year='1972' day='11' month='January' />
-<abstract>
-<t>The bibliography is broken into seven subject areas - general data structures, data description, data conversion, data management, data security, data transmission, and computer network design.  Two of these areas, general data structures and data management, cover a very broad range of subjects: however, in these two areas, only entries that seem to be specially pertinent to computer networks and data sharing are included.  The bibliography also contains an index of authors.</t></abstract></front>
-
-<seriesInfo name='RFC' value='290' />
-<format type='TXT' octets='34329' target='http://www.rfc-editor.org/rfc/rfc290.txt' />
+<title>Computer networks and data sharing: A bibliography</title>
+<author initials='A.P.' surname='Mullery' fullname='A.P. Mullery'><organization /></author>
+<date year='1972' month='January' />
+</front>
+<seriesInfo name='RFC' value='290'/>
+<seriesInfo name='DOI' value='10.17487/RFC0290'/>
 </reference>

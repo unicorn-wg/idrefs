@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2548'>
-
+<reference  anchor='RFC2548' target='http://www.rfc-editor.org/info/rfc2548'>
 <front>
 <title>Microsoft Vendor-specific RADIUS Attributes</title>
-<author initials='G.' surname='Zorn' fullname='Glen Zorn'>
-<organization>Microsoft Corporation</organization>
-<address>
-<postal>
-<street>One Microsoft Way</street>
-<city>Redmond</city>
-<region>WA</region>
-<code>98052</code>
-<country>US</country></postal>
-<phone>+1 425 703 1559</phone>
-<facsimile>+1 425 936 7329</facsimile>
-<email>glennz@microsoft.com</email></address></author>
+<author initials='G.' surname='Zorn' fullname='G. Zorn'><organization /></author>
 <date year='1999' month='March' />
-<abstract>
-<t>This document describes the set of Microsoft vendor-specific RADIUS attributes.  These attributes are designed to support Microsoft proprietary dial-up protocols and/or provide support for features which is not provided by the standard RADIUS attribute set.  It is expected that this memo will be updated whenever Microsoft defines a new vendor-specific attribute, since its primary purpose is to provide an open, easily accessible reference for third-parties wishing to interoperate with Microsoft products.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2548' />
-<format type='TXT' octets='80763' target='http://www.rfc-editor.org/rfc/rfc2548.txt' />
+<abstract><t>This document describes the set of Microsoft vendor-specific RADIUS attributes.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2548'/>
+<seriesInfo name='DOI' value='10.17487/RFC2548'/>
 </reference>

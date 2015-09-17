@@ -1,33 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC3923'>
-
+<reference  anchor='RFC3923' target='http://www.rfc-editor.org/info/rfc3923'>
 <front>
-<title abbrev='XMPP E2E'>End-to-End Signing and Object Encryption for the Extensible Messaging and Presence Protocol (XMPP)</title>
-<author initials='P.' surname='Saint-Andre' fullname='Peter Saint-Andre'>
-<organization>Jabber Software Foundation</organization>
-<address>
-<email>stpeter@jabber.org</email></address></author>
+<title>End-to-End Signing and Object Encryption for the Extensible Messaging and Presence Protocol (XMPP)</title>
+<author initials='P.' surname='Saint-Andre' fullname='P. Saint-Andre'><organization /></author>
 <date year='2004' month='October' />
-<area>Applications</area>
-<workgroup>XMPP Working Group</workgroup>
-<keyword>RFC</keyword>
-<keyword>Request for Comments</keyword>
-<keyword>I-D</keyword>
-<keyword>Internet-Draft</keyword>
-<keyword>XMPP</keyword>
-<keyword>Extensible Messaging and Presence Protocol</keyword>
-<keyword>Jabber</keyword>
-<keyword>IM</keyword>
-<keyword>Instant Messaging</keyword>
-<keyword>Presence</keyword>
-<keyword>XML</keyword>
-<keyword>Extensible Markup Language</keyword>
-<abstract>
-<t>This memo defines methods of end-to-end signing and object encryption for the Extensible Messaging and Presence Protocol (XMPP).</t></abstract></front>
-
-<seriesInfo name='RFC' value='3923' />
-<format type='TXT' octets='51828' target='http://www.rfc-editor.org/rfc/rfc3923.txt' />
-<format type='HTML' octets='90605' target='http://xml.resource.org/public/rfc/html/rfc3923.html' />
-<format type='XML' octets='72015' target='http://xml.resource.org/public/rfc/xml/rfc3923.xml' />
+<abstract><t>This memo defines methods of end-to-end signing and object encryption for the Extensible Messaging and Presence Protocol (XMPP).  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='3923'/>
+<seriesInfo name='DOI' value='10.17487/RFC3923'/>
 </reference>

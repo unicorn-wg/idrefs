@@ -1,41 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2215'>
-
+<reference  anchor='RFC2215' target='http://www.rfc-editor.org/info/rfc2215'>
 <front>
-<title abbrev='General Characterization Parameters'>General Characterization Parameters for Integrated Service Network Elements</title>
-<author initials='S.' surname='Shenker' fullname='Scott Shenker'>
-<organization>Xerox PARC</organization>
-<address>
-<postal>
-<street>3333 Coyote Hill Road</street>
-<street>Palo Alto</street>
-<street>CA 94304-1314</street></postal>
-<phone>415-812-4840</phone>
-<facsimile>415-812-4471</facsimile>
-<email>shenker@parc.xerox.com</email></address></author>
-<author initials='J.' surname='Wroclawski' fullname='John Wroclawski'>
-<organization>MIT Laboratory for Computer Science</organization>
-<address>
-<postal>
-<street>545 Technology Sq.</street>
-<street>Cambridge</street>
-<street>MA  02139</street></postal>
-<phone>617-253-7885</phone>
-<email>jtw@lcs.mit.edu</email></address></author>
+<title>General Characterization Parameters for Integrated Service Network Elements</title>
+<author initials='S.' surname='Shenker' fullname='S. Shenker'><organization /></author>
+<author initials='J.' surname='Wroclawski' fullname='J. Wroclawski'><organization /></author>
 <date year='1997' month='September' />
-<area>Internet</area>
-<keyword>quality of service</keyword>
-<keyword>QoS</keyword>
-<abstract>
-<t>
-   This memo defines a set of general control and characterization
-   parameters for network elements supporting the IETF integrated
-   services QoS control framework. General parameters are those with
-   common, shared definitions across all QoS control services.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2215' />
-<format type='TXT' octets='39552' target='http://www.rfc-editor.org/rfc/rfc2215.txt' />
-<format type='XML' octets='41236' target='http://xml.resource.org/public/rfc/xml/rfc2215.xml' />
+<abstract><t>This memo defines a set of general control and characterization parameters for network elements supporting the IETF integrated services QoS control framework.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2215'/>
+<seriesInfo name='DOI' value='10.17487/RFC2215'/>
 </reference>

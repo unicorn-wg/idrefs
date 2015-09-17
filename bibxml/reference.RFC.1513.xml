@@ -1,27 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1513'>
-
+<reference  anchor='RFC1513' target='http://www.rfc-editor.org/info/rfc1513'>
 <front>
-<title abbrev='Token Ring Extensions to RMON MIB'>Token Ring Extensions to the Remote Network Monitoring MIB</title>
-<author initials='S.' surname='Waldbusser' fullname='Steven Waldbusser'>
-<organization>Carnegie Mellon University</organization>
-<address>
-<postal>
-<street>4910 Forbes Ave.</street>
-<city>Pittsburgh</city>
-<region>PA</region>
-<code>15213</code>
-<country>US</country></postal>
-<phone>+1 412 268 6628</phone>
-<email>waldbusser@cmu.edu</email></address></author>
+<title>Token Ring Extensions to the Remote Network Monitoring MIB</title>
+<author initials='S.' surname='Waldbusser' fullname='S. Waldbusser'><organization /></author>
 <date year='1993' month='September' />
-<abstract>
-<t>This memo defines extensions to the Remote Network Monitoring MIB for managing 802.5 Token Ring networks.</t>
-<t>The Remote Network Monitoring MIB, RFC 1271, defines a framework for remote monitoring functions implemented on a network probe.  That MIB defines objects broken down into nine functional groups.  Some of those functional groups, the statistics and the history groups, have a view of the data-link layer that is specific to the media type and require specific objects to be defined for each media type.  RFC 1271 defined those specific objects necessary for Ethernet.  This companion memo defines those specific objects necessary for Token
- Ring LANs.</t>
-<t>In addition, this memo defines some additional monitoring functions specifically for Token Ring.  These are defined in the Ring Station Group, the Ring Station Order Group, the Ring Station Configuration Group, and the Source Routing Statistics Group.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1513' />
-<format type='TXT' octets='121974' target='http://www.rfc-editor.org/rfc/rfc1513.txt' />
+<abstract><t>This memo defines extensions to the Remote Network Monitoring MIB for managing 802.5 Token Ring networks. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1513'/>
+<seriesInfo name='DOI' value='10.17487/RFC1513'/>
 </reference>

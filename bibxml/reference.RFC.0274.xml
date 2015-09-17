@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0274'>
-
+<reference  anchor='RFC0274' target='http://www.rfc-editor.org/info/rfc274'>
 <front>
 <title>Establishing a local guide for network usage</title>
-<author initials='E.' surname='Forman' fullname='E. Forman'>
-<organization>The Mitre Corporation (MITRE)</organization></author>
-<date year='1971' day='1' month='November' />
-<abstract>
-<t>Actual experiences and experimentation with network systems and subsystems will be an important supplement to existing NIC documentation.  For this reason, MITRE, to facilitate local user access to network resources, is planning to establish a local GUIDE TO NETWORK USAGE to supplement the Resources Notebook and other NIC documentation.  The Guide will be tailored to the needs of MITRE users and will contain information on network systems and subsystems.</t></abstract></front>
-
-<seriesInfo name='RFC' value='274' />
-<format type='TXT' octets='7114' target='http://www.rfc-editor.org/rfc/rfc274.txt' />
+<author initials='E.' surname='Forman' fullname='E. Forman'><organization /></author>
+<date year='1971' month='November' />
+</front>
+<seriesInfo name='RFC' value='274'/>
+<seriesInfo name='DOI' value='10.17487/RFC0274'/>
 </reference>

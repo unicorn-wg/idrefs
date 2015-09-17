@@ -1,80 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2047'>
-
+<reference  anchor='RFC2047' target='http://www.rfc-editor.org/info/rfc2047'>
 <front>
-<title abbrev='Message Header Extensions'>MIME (Multipurpose Internet Mail Extensions) Part Three: Message Header Extensions for Non-ASCII Text</title>
-<author initials='K.' surname='Moore' fullname='Keith Moore'>
-<organization>University of Tennessee</organization>
-<address>
-<postal>
-<street>107 Ayres Hall</street>
-<street>Knoxville TN 37996-1301</street></postal>
-<email>moore@cs.utk.edu</email></address></author>
+<title>MIME (Multipurpose Internet Mail Extensions) Part Three: Message Header Extensions for Non-ASCII Text</title>
+<author initials='K.' surname='Moore' fullname='K. Moore'><organization /></author>
 <date year='1996' month='November' />
-<area>Applications</area>
-<keyword>Amercian Standard Code for Information Interchange</keyword>
-<keyword>mail</keyword>
-<keyword>multipurpose internet mail extensions</keyword>
-<abstract>
-<t>
-   STD 11, RFC 822, defines a message representation protocol specifying
-   considerable detail about US-ASCII message headers, and leaves the
-   message content, or message body, as flat US-ASCII text.  This set of
-   documents, collectively called the Multipurpose Internet Mail
-   Extensions, or MIME, redefines the format of messages to allow for
-
-<list>
-<t>
-   (1) textual message bodies in character sets other than US-ASCII,
-</t>
-<t>
-   (2) an extensible set of different formats for non-textual message
-       bodies,
-</t>
-<t>
-   (3) multi-part message bodies, and
-</t>
-<t>
-   (4) textual header information in character sets other than US-ASCII.
-</t></list></t>
-<t>
-   These documents are based on earlier work documented in RFC 934, STD
-   11, and RFC 1049, but extends and revises them.  Because RFC 822 said
-   so little about message bodies, these documents are largely
-   orthogonal to (rather than a revision of) RFC 822.
-</t>
-<t>
-   This particular document is the third document in the series.  It
-   describes extensions to RFC 822 to allow non-US-ASCII text data in
-   Internet mail header fields.
-   Other documents in this series include:
-
-<list>
-<t>
-   + RFC 2045, which specifies the various headers used to describe
-     the structure of MIME messages.
-</t>
-<t>
-   + RFC 2046, which defines the general structure of the MIME media
-     typing system and defines an initial set of media types,
-</t>
-<t>
-   + RFC 2048, which specifies various IANA registration procedures
-     for MIME-related facilities, and
-</t>
-<t>
-   + RFC 2049, which describes MIME conformance criteria and
-     provides some illustrative examples of MIME message formats,
-     acknowledgements, and the bibliography.
-</t></list></t>
-<t>
-   These documents are revisions of RFCs 1521, 1522, and 1590, which
-   themselves were revisions of RFCs 1341 and 1342.  An appendix in RFC
-   2049 describes differences and changes from previous versions.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2047' />
-<format type='TXT' octets='33262' target='http://www.rfc-editor.org/rfc/rfc2047.txt' />
-<format type='XML' octets='39330' target='http://xml.resource.org/public/rfc/xml/rfc2047.xml' />
+<abstract><t>This particular document is the third document in the series.  It describes extensions to RFC 822 to allow non-US-ASCII text data in Internet mail header fields.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2047'/>
+<seriesInfo name='DOI' value='10.17487/RFC2047'/>
 </reference>

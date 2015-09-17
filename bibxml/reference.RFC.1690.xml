@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1690'>
-
+<reference  anchor='RFC1690' target='http://www.rfc-editor.org/info/rfc1690'>
 <front>
-<title abbrev='The Internet Engineering and Planning Group'>Introducing the Internet Engineering and Planning Group (IEPG)</title>
-<author initials='G.' surname='Huston' fullname='Geoff Huston'>
-<organization>Australian Academic and Research Network</organization>
-<address>
-<postal>
-<street>GPO Box 1142</street>
-<city>Canberra</city>
-<region>ACT</region>
-<code>2601</code>
-<country>AU</country></postal>
-<phone>+61 6 2493385</phone>
-<facsimile>+61 6 2491369</facsimile>
-<email>Geoff.Huston@aarnet.edu.au</email></address></author>
+<title>Introducing the Internet Engineering and Planning Group (IEPG)</title>
+<author initials='G.' surname='Huston' fullname='G. Huston'><organization /></author>
 <date year='1994' month='August' />
-<abstract>
-<t>This memo introduces the IEPG to the Internet Community.  The IEPG is an Internet Service Operators' forum, intended to assist Service Operators to coordinate in operational aspects of managing Internet services.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1690' />
-<format type='TXT' octets='3013' target='http://www.rfc-editor.org/rfc/rfc1690.txt' />
+<abstract><t>This memo introduces the IEPG to the Internet Community.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1690'/>
+<seriesInfo name='DOI' value='10.17487/RFC1690'/>
 </reference>

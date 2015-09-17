@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0127'>
-
+<reference  anchor='RFC0127' target='http://www.rfc-editor.org/info/rfc127'>
 <front>
 <title>Comments on RFC 123</title>
-<author initials='J.' surname='Postel' fullname='J. Postel'>
-<organization>University of California, Los Angeles (UCLA), Computer Science</organization></author>
-<date year='1971' day='20' month='April' />
-<abstract>
-<t>The following is my interpretation of the exchange between NCP's which would be necessary to carry out the Initial Connection Protocol of RFC123.</t></abstract></front>
-
-<seriesInfo name='RFC' value='127' />
-<format type='TXT' octets='2305' target='http://www.rfc-editor.org/rfc/rfc127.txt' />
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<date year='1971' month='April' />
+</front>
+<seriesInfo name='RFC' value='127'/>
+<seriesInfo name='DOI' value='10.17487/RFC0127'/>
 </reference>

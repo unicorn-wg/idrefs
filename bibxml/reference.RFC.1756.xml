@@ -1,21 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1756'>
-
+<reference  anchor='RFC1756' target='http://www.rfc-editor.org/info/rfc1756'>
 <front>
-<title abbrev='Remote Write Protocol'>Remote Write Protocol - Version 1.0</title>
-<author initials='T.' surname='Rinne' fullname='Timo J. Rinne'>
-<organization>Helsinki University of Technology,  Cirion oy</organization>
-<address>
-<postal>
-<street>PO-BOX 250</street>
-<city>Helsinki</city>
-<region />
-<code>FIN-00121</code>
-<country>FI</country></postal>
-<email>Timo.Rinne@hut.fi</email></address></author>
-<date year='1995' month='January' /></front>
-
-<seriesInfo name='RFC' value='1756' />
-<format type='TXT' octets='22078' target='http://www.rfc-editor.org/rfc/rfc1756.txt' />
+<title>Remote Write Protocol - Version 1.0</title>
+<author initials='T.' surname='Rinne' fullname='T. Rinne'><organization /></author>
+<date year='1995' month='January' />
+<abstract><t>This document describes a simple Remote Write Protocol (RWP). This memo defines an Experimental Protocol for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1756'/>
+<seriesInfo name='DOI' value='10.17487/RFC1756'/>
 </reference>

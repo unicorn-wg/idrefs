@@ -1,21 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0143'>
-
+<reference  anchor='RFC0143' target='http://www.rfc-editor.org/info/rfc143'>
 <front>
 <title>Regarding proffered official ICP</title>
-<author initials='W.' surname='Naylor' fullname='W. Naylor'>
-<organization>University California Los Angeles (UCLA), Network Measurement Center (NMC)</organization></author>
-<author initials='J.' surname='Wong' fullname='J. Wong'>
-<organization>University California Los Angeles (UCLA), Network Measurement Center (NMC)</organization></author>
-<author initials='C.' surname='Kline' fullname='C. Kline'>
-<organization>University California Los Angeles (UCLA), Network Measurement Center (NMC)</organization></author>
-<author initials='J.' surname='Postel' fullname='J. Postel'>
-<organization>University California Los Angeles (UCLA), Network Measurement Center (NMC)</organization></author>
-<date year='1971' day='3' month='May' />
-<abstract>
-<t>We should like to comment on a race condition discovered in the ICP as proposed in NWG/RFC #123. The problem arises when the server attempts to initiate a second connection to the user's receive socket and the first connection is not yet closed.</t></abstract></front>
-
-<seriesInfo name='RFC' value='143' />
-<format type='TXT' octets='6963' target='http://www.rfc-editor.org/rfc/rfc143.txt' />
+<author initials='W.' surname='Naylor' fullname='W. Naylor'><organization /></author>
+<author initials='J.' surname='Wong' fullname='J. Wong'><organization /></author>
+<author initials='C.' surname='Kline' fullname='C. Kline'><organization /></author>
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<date year='1971' month='May' />
+</front>
+<seriesInfo name='RFC' value='143'/>
+<seriesInfo name='DOI' value='10.17487/RFC0143'/>
 </reference>

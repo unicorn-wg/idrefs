@@ -1,28 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2315'>
-
+<reference  anchor='RFC2315' target='http://www.rfc-editor.org/info/rfc2315'>
 <front>
-<title abbrev='PKCS #7: Crytographic Message Syntax'>PKCS #7: Cryptographic Message Syntax Version 1.5</title>
-<author initials='B.' surname='Kaliski' fullname='Burt Kaliski'>
-<organization>RSA Laboratories East</organization>
-<address>
-<postal>
-<street>20 Crosby Drive</street>
-<city>Bedford</city>
-<region>MA</region>
-<code>01730</code></postal>
-<phone>(617) 687-7000</phone>
-<email>burt@rsa.com</email></address></author>
+<title>PKCS #7: Cryptographic Message Syntax Version 1.5</title>
+<author initials='B.' surname='Kaliski' fullname='B. Kaliski'><organization /></author>
 <date year='1998' month='March' />
-<area>Security</area>
-<keyword>authentication</keyword>
-<keyword>cryptographic</keyword>
-<keyword>digital signature</keyword>
-<keyword>public key cryptography standards</keyword></front>
-
-<seriesInfo name='RFC' value='2315' />
-<format type='TXT' octets='69679' target='http://www.rfc-editor.org/rfc/rfc2315.txt' />
-<format type='HTML' octets='80081' target='http://xml.resource.org/public/rfc/html/rfc2315.html' />
-<format type='XML' octets='67201' target='http://xml.resource.org/public/rfc/xml/rfc2315.xml' />
+<abstract><t>This document describes a general syntax for data that may have cryptography applied to it, such as digital signatures and digital envelopes.  This memo provides information for the Internet community. It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2315'/>
+<seriesInfo name='DOI' value='10.17487/RFC2315'/>
 </reference>

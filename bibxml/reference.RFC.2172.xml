@@ -1,37 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2172'>
-
+<reference  anchor='RFC2172' target='http://www.rfc-editor.org/info/rfc2172'>
 <front>
-<title abbrev='MAPOS'>MAPOS Version 1 Assigned Numbers</title>
-<author initials='M.' surname='Maruyama' fullname='Mitsuru Maruyama'>
-<organization>NTT Software Laboratories</organization>
-<address>
-<postal>
-<street>3-9-11</street>
-<street>Midori-cho</street>
-<street>Musashino-shi</street>
-<street>Tokyo-180</street>
-<country>Japan</country></postal>
-<email>mitsuru@ntt-20.ecl.net</email></address></author>
-<author initials='K.' surname='Murakami' fullname='Ken Murakami'>
-<organization>NTT Software Laboratories</organization>
-<address>
-<postal>
-<street>3-9-11</street>
-<street>Midori-cho</street>
-<street>Musashino-shi</street>
-<street>Tokyo-180</street>
-<country>Japan</country></postal>
-<email>murakami@ntt-20.ecl.net</email></address></author>
+<title>MAPOS Version 1 Assigned Numbers</title>
+<author initials='M.' surname='Maruyama' fullname='M. Maruyama'><organization /></author>
+<author initials='K.' surname='Murakami' fullname='K. Murakami'><organization /></author>
 <date year='1997' month='June' />
-<area>Internet</area>
-<keyword>SONET</keyword>
-<keyword>assigned numbers</keyword>
-<keyword>synchronous optical network</keyword></front>
-
-<seriesInfo name='RFC' value='2172' />
-<format type='TXT' octets='4857' target='http://www.rfc-editor.org/rfc/rfc2172.txt' />
-<format type='HTML' octets='22104' target='http://xml.resource.org/public/rfc/html/rfc2172.html' />
-<format type='XML' octets='7184' target='http://xml.resource.org/public/rfc/xml/rfc2172.xml' />
+<abstract><t>This memo documents the parameters used in the Multiple Access Protocol over SONET/SDH Version 1.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2172'/>
+<seriesInfo name='DOI' value='10.17487/RFC2172'/>
 </reference>

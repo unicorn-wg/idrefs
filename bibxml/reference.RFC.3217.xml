@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC3217'>
-
+<reference  anchor='RFC3217' target='http://www.rfc-editor.org/info/rfc3217'>
 <front>
 <title>Triple-DES and RC2 Key Wrapping</title>
-<author initials='R.' surname='Housley' fullname='R. Housley'>
-<organization /></author>
+<author initials='R.' surname='Housley' fullname='R. Housley'><organization /></author>
 <date year='2001' month='December' />
-<abstract>
-<t>This document specifies the algorithm for wrapping one Triple-DES key with another Triple-DES key and the algorithm for wrapping one RC2 key with another RC2 key.  This memo provides information for the Internet community.</t></abstract></front>
-
-<seriesInfo name='RFC' value='3217' />
-<format type='TXT' octets='19855' target='http://www.rfc-editor.org/rfc/rfc3217.txt' />
+<abstract><t>This document specifies the algorithm for wrapping one Triple-DES key with another Triple-DES key and the algorithm for wrapping one RC2 key with another RC2 key.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='3217'/>
+<seriesInfo name='DOI' value='10.17487/RFC3217'/>
 </reference>

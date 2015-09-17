@@ -1,37 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1586'>
-
+<reference  anchor='RFC1586' target='http://www.rfc-editor.org/info/rfc1586'>
 <front>
-<title abbrev='OSPF over Frame Relay'>Guidelines for Running OSPF Over Frame Relay Networks</title>
-<author initials='O.S.' surname='deSouza' fullname='Osmund S. deSouza'>
-<organization>AT&amp;T, Bell Laboratories</organization>
-<address>
-<postal>
-<street>101 Crawfords Corner Road</street>
-<street>Room 1K-606</street>
-<city>Holmdel</city>
-<region>NJ</region>
-<code>07733</code>
-<country>US</country></postal>
-<phone>+1 908 949 1393</phone>
-<email>osmund.desouza@att.com</email></address></author>
-<author initials='M.A.' surname='Rodrigues' fullname='Manoel A. Rodrigues'>
-<organization>AT&amp;T, Bell Laboratories</organization>
-<address>
-<postal>
-<street>101 Crawfords Corner Road</street>
-<street>Room 1K-608</street>
-<city>Holmdel</city>
-<region>NJ</region>
-<code>07733</code>
-<country>US</country></postal>
-<phone>+1 908 949 4655</phone>
-<email>manoel.rodrigues@att.com</email></address></author>
+<title>Guidelines for Running OSPF Over Frame Relay Networks</title>
+<author initials='O.' surname='deSouza' fullname='O. deSouza'><organization /></author>
+<author initials='M.' surname='Rodrigues' fullname='M. Rodrigues'><organization /></author>
 <date year='1994' month='March' />
-<abstract>
-<t>This memo specifies guidelines for implementors and users of the Open Shortest Path First (OSPF) routing protocol to bring about improvements in how the protocol runs over frame relay networks.  We show how to configure frame relay interfaces in a way that obviates the "full-mesh" connectivity required by current OSPF implementations. This allows for simpler, more economic network designs.  These guidelines do not require any protocol changes; they only provide recommendations for how OSPF should be implemented and configured to use frame relay networks efficiently.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1586' />
-<format type='TXT' octets='14968' target='http://www.rfc-editor.org/rfc/rfc1586.txt' />
+<abstract><t>This memo specifies guidelines for implementors and users of the Open Shortest Path First (OSPF) routing protocol to bring about improvements in how the protocol runs over frame relay networks. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1586'/>
+<seriesInfo name='DOI' value='10.17487/RFC1586'/>
 </reference>

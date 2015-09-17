@@ -1,16 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1192'>
-
+<reference  anchor='RFC1192' target='http://www.rfc-editor.org/info/rfc1192'>
 <front>
-<title abbrev='Commercialization of the Internet'>Commercialization of the Internet summary report</title>
-<author initials='B.' surname='Kahin' fullname='Brian Kahin'>
-<organization>Harvard University, John F. Kennedy School of Government</organization>
-<address>
-<phone>+1 617 495 8903</phone>
-<email>kahin@hulaw.harvard.edu</email></address></author>
-<date year='1990' day='1' month='November' /></front>
-
-<seriesInfo name='RFC' value='1192' />
-<format type='TXT' octets='35253' target='http://www.rfc-editor.org/rfc/rfc1192.txt' />
+<title>Commercialization of the Internet summary report</title>
+<author initials='B.' surname='Kahin' fullname='B. Kahin'><organization /></author>
+<date year='1990' month='November' />
+<abstract><t>This memo is based on a workshop held by the Science, Technology and Public Policy Program of the John F. Kennedy School of Government, Harvard University, March 1-3, 1990.  This memo provides information for the Internet community.  It does not specify any standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1192'/>
+<seriesInfo name='DOI' value='10.17487/RFC1192'/>
 </reference>

@@ -1,47 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1594'>
-
+<reference  anchor='RFC1594' target='http://www.rfc-editor.org/info/rfc1594'>
 <front>
-<title abbrev='FYI Q/A - for New Internet Users'>FYI on Questions and Answers - Answers to Commonly asked "New Internet User" Questions</title>
-<author initials='A.' surname='Marine' fullname='April N. Marine'>
-<organization>NASA Ames Research Center, Network Applications and Information Center</organization>
-<address>
-<postal>
-<street>M/S 204-14</street>
-<city>Moffett Field</city>
-<region>CA</region>
-<code>94035-1000</code>
-<country>US</country></postal>
-<phone>+1 415 604 0762</phone>
-<email>amarine@atlas.arc.nasa.gov</email></address></author>
-<author initials='J.' surname='Reynolds' fullname='Joyce K. Reynolds'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<street>Suite 1001</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292-6695</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511</phone>
-<email>jkrey@isi.edu</email></address></author>
-<author initials='G.' surname='Malkin' fullname='Gary Scott Malkin'>
-<organization>Xylogics, Inc.</organization>
-<address>
-<postal>
-<street>53 Third Avenue</street>
-<city>Burlington</city>
-<region>MA</region>
-<code>01803</code>
-<country>US</country></postal>
-<phone>+1 617 272 8140</phone>
-<email>gmalkin@Xylogics.COM</email></address></author>
+<title>FYI on Questions and Answers - Answers to Commonly asked &quot;New Internet User&quot; Questions</title>
+<author initials='A.' surname='Marine' fullname='A. Marine'><organization /></author>
+<author initials='J.' surname='Reynolds' fullname='J. Reynolds'><organization /></author>
+<author initials='G.' surname='Malkin' fullname='G. Malkin'><organization /></author>
 <date year='1994' month='March' />
-<abstract>
-<t>This FYI RFC is one of two FYI's called, "Questions and Answers" (Q/A), produced by the User Services Working Group of the Internet Engineering Task Force (IETF).  The goal is to document the most commonly asked questions and answers in the Internet.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1594' />
-<format type='TXT' octets='98753' target='http://www.rfc-editor.org/rfc/rfc1594.txt' />
+<abstract><t>This FYI RFC is one of two FYI's called, &quot;Questions and Answers&quot; (Q/A). The goal is to document the most commonly asked questions and answers in the Internet. This memo provides information for the Internet community. This memo does not specify an Internet standard of any kind. [FYI 4]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1594'/>
+<seriesInfo name='DOI' value='10.17487/RFC1594'/>
 </reference>

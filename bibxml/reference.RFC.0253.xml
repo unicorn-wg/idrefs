@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0253'>
-
+<reference  anchor='RFC0253' target='http://www.rfc-editor.org/info/rfc253'>
 <front>
 <title>Second Network Graphics meeting details</title>
-<author initials='J.' surname='Moorer' fullname='James A. Moorer'>
-<organization>Stanford University (SU), Artificial Intelligence (AI) Laboratory</organization></author>
-<date year='1971' day='19' month='October' />
-<abstract>
-<t>Stanford will be the site of the second network graphics meeting.</t></abstract></front>
-
-<seriesInfo name='RFC' value='253' />
-<format type='TXT' octets='1981' target='http://www.rfc-editor.org/rfc/rfc253.txt' />
+<author initials='J.A.' surname='Moorer' fullname='J.A. Moorer'><organization /></author>
+<date year='1971' month='October' />
+</front>
+<seriesInfo name='RFC' value='253'/>
+<seriesInfo name='DOI' value='10.17487/RFC0253'/>
 </reference>

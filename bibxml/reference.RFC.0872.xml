@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0872'>
-
+<reference  anchor='RFC0872' target='http://www.rfc-editor.org/info/rfc872'>
 <front>
 <title>TCP-on-a-LAN</title>
-<author initials='M.' surname='Padlipsky' fullname='Mike A. Padlipsky'>
-<organization>The Mitre Corporation</organization>
-<address>
-<postal>
-<street>P.O. Box 208</street>
-<city>Bedford</city>
-<region>MA</region>
-<code>01730</code>
-<country>US</country></postal>
-<email>Padlipsky@USC-ISIA</email></address></author>
-<date year='1982' day='1' month='September' />
-<abstract>
-<t>The sometimes-held position that the DoD Standard Transmission Control Protocol (TCP) and Internet Protocol (IP) are inappropriate for use "on" a Local Area Network (LAN) is shown to be fallacious.  The paper is a companion piece to M82-47, M82-49, M82-50, and M82-51.</t></abstract></front>
-
-<seriesInfo name='RFC' value='872' />
-<format type='TXT' octets='22446' target='http://www.rfc-editor.org/rfc/rfc872.txt' />
+<author initials='M.A.' surname='Padlipsky' fullname='M.A. Padlipsky'><organization /></author>
+<date year='1982' month='September' />
+<abstract><t>This memo attacks the notion that TCP cannot be appropriate for use    on a Local Area Network.  Originally published as M82-48 by the MITRE    Corporation, Bedford Massachusetts.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='872'/>
+<seriesInfo name='DOI' value='10.17487/RFC0872'/>
 </reference>

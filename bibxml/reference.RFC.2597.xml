@@ -1,60 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2597'>
-
+<reference  anchor='RFC2597' target='http://www.rfc-editor.org/info/rfc2597'>
 <front>
 <title>Assured Forwarding PHB Group</title>
-<author initials='J.' surname='Heinanen' fullname='Juha Heinanen'>
-<organization>Telia Finland</organization>
-<address>
-<postal>
-<street>Myyrmaentie 2</street>
-<city>Vantaa</city>
-<code>01600</code>
-<country>FI</country></postal>
-<email>jh@telia.fi</email></address></author>
-<author initials='F.' surname='Baker' fullname='Fred Baker'>
-<organization>Cisco Systems</organization>
-<address>
-<postal>
-<street>519 Lado Drive</street>
-<city>Santa Barbara</city>
-<region>CA</region>
-<code>93111</code>
-<country>US</country></postal>
-<email>fred@cisco.com</email></address></author>
-<author initials='W.' surname='Weiss' fullname='Walter Weiss'>
-<organization>Lucent Technologies</organization>
-<address>
-<postal>
-<street>300 Baker Avenue</street>
-<street>Suite 100</street>
-<city>Concord</city>
-<region>MA</region>
-<code>01742-2168</code>
-<country>US</country></postal>
-<email>wweiss@lucent.com</email></address></author>
-<author initials='J.' surname='Wroclawski' fullname='J. Wroclawski'>
-<organization>MIT Laboratory for Computer Science</organization>
-<address>
-<postal>
-<street>545 Technology Square</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02139</code>
-<country>US</country></postal>
-<email>jtw@lcs.mit.edu</email></address></author>
+<author initials='J.' surname='Heinanen' fullname='J. Heinanen'><organization /></author>
+<author initials='F.' surname='Baker' fullname='F. Baker'><organization /></author>
+<author initials='W.' surname='Weiss' fullname='W. Weiss'><organization /></author>
+<author initials='J.' surname='Wroclawski' fullname='J. Wroclawski'><organization /></author>
 <date year='1999' month='June' />
-<abstract>
-<t>This document defines a general useDifferentiated Services (DS)Per-Hop-Behavior (PHB) Group called Assured Forwarding (AF).
-The AF PHB group provides delivery of IP packets in four
-independently forwarded AF classes.
-Within each AF class, an IP
-packet can be assigned one of three different levels of drop
-precedence.
-A DS node does not reorder IP packets of the same
-microflow if they belong to the same AF class.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2597' />
-<format type='TXT' octets='24068' target='http://www.rfc-editor.org/rfc/rfc2597.txt' />
+<abstract><t>This document defines a general use Differentiated Services (DS) Per-Hop-Behavior (PHB) Group called Assured Forwarding (AF). [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2597'/>
+<seriesInfo name='DOI' value='10.17487/RFC2597'/>
 </reference>

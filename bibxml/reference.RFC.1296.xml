@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1296'>
-
+<reference  anchor='RFC1296' target='http://www.rfc-editor.org/info/rfc1296'>
 <front>
 <title>Internet Growth (1981-1991)</title>
-<author initials='M.' surname='Lottor' fullname='Mark K. Lottor'>
-<organization>SRI International, Network Information Systems Center</organization>
-<address>
-<postal>
-<street>333 Ravenswood Avenue</street>
-<street>EJ282</street>
-<city>Menlo Park</city>
-<region>CA</region>
-<code>94025</code>
-<country>US</country></postal>
-<email>mkl@nisc.sri.com</email></address></author>
+<author initials='M.' surname='Lottor' fullname='M. Lottor'><organization /></author>
 <date year='1992' month='January' />
-<abstract>
-<t>This document illustrates the growth of the Internet by examination of entries in the Domain Name System (DNS) and pre-DNS host tables. DNS entries are collected by a program called ZONE, which searches the Internet and retrieves data from all known domains.  Pre-DNS host table data were retrieved from system archive tapes.  Various statistics are presented on the number of hosts and domains.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1296' />
-<format type='TXT' octets='20103' target='http://www.rfc-editor.org/rfc/rfc1296.txt' />
+<abstract><t>This document illustrates the growth of the Internet by examination of entries in the Domain Name System (DNS) and pre-DNS host tables.  This memo provides information for the Internet community.  It does not specify an Internet standard. This memo defines an extension to the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines objects for managing the Frame Relay Service. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1296'/>
+<seriesInfo name='DOI' value='10.17487/RFC1296'/>
 </reference>

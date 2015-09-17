@@ -1,17 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0877'>
-
+<reference  anchor='RFC0877' target='http://www.rfc-editor.org/info/rfc877'>
 <front>
-<title abbrev='Transmission of IP Datagrams Over Public Data Networks'>Standard for the transmission of IP datagrams over public data networks</title>
-<author initials='J.' surname='Korb' fullname='J. T. Korb'>
-<organization>Purdue University</organization></author>
-<date year='1983' day='1' month='September' />
-<abstract>
-<t>This RFC specifies a standard adopted by CSNET, the VAN gateway, and other organizations for the transmission of IP datagrams over the X.25-based public data networks.</t>
-<t>An X.25 virtual circuit is opened on demand when a datagram arrives at the network interface for transmission. A virtual circuit is closed after some period of inactivity (the length of the period depends on
-the cost associated with an open virtual circuit). A virtual circuit may also be closed if the interface runs out of virtual circuits. An algorithm for managing virtual circuits during peak demand is given in.</t></abstract></front>
-
-<seriesInfo name='RFC' value='877' />
-<format type='TXT' octets='3272' target='http://www.rfc-editor.org/rfc/rfc877.txt' />
+<title>Standard for the transmission of IP datagrams over public data networks</title>
+<author initials='J.T.' surname='Korb' fullname='J.T. Korb'><organization /></author>
+<date year='1983' month='September' />
+<abstract><t>This RFC specifies a standard adopted by CSNET, the VAN gateway, and    other organizations for the transmission of IP datagrams over the    X.25-based public data networks.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='877'/>
+<seriesInfo name='DOI' value='10.17487/RFC0877'/>
 </reference>

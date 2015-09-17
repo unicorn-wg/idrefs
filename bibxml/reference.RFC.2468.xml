@@ -1,19 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2468'>
-
+<reference  anchor='RFC2468' target='http://www.rfc-editor.org/info/rfc2468'>
 <front>
-<title abbrev='I REMEMBER IANA'>I REMEMBER IANA October 17, 1998</title>
-<author initials='V.G.' surname='Cerf' fullname='Vinton G. Cerf'>
-<organization>MCI</organization>
-<address>
-<email>vcerf@mci.net</email></address></author>
+<title>I REMEMBER IANA</title>
+<author initials='V.' surname='Cerf' fullname='V. Cerf'><organization /></author>
 <date year='1998' month='October' />
-<area>General</area>
-<keyword>Internet Assigned Numbers Authority</keyword></front>
-
-<seriesInfo name='RFC' value='2468' />
-<format type='TXT' octets='8543' target='http://www.rfc-editor.org/rfc/rfc2468.txt' />
-<format type='HTML' octets='17890' target='http://xml.resource.org/public/rfc/html/rfc2468.html' />
-<format type='XML' octets='7023' target='http://xml.resource.org/public/rfc/xml/rfc2468.xml' />
+<abstract><t>A long time ago, in a network, far far away, a great adventure took place!.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2468'/>
+<seriesInfo name='DOI' value='10.17487/RFC2468'/>
 </reference>

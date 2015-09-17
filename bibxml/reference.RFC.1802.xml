@@ -1,59 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1802'>
-
+<reference  anchor='RFC1802' target='http://www.rfc-editor.org/info/rfc1802'>
 <front>
-<title abbrev='Introducing Project Long Bud'>Introducing Project Long Bud: Internet Pilot Project for the Deployment of X.500 Directory Information in Support of X.400 Routing</title>
-<author initials='H.' surname='Alvestrand' fullname='Harald T. Alvestrand'>
-<organization>UNINETT</organization>
-<address>
-<postal>
-<street>P.O. box 6883 Elgeseter</street>
-<city>Trondheim</city>
-<region />
-<code>N-7002</code>
-<country>NO</country></postal>
-<phone>+47 73 597094</phone>
-<email>Harald.T.Alvestrand@uninett.no</email></address></author>
-<author initials='K.' surname='Jordan' fullname='Kevin E. Jordan'>
-<organization>Control Data Systems, Inc.</organization>
-<address>
-<postal>
-<street>4201 Lexington Avenue North</street>
-<city>Arden Hills</city>
-<region>MN</region>
-<code>55126</code>
-<country>US</country></postal>
-<phone>+1 612 482 6835</phone>
-<email>Kevin.E.Jordan@cdc.com</email></address></author>
-<author initials='S.' surname='Langlois' fullname='Sylvain Langlois'>
-<organization>Direction des Etudes et Recherches/Electricite de France</organization>
-<address>
-<postal>
-<street>1 avenue du General de Gaulle</street>
-<street>92141 Clamart Cedex</street>
-<city />
-<region />
-<code />
-<country>FR</country></postal>
-<phone>+33 1 47654402</phone>
-<email>Sylvain.Langlois@der.edf.fr</email></address></author>
-<author initials='J.' surname='Romaguera' fullname='James A. Romaguera'>
-<organization>NetConsult AG</organization>
-<address>
-<postal>
-<street>Morgenstrasse 129 3018</street>
-<city>Bern</city>
-<region />
-<code />
-<country>CH</country></postal>
-<phone>+41 31 9984141</phone>
-<email>Romaguera@NetConsult.ch</email></address></author>
+<title>Introducing Project Long Bud: Internet Pilot Project for the Deployment of X.500 Directory Information in Support of X.400 Routing</title>
+<author initials='H.' surname='Alvestrand' fullname='H. Alvestrand'><organization /></author>
+<author initials='K.' surname='Jordan' fullname='K. Jordan'><organization /></author>
+<author initials='S.' surname='Langlois' fullname='S. Langlois'><organization /></author>
+<author initials='J.' surname='Romaguera' fullname='J. Romaguera'><organization /></author>
 <date year='1995' month='June' />
-<abstract>
-<t>The Internet X.400 community (i.e., GO-MHS) currently lacks a distributed  mechanism providing dynamic updating and management of message routing information.  The IETF MHS-DS Working Group has specified an approach for X.400 Message Handling Systems to perform message routing using OSI Directory Services.  The MHS-DS approach has been successfully tested in a number of local environments.</t>
-<t>This memo describes a proposed Internet Pilot Project that seeks to prove the MHS-DS approach on a larger scale.  The results of this pilot will then be used to draw up recommendations for a global deployment.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1802' />
-<format type='TXT' octets='24637' target='http://www.rfc-editor.org/rfc/rfc1802.txt' />
+<abstract><t>This memo describes a proposed Internet Pilot Project that seeks to prove the MHS-DS approach on a larger scale.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1802'/>
+<seriesInfo name='DOI' value='10.17487/RFC1802'/>
 </reference>

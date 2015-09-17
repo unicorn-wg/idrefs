@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1601'>
-
+<reference  anchor='RFC1601' target='http://www.rfc-editor.org/info/rfc1601'>
 <front>
-<title abbrev='IAB Charter'>Charter of the Internet Architecture Board (IAB)</title>
-<author initials='C.' surname='Huitema' fullname='Christian Huitema'>
-<organization>INRIA</organization>
-<address>
-<postal>
-<street>2004 Route des Lucioles</street>
-<street>BP 93</street>
-<city>SOPHIA-ANTIPOLIS Cedex</city>
-<region />
-<code>06092</code>
-<country>FR</country></postal>
-<email>Christian.Huitema@sophia.inria.fr</email></address></author>
+<title>Charter of the Internet Architecture Board (IAB)</title>
+<author initials='C.' surname='Huitema' fullname='C. Huitema'><organization /></author>
 <date year='1994' month='March' />
-<abstract>
-<t>This memo documents the composition, selection, roles, and organization of the Internet Architecture Board and its subsidiary organizations.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1601' />
-<format type='TXT' octets='12424' target='http://www.rfc-editor.org/rfc/rfc1601.txt' />
+<abstract><t>This memo documents the composition, selection, roles, and organization of the Internet Architecture Board and its subsidiary organizations. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1601'/>
+<seriesInfo name='DOI' value='10.17487/RFC1601'/>
 </reference>

@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2521'>
-
+<reference  anchor='RFC2521' target='http://www.rfc-editor.org/info/rfc2521'>
 <front>
-<title abbrev='ICMP Security Failures'>ICMP Security Failures Messages</title>
-<author initials='P.' surname='Karn' fullname='Phil Karn'>
-<organization>Qualcomm, Inc.</organization>
-<address>
-<postal>
-<street>6455 Lusk Boulevard</street>
-<city>San Diego</city>
-<region>CA</region>
-<code>92121-2779</code>
-<country>US</country></postal>
-<email>karn@unix.ka9q.ampr.org</email></address></author>
-<author initials='W.' surname='Simpson' fullname='William Allen Simpson'>
-<organization>DayDreamer</organization>
-<address>
-<postal>
-<street>Computer Systems Consulting Services</street>
-<street>1384 Fontaine</street>
-<city>Madison Heights</city>
-<region>MI</region>
-<code>48071</code>
-<country>US</country></postal>
-<email>wsimpson@GreenDragon.com</email></address></author>
+<title>ICMP Security Failures Messages</title>
+<author initials='P.' surname='Karn' fullname='P. Karn'><organization /></author>
+<author initials='W.' surname='Simpson' fullname='W. Simpson'><organization /></author>
 <date year='1999' month='March' />
-<abstract>
-<t>This document specifies ICMP messages for indicating
-failures when using IP Security Protocols (AH and ESP).</t></abstract></front>
-
-<seriesInfo name='RFC' value='2521' />
-<format type='TXT' octets='14637' target='http://www.rfc-editor.org/rfc/rfc2521.txt' />
+<abstract><t>This document specifies ICMP messages for indicating failures when using IP Security Protocols (AH and ESP). This document defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2521'/>
+<seriesInfo name='DOI' value='10.17487/RFC2521'/>
 </reference>

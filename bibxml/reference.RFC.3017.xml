@@ -1,17 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC3017'>
-
+<reference  anchor='RFC3017' target='http://www.rfc-editor.org/info/rfc3017'>
 <front>
 <title>XML DTD for Roaming Access Phone Book</title>
-<author initials='M.' surname='Riegel' fullname='M. Riegel'>
-<organization /></author>
-<author initials='G.' surname='Zorn' fullname='G. Zorn'>
-<organization /></author>
+<author initials='M.' surname='Riegel' fullname='M. Riegel'><organization /></author>
+<author initials='G.' surname='Zorn' fullname='G. Zorn'><organization /></author>
 <date year='2000' month='December' />
-<abstract>
-<t>This document defines the syntax as well as the semantics of the information to be included in the phone book for roaming applications. [STANDARDS-TRACK]</t></abstract></front>
-
-<seriesInfo name='RFC' value='3017' />
-<format type='TXT' octets='59762' target='http://www.rfc-editor.org/rfc/rfc3017.txt' />
+<abstract><t>This document defines the syntax as well as the semantics of the information to be included in the phone book for roaming applications. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='3017'/>
+<seriesInfo name='DOI' value='10.17487/RFC3017'/>
 </reference>

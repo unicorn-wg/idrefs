@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1116'>
-
+<reference  anchor='RFC1116' target='http://www.rfc-editor.org/info/rfc1116'>
 <front>
 <title>Telnet Linemode option</title>
-<author initials='D.' surname='Borman' fullname='Dave Borman'>
-<organization>Cray Research Inc.</organization>
-<address>
-<postal>
-<street>1440 Northland Drive</street>
-<city>Mendota Heights</city>
-<region>MN</region>
-<code>55120</code>
-<country>US</country></postal>
-<phone>+1 612 681 3398</phone>
-<email>dab@CRAY.COM</email></address></author>
-<date year='1989' day='1' month='August' /></front>
-
-<seriesInfo name='RFC' value='1116' />
-<format type='TXT' octets='47473' target='http://www.rfc-editor.org/rfc/rfc1116.txt' />
+<author initials='D.A.' surname='Borman' fullname='D.A. Borman'><organization /></author>
+<date year='1989' month='August' />
+<abstract><t>Hosts on the Internet that support Linemode within the Telnet protocol are expected to adopt and implement this protocol.  Obsoleted by RFC 1184.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1116'/>
+<seriesInfo name='DOI' value='10.17487/RFC1116'/>
 </reference>

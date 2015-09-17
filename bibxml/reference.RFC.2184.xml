@@ -1,38 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2184'>
-
+<reference  anchor='RFC2184' target='http://www.rfc-editor.org/info/rfc2184'>
 <front>
-<title abbrev='MIME Parameter Value and Encoded Word Extensions'>MIME Parameter Value and Encoded Word Extensions: Character Sets, Languages, and Continuations</title>
-<author initials='N.' surname='Freed' fullname='Ned Freed'>
-<organization>Innosoft International, Inc.</organization>
-<address>
-<postal>
-<street>1050 East Garvey Avenue South</street>
-<street>West Covina</street>
-<street>CA 91790</street>
-<country>USA</country></postal>
-<phone>+1 818 919 3600           fax: +1 818 919 3614</phone>
-<email>ned@innosoft.com</email></address></author>
-<author initials='K.' surname='Moore' fullname='Keith Moore'>
-<organization>Computer Science Dept.</organization>
-<address>
-<postal>
-<street>University of Tennessee</street>
-<street>107 Ayres Hall</street>
-<street>Knoxville</street>
-<street>TN 37996-1301</street>
-<country>USA</country></postal>
-<email>moore@cs.utk.edu</email></address></author>
+<title>MIME Parameter Value and Encoded Word Extensions: Character Sets, Languages, and Continuations</title>
+<author initials='N.' surname='Freed' fullname='N. Freed'><organization /></author>
+<author initials='K.' surname='Moore' fullname='K. Moore'><organization /></author>
 <date year='1997' month='August' />
-<area>Applications</area>
-<keyword>MIME</keyword>
-<keyword>character encoding</keyword>
-<keyword>media type</keyword>
-<keyword>multipurpose internet mail extensions</keyword></front>
-
-<seriesInfo name='RFC' value='2184' />
-<format type='TXT' octets='17635' target='http://www.rfc-editor.org/rfc/rfc2184.txt' />
-<format type='HTML' octets='0' target='http://xml.resource.org/public/rfc/html/rfc2184.html' />
-<format type='XML' octets='17376' target='http://xml.resource.org/public/rfc/xml/rfc2184.xml' />
+<abstract><t>This memo defines extensions to the RFC 2045 media type and RFC 2183 disposition parameter value mechanisms. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2184'/>
+<seriesInfo name='DOI' value='10.17487/RFC2184'/>
 </reference>

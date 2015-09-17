@@ -1,40 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2409'>
-
+<reference  anchor='RFC2409' target='http://www.rfc-editor.org/info/rfc2409'>
 <front>
 <title>The Internet Key Exchange (IKE)</title>
-<author initials='D.' surname='Harkins' fullname='Dan Harkins'>
-<organization>cisco Systems</organization>
-<address>
-<postal>
-<street>170 W. Tasman Dr.</street>
-<street>San Jose</street>
-<street>California</street>
-<street>95134-1706</street>
-<country>United States of America</country></postal>
-<phone>+1 408 526 4000</phone>
-<email>dharkins@cisco.com</email></address></author>
-<author initials='D.' surname='Carrel' fullname='Dave Carrel'>
-<organization />
-<address>
-<postal>
-<street>76 Lippard Ave.</street>
-<street>San Francisco</street>
-<street>CA 94131-2947</street>
-<country>United States of America</country></postal>
-<phone>+1 415 337 8469</phone>
-<email>carrel@ipsec.org</email></address></author>
+<author initials='D.' surname='Harkins' fullname='D. Harkins'><organization /></author>
+<author initials='D.' surname='Carrel' fullname='D. Carrel'><organization /></author>
 <date year='1998' month='November' />
-<area>Security</area>
-<area>Internet</area>
-<keyword>IP security protocol</keyword>
-<keyword>authentication</keyword>
-<keyword>internet security association and key management protocol</keyword>
-<keyword>key exchange</keyword>
-<keyword>security</keyword></front>
-
-<seriesInfo name='RFC' value='2409' />
-<format type='TXT' octets='94949' target='http://www.rfc-editor.org/rfc/rfc2409.txt' />
-<format type='XML' octets='95587' target='http://xml.resource.org/public/rfc/xml/rfc2409.xml' />
+<abstract><t>This memo describes a hybrid protocol. The purpose is to negotiate, and provide authenticated keying material for, security associations in a protected manner.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2409'/>
+<seriesInfo name='DOI' value='10.17487/RFC2409'/>
 </reference>

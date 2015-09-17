@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0629'>
-
+<reference  anchor='RFC0629' target='http://www.rfc-editor.org/info/rfc629'>
 <front>
-<title abbrev='Using the Network Journal'>Scenario for using the Network Journal</title>
-<author initials='J.' surname='North' fullname='Jeanne North'>
-<organization>Stanford Research Institute (SRI), Augmentation Research Center (ARC)</organization></author>
-<date year='1974' day='27' month='March' />
-<abstract>
-<t>Network users may send mail to individuals and to groups, input as messages or entire files, through the Network Journal, using SNDMSG or their site's mail system.  The mail is converted at NIC into NLS files, Journalized, and sent to specified recipients.  Short messages may be received as messages, longer ones as citations to files which may be retrieved immediately, and also later, by using FTP.  Mail sent to NIC with a "/" in the user-name field invokes the Net Journal.</t></abstract></front>
-
-<seriesInfo name='RFC' value='629' />
-<format type='TXT' octets='4504' target='http://www.rfc-editor.org/rfc/rfc629.txt' />
+<title>Scenario for using the Network Journal</title>
+<author initials='J.B.' surname='North' fullname='J.B. North'><organization /></author>
+<date year='1974' month='March' />
+</front>
+<seriesInfo name='RFC' value='629'/>
+<seriesInfo name='DOI' value='10.17487/RFC0629'/>
 </reference>

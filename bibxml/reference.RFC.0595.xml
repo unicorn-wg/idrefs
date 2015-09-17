@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0595'>
-
+<reference  anchor='RFC0595' target='http://www.rfc-editor.org/info/rfc595'>
 <front>
-<title abbrev='In Defense of the TELNET Go-Ahead'>Second thoughts in defense of the Telnet Go-Ahead</title>
-<author initials='W.' surname='Hathaway' fullname='Wayne Hathaway'>
-<organization>NASA Ames Research Center (AMES-67)</organization></author>
-<date year='1973' day='12' month='December' />
-<abstract>
-<t>This note is a reply to Edward Taft's "Second Thoughts on TELNET Go-Ahead" (NIC #20812).</t></abstract></front>
-
-<seriesInfo name='RFC' value='595' />
-<format type='TXT' octets='13507' target='http://www.rfc-editor.org/rfc/rfc595.txt' />
+<title>Second thoughts in defense of the Telnet Go-Ahead</title>
+<author initials='W.' surname='Hathaway' fullname='W. Hathaway'><organization /></author>
+<date year='1973' month='December' />
+</front>
+<seriesInfo name='RFC' value='595'/>
+<seriesInfo name='DOI' value='10.17487/RFC0595'/>
 </reference>

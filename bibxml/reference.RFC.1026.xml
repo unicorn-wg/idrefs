@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1026'>
-
+<reference  anchor='RFC1026' target='http://www.rfc-editor.org/info/rfc1026'>
 <front>
 <title>Addendum to RFC 987: (Mapping between X.400 and RFC-822)</title>
-<author initials='S.' surname='Kille' fullname='S. E. Kille'>
-<organization>University College London</organization></author>
-<date year='1987' day='1' month='September' /></front>
-
-<seriesInfo name='RFC' value='1026' />
-<format type='TXT' octets='7117' target='http://www.rfc-editor.org/rfc/rfc1026.txt' />
+<author initials='S.E.' surname='Kille' fullname='S.E. Kille'><organization /></author>
+<date year='1987' month='September' />
+<abstract><t>This memo suggest a proposed protocol for the Internet community, and request discussion and suggestions for improvements.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1026'/>
+<seriesInfo name='DOI' value='10.17487/RFC1026'/>
 </reference>

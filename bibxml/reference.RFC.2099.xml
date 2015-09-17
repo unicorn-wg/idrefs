@@ -1,22 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2099'>
-
+<reference  anchor='RFC2099' target='http://www.rfc-editor.org/info/rfc2099'>
 <front>
-<title abbrev='Summary of 2000-2099'>Request for Comments Summary RFC Numbers 2000-2099</title>
-<author initials='J.' surname='Elliott' fullname='Josh Elliott'>
-<organization>University of Southern California, Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511</phone>
-<email>elliott@isi.edu</email></address></author>
-<date year='1997' month='March' /></front>
-
-<seriesInfo name='RFC' value='2099' />
-<format type='TXT' octets='40763' target='http://www.rfc-editor.org/rfc/rfc2099.txt' />
+<title>Request for Comments Summary RFC Numbers 2000-2099</title>
+<author initials='J.' surname='Elliott' fullname='J. Elliott'><organization /></author>
+<date year='1997' month='March' />
+</front>
+<seriesInfo name='RFC' value='2099'/>
+<seriesInfo name='DOI' value='10.17487/RFC2099'/>
 </reference>

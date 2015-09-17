@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0086'>
-
+<reference  anchor='RFC0086' target='http://www.rfc-editor.org/info/rfc86'>
 <front>
 <title>Proposal for a Network Standard Format for a Data Stream to Control Graphics Display</title>
-<author initials='S.' surname='Crocker' fullname='S. Croker'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<date year='1971' day='5' month='January' />
-<abstract>
-<t>*A typical arrangement of facilities is to have a console attached to a computer at the user's site, and to be using the computational facilities of a remote site.  Information entered by the user is transmitted to the remote Host, and output from the remote Host is transmitted back to the local user.  In this proposal I am concerned with specifying the form of the output stream for the case that the output portion of the console is a typical refresh display with point, vector and character drawing capability. Devices in this class include the DEC 338, DEC 340, IBM 2250, and IMLAC PDS-1.</t></abstract></front>
-
-<seriesInfo name='RFC' value='86' />
-<format type='TXT' octets='7117' target='http://www.rfc-editor.org/rfc/rfc86.txt' />
+<author initials='S.D.' surname='Crocker' fullname='S.D. Crocker'><organization /></author>
+<date year='1971' month='January' />
+</front>
+<seriesInfo name='RFC' value='86'/>
+<seriesInfo name='DOI' value='10.17487/RFC0086'/>
 </reference>

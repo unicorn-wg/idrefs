@@ -1,56 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2367'>
-
+<reference  anchor='RFC2367' target='http://www.rfc-editor.org/info/rfc2367'>
 <front>
-<title abbrev='PF_KEY'>PF_KEY Key Management API, Version 2</title>
-<author initials='D.L.' surname='McDonald' fullname='Daniel L. McDonald'>
-<organization>Sun Microsystems, Inc.</organization>
-<address>
-<postal>
-<street>901 San Antonio Road</street>
-<street>MS UMPK17-202</street>
-<street>Palo Alto</street>
-<street>CA 94303</street></postal>
-<phone>+1 650 786 6815</phone>
-<email>danmcd@eng.sun.com</email></address></author>
-<author initials='C.' surname='Metz' fullname='Craig Metz'>
-<organization>(for Code 5544)</organization>
-<address>
-<postal>
-<street>U.S. Naval Research Laboratory</street>
-<street>4555 Overlook Ave. SW</street>
-<street>Washington</street>
-<street>DC 20375</street></postal>
-<phone>(DSN) 754-8590</phone>
-<email>cmetz@inner.net</email></address></author>
-<author initials='B.G.' surname='Phan' fullname='Bao G. Phan'>
-<organization>U. S. Naval Research Laboratory</organization>
-<address>
-<email>phan@itd.nrl.navy.mil</email></address></author>
+<title>PF_KEY Key Management API, Version 2</title>
+<author initials='D.' surname='McDonald' fullname='D. McDonald'><organization /></author>
+<author initials='C.' surname='Metz' fullname='C. Metz'><organization /></author>
+<author initials='B.' surname='Phan' fullname='B. Phan'><organization /></author>
 <date year='1998' month='July' />
-<area>Internet</area>
-<area>Security</area>
-<keyword>IP security protocol</keyword>
-<keyword>application program interface</keyword>
-<keyword>internet security association and key management protocol</keyword>
-<keyword>key management</keyword>
-<keyword>security</keyword>
-<abstract>
-<t>
-   A generic key management API that can be used not only for IP
-   Security  but also for other network
-   security services is presented in this document.  Version 1 of this
-   API was implemented inside 4.4-Lite BSD as part of the U. S. Naval
-   Research Laboratory&apos;s freely distributable and usable IPv6 and IPsec
-   implementation.  It is documented here for the benefit of
-   others who might also adopt and use the API, thus providing increased
-   portability of key management applications (e.g. a manual keying
-   application, an ISAKMP daemon, a GKMP daemon , a
-   Photuris daemon, or a SKIP certificate discovery protocol daemon).
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2367' />
-<format type='TXT' octets='146754' target='http://www.rfc-editor.org/rfc/rfc2367.txt' />
-<format type='XML' octets='129137' target='http://xml.resource.org/public/rfc/xml/rfc2367.xml' />
+<abstract><t>A generic key management API that can be used not only for IP Security but also for other network security services is presented in this document.  This memo provides information for the Internet community. It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2367'/>
+<seriesInfo name='DOI' value='10.17487/RFC2367'/>
 </reference>

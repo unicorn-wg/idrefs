@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1788'>
-
+<reference  anchor='RFC1788' target='http://www.rfc-editor.org/info/rfc1788'>
 <front>
-<title abbrev='ICMP Domain Name'>ICMP Domain Name Messages</title>
-<author initials='W.' surname='Simpson' fullname='William Allen Simpson'>
-<organization>Daydreamer, Computer Systems Consulting Services</organization>
-<address>
-<postal>
-<street>1384 Fontaine</street>
-<city>Madison Heights</city>
-<region>MI</region>
-<code>48071</code>
-<country>US</country></postal>
-<email>Bill.Simpson@um.cc.umich.edu</email></address></author>
+<title>ICMP Domain Name Messages</title>
+<author initials='W.' surname='Simpson' fullname='W. Simpson'><organization /></author>
 <date year='1995' month='April' />
-<abstract>
-<t>This document specifies ICMP messages for learning the Fully Qualified Domain Name associated with an IP address.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1788' />
-<format type='TXT' octets='11722' target='http://www.rfc-editor.org/rfc/rfc1788.txt' />
+<abstract><t>This document specifies ICMP messages for learning the Fully Qualified Domain Name associated with an IP address. This document defines an Experimental Protocol for the Internet community.  This does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1788'/>
+<seriesInfo name='DOI' value='10.17487/RFC1788'/>
 </reference>

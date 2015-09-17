@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1498'>
-
+<reference  anchor='RFC1498' target='http://www.rfc-editor.org/info/rfc1498'>
 <front>
 <title>On the Naming and Binding of Network Destinations</title>
-<author initials='J.H.' surname='Saltzer' fullname='Jerome H. Saltzer'>
-<organization>MIT, Laboratory for Computer Science</organization>
-<address>
-<postal>
-<street>545 Technology Square</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02139</code>
-<country>US</country></postal>
-<phone>+1 617 253 6016</phone>
-<email>Saltzer@MIT.EDU</email></address></author>
+<author initials='J.' surname='Saltzer' fullname='J. Saltzer'><organization /></author>
 <date year='1993' month='August' />
-<abstract>
-<t>This brief paper offers a perspective on the subject of names of destinations in data communication networks. It suggests two ideas: First, it is helpful to distinguish among four different kinds of objects that may be named as the destination of a packet in a network.  Second, the operating system concept of binding is a useful way to describe the relations among the four kinds of objects. To illustrate the usefulness of this approach, the paper interprets some more subtle and confusing properties of two real-world network systems for naming destinations.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1498' />
-<format type='TXT' octets='24698' target='http://www.rfc-editor.org/rfc/rfc1498.txt' />
+<abstract><t>This brief paper offers a perspective on the subject of names of destinations in data communication networks. It suggests two ideas: First, it is helpful to distinguish among four different kinds of objects that may be named as the destination of a packet in a network. Second, the operating system concept of binding is a useful way to describe the relations among the four kinds of objects.  This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1498'/>
+<seriesInfo name='DOI' value='10.17487/RFC1498'/>
 </reference>

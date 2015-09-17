@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1384'>
-
+<reference  anchor='RFC1384' target='http://www.rfc-editor.org/info/rfc1384'>
 <front>
-<title abbrev='Naming Guidelines'>Naming Guidelines for Directory Pilots</title>
-<author initials='P.' surname='Barker' fullname='Paul Barker'>
-<organization>University College London, Department of Computer Science</organization>
-<address>
-<postal>
-<street>Gower Street</street>
-<city>London</city>
-<region>England</region>
-<code>WC1E 6BT</code>
-<country>UK</country></postal>
-<phone>+44 71 3807366</phone>
-<email>P.Barker@CS.UCL.AC.UK</email></address></author>
-<author initials='S.' surname='Hardcastle-Kille' fullname='Steve Hardcastle-Kille'>
-<organization>ISODE Consortium</organization>
-<address>
-<postal>
-<street>POB 505</street>
-<city>London</city>
-<region>England</region>
-<code>SW11 1DX</code>
-<country>UK</country></postal>
-<phone>+44 71 2234062</phone>
-<email>S.Kille@ISODE.COM</email></address></author>
-<date year='1993' month='January' /></front>
-
-<seriesInfo name='RFC' value='1384' />
-<format type='TXT' octets='25870' target='http://www.rfc-editor.org/rfc/rfc1384.txt' />
-<format type='PS' octets='175044' target='http://www.rfc-editor.org/rfc/rfc1384.ps' />
-<format type='PDF' octets='134487' target='http://www.rfc-editor.org/rfc/rfc1384.pdf' />
+<title>Naming Guidelines for Directory Pilots</title>
+<author initials='P.' surname='Barker' fullname='P. Barker'><organization /></author>
+<author initials='S.E.' surname='Hardcastle-Kille' fullname='S.E. Hardcastle-Kille'><organization /></author>
+<date year='1993' month='January' />
+<abstract><t>This document defines a number of naming guidelines.  Alignment to these guidelines is recommended for directory pilots.  This memo provides information for the Internet community. It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1384'/>
+<seriesInfo name='DOI' value='10.17487/RFC1384'/>
 </reference>

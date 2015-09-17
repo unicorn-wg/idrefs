@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2701'>
-
+<reference  anchor='RFC2701' target='http://www.rfc-editor.org/info/rfc2701'>
 <front>
-<title abbrev='MMP'>Nortel Networks Multi-link Multi-node PPP Bundle Discovery Protocol</title>
-<author initials='G.S.' surname='Malkin' fullname='Gary Scott Malkin'>
-<organization>Nortel Networks</organization>
-<address>
-<postal>
-<street>11 Elizabeth Drive</street>
-<city>Chelmsford</city>
-<region>MA</region>
-<code>01824-4111</code>
-<country>US</country></postal>
-<phone>+1 978 250 3635</phone>
-<email>gmalkin@nortelnetworks.com</email></address></author>
+<title>Nortel Networks Multi-link Multi-node PPP Bundle Discovery Protocol</title>
+<author initials='G.' surname='Malkin' fullname='G. Malkin'><organization /></author>
 <date year='1999' month='September' />
-<abstract>
-<t>This document specifies a standard way for Multi-link PPP to operate across multiple nodes.  Both the mechanism by which the Bundle Head is discovered and the PPP fragment encapsulation are specified.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2701' />
-<format type='TXT' octets='17571' target='http://www.rfc-editor.org/rfc/rfc2701.txt' />
+<abstract><t>This document specifies a standard way for Multi-link PPP to operate across multiple nodes.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2701'/>
+<seriesInfo name='DOI' value='10.17487/RFC2701'/>
 </reference>

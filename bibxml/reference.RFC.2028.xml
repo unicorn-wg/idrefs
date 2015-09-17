@@ -1,39 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2028'>
-
+<reference  anchor='RFC2028' target='http://www.rfc-editor.org/info/rfc2028'>
 <front>
-<title abbrev='IETF Organizations'>The Organizations Involved in the IETF Standards Process</title>
-<author initials='R.' surname='Hovey' fullname='Richard Hovey'>
-<organization>Digital Equipment Corporation</organization>
-<address>
-<postal>
-<street>1401 H Street NW</street>
-<street>Washington DC 20005</street></postal>
-<phone>+1 202 383 5615</phone>
-<email>hovey@wnpv01.enet.dec.com</email></address></author>
-<author initials='S.' surname='Bradner' fullname='Scott Bradner'>
-<organization>Harvard University</organization>
-<address>
-<postal>
-<street>1350 Mass Ave. Rm 813</street>
-<street>Cambridge MA 02138</street></postal>
-<phone>+1 617 495 3864</phone>
-<email>sob@harvard.edu</email></address></author>
+<title>The Organizations Involved in the IETF Standards Process</title>
+<author initials='R.' surname='Hovey' fullname='R. Hovey'><organization /></author>
+<author initials='S.' surname='Bradner' fullname='S. Bradner'><organization /></author>
 <date year='1996' month='October' />
-<area>General</area>
-<keyword>Internet Engineering Task Force</keyword>
-<keyword>standards process</keyword>
-<abstract>
-<t>
-   This document describes the individuals and organizations involved in
-   the IETF.  This includes descriptions of the IESG, the IETF Working
-   Groups and the relationship between the IETF and the Internet
-   Society.
-</t></abstract></front>
-
-<seriesInfo name='BCP' value='11' />
-<seriesInfo name='RFC' value='2028' />
-<format type='TXT' octets='13865' target='http://www.rfc-editor.org/rfc/rfc2028.txt' />
-<format type='XML' octets='17202' target='http://xml.resource.org/public/rfc/xml/rfc2028.xml' />
+<abstract><t>This document describes the individuals and organizations involved in the IETF.  This includes descriptions of the IESG, the IETF Working Groups and the relationship between the IETF and the Internet Society. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t></abstract>
+</front>
+<seriesInfo name='BCP' value='11'/>
+<seriesInfo name='RFC' value='2028'/>
+<seriesInfo name='DOI' value='10.17487/RFC2028'/>
 </reference>

@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1931'>
-
+<reference  anchor='RFC1931' target='http://www.rfc-editor.org/info/rfc1931'>
 <front>
-<title abbrev='Dynamic RARP'>Dynamic RARP Extensions for Automatic Network Address Acquisition</title>
-<author initials='D.' surname='Brownell' fullname='David Brownell'>
-<organization>SunSoft, Inc</organization>
-<address>
-<postal>
-<street>2550 Garcia Way</street>
-<street>MS 19-215</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043</code>
-<country>US</country></postal>
-<phone>+1 415 336 1615</phone>
-<email>dbrownell@sun.com</email></address></author>
-<date year='1996' month='April' /></front>
-
-<seriesInfo name='RFC' value='1931' />
-<format type='TXT' octets='27544' target='http://www.rfc-editor.org/rfc/rfc1931.txt' />
+<title>Dynamic RARP Extensions for Automatic Network Address Acquisition</title>
+<author initials='D.' surname='Brownell' fullname='D. Brownell'><organization /></author>
+<date year='1996' month='April' />
+<abstract><t>This memo describes extensions to the Reverse Address Resolution Protocol (RARP [2]) and called Dynamic RARP (DRARP, pronounced D-RARP). This memo provides information for the Internet community.  This memo does not define an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1931'/>
+<seriesInfo name='DOI' value='10.17487/RFC1931'/>
 </reference>

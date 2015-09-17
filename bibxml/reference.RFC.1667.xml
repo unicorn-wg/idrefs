@@ -1,46 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1667'>
-
+<reference  anchor='RFC1667' target='http://www.rfc-editor.org/info/rfc1667'>
 <front>
 <title>Modeling and Simulation Requirements for IPng</title>
-<author initials='S.' surname='Symington' fullname='Susan Symington'>
-<organization>MITRE Corporation</organization>
-<address>
-<postal>
-<street>7525 Colshire Drive</street>
-<city>McLean</city>
-<region>VA</region>
-<code>22101-3481</code>
-<country>US</country></postal>
-<phone>+1 703 883 7209</phone>
-<email>susan@gateway.mitre.org</email></address></author>
-<author initials='D.' surname='Wood' fullname='David Wood'>
-<organization>MITRE Corporation</organization>
-<address>
-<postal>
-<street>7525 Colshire Drive</street>
-<city>McLean</city>
-<region>VA</region>
-<code>22101-3481</code>
-<country>US</country></postal>
-<phone>+1 703 883 6394</phone>
-<email>wood@mitre.org</email></address></author>
-<author initials='J.' surname='Pullen' fullname='J. Mark Pullen'>
-<organization>George Mason University, Computer Science</organization>
-<address>
-<postal>
-<street />
-<city>Fairfax</city>
-<region>VA</region>
-<code>22030</code>
-<country>US</country></postal>
-<phone>+1 703 993 1538</phone>
-<email>mpullen@cs.gmu.edu</email></address></author>
+<author initials='S.' surname='Symington' fullname='S. Symington'><organization /></author>
+<author initials='D.' surname='Wood' fullname='D. Wood'><organization /></author>
+<author initials='M.' surname='Pullen' fullname='M. Pullen'><organization /></author>
 <date year='1994' month='August' />
-<abstract>
-<t>This document was submitted to the IETF IPng area in response to RFC 1550.  Publication of this document does not imply acceptance by the IPng area of any ideas expressed within.  Comments should be submitted to the big-internet@munnari.oz.au mailing list.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1667' />
-<format type='TXT' octets='17291' target='http://www.rfc-editor.org/rfc/rfc1667.txt' />
+<abstract><t>This white paper summarizes the Distributed Interactive Simulation environment that is under development, with regard to its real-time nature, scope and magnitude of networking requirements.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1667'/>
+<seriesInfo name='DOI' value='10.17487/RFC1667'/>
 </reference>

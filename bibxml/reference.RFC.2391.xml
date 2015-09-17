@@ -1,63 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2391'>
-
+<reference  anchor='RFC2391' target='http://www.rfc-editor.org/info/rfc2391'>
 <front>
-<title abbrev='LSNAT'>Load Sharing using IP Network Address Translation (LSNAT)</title>
-<author initials='P.' surname='Srisuresh' fullname='Pyda Srisuresh'>
-<organization>Lucent Technologies</organization>
-<address>
-<postal>
-<street>4464 Willow Road</street>
-<street>Pleasanton</street>
-<street>CA 94588-8519</street>
-<street>U.S.A.</street></postal>
-<facsimile>(925) 737-2110</facsimile>
-<email>suresh@ra.lucent.com</email></address></author>
-<author fullname='Der-hwa Gan' initials='D.' surname='Gan'>
-<organization>Juniper Networks, Inc.</organization>
-<address>
-<postal>
-<street>385 Ravensdale Drive.</street>
-<street>Mountain View</street>
-<street>CA 94043</street>
-<street>U.S.A.</street></postal>
-<facsimile>(650) 526-8001</facsimile>
-<email>dhg@juniper.net</email></address></author>
+<title>Load Sharing using IP Network Address Translation (LSNAT)</title>
+<author initials='P.' surname='Srisuresh' fullname='P. Srisuresh'><organization /></author>
+<author initials='D.' surname='Gan' fullname='D. Gan'><organization /></author>
 <date year='1998' month='August' />
-<area>Internet</area>
-<keyword>NAT</keyword>
-<keyword>network address translation</keyword>
-<keyword>routing</keyword>
-<abstract>
-<t>
-   This document combines the idea of address translation described in
-   RFC 1631 with real-time load share algorithms to introduce Load Share
-   Network Address Translators(or, simply LSNATs). LSNATs would
-   transparently offload network load on a single server and distribute
-   the load across a pool of servers.
-</t>
-<t>
-   Network Address Translators (NATs) translate IP addresses in a
-   datagram, transparent to end nodes, while routing the datagram. NATs
-   have traditionally been been used to allow private network domains to
-   connect to Global networks using as few as one globally unique IP
-   address.  In this document, we extend the use of NATs to offer Load
-   share feature, where session load can be distributed across a pool of
-   servers, instead of directing to a single server.  Load sharing is
-   beneficial to service providers and system administrators alike in
-   grappling with scalability of servers with increasing session load.
-</t></abstract>
-<note title='IESG Note'>
-<t>
-   This document combines the idea of address translation described in
-   RFC 1631 with real-time load share algorithms to introduce Load Share
-   Network Address Translators(or, simply LSNATs). LSNATs would
-   transparently offload network load on a single server and distribute
-   the load across a pool of servers.
-</t></note></front>
-
-<seriesInfo name='RFC' value='2391' />
-<format type='TXT' octets='44884' target='http://www.rfc-editor.org/rfc/rfc2391.txt' />
-<format type='XML' octets='46817' target='http://xml.resource.org/public/rfc/xml/rfc2391.xml' />
+<abstract><t>In this document, we extend the use of NATs to offer Load share feature, where session load can be distributed across a pool of servers, instead of directing to a single server.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2391'/>
+<seriesInfo name='DOI' value='10.17487/RFC2391'/>
 </reference>

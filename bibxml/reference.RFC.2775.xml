@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2775'>
-
+<reference  anchor='RFC2775' target='http://www.rfc-editor.org/info/rfc2775'>
 <front>
 <title>Internet Transparency</title>
-<author initials='B.E.' surname='Carpenter' fullname='Brian E. Carpenter'>
-<organization>IBM c/o iCAIR</organization>
-<address>
-<postal>
-<street>1890 Maple Avenue</street>
-<street>Suite 150</street>
-<city>Evanston</city>
-<region>IL</region>
-<code>60201</code>
-<country>US</country></postal>
-<email>brian@icair.org</email></address></author>
+<author initials='B.' surname='Carpenter' fullname='B. Carpenter'><organization /></author>
 <date year='2000' month='February' />
-<abstract>
-<t>This document describes the current state of the Internet from the architectural viewpoint, concentrating on issues of end-to-end connectivity and transparency. It concludes with a summary of some major architectural alternatives facing the Internet network layer.</t>
-<t>This document was used as input to the IAB workshop on the future of the network layer held in July 1999. For this reason, it does not claim to be complete and definitive, and it refrains from making recommendations.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2775' />
-<format type='TXT' octets='42956' target='http://www.rfc-editor.org/rfc/rfc2775.txt' />
+<abstract><t>This document describes the current state of the Internet from the architectural viewpoint, concentrating on issues of end-to-end connectivity and transparency.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2775'/>
+<seriesInfo name='DOI' value='10.17487/RFC2775'/>
 </reference>

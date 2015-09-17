@@ -1,27 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2738'>
-
+<reference  anchor='RFC2738' target='http://www.rfc-editor.org/info/rfc2738'>
 <front>
-<title abbrev='Corrections to Syntax for Media Features'>Corrections to "A Syntax for Describing Media Feature Sets"</title>
-<author initials='G.' surname='Klyne' fullname='Graham Klyne'>
-<organization>Content Technologies Ltd.</organization>
-<address>
-<postal>
-<street>1220 Parkview</street>
-<street>Arlington Business Park</street>
-<city>Theale</city>
-<region>Reading</region>
-<code>RG7 4SA</code>
-<country>UK</country></postal>
-<phone>+44 118 9301300</phone>
-<facsimile>+44 118 9301301</facsimile>
-<email>GK@ACM.ORG</email></address></author>
+<title>Corrections to &quot;A Syntax for Describing Media Feature Sets&quot;</title>
+<author initials='G.' surname='Klyne' fullname='G. Klyne'><organization /></author>
 <date year='1999' month='December' />
-<abstract>
-<t>In RFC 2533, "A Syntax for Describing Media Feature Sets", an expression format is presented for describing media feature capabilities using simple media feature tags.</t>
-<t>This memo contains two corrections to that specification:  one fixes an error in the formal syntax specification, and the other fixes an error in the rules for reducing feature comparison predicates.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2738' />
-<format type='TXT' octets='8353' target='http://www.rfc-editor.org/rfc/rfc2738.txt' />
+<abstract><t>In RFC 2533, &quot;A Syntax for Describing Media Feature Sets&quot;, an expression format is presented for describing media feature capabilities using simple media feature tags.  This memo contains two corrections to that specification:  one fixes an error in the formal syntax specification, and the other fixes an error in the rules for reducing feature comparison predicates.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2738'/>
+<seriesInfo name='DOI' value='10.17487/RFC2738'/>
 </reference>

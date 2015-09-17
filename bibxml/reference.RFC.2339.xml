@@ -1,42 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2339'>
-
+<reference  anchor='RFC2339' target='http://www.rfc-editor.org/info/rfc2339'>
 <front>
-<title abbrev='ISOC / Sun agreement on NFS'>An Agreement Between the Internet Society, the IETF, and Sun Microsystems, Inc. in the matter of NFS V.4 Protocols</title>
-<author>
-<organization>The Internet Society</organization></author>
-<author>
-<organization>Sun Microsystems</organization></author>
-<author initials='S.' surname='Bradner' fullname='Scott Bradner'>
-<organization>Harvard University</organization>
-<address>
-<postal>
-<street>1350 Mass Ave. Rm 876</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02138</code></postal>
-<phone>+1 617 495 3864</phone>
-<email>sob@harvard.edu</email></address></author>
+<title>An Agreement Between the Internet Society, the IETF, and Sun Microsystems, Inc. in the matter of NFS V.4 Protocols</title>
+<author><organization>The Internet Society</organization></author>
+<author><organization>Sun Microsystems</organization></author>
 <date year='1998' month='May' />
-<area>Transport</area>
-<keyword>Internet Engineering Task Force</keyword>
-<keyword>Internet Society</keyword>
-<keyword>network file system</keyword>
-<keyword>NFS</keyword>
-<abstract>
-<t>
-   This Request for Comments records an agreement between Sun
-
-   Microsystems, Inc. and the Internet Society to permit the flow of
-
-   Sun's Network File System specifications into the Internet Standards
-
-   process conducted by the Internet Engineering Task Force.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2339' />
-<format type='TXT' octets='10745' target='http://www.rfc-editor.org/rfc/rfc2339.txt' />
-<format type='HTML' octets='19748' target='http://xml.resource.org/public/rfc/html/rfc2339.html' />
-<format type='XML' octets='9242' target='http://xml.resource.org/public/rfc/xml/rfc2339.xml' />
+<abstract><t>This Request for Comments records an agreement between Sun Microsystems, Inc. and the Internet Society to permit the flow of Sun's Network File System specifications into the Internet Standards process conducted by the Internet Engineering Task Force.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2339'/>
+<seriesInfo name='DOI' value='10.17487/RFC2339'/>
 </reference>

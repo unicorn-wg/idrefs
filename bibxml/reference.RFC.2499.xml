@@ -1,24 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2499'>
-
+<reference  anchor='RFC2499' target='http://www.rfc-editor.org/info/rfc2499'>
 <front>
-<title abbrev='Summary of 2400-2499'>Request for Comments Summary</title>
-<author initials='A.' surname='Ramos' fullname='Alegre Ramos'>
-<organization>University of Southern California, Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511</phone>
-<email>ramos@isi.edu</email></address></author>
+<title>Request for Comments Summary</title>
+<author initials='A.' surname='Ramos' fullname='A. Ramos'><organization /></author>
 <date year='1999' month='July' />
-<abstract>
-<t></t></abstract></front>
-
-<seriesInfo name='RFC' value='2499' />
-<format type='TXT' octets='43431' target='http://www.rfc-editor.org/rfc/rfc2499.txt' />
+</front>
+<seriesInfo name='RFC' value='2499'/>
+<seriesInfo name='DOI' value='10.17487/RFC2499'/>
 </reference>

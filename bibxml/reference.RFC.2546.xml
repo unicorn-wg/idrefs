@@ -1,32 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2546'>
-
+<reference  anchor='RFC2546' target='http://www.rfc-editor.org/info/rfc2546'>
 <front>
 <title>6Bone Routing Practice</title>
-<author initials='A.' surname='Durand' fullname='Alain Durand'>
-<organization>Institut d'Informatique et de Mathematiques Appliquees de Grenoble</organization>
-<address>
-<postal>
-<street>IMAG BP 53</street>
-<street>38041 Grenoble CEDEX 9</street>
-<country>FR</country></postal>
-<phone>+33 4 76635703</phone>
-<facsimile>+33 4 76514964</facsimile>
-<email>Alain.Durand@imag.fr</email></address></author>
-<author initials='B.' surname='Buclin' fullname='Bertrand Buclin'>
-<organization>AT&amp;T International S.A.</organization>
-<address>
-<postal>
-<street>Route de l'aeroport 31</street>
-<street>CP 72</street>
-<street>CH-1215 Geneve 15</street>
-<country>CH</country></postal>
-<phone>+41 22 9293740</phone>
-<facsimile>+41 22 9293984</facsimile>
-<email>Bertrand.Buclin@ch.att.com</email></address></author>
-<date year='1999' month='March' /></front>
-
-<seriesInfo name='RFC' value='2546' />
-<format type='TXT' octets='17844' target='http://www.rfc-editor.org/rfc/rfc2546.txt' />
+<author initials='A.' surname='Durand' fullname='A. Durand'><organization /></author>
+<author initials='B.' surname='Buclin' fullname='B. Buclin'><organization /></author>
+<date year='1999' month='March' />
+<abstract><t>This memo identifies guidelines on how 6Bone sites might operate, so that the 6Bone can remain a quality experimentation environment and to avoid pathological situations that have been encountered in the past. It defines the 'best current practice' acceptable in the 6Bone for the configuration of both Interior Gateway Protocols and Exterior Gateway Protocols. This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2546'/>
+<seriesInfo name='DOI' value='10.17487/RFC2546'/>
 </reference>

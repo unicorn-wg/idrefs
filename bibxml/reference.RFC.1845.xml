@@ -1,37 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1845'>
-
+<reference  anchor='RFC1845' target='http://www.rfc-editor.org/info/rfc1845'>
 <front>
-<title abbrev='SMTP Checkpoint/Restart'>SMTP Service Extension for Checkpoint/Restart</title>
-<author initials='D.' surname='Crocker' fullname='Dave Crocker'>
-<organization>Brandenburg Consulting</organization>
-<address>
-<postal>
-<street>675 Spruce Dr.</street>
-<city>Sunnyvale</city>
-<region>CA</region>
-<code>94086</code>
-<country>US</country></postal>
-<phone>+1 408 246 8253</phone>
-<facsimile>+1 408 249 6205</facsimile>
-<email>dcrocker@mordor.stanford.edu</email></address></author>
-<author initials='N.' surname='Freed' fullname='Ned Freed'>
-<organization>Innosoft International, Inc.</organization>
-<address>
-<postal>
-<street>1050 East Garvey Avenue South</street>
-<city>West Covina</city>
-<region>CA</region>
-<code>91790</code>
-<country>US</country></postal>
-<phone>+1 818 919 3600</phone>
-<facsimile>+1 818 919 3614</facsimile>
-<email>ned@innosoft.com</email></address></author>
+<title>SMTP Service Extension for Checkpoint/Restart</title>
+<author initials='D.' surname='Crocker' fullname='D. Crocker'><organization /></author>
+<author initials='N.' surname='Freed' fullname='N. Freed'><organization /></author>
+<author initials='A.' surname='Cargille' fullname='A. Cargille'><organization /></author>
 <date year='1995' month='September' />
-<abstract>
-<t>This memo defines an extension to the SMTP service whereby an interrupted SMTP transaction can be restarted at a later time without having to repeat all of the commands and message content sent prior to the interruption.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1845' />
-<format type='TXT' octets='15399' target='http://www.rfc-editor.org/rfc/rfc1845.txt' />
+</front>
+<seriesInfo name='RFC' value='1845'/>
+<seriesInfo name='DOI' value='10.17487/RFC1845'/>
 </reference>

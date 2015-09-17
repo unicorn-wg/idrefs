@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC3128'>
-
+<reference  anchor='RFC3128' target='http://www.rfc-editor.org/info/rfc3128'>
 <front>
 <title>Protection Against a Variant of the Tiny Fragment Attack (RFC 1858)</title>
-<author initials='I.' surname='Miller' fullname='I. Miller'>
-<organization /></author>
+<author initials='I.' surname='Miller' fullname='I. Miller'><organization /></author>
 <date year='2001' month='June' />
-<abstract>
-<t>This document discusses how RFC 1858 compliant filters can be vulnerable to a variant of the "Tiny Fragment Attack" described in section 3.1 of the RFC.  This document describes the attack and recommends corrective action.  This memo provides information for the Internet community.</t></abstract></front>
-
-<seriesInfo name='RFC' value='3128' />
-<format type='TXT' octets='8242' target='http://www.rfc-editor.org/rfc/rfc3128.txt' />
+<abstract><t>This document discusses how RFC 1858 compliant filters can be vulnerable to a variant of the &quot;Tiny Fragment Attack&quot; described in section 3.1 of the RFC.  This document describes the attack and recommends corrective action.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='3128'/>
+<seriesInfo name='DOI' value='10.17487/RFC3128'/>
 </reference>

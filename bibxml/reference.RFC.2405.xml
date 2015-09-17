@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2405'>
-
+<reference  anchor='RFC2405' target='http://www.rfc-editor.org/info/rfc2405'>
 <front>
-<title abbrev='The ESP DES-CBC Cipher Algorithm'>The ESP DES-CBC Cipher Algorithm With Explicit IV</title>
-<author initials='C.' surname='Madson' fullname='Cheryl Madson'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<email>cmadson@cisco.com</email></address></author>
-<author initials='N.' surname='Doraswamy' fullname='Naganand Doraswamy'>
-<organization>Bay Networks, Inc.</organization>
-<address>
-<email>naganand@baynetworks.com</email></address></author>
+<title>The ESP DES-CBC Cipher Algorithm With Explicit IV</title>
+<author initials='C.' surname='Madson' fullname='C. Madson'><organization /></author>
+<author initials='N.' surname='Doraswamy' fullname='N. Doraswamy'><organization /></author>
 <date year='1998' month='November' />
-<area>Security</area>
-<keyword>Digital Encryption Standard</keyword>
-<keyword>IP security protocol</keyword>
-<keyword>cipher block chaining</keyword>
-<keyword>encapsulate</keyword>
-<keyword>encapsulating security payload</keyword>
-<keyword>encryption</keyword>
-<keyword>security</keyword>
-<abstract>
-<t>
-   This document describes the use of the DES Cipher algorithm in Cipher
-   Block Chaining Mode, with an explicit IV, as a confidentiality
-   mechanism within the context of the IPSec Encapsulating Security
-   Payload (ESP).
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2405' />
-<format type='TXT' octets='20208' target='http://www.rfc-editor.org/rfc/rfc2405.txt' />
-<format type='XML' octets='24731' target='http://xml.resource.org/public/rfc/xml/rfc2405.xml' />
+<abstract><t>This document describes the use of the DES Cipher algorithm in Cipher Block Chaining Mode, with an explicit IV, as a confidentiality mechanism within the context of the IPSec Encapsulating Security Payload (ESP). [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2405'/>
+<seriesInfo name='DOI' value='10.17487/RFC2405'/>
 </reference>

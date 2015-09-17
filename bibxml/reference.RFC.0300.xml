@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0300'>
-
+<reference  anchor='RFC0300' target='http://www.rfc-editor.org/info/rfc300'>
 <front>
 <title>ARPA Network mailing lists</title>
-<author initials='J.B.' surname='North' fullname='J.B. North'>
-<organization /></author>
-<date year='1972' month='January' /></front>
-
-<seriesInfo name='RFC' value='300' />
-<format type='TXT' octets='16357' target='http://www.rfc-editor.org/rfc/rfc300.txt' />
+<author initials='J.B.' surname='North' fullname='J.B. North'><organization /></author>
+<date year='1972' month='January' />
+</front>
+<seriesInfo name='RFC' value='300'/>
+<seriesInfo name='DOI' value='10.17487/RFC0300'/>
 </reference>

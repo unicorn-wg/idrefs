@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1412'>
-
+<reference  anchor='RFC1412' target='http://www.rfc-editor.org/info/rfc1412'>
 <front>
-<title abbrev='SPX for Telnet'>Telnet Authentication: SPX</title>
-<author initials='K.' surname='Alagappan' fullname='Kannan Alagappan'>
-<organization>Digital Equipment Corporation (DEC)</organization>
-<address>
-<postal>
-<street>550 King Street</street>
-<street>LKG1-2/A19</street>
-<city>Littleton</city>
-<region>MA</region>
-<code>01460</code>
-<country>US</country></postal>
-<email>kannan@sejour.lkg.dec.com</email></address></author>
-<date year='1993' month='January' /></front>
-
-<seriesInfo name='RFC' value='1412' />
-<format type='TXT' octets='6952' target='http://www.rfc-editor.org/rfc/rfc1412.txt' />
+<title>Telnet Authentication: SPX</title>
+<author initials='K.' surname='Alagappan' fullname='K. Alagappan'><organization /></author>
+<date year='1993' month='January' />
+<abstract><t>This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1412'/>
+<seriesInfo name='DOI' value='10.17487/RFC1412'/>
 </reference>

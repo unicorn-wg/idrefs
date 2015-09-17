@@ -1,58 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2745'>
-
+<reference  anchor='RFC2745' target='http://www.rfc-editor.org/info/rfc2745'>
 <front>
 <title>RSVP Diagnostic Messages</title>
-<author initials='A.' surname='Terzis' fullname='Andreas Terzis'>
-<organization>UCLA</organization>
-<address>
-<postal>
-<street>4677 Boelter Hall</street>
-<city>Los Angeles</city>
-<region>CA</region>
-<code>90095</code>
-<country>US</country></postal>
-<phone>+1 310 267 2190</phone>
-<email>terzis@cs.ucla.edu</email></address></author>
-<author initials='B.' surname='Braden' fullname='Bob Braden'>
-<organization>USC Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511</phone>
-<email>braden@isi.edu</email></address></author>
-<author initials='S.' surname='Vincent' fullname='Subramaniam Vincent'>
-<organization>Cisco Systems</organization>
-<address>
-<postal>
-<street>275, E Tasman Drive</street>
-<street>MS SJC04/2/1</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134</code>
-<country>US</country></postal>
-<phone>+1 408 525 3474</phone>
-<email>svincent@cisco.com</email></address></author>
-<author initials='L.' surname='Zhang' fullname='Lixia Zhang'>
-<organization>UCLA</organization>
-<address>
-<postal>
-<street>4531G Boelter Hall</street>
-<city>Los Angeles</city>
-<region>CA</region>
-<code>90095</code>
-<country>US</country></postal>
-<phone>+1 310 825 2695</phone>
-<email>lixia@cs.ucla.edu</email></address></author>
+<author initials='A.' surname='Terzis' fullname='A. Terzis'><organization /></author>
+<author initials='B.' surname='Braden' fullname='B. Braden'><organization /></author>
+<author initials='S.' surname='Vincent' fullname='S. Vincent'><organization /></author>
+<author initials='L.' surname='Zhang' fullname='L. Zhang'><organization /></author>
 <date year='2000' month='January' />
-<abstract>
-<t>This document specifies the RSVP diagnostic facility, which allows a user to collect information about the RSVP state along a path.  This specification describes the functionality, diagnostic message formats, and processing rules.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2745' />
-<format type='TXT' octets='52256' target='http://www.rfc-editor.org/rfc/rfc2745.txt' />
+<abstract><t>This document specifies the RSVP diagnostic facility, which allows a user to collect information about the RSVP state along a path. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2745'/>
+<seriesInfo name='DOI' value='10.17487/RFC2745'/>
 </reference>

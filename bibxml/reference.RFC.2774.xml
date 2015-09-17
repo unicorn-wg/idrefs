@@ -1,78 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2774'>
-
+<reference  anchor='RFC2774' target='http://www.rfc-editor.org/info/rfc2774'>
 <front>
 <title>An HTTP Extension Framework</title>
-<author initials='H.' surname='Nielsen' fullname='Henrik Frystyk Nielsen'>
-<organization abbrev='Microsoft'>Microsoft Corporation</organization>
-<address>
-<postal>
-<street>1 Microsoft Way</street>
-<city>Redmond</city>
-<region>WA</region>
-<code>98052</code>
-<country>USA</country></postal>
-<email>frystyk@microsoft.com</email></address></author>
-<author initials='P.' surname='Leach' fullname='Paul J. Leach'>
-<organization abbrev='Microsoft'>Microsoft Corporation</organization>
-<address>
-<postal>
-<street>1 Microsoft Way</street>
-<city>Redmond</city>
-<region>WA</region>
-<code>98052</code>
-<country>USA</country></postal>
-<email>paulle@microsoft.com</email></address></author>
-<author initials='S.' surname='Lawrence' fullname='Scott Lawrence'>
-<organization abbrev='Agranat Systems'>Agranat Systems, Inc.</organization>
-<address>
-<postal>
-<street>5 Clocktower Place, Suite 400</street>
-<city>Maynard</city>
-<region>MA</region>
-<code>01754</code>
-<country>USA</country></postal>
-<email>lawrence@agranat.com</email></address></author>
+<author initials='H.' surname='Nielsen' fullname='H. Nielsen'><organization /></author>
+<author initials='P.' surname='Leach' fullname='P. Leach'><organization /></author>
+<author initials='S.' surname='Lawrence' fullname='S. Lawrence'><organization /></author>
 <date year='2000' month='February' />
-<abstract>
-<t>
-     A wide range of applications have proposed various extensions of the
-     HTTP protocol. Current efforts span an enormous range, including
-     distributed authoring, collaboration, printing, and remote procedure
-     call mechanisms. These HTTP extensions are not coordinated, since
-     there has been no standard framework for defining extensions and
-     thus, separation of concerns. This document describes a generic
-     extension mechanism for HTTP, which is designed to address the
-     tension between private agreement and public specification and to
-     accommodate extension of applications using HTTP clients, servers,
-     and proxies.  The proposal associates each extension with a globally
-     unique identifier, and uses HTTP header fields to carry the extension
-     identifier and related information between the parties involved in
-     the extended communication.
-    </t></abstract>
-<note title='IESG Note'>
-<t>
-     This document was originally requested for Proposed Standard status.
-     However, due to mixed reviews during Last Call and within the HTTP
-     working group, it is being published as an Experimental document.
-     This is not necessarily an indication of technical flaws in the
-     document; rather, there is a more general concern about whether this
-     document actually represents community consensus regarding the
-     evolution of HTTP.  Additional study and discussion are needed before
-     this can be determined.
-  </t>
-<t>
-     Note also that when HTTP is used as a substrate for other protocols,
-     it may be necessary or appropriate to use other extension mechanisms
-     in addition to, or instead of, those defined here.  This document
-     should therefore not be taken as a blueprint for adding extensions to
-     HTTP, but it defines mechanisms that might be useful in such
-     circumstances.
-  </t></note></front>
-
-<seriesInfo name='RFC' value='2774' />
-<format type='TXT' octets='39719' target='http://www.rfc-editor.org/rfc/rfc2774.txt' />
-<format type='HTML' octets='68550' target='http://xml.resource.org/public/rfc/html/rfc2774.html' />
-<format type='XML' octets='52987' target='http://xml.resource.org/public/rfc/xml/rfc2774.xml' />
+<abstract><t>This document describes a generic extension mechanism for HTTP, which is designed to address the tension between private agreement and public specification and to accommodate extension of applications using HTTP clients, servers, and proxies.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2774'/>
+<seriesInfo name='DOI' value='10.17487/RFC2774'/>
 </reference>

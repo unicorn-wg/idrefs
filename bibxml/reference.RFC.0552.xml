@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0552'>
-
+<reference  anchor='RFC0552' target='http://www.rfc-editor.org/info/rfc552'>
 <front>
 <title>Single access to standard protocols</title>
-<author initials='B.' surname='Owen' fullname='Buz Owen'>
-<organization>SDAC, TIP</organization></author>
-<date year='1973' day='13' month='July' />
-<abstract>
-<t>Isn't the idea of a single access protocol simple enough that one could be specified, and a socket reserved for it, before the proposed mail protocol becomes official?  The result would be that MP could be the first protocol implemented under UULP (or whatever it is to be called), and the other protocols could be "moved" as soon as any problems in the official specifications could be worked out, and at the convenience of implementors.</t></abstract></front>
-
-<seriesInfo name='RFC' value='552' />
-<format type='TXT' octets='1404' target='http://www.rfc-editor.org/rfc/rfc552.txt' />
+<author initials='A.D.' surname='Owen' fullname='A.D. Owen'><organization /></author>
+<date year='1973' month='July' />
+</front>
+<seriesInfo name='RFC' value='552'/>
+<seriesInfo name='DOI' value='10.17487/RFC0552'/>
 </reference>

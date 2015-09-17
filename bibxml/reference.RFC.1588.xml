@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1588'>
-
+<reference  anchor='RFC1588' target='http://www.rfc-editor.org/info/rfc1588'>
 <front>
-<title abbrev='White Pages Report'>White Pages Meeting Report</title>
-<author initials='J.' surname='Postel' fullname='Jon Postel'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511</phone>
-<facsimile>+1 310 823 6714</facsimile>
-<email>Postel@ISI.EDU</email></address></author>
-<author initials='C.' surname='Anderson' fullname='Celeste Anderson'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511</phone>
-<facsimile>+1 310 823 6714</facsimile>
-<email>Celeste@ISI.EDU</email></address></author>
-<date year='1994' month='February' /></front>
-
-<seriesInfo name='RFC' value='1588' />
-<format type='TXT' octets='77945' target='http://www.rfc-editor.org/rfc/rfc1588.txt' />
+<title>White Pages Meeting Report</title>
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<author initials='C.' surname='Anderson' fullname='C. Anderson'><organization /></author>
+<date year='1994' month='February' />
+<abstract><t>This report describes the results of a meeting held at the November IETF (Internet Engineering Task Force) in Houston, TX, on November 2, 1993, to discuss the future of and approaches to a white pages directory services for the Internet. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1588'/>
+<seriesInfo name='DOI' value='10.17487/RFC1588'/>
 </reference>

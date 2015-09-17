@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2723'>
-
+<reference  anchor='RFC2723' target='http://www.rfc-editor.org/info/rfc2723'>
 <front>
-<title abbrev='SRL: A Traffic Flow Language'>SRL: A Language for Describing Traffic Flows and Specifying Actions for Flow Groups</title>
-<author initials='N.' surname='Brownlee' fullname='Nevil Brownlee'>
-<organization>The University of Auckland,  Information Technology Systems &amp; Services</organization>
-<address>
-<postal>
-<street>Private Bag 92-019</street>
-<city>Auckland</city>
-<region />
-<code />
-<country>NZ</country></postal>
-<phone>+64 9 3737599x8941</phone>
-<email>n.brownlee@auckland.ac.nz</email></address></author>
+<title>SRL: A Language for Describing Traffic Flows and Specifying Actions for Flow Groups</title>
+<author initials='N.' surname='Brownlee' fullname='N. Brownlee'><organization /></author>
 <date year='1999' month='October' />
-<abstract>
-<t>This document describes a language for specifying rulesets, i.e. configuration files which may be loaded into a traffic flow meter so as to specify which traffic flows are measured by the meter, and the information it will store for each flow.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2723' />
-<format type='TXT' octets='44406' target='http://www.rfc-editor.org/rfc/rfc2723.txt' />
+<abstract><t>This document describes a language for specifying rulesets, i.e. configuration files which may be loaded into a traffic flow meter so as to specify which traffic flows are measured by the meter, and the information it will store for each flow.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2723'/>
+<seriesInfo name='DOI' value='10.17487/RFC2723'/>
 </reference>

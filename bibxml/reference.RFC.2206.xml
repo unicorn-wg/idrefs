@@ -1,54 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2206'>
-
+<reference  anchor='RFC2206' target='http://www.rfc-editor.org/info/rfc2206'>
 <front>
-<title abbrev='RSVP MIB'>RSVP Management Information Base using SMIv2</title>
-<author initials='F.' surname='Baker' fullname='Fred Baker'>
-<organization>Postal: Cisco Systems</organization>
-<address>
-<postal>
-<street>519 Lado Drive</street>
-<street>Santa Barbara</street>
-<street>California 93111</street></postal>
-<phone>+1 805 681 0115</phone>
-<email>fred@cisco.com</email></address></author>
-<author initials='J.' surname='Krawczyk' fullname='John Krawczyk'>
-<organization>Postal: ArrowPoint Communications</organization>
-<address>
-<postal>
-<street>235 Littleton Road</street>
-<street>Westford</street>
-<street>Massachusetts 01886</street></postal>
-<phone>+1 508 692 5875</phone>
-<email>jjk@tiac.net</email></address></author>
-<author initials='A.' surname='Sastry' fullname='Arun Sastry'>
-<organization>Postal: Cisco Systems</organization>
-<address>
-<postal>
-<street>210 W. Tasman Drive</street>
-<street>San Jose</street>
-<street>California 95134</street></postal>
-<phone>+1 408 526 7685</phone>
-<email>arun@cisco.com</email></address></author>
+<title>RSVP Management Information Base using SMIv2</title>
+<author initials='F.' surname='Baker' fullname='F. Baker'><organization /></author>
+<author initials='J.' surname='Krawczyk' fullname='J. Krawczyk'><organization /></author>
+<author initials='A.' surname='Sastry' fullname='A. Sastry'><organization /></author>
 <date year='1997' month='September' />
-<area>Management</area>
-<area>Transport</area>
-<keyword>Management Information Base</keyword>
-<keyword>resource reservation protocol</keyword>
-<keyword>structure of management information version 2</keyword>
-<abstract>
-<t>
-   This memo defines a portion of the Management Information Base (MIB)
-   for use with network management protocols in TCP/IP-based internets.
-   In particular, it defines objects for managing the Resource
-   Reservation Protocol (RSVP) within the interface attributes defined
-   in the Integrated Services Model.  Thus, the Integrated Services MIB
-   is directly relevant to and cross-referenced by this MIB.  Comments
-   should be made to the RSVP Working Group, rsvp@isi.edu.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2206' />
-<format type='TXT' octets='112937' target='http://www.rfc-editor.org/rfc/rfc2206.txt' />
-<format type='XML' octets='107908' target='http://xml.resource.org/public/rfc/xml/rfc2206.xml' />
+<abstract><t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines objects for managing the Resource Reservation Protocol (RSVP) within the interface attributes defined in the Integrated Services Model.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2206'/>
+<seriesInfo name='DOI' value='10.17487/RFC2206'/>
 </reference>

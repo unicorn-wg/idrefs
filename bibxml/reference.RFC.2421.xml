@@ -1,74 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2421'>
-
+<reference  anchor='RFC2421' target='http://www.rfc-editor.org/info/rfc2421'>
 <front>
-<title abbrev='VPIM v2'>Voice Profile for Internet Mail - version 2</title>
-<author initials='G.M.' surname='Vaudreuil' fullname='Gregory M. Vaudreuil'>
-<organization>Lucent Technologies, Octel Messaging Division</organization>
-<address>
-<postal>
-<street>17080 Dallas Parkway</street>
-<city>Dallas</city>
-<region>TX</region>
-<code>75248-1905</code>
-<country>USA</country></postal>
-<phone>+1 972 733 2722</phone>
-<email>GregV@Lucent.Com</email></address></author>
-<author initials='G.W.' surname='Parsons' fullname='Glenn W. Parsons'>
-<organization>Northern Telecom</organization>
-<address>
-<postal>
-<street>P.O. Box 3511</street>
-<street>Station C</street>
-<city>Ottawa</city>
-<region>ON</region>
-<code>K1Y 4H7</code>
-<country>Canada</country></postal>
-<phone>+1 613 763 7582</phone>
-<facsimile>+1 613 763 4461</facsimile>
-<email>Glenn.Parsons@Nortel.ca</email></address></author>
+<title>Voice Profile for Internet Mail - version 2</title>
+<author initials='G.' surname='Vaudreuil' fullname='G. Vaudreuil'><organization /></author>
+<author initials='G.' surname='Parsons' fullname='G. Parsons'><organization /></author>
 <date year='1998' month='September' />
-<area>Applications</area>
-<keyword>audio</keyword>
-<keyword>mail</keyword>
-<abstract>
-<t>
-   A class of special-purpose computers has evolved to provide voice
-   messaging services.  These machines generally interface to a
-   telephone switch and provide call answering and voice messaging
-   services.  Traditionally, messages sent to a non-local machine are
-   transported using analog networking protocols based on DTMF signaling
-   and analog voice playback.  As the demand for networking increases,
-   there is a need for a standard high-quality digital protocol to
-   connect these machines.  The following document is a profile of the
-   Internet standard MIME and ESMTP protocols for use as a digital voice
-   messaging networking protocol. The profile is referred to as VPIM
-   (Voice Profile for Internet Mail) in this document.
-</t>
-<t>
-   This profile is based on earlier work in the Audio Message
-   Interchange Specification (AMIS) group that defined a voice messaging
-   protocol based on X.400 technology.  This profile is intended to
-   satisfy the user requirements statement from that earlier work with
-   the industry standard ESMTP/MIME mail protocol infrastructures
-   already used within corporate intranets. This second version of VPIM
-   is based on implementation experience and obsoletes RFC 1911 which
-   describes version 1 of the profile.
-</t></abstract>
-<note title='Working Group Summary'>
-<t>
-   This profile is not the product of an IETF working group, though
-   several have reviewed the document.  It is instead the product of the
-   VPIM Work Group of the Electronic Messaging Association (EMA).  This
-   work group, which has representatives from most major voice mail
-   vendors and several email vendors, has held several interoperability
-   demonstrations between voice messaging vendors and is currently
-   promoting VPIM trials and deployment.
-</t></note></front>
-
-<seriesInfo name='RFC' value='2421' />
-<format type='TXT' octets='123663' target='http://www.rfc-editor.org/rfc/rfc2421.txt' />
-<format type='HTML' octets='190720' target='http://xml.resource.org/public/rfc/html/rfc2421.html' />
-<format type='XML' octets='183488' target='http://xml.resource.org/public/rfc/xml/rfc2421.xml' />
+<abstract><t>This document profiles Internet mail for voice messaging.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2421'/>
+<seriesInfo name='DOI' value='10.17487/RFC2421'/>
 </reference>

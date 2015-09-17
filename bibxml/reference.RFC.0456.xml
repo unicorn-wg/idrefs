@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0456'>
-
+<reference  anchor='RFC0456' target='http://www.rfc-editor.org/info/rfc456'>
 <front>
 <title>Memorandum: Date change of mail meeting</title>
-<author initials='M.' surname='Kudlick' fullname='M. D. Kudlick'>
-<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
-<date year='1973' day='13' month='February' />
-<abstract>
-<t>This RFC announces a slight change in the meeting time for the Network Mail meeting discussed in RFC #453.</t></abstract></front>
-
-<seriesInfo name='RFC' value='456' />
-<format type='TXT' octets='950' target='http://www.rfc-editor.org/rfc/rfc456.txt' />
+<author initials='M.D.' surname='Kudlick' fullname='M.D. Kudlick'><organization /></author>
+<date year='1973' month='February' />
+</front>
+<seriesInfo name='RFC' value='456'/>
+<seriesInfo name='DOI' value='10.17487/RFC0456'/>
 </reference>

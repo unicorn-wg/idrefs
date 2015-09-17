@@ -1,53 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1701'>
-
+<reference  anchor='RFC1701' target='http://www.rfc-editor.org/info/rfc1701'>
 <front>
 <title>Generic Routing Encapsulation (GRE)</title>
-<author initials='S.' surname='Hanks' fullname='Stan Hanks'>
-<organization>NetSmiths, Ltd.</organization>
-<address>
-<postal>
-<street>2025 Lincoln Highway</street>
-<city>Edison</city>
-<region>NJ</region>
-<code>08817</code>
-<country>US</country></postal>
-<email>stan@netsmiths.com</email></address></author>
-<author initials='T.' surname='Li' fullname='Tony Li'>
-<organization>cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>1525 O'Brien Drive</street>
-<city>Menlo Park</city>
-<region>CA</region>
-<code>94025</code>
-<country>US</country></postal>
-<email>tli@cisco.com</email></address></author>
-<author initials='D.' surname='Farinacci' fullname='Dino Farinacci'>
-<organization>cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>1525 O'Brien Drive</street>
-<city>Menlo Park</city>
-<region>CA</region>
-<code>94025</code>
-<country>US</country></postal>
-<email>dino@cisco.com</email></address></author>
-<author initials='P.' surname='Traina' fullname='Paul Traina'>
-<organization>cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>1525 O'Brien Drive</street>
-<city>Menlo Park</city>
-<region>CA</region>
-<code>94025</code>
-<country>US</country></postal>
-<email>pst@cisco.com</email></address></author>
+<author initials='S.' surname='Hanks' fullname='S. Hanks'><organization /></author>
+<author initials='T.' surname='Li' fullname='T. Li'><organization /></author>
+<author initials='D.' surname='Farinacci' fullname='D. Farinacci'><organization /></author>
+<author initials='P.' surname='Traina' fullname='P. Traina'><organization /></author>
 <date year='1994' month='October' />
-<abstract>
-<t>This document specifies a protocol for performing encapsulation of an arbitrary network layer protocol over another arbitrary network layer  protocol.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1701' />
-<format type='TXT' octets='15460' target='http://www.rfc-editor.org/rfc/rfc1701.txt' />
+<abstract><t>This document specifies a protocol for performing encapsulation of an arbitrary network layer protocol over another arbitrary network layer protocol. This memo provides information for the Internet community. This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1701'/>
+<seriesInfo name='DOI' value='10.17487/RFC1701'/>
 </reference>

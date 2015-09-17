@@ -1,111 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2474'>
-
+<reference  anchor='RFC2474' target='http://www.rfc-editor.org/info/rfc2474'>
 <front>
-<title abbrev='Differentiated Services Field'>Definition of the Differentiated Services Field (DS Field) in the IPv4 and IPv6 Headers</title>
-<author initials='K.' surname='Nichols' fullname='Kathleen Nichols'>
-<organization>Cisco Systems</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134-1706</code>
-<country>USA</country></postal>
-<phone>+1 408 525 4857</phone>
-<email>kmn@cisco.com</email></address></author>
-<author initials='S.' surname='Blake' fullname='Steven Blake'>
-<organization>Torrent Networking Technologies</organization>
-<address>
-<postal>
-<street>3000 Aerial Center</street>
-<city>Morrisville</city>
-<region>NC</region>
-<code>27560</code>
-<country>USA</country></postal>
-<phone>+1 919 468 8466 x232</phone>
-<email>slblake@torrentnet.com</email></address></author>
-<author initials='F.' surname='Baker' fullname='Fred Baker'>
-<organization>Cisco Systems</organization>
-<address>
-<postal>
-<street>519 Lado Drive</street>
-<city> Santa Barbara</city>
-<region>CA</region>
-<code>93111</code>
-<country>USA</country></postal>
-<phone>+1 408 526 4257</phone>
-<email>fred@cisco.com</email></address></author>
-<author initials='D.L.' surname='Black' fullname='David L. Black'>
-<organization>EMC Corporation</organization>
-<address>
-<postal>
-<street>35 Parkwood Drive</street>
-<city>Hopkinton</city>
-<region>MA</region>
-<code>01748</code>
-<country>USA</country></postal>
-<phone>+1 508 435 1000 x76140</phone>
-<email>black_david@emc.com</email></address></author>
+<title>Definition of the Differentiated Services Field (DS Field) in the IPv4 and IPv6 Headers</title>
+<author initials='K.' surname='Nichols' fullname='K. Nichols'><organization /></author>
+<author initials='S.' surname='Blake' fullname='S. Blake'><organization /></author>
+<author initials='F.' surname='Baker' fullname='F. Baker'><organization /></author>
+<author initials='D.' surname='Black' fullname='D. Black'><organization /></author>
 <date year='1998' month='December' />
-<area>Internet</area>
-<keyword>internet protocol version 4</keyword>
-<keyword>IPv6</keyword>
-<keyword>IPv4</keyword>
-<keyword>internet protocol version 6</keyword>
-<keyword>type of service</keyword>
-<abstract>
-<t>
-   Differentiated services enhancements to the Internet protocol are
-   intended to enable scalable service discrimination in the Internet
-   without the need for per-flow state and signaling at every hop.  A
-   variety of services may be built from a small, well-defined set of
-   building blocks which are deployed in network nodes.  The services
-   may be either end-to-end or intra-domain; they include both those
-   that can satisfy quantitative performance requirements (e.g., peak
-   bandwidth) and those based on relative performance (e.g., &quot;class&quot;
-   differentiation).  Services can be constructed by a combination of:
-
-<list>
-<t>
-   - setting bits in an IP header field at network boundaries
-     (autonomous system boundaries, internal administrative boundaries,
-     or hosts),
-</t>
-<t>
-   - using those bits to determine how packets are forwarded by the
-     nodes inside the network, and
-</t>
-<t>
-   - conditioning the marked packets at network boundaries in accordance
-     with the requirements or rules of each service.
-</t></list></t>
-<t>
-   The requirements or rules of each service must be set through
-   administrative policy mechanisms which are outside the scope of this
-   document.  A differentiated services-compliant network node includes
-   a classifier that selects packets based on the value of the DS field,
-   along with buffer management and packet scheduling mechanisms capable
-   of delivering the specific packet forwarding treatment indicated by
-   the DS field value.  Setting of the DS field and conditioning of the
-   temporal behavior of marked packets need only be performed at network
-   boundaries and may vary in complexity.
-</t>
-<t>
-   This document defines the IP header field, called the DS (for
-   differentiated services) field.  In IPv4, it defines the layout of
-   the TOS octet; in IPv6, the Traffic Class octet.  In addition, a base
-   set of packet forwarding treatments, or per-hop behaviors, is
-   defined.
-</t>
-<t>
-   For a more complete understanding of differentiated services, see
-   also the differentiated services architecture .
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2474' />
-<format type='TXT' octets='50576' target='http://www.rfc-editor.org/rfc/rfc2474.txt' />
-<format type='HTML' octets='74968' target='http://xml.resource.org/public/rfc/html/rfc2474.html' />
-<format type='XML' octets='62970' target='http://xml.resource.org/public/rfc/xml/rfc2474.xml' />
+<abstract><t>This document defines the IP header field, called the DS (for differentiated services) field.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2474'/>
+<seriesInfo name='DOI' value='10.17487/RFC2474'/>
 </reference>

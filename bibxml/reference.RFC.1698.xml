@@ -1,27 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1698'>
-
+<reference  anchor='RFC1698' target='http://www.rfc-editor.org/info/rfc1698'>
 <front>
-<title abbrev='ThinOSI Upper-Layers Cookbook'>Octet Sequences for Upper-Layer OSI to Support Basic Communications Applications</title>
-<author initials='P.' surname='Furniss' fullname='Peter Furniss'>
-<organization>Peter Furniss Consultants</organization>
-<address>
-<postal>
-<street>58 Alexandra Crescent</street>
-<city>Bromley, Kent</city>
-<region>England</region>
-<code>BR1 4EX</code>
-<country>UK</country></postal>
-<phone>+44 81 3131833</phone>
-<facsimile>+44 81 3131833</facsimile>
-<email>P.Furniss@ulcc.ac.uk</email></address></author>
+<title>Octet Sequences for Upper-Layer OSI to Support Basic Communications Applications</title>
+<author initials='P.' surname='Furniss' fullname='P. Furniss'><organization /></author>
 <date year='1994' month='October' />
-<abstract>
-<t>This document states particular octet sequences that comprise the OSI upper-layer protocols (Session, Presentation and ACSE) when used to support applications with "basic communications requirements". These include OSI application protocols such as X.400 P7 and Directory Access Protocol, and "migrant" protocols, originally defined for use over other transports.</t>
-<t>As well as the octet sequences which are the supporting layer headers (and trailers) around the application data, this document includes some tutorial material on the OSI upper layers.</t>
-<t>An implementation that sends the octet sequences given here, and interprets the equivalent protocol received, will be able to interwork with an implementation based on the base standard, when both are being used to support an appropriate application protocol.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1698' />
-<format type='TXT' octets='67433' target='http://www.rfc-editor.org/rfc/rfc1698.txt' />
+<abstract><t>This document states particular octet sequences that comprise the OSI upper-layer protocols (Session, Presentation and ACSE) when used to support applications with &quot;basic communications requirements&quot;.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1698'/>
+<seriesInfo name='DOI' value='10.17487/RFC1698'/>
 </reference>

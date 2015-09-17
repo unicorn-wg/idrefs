@@ -1,85 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1436'>
-
+<reference  anchor='RFC1436' target='http://www.rfc-editor.org/info/rfc1436'>
 <front>
-<title abbrev='Gopher'>The Internet Gopher Protocol (a distributed document search and retrieval protocol)</title>
-<author initials='F.' surname='Anklesaria' fullname='Farhad Anklesaria'>
-<organization>University of Minnesota, Computer and Information Services</organization>
-<address>
-<postal>
-<street>100 Union Street SE</street>
-<street>Room 152 Shepherd Labs</street>
-<city>Minneapolis</city>
-<region>MN</region>
-<code>55455</code>
-<country>US</country></postal>
-<phone>+1 612 625 1300</phone>
-<email>fxa@boombox.micro.umn.edu</email></address></author>
-<author initials='M.' surname='McCahill' fullname='Mark McCahill'>
-<organization>University of Minnesota, Computer and Information Services</organization>
-<address>
-<postal>
-<street>100 Union Street SE</street>
-<street>Room 152 Shepherd Labs</street>
-<city>Minneapolis</city>
-<region>MN</region>
-<code>55455</code>
-<country>US</country></postal>
-<phone>+1 612 625 1300</phone>
-<email>mpm@boombox.micro.umn.edu</email></address></author>
-<author initials='P.' surname='Lindner' fullname='Paul Lindner'>
-<organization>University of Minnesota, Computer and Information Services</organization>
-<address>
-<postal>
-<street>100 Union Street SE</street>
-<street>Room 152 Shepherd Labs</street>
-<city>Minneapolis</city>
-<region>MN</region>
-<code>55455</code>
-<country>US</country></postal>
-<phone>+1 612 625 1300</phone>
-<email>lindner@boombox.micro.umn.edu</email></address></author>
-<author initials='D.' surname='Johnson' fullname='David Johnson'>
-<organization>University of Minnesota, Computer and Information Services</organization>
-<address>
-<postal>
-<street>100 Union Street SE</street>
-<street>Room 152 Shepherd Labs</street>
-<city>Minneapolis</city>
-<region>MN</region>
-<code>55455</code>
-<country>US</country></postal>
-<phone>+1 612 625 1300</phone>
-<email>dmj@boombox.micro.umn.edu</email></address></author>
-<author initials='D.' surname='Torrey' fullname='Daniel Torrey'>
-<organization>University of Minnesota, Computer and Information Services</organization>
-<address>
-<postal>
-<street>100 Union Street SE</street>
-<street>Room 152 Shepherd Labs</street>
-<city>Minneapolis</city>
-<region>MN</region>
-<code>55455</code>
-<country>US</country></postal>
-<phone>+1 612 625 1300</phone>
-<email>daniel@boombox.micro.umn.edu</email></address></author>
-<author initials='B.' surname='Alberti' fullname='Bob Alberti'>
-<organization>University of Minnesota, Computer and Information Services</organization>
-<address>
-<postal>
-<street>100 Union Street SE</street>
-<street>Room 152 Shepherd Labs</street>
-<city>Minneapolis</city>
-<region>MN</region>
-<code>55455</code>
-<country>US</country></postal>
-<phone>+1 612 625 1300</phone>
-<email>alberti@boombox.micro.umn.edu</email></address></author>
+<title>The Internet Gopher Protocol (a distributed document search and retrieval protocol)</title>
+<author initials='F.' surname='Anklesaria' fullname='F. Anklesaria'><organization /></author>
+<author initials='M.' surname='McCahill' fullname='M. McCahill'><organization /></author>
+<author initials='P.' surname='Lindner' fullname='P. Lindner'><organization /></author>
+<author initials='D.' surname='Johnson' fullname='D. Johnson'><organization /></author>
+<author initials='D.' surname='Torrey' fullname='D. Torrey'><organization /></author>
+<author initials='B.' surname='Albert' fullname='B. Albert'><organization /></author>
 <date year='1993' month='March' />
-<abstract>
-<t>The Internet Gopher protocol is designed for distributed document search and retrieval.  This document describes the protocol, lists some of the implementations currently available, and has an overview of how to implement new client and server applications.  This document is adapted from the basic Internet Gopher protocol document first issued by the Microcomputer Center at the University of Minnesota in 1991.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1436' />
-<format type='TXT' octets='36493' target='http://www.rfc-editor.org/rfc/rfc1436.txt' />
+<abstract><t>This document describes the protocol, lists some of the implementations currently available, and has an overview of how to implement new client and server applications.  This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1436'/>
+<seriesInfo name='DOI' value='10.17487/RFC1436'/>
 </reference>

@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0147'>
-
+<reference  anchor='RFC0147' target='http://www.rfc-editor.org/info/rfc147'>
 <front>
 <title>Definition of a socket</title>
-<author initials='J.' surname='Winett' fullname='Joel M. Winett'>
-<organization>Massachusetts Institute of Technology (MIT), Lincoln Laboratory</organization></author>
-<date year='1971' day='7' month='May' />
-<abstract>
-<t>A socket is defined to be the unique identification to or from which information is transmitted in the network. The socket is specified as a 32 bit number with even sockets identifying receiving sockets and odd sockets identifying sending sockets. A socket is also identified by the host in which the sending or receiving processer is located.</t></abstract></front>
-
-<seriesInfo name='RFC' value='147' />
-<format type='TXT' octets='6438' target='http://www.rfc-editor.org/rfc/rfc147.txt' />
+<author initials='J.M.' surname='Winett' fullname='J.M. Winett'><organization /></author>
+<date year='1971' month='May' />
+</front>
+<seriesInfo name='RFC' value='147'/>
+<seriesInfo name='DOI' value='10.17487/RFC0147'/>
 </reference>

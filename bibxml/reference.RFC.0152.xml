@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0152'>
-
+<reference  anchor='RFC0152' target='http://www.rfc-editor.org/info/rfc152'>
 <front>
 <title>SRI Artificial Intelligence status report</title>
-<author initials='M.' surname='Wilber' fullname='M. Wilber'>
-<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
-<date year='1971' day='10' month='May' />
-<abstract>
-<t>The Stanford Research Institute's Artificial Intelligence Group (SRAI in the four-letter abbreviations) expects connection to the ARPA net as a research center after conversion this summer to a TENEX from our current PDP-10.</t></abstract></front>
-
-<seriesInfo name='RFC' value='152' />
-<format type='TXT' octets='2726' target='http://www.rfc-editor.org/rfc/rfc152.txt' />
+<author initials='M.' surname='Wilber' fullname='M. Wilber'><organization /></author>
+<date year='1971' month='May' />
+</front>
+<seriesInfo name='RFC' value='152'/>
+<seriesInfo name='DOI' value='10.17487/RFC0152'/>
 </reference>

@@ -1,55 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1452'>
-
+<reference  anchor='RFC1452' target='http://www.rfc-editor.org/info/rfc1452'>
 <front>
-<title abbrev='Coexistence between SNMPv1 and SNMPv2'>Coexistence between version 1 and version 2 of the Internet-standard Network Management Framework</title>
-<author initials='J.D.' surname='Case' fullname='Jeffrey D. Case'>
-<organization>SNMP Research, Inc.</organization>
-<address>
-<postal>
-<street>3001 Kimberlin Heights Rd.</street>
-<city>Knoxville</city>
-<region>TN</region>
-<code>37920-9716</code>
-<country>US</country></postal>
-<phone>+1 615 573 1434</phone>
-<email>case@snmp.com</email></address></author>
-<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
-<organization>Hughes, LAN Systems</organization>
-<address>
-<postal>
-<street>1225 Charleston Road</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043</code>
-<country>US</country></postal>
-<phone>+1 415 966 7934</phone>
-<email>kzm@hls.com</email></address></author>
-<author initials='M.T.' surname='Rose' fullname='Marshall T. Rose'>
-<organization>Dover Beach Consulting, Inc.</organization>
-<address>
-<postal>
-<street>420 Whisman Court</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043-2186</code>
-<country>US</country></postal>
-<phone>+1 415 968 1052</phone>
-<email>mrose@dbc.mtview.ca.us</email></address></author>
-<author initials='S.' surname='Waldbusser' fullname='Steven Waldbusser'>
-<organization>Carnegie Mellon University</organization>
-<address>
-<postal>
-<street>4910 Forbes Ave</street>
-<city>Pittsburgh</city>
-<region>PA</region>
-<code>15213</code>
-<country>US</country></postal>
-<phone>+1 412 268 6628</phone>
-<email>waldbusser@cmu.edu</email></address></author>
-<date year='1993' month='April' /></front>
-
-<seriesInfo name='RFC' value='1452' />
-<format type='TXT' octets='32176' target='http://www.rfc-editor.org/rfc/rfc1452.txt' />
+<title>Coexistence between version 1 and version 2 of the Internet-standard Network Management Framework</title>
+<author initials='J.' surname='Case' fullname='J. Case'><organization /></author>
+<author initials='K.' surname='McCloghrie' fullname='K. McCloghrie'><organization /></author>
+<author initials='M.' surname='Rose' fullname='M. Rose'><organization /></author>
+<author initials='S.' surname='Waldbusser' fullname='S. Waldbusser'><organization /></author>
+<date year='1993' month='April' />
+<abstract><t>The purpose of this document is to describe coexistence between version 2 of the Internet-standard Network Management Framework, termed the SNMP version 2 framework (SNMPv2) [1], and the original Internet-standard Network Management Framework (SNMPv1).  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1452'/>
+<seriesInfo name='DOI' value='10.17487/RFC1452'/>
 </reference>

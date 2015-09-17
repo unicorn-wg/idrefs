@@ -1,38 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2476'>
-
+<reference  anchor='RFC2476' target='http://www.rfc-editor.org/info/rfc2476'>
 <front>
 <title>Message Submission</title>
-<author initials='R.' surname='Gellens' fullname='Randall Gellens'>
-<organization>QUALCOMM Incorporated</organization>
-<address>
-<postal>
-<street>6455 Lusk Blvd.</street>
-<city>San Diego</city>
-<region>CA</region>
-<code>92121-2779</code>
-<country>USA</country></postal>
-<phone>+1 619 651 5115</phone>
-<facsimile>+1 619 651 5334</facsimile>
-<email>Randy@Qualcomm.Com</email></address></author>
-<author initials='J.C.' surname='Klensin' fullname='John C. Klensin'>
-<organization>MCI Telecommunications</organization>
-<address>
-<postal>
-<street>800 Boylston St, 7th floor</street>
-<city>Boston</city>
-<region>MA</region>
-<code>02199</code>
-<country>USA</country></postal>
-<phone>+1 617 960 1011</phone>
-<email>klensin@mci.net</email></address></author>
+<author initials='R.' surname='Gellens' fullname='R. Gellens'><organization /></author>
+<author initials='J.' surname='Klensin' fullname='J. Klensin'><organization /></author>
 <date year='1998' month='December' />
-<area>Applications</area>
-<keyword>SMTP</keyword></front>
-
-<seriesInfo name='RFC' value='2476' />
-<format type='TXT' octets='30050' target='http://www.rfc-editor.org/rfc/rfc2476.txt' />
-<format type='HTML' octets='57442' target='http://xml.resource.org/public/rfc/html/rfc2476.html' />
-<format type='XML' octets='52905' target='http://xml.resource.org/public/rfc/xml/rfc2476.xml' />
+<abstract><t>This memo describes a low cost, deterministic means for messages to be identified as submissions, and specifies what actions are to be taken by a submission server.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2476'/>
+<seriesInfo name='DOI' value='10.17487/RFC2476'/>
 </reference>

@@ -1,26 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1965'>
-
+<reference  anchor='RFC1965' target='http://www.rfc-editor.org/info/rfc1965'>
 <front>
 <title>Autonomous System Confederations for BGP</title>
-<author initials='P.' surname='Traina' fullname='Paul Traina'>
-<organization>cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 W. Tasman Dr.</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134</code>
-<country>US</country></postal>
-<email>pst@cisco.com</email></address></author>
+<author initials='P.' surname='Traina' fullname='P. Traina'><organization /></author>
 <date year='1996' month='June' />
-<abstract>
-<t>Border Gateway Protocolis an inter-autonomous system routing protocol designed for TCP/IP networks.</t>
-<t>This document describes an extension to BGP which may be used to create a confederation of autonomous systems which is represented as one single autonomous system to BGP peers external to the confederation.</t>
-<t>The intention of this extension is to aid in policy administration and reduce the management complexity of maintaining a large autonomous system.</t>
-<t>The extension this document describes is widely deployed in the Internet today.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1965' />
-<format type='TXT' octets='13575' target='http://www.rfc-editor.org/rfc/rfc1965.txt' />
+<abstract><t>This document describes an extension to BGP which may be used to create a confederation of autonomous systems which is represented as one single autonomous system to BGP peers external to the confederation.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1965'/>
+<seriesInfo name='DOI' value='10.17487/RFC1965'/>
 </reference>

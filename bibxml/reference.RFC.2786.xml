@@ -1,30 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2786'>
-
+<reference  anchor='RFC2786' target='http://www.rfc-editor.org/info/rfc2786'>
 <front>
-<title abbrev='Diffie-Helman USM Key'>Diffie-Helman USM Key Management Information Base and Textual Convention</title>
-<author initials='M.' surname='St.Johns' fullname='Michael C. St.Johns'>
-<organization>Excite@Home</organization>
-<address>
-<postal>
-<street>450 Broadway</street>
-<city>Redwood City</city>
-<region>CA</region>
-<code>94063</code>
-<country>US</country></postal>
-<phone>+1 650 556 5368</phone>
-<email>stjohns@corp.home.net</email></address></author>
+<title>Diffie-Helman USM Key Management Information Base and Textual Convention</title>
+<author initials='M.' surname='St. Johns' fullname='M. St. Johns'><organization /></author>
 <date year='2000' month='March' />
-<abstract>
-<t>This memo defines an experimental portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it defines a textual convention for doing Diffie-Helman key agreement key exchanges and a set of objects which extend the usmUserTable to permit the use of a DH key exchange in addition to the key change method described in. In otherwords, this MIB adds the possibility of forward secrecy to the USM model.  It also defines a set of objects that can be used to kick start security on an SNMPv3 agent when the out of band path is authenticated, but not necessarily private or confidential.</t>
-<t>The KeyChange textual convention described inpermits secure key changes, but has the property that if a third-party has knowledge of the original key (e.g. if the agent was manufactured with a standard default key) and could capture all SNMP exchanges, the third-party would know the new key.  The Diffie-Helman key change described here</t>
-<t>limits knowledge of the new key to the agent and the manager making the change.  In otherwords, this process adds forward secrecy to the key change process.</t>
-<t>The recommendation inis that the usmUserTable be populated out of band - e.g. not via SNMP.  If the number of agents to be configured is small, this can be done via a console port and manually.  If the number of agents is large, as is the case for a cable modem system, the manual approach doesn't scale well.  The    combination of the two mechanisms specified here - the DH key change mechanism, and the DH key ignition mechanism - allows managable use of SNMPv3 USM in a system of millions of devices.</t>
-<t>This memo specifies a MIB module in a manner that is compliant to the SNMP SMIv2,,.  The set of objects is consistent with the SNMP framework and existing SNMP standards and is intended for use with the SNMPv3 User Security Model MIB and other security related MIBs.</t>
-<t>The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",  "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this    document are to be interpreted as described in.</t>
-<t>This memo is a private submission by the author, but is applicable to the SNMPv3 working group within the Internet Engineering Task Force. Comments are solicited and should be addressed to the the author.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2786' />
-<format type='TXT' octets='43280' target='http://www.rfc-editor.org/rfc/rfc2786.txt' />
+<abstract><t>This memo defines an experimental portion of the Management Information Base (MIB) for use with network management protocols the Internet community.  In particular, it defines a textual convention for doing Diffie-Helman key agreement key exchanges an set of objects which extend the usmUserTable to permit the use of DH key exchange in addition to the key change method.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2786'/>
+<seriesInfo name='DOI' value='10.17487/RFC2786'/>
 </reference>

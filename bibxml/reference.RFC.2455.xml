@@ -1,51 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2455'>
-
+<reference  anchor='RFC2455' target='http://www.rfc-editor.org/info/rfc2455'>
 <front>
-<title abbrev='APPN MIB'>Definitions of Managed Objects for APPN</title>
-<author initials='B.' surname='Clouston' fullname='Bob Clouston'>
-<organization>Cisco Systems</organization>
-<address>
-<postal>
-<street>7025 Kit Creek Road</street>
-<street>P.O. Box 14987</street>
-<street>Research Triangle Park</street>
-<region>NC</region>
-<code>27709</code>
-<country>USA</country></postal>
-<phone>+1 919 472 2333</phone>
-<email>clouston@cisco.com</email></address></author>
-<author initials='R.' surname='Moore' fullname='Robert Moore'>
-<organization>IBM Corporation</organization>
-<address>
-<postal>
-<street>3039 Cornwallis</street>
-<street>Dept. BRQA/Bldg. 501/G114</street>
-<street>P.O.Box 12195</street>
-<street>Research Triangle Park</street>
-<region>NC</region>
-<code>27709</code>
-<country>USA</country></postal>
-<phone>+1 919 254 4436</phone>
-<email>remoore@us.ibm.com</email></address></author>
+<title>Definitions of Managed Objects for APPN</title>
+<author initials='B.' surname='Clouston' fullname='B. Clouston'><organization /></author>
+<author initials='B.' surname='Moore' fullname='B. Moore'><organization /></author>
 <date year='1998' month='November' />
-<area>Management</area>
-<keyword>IBM SNA advanced peer-to-peer networking</keyword>
-<keyword>Management Information Base</keyword>
-<keyword>managed object</keyword>
-<abstract>
-<t>
-   This memo defines a portion of the Management Information Base (MIB)
-   for use with network management protocols in the Internet community.
-   In particular, it defines objects for monitoring and controlling
-   network devices with APPN (Advanced Peer-to-Peer Networking)
-   capabilities.  This memo identifies managed objects for the APPN
-   protocol.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2455' />
-<format type='TXT' octets='251061' target='http://www.rfc-editor.org/rfc/rfc2455.txt' />
-<format type='HTML' octets='266837' target='http://xml.resource.org/public/rfc/html/rfc2455.html' />
-<format type='XML' octets='276878' target='http://xml.resource.org/public/rfc/xml/rfc2455.xml' />
+<abstract><t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it defines objects for monitoring and controlling network devices with APPN (Advanced Peer-to-Peer Networking) capabilities.  This memo identifies managed objects for the APPN protocol.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2455'/>
+<seriesInfo name='DOI' value='10.17487/RFC2455'/>
 </reference>

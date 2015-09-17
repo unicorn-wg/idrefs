@@ -1,26 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1524'>
-
+<reference  anchor='RFC1524' target='http://www.rfc-editor.org/info/rfc1524'>
 <front>
-<title abbrev='Multimedia Mail Configuration'>A User Agent Configuration Mechanism For Multimedia Mail Format Information</title>
-<author initials='N.S.' surname='Borenstein' fullname='Nathaniel S. Borenstein'>
-<organization>Bellcore</organization>
-<address>
-<postal>
-<street>445 South St.</street>
-<street>MRE 2D-296</street>
-<city>Morristown</city>
-<region>NJ</region>
-<code>07962-1910</code>
-<country>US</country></postal>
-<phone>+1 201 829 4270</phone>
-<facsimile>+1 201 829 7019</facsimile>
-<email>nsb@bellcore.com</email></address></author>
+<title>A User Agent Configuration Mechanism For Multimedia Mail Format Information</title>
+<author initials='N.' surname='Borenstein' fullname='N. Borenstein'><organization /></author>
 <date year='1993' month='September' />
-<abstract>
-<t>This memo suggests a file format to be used to inform multiple mail reading user agent programs about the locally-installed facilities for handling mail in various formats.  The mechanism is explicitly designed to work with mail systems based Internet mail as defined by RFC's 821 (STD 10), 822 (STD 11), 934, 1049 (STD 11), 1113, and the Multipurpose Internet Mail Extensions, known as MIME.  However, with some extensions it could probably be made to work for X.400-based mail systems as well.  The format and mechanism are proposed in a manner that is generally operating-system independent.  However, certain implementation details will inevitably reflect operating system differences, some of which will have to be handled in a uniform manner for each operating system.  This memo makes such situations explicit, and, in an appendix, suggests a standard behavior under the UNIX operating system.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1524' />
-<format type='TXT' octets='26464' target='http://www.rfc-editor.org/rfc/rfc1524.txt' />
+<abstract><t>This memo suggests a file format to be used to inform multiple mail reading user agent programs about the locally-installed facilities for handling mail in various formats. This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1524'/>
+<seriesInfo name='DOI' value='10.17487/RFC1524'/>
 </reference>

@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2237'>
-
+<reference  anchor='RFC2237' target='http://www.rfc-editor.org/info/rfc2237'>
 <front>
-<title abbrev='Japanese Character Encoding'>Japanese Character Encoding for Internet Messages</title>
-<author initials='K.' surname='Tamaru' fullname='Kenzaburo Tamaru'>
-<organization>Microsoft Corporation</organization>
-<address>
-<postal>
-<street>One Microsoft Way</street>
-<street>Redmond</street>
-<street>WA 98052-6399</street></postal>
-<email>kenzat@microsoft.com</email></address></author>
+<title>Japanese Character Encoding for Internet Messages</title>
+<author initials='K.' surname='Tamaru' fullname='K. Tamaru'><organization /></author>
 <date year='1997' month='November' />
-<area>Applications</area>
-<keyword>Japanese</keyword>
-<keyword>character encoding</keyword>
-<keyword>internet message</keyword></front>
-
-<seriesInfo name='RFC' value='2237' />
-<format type='TXT' octets='11628' target='http://www.rfc-editor.org/rfc/rfc2237.txt' />
-<format type='HTML' octets='21987' target='http://xml.resource.org/public/rfc/html/rfc2237.html' />
-<format type='XML' octets='9336' target='http://xml.resource.org/public/rfc/xml/rfc2237.xml' />
+<abstract><t>This memo defines an encoding scheme for the Japanese Characters, describes &quot;ISO-2022-JP-1&quot;, which is used in electronic mail [RFC-822], and network news [RFC 1036]. Also this memo provides a listing of the Japanese Character Set that can be used in this encoding scheme.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2237'/>
+<seriesInfo name='DOI' value='10.17487/RFC2237'/>
 </reference>

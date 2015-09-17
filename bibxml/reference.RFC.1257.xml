@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1257'>
-
+<reference  anchor='RFC1257' target='http://www.rfc-editor.org/info/rfc1257'>
 <front>
-<title abbrev='Isochronous and Jitter'>Isochronous applications do not require jitter-controlled networks</title>
-<author initials='C.' surname='Partridge' fullname='Craig Partridge'>
-<organization>Swedish Institute of Computer Science</organization>
-<address>
-<postal>
-<street>Box 1263</street>
-<city>Kista</city>
-<region />
-<code>164 28</code>
-<country>SE</country></postal>
-<phone>+46 8 7521524</phone>
-<email>craig@SICS.SE</email></address></author>
-<date year='1991' day='1' month='September' />
-<abstract>
-<t>This memo argues that jitter control is not required for networks to support isochronous applications.  A network providing bandwidth and bounds delay is sufficient.  The implications for gigabit internetworking protocols are briefly considered.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1257' />
-<format type='TXT' octets='11075' target='http://www.rfc-editor.org/rfc/rfc1257.txt' />
+<title>Isochronous applications do not require jitter-controlled networks</title>
+<author initials='C.' surname='Partridge' fullname='C. Partridge'><organization /></author>
+<date year='1991' month='September' />
+<abstract><t>This memo argues that jitter control is not required for networks to support isochronous applications. This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1257'/>
+<seriesInfo name='DOI' value='10.17487/RFC1257'/>
 </reference>

@@ -1,17 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0129'>
-
+<reference  anchor='RFC0129' target='http://www.rfc-editor.org/info/rfc129'>
 <front>
 <title>Request for comments on socket name structure</title>
-<author initials='E.' surname='Harslem' fullname='E. E. Harslem'>
-<organization>Rand Corporation</organization></author>
-<author initials='J.' surname='Heafner' fullname='J. F. Heafner'>
-<organization>Rand Corporation</organization></author>
-<author initials='E.' surname='Meyer' fullname='E. Meyer'>
-<organization>Massachusetts Institute of Technology (MIT)</organization></author>
-<date year='1971' day='22' month='April' /></front>
-
-<seriesInfo name='RFC' value='129' />
-<format type='TXT' octets='11175' target='http://www.rfc-editor.org/rfc/rfc129.txt' />
+<author initials='E.' surname='Harslem' fullname='E. Harslem'><organization /></author>
+<author initials='J.' surname='Heafner' fullname='J. Heafner'><organization /></author>
+<author initials='E.' surname='Meyer' fullname='E. Meyer'><organization /></author>
+<date year='1971' month='April' />
+</front>
+<seriesInfo name='RFC' value='129'/>
+<seriesInfo name='DOI' value='10.17487/RFC0129'/>
 </reference>

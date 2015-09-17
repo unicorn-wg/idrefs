@@ -1,36 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2510'>
-
+<reference  anchor='RFC2510' target='http://www.rfc-editor.org/info/rfc2510'>
 <front>
-<title abbrev='PKI Certificate Management Protocols'>Internet X.509 Public Key Infrastructure Certificate Management Protocols</title>
-<author initials='C.' surname='Adams' fullname='Carlisle Adams'>
-<organization>Entrust Technologies</organization>
-<address>
-<postal>
-<street>750 Heron Road</street>
-<street>Suite E08</street>
-<city>Ottawa</city>
-<region>Ontario</region>
-<code>K1V 1A7</code>
-<country>CA</country></postal>
-<email>cadams@entrust.com</email></address></author>
-<author initials='S.' surname='Farrell' fullname='Stephen Farrell'>
-<organization>Software and Systems Engineering Ltd.</organization>
-<address>
-<postal>
-<street>Fitzwilliam Court</street>
-<street>Leeson Close</street>
-<city>Dublin</city>
-<region />
-<code>2</code>
-<country>IE</country></postal>
-<email>stephen.farrell@sse.ie</email></address></author>
+<title>Internet X.509 Public Key Infrastructure Certificate Management Protocols</title>
+<author initials='C.' surname='Adams' fullname='C. Adams'><organization /></author>
+<author initials='S.' surname='Farrell' fullname='S. Farrell'><organization /></author>
 <date year='1999' month='March' />
-<abstract>
-<t>This document describes the Internet X.509 Public Key Infrastructure (PKI) Certificate Management Protocols. Protocol messages are defined for all relevant aspects of certificate creation and management. Note that "certificate" in this document refers to an X.509v3 Certificate as defined in,</t>
-<t>The key words "MUST", "MUST NOT", "REQUIRED", "SHOULD", "SHOULD NOT",  "RECOMMENDED", "MAY", and "OPTIONAL" in this document (in uppercase, as shown) are to be interpreted as described in.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2510' />
-<format type='TXT' octets='158178' target='http://www.rfc-editor.org/rfc/rfc2510.txt' />
+<abstract><t>This document describes the Internet X.509 Public Key Infrastructure (PKI) Certificate Management Protocols.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2510'/>
+<seriesInfo name='DOI' value='10.17487/RFC2510'/>
 </reference>

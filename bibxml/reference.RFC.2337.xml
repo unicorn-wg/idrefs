@@ -1,62 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2337'>
-
+<reference  anchor='RFC2337' target='http://www.rfc-editor.org/info/rfc2337'>
 <front>
-<title abbrev='IP multicast over ATM using PIM'>Intra-LIS IP multicast among routers over ATM using Sparse Mode PIM</title>
-<author initials='D.' surname='Farinacci' fullname='Dino Farinacci'>
-<organization>Cisco Systems</organization>
-<address>
-<postal>
-<street>170 Tasman Dr.</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134</code></postal>
-<phone>(408) 526-4696</phone>
-<email>dino@cisco.com</email></address></author>
-<author initials='D.' surname='Meyer' fullname='David Meyer'>
-<organization>Cisco Systems</organization>
-<address>
-<postal>
-<street>170 Tasman Dr.</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134</code></postal>
-<phone>(541) 687-2581</phone>
-<email>dmm@cisco.com</email></address></author>
-<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
-<organization>cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 Tasman Dr.</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134</code></postal>
-<phone>(914) 528-0090</phone>
-<email>yakov@cisco.com</email></address></author>
+<title>Intra-LIS IP multicast among routers over ATM using Sparse Mode PIM</title>
+<author initials='D.' surname='Farinacci' fullname='D. Farinacci'><organization /></author>
+<author initials='D.' surname='Meyer' fullname='D. Meyer'><organization /></author>
+<author initials='Y.' surname='Rekhter' fullname='Y. Rekhter'><organization /></author>
 <date year='1998' month='April' />
-<area>Internet</area>
-<keyword>asynchronous transfer mode</keyword>
-<keyword>MARS</keyword>
-<keyword>multicast</keyword>
-<keyword>router</keyword>
-<keyword>routing</keyword>
-<abstract>
-<t>
-   This document describes how intra-LIS IP multicast can be efficiently
-
-   supported among routers over ATM without using the Multicast Address
-
-   Resolution Server (MARS). The method described here is specific to
-
-   Sparse Mode PIM [PIM-SM], and relies on the explicit join mechanism
-
-   inherent in PIM-SM to notify routers when they should create group
-
-   specific point-to-multipoint VCs.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2337' />
-<format type='TXT' octets='16357' target='http://www.rfc-editor.org/rfc/rfc2337.txt' />
-<format type='XML' octets='18665' target='http://xml.resource.org/public/rfc/xml/rfc2337.xml' />
+<abstract><t>This document describes how intra-LIS IP multicast can be efficiently supported among routers over ATM without using the Multicast Address Resolution Server (MARS).  This memo defines an Experimental Protocol for the Internet community.  It does not specify an Internet standard of any kind.  Discussion and suggestions for improvement are requested.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2337'/>
+<seriesInfo name='DOI' value='10.17487/RFC2337'/>
 </reference>

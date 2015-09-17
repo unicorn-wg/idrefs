@@ -1,47 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2730'>
-
+<reference  anchor='RFC2730' target='http://www.rfc-editor.org/info/rfc2730'>
 <front>
-<title abbrev='MADCAP'>Multicast Address Dynamic Client Allocation Protocol (MADCAP)</title>
-<author initials='S.R.' surname='Hanna' fullname='Stephen R. Hanna'>
-<organization>Sun Microsystems, Inc.</organization>
-<address>
-<postal>
-<street>One Network Drive</street>
-<city>Burlington</city>
-<region>MA</region>
-<code>01803</code>
-<country>US</country></postal>
-<phone>+1 781 442 0166</phone>
-<email>steve.hanna@sun.com</email></address></author>
-<author initials='B.V.' surname='Patel' fullname='Baiju V. Patel'>
-<organization>Intel Corp.</organization>
-<address>
-<postal>
-<street>5200 NE Elam Young Parkway</street>
-<street>Mail Stop: AG2-201</street>
-<city>Hillsboro</city>
-<region>OR</region>
-<code>97124</code>
-<country>US</country></postal>
-<phone>+1 503 696 8192</phone>
-<email>baiju.v.patel@intel.com</email></address></author>
-<author initials='M.' surname='Shah' fullname='Munil Shah'>
-<organization>Microsoft Corporation</organization>
-<address>
-<postal>
-<street>One Microsoft Way</street>
-<city>Redmond</city>
-<region>WA</region>
-<code>98052</code>
-<country>US</country></postal>
-<phone>+1 425 703 3924</phone>
-<email>munils@microsoft.com</email></address></author>
+<title>Multicast Address Dynamic Client Allocation Protocol (MADCAP)</title>
+<author initials='S.' surname='Hanna' fullname='S. Hanna'><organization /></author>
+<author initials='B.' surname='Patel' fullname='B. Patel'><organization /></author>
+<author initials='M.' surname='Shah' fullname='M. Shah'><organization /></author>
 <date year='1999' month='December' />
-<abstract>
-<t>This document defines a protocol, Multicast Address Dynamic Client  Allocation Protocol (MADCAP), that allows hosts to request multicast addresses from multicast address allocation servers.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2730' />
-<format type='TXT' octets='120341' target='http://www.rfc-editor.org/rfc/rfc2730.txt' />
+<abstract><t>This document defines a protocol, Multicast Address Dynamic Client Allocation Protocol (MADCAP), that allows hosts to request multicast addresses from multicast address allocation servers.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2730'/>
+<seriesInfo name='DOI' value='10.17487/RFC2730'/>
 </reference>

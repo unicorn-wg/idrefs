@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0035'>
-
+<reference  anchor='RFC0035' target='http://www.rfc-editor.org/info/rfc35'>
 <front>
 <title>Network Meeting</title>
-<author initials='S.' surname='Crocker' fullname='Steve Crocker'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<date year='1970' day='3' month='March' />
-<abstract>
-<t>I expect to have the details of the new network protocol as outlined in NWG/RFC #33ready in two weeks.</t></abstract></front>
-
-<seriesInfo name='RFC' value='35' />
-<format type='TXT' octets='1282' target='http://www.rfc-editor.org/rfc/rfc35.txt' />
+<author initials='S.D.' surname='Crocker' fullname='S.D. Crocker'><organization /></author>
+<date year='1970' month='March' />
+</front>
+<seriesInfo name='RFC' value='35'/>
+<seriesInfo name='DOI' value='10.17487/RFC0035'/>
 </reference>

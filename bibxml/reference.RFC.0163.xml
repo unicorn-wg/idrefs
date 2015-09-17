@@ -1,17 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0163'>
-
+<reference  anchor='RFC0163' target='http://www.rfc-editor.org/info/rfc163'>
 <front>
 <title>Data transfer protocols</title>
-<author initials='V.' surname='Cerf' fullname='V. Cerf'>
-<organization>University of California, Los Angeles  (UCLA), Computer Science Department, Network Measurement Center (NMC)</organization></author>
-<date year='1971' day='19' month='May' />
-<abstract>
-<t>This is an informal statement of material discussed at the SJCC.  There are two problems.</t>
-<t>1.  Movement of data from one site to another.</t>
-<t>2.  Interpretation of the data at receiving site.</t></abstract></front>
-
-<seriesInfo name='RFC' value='163' />
-<format type='TXT' octets='5465' target='http://www.rfc-editor.org/rfc/rfc163.txt' />
+<author initials='V.G.' surname='Cerf' fullname='V.G. Cerf'><organization /></author>
+<date year='1971' month='May' />
+</front>
+<seriesInfo name='RFC' value='163'/>
+<seriesInfo name='DOI' value='10.17487/RFC0163'/>
 </reference>

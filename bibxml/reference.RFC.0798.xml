@@ -1,21 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0798'>
-
+<reference  anchor='RFC0798' target='http://www.rfc-editor.org/info/rfc798'>
 <front>
-<title abbrev='DECODING FACSIMILE DATA'>Decoding facsimile data from the Rapicom 450</title>
-<author initials='A.' surname='Katz' fullname='Alan R. Katz'>
-<organization>University of Southern California (USC)/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90291</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone></address></author>
-<date year='1981' day='1' month='September' /></front>
-
-<seriesInfo name='RFC' value='798' />
-<format type='TXT' octets='38867' target='http://www.rfc-editor.org/rfc/rfc798.txt' />
+<title>Decoding facsimile data from the Rapicom 450</title>
+<author initials='A.R.' surname='Katz' fullname='A.R. Katz'><organization /></author>
+<date year='1981' month='September' />
+</front>
+<seriesInfo name='RFC' value='798'/>
+<seriesInfo name='DOI' value='10.17487/RFC0798'/>
 </reference>

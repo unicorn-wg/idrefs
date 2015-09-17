@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1552'>
-
+<reference  anchor='RFC1552' target='http://www.rfc-editor.org/info/rfc1552'>
 <front>
-<title abbrev='PPP IPXCP'>The PPP Internetworking Packet Exchange Control Protocol (IPXCP)</title>
-<author initials='W.' surname='Simpson' fullname='William Allen Simpson'>
-<organization>Daydreamer, Computer Systems Consulting Services</organization>
-<address>
-<postal>
-<street>P O Box 6205</street>
-<city>East Lansing</city>
-<region>MI</region>
-<code>48826-6205</code>
-<country>US</country></postal>
-<email>Bill.Simpson@um.cc.umich.edu</email></address></author>
+<title>The PPP Internetworking Packet Exchange Control Protocol (IPXCP)</title>
+<author initials='W.' surname='Simpson' fullname='W. Simpson'><organization /></author>
 <date year='1993' month='December' />
-<abstract>
-<t>The Point-to-Point Protocol (PPP)provides a method for transmitting multi-protocol datagrams over point-to-point links.  PPP defines an extensible Link Control Protocol, and proposes a family of Network Control Protocols for establishing and configuring different network-layer protocols.</t>
-<t>The IPX protocol was originally used in Novell's NetWare products, and is now supported by numerous other vendors.  This document defines the Network Control Protocol for establishing and configuring the IPX protocol over PPP.</t>
-<t>This memo is the product of the Point-to-Point Protocol Working Group of the IETF.  Comments should be submitted to the ietf-ppp@ucdavis.edu mailing list.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1552' />
-<format type='TXT' octets='29173' target='http://www.rfc-editor.org/rfc/rfc1552.txt' />
+<abstract><t>This document defines the Network Control Protocol for establishing and configuring the IPX protocol over PPP. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1552'/>
+<seriesInfo name='DOI' value='10.17487/RFC1552'/>
 </reference>

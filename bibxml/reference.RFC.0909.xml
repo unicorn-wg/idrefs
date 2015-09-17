@@ -1,15 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0909'>
-
+<reference  anchor='RFC0909' target='http://www.rfc-editor.org/info/rfc909'>
 <front>
-<title abbrev='LDP Specification'>Loader Debugger Protocol</title>
-<author initials='C.' surname='Welles' fullname='Christopher Welles'>
-<organization>Bolt Baranek and Newman Communications Corporation (BBNCC)</organization></author>
-<author initials='W.' surname='Milliken' fullname='Walter Milliken'>
-<organization>Bolt Baranek and Newman (BBN) Laboratories</organization></author>
-<date year='1984' day='1' month='July' /></front>
-
-<seriesInfo name='RFC' value='909' />
-<format type='TXT' octets='209813' target='http://www.rfc-editor.org/rfc/rfc909.txt' />
+<title>Loader Debugger Protocol</title>
+<author initials='C.' surname='Welles' fullname='C. Welles'><organization /></author>
+<author initials='W.' surname='Milliken' fullname='W. Milliken'><organization /></author>
+<date year='1984' month='July' />
+<abstract><t>The Loader Debugger Protocol (LDP) is an application layer protocol for    loading, dumping, and debugging target machines from hosts in a network    environment.  This RFC specifies a proposed protocol for the    ARPA-Internet and DARPA research community, and requests discussion and    suggestions for improvemts.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='909'/>
+<seriesInfo name='DOI' value='10.17487/RFC0909'/>
 </reference>

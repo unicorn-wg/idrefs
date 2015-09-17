@@ -1,43 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2443'>
-
+<reference  anchor='RFC2443' target='http://www.rfc-editor.org/info/rfc2443'>
 <front>
-<title abbrev='MARS Service Using SCSP'>A Distributed MARS Service Using SCSP</title>
-<author initials='J.V.' surname='Luciani' fullname='James V. Luciani'>
-<organization>Bay Networks, Inc.</organization>
-<address>
-<postal>
-<street>3 Federal Street</street>
-<street>BL3-04</street>
-<street>Billerica</street>
-<street>MA  01821</street></postal>
-<phone>+1-508-916-4734</phone>
-<email>luciani@baynetworks.com</email></address></author>
-<author initials='A.M.' surname='Gallo' fullname='Anthony M. Gallo'>
-<organization>IBM, Networking Hardware Division</organization>
-<address>
-<postal>
-<street>Dept. M6LA/B664</street>
-<street>P.O. Box 12195</street>
-<street>Research Triangle Park</street>
-<street>NC 27709</street></postal>
-<phone>+1-919-254-9889</phone>
-<email>gallo@raleigh.ibm.com</email></address></author>
+<title>A Distributed MARS Service Using SCSP</title>
+<author initials='J.' surname='Luciani' fullname='J. Luciani'><organization /></author>
+<author initials='A.' surname='Gallo' fullname='A. Gallo'><organization /></author>
 <date year='1998' month='November' />
-<area>Internet</area>
-<keyword>MARS</keyword>
-<keyword>cache</keyword>
-<abstract>
-<t>
-   This document describes a method for distributing a MARS service
-   within a LIS.  This method uses the Server Cache Synchronization
-   Protocol (SCSP) to synchronize the MARS Server databases within a
-   LIS.  When SCSP is used to synchronize the caches of MARS Servers in
-   a LIS, the LIS defines the boundary of an SCSP Server Group (SG).
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2443' />
-<format type='TXT' octets='41451' target='http://www.rfc-editor.org/rfc/rfc2443.txt' />
-<format type='XML' octets='43637' target='http://xml.resource.org/public/rfc/xml/rfc2443.xml' />
+<abstract><t>This document describes a method for distributing a MARS service within a LIS.  This method uses the Server Cache Synchronization Protocol (SCSP) to synchronize the MARS Server databases within a LIS.  When SCSP is used to synchronize the caches of MARS Servers in a LIS, the LIS defines the boundary of an SCSP Server Group (SG).  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2443'/>
+<seriesInfo name='DOI' value='10.17487/RFC2443'/>
 </reference>

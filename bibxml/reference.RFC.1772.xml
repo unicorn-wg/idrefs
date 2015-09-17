@@ -1,38 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1772'>
-
+<reference  anchor='RFC1772' target='http://www.rfc-editor.org/info/rfc1772'>
 <front>
-<title abbrev='BGP-4 Application'>Application of the Border Gateway Protocol in the Internet</title>
-<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
-<organization>IBM Corporation, T.J. Watson Research Center</organization>
-<address>
-<postal>
-<street>P.O. Box 704</street>
-<street>Office H3-D40</street>
-<city>Yorktown Heights</city>
-<region>NY</region>
-<code>10598</code>
-<country>US</country></postal>
-<phone>+1 914 784 7361</phone>
-<email>yakov@watson.ibm.com</email></address></author>
-<author initials='P.' surname='Gross' fullname='Phill Gross'>
-<organization>MCI Data Services Division</organization>
-<address>
-<postal>
-<street>2100 Reston Parkway</street>
-<street>Room 6001</street>
-<city>Reston</city>
-<region>VA</region>
-<code>22091</code>
-<country>US</country></postal>
-<phone>+1 703 715 7432</phone>
-<email>0006423401@mcimail.com</email></address></author>
+<title>Application of the Border Gateway Protocol in the Internet</title>
+<author initials='Y.' surname='Rekhter' fullname='Y. Rekhter'><organization /></author>
+<author initials='P.' surname='Gross' fullname='P. Gross'><organization /></author>
 <date year='1995' month='March' />
-<abstract>
-<t>This document, together with its companion document, "A Border Gateway Protocol 4 (BGP-4)", define an inter-autonomous system routing protocol for the Internet.  "A Border Gateway Protocol 4 (BGP-4)" defines the BGP protocol specification, and this document describes the usage of the BGP in the Internet.</t>
-<t>Information about the progress of BGP can be monitored and/or reported on the BGP mailing list (bgp@ans.net).</t></abstract></front>
-
-<seriesInfo name='RFC' value='1772' />
-<format type='TXT' octets='43916' target='http://www.rfc-editor.org/rfc/rfc1772.txt' />
+<abstract><t>This document, together with its companion document, &quot;A Border Gateway Protocol 4 (BGP-4)&quot;, define an inter-autonomous system routing protocol for the Internet. This document describes the usage of the BGP in the Internet.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1772'/>
+<seriesInfo name='DOI' value='10.17487/RFC1772'/>
 </reference>

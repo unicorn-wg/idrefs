@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1506'>
-
+<reference  anchor='RFC1506' target='http://www.rfc-editor.org/info/rfc1506'>
 <front>
-<title abbrev='X.400-Internet Mail Gatewaying Tutorial'>A Tutorial on Gatewaying between X.400 and Internet Mail</title>
-<author initials='J.' surname='Houttuin' fullname='Jeroen Houttuin'>
-<organization>RARE Secretariat</organization>
-<address>
-<postal>
-<street>Singel 466-468</street>
-<city>Amsterdam</city>
-<region />
-<code>NL-1017 AW</code>
-<country>NL</country></postal>
-<phone>+31 20 6391131</phone>
-<facsimile>+31 20 6393289</facsimile>
-<email>houttuin@rare.nl</email></address></author>
+<title>A Tutorial on Gatewaying between X.400 and Internet Mail</title>
+<author initials='J.' surname='Houttuin' fullname='J. Houttuin'><organization /></author>
 <date year='1993' month='August' />
-<abstract>
-<t></t></abstract></front>
-
-<seriesInfo name='RFC' value='1506' />
-<format type='TXT' octets='85550' target='http://www.rfc-editor.org/rfc/rfc1506.txt' />
+<abstract><t>This tutorial was produced especially to help new gateway managers find their way into the complicated subject of mail gatewaying according to RFC 1327. This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1506'/>
+<seriesInfo name='DOI' value='10.17487/RFC1506'/>
 </reference>

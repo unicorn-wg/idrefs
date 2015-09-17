@@ -1,37 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1533'>
-
+<reference  anchor='RFC1533' target='http://www.rfc-editor.org/info/rfc1533'>
 <front>
 <title>DHCP Options and BOOTP Vendor Extensions</title>
-<author initials='S.' surname='Alexander' fullname='Steve Alexander'>
-<organization>Lachman Technology, Inc.</organization>
-<address>
-<postal>
-<street>1901 North Naper Boulevard</street>
-<city>Naperville</city>
-<region>IL</region>
-<code>60563-8895</code>
-<country>US</country></postal>
-<phone>+1 708 505 9555 x256</phone>
-<email>stevea@lachman.com</email></address></author>
-<author initials='R.' surname='Droms' fullname='Ralph Droms'>
-<organization>Bucknell University, Computer Science Department</organization>
-<address>
-<postal>
-<street>323 Dana Engineering</street>
-<city>Lewisburg</city>
-<region>PA</region>
-<code>17837</code>
-<country>US</country></postal>
-<phone>+1 717 524 1145</phone>
-<email>droms@bucknell.edu</email></address></author>
+<author initials='S.' surname='Alexander' fullname='S. Alexander'><organization /></author>
+<author initials='R.' surname='Droms' fullname='R. Droms'><organization /></author>
 <date year='1993' month='October' />
-<abstract>
-<t>The Dynamic Host Configuration Protocol (DHCP)provides a framework for passing configuration information to hosts on a TCP/IP network.  Configuration parameters and other control information are carried in tagged data items that are stored in the "options" field of the DHCP message.  The data items themselves are also called "options."</t>
-<t>This document specifies the current set of DHCP options.  This document will be periodically updated as new options are defined. Each superseding document will include the entire current list of valid options.</t>
-<t>All of the vendor information extensions defined in RFC 1497may be used as DHCP options.  The definitions given in RFC 1497 are included in this document, which supersedes RFC 1497.  All of the DHCP options defined in this document, except for those specific to DHCP as defined in section 9, may be used as BOOTP vendor information extensions.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1533' />
-<format type='TXT' octets='50919' target='http://www.rfc-editor.org/rfc/rfc1533.txt' />
+<abstract><t>This document specifies the current set of DHCP options. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1533'/>
+<seriesInfo name='DOI' value='10.17487/RFC1533'/>
 </reference>

@@ -1,17 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0884'>
-
+<reference  anchor='RFC0884' target='http://www.rfc-editor.org/info/rfc884'>
 <front>
 <title>Telnet terminal type option</title>
-<author initials='M.' surname='Solomon' fullname='Marvin Solomon'>
-<organization>University of Wisconsin - Madison</organization></author>
-<author initials='E.' surname='Wimmers' fullname='Edward Wimmers'>
-<organization>University of Wisconsin - Madison</organization></author>
-<date year='1983' day='1' month='December' />
-<abstract>
-<t>This RFC specifies a standard for the ARPA Internet community.  Hosts on the ARPA Internet that exchange terminal type information within the Telnet protocol are expected to adopt and implement this standard.</t></abstract></front>
-
-<seriesInfo name='RFC' value='884' />
-<format type='TXT' octets='7881' target='http://www.rfc-editor.org/rfc/rfc884.txt' />
+<author initials='M.' surname='Solomon' fullname='M. Solomon'><organization /></author>
+<author initials='E.' surname='Wimmers' fullname='E. Wimmers'><organization /></author>
+<date year='1983' month='December' />
+<abstract><t>This RFC specifies a standard for the ARPA Internet community.  It    specifies a method for exchanging terminal type information in the    Telnet protocol.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='884'/>
+<seriesInfo name='DOI' value='10.17487/RFC0884'/>
 </reference>

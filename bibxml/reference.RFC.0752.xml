@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0752'>
-
+<reference  anchor='RFC0752' target='http://www.rfc-editor.org/info/rfc752'>
 <front>
 <title>Universal host table</title>
-<author initials='M.' surname='Crispin' fullname='Mark Crispin'>
-<organization>Stanford University, Artifical Intelligence</organization></author>
-<date year='1979' day='2' month='January' />
-<abstract>
-<t>The network host table in use at MITand Stanford is described. This host table is superior to the NIC and Tenex host tables in several ways.  A binary file, compiled from this host table, is also described. This file  is used  by subsystems on  MIT's  ITS and Stanford's  WAITS timesharing systems for efficiency in host and network lookups.</t></abstract></front>
-
-<seriesInfo name='RFC' value='752' />
-<format type='TXT' octets='33793' target='http://www.rfc-editor.org/rfc/rfc752.txt' />
+<author initials='M.R.' surname='Crispin' fullname='M.R. Crispin'><organization /></author>
+<date year='1979' month='January' />
+</front>
+<seriesInfo name='RFC' value='752'/>
+<seriesInfo name='DOI' value='10.17487/RFC0752'/>
 </reference>

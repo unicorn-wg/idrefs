@@ -1,29 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1405'>
-
+<reference  anchor='RFC1405' target='http://www.rfc-editor.org/info/rfc1405'>
 <front>
-<title abbrev='Mail-11 Mapping'>Mapping between X.400(1984/1988) and Mail-11 (DECnet mail)</title>
-<author initials='C.' surname='Allocchio' fullname='Claudio Allocchio'>
-<organization>Italian National Institute for Nuclear Physics (INFN), Sincrotrone Trieste, Cosine S2.2</organization>
-<address>
-<postal>
-<street>Area di Ricerca</street>
-<street>Padriciano 99</street>
-<city>Trieste</city>
-<region />
-<code>I 34012</code>
-<country>IT</country></postal>
-<phone>+39 40 3758523</phone>
-<facsimile>+39 40 226338</facsimile>
-<email>Claudio.Allocchio@elettra.Trieste.it</email></address></author>
+<title>Mapping between X.400(1984/1988) and Mail-11 (DECnet mail)</title>
+<author initials='C.' surname='Allocchio' fullname='C. Allocchio'><organization /></author>
 <date year='1993' month='January' />
-<abstract>
-<t>This document describes a set of mappings which will enable inter working between systems operating the CCITT X.400 ( 1984 / 1988 ). Recommendations on Message Handling Systems, and systems running the Mail-11 (also known as DECnet mail) protocol. The specifications are valid within DECnet Phase IV addressing and routing scheme.</t>
-<t>The complete scenario of X.400 / RFC822 / Mail-11 is also considered, in order to cover the possible complex cases arising in multiple gateway translations.</t>
-<t>This document covers mainly the O/R address to DECnet from/to address mapping (and vice versa); other mappings are based on RFC 1327 and its eventual future updates.</t>
-<t>This is a combined effort of COSINE S2.2, the RARE MSG Working Group, and the IETF X.400 Ops Working Group.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1405' />
-<format type='TXT' octets='33885' target='http://www.rfc-editor.org/rfc/rfc1405.txt' />
+<abstract><t>This document describes a set of mappings which will enable inter working between systems operating the CCITT X.400 ( 1984 / 1988 ) Recommendations on Message Handling Systems, and systems running the Mail-11 (also known as DECnet mail) protocol.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1405'/>
+<seriesInfo name='DOI' value='10.17487/RFC1405'/>
 </reference>

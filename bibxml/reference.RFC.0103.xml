@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0103'>
-
+<reference  anchor='RFC0103' target='http://www.rfc-editor.org/info/rfc103'>
 <front>
 <title>Implementation of Interrupt Keys</title>
-<author initials='R.' surname='Kalin' fullname='R. B. Kalin'>
-<organization>Massachusetts Institute of Technology (MIT), Lincoln Laboratory (LL)</organization></author>
-<date year='1971' day='24' month='February' />
-<abstract>
-<t>The current protocol specifications contain a serious logical error in the implementation of the program interrupt function.  This paper discusses the problem and offers a solution that is simple to implement.</t></abstract></front>
-
-<seriesInfo name='RFC' value='103' />
-<format type='TXT' octets='7592' target='http://www.rfc-editor.org/rfc/rfc103.txt' />
+<author initials='R.B.' surname='Kalin' fullname='R.B. Kalin'><organization /></author>
+<date year='1971' month='February' />
+</front>
+<seriesInfo name='RFC' value='103'/>
+<seriesInfo name='DOI' value='10.17487/RFC0103'/>
 </reference>

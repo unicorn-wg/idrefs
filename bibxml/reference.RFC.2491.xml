@@ -1,72 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2491'>
-
+<reference  anchor='RFC2491' target='http://www.rfc-editor.org/info/rfc2491'>
 <front>
-<title abbrev='IPv6 over NBMA networks'>IPv6 over Non-Broadcast Multiple Access (NBMA) networks</title>
-<author initials='G.' surname='Armitage' fullname='Grenville Armitage'>
-<organization>Bell Laboratories, Lucent Technologies</organization>
-<address>
-<postal>
-<street>101 Crawfords Corner Road</street>
-<street>Holmdel</street>
-<street>NJ 07733</street>
-<country>USA</country></postal>
-<email>gja@lucent.com</email></address></author>
-<author initials='P.' surname='Schulter' fullname='Peter Schulter'>
-<organization>Bright Tiger Technologies</organization>
-<address>
-<postal>
-<street>125 Nagog Park</street>
-<street>Acton</street>
-<street>MA 01720</street></postal>
-<email>paschulter@acm.org</email></address></author>
-<author initials='M.' surname='Jork' fullname='Markus Jork'>
-<organization>European Applied Research Center</organization>
-<address>
-<postal>
-<street>Digital Equipment GmbH</street>
-<street>CEC Karlsruhe</street>
-<street>Vincenz-Priessnitz-Str. 1</street>
-<street>D-76131 Karlsruhe</street>
-<country>Germany</country></postal>
-<email>jork@kar.dec.com</email></address></author>
-<author initials='G.' surname='Harter' fullname='Geraldine Harter'>
-<organization>Digital UNIX Networking</organization>
-<address>
-<postal>
-<street>Compaq Computer Corporation</street>
-<street>110 Spit Brook Road</street>
-<street>Nashua</street>
-<street>NH 03062</street></postal>
-<email>harter@zk3.dec.com</email></address></author>
+<title>IPv6 over Non-Broadcast Multiple Access (NBMA) networks</title>
+<author initials='G.' surname='Armitage' fullname='G. Armitage'><organization /></author>
+<author initials='P.' surname='Schulter' fullname='P. Schulter'><organization /></author>
+<author initials='M.' surname='Jork' fullname='M. Jork'><organization /></author>
+<author initials='G.' surname='Harter' fullname='G. Harter'><organization /></author>
 <date year='1999' month='January' />
-<area>Internet</area>
-<keyword>broadcast</keyword>
-<keyword>frame relay</keyword>
-<keyword>internet protocol version 6</keyword>
-<keyword>non-broadcast multiple access</keyword>
-<keyword>point-to-point protocol</keyword>
-<abstract>
-<t>
-   This document describes a general architecture for IPv6 over NBMA
-   networks. It forms the basis for subsidiary companion documents that
-   describe details for various specific NBMA technologies (such as ATM
-   or Frame Relay). The IPv6 over NBMA architecture allows conventional
-   host-side operation of the IPv6 Neighbor Discovery protocol, while
-   also supporting the establishment of &apos;shortcut&apos; NBMA forwarding paths
-   when dynamically signaled NBMA links are available. Operations over
-   administratively configured Point to Point NBMA links are also
-   described.
-</t>
-<t>
-   Dynamic NBMA shortcuts are achieved through the use of IPv6 Neighbor
-   Discovery protocol operation within Logical Links, and inter-router
-   NHRP for the discovery of off-Link NBMA destinations. Both flow-
-   triggered and explicitly source-triggered shortcuts are supported.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2491' />
-<format type='TXT' octets='100782' target='http://www.rfc-editor.org/rfc/rfc2491.txt' />
-<format type='XML' octets='107218' target='http://xml.resource.org/public/rfc/xml/rfc2491.xml' />
+<abstract><t>This document describes a general architecture for IPv6 over NBMA networks.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2491'/>
+<seriesInfo name='DOI' value='10.17487/RFC2491'/>
 </reference>

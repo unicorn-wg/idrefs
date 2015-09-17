@@ -1,45 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1602'>
-
+<reference  anchor='RFC1602' target='http://www.rfc-editor.org/info/rfc1602'>
 <front>
-<title abbrev='Internet Standards Process'>The Internet Standards Process -- Revision 2</title>
-<author initials='C.' surname='Huitema' fullname='Christian Huitema'>
-<organization>INRIA, Sophia-Antipolis</organization>
-<address>
-<postal>
-<street>2004 Route des Lucioles</street>
-<street>BP 109</street>
-<city>Valbonne Cedex</city>
-<region />
-<code>F-06561</code>
-<country>FR</country></postal>
-<phone>+33 93 657715</phone>
-<email>Christian.Huitema@MIRSA.INRIA.FR</email></address></author>
-<author initials='P.' surname='Gross' fullname='Phill Gross'>
-<organization>MCI Data Services Division</organization>
-<address>
-<postal>
-<street>2100 Reston Parkway</street>
-<street>Room 6001</street>
-<city>Reston</city>
-<region>VA</region>
-<code>22091</code>
-<country>US</country></postal>
-<phone>+1 703 715 7432</phone>
-<facsimile>+1 703 715 7436</facsimile>
-<email>0006423401@mcimail.com</email></address></author>
+<title>The Internet Standards Process -- Revision 2</title>
+<author><organization>Internet Architecture Board</organization></author>
+<author><organization>Internet Engineering Steering Group</organization></author>
 <date year='1994' month='March' />
-<abstract>
-<t>This document is a revision of RFC 1310, which defined the official procedures for creating and documenting Internet Standards.</t>
-<t>This revision (revision 2) includes the following major changes:</t>
-<t>(a)  The new management structure arising from the POISED Working Group is reflected.  These changes were agreed to by the IETF plenary and by the IAB and IESG in November 1992 and accepted by the ISOC Board of Trustees at their December 1992 meeting.</t>
-<t>(b)  Prototype status is added to the non-standards track maturity levels (Section 2.4.1).</t>
-<t>(c)  The Intellectual Property Rights section is completely revised, in accordance with legal advice.  Section 5 of this document replaces Sections 5 and 6 of RFC-1310.  The new section 5 has been reviewed by legal counsel to the Internet Society.</t>
-<t>(d)  An appeals procedure is added (Section 3.6).</t>
-<t>(e)  The wording of sections 1 and 1.2 has been changed to clarify the relationships that exist between the Internet Society and the IAB, the IESG, the IETF, and the Internet Standards process.</t>
-<t>(f)  An Appendix B has been added, listing the contact points for the RFC editor, the IANA, the IESG, the IAB and the ISOC. The "future issues" are now listed in Appendix C.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1602' />
-<format type='TXT' octets='88465' target='http://www.rfc-editor.org/rfc/rfc1602.txt' />
+<abstract><t>This document is a revision of RFC 1310, which defined the official procedures for creating and documenting Internet Standards.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1602'/>
+<seriesInfo name='DOI' value='10.17487/RFC1602'/>
 </reference>

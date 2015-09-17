@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1304'>
-
+<reference  anchor='RFC1304' target='http://www.rfc-editor.org/info/rfc1304'>
 <front>
-<title abbrev='SIP Objects'>Definitions of Managed Objects for the SIP Interface Type</title>
-<author initials='T.' surname='Cox' fullname='Tracy A. Cox'>
-<organization>Bell Communications Research</organization>
-<address>
-<postal>
-<street>331 Newman Springs Road</street>
-<city>Red Bank</city>
-<region>NJ</region>
-<code>07701</code>
-<country>US</country></postal>
-<phone>+1 908 758 2107</phone>
-<email>tacox@sabre.bellcore.com</email></address></author>
-<author initials='K.' surname='Tesink' fullname='Kaj Tesink'>
-<organization>Bell Communications Research</organization>
-<address>
-<postal>
-<street>331 Newman Springs Road</street>
-<city>Red Bank</city>
-<region>NJ</region>
-<code>07701</code>
-<country>US</country></postal>
-<phone>+1 908 758 5254</phone>
-<email>kaj@nvuxr.cc.bellcore.com</email></address></author>
+<title>Definitions of Managed Objects for the SIP Interface Type</title>
+<author initials='T.' surname='Cox' fullname='T. Cox'><organization /></author>
+<author initials='K.' surname='Tesink.' fullname='K. Tesink.' role='editor'><organization /></author>
 <date year='1992' month='February' />
-<abstract>
-<t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets. In particular, it defines objects for managing SIP (SMDS Interface Protocol) objects.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1304' />
-<format type='TXT' octets='52491' target='http://www.rfc-editor.org/rfc/rfc1304.txt' />
+<abstract><t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines objects for managing SIP (SMDS Interface Protocol) objects.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1304'/>
+<seriesInfo name='DOI' value='10.17487/RFC1304'/>
 </reference>

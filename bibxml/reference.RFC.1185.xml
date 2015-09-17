@@ -1,44 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1185'>
-
+<reference  anchor='RFC1185' target='http://www.rfc-editor.org/info/rfc1185'>
 <front>
-<title abbrev='TCP over High-Speed Paths'>TCP Extension for High-Speed Paths</title>
-<author initials='V.' surname='Jacobson' fullname='Van Jacobson'>
-<organization>University of California, Lawrence Berkeley Laboratory</organization>
-<address>
-<postal>
-<street>Mail Stop 46A</street>
-<city>Berkeley</city>
-<region>CA</region>
-<code>94720</code>
-<country>US</country></postal>
-<phone>+1 415 486 6411</phone>
-<email>van@CSAM.LBL.GOV</email></address></author>
-<author initials='B.' surname='Braden' fullname='Bob Braden'>
-<organization>University of Southern California (USC), Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone>
-<email>Braden@ISI.EDU</email></address></author>
-<author initials='L.' surname='Zhang' fullname='Lixia Zhang'>
-<organization>XEROX, Palo Alto Research Center (PARC)</organization>
-<address>
-<postal>
-<street>3333 Coyote Hill Road</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94304</code>
-<country>US</country></postal>
-<phone>+1 415 494 4415</phone>
-<email>lixia@PARC.XEROX.COM</email></address></author>
-<date year='1990' day='1' month='October' /></front>
-
-<seriesInfo name='RFC' value='1185' />
-<format type='TXT' octets='49508' target='http://www.rfc-editor.org/rfc/rfc1185.txt' />
+<title>TCP Extension for High-Speed Paths</title>
+<author initials='V.' surname='Jacobson' fullname='V. Jacobson'><organization /></author>
+<author initials='R.T.' surname='Braden' fullname='R.T. Braden'><organization /></author>
+<author initials='L.' surname='Zhang' fullname='L. Zhang'><organization /></author>
+<date year='1990' month='October' />
+<abstract><t>This memo describes an Experimental Protocol extension to TCP for the Internet community, and requests discussion and suggestions for improvements.  Please refer to the current edition of the &quot;IAB Official Protocol Standards&quot; for the standardization state and status of this protocol.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1185'/>
+<seriesInfo name='DOI' value='10.17487/RFC1185'/>
 </reference>

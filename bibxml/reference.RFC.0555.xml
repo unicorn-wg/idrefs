@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0555'>
-
+<reference  anchor='RFC0555' target='http://www.rfc-editor.org/info/rfc555'>
 <front>
 <title>Responses to critiques of the proposed mail protocol</title>
-<author initials='J.' surname='White' fullname='James E. White'>
-<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
-<date year='1973' day='27' month='July' />
-<abstract>
-<t>A number of people have responded to my proposal for a Mail Protocol (JEW RFC 524 -- 17140,2:y).  In the current RFC, I've attempted to collect and respond to the questions, complaints, and suggestions that various individuals in the Network community have offered.  I intend to critique myself in a forthcoming RFC.</t></abstract></front>
-
-<seriesInfo name='RFC' value='555' />
-<format type='TXT' octets='21521' target='http://www.rfc-editor.org/rfc/rfc555.txt' />
+<author initials='J.E.' surname='White' fullname='J.E. White'><organization /></author>
+<date year='1973' month='July' />
+</front>
+<seriesInfo name='RFC' value='555'/>
+<seriesInfo name='DOI' value='10.17487/RFC0555'/>
 </reference>

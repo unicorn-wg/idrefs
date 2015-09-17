@@ -1,27 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1810'>
-
+<reference  anchor='RFC1810' target='http://www.rfc-editor.org/info/rfc1810'>
 <front>
 <title>Report on MD5 Performance</title>
-<author initials='J.' surname='Touch' fullname='Joe Touch'>
-<organization>University of Southern California, Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292-6695</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511 x151</phone>
-<facsimile>+1 310 823 6714</facsimile>
-<email>touch@isi.edu</email>
-<uri>ftp://ftp.isi.edu/pub/hpcc-papers/touch/</uri></address></author>
+<author initials='J.' surname='Touch' fullname='J. Touch'><organization /></author>
 <date year='1995' month='June' />
-<abstract>
-<t>MD5 is an authentication algorithm, which has been proposed as the default authentication option in IPv6.  When enabled, the MD5 algorithm operates over the entire data packet, including header. This RFC addresses how fast MD5 can be implemented in software and hardware, and whether it supports currently available IP bandwidth. MD5 can be implemented in existing hardware technology at 256 Mbps, and in software at 87 Mbps.  These rates cannot support current IP rates, e.g., 100 Mbps TCP and 130 Mbps UDP over ATM.  If MD5 cannot
-   support existing network bandwidth using existing technology, it will not scale as network speeds increase in the future.  This RFC is intended to alert the IP community about the performance limitations of MD5, and to suggest that alternatives be considered for use in high speed IP implementations.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1810' />
-<format type='TXT' octets='16607' target='http://www.rfc-editor.org/rfc/rfc1810.txt' />
+<abstract><t>This RFC addresses how fast MD5 can be implemented in software and hardware, and whether it supports currently available IP bandwidth. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1810'/>
+<seriesInfo name='DOI' value='10.17487/RFC1810'/>
 </reference>

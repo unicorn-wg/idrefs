@@ -1,17 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0892'>
-
+<reference  anchor='RFC0892' target='http://www.rfc-editor.org/info/rfc892'>
 <front>
-<title abbrev='ISO Transport Protocol Specification International Standards Organization'>ISO Transport Protocol specification</title>
-<author>
-<organization>International Organization for Standardization (ISO)</organization></author>
-<date year='1983' day='1' month='December' />
-<abstract>
-<t>This document is distributed as an RFC for information only. It does not specify a standard for the ARPA Internet. Note:  This document appeared in:</t>
-<t>ISO/TC97/SC16/WG6.  Information Processing Systems - Open Systems Interconnection - Transport Protocol Specification.  Computer Communication Review 12, 3-4 (July/October 1982), pp.  24-67.</t>
-<t>and differs from it only in format.</t></abstract></front>
-
-<seriesInfo name='RFC' value='892' />
-<format type='TXT' octets='158151' target='http://www.rfc-editor.org/rfc/rfc892.txt' />
+<title>ISO Transport Protocol specification</title>
+<author><organization>International Organization for Standardization</organization></author>
+<date year='1983' month='December' />
+<abstract><t>This is a draft version of the transport protocol being standardized    by the ISO.  This version also appeared in the ACM SIGCOMM Computer    Communication Review (V.12, N.3-4) July-October 1982.  This version    is now out of date.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='892'/>
+<seriesInfo name='DOI' value='10.17487/RFC0892'/>
 </reference>

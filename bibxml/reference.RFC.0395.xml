@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0395'>
-
+<reference  anchor='RFC0395' target='http://www.rfc-editor.org/info/rfc395'>
 <front>
 <title>Switch Settings on IMPs and TIPs</title>
-<author initials='J.' surname='McQuillan' fullname='John M. McQuillan'>
-<organization>Bolt Beranek and Newman Inc.(BBN)</organization></author>
-<date year='1972' day='3' month='October' />
-<abstract>
-<t>This note provides a description of the switches on the front panel of IMPs and TIPs that are important to the correct operation of the network software.  We have had some difficulty in the past when certain of these switches were set incorrectly, This RFC will be updated as necessary, to notify site personnel of changes to the settings.</t></abstract></front>
-
-<seriesInfo name='RFC' value='395' />
-<format type='TXT' octets='1827' target='http://www.rfc-editor.org/rfc/rfc395.txt' />
+<author initials='J.M.' surname='McQuillan' fullname='J.M. McQuillan'><organization /></author>
+<date year='1972' month='October' />
+</front>
+<seriesInfo name='RFC' value='395'/>
+<seriesInfo name='DOI' value='10.17487/RFC0395'/>
 </reference>

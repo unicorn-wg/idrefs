@@ -1,103 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2719'>
-
+<reference  anchor='RFC2719' target='http://www.rfc-editor.org/info/rfc2719'>
 <front>
 <title>Framework Architecture for Signaling Transport</title>
-<author initials='L.' surname='Ong' fullname='Lyndon Ong'>
-<organization>Nortel Networks</organization>
-<address>
-<postal>
-<street>4401 Great America Parkway</street>
-<city>Santa Clara</city>
-<region>CA</region>
-<code>95054</code>
-<country>US</country></postal>
-<email>long@nortelnetworks.com</email></address></author>
-<author initials='I.' surname='Rytina' fullname='Ian Rytina'>
-<organization>Ericsson Australia</organization>
-<address>
-<postal>
-<street>37/360 Elizabeth Street</street>
-<city>Melbourne</city>
-<region>Victoria</region>
-<code>3000</code>
-<country>AU</country></postal>
-<email>ian.rytina@ericsson.com</email></address></author>
-<author initials='M.' surname='Garcia' fullname='Miguel-Angel Garcia'>
-<organization>Ericsson Espana</organization>
-<address>
-<postal>
-<street>Retama 7</street>
-<city>Madrid</city>
-<region />
-<code>28005</code>
-<country>ES</country></postal>
-<email>Miguel.A.Garcia@ericsson.com</email></address></author>
-<author initials='H.' surname='Schwarzbauer' fullname='HannsJuergen Schwarzbauer'>
-<organization>SIEMENS AG</organization>
-<address>
-<postal>
-<street>Hofmannstr. 51</street>
-<city>Munich</city>
-<region />
-<code>81359</code>
-<country>DE</country></postal>
-<email>HannsJuergen.Schwarzbauer@icn.siemens.de</email></address></author>
-<author initials='L.' surname='Coene' fullname='Lode Coene'>
-<organization>Siemens Atea</organization>
-<address>
-<postal>
-<street>Atealaan 34</street>
-<city>Herentals</city>
-<region />
-<code />
-<country>BE</country></postal>
-<email>lode.coene@siemens.atea.be</email></address></author>
-<author initials='H.' surname='Lin' fullname='Haui-an Paul Lin'>
-<organization>Telcordia Technologies</organization>
-<address>
-<postal>
-<street />
-<city>Piscataway</city>
-<region>NJ</region>
-<code>08854-4157</code>
-<country>US</country></postal>
-<email>hlin@research.telcordia.com</email></address></author>
-<author initials='I.' surname='Juhasz' fullname='Imre Juhasz'>
-<organization>Telia</organization>
-<address>
-<postal>
-<street />
-<city />
-<region />
-<code />
-<country>SE</country></postal>
-<email>imre.i.juhasz@telia.se</email></address></author>
-<author initials='M.' surname='Holdrege' fullname='Matt Holdrege'>
-<organization>Lucent Technologies</organization>
-<address>
-<postal>
-<street>1701 Harbor Bay Parkway</street>
-<city>Alameda</city>
-<region>CA</region>
-<code>94502</code>
-<country>US</country></postal>
-<email>holdrege@lucent.com</email></address></author>
-<author initials='C.' surname='Sharp' fullname='Chip Sharp'>
-<organization>Cisco Systems</organization>
-<address>
-<postal>
-<street>7025 Kit Creek Road</street>
-<city>Research Triangle Park</city>
-<region>NC</region>
-<code>27709</code>
-<country>US</country></postal>
-<email>chsharp@cisco.com</email></address></author>
+<author initials='L.' surname='Ong' fullname='L. Ong'><organization /></author>
+<author initials='I.' surname='Rytina' fullname='I. Rytina'><organization /></author>
+<author initials='M.' surname='Garcia' fullname='M. Garcia'><organization /></author>
+<author initials='H.' surname='Schwarzbauer' fullname='H. Schwarzbauer'><organization /></author>
+<author initials='L.' surname='Coene' fullname='L. Coene'><organization /></author>
+<author initials='H.' surname='Lin' fullname='H. Lin'><organization /></author>
+<author initials='I.' surname='Juhasz' fullname='I. Juhasz'><organization /></author>
+<author initials='M.' surname='Holdrege' fullname='M. Holdrege'><organization /></author>
+<author initials='C.' surname='Sharp' fullname='C. Sharp'><organization /></author>
 <date year='1999' month='October' />
-<abstract>
-<t>This document defines an architecture framework and functional requirements for transport of signaling information over IP.  The framework describes relationships between functional and physical entities exchanging signaling information, such as Signaling Gateways and Media Gateway Controllers.  It identifies interfaces where signaling transport may be used and the functional and performance requirements that apply from existing Switched Circuit Network (SCN) signaling protocols.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2719' />
-<format type='TXT' octets='48646' target='http://www.rfc-editor.org/rfc/rfc2719.txt' />
+<abstract><t>This document defines an architecture framework and functional requirements for transport of signaling information over IP.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2719'/>
+<seriesInfo name='DOI' value='10.17487/RFC2719'/>
 </reference>

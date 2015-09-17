@@ -1,17 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0040'>
-
+<reference  anchor='RFC0040' target='http://www.rfc-editor.org/info/rfc40'>
 <front>
 <title>More Comments on the Forthcoming Protocol</title>
-<author initials='E.' surname='Harslem' fullname='E. Harslem'>
-<organization>Rand Corporation</organization></author>
-<author initials='J.' surname='Heafner' fullname='J. Heafner'>
-<organization>Rand Corporation</organization></author>
-<date year='1970' day='27' month='March' />
-<abstract>
-<t>We have recently discussed NWG/RFC Nos. 36 and 39,with Steve Crocker, UCLA.  Steve has asked that we elaborate on the errors, queries, and HOST status that were mentioned in NWG/RFC #39.</t></abstract></front>
-
-<seriesInfo name='RFC' value='40' />
-<format type='TXT' octets='3825' target='http://www.rfc-editor.org/rfc/rfc40.txt' />
+<author initials='E.' surname='Harslem' fullname='E. Harslem'><organization /></author>
+<author initials='J.F.' surname='Heafner' fullname='J.F. Heafner'><organization /></author>
+<date year='1970' month='March' />
+</front>
+<seriesInfo name='RFC' value='40'/>
+<seriesInfo name='DOI' value='10.17487/RFC0040'/>
 </reference>

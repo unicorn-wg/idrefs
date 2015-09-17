@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0334'>
-
+<reference  anchor='RFC0334' target='http://www.rfc-editor.org/info/rfc334'>
 <front>
 <title>Network Use on May 8</title>
-<author initials='A.' surname='McKenzie' fullname='Alex McKenzie'>
-<organization>Bolt Beranek and Newman (BBN)</organization></author>
-<date year='1972' day='1' month='May' />
-<abstract>
-<t>Vint Cerf of UCLA Network Measurement Center has just indicated to us a requirement to carry out certain performance experiments on the network prior to installation of the new IMP software on May 15.</t></abstract></front>
-
-<seriesInfo name='RFC' value='334' />
-<format type='TXT' octets='1376' target='http://www.rfc-editor.org/rfc/rfc334.txt' />
+<author initials='A.M.' surname='McKenzie' fullname='A.M. McKenzie'><organization /></author>
+<date year='1972' month='May' />
+</front>
+<seriesInfo name='RFC' value='334'/>
+<seriesInfo name='DOI' value='10.17487/RFC0334'/>
 </reference>

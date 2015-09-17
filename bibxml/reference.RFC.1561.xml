@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1561'>
-
+<reference  anchor='RFC1561' target='http://www.rfc-editor.org/info/rfc1561'>
 <front>
-<title abbrev='CLNP in TUBA Environments'>Use of ISO CLNP in TUBA Environments</title>
-<author initials='D.' surname='Piscitello' fullname='David M. Piscitello'>
-<organization>Core Competence</organization>
-<address>
-<postal>
-<street>1620 Tuckerstown Road</street>
-<city>Dresher</city>
-<region>PA</region>
-<code>19025</code>
-<country>US</country></postal>
-<phone>+1 215 830 0692</phone>
-<email>wk04464@worldlink.com</email></address></author>
+<title>Use of ISO CLNP in TUBA Environments</title>
+<author initials='D.' surname='Piscitello' fullname='D. Piscitello'><organization /></author>
 <date year='1993' month='December' />
-<abstract>
-<t>This memo specifies a profile of the ISO/IEC 8473 Connectionless-mode Network Layer Protocol (CLNP,) for use in conjunction with RFC 1347, TCP/UDP over Bigger Addresses (TUBA,).  It describes the use of CLNP to provide the lower-level service expected by Transmission Control Protocol (TCP,) and User Datagram Protocol (UDP,).  CLNP provides essentially the same datagram service as Internet Protocol (IP,), but offers a means of conveying bigger network addresses (with additional structure, to aid routing).</t>
-<t>While the protocols offer nearly the same services, IP and CLNP are not identical. This document describes a means of preserving the semantics of IP information that is absent from CLNP while preserving consistency between the use of CLNP in Internet and OSI environments. This maximizes the use of already-deployed CLNP implementations.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1561' />
-<format type='TXT' octets='55902' target='http://www.rfc-editor.org/rfc/rfc1561.txt' />
+<abstract><t>This memo specifies a profile of the ISO/IEC 8473 Connectionless-mode Network Layer Protocol for use in conjunction with RFC 1347, TCP/UDP over Bigger Addresses.  It describes the use of CLNP to provide the lower-level service expected by Transmission Control Protocol and User Datagram Protocol.  This memo defines an Experimental Protocol for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1561'/>
+<seriesInfo name='DOI' value='10.17487/RFC1561'/>
 </reference>

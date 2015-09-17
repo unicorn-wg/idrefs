@@ -1,38 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2398'>
-
+<reference  anchor='RFC2398' target='http://www.rfc-editor.org/info/rfc2398'>
 <front>
 <title>Some Testing Tools for TCP Implementors</title>
-<author initials='S.' surname='Parker' fullname='Steve Parker'>
-<organization>Sun Microsystems, Inc.</organization>
-<address>
-<postal>
-<street>901 San Antonio Road</street>
-<street>UMPK17-202</street>
-<street>Palo Alto</street>
-<street>CA 94043</street>
-<country>USA</country></postal>
-<phone>(650) 786-5176</phone>
-<email>sparker@eng.sun.com</email></address></author>
-<author initials='C.' surname='Schmechel' fullname='Chris Schmechel'>
-<organization>Sun Microsystems, Inc.</organization>
-<address>
-<postal>
-<street>901 San Antonio Road</street>
-<street>UMPK17-202</street>
-<street>Palo Alto</street>
-<street>94043</street>
-<country>USA</country></postal>
-<phone>(650) 786-4053</phone>
-<email>cschmec@eng.sun.com</email></address></author>
+<author initials='S.' surname='Parker' fullname='S. Parker'><organization /></author>
+<author initials='C.' surname='Schmechel' fullname='C. Schmechel'><organization /></author>
 <date year='1998' month='August' />
-<area>Transport</area>
-<keyword>tool</keyword>
-<keyword>transmission control protocol</keyword></front>
-
-<seriesInfo name='RFC' value='2398' />
-<format type='TXT' octets='24107' target='http://www.rfc-editor.org/rfc/rfc2398.txt' />
-<format type='HTML' octets='47593' target='http://xml.resource.org/public/rfc/html/rfc2398.html' />
-<format type='XML' octets='26927' target='http://xml.resource.org/public/rfc/xml/rfc2398.xml' />
+<abstract><t>This document lists only tools which can evaluate one or more TCP implementations, or which can privde some specific results which describe or evaluate the TCP being tested.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='FYI' value='33'/>
+<seriesInfo name='RFC' value='2398'/>
+<seriesInfo name='DOI' value='10.17487/RFC2398'/>
 </reference>

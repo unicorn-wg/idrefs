@@ -1,49 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2179'>
-
+<reference  anchor='RFC2179' target='http://www.rfc-editor.org/info/rfc2179'>
 <front>
-<title abbrev='Trade Show Security'>Network Security For Trade Shows</title>
-<author initials='R.A.' surname='Gwinn' fullname='R. Allen Gwinn, Jr.'>
-<organization>Associate Director, Computing</organization>
-<address>
-<postal>
-<street>Business Information Center</street>
-<street>Southern Methodist University</street>
-<street>Dallas</street>
-<street>TX  75275</street></postal>
-<phone>214/768-3186</phone>
-<email>allen@mail.cox.smu.edu</email></address></author>
+<title>Network Security For Trade Shows</title>
+<author initials='A.' surname='Gwinn' fullname='A. Gwinn'><organization /></author>
 <date year='1997' month='July' />
-<area>Operations</area>
-<area>Security</area>
-<keyword>attack</keyword>
-<keyword>security</keyword>
-<abstract>
-<t>
-   This document is designed to assist vendors and other participants in
-   trade shows, such as Networld+Interop, in designing effective
-   protection against network and system attacks by unauthorized
-   individuals.  Generally, it has been observed that many system
-   administrators and trade show coordinators tend to overlook the
-   importance of system security at trade shows. In fact, systems at
-   trade shows are at least as prone to attack as office-based
-   platforms. Trade show systems should be treated as seriously as an
-   office computer. A breach of security of a trade show system can
-   render -- and has rendered -- an exhibitor&apos;s demonstrations
-   inoperable -- sometimes for the entire event!
-</t>
-<t>
-   This document is not intended to replace the multitudes of
-   comprehensive books on the subject of Internet security.  Rather, its
-   purpose is to provide a checklist-style collection of frequently
-   overlooked, simple ways to minimize the chance of a costly attack.
-   We encourage exhibitors to pay special attention to this document and
-   share it with all associated representatives.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2179' />
-<format type='TXT' octets='20690' target='http://www.rfc-editor.org/rfc/rfc2179.txt' />
-<format type='HTML' octets='37176' target='http://xml.resource.org/public/rfc/html/rfc2179.html' />
-<format type='XML' octets='21045' target='http://xml.resource.org/public/rfc/xml/rfc2179.xml' />
+<abstract><t>This document is designed to assist vendors and other participants in trade shows, such as Networld+Interop, in designing effective protection against network and system attacks by unauthorized individuals.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2179'/>
+<seriesInfo name='DOI' value='10.17487/RFC2179'/>
 </reference>

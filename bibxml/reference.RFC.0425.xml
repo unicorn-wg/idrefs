@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0425'>
-
+<reference  anchor='RFC0425' target='http://www.rfc-editor.org/info/rfc425'>
 <front>
-<title>"But my NCP costs $500 a day"</title>
-<author initials='B.' surname='Bressler' fullname='Bob Bressler'>
-<organization>Bolt Baranek and Newman (BBN)</organization></author>
-<date year='1972' day='19' month='December' />
-<abstract>
-<t>Now that networking is becoming commonplace, people are beginning to measure the cost of their network software and network use.</t></abstract></front>
-
-<seriesInfo name='RFC' value='425' />
-<format type='TXT' octets='1763' target='http://www.rfc-editor.org/rfc/rfc425.txt' />
+<title>&quot;But my NCP costs $500 a day&quot;</title>
+<author initials='R.D.' surname='Bressler' fullname='R.D. Bressler'><organization /></author>
+<date year='1972' month='December' />
+</front>
+<seriesInfo name='RFC' value='425'/>
+<seriesInfo name='DOI' value='10.17487/RFC0425'/>
 </reference>

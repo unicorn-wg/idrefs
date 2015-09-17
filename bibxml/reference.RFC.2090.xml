@@ -1,27 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2090'>
-
+<reference  anchor='RFC2090' target='http://www.rfc-editor.org/info/rfc2090'>
 <front>
 <title>TFTP Multicast Option</title>
-<author initials='A.' surname='Emberson' fullname='A. Thomas Emberson'>
-<organization>Lanworks Technologies, Inc.</organization>
-<address>
-<postal>
-<street>2425 Skymark Avenue</street>
-<city>Mississauga</city>
-<region>Ontario</region>
-<code>L4W 4Y6</code>
-<country>CA</country></postal>
-<phone>+1 905 238 5528</phone>
-<email>tom@lanworks.com</email></address></author>
+<author initials='A.' surname='Emberson' fullname='A. Emberson'><organization /></author>
 <date year='1997' month='February' />
-<abstract>
-<t>The Trivial File Transfer Protocolis a simple, lock-step, file transfer protocol which allows a client to get or put a file onto a remote host.</t>
-<t>This document describes a new TFTP option. This new option will allow the multiple clients to receive the same file concurrently through the use of Multicast packets. The TFTP Option Extension mechanism is described in.</t>
-<t>Often when similar computers are booting remotely they will each download the same image file. By adding multicast into the TFTP option  set,  two  or  more  computers  can  download  a  file concurrently, thus increasing network efficiency.</t>
-<t>This document assumes that the reader is familiar with the terminology and notation of bothand.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2090' />
-<format type='TXT' octets='11857' target='http://www.rfc-editor.org/rfc/rfc2090.txt' />
+<abstract><t>This document describes a new TFTP option. This new option will allow the multiple clients to receive the same file concurrently through the use of Multicast packets.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2090'/>
+<seriesInfo name='DOI' value='10.17487/RFC2090'/>
 </reference>

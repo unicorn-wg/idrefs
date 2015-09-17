@@ -1,40 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2508'>
-
+<reference  anchor='RFC2508' target='http://www.rfc-editor.org/info/rfc2508'>
 <front>
-<title abbrev='Compressing IP/UDP/RTP Headers'>Compressing IP/UDP/RTP Headers for Low-Speed Serial Links</title>
-<author initials='S.L.' surname='Casner' fullname='Stephen L. Casner'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134-1706</code>
-<country>US</country></postal>
-<email>casner@cisco.com</email></address></author>
-<author initials='V.' surname='Jacobson' fullname='Van Jacobson'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134-1706</code>
-<country>US</country></postal>
-<email>van@cisco.com</email></address></author>
+<title>Compressing IP/UDP/RTP Headers for Low-Speed Serial Links</title>
+<author initials='S.' surname='Casner' fullname='S. Casner'><organization /></author>
+<author initials='V.' surname='Jacobson' fullname='V. Jacobson'><organization /></author>
 <date year='1999' month='February' />
-<abstract>
-<t>This document describes a method for compressing the headers of
-IP/UDP/RTP datagrams to reduce overhead on low-speed serial links.
-In many cases, all three headers can be compressed to 2-4 bytes.</t>
-<t>Comments are solicited and should be addressed to the working group
-mailing list rem-conf@es.net and/or the author(s).</t>
-<t>The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
-"SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this
-document are to be interpreted as described in RFC 2119.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2508' />
-<format type='TXT' octets='60474' target='http://www.rfc-editor.org/rfc/rfc2508.txt' />
+<abstract><t>This document describes a method for compressing the headers of IP/UDP/RTP datagrams to reduce overhead on low-speed serial links. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2508'/>
+<seriesInfo name='DOI' value='10.17487/RFC2508'/>
 </reference>

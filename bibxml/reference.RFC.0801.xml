@@ -1,21 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0801'>
-
+<reference  anchor='RFC0801' target='http://www.rfc-editor.org/info/rfc801'>
 <front>
 <title>NCP/TCP transition plan</title>
-<author initials='J.' surname='Postel' fullname='J. Postel'>
-<organization>University of Southern California (USC)/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90291</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone></address></author>
-<date year='1981' day='1' month='November' /></front>
-
-<seriesInfo name='RFC' value='801' />
-<format type='TXT' octets='42041' target='http://www.rfc-editor.org/rfc/rfc801.txt' />
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<date year='1981' month='November' />
+<abstract><t>This RFC discusses the conversion of hosts from NCP to TCP.  And making available the principle services:  Telnet, File Transfer, and Mail.  These protocols allow all hosts in the ARPA community to share a common interprocess communication environment.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='801'/>
+<seriesInfo name='DOI' value='10.17487/RFC0801'/>
 </reference>

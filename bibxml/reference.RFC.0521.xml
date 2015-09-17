@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0521'>
-
+<reference  anchor='RFC0521' target='http://www.rfc-editor.org/info/rfc521'>
 <front>
 <title>Restricted use of IMP DDT</title>
-<author initials='A.' surname='McKenzie' fullname='A. McKenzie'>
-<organization>Bolt Baranek and Newman (BBN), NET</organization></author>
-<date year='1973' day='30' month='May' />
-<abstract>
-<t>At the recent workshop on "Automated Resource Sharing on the ARPANET", considerable interest was expressed on the topic of network security.  In particular, representatives of several sites felt that uncontrolled use of IMP DDT made access control mechanisms quite vulnerable to interception or tampering.*</t></abstract></front>
-
-<seriesInfo name='RFC' value='521' />
-<format type='TXT' octets='3724' target='http://www.rfc-editor.org/rfc/rfc521.txt' />
+<author initials='A.M.' surname='McKenzie' fullname='A.M. McKenzie'><organization /></author>
+<date year='1973' month='May' />
+</front>
+<seriesInfo name='RFC' value='521'/>
+<seriesInfo name='DOI' value='10.17487/RFC0521'/>
 </reference>

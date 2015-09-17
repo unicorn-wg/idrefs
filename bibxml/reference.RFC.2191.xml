@@ -1,45 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2191'>
-
+<reference  anchor='RFC2191' target='http://www.rfc-editor.org/info/rfc2191'>
 <front>
-<title abbrev='VENUS'>VENUS - Very Extensive Non-Unicast Service</title>
-<author initials='G.' surname='Armitage' fullname='Grenville Armitage'>
-<organization>Bell Labs, Lucent Technologies.</organization>
-<address>
-<postal>
-<street>101 Crawfords Corner Rd</street>
-<street>Holmdel</street>
-<street>NJ</street>
-<street>07733</street>
-<country>USA</country></postal>
-<email>gja@dnrc.bell-labs.com</email></address></author>
+<title>VENUS - Very Extensive Non-Unicast Service</title>
+<author initials='G.' surname='Armitage' fullname='G. Armitage'><organization /></author>
 <date year='1997' month='September' />
-<area>Internet</area>
-<keyword>ATM</keyword>
-<keyword>MARS</keyword>
-<abstract>
-<t>
-   The MARS model (RFC2022) provides a solution to intra-LIS IP
-   multicasting over ATM, establishing and managing the use of ATM pt-
-   mpt SVCs for IP multicast packet forwarding. Inter-LIS multicast
-   forwarding is achieved using Mrouters, in a similar manner to which
-   the &quot;Classical IP over ATM&quot; model uses Routers to inter-connect LISes
-   for unicast traffic. The development of unicast IP shortcut
-   mechanisms (e.g.  NHRP) has led some people to request the
-   development of a Multicast equivalent. There are a number of
-   different approaches. This document focuses exclusively on the
-   problems associated with extending the MARS model to cover multiple
-   clusters or clusters spanning more than one subnet. It describes a
-   hypothetical solution, dubbed &quot;Very Extensive NonUnicast Service&quot;
-   (VENUS), and shows how complex such a service would be. It is also
-   noted that VENUS ultimately has the look and feel of a single, large
-   cluster using a distributed MARS.  This document is being issued to
-   help focus ION efforts towards alternative solutions for establishing
-   ATM level multicast connections between LISes.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2191' />
-<format type='TXT' octets='31316' target='http://www.rfc-editor.org/rfc/rfc2191.txt' />
-<format type='XML' octets='33858' target='http://xml.resource.org/public/rfc/xml/rfc2191.xml' />
+<abstract><t>This document focuses exclusively on the problems associated with extending the MARS model to cover multiple clusters or clusters spanning more than one subnet. It describes a hypothetical solution, dubbed &quot;Very Extensive NonUnicast Service&quot; (VENUS), and shows how complex such a service would be.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2191'/>
+<seriesInfo name='DOI' value='10.17487/RFC2191'/>
 </reference>

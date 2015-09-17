@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1179'>
-
+<reference  anchor='RFC1179' target='http://www.rfc-editor.org/info/rfc1179'>
 <front>
-<title abbrev='LPR'>Line printer daemon protocol</title>
-<author initials='L.' surname='McLaughlin' fullname='Leo J. McLaughlin III'>
-<organization>The Wollongong Group</organization>
-<address>
-<postal>
-<street>1129 San Antonio Road</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94303</code>
-<country>US</country></postal>
-<phone>+1 415 962 7100</phone>
-<email>ljm@twg.com</email></address></author>
-<date year='1990' day='1' month='August' /></front>
-
-<seriesInfo name='RFC' value='1179' />
-<format type='TXT' octets='24324' target='http://www.rfc-editor.org/rfc/rfc1179.txt' />
+<title>Line printer daemon protocol</title>
+<author initials='L.' surname='McLaughlin' fullname='L. McLaughlin'><organization /></author>
+<date year='1990' month='August' />
+<abstract><t>This RFC describes an existing print server protocol widely used on the Internet for communicating between line printer daemons (both clients and servers).  This memo is for informational purposes only, and does not specify an Internet standard.  Please refer to the current edition of the &quot;IAB Official Protocol Standards&quot; for the standardization state and status of this protocol.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1179'/>
+<seriesInfo name='DOI' value='10.17487/RFC1179'/>
 </reference>

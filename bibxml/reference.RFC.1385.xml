@@ -1,21 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1385'>
-
+<reference  anchor='RFC1385' target='http://www.rfc-editor.org/info/rfc1385'>
 <front>
-<title abbrev='EIP'>EIP: The Extended Internet Protocol</title>
-<author initials='Z.' surname='Wang' fullname='Zheng Wang'>
-<organization>University College London, Dept of Computer Science</organization>
-<address>
-<postal>
-<street>Gower Street</street>
-<city>London</city>
-<region>England</region>
-<code>WC1E 6BT</code>
-<country>UK</country></postal>
-<email>z.wang@cs.ucl.ac.uk</email></address></author>
-<date year='1992' month='November' /></front>
-
-<seriesInfo name='RFC' value='1385' />
-<format type='TXT' octets='39123' target='http://www.rfc-editor.org/rfc/rfc1385.txt' />
+<title>EIP: The Extended Internet Protocol</title>
+<author initials='Z.' surname='Wang' fullname='Z. Wang'><organization /></author>
+<date year='1992' month='November' />
+<abstract><t>EIP can substantially reduce the amount of modifications needed to the current Internet systems and greatly ease the difficulties of transition. This is an &quot;idea&quot; paper and discussion is strongly encouraged on Big-Internet@munnari.oz.au.  This memo provides information for the Internet community. It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1385'/>
+<seriesInfo name='DOI' value='10.17487/RFC1385'/>
 </reference>

@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0512'>
-
+<reference  anchor='RFC0512' target='http://www.rfc-editor.org/info/rfc512'>
 <front>
 <title>More on lost message detection</title>
-<author initials='W.' surname='Hathaway' fullname='Wayne Hathaway'>
-<organization>NASA Ames Research Center (AMES-67)</organization></author>
-<date year='1973' day='23' month='May' />
-<abstract>
-<t>I would like to second Edwin Meyer's (RFC #492) strong opposition to the proposals made in RFC #467 concerning solutions to the "lost allocate" and "half-closed" phenomena.  In particular I support all of his principles concerning the "half-closed" phenomenon.  I also agree that the proposed "lost allocate" solution tends to mask the real problem of lost messages.  I would, however, like to propose the following alternative scheme for recognizing lost messages.</t></abstract></front>
-
-<seriesInfo name='RFC' value='512' />
-<format type='TXT' octets='3641' target='http://www.rfc-editor.org/rfc/rfc512.txt' />
+<author initials='W.' surname='Hathaway' fullname='W. Hathaway'><organization /></author>
+<date year='1973' month='May' />
+</front>
+<seriesInfo name='RFC' value='512'/>
+<seriesInfo name='DOI' value='10.17487/RFC0512'/>
 </reference>

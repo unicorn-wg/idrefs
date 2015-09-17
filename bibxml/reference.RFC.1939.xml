@@ -1,32 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1939'>
-
+<reference  anchor='RFC1939' target='http://www.rfc-editor.org/info/rfc1939'>
 <front>
-<title abbrev='POP3'>Post Office Protocol - Version 3</title>
-<author initials='J.G.' surname='Myers' fullname='John G. Myers'>
-<organization>Carnegie-Mellon University</organization>
-<address>
-<postal>
-<street>5000 Forbes Ave</street>
-<city>Pittsburgh</city>
-<region>PA</region>
-<code>15213</code>
-<country>US</country></postal>
-<email>jgm+@cmu.edu</email></address></author>
-<author initials='M.T.' surname='Rose' fullname='Marshall T. Rose'>
-<organization>Dover Beach Consulting, Inc.</organization>
-<address>
-<postal>
-<street>420 Whisman Court</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043-2186</code>
-<country>US</country></postal>
-<email>mrose@dbc.mtview.ca.us</email></address></author>
-<date year='1996' month='May' /></front>
-
-<seriesInfo name='STD' value='53' />
-<seriesInfo name='RFC' value='1939' />
-<format type='TXT' octets='47018' target='http://www.rfc-editor.org/rfc/rfc1939.txt' />
+<title>Post Office Protocol - Version 3</title>
+<author initials='J.' surname='Myers' fullname='J. Myers'><organization /></author>
+<author initials='M.' surname='Rose' fullname='M. Rose'><organization /></author>
+<date year='1996' month='May' />
+<abstract><t>The Post Office Protocol - Version 3 (POP3) is intended to permit a workstation to dynamically access a maildrop on a server host in a useful fashion.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='STD' value='53'/>
+<seriesInfo name='RFC' value='1939'/>
+<seriesInfo name='DOI' value='10.17487/RFC1939'/>
 </reference>

@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1057'>
-
+<reference  anchor='RFC1057' target='http://www.rfc-editor.org/info/rfc1057'>
 <front>
-<title abbrev='Remote Procedure Call, Version 2'>RPC: Remote Procedure Call Protocol specification: Version 2</title>
-<author>
-<organization>Sun Microsystems, Inc.</organization></author>
-<date year='1988' day='1' month='June' /></front>
-
-<seriesInfo name='RFC' value='1057' />
-<format type='TXT' octets='52462' target='http://www.rfc-editor.org/rfc/rfc1057.txt' />
+<title>RPC: Remote Procedure Call Protocol specification: Version 2</title>
+<author><organization>Sun Microsystems</organization></author>
+<date year='1988' month='June' />
+<abstract><t>This RFC describes a standard that Sun Microsystems and others are using, and is one we wish to propose for the Internet's consideration. This memo is not an Internet standard at this time.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1057'/>
+<seriesInfo name='DOI' value='10.17487/RFC1057'/>
 </reference>

@@ -1,38 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2592'>
-
+<reference  anchor='RFC2592' target='http://www.rfc-editor.org/info/rfc2592'>
 <front>
-<title abbrev='Script MIB'>Definitions of Managed Objects for the Delegation of Management Script</title>
-<author initials='D.' surname='Levi' fullname='David B. Levi'>
-<organization>Nortel Networks</organization>
-<address>
-<postal>
-<street>4401 Great America Parkway</street>
-<city>Santa Clara</city>
-<region>CA</region>
-<code>95052-8185</code>
-<country>US</country></postal>
-<phone>+1 423 686 0432</phone>
-<email>dlevi@nortelnetworks.com</email></address></author>
-<author initials='J.' surname='Schoenwaelder' fullname='Juergen Schoenwaelder'>
-<organization>TU Braunschweig</organization>
-<address>
-<postal>
-<street>Bueltenweg 74/75</street>
-<city>Braunschweig</city>
-<code>38106</code>
-<country>DE</country></postal>
-<phone>+49 531 3913283</phone>
-<email>schoenw@ibr.cs.tu-bs.de</email></address></author>
+<title>Definitions of Managed Objects for the Delegation of Management Script</title>
+<author initials='D.' surname='Levi' fullname='D. Levi'><organization /></author>
+<author initials='J.' surname='Schoenwaelder' fullname='J. Schoenwaelder'><organization /></author>
 <date year='1999' month='May' />
-<abstract>
-<t>This memo defines a portion of the Management Information
-Base (MIB)
-for use with network management protocols in the Internet community.
-In particular, it describes a set of managed objects that allow the
-delegation of management scripts to distributed managers.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2592' />
-<format type='TXT' octets='110629' target='http://www.rfc-editor.org/rfc/rfc2592.txt' />
+<abstract><t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community. In particular, it describes a set of managed objects that allow the delegation of management scripts to distributed managers. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2592'/>
+<seriesInfo name='DOI' value='10.17487/RFC2592'/>
 </reference>

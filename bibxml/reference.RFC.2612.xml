@@ -1,40 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2612'>
-
+<reference  anchor='RFC2612' target='http://www.rfc-editor.org/info/rfc2612'>
 <front>
 <title>The CAST-256 Encryption Algorithm</title>
-<author initials='C.' surname='Adams' fullname='Carlisle Adams'>
-<organization>Entrust Technologies</organization>
-<address>
-<postal>
-<street>750 Heron Road</street>
-<street>Suite E08</street>
-<city>Ottawa</city>
-<region>Ontario</region>
-<code>K1V 1A7</code>
-<country>CA</country></postal>
-<phone>+1 613 247 3180</phone>
-<facsimile>+1 613 247 3690</facsimile>
-<email>carlisle.adams@entrust.com</email></address></author>
-<author initials='J.' surname='Gilchrist' fullname='Jeff Gilchrist'>
-<organization>Entrust Technologies</organization>
-<address>
-<postal>
-<street>750 Heron Road</street>
-<street>Suite E08 *</street>
-<city>Ottawa</city>
-<region>Ontario</region>
-<code>K1V 1A7</code>
-<country>CA</country></postal>
-<phone>+1 613 248 3074</phone>
-<facsimile>+1 613 247 3450</facsimile>
-<email>jeff.gilchrist@entrust.com</email></address></author>
+<author initials='C.' surname='Adams' fullname='C. Adams'><organization /></author>
+<author initials='J.' surname='Gilchrist' fullname='J. Gilchrist'><organization /></author>
 <date year='1999' month='June' />
-<abstract>
-<t>There is always a desire in the Internet community for unencumbered encryption algorithms with a range of key sizes that can provide security for a variety of cryptographic applications and protocols.</t>
-<t>This document describes an existing algorithm that can be used to satisfy this requirement.  Included are a description of the cipher and the key scheduling algorithm, the s-boxes, and a set of test vectors (Appendix A).</t></abstract></front>
-
-<seriesInfo name='RFC' value='2612' />
-<format type='TXT' octets='37468' target='http://www.rfc-editor.org/rfc/rfc2612.txt' />
+<abstract><t>This document describes an existing algorithm that can be used to satisfy this requirement.  Included are a description of the cipher and the key scheduling algorithm, the s-boxes, and a set of test vectors (Appendix A).  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2612'/>
+<seriesInfo name='DOI' value='10.17487/RFC2612'/>
 </reference>

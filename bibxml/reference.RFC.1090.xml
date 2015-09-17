@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1090'>
-
+<reference  anchor='RFC1090' target='http://www.rfc-editor.org/info/rfc1090'>
 <front>
 <title>SMTP on X.25</title>
-<author initials='R.' surname='Ullmann' fullname='Robert Ullmann'>
-<organization>Prime Computer, Inc.</organization>
-<address>
-<postal>
-<street>Technology Drive</street>
-<city>Milford</city>
-<region>MA</region>
-<code>01757</code>
-<country>US</country></postal>
-<phone>+1 508 478 8600 x1736</phone>
-<email>Ariel@Relay.Prime.COM</email></address></author>
-<date year='1989' day='1' month='February' /></front>
-
-<seriesInfo name='RFC' value='1090' />
-<format type='TXT' octets='6141' target='http://www.rfc-editor.org/rfc/rfc1090.txt' />
+<author initials='R.' surname='Ullmann' fullname='R. Ullmann'><organization /></author>
+<date year='1989' month='February' />
+<abstract><t>This memo proposes a standard for SMTP on the virtual circuit facility provided by the X.25 standard of the CCITT.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1090'/>
+<seriesInfo name='DOI' value='10.17487/RFC1090'/>
 </reference>

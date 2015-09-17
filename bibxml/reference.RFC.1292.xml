@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1292'>
-
+<reference  anchor='RFC1292' target='http://www.rfc-editor.org/info/rfc1292'>
 <front>
-<title abbrev='X.500 Catalog'>A Catalog of Available X.500 Implementations</title>
-<author initials='R.' surname='Lang' fullname='Ruth Lang'>
-<organization>SRI International</organization>
-<address>
-<postal>
-<street>333 Ravenswood Ave.</street>
-<city>Menlo Park</city>
-<region>CA</region>
-<code>94025</code>
-<country>US</country></postal>
-<phone>+1 415 859 5608</phone>
-<email>rlang@nisc.sri.com</email></address></author>
-<author initials='R.' surname='Wright' fullname='Russ Wright'>
-<organization>Lawrence Berkeley Laboratory</organization>
-<address>
-<postal>
-<street>1 Cyclotron Road</street>
-<city>Berkeley</city>
-<region>CA</region>
-<code>94720</code>
-<country>US</country></postal>
-<phone>+1 415 486 6965</phone>
-<email>wright@lbl.gov</email></address></author>
+<title>A Catalog of Available X.500 Implementations</title>
+<author initials='R.' surname='Lang' fullname='R. Lang'><organization /></author>
+<author initials='R.' surname='Wright' fullname='R. Wright'><organization /></author>
 <date year='1992' month='January' />
-<abstract>
-<t>The goal of this document is to provide information regarding the availability and capability of implementations of X.500.  Comments and critiques of this document, and new or updated descriptions of  X.500 implementations are welcome.  Send them to the Directory Information Services Infrastructure (DISI) Working Group (disi@merit.edu) or to the editors.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1292' />
-<format type='TXT' octets='129468' target='http://www.rfc-editor.org/rfc/rfc1292.txt' />
+<abstract><t>The goal of this document is to provide information regarding the availability and capability of implementations of X.500. This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1292'/>
+<seriesInfo name='DOI' value='10.17487/RFC1292'/>
 </reference>

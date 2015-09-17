@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0012'>
-
+<reference  anchor='RFC0012' target='http://www.rfc-editor.org/info/rfc12'>
 <front>
 <title>IMP-Host interface flow diagrams</title>
-<author initials='M.' surname='Wingfield' fullname='M. Wingfield'>
-<organization /></author>
-<date year='1969' month='August' /></front>
-
-<seriesInfo name='RFC' value='12' />
-<format type='TXT' octets='177' target='http://www.rfc-editor.org/rfc/rfc12.txt' />
-<format type='PS' octets='1489750' target='http://www.rfc-editor.org/rfc/rfc12.ps' />
-<format type='PDF' octets='1163721' target='http://www.rfc-editor.org/rfc/rfc12.pdf' />
+<author initials='M.' surname='Wingfield' fullname='M. Wingfield'><organization /></author>
+<date year='1969' month='August' />
+</front>
+<seriesInfo name='RFC' value='12'/>
+<seriesInfo name='DOI' value='10.17487/RFC0012'/>
 </reference>

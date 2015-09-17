@@ -1,33 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1295'>
-
+<reference  anchor='RFC1295' target='http://www.rfc-editor.org/info/rfc1295'>
 <front>
-<title abbrev='User Bill of Rights'>User Bill of Rights for entries and listings in the Public Directory</title>
-<author initials='T.' surname='Myer' fullname='Theodore H. Myer'>
-<organization>North American Directory Forum</organization>
-<address>
-<postal>
-<street>3055 Q Street NW</street>
-<city>Washington</city>
-<region>DC</region>
-<code>20007</code>
-<country>US</country></postal>
-<phone>+1 202 342 2727</phone>
-<email>0004454742@mcimail.com</email></address></author>
+<title>User Bill of Rights for entries and listings in the Public Directory</title>
+<author><organization>The North American Directory Forum</organization></author>
 <date year='1992' month='January' />
-<abstract>
-<t>This RFC is a near-verbatim copy of a document, known as NADF-265, which has been produced by the North American Directory Forum (NADF).</t>
-<t>User Bill of Rights for entries and listings in the Public Directory</t>
-<t>The mission of the North American Directory Forum is to provide interconnected electronic directories which empower users with unprecedented access to public information.  To address significant security and privacy issues, the North American Directory Forum introduces the following "User Bill of Rights" for entries in the Public Directory.  As a user, you have:</t>
-<t>I. The right not to be listed.</t>
-<t>II. The right to have you or your agent informed when your entry is created.</t>
-<t>III. The right to examine your entry.</t>
-<t>IV. The right to correct inaccurate information in your entry.</t>
-<t>V. The right to remove specific information from your entry.</t>
-<t>VI. The right to be assured that your listing in the Public Directory will comply with US or Canadian law regulating privacy or access information.</t>
-<t>VII. The right to expect timely fulfillment of these rights.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1295' />
-<format type='TXT' octets='3502' target='http://www.rfc-editor.org/rfc/rfc1295.txt' />
+<abstract><t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines objects for managing Synchronous Optical Network/Synchronous Digital Hierarchy (SONET/SDH) objects.  This document is a companion document with Definitions of Managed Objects for the DS1/E1 and DS3/E3 Interface Types, RFC1406 and RFC1407.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1295'/>
+<seriesInfo name='DOI' value='10.17487/RFC1295'/>
 </reference>

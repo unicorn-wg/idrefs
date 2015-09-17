@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0548'>
-
+<reference  anchor='RFC0548' target='http://www.rfc-editor.org/info/rfc548'>
 <front>
 <title>Hosts using the IMP Going Down message</title>
-<author initials='D.' surname='Walden' fullname='D. Walden'>
-<organization>Bolt Baranek and Newman (BBN), NET</organization></author>
-<date year='1973' day='16' month='August' />
-<abstract>
-<t>As given in BBN Report 1822 (Specifications for the Interconnection of a Host and an IMP), IMP to Host message type 2 specifies that the IMP local to the Host is going down; the message further says when the IMP is going down, for how long, and why.</t></abstract></front>
-
-<seriesInfo name='RFC' value='548' />
-<format type='TXT' octets='1435' target='http://www.rfc-editor.org/rfc/rfc548.txt' />
+<author initials='D.C.' surname='Walden' fullname='D.C. Walden'><organization /></author>
+<date year='1973' month='August' />
+</front>
+<seriesInfo name='RFC' value='548'/>
+<seriesInfo name='DOI' value='10.17487/RFC0548'/>
 </reference>

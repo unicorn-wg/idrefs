@@ -1,38 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2453'>
-
+<reference  anchor='RFC2453' target='http://www.rfc-editor.org/info/rfc2453'>
 <front>
 <title>RIP Version 2</title>
-<author initials='G.S.' surname='Malkin' fullname='Gary Scott Malkin'>
-<organization>Bay Networks</organization>
-<address>
-<postal>
-<street>8 Federal Street</street>
-<street>Billerica</street>
-<street>MA 01821</street></postal>
-<phone>(978) 916-4237</phone>
-<email>gmalkin@baynetworks.com</email></address></author>
+<author initials='G.' surname='Malkin' fullname='G. Malkin'><organization /></author>
 <date year='1998' month='November' />
-<area>Routing</area>
-<keyword>routing</keyword>
-<keyword>routing information protocol</keyword>
-<keyword>security</keyword>
-<abstract>
-<t>
-   This document specifies an extension of the Routing Information
-   Protocol (RIP), as defined in , to expand the amount of useful
-   information carried in RIP messages and to add a measure of security.
-</t>
-<t>
-   A companion document will define the SNMP MIB objects for RIP-2 .
-   An additional document will define cryptographic security
-   improvements for RIP-2 .
-</t></abstract></front>
-
-<seriesInfo name='STD' value='56' />
-<seriesInfo name='RFC' value='2453' />
-<format type='TXT' octets='98462' target='http://www.rfc-editor.org/rfc/rfc2453.txt' />
-<format type='HTML' octets='120274' target='http://xml.resource.org/public/rfc/html/rfc2453.html' />
-<format type='XML' octets='99904' target='http://xml.resource.org/public/rfc/xml/rfc2453.xml' />
+<abstract><t>This document specifies an extension of the Routing Information Protocol (RIP) to expand the amount of useful information carried in RIP messages and to add a measure of security.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='STD' value='56'/>
+<seriesInfo name='RFC' value='2453'/>
+<seriesInfo name='DOI' value='10.17487/RFC2453'/>
 </reference>

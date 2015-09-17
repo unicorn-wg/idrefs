@@ -1,16 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0479'>
-
+<reference  anchor='RFC0479' target='http://www.rfc-editor.org/info/rfc479'>
 <front>
 <title>Use of FTP by the NIC Journal</title>
-<author initials='J.' surname='White' fullname='James E. White'>
-<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
-<date year='1973' day='8' month='March' />
-<abstract>
-<t>At the Network Mail Meeting (see -- 14317,) the NIC outlined it's requirements for implementing FTP Journal delivery and submission.</t>
-<t>It had always been our thinking that those two services should rely upon the File Transfer Protocol's MLFL command for their implementation.</t></abstract></front>
-
-<seriesInfo name='RFC' value='479' />
-<format type='TXT' octets='11183' target='http://www.rfc-editor.org/rfc/rfc479.txt' />
+<author initials='J.E.' surname='White' fullname='J.E. White'><organization /></author>
+<date year='1973' month='March' />
+</front>
+<seriesInfo name='RFC' value='479'/>
+<seriesInfo name='DOI' value='10.17487/RFC0479'/>
 </reference>

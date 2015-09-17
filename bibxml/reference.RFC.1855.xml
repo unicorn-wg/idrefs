@@ -1,26 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1855'>
-
+<reference  anchor='RFC1855' target='http://www.rfc-editor.org/info/rfc1855'>
 <front>
 <title>Netiquette Guidelines</title>
-<author initials='S.' surname='Hambridge' fullname='Sally Hambridge'>
-<organization>Intel Corporation</organization>
-<address>
-<postal>
-<street>2880 Northwestern Parkway</street>
-<street>SC3-15</street>
-<city>Santa Clara</city>
-<region>CA</region>
-<code>95052</code>
-<country>US</country></postal>
-<phone>+1 408 765 2931</phone>
-<facsimile>+1 408 765 3679</facsimile>
-<email>sallyh@ludwig.sc.intel.com</email></address></author>
+<author initials='S.' surname='Hambridge' fullname='S. Hambridge'><organization /></author>
 <date year='1995' month='October' />
-<abstract>
-<t>This document provides a minimum set of guidelines for Network Etiquette (Netiquette) which organizations may take and adapt for their own use.  As such, it is deliberately written in a bulleted format to make adaptation easier and to make any particular item easy (or easier) to find.  It also functions as a minimum set of guidelines for individuals, both users and administrators.  This memo is the product of the Responsible Use of the Network (RUN) Working Group of the IETF.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1855' />
-<format type='TXT' octets='46185' target='http://www.rfc-editor.org/rfc/rfc1855.txt' />
+<abstract><t>This document provides a minimum set of guidelines for Network Etiquette (Netiquette) which organizations may take and adapt for their own use. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='FYI' value='28'/>
+<seriesInfo name='RFC' value='1855'/>
+<seriesInfo name='DOI' value='10.17487/RFC1855'/>
 </reference>

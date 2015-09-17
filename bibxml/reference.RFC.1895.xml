@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1895'>
-
+<reference  anchor='RFC1895' target='http://www.rfc-editor.org/info/rfc1895'>
 <front>
-<title abbrev='CALS-1840'>The Application/CALS-1840 Content-type</title>
-<author initials='E.' surname='Levinson' fullname='Edward Levinson'>
-<organization>Accurate Information Systems, Inc.</organization>
-<address>
-<postal>
-<street>2 Industrial Way</street>
-<city>Eatontown</city>
-<region>NJ</region>
-<code>07724-2265</code>
-<country>US</country></postal>
-<phone>+1 908 389 5550</phone>
-<email>ELevinson@Accurate.com</email></address></author>
+<title>The Application/CALS-1840 Content-type</title>
+<author initials='E.' surname='Levinson' fullname='E. Levinson'><organization /></author>
 <date year='1996' month='February' />
-<abstract>
-<t>This memorandum provides guidelines for using the United States Department of Defense Military Standard MIL-STD-1840, "Automated Interchange of Technical Information," with the Internet electronic mail standards, RFC 822 and RFC 1521.  Electronic mail provides a more convenient mechanism that delivery via physical media for certain types and quantities of data.  Software already exists to support data exchanges based on MIL-STD-1840 and it can continue to be used in conjunction with electronic mail exchanges defined in this document.  This document defines a new media type and a MIME message structure for exchanging data in conformance with MIL-STD-1840.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1895' />
-<format type='TXT' octets='10576' target='http://www.rfc-editor.org/rfc/rfc1895.txt' />
+<abstract><t>This memorandum provides guidelines for using the United States Department of Defense Military Standard MIL-STD-1840, &quot;Automated Interchange of Technical Information,&quot; with the Internet electronic mail standards, RFC 822 and RFC 1521.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1895'/>
+<seriesInfo name='DOI' value='10.17487/RFC1895'/>
 </reference>

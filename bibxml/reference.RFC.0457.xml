@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0457'>
-
+<reference  anchor='RFC0457' target='http://www.rfc-editor.org/info/rfc457'>
 <front>
 <title>TIPUG</title>
-<author initials='D.' surname='Walden' fullname='Dave Walden'>
-<organization>Bolt Baranek and Newman (BBN), NET</organization></author>
-<date year='1973' day='15' month='February' />
-<abstract>
-<t>To any TIP users who have not been receiving updates to their TIP User's Guide or who have not been receiving copies of TIP User's Group Notes: please send me your name (along with the TIP and Host you normally use) and I'll make sure you get on a distribution list for these materials.</t></abstract></front>
-
-<seriesInfo name='RFC' value='457' />
-<format type='TXT' octets='845' target='http://www.rfc-editor.org/rfc/rfc457.txt' />
+<author initials='D.C.' surname='Walden' fullname='D.C. Walden'><organization /></author>
+<date year='1973' month='February' />
+</front>
+<seriesInfo name='RFC' value='457'/>
+<seriesInfo name='DOI' value='10.17487/RFC0457'/>
 </reference>

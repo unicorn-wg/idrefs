@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0246'>
-
+<reference  anchor='RFC0246' target='http://www.rfc-editor.org/info/rfc246'>
 <front>
 <title>Network Graphics meeting</title>
-<author initials='A.' surname='Vezza' fullname='A. Vezza'>
-<organization>Massachusetts Institute of Technology (MIT), Project MAC</organization></author>
-<date year='1971' day='5' month='October' />
-<abstract>
-<t>The next Networks Graphics Meeting has been scheduled to commence the evening of Sunday, November 21st and adjourn Tuesday, November 23rd.  The Stanford Artifical Intellegence Project will host the meeting.</t></abstract></front>
-
-<seriesInfo name='RFC' value='246' />
-<format type='TXT' octets='856' target='http://www.rfc-editor.org/rfc/rfc246.txt' />
+<author initials='A.' surname='Vezza' fullname='A. Vezza'><organization /></author>
+<date year='1971' month='October' />
+</front>
+<seriesInfo name='RFC' value='246'/>
+<seriesInfo name='DOI' value='10.17487/RFC0246'/>
 </reference>

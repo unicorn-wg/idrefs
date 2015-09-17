@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0149'>
-
+<reference  anchor='RFC0149' target='http://www.rfc-editor.org/info/rfc149'>
 <front>
 <title>Best Laid Plans</title>
-<author initials='S.' surname='Crocker' fullname='Steve Crocker'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<date year='1971' day='10' month='May' />
-<abstract>
-<t>Dr. Roberts informs me that it is now unlikely that he will be able to attend the Monday afternoon session of the NWG meeting, but that he will be able to attend the Tuesday evening session.</t></abstract></front>
-
-<seriesInfo name='RFC' value='149' />
-<format type='TXT' octets='1057' target='http://www.rfc-editor.org/rfc/rfc149.txt' />
+<author initials='S.D.' surname='Crocker' fullname='S.D. Crocker'><organization /></author>
+<date year='1971' month='May' />
+</front>
+<seriesInfo name='RFC' value='149'/>
+<seriesInfo name='DOI' value='10.17487/RFC0149'/>
 </reference>

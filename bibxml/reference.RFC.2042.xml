@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2042'>
-
+<reference  anchor='RFC2042' target='http://www.rfc-editor.org/info/rfc2042'>
 <front>
-<title abbrev='BGP Atrribute Types'>Registering New BGP Attribute Types</title>
-<author initials='B.' surname='Manning' fullname='Bill Manning'>
-<organization>USC/ISI</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<street>Marina del Rey</street>
-<street>CA. 90292</street></postal>
-<phone>01.310.822.1511</phone>
-<email>bmanning@isi.edu</email></address></author>
+<title>Registering New BGP Attribute Types</title>
+<author initials='B.' surname='Manning' fullname='B. Manning'><organization /></author>
 <date year='1997' month='January' />
-<keyword>border gateway protocol</keyword></front>
-
-<seriesInfo name='RFC' value='2042' />
-<format type='TXT' octets='4001' target='http://www.rfc-editor.org/rfc/rfc2042.txt' />
-<format type='XML' octets='5887' target='http://xml.resource.org/public/rfc/xml/rfc2042.xml' />
+<abstract><t>This document describes the process for creating new BGP attribute type codes.  Basic attribute type codes are described in RFC 1771, pages 12 through 15.  These, and new attribute type codes that are used in the Internet are registered with the IANA.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2042'/>
+<seriesInfo name='DOI' value='10.17487/RFC2042'/>
 </reference>

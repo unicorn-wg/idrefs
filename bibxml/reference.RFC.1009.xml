@@ -1,31 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1009'>
-
+<reference  anchor='RFC1009' target='http://www.rfc-editor.org/info/rfc1009'>
 <front>
 <title>Requirements for Internet gateways</title>
-<author initials='R.' surname='Braden' fullname='R. Braden'>
-<organization>University of Southern California (USC)/ Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90291</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone></address></author>
-<author initials='J.' surname='Postel' fullname='J. Postel'>
-<organization>University of Southern California (USC)/ Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90291</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone></address></author>
-<date year='1987' day='1' month='June' /></front>
-
-<seriesInfo name='RFC' value='1009' />
-<format type='TXT' octets='128173' target='http://www.rfc-editor.org/rfc/rfc1009.txt' />
+<author initials='R.T.' surname='Braden' fullname='R.T. Braden'><organization /></author>
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<date year='1987' month='June' />
+<abstract><t>This RFC summarizes the requirements for gateways to be used between networks supporting the Internet protocols.  This document is a formal statement of the requirements to be met by gateways used in the Internet system.  As such, it is an official specification for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1009'/>
+<seriesInfo name='DOI' value='10.17487/RFC1009'/>
 </reference>

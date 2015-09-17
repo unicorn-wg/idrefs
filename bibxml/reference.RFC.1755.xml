@@ -1,79 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1755'>
-
+<reference  anchor='RFC1755' target='http://www.rfc-editor.org/info/rfc1755'>
 <front>
 <title>ATM Signaling Support for IP over ATM</title>
-<author initials='M.' surname='Maher' fullname='Maryann Perez Maher'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4350 N. Fairfax Drive</street>
-<street>Suite 400</street>
-<city>Arlington</city>
-<region>VA</region>
-<code>22203</code>
-<country>US</country></postal>
-<phone>+1 703 807 0132</phone>
-<email>perez@isi.edu</email></address></author>
-<author initials='F.' surname='Liaw' fullname='Fong-Ching Liaw'>
-<organization>FORE Systems, Inc.</organization>
-<address>
-<postal>
-<street>174 Thorn Hill Road</street>
-<city>Warrendale</city>
-<region>PA</region>
-<code>15086-7535</code>
-<country>US</country></postal>
-<phone>+1 412 772 8668</phone>
-<email>fong@fore.com</email></address></author>
-<author initials='A.' surname='Mankin' fullname='Allison Mankin'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4350 N. Fairfax Drive</street>
-<street>Suite 400</street>
-<city>Arlington</city>
-<region>VA</region>
-<code>22203</code>
-<country>US</country></postal>
-<phone>+1 703 807 0132</phone>
-<email>mankin@isi.edu</email></address></author>
-<author initials='E.' surname='Hoffman' fullname='Eric Hoffman'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4350 N. Fairfax Drive</street>
-<street>Suite 400</street>
-<city>Arlington</city>
-<region>VA</region>
-<code>22203</code>
-<country>US</country></postal>
-<phone>+1 703 807 0132</phone>
-<email>hoffman@isi.edu</email></address></author>
-<author initials='D.' surname='Grossman' fullname='Dan Grossman'>
-<organization>Motorola Codex</organization>
-<address>
-<phone>+1 617 821 7333</phone>
-<email>dan@merlin.dev.cdx.mot.com</email></address></author>
-<author initials='A.' surname='Malis' fullname='Andrew G. Malis'>
-<organization>Ascom Timeplex, Inc., Advanced Products Business Unit</organization>
-<address>
-<postal>
-<street>289 Great Road</street>
-<street>Suite 205</street>
-<city>Acton</city>
-<region>MA</region>
-<code>01720</code>
-<country>US</country></postal>
-<phone>+1 508 266 4522</phone>
-<email>malis@maelstrom.timeplex.com</email></address></author>
+<author initials='M.' surname='Perez' fullname='M. Perez'><organization /></author>
+<author initials='F.' surname='Liaw' fullname='F. Liaw'><organization /></author>
+<author initials='A.' surname='Mankin' fullname='A. Mankin'><organization /></author>
+<author initials='E.' surname='Hoffman' fullname='E. Hoffman'><organization /></author>
+<author initials='D.' surname='Grossman' fullname='D. Grossman'><organization /></author>
+<author initials='A.' surname='Malis' fullname='A. Malis'><organization /></author>
 <date year='1995' month='February' />
-<abstract>
-<t>This memo describes the ATM call control signaling exchanges needed to support Classical IP over ATM implementations as described in RFC 1577. ATM endpoints will incorporate ATM signaling services as specified in the ATM Forum User-Network Interface (UNI) Specification Version 3.1. IP over ATM implementations utilize the services of local ATM signaling entities to establish and release ATM connections. This memo should be used to define the support required by IP over ATM implementations from their local ATM signaling entities.</t>
-<t>This document is an implementors guide intended to foster interoperability among RFC 1577, RFC 1483, and UNI ATM signaling.  It applies to IP hosts and routers which are also ATM endsystems and assumes ATM networks that completely implement the ATM Forum UNI Specification Version 3.1. Unless explicitly stated, no distinction is made between the Private and Public UNI.</t>
-<t>UNI 3.1 is considered an erratum to the UNI 3.0 specification. It has been produced by the ATM Forum, largely for reasons of alignment with Recommendation Q.2931. Although UNI 3.1 is based on UNI 3.0 there are several changes that make the two versions incompatible. A description of how to support IP over ATM using UNI 3.0 is found in Appendix B.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1755' />
-<format type='TXT' octets='55209' target='http://www.rfc-editor.org/rfc/rfc1755.txt' />
+<abstract><t>This memo describes the ATM call control signaling exchanges needed to support Classical IP over ATM implementations as described in RFC 1577. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1755'/>
+<seriesInfo name='DOI' value='10.17487/RFC1755'/>
 </reference>

@@ -1,28 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1943'>
-
+<reference  anchor='RFC1943' target='http://www.rfc-editor.org/info/rfc1943'>
 <front>
 <title>Building an X.500 Directory Service in the US</title>
-<author initials='B.' surname='Jennings' fullname='Barbara Jennings'>
-<organization>Sandia National Laboratories, Scientific Computing Systems</organization>
-<address>
-<postal>
-<street>P.O. Box 5800</street>
-<street>M/S 0807</street>
-<city>Albuquerque</city>
-<region>NM</region>
-<code>87106</code>
-<country>US</country></postal>
-<phone>+1 505 845 8554</phone>
-<facsimile>+1 505 844 2067</facsimile>
-<email>jennings@sandia.gov</email></address></author>
+<author initials='B.' surname='Jennings' fullname='B. Jennings'><organization /></author>
 <date year='1996' month='May' />
-<abstract>
-<t>This document provides definition and recommends considerations that must be undertaken to operate a X.500 Directory Service in the United States.  This project is the work performed for the Integrated Directory Services Working Group within the Internet Engineering Task Force, for establishing an electronic White Pages Directory Service within an organization in the US and for connecting it to a wide-area Directory infrastructure.</t>
-<t>Establishing a successful White Pages Directory Service within an organization requires a collaborative effort between the technical, legal and data management components of an organization. It also helps if there is a strong commitment from the higher management to participate in a wide-area Directory Service.</t>
-<t>The recommendations presented in the document are the result of experience from participating in the Internet White Pages project.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1943' />
-<format type='TXT' octets='51266' target='http://www.rfc-editor.org/rfc/rfc1943.txt' />
+<abstract><t>This document provides definition and recommends considerations that must be undertaken to operate a X.500 Directory Service in the United States.  This memo provides information for the Internet community. This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1943'/>
+<seriesInfo name='DOI' value='10.17487/RFC1943'/>
 </reference>

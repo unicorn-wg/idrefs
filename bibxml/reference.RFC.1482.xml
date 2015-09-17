@@ -1,38 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1482'>
-
+<reference  anchor='RFC1482' target='http://www.rfc-editor.org/info/rfc1482'>
 <front>
-<title abbrev='Routing Aggregation Support'>Aggregation Support in the NSFNET Policy-Based Routing Database</title>
-<author initials='M.A.' surname='Knopper' fullname='Mark A. Knopper'>
-<organization>Merit Network, Inc.</organization>
-<address>
-<postal>
-<street>1071 Beal Ave.</street>
-<city>Ann Arbor</city>
-<region>MI</region>
-<code>48109-2103</code>
-<country>US</country></postal>
-<phone>+1 313 763 6061</phone>
-<facsimile>+1 313 747 3745</facsimile>
-<email>mak@merit.edu</email></address></author>
-<author initials='S.J.' surname='Richardson' fullname='Steven J.Richardson'>
-<organization>Merit Network, Inc.</organization>
-<address>
-<postal>
-<street>1071 Beal Ave.</street>
-<city>Ann Arbor</city>
-<region>MI</region>
-<code>48109-2103</code>
-<country>US</country></postal>
-<phone>+1 313 747 4813</phone>
-<facsimile>+1 313 747 3745</facsimile>
-<email>sjr@merit.edu</email></address></author>
+<title>Aggregation Support in the NSFNET Policy-Based Routing Database</title>
+<author initials='M.' surname='Knopper' fullname='M. Knopper'><organization /></author>
+<author initials='S.' surname='Richardson' fullname='S. Richardson'><organization /></author>
 <date year='1993' month='June' />
-<abstract>
-<t>This document describes plans for support of route aggregation, as specified in the descriptions of Classless Inter-Domain Routing (CIDR)and the BGP-4 protocol, by the NSFNET Backbone Network Service.  Mechanisms for exchange of route aggregates between the backbone service and regional/midlevel networks are specified. Additionally, the memo proposes the implementation of an Aggregate Registry which can be used by network service providers to share
-   information about the use of aggregation.  Finally, the operational impact of incorporating CIDR and aggregation is considered, including an analysis of how routing table size will be affected.  This impact analysis will be used to modify the deployment plan, if necessary, to maximize operational stability.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1482' />
-<format type='TXT' octets='25330' target='http://www.rfc-editor.org/rfc/rfc1482.txt' />
+<abstract><t>This document describes plans for support of route aggregation, as specified in the descriptions of Classless Inter-Domain Routing (CIDR) [1] and the BGP-4 protocol [2], by the NSFNET Backbone Network Service. This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1482'/>
+<seriesInfo name='DOI' value='10.17487/RFC1482'/>
 </reference>

@@ -1,38 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1784'>
-
+<reference  anchor='RFC1784' target='http://www.rfc-editor.org/info/rfc1784'>
 <front>
-<title abbrev='TFTP Options'>TFTP Timeout Interval and Transfer Size Options</title>
-<author initials='G.' surname='Malkin' fullname='Gary Scott Malkin'>
-<organization>Xylogics, Inc.</organization>
-<address>
-<postal>
-<street>53 Third Avenue</street>
-<city>Burlington</city>
-<region>MA</region>
-<code>01803</code>
-<country>US</country></postal>
-<phone>+1 617 272 8140</phone>
-<email>gmalkin@xylogics.com</email></address></author>
-<author initials='A.' surname='Harkin' fullname='Art Harkin'>
-<organization>Internet Services Project, Information Networks Division</organization>
-<address>
-<postal>
-<street>19420 Homestead Road</street>
-<street>MS 43LN</street>
-<city>Cupertino</city>
-<region>CA</region>
-<code>95014</code>
-<country>US</country></postal>
-<phone>+1 408 447 3755</phone>
-<email>ash@cup.hp.com</email></address></author>
+<title>TFTP Timeout Interval and Transfer Size Options</title>
+<author initials='G.' surname='Malkin' fullname='G. Malkin'><organization /></author>
+<author initials='A.' surname='Harkin' fullname='A. Harkin'><organization /></author>
 <date year='1995' month='March' />
-<abstract>
-<t>The Trivial File Transfer Protocolis a simple, lock-step, file transfer protocol which allows a client to get or put a file onto a remote host.</t>
-<t>This document describes two TFTP options. The first allows the client and server to negotiate the Timeout Interval.  The second allows the side receiving the file to determine the ultimate size of the transfer before it begins.  The TFTP Option Extension mechanism is described in.</t>
-<t>This document assumes that the reader is familiar with the terminology and notation of bothand.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1784' />
-<format type='TXT' octets='6106' target='http://www.rfc-editor.org/rfc/rfc1784.txt' />
+<abstract><t>This document describes two TFTP options. The first allows the client and server to negotiate the Timeout Interval.  The second allows the side receiving the file to determine the ultimate size of the transfer before it begins. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1784'/>
+<seriesInfo name='DOI' value='10.17487/RFC1784'/>
 </reference>

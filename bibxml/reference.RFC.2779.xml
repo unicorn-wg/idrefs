@@ -1,48 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2779'>
-
+<reference  anchor='RFC2779' target='http://www.rfc-editor.org/info/rfc2779'>
 <front>
-<title abbrev='Instant Messaging/Presence Protocol'>Instant Messaging / Presence Protocol Requirements</title>
-<author initials='M.' surname='Day' fullname='Mark Day'>
-<organization>SightPath, Inc.</organization>
-<address>
-<postal>
-<street>135 Beaver Street</street>
-<city>Waltham</city>
-<region>MA</region>
-<code>02452</code>
-<country>US</country></postal>
-<email>mday@alum.mit.edu</email></address></author>
-<author initials='S.' surname='Aggarwal' fullname='Sonu Aggarwal'>
-<organization>Microsoft Corporation</organization>
-<address>
-<postal>
-<street>One Microsoft Way</street>
-<city>Redmond</city>
-<region>WA</region>
-<code>98052</code>
-<country>US</country></postal>
-<email>sonuag@microsoft.com</email></address></author>
-<author initials='G.' surname='Mohr' fullname='Gordon Mohr'>
-<organization />
-<address>
-<email>gojomo@usa.net</email></address></author>
-<author initials='J.' surname='Vincent' fullname='Jesse Vincent'>
-<organization>Into Networks, Inc.</organization>
-<address>
-<postal>
-<street>150 Cambridgepark Drive</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02140</code>
-<country>US</country></postal>
-<email>jesse@intonet.com</email></address></author>
+<title>Instant Messaging / Presence Protocol Requirements</title>
+<author initials='M.' surname='Day' fullname='M. Day'><organization /></author>
+<author initials='S.' surname='Aggarwal' fullname='S. Aggarwal'><organization /></author>
+<author initials='G.' surname='Mohr' fullname='G. Mohr'><organization /></author>
+<author initials='J.' surname='Vincent' fullname='J. Vincent'><organization /></author>
 <date year='2000' month='February' />
-<abstract>
-<t>Presence and Instant Messaging have recently emerged as a new medium of communications over the Internet.  Presence is a means for finding, retrieving, and subscribing to changes in the presence information (e.g. "online" or "offline") of other users. Instant messaging is a means for sending small, simple messages that are delivered immediately to online users.</t>
-<t>Applications of presence and instant messaging currently use independent, non-standard and non-interoperable protocols developed by various vendors.  The goal of the Instant Messaging and Presence Protocol (IMPP) Working Group is to define a standard protocol so that independently developed applications of instant messaging and/or   presence can interoperate across the Internet. This document defines a minimal set of requirements that IMPP must meet.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2779' />
-<format type='TXT' octets='47420' target='http://www.rfc-editor.org/rfc/rfc2779.txt' />
+<abstract><t>This document defines a minimal set of requirements that IMPP must meet. This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2779'/>
+<seriesInfo name='DOI' value='10.17487/RFC2779'/>
 </reference>

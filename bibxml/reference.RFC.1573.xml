@@ -1,33 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1573'>
-
+<reference  anchor='RFC1573' target='http://www.rfc-editor.org/info/rfc1573'>
 <front>
-<title abbrev='Interfaces Group Evolution'>Evolution of the Interfaces Group of MIB-II</title>
-<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
-<organization>Hughes LAN Systems</organization>
-<address>
-<postal>
-<street>1225 Charleston Rd</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043</code>
-<country>US</country></postal>
-<phone>+1 415 966 7934</phone>
-<email>kzm@hls.com</email></address></author>
-<author initials='F.' surname='Kastenholz' fullname='Frank Kastenholz'>
-<organization>FTP Software</organization>
-<address>
-<postal>
-<street>2 High Street</street>
-<city>North Andover</city>
-<region>MA</region>
-<code>01845</code>
-<country>US</country></postal>
-<phone>+1 508 685 4000</phone>
-<email>kasten@ftp.com</email></address></author>
-<date year='1994' month='January' /></front>
-
-<seriesInfo name='RFC' value='1573' />
-<format type='TXT' octets='123057' target='http://www.rfc-editor.org/rfc/rfc1573.txt' />
+<title>Evolution of the Interfaces Group of MIB-II</title>
+<author initials='K.' surname='McCloghrie' fullname='K. McCloghrie'><organization /></author>
+<author initials='F.' surname='Kastenholz' fullname='F. Kastenholz'><organization /></author>
+<date year='1994' month='January' />
+<abstract><t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects used for managing Network Interfaces. [STANARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1573'/>
+<seriesInfo name='DOI' value='10.17487/RFC1573'/>
 </reference>

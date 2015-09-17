@@ -1,78 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2305'>
-
+<reference  anchor='RFC2305' target='http://www.rfc-editor.org/info/rfc2305'>
 <front>
-<title abbrev='Simple Mode of Facsimile'>A Simple Mode of Facsimile Using Internet Mail</title>
-<author initials='K.' surname='Toyoda' fullname='Kiyoshi Toyoda'>
-<organization>Matsushita Graphic Communication Systems, Inc.</organization>
-<address>
-<postal>
-<street>2-3-8 Shimomeguro, Meguro-ku</street>
-<street>Tokyo 153 Japan</street></postal>
-<email>ktoyoda@rdmg.mgcs.mei.co.jp</email></address></author>
-<author initials='H.' surname='Ohno' fullname='Hiroyuki Ohno'>
-<organization>Tokyo Institute of Technology</organization>
-<address>
-<postal>
-<street>2-12-1 O-okayama, Meguro-ku</street>
-<street>Tokyo 152 Japan</street></postal>
-<email>hohno@is.titech.ac.jp</email></address></author>
-<author initials='J.' surname='Murai' fullname='Jun Murai'>
-<organization>Keio University</organization>
-<address>
-<postal>
-<street>5322 Endo, Fujisawa</street>
-<street>Kanagawa 252 Japan</street></postal>
-<email>jun@wide.ad.jp</email></address></author>
-<author initials='D.' surname='Wing' fullname='Dan Wing'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>101 Cooper Street</street>
-<city>Santa Cruz</city>
-<region>CA</region>
-<code>95060</code></postal>
-<facsimile>+1 408 457 5208</facsimile>
-<email>dwing@cisco.com</email></address></author>
+<title>A Simple Mode of Facsimile Using Internet Mail</title>
+<author initials='K.' surname='Toyoda' fullname='K. Toyoda'><organization /></author>
+<author initials='H.' surname='Ohno' fullname='H. Ohno'><organization /></author>
+<author initials='J.' surname='Murai' fullname='J. Murai'><organization /></author>
+<author initials='D.' surname='Wing' fullname='D. Wing'><organization /></author>
 <date year='1998' month='March' />
-<area>Applications</area>
-<keyword>facsimile</keyword>
-<keyword>mail</keyword>
-<keyword>multipurpose internet mail extensions</keyword>
-<abstract>
-<t>
-
-   This specification provides for "simple mode" carriage of facsimile
-
-   data over the Internet.  Extensions to this document will follow.
-
-   The current specification employs standard protocols and file formats
-
-   such as TCP/IP, Internet mail protocols [1, 2, 3], MIME [4, 16, 17],
-
-   and TIFF for Facsimile [5,6,19].  It can send images not only to
-
-   other Internet-aware facsimile devices but also to Internet-native
-
-   systems, such as PCs with common email readers which can handle MIME
-
-   mail and TIFF for Facsimile data.  The specification facilitates
-
-   communication among existing facsimile devices, Internet mail agents,
-
-   and the gateways which connect them.
-</t>
-<t>
-
-
-
-   The key words "MUST", "SHOULD", "SHOULD NOT", and "MAY" in this
-
-   document are to be interpreted as described in [7].
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2305' />
-<format type='TXT' octets='24624' target='http://www.rfc-editor.org/rfc/rfc2305.txt' />
-<format type='XML' octets='28271' target='http://xml.resource.org/public/rfc/xml/rfc2305.xml' />
+<abstract><t>This specification provides for &quot;simple mode&quot; carriage of facsimile data over the Internet.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2305'/>
+<seriesInfo name='DOI' value='10.17487/RFC2305'/>
 </reference>

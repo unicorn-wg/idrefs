@@ -1,26 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2777'>
-
+<reference  anchor='RFC2777' target='http://www.rfc-editor.org/info/rfc2777'>
 <front>
-<title abbrev='Verifiable Random Selection'>Publicly Verifiable Nomcom Random Selection</title>
-<author initials='D.' surname='Eastlake' fullname='Donald E. Eastlake, 3rd'>
-<organization>Motorola</organization>
-<address>
-<postal>
-<street>65 Shindegan Hill Road</street>
-<street>RR #1</street>
-<city>Carmel</city>
-<region>NY</region>
-<code>10512</code>
-<country>US</country></postal>
-<phone>+1 914 276 2668</phone>
-<facsimile>+1 508 261 4447</facsimile>
-<email>Donald.Eastlake@motorola.com</email></address></author>
+<title>Publicly Verifiable Nomcom Random Selection</title>
+<author initials='D.' surname='Eastlake 3rd' fullname='D. Eastlake 3rd'><organization /></author>
 <date year='2000' month='February' />
-<abstract>
-<t>This document describes a method for making random selections in such a way that the unbiased nature of the choice is publicly verifiable. As an example, the selection of the voting members of the IETF Nominations Committee from the pool of eligible volunteers is used. Similar techniques would be applicable to other cases.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2777' />
-<format type='TXT' octets='30064' target='http://www.rfc-editor.org/rfc/rfc2777.txt' />
+<abstract><t>This document describes a method for making random selections in such a way that the unbiased nature of the choice is publicly verifiable.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2777'/>
+<seriesInfo name='DOI' value='10.17487/RFC2777'/>
 </reference>

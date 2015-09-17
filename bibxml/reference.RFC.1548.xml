@@ -1,28 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1548'>
-
+<reference  anchor='RFC1548' target='http://www.rfc-editor.org/info/rfc1548'>
 <front>
-<title abbrev='The Point-to-Point Protocol'>The Point-to-Point Protocol (PPP)</title>
-<author initials='W.' surname='Simpson' fullname='William Allen Simpson'>
-<organization>Daydreamer, Computer Systems Consulting Services</organization>
-<address>
-<postal>
-<street>1384 Fontaine</street>
-<city>Madison Heights</city>
-<region>MI</region>
-<code>48071</code>
-<country>US</country></postal>
-<email>Bill.Simpson@um.cc.umich.edu</email></address></author>
+<title>The Point-to-Point Protocol (PPP)</title>
+<author initials='W.' surname='Simpson' fullname='W. Simpson'><organization /></author>
 <date year='1993' month='December' />
-<abstract>
-<t>The Point-to-Point Protocol (PPP) provides a standard method for transporting multi-protocol datagrams over point-to-point links.  PPP is comprised of three main components:</t>
-<t>1. A method for encapsulating multi-protocol datagrams.</t>
-<t>2. A Link Control Protocol (LCP) for establishing, configuring, and testing the data-link connection.</t>
-<t>3. A family of Network Control Protocols (NCPs) for establishing and configuring different network-layer protocols.</t>
-<t>This document defines the PPP organization and methodology, and the PPP encapsulation, together with an extensible option negotiation mechanism which is able to negotiate a rich assortment of configuration parameters and provides additional management functions.  The PPP Link Control Protocol (LCP) is described in terms of this mechanism.</t>
-<t>This document is the product of the Point-to-Point Protocol Working Group of the Internet Engineering Task Force (IETF).  Comments should be submitted to the ietf-ppp@ucdavis.edu mailing list.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1548' />
-<format type='TXT' octets='111638' target='http://www.rfc-editor.org/rfc/rfc1548.txt' />
+<abstract><t>This document defines the PPP organization and methodology, and the PPP encapsulation, together with an extensible option negotiation mechanism which is able to negotiate a rich assortment of configuration parameters and provides additional management functions. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1548'/>
+<seriesInfo name='DOI' value='10.17487/RFC1548'/>
 </reference>

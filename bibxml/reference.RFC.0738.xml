@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0738'>
-
+<reference  anchor='RFC0738' target='http://www.rfc-editor.org/info/rfc738'>
 <front>
 <title>Time server</title>
-<author initials='K.' surname='Harrenstien' fullname='K. Harrenstien'>
-<organization>Stanford Research Institute (SRI) International, KL</organization></author>
-<date year='1977' day='31' month='October' />
-<abstract>
-<t>This note describes the Time Server protocol, as currently implemented on ITS hosts (i.e. MIT-(AI/ML/MC/DMS)).  The idea is to provide a site-independent, machine readable date and time in as efficient and swift a manner as possible; its motivation arises from the fact that not all systems have a date/time clock, and all are subject to occasional human or machine error.  The use of time-servers makes it possible to quickly confirm or correct a system's idea of the time, by making a brief poll of several independent sites on the network.</t></abstract></front>
-
-<seriesInfo name='RFC' value='738' />
-<format type='TXT' octets='1851' target='http://www.rfc-editor.org/rfc/rfc738.txt' />
+<author initials='K.' surname='Harrenstien' fullname='K. Harrenstien'><organization /></author>
+<date year='1977' month='October' />
+</front>
+<seriesInfo name='RFC' value='738'/>
+<seriesInfo name='DOI' value='10.17487/RFC0738'/>
 </reference>

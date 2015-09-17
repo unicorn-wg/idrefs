@@ -1,26 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1765'>
-
+<reference  anchor='RFC1765' target='http://www.rfc-editor.org/info/rfc1765'>
 <front>
 <title>OSPF Database Overflow</title>
-<author initials='J.' surname='Moy' fullname='John Moy'>
-<organization>Cascade Communications Corp.</organization>
-<address>
-<postal>
-<street>5 Carlisle Road</street>
-<city>Westford</city>
-<region>MA</region>
-<code>01886</code>
-<country>US</country></postal>
-<phone>+1 508 692 2600 x394</phone>
-<facsimile>+1 508 692 9214</facsimile>
-<email>jmoy@casc.com</email></address></author>
+<author initials='J.' surname='Moy' fullname='J. Moy'><organization /></author>
 <date year='1995' month='March' />
-<abstract>
-<t>Proper operation of the OSPF protocol requires that all OSPF routers maintain an identical copy of the OSPF link-state database.  However, when the size of the link-state database becomes very large, some routers may be unable to keep the entire database due to resource shortages; we term this "database overflow". When database overflow is anticipated, the routers with limited resources can be accommodated by configuring OSPF stub areas and NSSAs. This memo details a way of gracefully handling unanticipated database overflows.</t>
-<t>This memo is a product of the OSPF Working Group. Please send comments to ospf@gated.cornell.edu.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1765' />
-<format type='TXT' octets='21613' target='http://www.rfc-editor.org/rfc/rfc1765.txt' />
+<abstract><t>This memo details a way of gracefully handling unanticipated database overflows. This memo defines an Experimental Protocol for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1765'/>
+<seriesInfo name='DOI' value='10.17487/RFC1765'/>
 </reference>

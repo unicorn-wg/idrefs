@@ -1,51 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2514'>
-
+<reference  anchor='RFC2514' target='http://www.rfc-editor.org/info/rfc2514'>
 <front>
-<title abbrev='ATM TCs and OBJECT-IDENTITIES'>Definitions of Textual Conventions and OBJECT-IDENTITIES for ATM Management</title>
-<author initials='M.' surname='Noto' fullname='Michael Noto'>
-<organization>3Com Corporation</organization>
-<address>
-<postal>
-<street>5400 Bayfront Plaza</street>
-<street>M/S 3109</street>
-<city>Santa Clara</city>
-<region>CA</region>
-<code>95052</code>
-<country>US</country></postal>
-<phone>+1 408 326 2218</phone>
-<email>mike_noto@3com.com</email></address></author>
-<author initials='E.M.' surname='Spiegel' fullname='Ethan Mickey Spiegel'>
-<organization>Cisco Systems</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134</code>
-<country>US</country></postal>
-<phone>+1 408 526 6408</phone>
-<email>mspiegel@cisco.com</email></address></author>
-<author initials='K.' surname='Tesink' fullname='Kaj Tesink'>
-<organization>Bellcore</organization>
-<address>
-<postal>
-<street>331 Newman Springs Road</street>
-<street>POB 7020</street>
-<city>Red Bank</city>
-<region>NJ</region>
-<code>07701-7020</code>
-<country>US</country></postal>
-<phone>+1 732 758 5254</phone>
-<email>kaj@bellcore.com</email></address></author>
+<title>Definitions of Textual Conventions and OBJECT-IDENTITIES for ATM Management</title>
+<author initials='M.' surname='Noto' fullname='M. Noto'><organization /></author>
+<author initials='E.' surname='Spiegel' fullname='E. Spiegel'><organization /></author>
+<author initials='K.' surname='Tesink' fullname='K. Tesink'><organization /></author>
 <date year='1999' month='February' />
-<abstract>
-<t>This memo describes Textual Conventions and
-OBJECT-IDENTITIES used 
-for managing ATM-based interfaces, devices, networks and
-services.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2514' />
-<format type='TXT' octets='37583' target='http://www.rfc-editor.org/rfc/rfc2514.txt' />
+<abstract><t>This memo describes Textual Conventions and OBJECT-IDENTITIES used for managing ATM-based interfaces, devices, networks and services. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2514'/>
+<seriesInfo name='DOI' value='10.17487/RFC2514'/>
 </reference>

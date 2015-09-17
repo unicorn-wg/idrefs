@@ -1,19 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2441'>
-
+<reference  anchor='RFC2441' target='http://www.rfc-editor.org/info/rfc2441'>
 <front>
-<title abbrev='Working with Jon'>Working with Jon Tribute delivered at UCLA, October 30, 1998</title>
-<author initials='D.' surname='Cohen' fullname='Danny Cohen'>
-<organization>Myricom</organization>
-<address>
-<email>cohen@myri.com</email></address></author>
+<title>Working with Jon, Tribute delivered at UCLA, October 30, 1998</title>
+<author initials='D.' surname='Cohen' fullname='D. Cohen'><organization /></author>
 <date year='1998' month='November' />
-<area>General</area>
-<keyword>Jon Postel</keyword></front>
-
-<seriesInfo name='RFC' value='2441' />
-<format type='TXT' octets='11992' target='http://www.rfc-editor.org/rfc/rfc2441.txt' />
-<format type='HTML' octets='12823' target='http://xml.resource.org/public/rfc/html/rfc2441.html' />
-<format type='XML' octets='1862' target='http://xml.resource.org/public/rfc/xml/rfc2441.xml' />
+<abstract><t>This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2441'/>
+<seriesInfo name='DOI' value='10.17487/RFC2441'/>
 </reference>

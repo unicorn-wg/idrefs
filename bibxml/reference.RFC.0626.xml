@@ -1,17 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0626'>
-
+<reference  anchor='RFC0626' target='http://www.rfc-editor.org/info/rfc626'>
 <front>
 <title>On a possible lockup condition in IMP subnet due to message sequencing</title>
-<author initials='L.' surname='Kleinrock' fullname='L. Kleinrock'>
-<organization>University of Los Angeles (UCLA), New Media Centers (NMC)</organization></author>
-<author initials='H.' surname='Opderbeck' fullname='H. Opderbeck'>
-<organization>University of Los Angeles (UCLA), New Media Centers (NMC)</organization></author>
-<date year='1974' day='14' month='March' />
-<abstract>
-<t>Lockup or deadlock conditions are one of the most serious system malfunctions that can occur in a computer system or network.  Communication protocols have to be designed very carefully to avoid the occurrence of these lockups.  Their common characteristic is that they occur only under unusual circumstances which were not foreseen or deemed too unlikely to occur by the protocol designers.  (However, these designers often are not the ones in a position to evaluate such likelihoods quantitatively.)</t></abstract></front>
-
-<seriesInfo name='RFC' value='626' />
-<format type='TXT' octets='13150' target='http://www.rfc-editor.org/rfc/rfc626.txt' />
+<author initials='L.' surname='Kleinrock' fullname='L. Kleinrock'><organization /></author>
+<author initials='H.' surname='Opderbeck' fullname='H. Opderbeck'><organization /></author>
+<date year='1974' month='March' />
+</front>
+<seriesInfo name='RFC' value='626'/>
+<seriesInfo name='DOI' value='10.17487/RFC0626'/>
 </reference>

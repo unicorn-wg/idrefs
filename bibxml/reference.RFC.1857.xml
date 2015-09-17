@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1857'>
-
+<reference  anchor='RFC1857' target='http://www.rfc-editor.org/info/rfc1857'>
 <front>
-<title abbrev='Operational Statistics'>A Model for Common Operational Statistics</title>
-<author initials='M.' surname='Lambert' fullname='Michael H. Lambert'>
-<organization>Pittsburgh Supercomputing Center</organization>
-<address>
-<postal>
-<street>4400 Fifth Avenue</street>
-<city>Pittsburgh</city>
-<region>PA</region>
-<code>15213</code>
-<country>US</country></postal>
-<phone>+1 412 268 4960</phone>
-<facsimile>+1 412 268 8200</facsimile>
-<email>lambert@psc.edu</email></address></author>
+<title>A Model for Common Operational Statistics</title>
+<author initials='M.' surname='Lambert' fullname='M. Lambert'><organization /></author>
 <date year='1995' month='October' />
-<abstract>
-<t>This memo describes a model for operational statistics in the Internet.  It gives recommendations for metrics, measurements, polling periods and presentation formats and defines a format for the exchange of operational statistics.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1857' />
-<format type='TXT' octets='55314' target='http://www.rfc-editor.org/rfc/rfc1857.txt' />
+<abstract><t>This memo describes a model for operational statistics in the Internet. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind. This document defines a model and protocol for a set of tools which could be used by NSPs and Network Operation Centers (NOCs) to share data among themselves and with customers.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1857'/>
+<seriesInfo name='DOI' value='10.17487/RFC1857'/>
 </reference>

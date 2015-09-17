@@ -1,68 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2120'>
-
+<reference  anchor='RFC2120' target='http://www.rfc-editor.org/info/rfc2120'>
 <front>
-<title abbrev='X.500 Root Naming'>Managing the X.500 Root Naming Context</title>
-<author initials='D.W.' surname='Chadwick' fullname='D W Chadwick'>
-<organization>IT Institute</organization>
-<address>
-<postal>
-<street>University of Salford</street>
-<street>Salford</street>
-<street>M5 4WT</street>
-<street>England</street></postal>
-<phone>+44 161 745 5351</phone>
-<facsimile>+44 161 745 8169</facsimile>
-<email>D.W.Chadwick@iti.salford.ac.uk</email></address></author>
+<title>Managing the X.500 Root Naming Context</title>
+<author initials='D.' surname='Chadwick' fullname='D. Chadwick'><organization /></author>
 <date year='1997' month='March' />
-<area>Applications</area>
-<keyword>X.500</keyword>
-<keyword>ITU abstract syntax notation one</keyword>
-<keyword>ITU directory service protocol</keyword>
-<abstract>
-<t>
-   The X.500 Standard  has the concept of first level DSAs,
-   whose administrators must collectively manage the root naming context
-   through bi-lateral agreements or other private means which are
-   outside the scope of the X.500 Standard.
-</t>
-<t>
-   The NameFLOW-Paradise X.500 service has an established procedure for
-   managing the root naming context, which currently uses Quipu
-   proprietary replication mechanisms and a root DSA. The benefits that
-   derive from this are twofold:
-
-<list>
-<t>
-      - firstly it is much easier to co-ordinate the management of the
-      root context information, when there is a central point of
-      administration,
-</t>
-<t>
-      - secondly the performance of one-level Search operations is
-      greatly improved because the Quipu distribution and replication
-      mechanism does not have a restriction that exists in the 1988 and
-      1993 X.500 Standard.
-</t></list></t>
-<t>
-   The NameFLOW-Paradise project is moving towards 1993 ISO X.500
-   Standard replication protocols and wants to standardise the protocol
-   and procedure for managing the root naming context which will be
-   based on 1993 X.500 Standard protocols. Such a protocol and procedure
-   will be useful to private X.500 domains as well as to the Internet
-   X.500 public domain. It is imperative that overall system performance
-   is not degraded by this transition.
-</t>
-<t>
-   This document describes the use of 1993 ISO X.500 Standard protocols
-   for managing the root context. Whilst the ASN.1 is compatible with
-   that of the X.500 Standard, the actual settings of the parameters are
-   supplementary to that of the X.500 Standard.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2120' />
-<format type='TXT' octets='30773' target='http://www.rfc-editor.org/rfc/rfc2120.txt' />
-<format type='HTML' octets='40285' target='http://xml.resource.org/public/rfc/html/rfc2120.html' />
-<format type='XML' octets='23965' target='http://xml.resource.org/public/rfc/xml/rfc2120.xml' />
+<abstract><t>This document describes the use of 1993 ISO X.500 Standard protocols for managing the root context. Whilst the ASN.1 is compatible with that of the X.500 Standard, the actual settings of the parameters are supplementary to that of the X.500 Standard.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2120'/>
+<seriesInfo name='DOI' value='10.17487/RFC2120'/>
 </reference>

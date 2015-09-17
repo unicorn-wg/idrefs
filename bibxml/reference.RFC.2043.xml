@@ -1,37 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2043'>
-
+<reference  anchor='RFC2043' target='http://www.rfc-editor.org/info/rfc2043'>
 <front>
-<title abbrev='SNACP'>The PPP SNA Control Protocol (SNACP)</title>
-<author initials='A.M.' surname='Fuqua' fullname='Andrew M. Fuqua'>
-<organization>International Business Machines Corporation</organization>
-<address>
-<postal>
-<street>P. O. Box 12195</street>
-<street>Research Triangle Park</street>
-<street>NC  27709</street></postal>
-<email>fuqua@vnet.ibm.com</email></address></author>
+<title>The PPP SNA Control Protocol (SNACP)</title>
+<author initials='A.' surname='Fuqua' fullname='A. Fuqua'><organization /></author>
 <date year='1996' month='October' />
-<area>Internet</area>
-<keyword>IBM Systems Network Architecture</keyword>
-<keyword>control protocol</keyword>
-<keyword>point-to-point protocol</keyword>
-<abstract>
-<t>
-   The Point-to-Point Protocol (PPP)  provides a standard method for
-   transporting multi-protocol datagrams over point-to-point links.  PPP
-   defines an extensible Link Control Protocol, and proposes a family of
-   Network Control Protocols for establishing and configuring different
-   network-layer protocols.
-</t>
-<t>
-   This document defines the Network Control Protocols for establishing
-   and configuring Systems Network Architecture (SNA) over PPP and SNA
-   over LLC 802.2 over PPP.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2043' />
-<format type='TXT' octets='13719' target='http://www.rfc-editor.org/rfc/rfc2043.txt' />
-<format type='XML' octets='14681' target='http://xml.resource.org/public/rfc/xml/rfc2043.xml' />
+<abstract><t>This document defines the Network Control Protocols for establishing and configuring Systems Network Architecture (SNA) over PPP and SNA over LLC 802.2 over PPP.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2043'/>
+<seriesInfo name='DOI' value='10.17487/RFC2043'/>
 </reference>

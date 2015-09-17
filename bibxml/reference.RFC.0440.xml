@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0440'>
-
+<reference  anchor='RFC0440' target='http://www.rfc-editor.org/info/rfc440'>
 <front>
 <title>Scheduled network software maintenance</title>
-<author initials='D.' surname='Walden' fullname='David C. Walden'>
-<organization>Bolt Baranek and Newman (BBN), NET</organization></author>
-<date year='1973' day='1' month='January' />
-<abstract>
-<t>As explained in RFC 381, we believe that we can minimize the disruption caused by the release of new IMP software systems by doing them on a regularly scheduled basis.</t></abstract></front>
-
-<seriesInfo name='RFC' value='440' />
-<format type='TXT' octets='1870' target='http://www.rfc-editor.org/rfc/rfc440.txt' />
+<author initials='D.C.' surname='Walden' fullname='D.C. Walden'><organization /></author>
+<date year='1973' month='January' />
+</front>
+<seriesInfo name='RFC' value='440'/>
+<seriesInfo name='DOI' value='10.17487/RFC0440'/>
 </reference>

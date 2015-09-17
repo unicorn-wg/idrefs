@@ -1,66 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2511'>
-
+<reference  anchor='RFC2511' target='http://www.rfc-editor.org/info/rfc2511'>
 <front>
-<title abbrev='Internet X.509 CRMF'>Internet X.509 Certificate Request Message Format</title>
-<author initials='M.' surname='Myers' fullname='Michael Myers'>
-<organization>VeriSign, Inc.</organization>
-<address>
-<postal>
-<street>1390 Shorebird Way</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94019</code>
-<country>US</country></postal>
-<email>mmyers@verisign.com</email></address></author>
-<author initials='C.' surname='Adams' fullname='Carlisle Adams'>
-<organization>Entrust Technologies</organization>
-<address>
-<postal>
-<street>750 Heron Road</street>
-<street>Suite E08</street>
-<city>Ottawa</city>
-<region>Ontario</region>
-<code>K1V 1A7</code>
-<country>CA</country></postal>
-<email>cadams@entrust.com</email></address></author>
-<author initials='D.' surname='Solo' fullname='Dave Solo'>
-<organization>Citicorp</organization>
-<address>
-<postal>
-<street>666 Fifth Ave</street>
-<street>3rd Floor</street>
-<city>New York</city>
-<region>NY</region>
-<code>10103</code>
-<country>US</country></postal>
-<email>david.solo@citicorp.com</email></address></author>
-<author initials='D.' surname='Kemp' fullname='David Kemp'>
-<organization>National Security Agency</organization>
-<address>
-<postal>
-<street>Suite 6734</street>
-<street>9800 Savage Road</street>
-<city>Fort Meade</city>
-<region>MD</region>
-<code>20755</code>
-<country>US</country></postal>
-<email>dpkemp@missi.ncsc.mil</email></address></author>
+<title>Internet X.509 Certificate Request Message Format</title>
+<author initials='M.' surname='Myers' fullname='M. Myers'><organization /></author>
+<author initials='C.' surname='Adams' fullname='C. Adams'><organization /></author>
+<author initials='D.' surname='Solo' fullname='D. Solo'><organization /></author>
+<author initials='D.' surname='Kemp' fullname='D. Kemp'><organization /></author>
 <date year='1999' month='March' />
-<abstract>
-<t>This document describes the Certificate Request Message Format
-(CRMF).
-This syntax is used to convey a request for a certificate to
-a Certification Authority (CA) (possibly via a Registration Authority
-(RA)) for the purposes of X.509 certificate production.
-The request
-will typically include a public key and associated registration
-information.</t>
-<t>The key words "MUST", "REQUIRED", "SHOULD", "RECOMMENDED", and "MAY"
-in this document (in uppercase, as shown) are to be interpreted as
-described in RFC 2119.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2511' />
-<format type='TXT' octets='48278' target='http://www.rfc-editor.org/rfc/rfc2511.txt' />
+<abstract><t>This document describes the Certificate Request Message Format (CRMF). [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2511'/>
+<seriesInfo name='DOI' value='10.17487/RFC2511'/>
 </reference>

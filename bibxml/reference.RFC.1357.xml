@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1357'>
-
+<reference  anchor='RFC1357' target='http://www.rfc-editor.org/info/rfc1357'>
 <front>
-<title abbrev='Format for E-mailing Bibliographic Records'>A Format for E-mailing Bibliographic Records</title>
-<author initials='D.' surname='Cohen' fullname='Danny Cohen'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292-6695</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511</phone>
-<facsimile>+1 310 823 6714</facsimile>
-<email>Cohen@ISI.EDU</email></address></author>
+<title>A Format for E-mailing Bibliographic Records</title>
+<author initials='D.' surname='Cohen' fullname='D. Cohen'><organization /></author>
 <date year='1992' month='July' />
-<abstract>
-<t>This memo defines a format for E-mailing bibliographic records of technical reports.  It is intended to accelerate the dissemination of information about new Computer Science Technical Reports (CS-TR).</t></abstract></front>
-
-<seriesInfo name='RFC' value='1357' />
-<format type='TXT' octets='25021' target='http://www.rfc-editor.org/rfc/rfc1357.txt' />
+<abstract><t>This memo defines a format for E-mailing bibliographic records of technical reports.  It is intended to accelerate the dissemination of information about new Computer Science Technical Reports (CS-TR).  This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1357'/>
+<seriesInfo name='DOI' value='10.17487/RFC1357'/>
 </reference>

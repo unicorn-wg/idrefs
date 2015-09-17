@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2631'>
-
+<reference  anchor='RFC2631' target='http://www.rfc-editor.org/info/rfc2631'>
 <front>
 <title>Diffie-Hellman Key Agreement Method</title>
-<author initials='E.' surname='Rescorla' fullname='Eric Rescorla'>
-<organization>RTFM Inc.</organization>
-<address>
-<postal>
-<street>30 Newell Road</street>
-<street>#16</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94303</code>
-<country>US</country></postal>
-<email>ekr@rtfm.com</email></address></author>
+<author initials='E.' surname='Rescorla' fullname='E. Rescorla'><organization /></author>
 <date year='1999' month='June' />
-<abstract>
-<t>This document standardizes one particular Diffie-Hellman variant,  based on the ANSI X9.42 draft, developed by the ANSI X9F1 working group. Diffie-Hellman is a key agreement algorithm used by two parties to agree on a shared secret. An algorithm for converting the shared secret into an arbitrary amount of keying material is provided. The resulting keying material is used as a symmetric encryption key.  The Diffie-Hellman variant described requires the recipient to have a certificate, but the originator may have a static key pair (with the public key placed in a certificate) or an ephemeral key pair.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2631' />
-<format type='TXT' octets='25932' target='http://www.rfc-editor.org/rfc/rfc2631.txt' />
+<abstract><t>This document standardizes one particular Diffie-Hellman variant, based on the ANSI X9.42 draft, developed by the ANSI X9F1 working group. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2631'/>
+<seriesInfo name='DOI' value='10.17487/RFC2631'/>
 </reference>

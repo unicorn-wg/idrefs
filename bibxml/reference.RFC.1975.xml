@@ -1,58 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1975'>
-
+<reference  anchor='RFC1975' target='http://www.rfc-editor.org/info/rfc1975'>
 <front>
 <title>PPP Magnalink Variable Resource Compression</title>
-<author initials='D.' surname='Schremp' fullname='Doug Schremp'>
-<organization>Telco Systems, Inc., Magnalink Communications Division</organization>
-<address>
-<postal>
-<street>63 Nahatan Street</street>
-<city>Norwood</city>
-<region>MA</region>
-<code>02062</code>
-<country>US</country></postal>
-<phone>+1 617 255 9400</phone>
-<email>dhs@magna.telco.com</email></address></author>
-<author initials='J.' surname='Black' fullname='Jeffrey Black'>
-<organization>Telco Systems, Inc., Magnalink Communications Division</organization>
-<address>
-<postal>
-<street>63 Nahatan Street</street>
-<city>Norwood</city>
-<region>MA</region>
-<code>02062</code>
-<country>US</country></postal>
-<phone>+1 617 255 9400</phone>
-<email>jtb@magna.telco.com</email></address></author>
-<author initials='J.' surname='Weiss' fullname='Jeffrey Weiss'>
-<organization>Telco Systems, Inc.,  Magnalink Communications Division</organization>
-<address>
-<postal>
-<street>63 Nahatan Street</street>
-<city>Norwood</city>
-<region>MA</region>
-<code>02062</code>
-<country>US</country></postal>
-<phone>+1 617 255 9400</phone>
-<email>jaw@magna.telco.com</email></address></author>
-<author initials='K.' surname='Fox' fullname='Karl Fox'>
-<organization>Ascend Communications</organization>
-<address>
-<postal>
-<street>3518 Riverside Drive</street>
-<street>Suite 101</street>
-<city>Columbus</city>
-<region>OH</region>
-<code>43221</code>
-<country>US</country></postal>
-<email>karl@ascend.com</email></address></author>
+<author initials='D.' surname='Schremp' fullname='D. Schremp'><organization /></author>
+<author initials='J.' surname='Black' fullname='J. Black'><organization /></author>
+<author initials='J.' surname='Weiss' fullname='J. Weiss'><organization /></author>
 <date year='1996' month='August' />
-<abstract>
-<t>The Point-to-Point Protocol (PPP)provides a standard method of encapsulating multiple protocol datagrams over point-to-point links. The PPP Compression Control Protocolprovides a method for negotiating data compression over PPP links.</t>
-<t>The Magnalink Variable Resource Compression Algorithm (MVRCA) allows a wide range of interoperable compression implementations whose performance characteristics are a function of available CPU and memory resources.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1975' />
-<format type='TXT' octets='8655' target='http://www.rfc-editor.org/rfc/rfc1975.txt' />
+<abstract><t>The Magnalink Variable Resource Compression Algorithm (MVRCA) allows a wide range of interoperable compression implementations whose performance characteristics are a function of available CPU and memory resources.  This memo provides information for the Internet community. This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1975'/>
+<seriesInfo name='DOI' value='10.17487/RFC1975'/>
 </reference>

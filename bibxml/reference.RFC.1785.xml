@@ -1,38 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1785'>
-
+<reference  anchor='RFC1785' target='http://www.rfc-editor.org/info/rfc1785'>
 <front>
 <title>TFTP Option Negotiation Analysis</title>
-<author initials='G.' surname='Malkin' fullname='Gary Scott Malkin'>
-<organization>Xylogics, Inc.</organization>
-<address>
-<postal>
-<street>53 Third Avenue</street>
-<city>Burlington</city>
-<region>MA</region>
-<code>01803</code>
-<country>US</country></postal>
-<phone>+1 617 272 8140</phone>
-<email>gmalkin@xylogics.com</email></address></author>
-<author initials='A.' surname='Harkin' fullname='Art Harkin'>
-<organization>Internet Services Project, Information Networks Division</organization>
-<address>
-<postal>
-<street>19420 Homestead Road</street>
-<street>MS 43LN</street>
-<city>Cupertino</city>
-<region>CA</region>
-<code>95014</code>
-<country>US</country></postal>
-<phone>+1 408 447 3755</phone>
-<email>ash@cup.hp.com</email></address></author>
+<author initials='G.' surname='Malkin' fullname='G. Malkin'><organization /></author>
+<author initials='A.' surname='Harkin' fullname='A. Harkin'><organization /></author>
 <date year='1995' month='March' />
-<abstract>
-<t>The TFTP option negotiation mechanism, proposed in, is a backward-compatible extension to the TFTP protocol, defined in. It allows file transfer options to be negotiated prior to the transfer using a mechanism which is consistent with TFTP's Request Packet format.  The mechanism is kept simple by enforcing a request-
- respond-acknowledge sequence, similar to the lock-step approach taken by TFTP itself.</t>
-<t>This document was written to allay concerns that the presence of options in a TFTP Request packet might cause pathological behavior on servers which do not support TFTP option negotiation.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1785' />
-<format type='TXT' octets='3354' target='http://www.rfc-editor.org/rfc/rfc1785.txt' />
+<abstract><t>This document was written to allay concerns that the presence of options in a TFTP Request packet might cause pathological behavior on servers which do not support TFTP option negotiation. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1785'/>
+<seriesInfo name='DOI' value='10.17487/RFC1785'/>
 </reference>

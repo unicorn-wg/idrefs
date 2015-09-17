@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0431'>
-
+<reference  anchor='RFC0431' target='http://www.rfc-editor.org/info/rfc431'>
 <front>
 <title>Update on SMFS Login and Logout</title>
-<author initials='M.' surname='Krilanovich' fullname='Mark Krilanovich'>
-<organization>University of California, Santa Barbara (UCSB)</organization></author>
-<date year='1972' day='15' month='December' />
-<abstract>
-<t>This document replaces RFC 399, which introduced the Login and Logout commands for UCSB's SMFS, but was incomplete.  RFC 399 is restated here, followed by a description of the nature of the response elicted by these commands</t></abstract></front>
-
-<seriesInfo name='RFC' value='431' />
-<format type='TXT' octets='4196' target='http://www.rfc-editor.org/rfc/rfc431.txt' />
+<author initials='M.' surname='Krilanovich' fullname='M. Krilanovich'><organization /></author>
+<date year='1972' month='December' />
+</front>
+<seriesInfo name='RFC' value='431'/>
+<seriesInfo name='DOI' value='10.17487/RFC0431'/>
 </reference>

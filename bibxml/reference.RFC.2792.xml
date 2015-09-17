@@ -1,43 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2792'>
-
+<reference  anchor='RFC2792' target='http://www.rfc-editor.org/info/rfc2792'>
 <front>
-<title abbrev='Key and Signature Encoding for KeyNote'>DSA and RSA Key and Signature Encoding for the KeyNote Trust Management System</title>
-<author initials='M.' surname='Blaze' fullname='Matt Blaze'>
-<organization>AT&amp;T Labs - Research</organization>
-<address>
-<postal>
-<street>180 Park Avenue</street>
-<city>Florham Park</city>
-<region>NJ</region>
-<code>07932-0971</code>
-<country>US</country></postal>
-<email>mab@research.att.com</email></address></author>
-<author initials='J.' surname='Ioannidis' fullname='John Ioannidis'>
-<organization>AT&amp;T Labs - Research</organization>
-<address>
-<postal>
-<street>180 Park Avenue</street>
-<city>Florham Park</city>
-<region>NJ</region>
-<code>07932-0971</code>
-<country>US</country></postal>
-<email>ji@research.att.com</email></address></author>
-<author initials='A.' surname='Keromytis' fullname='Angelos D. Keromytis'>
-<organization>University of Pennsylvania,  CIS Department,  Distributed Systems Lab</organization>
-<address>
-<postal>
-<street>200 S. 33rd Street</street>
-<city>Philadelphia</city>
-<region>PA</region>
-<code>19104-6389</code>
-<country>US</country></postal>
-<email>angelos@dsl.cis.upenn.edu</email></address></author>
+<title>DSA and RSA Key and Signature Encoding for the KeyNote Trust Management System</title>
+<author initials='M.' surname='Blaze' fullname='M. Blaze'><organization /></author>
+<author initials='J.' surname='Ioannidis' fullname='J. Ioannidis'><organization /></author>
+<author initials='A.' surname='Keromytis' fullname='A. Keromytis'><organization /></author>
 <date year='2000' month='March' />
-<abstract>
-<t>This memo describes RSA and DSA key and signature encoding, and binary key encoding for version 2 of the KeyNote trust-management system.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2792' />
-<format type='TXT' octets='13461' target='http://www.rfc-editor.org/rfc/rfc2792.txt' />
+<abstract><t>This memo describes RSA and DSA key and signature encoding, and binary key encoding for version 2 of the KeyNote trust-management system.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2792'/>
+<seriesInfo name='DOI' value='10.17487/RFC2792'/>
 </reference>

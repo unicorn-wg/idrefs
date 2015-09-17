@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1547'>
-
+<reference  anchor='RFC1547' target='http://www.rfc-editor.org/info/rfc1547'>
 <front>
-<title abbrev='Point-to-Point Protocol Requirements'>Requirements for an Internet Standard Point-to-Point Protocol</title>
-<author initials='D.' surname='Perkins' fullname='Drew Perkins'>
-<organization>Carnegie Mellon University</organization>
-<address>
-<postal>
-<street>4015 Holiday Park Drive</street>
-<city>Murrysville</city>
-<region>PA</region>
-<code>15668</code>
-<country>US</country></postal>
-<email>perkins+@cmu.edu</email></address></author>
+<title>Requirements for an Internet Standard Point-to-Point Protocol</title>
+<author initials='D.' surname='Perkins' fullname='D. Perkins'><organization /></author>
 <date year='1993' month='December' />
-<abstract>
-<t>This document discusses the evaluation criteria for an Internet Standard Data Link Layer protocol to be used with point-to-point links.  Although many industry standard protocols and ad hoc protocols already exist for the data link layer, none are both complete and sufficiently versatile to be accepted as an Internet Standard.  In preparation to designing such a protocol, the features necessary to qualify a point-to-point protocol as an Internet Standard are discussed in detail.  An analysis of the strengths and weaknesses of several existing protocols on the basis of these requirements demonstrates the failure of each to address key issues.</t>
-<t>Historical Note: This was the design requirements document dated June 1989, which was followed for RFC-1134 through the present. It is now published for completeness and future guidance.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1547' />
-<format type='TXT' octets='49810' target='http://www.rfc-editor.org/rfc/rfc1547.txt' />
+<abstract><t>This document discusses the evaluation criteria for an Internet Standard Data Link Layer protocol to be used with point-to-point links. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1547'/>
+<seriesInfo name='DOI' value='10.17487/RFC1547'/>
 </reference>

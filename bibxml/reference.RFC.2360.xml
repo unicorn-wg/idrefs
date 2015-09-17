@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2360'>
-
+<reference  anchor='RFC2360' target='http://www.rfc-editor.org/info/rfc2360'>
 <front>
 <title>Guide for Internet Standards Writers</title>
-<author initials='G.D.' surname='Scott' fullname='Gregor D. Scott'>
-<organization>Director, Defense Information Systems Agency</organization>
-<address>
-<postal>
-<street>ATTN: JIEO-JEBBC</street>
-<street>Ft. Monmouth</street>
-<street>NJ  07703-5613</street>
-<country>USA</country></postal>
-<phone>(732) 427-6856</phone>
-<facsimile>(732) 532-0853</facsimile>
-<email>scottg@ftm.disa.mil</email></address></author>
+<author initials='G.' surname='Scott' fullname='G. Scott'><organization /></author>
 <date year='1998' month='June' />
-<area>General</area>
-<keyword>Guidelines</keyword>
-<abstract>
-<t>
-   This document is a guide for Internet standard writers.  It defines
-   those characteristics that make standards coherent, unambiguous, and
-   easy to interpret.  In addition, it singles out usage believed to
-   have led to unclear specifications, resulting in non-interoperable
-   interpretations in the past.  These guidelines are to be used with
-   RFC 2223, &quot;Instructions to RFC Authors&quot;.
-</t></abstract></front>
-
-<seriesInfo name='BCP' value='22' />
-<seriesInfo name='RFC' value='2360' />
-<format type='TXT' octets='47280' target='http://www.rfc-editor.org/rfc/rfc2360.txt' />
-<format type='XML' octets='49375' target='http://xml.resource.org/public/rfc/xml/rfc2360.xml' />
+<abstract><t>This document is a guide for Internet standard writers.  It defines those characteristics that make standards coherent, unambiguous, and easy to interpret.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t></abstract>
+</front>
+<seriesInfo name='BCP' value='22'/>
+<seriesInfo name='RFC' value='2360'/>
+<seriesInfo name='DOI' value='10.17487/RFC2360'/>
 </reference>

@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2720'>
-
+<reference  anchor='RFC2720' target='http://www.rfc-editor.org/info/rfc2720'>
 <front>
 <title>Traffic Flow Measurement: Meter MIB</title>
-<author initials='N.' surname='Brownlee' fullname='Nevil Brownlee'>
-<organization>The University of Auckland,  Information Technology Systems &amp; Services</organization>
-<address>
-<postal>
-<street>Private Bag 92-019</street>
-<city>Auckland</city>
-<region />
-<code />
-<country>NZ</country></postal>
-<phone>+64 9 3737599x8941</phone>
-<email>n.brownlee@auckland.ac.nz</email></address></author>
+<author initials='N.' surname='Brownlee' fullname='N. Brownlee'><organization /></author>
 <date year='1999' month='October' />
-<abstract>
-<t>The RTFM Traffic Measurement Architecture provides a general framework for describing and measuring network traffic flows.  Flows are defined in terms of their Address attribute values and measured by a 'Traffic Meter'.</t>
-<t>This document defines a Management Information Base (MIB) for use in controlling an RTFM Traffic Meter, in particular for specifying the flows to be measured.  It also provides an efficient mechanism for retrieving flow data from the meter using SNMP. Security issues concerning the operation of traffic meters are summarised.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2720' />
-<format type='TXT' octets='103781' target='http://www.rfc-editor.org/rfc/rfc2720.txt' />
+<abstract><t>This document defines a Management Information Base (MIB) for use in controlling an RTFM Traffic Meter, in particular for specifying the flows to be measured.  It also provides an efficient mechanism for retrieving flow data from the meter using SNMP.  Security issues concerning the operation of traffic meters are summarised.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2720'/>
+<seriesInfo name='DOI' value='10.17487/RFC2720'/>
 </reference>

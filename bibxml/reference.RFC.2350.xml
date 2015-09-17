@@ -1,61 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2350'>
-
+<reference  anchor='RFC2350' target='http://www.rfc-editor.org/info/rfc2350'>
 <front>
-<title abbrev='Security Response'>Expectations for Computer Security Incident Response</title>
-<author initials='N.' surname='Brownlee' fullname='Nevil Brownlee'>
-<organization>ITSS Technology Development</organization>
-<address>
-<postal>
-<street>The University of Auckland</street></postal>
-<phone>+64 9 373 7599 x8941</phone>
-<email>n.brownlee@auckland.ac.nz</email></address></author>
-<author initials='E.' surname='Guttman' fullname='Erik Guttman'>
-<organization>Sun Microsystems, Inc.</organization>
-<address>
-<postal>
-<street>Bahnstr. 2</street>
-<street>74915 Waibstadt Germany</street></postal>
-<phone>+49 7263 911484</phone>
-<email>Erik.Guttman@sun.com</email></address></author>
+<title>Expectations for Computer Security Incident Response</title>
+<author initials='N.' surname='Brownlee' fullname='N. Brownlee'><organization /></author>
+<author initials='E.' surname='Guttman' fullname='E. Guttman'><organization /></author>
 <date year='1998' month='June' />
-<area>Security</area>
-<area>Operations</area>
-<keyword>security</keyword>
-<abstract>
-<t>
-
-   The purpose of this document is to express the general Internet
-
-   community's expectations of Computer Security Incident Response Teams
-
-   (CSIRTs). It is not possible to define a set of requirements that
-
-   would be appropriate for all teams, but it is possible and helpful to
-
-   list and describe the general set of topics and issues which are of
-
-   concern and interest to constituent communities.
-</t>
-<t>
-
-
-   CSIRT constituents have a legitimate need and right to fully
-
-   understand the policies and procedures of 'their' Computer Security
-
-   Incident Response Team.  One way to support this understanding is to
-
-   supply detailed information which users may consider, in the form of
-
-   a formal template completed by the CSIRT.  An outline of such a
-
-   template and a filled in example are provided.
-</t></abstract></front>
-
-<seriesInfo name='BCP' value='21' />
-<seriesInfo name='RFC' value='2350' />
-<format type='TXT' octets='86545' target='http://www.rfc-editor.org/rfc/rfc2350.txt' />
-<format type='XML' octets='83626' target='http://xml.resource.org/public/rfc/xml/rfc2350.xml' />
+</front>
+<seriesInfo name='BCP' value='21'/>
+<seriesInfo name='RFC' value='2350'/>
+<seriesInfo name='DOI' value='10.17487/RFC2350'/>
 </reference>

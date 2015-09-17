@@ -1,54 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2596'>
-
+<reference  anchor='RFC2596' target='http://www.rfc-editor.org/info/rfc2596'>
 <front>
 <title>Use of Language Codes in LDAP</title>
-<author initials='M.' surname='Wahl' fullname='Mark Wahl'>
-<organization>Innosoft International, Inc.</organization>
-<address>
-<postal>
-<street>8911 Capital of Texas Highway</street>
-<street>Suite 4140</street>
-<city>Austin</city>
-<region>TX</region>
-<code>78759</code>
-<country>US</country></postal>
-<email>M.Wahl@innosoft.com</email></address></author>
-<author initials='T.' surname='Howes' fullname='Tim Howes'>
-<organization>Netscape Communications Corp.</organization>
-<address>
-<postal>
-<street>501 East Middlefield Road</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043</code>
-<country>US</country></postal>
-<phone>+1 650 937 3419</phone>
-<email>howes@netscape.com</email></address></author>
+<author initials='M.' surname='Wahl' fullname='M. Wahl'><organization /></author>
+<author initials='T.' surname='Howes' fullname='T. Howes'><organization /></author>
 <date year='1999' month='May' />
-<abstract>
-<t>TheLightweight Directory Access Protocolprovides a
-means for
-clients to interrogate and modify information stored in a distributed
-directory system.
-The information in the directory is maintained asattributesof entries.
-Most of these attributes have syntaxes
-which are human-readable strings, and it is desirable to be able to
-indicate the natural language associated with attribute values.</t>
-<t>This document describes howlanguage codesare carried in LDAP
-and are to be interpreted by LDAP servers.
-All implementations MUST
-be prepared to accept language codes in the LDAP protocols.
-Servers
-may or may not be capable of storing attributes with language codes
-in the directory.
-This document does not specify how to determine
-whether particular attributes can or cannot have language codes.</t>
-<t>The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
-"SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this
-document are to be interpreted as described inRFC 2119.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2596' />
-<format type='TXT' octets='17413' target='http://www.rfc-editor.org/rfc/rfc2596.txt' />
+<abstract><t>This document describes how language codes are carried in LDAP and are to be interpreted by LDAP servers.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2596'/>
+<seriesInfo name='DOI' value='10.17487/RFC2596'/>
 </reference>

@@ -1,21 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1731'>
-
+<reference  anchor='RFC1731' target='http://www.rfc-editor.org/info/rfc1731'>
 <front>
 <title>IMAP4 Authentication Mechanisms</title>
-<author initials='J.G.' surname='Myers' fullname='John G. Myers'>
-<organization>Carnegie-Mellon University</organization>
-<address>
-<postal>
-<street>5000 Forbes Ave.</street>
-<city>Pittsburgh</city>
-<region>PA</region>
-<code>15213-3890</code>
-<country>US</country></postal>
-<email>jgm+@cmu.edu</email></address></author>
-<date year='1994' month='December' /></front>
-
-<seriesInfo name='RFC' value='1731' />
-<format type='TXT' octets='11433' target='http://www.rfc-editor.org/rfc/rfc1731.txt' />
+<author initials='J.' surname='Myers' fullname='J. Myers'><organization /></author>
+<date year='1994' month='December' />
+<abstract><t>The Internet Message Access Protocol, Version 4 [IMAP4] contains the AUTHENTICATE command, for identifying and authenticating a user to an IMAP4 server and for optionally negotiating a protection mechanism for subsequent protocol interactions.  This document describes several authentication mechanisms for use by the IMAP4 AUTHENTICATE command. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1731'/>
+<seriesInfo name='DOI' value='10.17487/RFC1731'/>
 </reference>

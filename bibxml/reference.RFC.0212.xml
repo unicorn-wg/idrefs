@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0212'>
-
+<reference  anchor='RFC0212' target='http://www.rfc-editor.org/info/rfc212'>
 <front>
 <title>NWG meeting on network usage</title>
-<author>
-<organization>NWG Steering Committee</organization></author>
-<date year='1971' day='23' month='August' />
-<abstract>
-<t>M.I.T.'s Project MAC has agreed to host the next Network Working Group Meeting in Cambridge, Massachusetts.</t></abstract></front>
-
-<seriesInfo name='RFC' value='212' />
-<format type='TXT' octets='4356' target='http://www.rfc-editor.org/rfc/rfc212.txt' />
+<author><organization>Information Sciences Institute University of Southern California</organization></author>
+<date year='1971' month='August' />
+</front>
+<seriesInfo name='RFC' value='212'/>
+<seriesInfo name='DOI' value='10.17487/RFC0212'/>
 </reference>

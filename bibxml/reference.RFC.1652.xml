@@ -1,75 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1652'>
-
+<reference  anchor='RFC1652' target='http://www.rfc-editor.org/info/rfc1652'>
 <front>
-<title abbrev='SMTP 8bit-MIMEtransport'>SMTP Service Extension for 8bit-MIMEtransport</title>
-<author initials='J.' surname='Klensin' fullname='John Klensin'>
-<organization>MCI Data Services Division</organization>
-<address>
-<postal>
-<street>2100 Reston Parkway</street>
-<street>6th floor</street>
-<city>Reston</city>
-<region>VA</region>
-<code>22091</code>
-<country>US</country></postal>
-<phone>+1 703 715 7361</phone>
-<facsimile>+1 703 715 7435</facsimile>
-<email>klensin@mci.net</email></address></author>
-<author initials='N.' surname='Freed' fullname='Ned Freed'>
-<organization>Innosoft International, Inc.</organization>
-<address>
-<postal>
-<street>1050 East Garvey Avenue South</street>
-<city>West Covina</city>
-<region>CA</region>
-<code>91790</code>
-<country>US</country></postal>
-<phone>+1 818 919 3600</phone>
-<facsimile>+1 818 919 3614</facsimile>
-<email>ned@innosoft.com</email></address></author>
-<author initials='M.T.' surname='Rose' fullname='Marshall T. Rose'>
-<organization>Dover Beach Consulting, Inc.</organization>
-<address>
-<postal>
-<street>420 Whisman Court</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043-2186</code>
-<country>US</country></postal>
-<phone>+1 415 968 1052</phone>
-<facsimile>+1 415 968 2510</facsimile>
-<email>mrose@dbc.mtview.ca.us</email></address></author>
-<author initials='E.' surname='Stefferud' fullname='Einar A. Stefferud'>
-<organization>Network Management Associates, Inc.</organization>
-<address>
-<postal>
-<street>17301 Drey Lane</street>
-<city>Huntington Beach</city>
-<region>CA</region>
-<code>92647-5615</code>
-<country>US</country></postal>
-<phone>+1 714 842 3711</phone>
-<facsimile>+1 714 848 2091</facsimile>
-<email>stef@nma.com</email></address></author>
-<author initials='D.' surname='Crocker' fullname='Dave Crocker'>
-<organization>Silicon Graphics, Inc.</organization>
-<address>
-<postal>
-<street>2011 N. Shoreline Blvd.</street>
-<street>P.O. Box 7311</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94039</code>
-<country>US</country></postal>
-<phone>+1 415 390 1804</phone>
-<facsimile>+1 415 962 8404</facsimile>
-<email>dcrocker@sgi.com</email></address></author>
+<title>SMTP Service Extension for 8bit-MIMEtransport</title>
+<author initials='J.' surname='Klensin' fullname='J. Klensin'><organization /></author>
+<author initials='N.' surname='Freed' fullname='N. Freed'><organization /></author>
+<author initials='M.' surname='Rose' fullname='M. Rose'><organization /></author>
+<author initials='E.' surname='Stefferud' fullname='E. Stefferud'><organization /></author>
+<author initials='D.' surname='Crocker' fullname='D. Crocker'><organization /></author>
 <date year='1994' month='July' />
-<abstract>
-<t>This memo defines an extension to the SMTP service whereby an SMTP content body consisting of text containing octets outside of the US-ASCII octet range (hex 00-7F) may be relayed using SMTP.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1652' />
-<format type='TXT' octets='11842' target='http://www.rfc-editor.org/rfc/rfc1652.txt' />
+<abstract><t>This memo defines an extension to the SMTP service whereby an SMTP content body consisting of text containing octets outside of the US- ASCII octet range (hex 00-7F) may be relayed using SMTP.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1652'/>
+<seriesInfo name='DOI' value='10.17487/RFC1652'/>
 </reference>

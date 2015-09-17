@@ -1,42 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2489'>
-
+<reference  anchor='RFC2489' target='http://www.rfc-editor.org/info/rfc2489'>
 <front>
-<title abbrev='Defining New DCHP Options'>Procedure for Defining New DHCP Options</title>
-<author initials='R.' surname='Droms' fullname='Ralph Droms'>
-<organization>Bucknell University, Computer Science Department</organization>
-<address>
-<postal>
-<street>323 Dana Engineering</street>
-<city>Lewisburg</city>
-<region>PA</region>
-<code>17837</code>
-<country>USA</country></postal>
-<phone>+1 717 524 1145</phone>
-<email>droms@bucknell.edu</email></address></author>
+<title>Procedure for Defining New DHCP Options</title>
+<author initials='R.' surname='Droms' fullname='R. Droms'><organization /></author>
 <date year='1999' month='January' />
-<area>Internet</area>
-<keyword>dynamic host configuration protocol</keyword>
-<keyword>DHCP</keyword>
-<abstract>
-<t>
-   The Dynamic Host Configuration Protocol (DHCP) provides a framework
-   for passing configuration information to hosts on a TCP/IP network.
-   Configuration parameters and other control information are carried in
-   tagged data items that are stored in the &apos;options&apos; field of the DHCP
-   message.  The data items themselves are also called &quot;options.&quot;
-</t>
-<t>
-   New DHCP options may be defined after the publication of the DHCP
-   specification to accommodate requirements for conveyance of new
-   configuration parameters.  This document describes the procedure for
-   defining new DHCP options.
-</t></abstract></front>
-
-<seriesInfo name='BCP' value='29' />
-<seriesInfo name='RFC' value='2489' />
-<format type='TXT' octets='10484' target='http://www.rfc-editor.org/rfc/rfc2489.txt' />
-<format type='HTML' octets='27571' target='http://xml.resource.org/public/rfc/html/rfc2489.html' />
-<format type='XML' octets='19041' target='http://xml.resource.org/public/rfc/xml/rfc2489.xml' />
+<abstract><t>This document describes the procedure for defining new DHCP options. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t></abstract>
+</front>
+<seriesInfo name='BCP' value='29'/>
+<seriesInfo name='RFC' value='2489'/>
+<seriesInfo name='DOI' value='10.17487/RFC2489'/>
 </reference>

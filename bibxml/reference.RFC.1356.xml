@@ -1,49 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1356'>
-
+<reference  anchor='RFC1356' target='http://www.rfc-editor.org/info/rfc1356'>
 <front>
-<title abbrev='Multiprotocol Interconnect on X.25'>Multiprotocol Interconnect on X.25 and ISDN in the Packet Mode</title>
-<author initials='A.' surname='Malis' fullname='Andrew G. Malis'>
-<organization>BBN Communications</organization>
-<address>
-<postal>
-<street>150 CambridgePark Drive</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02140</code>
-<country>US</country></postal>
-<phone>+1 617 873 3419</phone>
-<email>malis@bbn.com</email></address></author>
-<author initials='D.' surname='Robinson' fullname='David Robinson'>
-<organization>Computervision Systems Integration</organization>
-<address>
-<postal>
-<street>201 Burlington Road</street>
-<city>Bedford</city>
-<region>MA</region>
-<code>01730</code>
-<country>US</country></postal>
-<phone>+1 617 275 1800 x2774</phone>
-<email>drb@relay.prime.com</email></address></author>
-<author initials='R.' surname='Ullmann' fullname='Robert L. Ullmann'>
-<organization>Process Software Corporation</organization>
-<address>
-<postal>
-<street>959 Concord Street</street>
-<city>Framingham</city>
-<region>MA</region>
-<code>01701</code>
-<country>US</country></postal>
-<phone>+1 508 879 6994</phone>
-<email>ariel@process.com</email></address></author>
+<title>Multiprotocol Interconnect on X.25 and ISDN in the Packet Mode</title>
+<author initials='A.' surname='Malis' fullname='A. Malis'><organization /></author>
+<author initials='D.' surname='Robinson' fullname='D. Robinson'><organization /></author>
+<author initials='R.' surname='Ullmann' fullname='R. Ullmann'><organization /></author>
 <date year='1992' month='August' />
-<abstract>
-<t>This document specifies the encapsulation of IP and other network layer protocols over X.25 networks, in accordance and alignment with ISO/IEC and CCITT standards.  It is a replacement for RFC 877, "A Standard for the Transmission of IP Datagrams Over Public Data Networks".</t>
-<t>It was written to correct several ambiguities in the Internet Standard for IP/X.25 (RFC 877), to align it with ISO/IEC standards that have been written following RFC 877, to allow interoperable multiprotocol operation between routers and bridges over X.25, and to add some additional remarks based upon practical experience with the specification over the 8 years since that RFC.</t>
-<t>The substantive change to the IP encapsulation is an increase in the allowed IP datagram Maximum Transmission Unit from 576 to 1600, to reflect existing practice.</t>
-<t>This document also specifies the Internet encapsulation for protocols, including IP, on the packet mode of the ISDN.  It applies to the use of Internet protocols on the ISDN in the circuit mode only when the circuit is established as an end-to-end X.25 connection.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1356' />
-<format type='TXT' octets='32043' target='http://www.rfc-editor.org/rfc/rfc1356.txt' />
+<abstract><t>This document specifies the encapsulation of IP and other network layer protocols over X.25 networks, in accordance and alignment with ISO/IEC and CCITT standards.  It is a replacement for RFC 877, &quot;A Standard for the Transmission of IP Datagrams Over Public Data Networks&quot; [1]. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1356'/>
+<seriesInfo name='DOI' value='10.17487/RFC1356'/>
 </reference>

@@ -1,19 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC7133'>
-
+<reference  anchor='RFC7133' target='http://www.rfc-editor.org/info/rfc7133'>
 <front>
 <title>Information Elements for Data Link Layer Traffic Measurement</title>
-<author initials='S.' surname='Kashima' fullname='S. Kashima'>
-<organization /></author>
-<author initials='A.' surname='Kobayashi' fullname='A. Kobayashi'>
-<organization /></author>
-<author initials='P.' surname='Aitken' fullname='P. Aitken'>
-<organization /></author>
+<author initials='S.' surname='Kashima' fullname='S. Kashima'><organization /></author>
+<author initials='A.' surname='Kobayashi' fullname='A. Kobayashi' role='editor'><organization /></author>
+<author initials='P.' surname='Aitken' fullname='P. Aitken'><organization /></author>
 <date year='2014' month='May' />
-<abstract>
-<t>This document describes Information Elements related to the data link layer.  They are used by the IP Flow Information Export (IPFIX) protocol for encoding measured data link layer traffic information.</t></abstract></front>
-
-<seriesInfo name='RFC' value='7133' />
-<format type='TXT' octets='76209' target='http://www.rfc-editor.org/rfc/rfc7133.txt' />
+<abstract><t>This document describes Information Elements related to the data link layer.  They are used by the IP Flow Information Export (IPFIX) protocol for encoding measured data link layer traffic information.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='7133'/>
+<seriesInfo name='DOI' value='10.17487/RFC7133'/>
 </reference>

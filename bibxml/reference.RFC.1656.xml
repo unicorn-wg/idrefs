@@ -1,21 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1656'>
-
+<reference  anchor='RFC1656' target='http://www.rfc-editor.org/info/rfc1656'>
 <front>
-<title abbrev='BGP-4 Implementation'>BGP-4 Protocol Document Roadmap and Implementation Experience</title>
-<author initials='P.' surname='Traina' fullname='Paul Traina'>
-<organization>cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>1525 O'Brien Drive</street>
-<city>Menlo Park</city>
-<region>CA</region>
-<code>94025</code>
-<country>US</country></postal>
-<email>pst@cisco.com</email></address></author>
-<date year='1994' month='July' /></front>
-
-<seriesInfo name='RFC' value='1656' />
-<format type='TXT' octets='7705' target='http://www.rfc-editor.org/rfc/rfc1656.txt' />
+<title>BGP-4 Protocol Document Roadmap and Implementation Experience</title>
+<author initials='P.' surname='Traina' fullname='P. Traina'><organization /></author>
+<date year='1994' month='July' />
+<abstract><t>Border Gateway Protocol v4 (BGP-4) [1] is an inter-Autonomous System routing protocol.  It is built on experience gained with BGP as defined in RFC-1267 [2] and BGP usage in the connected Internet as described in RFC-1268 [3].  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1656'/>
+<seriesInfo name='DOI' value='10.17487/RFC1656'/>
 </reference>

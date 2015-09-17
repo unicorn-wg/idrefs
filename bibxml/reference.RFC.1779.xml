@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1779'>
-
+<reference  anchor='RFC1779' target='http://www.rfc-editor.org/info/rfc1779'>
 <front>
-<title abbrev='DN Representation'>A String Representation of Distinguished Names</title>
-<author initials='S.' surname='Kille' fullname='Steve Kille'>
-<organization>ISODE Consortium</organization>
-<address>
-<postal>
-<street>The Dome, The Square</street>
-<city>Richmond</city>
-<region>England</region>
-<code>TW9 1DT</code>
-<country>UK</country></postal>
-<phone>+44 181 3329091</phone>
-<email>S.Kille@ISODE.COM</email></address></author>
+<title>A String Representation of Distinguished Names</title>
+<author initials='S.' surname='Kille' fullname='S. Kille'><organization /></author>
 <date year='1995' month='March' />
-<abstract>
-<t>The OSI Directory uses distinguished names as the primary keys to entries in the directory.  Distinguished Names are encoded in ASN.1. When a distinguished name is communicated between to users not using a directory protocol (e.g., in a mail message), there is a need to have a user-oriented string representation of distinguished name. This specification defines a string format for representing names, which is designed to give a clean representation of commonly used names, whilst being able to represent any distinguished name.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1779' />
-<format type='TXT' octets='12429' target='http://www.rfc-editor.org/rfc/rfc1779.txt' />
+<abstract><t>The OSI Directory uses distinguished names as the primary keys to entries in the directory.  Distinguished Names are encoded in ASN.1. When a distinguished name is communicated between to users not using a directory protocol (e.g., in a mail message), there is a need to have a user-oriented string representation of distinguished name. This specification defines a string format for representing names, which is designed to give a clean representation of commonly used names, whilst being able to represent any distinguished name. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1779'/>
+<seriesInfo name='DOI' value='10.17487/RFC1779'/>
 </reference>

@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1091'>
-
+<reference  anchor='RFC1091' target='http://www.rfc-editor.org/info/rfc1091'>
 <front>
 <title>Telnet terminal-type option</title>
-<author initials='J.' surname='VanBokkelen' fullname='James VanBokkelen'>
-<organization>FTP Software, Inc.</organization>
-<address>
-<postal>
-<street>26 Princess Street</street>
-<city>Wakefield</city>
-<region>MA</region>
-<code>01880-3004</code>
-<country>US</country></postal>
-<phone>+1 617 246 0900</phone>
-<email>jbvb@ftp.com</email></address></author>
-<date year='1989' day='1' month='February' /></front>
-
-<seriesInfo name='RFC' value='1091' />
-<format type='TXT' octets='13439' target='http://www.rfc-editor.org/rfc/rfc1091.txt' />
+<author initials='J.' surname='VanBokkelen' fullname='J. VanBokkelen'><organization /></author>
+<date year='1989' month='February' />
+<abstract><t>This RFC specifies a standard for the Internet community.  Hosts on the Internet that exchange terminal type information within the Telnet protocol are expected to adopt and implement this standard. This standard supersedes RFC 930.  A change is made to permit cycling through a list of possible terminal types and selecting the most appropriate</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1091'/>
+<seriesInfo name='DOI' value='10.17487/RFC1091'/>
 </reference>

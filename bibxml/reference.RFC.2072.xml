@@ -1,27 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2072'>
-
+<reference  anchor='RFC2072' target='http://www.rfc-editor.org/info/rfc2072'>
 <front>
 <title>Router Renumbering Guide</title>
-<author initials='H.' surname='Berkowitz' fullname='Howard C. Berkowitz'>
-<organization>PSC International</organization>
-<address>
-<postal>
-<street>1600 Spring Hill Road</street>
-<street>Suite 310</street>
-<city>Vienna</city>
-<region>VA</region>
-<code>22182</code>
-<country>US</country></postal>
-<phone>+1 703 998 5819</phone>
-<email>hcb@clark.net</email></address></author>
+<author initials='H.' surname='Berkowitz' fullname='H. Berkowitz'><organization /></author>
 <date year='1997' month='January' />
-<abstract>
-<t>IP addresses currently used by organizations are likely to undergo changes in the near to moderate term.  Change can become necessary for a variety of reasons, including enterprise reorganization, physical moves of equipment, new strategic relationships, changes in Internet Service Providers (ISP), new applications, and the needs of global Internet connectivity.  Good IP address management may in general simplify continuing system administration; a good renumbering plan is also a good numbering plan.    Most actions taken to ease future renumbering will ease routine network administration.</t>
-<t>Routers are the components that interconnect parts of the IP address space identified by unique prefixes.  Obviously, they will be impacted by renumbering.  Other interconnection devices, such as bridges, layer 2 switches (i.e., specialized bridges), and ATM switches may be affected by renumbering.  The interactions of these lower-layer interconnection devices with routers must be considered as part of a renumbering effort.</t>
-<t>Routers interact with numerous network infrastructure servers, including DNS and SNMP.  These interactions, not just the pure addressing and routing structure, must be considered as part of router renumbering.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2072' />
-<format type='TXT' octets='110591' target='http://www.rfc-editor.org/rfc/rfc2072.txt' />
+<abstract><t>Routers interact with numerous network infrastructure servers, including DNS and SNMP.  These interactions, not just the pure addressing and routing structure, must be considered as part of router renumbering. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2072'/>
+<seriesInfo name='DOI' value='10.17487/RFC2072'/>
 </reference>

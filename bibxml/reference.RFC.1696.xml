@@ -1,55 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1696'>
-
+<reference  anchor='RFC1696' target='http://www.rfc-editor.org/info/rfc1696'>
 <front>
-<title abbrev='Modem MIB'>Modem Management Information Base (MIB) using SMIv2</title>
-<author initials='J.' surname='Barnes' fullname='Jim Barnes'>
-<organization>Xylogics, Inc.</organization>
-<address>
-<postal>
-<street>53 Third Avenue</street>
-<city>Burlington</city>
-<region>MA</region>
-<code>01803</code>
-<country>US</country></postal>
-<phone>+1 617 272 8140</phone>
-<facsimile>+1 617 272 2618</facsimile>
-<email>barnes@xylogics.com</email></address></author>
-<author initials='L.' surname='Brown' fullname='Les Brown'>
-<organization>Motorola</organization>
-<address>
-<phone>+1 416 507 7200</phone>
-<email>brown_l@msm.cdx.mot.com</email></address></author>
-<author initials='R.' surname='Royston' fullname='Rick Royston'>
-<organization>US Robotics, Inc.</organization>
-<address>
-<postal>
-<street>8100 N. McCormick Boulevard</street>
-<city>Skokie</city>
-<region>IL</region>
-<code>60076-2999</code>
-<country>US</country></postal>
-<phone>+1 708 933 5430</phone>
-<facsimile>+1 708 982 1348</facsimile>
-<email>rroyston@usr.com</email></address></author>
-<author initials='S.' surname='Waldbusser' fullname='Steven Waldbusser'>
-<organization>Carnegie Mellon University, Computing and Communications</organization>
-<address>
-<postal>
-<street>5000 Forbes Avenue</street>
-<street>Cyert Hall 130</street>
-<city>Pittsburgh</city>
-<region>PA</region>
-<code>15213-3890</code>
-<country>US</country></postal>
-<phone>+1 412 268 6628</phone>
-<facsimile>+1 412 268 4987</facsimile>
-<email>swol@andrew.cmu.edu</email></address></author>
+<title>Modem Management Information Base (MIB) using SMIv2</title>
+<author initials='J.' surname='Barnes' fullname='J. Barnes'><organization /></author>
+<author initials='L.' surname='Brown' fullname='L. Brown'><organization /></author>
+<author initials='R.' surname='Royston' fullname='R. Royston'><organization /></author>
+<author initials='S.' surname='Waldbusser' fullname='S. Waldbusser'><organization /></author>
 <date year='1994' month='August' />
-<abstract>
-<t></t></abstract></front>
-
-<seriesInfo name='RFC' value='1696' />
-<format type='TXT' octets='54054' target='http://www.rfc-editor.org/rfc/rfc1696.txt' />
+<abstract><t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects used for managing dial-up modems and similar dial-up devices.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1696'/>
+<seriesInfo name='DOI' value='10.17487/RFC1696'/>
 </reference>

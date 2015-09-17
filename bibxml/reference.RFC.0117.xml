@@ -1,16 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0117'>
-
+<reference  anchor='RFC0117' target='http://www.rfc-editor.org/info/rfc117'>
 <front>
 <title>Some comments on the official protocol</title>
-<author initials='J.' surname='Wong' fullname='J. Wong'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<date year='1971' day='7' month='April' />
-<abstract>
-<t>Document No. 1 and NWG/RFC No. 107gave a very detailed description of connection establishment, connection termination and flow control over the Network.  Throughout the implementation of the NCP it was discovered that the handling of ERR control commands, messages of types other than 0 (regular), 4 (nop), and 5 (rfnm), and messages with the From-imp bit on are not well discussed so that problems arise when they occur.</t>
-<t>The Protocol is not complete if the above situations are not handled clearly, and the Host-Host Protocol Glitch Cleaning Committee should take this into consideration.  In this document, experience with these unfavorable situations and suggestions for handling are given:</t></abstract></front>
-
-<seriesInfo name='RFC' value='117' />
-<format type='TXT' octets='7128' target='http://www.rfc-editor.org/rfc/rfc117.txt' />
+<author initials='J.' surname='Wong' fullname='J. Wong'><organization /></author>
+<date year='1971' month='April' />
+</front>
+<seriesInfo name='RFC' value='117'/>
+<seriesInfo name='DOI' value='10.17487/RFC0117'/>
 </reference>

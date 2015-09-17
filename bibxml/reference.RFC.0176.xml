@@ -1,24 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0176'>
-
+<reference  anchor='RFC0176' target='http://www.rfc-editor.org/info/rfc176'>
 <front>
-<title>Comments on "Byte size for connections"</title>
-<author initials='A.' surname='Bhushan' fullname='A. Bhushan'>
-<organization>Massachusetts Institute of Technology (MIT)</organization></author>
-<author initials='R.' surname='Kanodia' fullname='R. Kanodia'>
-<organization>Massachusetts Institute of Technology (MIT)</organization></author>
-<author initials='R.' surname='Metcalfe' fullname='R. Metcalfe'>
-<organization>Massachusetts Institute of Technology (MIT)</organization></author>
-<author initials='J.' surname='Postel' fullname='J. Postel'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<date year='1971' day='14' month='June' />
-<abstract>
-<t>There are at least the following three views on the use of byte size for network connections*:</t>
-<t>1)   Byte size should not be used at all.</t>
-<t>2)   Byte size is solely for the convenience of NCP's.</t>
-<t>3)   Byte size choice is a user-level prerogative.</t></abstract></front>
-
-<seriesInfo name='RFC' value='176' />
-<format type='TXT' octets='7269' target='http://www.rfc-editor.org/rfc/rfc176.txt' />
+<title>Comments on &quot;Byte size for connections&quot;</title>
+<author initials='A.K.' surname='Bhushan' fullname='A.K. Bhushan'><organization /></author>
+<author initials='R.' surname='Kanodia' fullname='R. Kanodia'><organization /></author>
+<author initials='R.M.' surname='Metcalfe' fullname='R.M. Metcalfe'><organization /></author>
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<date year='1971' month='June' />
+</front>
+<seriesInfo name='RFC' value='176'/>
+<seriesInfo name='DOI' value='10.17487/RFC0176'/>
 </reference>

@@ -1,33 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1386'>
-
+<reference  anchor='RFC1386' target='http://www.rfc-editor.org/info/rfc1386'>
 <front>
 <title>The US Domain</title>
-<author initials='A.' surname='Cooper' fullname='Ann Cooper'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511</phone>
-<email>cooper@isi.edu</email></address></author>
-<author initials='J.' surname='Postel' fullname='Jon Postel'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511</phone>
-<email>postel@isi.edu</email></address></author>
-<date year='1992' month='December' /></front>
-
-<seriesInfo name='RFC' value='1386' />
-<format type='TXT' octets='62310' target='http://www.rfc-editor.org/rfc/rfc1386.txt' />
+<author initials='A.' surname='Cooper' fullname='A. Cooper'><organization /></author>
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<date year='1992' month='December' />
+<abstract><t>This is a description of the US Top Level Domains on the Internet.  This memo provides information for the Internet community. It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1386'/>
+<seriesInfo name='DOI' value='10.17487/RFC1386'/>
 </reference>

@@ -1,36 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2274'>
-
+<reference  anchor='RFC2274' target='http://www.rfc-editor.org/info/rfc2274'>
 <front>
-<title abbrev='USM for SNMPv3'>User-based Security Model (USM) for version 3 of the Simple Network Management Protocol (SNMPv3)</title>
-<author initials='U.' surname='Blumenthal' fullname='Uri Blumenthal'>
-<organization>IBM T. J. Watson Research</organization>
-<address>
-<postal>
-<street>30 Saw Mill River Pkwy</street>
-<street>Hawthorne</street>
-<street>NY 10532</street>
-<country>USA</country></postal>
-<phone>+31-348-432-794</phone>
-<email>wijnen@vnet.ibm.com</email>
-<uri>@watson.ibm.com</uri></address></author>
+<title>User-based Security Model (USM) for version 3 of the Simple Network Management Protocol (SNMPv3)</title>
+<author initials='U.' surname='Blumenthal' fullname='U. Blumenthal'><organization /></author>
+<author initials='B.' surname='Wijnen' fullname='B. Wijnen'><organization /></author>
 <date year='1998' month='January' />
-<area>Management</area>
-<keyword>network management</keyword>
-<keyword>security</keyword>
-<keyword>simple network management protocol</keyword>
-<keyword>simple network management protocol version 3</keyword>
-<abstract>
-<t>
-   This document describes the User-based Security Model (USM) for SNMP
-   version 3 for use in the SNMP architecture .  It defines the
-   Elements of Procedure for providing SNMP message level security.
-   This document also includes a MIB for remotely monitoring/managing
-   the configuration parameters for this Security Model.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2274' />
-<format type='TXT' octets='168950' target='http://www.rfc-editor.org/rfc/rfc2274.txt' />
-<format type='XML' octets='168166' target='http://xml.resource.org/public/rfc/xml/rfc2274.xml' />
+<abstract><t>This document describes the User-based Security Model (USM) for SNMP version 3 for use in the SNMP architecture [RFC2261].  It defines the Elements of Procedure for providing SNMP message level security.  This document also includes a MIB for remotely monitoring/managing the configuration parameters for this Security Model.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2274'/>
+<seriesInfo name='DOI' value='10.17487/RFC2274'/>
 </reference>

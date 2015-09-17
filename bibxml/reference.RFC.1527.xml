@@ -1,27 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1527'>
-
+<reference  anchor='RFC1527' target='http://www.rfc-editor.org/info/rfc1527'>
 <front>
-<title abbrev='Cook Report on Internet'>What Should We Plan Given the Dilemma of the Network?</title>
-<author initials='G.' surname='Cook' fullname='Gordon Cook'>
-<organization>COOK Report on Internet</organization>
-<address>
-<postal>
-<street>431 Greenway Ave</street>
-<city>Ewing</city>
-<region>NJ</region>
-<code>08618</code>
-<country>US</country></postal>
-<phone>+1 609 882 2572</phone>
-<email>cook@path.net</email></address></author>
+<title>What Should We Plan Given the Dilemma of the Network?</title>
+<author initials='G.' surname='Cook' fullname='G. Cook'><organization /></author>
 <date year='1993' month='September' />
-<abstract>
-<t>Early last year, as the concluding effort of an 18 month appointment at the US Congress Office of Technology Assessment (OTA), I drafted a potential policy framework for Congressional action on the National Research and Education Network (NREN).</t>
-<t>The Internet community needs to be asking what the most important policy issues facing the network are.  And given agreement on any particular set of policy issues, the next thing we should be asking is, what would be some of the political choices that would follow for Congress to make?</t>
-<t>It is unfortunate that this was never officially done for or by the Congress by OTA.  What we have as a result is network policy making being carried out now by the Science Subcommittee on the House side in consultation with a relatively small group of interested parties. The debate seems to be more focused on preserving turf than on any sweeping understanding of what the legislation is doing.  That is unfortunate.</t>
-<t>In the hope that it may contain some useful ideas, I offer a shortened version of the suggested policy draft as information for the Internet community.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1527' />
-<format type='TXT' octets='46935' target='http://www.rfc-editor.org/rfc/rfc1527.txt' />
+<abstract><t>The Internet community needs to be asking what the most important policy issues facing the network are.  And given agreement on any particular set of policy issues, the next thing we should be asking is, what would be some of the political choices that would follow for Congress to make? This memo is a shortened version of the suggested policy draft. This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1527'/>
+<seriesInfo name='DOI' value='10.17487/RFC1527'/>
 </reference>

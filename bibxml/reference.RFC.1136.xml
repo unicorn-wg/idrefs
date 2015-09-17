@@ -1,33 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1136'>
-
+<reference  anchor='RFC1136' target='http://www.rfc-editor.org/info/rfc1136'>
 <front>
-<title abbrev='A Model for Routing in the Internet'>Administrative Domains and Routing Domains: A model for routing in the Internet</title>
-<author initials='S.' surname='Hares' fullname='Susan Hares'>
-<organization>Merit/NSFNET</organization>
-<address>
-<postal>
-<street>1075 Beal Ave.</street>
-<city>Ann Arbor</city>
-<region>MI</region>
-<code>48109</code>
-<country>US</country></postal>
-<phone>+1 313 936 3000</phone>
-<email>skh@merit.edu</email></address></author>
-<author initials='D.' surname='Katz' fullname='Dave Katz'>
-<organization>Merit/NSFNET</organization>
-<address>
-<postal>
-<street>1075 Beal Ave.</street>
-<city>Ann Arbor</city>
-<region>MI</region>
-<code>48109</code>
-<country>US</country></postal>
-<phone>+1 313 763 4898</phone>
-<email>dkatz@merit.edu</email></address></author>
-<date year='1989' day='1' month='December' /></front>
-
-<seriesInfo name='RFC' value='1136' />
-<format type='TXT' octets='22158' target='http://www.rfc-editor.org/rfc/rfc1136.txt' />
+<title>Administrative Domains and Routing Domains: A model for routing in the Internet</title>
+<author initials='S.' surname='Hares' fullname='S. Hares'><organization /></author>
+<author initials='D.' surname='Katz' fullname='D. Katz'><organization /></author>
+<date year='1989' month='December' />
+<abstract><t>This RFC proposes a model for describing routing within the Internet. The model is an adaptation of the &quot;OSI Routeing Framework&quot;.  This memo does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1136'/>
+<seriesInfo name='DOI' value='10.17487/RFC1136'/>
 </reference>

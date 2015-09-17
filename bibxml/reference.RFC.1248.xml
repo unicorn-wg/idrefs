@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1248'>
-
+<reference  anchor='RFC1248' target='http://www.rfc-editor.org/info/rfc1248'>
 <front>
-<title abbrev='OSPF Version 2 MIB'>OSPF Version 2 Management Information Base</title>
-<author initials='F.' surname='Baker' fullname='Fred Baker'>
-<organization>Advanced Computer Communications (ACC)</organization>
-<address>
-<postal>
-<street>720 Santa Barbara Street</street>
-<city>Santa Barbara</city>
-<region>CA</region>
-<code>93101</code>
-<country>US</country></postal>
-<phone>+1 805 963 9431</phone>
-<email>fbaker@acc.com</email></address></author>
-<author initials='R.' surname='Coltun' fullname='Rob Coltun'>
-<organization>Computer Science Center</organization>
-<address>
-<postal>
-<street>Computer and Space Sciences Building</street>
-<city>College Park</city>
-<region>MD</region>
-<code>20742</code>
-<country>US</country></postal>
-<phone>+1 301 921 8600</phone>
-<email>rcoltun@ni.umd.edu</email></address></author>
-<date year='1991' day='1' month='July' />
-<abstract>
-<t>This memo defines an experimental portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines objects for    managing OSPF Version 2.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1248' />
-<format type='TXT' octets='74347' target='http://www.rfc-editor.org/rfc/rfc1248.txt' />
+<title>OSPF Version 2 Management Information Base</title>
+<author initials='F.' surname='Baker' fullname='F. Baker'><organization /></author>
+<author initials='R.' surname='Coltun' fullname='R. Coltun'><organization /></author>
+<date year='1991' month='July' />
+<abstract><t>This memo defines an experimental portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines objects for managing OSPF Version 2. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1248'/>
+<seriesInfo name='DOI' value='10.17487/RFC1248'/>
 </reference>

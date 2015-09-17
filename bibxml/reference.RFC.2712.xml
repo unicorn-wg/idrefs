@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2712'>
-
+<reference  anchor='RFC2712' target='http://www.rfc-editor.org/info/rfc2712'>
 <front>
-<title abbrev='Addition of Kerberos Cipher Suites to TLS'>Addition of Kerberos Cipher Suites to Transport Layer Security (TLS)</title>
-<author initials='A.' surname='Medvinsky' fullname='Ari Medvinsky'>
-<organization>Excite</organization>
-<address>
-<postal>
-<street>555 Broadway</street>
-<city>Redwood City</city>
-<region>CA</region>
-<code>94063</code>
-<country>US</country></postal>
-<phone>+1 650 569 2119</phone>
-<email>amedvins@excitecorp.com</email></address></author>
-<author initials='M.' surname='Hur' fullname='Matthew Hur'>
-<organization>CyberSafe Corporation</organization>
-<address>
-<postal>
-<street>1605 NW Sammamish Road</street>
-<city>Issaquah</city>
-<region>WA</region>
-<code>98027-5378</code>
-<country>US</country></postal>
-<phone>+1 425 391 6000</phone>
-<email>matt.hur@cybersafe.com</email></address></author>
+<title>Addition of Kerberos Cipher Suites to Transport Layer Security (TLS)</title>
+<author initials='A.' surname='Medvinsky' fullname='A. Medvinsky'><organization /></author>
+<author initials='M.' surname='Hur' fullname='M. Hur'><organization /></author>
 <date year='1999' month='October' />
-<abstract>
-<t>This document proposes the addition of new cipher suites to the TLS protocolto support Kerberos-based authentication.  Kerberos credentials are used to achieve mutual authentication and to establish a master secret which is subsequently used to secure client-server communication.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2712' />
-<format type='TXT' octets='13763' target='http://www.rfc-editor.org/rfc/rfc2712.txt' />
+<abstract><t>This document proposes the addition of new cipher suites to the TLS protocol to support Kerberos-based authentication.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2712'/>
+<seriesInfo name='DOI' value='10.17487/RFC2712'/>
 </reference>

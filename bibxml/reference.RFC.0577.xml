@@ -1,14 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0577'>
-
+<reference  anchor='RFC0577' target='http://www.rfc-editor.org/info/rfc577'>
 <front>
 <title>Mail priority</title>
-<author initials='D.' surname='Crocker' fullname='D. Crocker'>
-<organization /></author>
-<date year='1973' month='October' /></front>
-
-<seriesInfo name='RFC' value='577' />
-<format type='TXT' octets='2434' target='http://www.rfc-editor.org/rfc/rfc577.txt' />
-<format type='PDF' octets='91292' target='http://www.rfc-editor.org/rfc/rfc577.pdf' />
+<author initials='D.' surname='Crocker' fullname='D. Crocker'><organization /></author>
+<date year='1973' month='October' />
+</front>
+<seriesInfo name='RFC' value='577'/>
+<seriesInfo name='DOI' value='10.17487/RFC0577'/>
 </reference>

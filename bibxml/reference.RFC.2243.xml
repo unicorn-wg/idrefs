@@ -1,34 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2243'>
-
+<reference  anchor='RFC2243' target='http://www.rfc-editor.org/info/rfc2243'>
 <front>
-<title abbrev='OTP'>OTP Extended Responses</title>
-<author initials='C.' surname='Metz' fullname='Craig Metz'>
-<organization>The Inner Net</organization>
-<address>
-<postal>
-<street>Box 10314-1936</street>
-<street>Blacksburg</street>
-<street>VA 24062-0314</street>
-<street>(DSN) 354-8590</street></postal>
-<email>cmetz@inner.net</email></address></author>
+<title>OTP Extended Responses</title>
+<author initials='C.' surname='Metz' fullname='C. Metz'><organization /></author>
 <date year='1997' month='November' />
-<keyword>one-time password</keyword>
-<abstract>
-<t>
-   This document provides a specification for a type of response to an
-   OTP  challenge that carries explicit indication of the
-   response&apos;s encoding. Codings for the two mandatory OTP data formats
-   using this new type of response are presented.
-</t>
-<t>
-   This document also provides a specification for a response that
-   allows an OTP generator to request that a server re-initialize a
-   sequence and change parameters such as the secret pass phrase.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2243' />
-<format type='TXT' octets='19730' target='http://www.rfc-editor.org/rfc/rfc2243.txt' />
-<format type='XML' octets='20841' target='http://xml.resource.org/public/rfc/xml/rfc2243.xml' />
+<abstract><t>This document provides a specification for a type of response to an OTP [RFC 1938] challenge that carries explicit indication of the response's encoding.  This document also provides a specification for a response that allows an OTP generator to request that a server re-initialize a sequence and change parameters such as the secret pass phrase. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2243'/>
+<seriesInfo name='DOI' value='10.17487/RFC2243'/>
 </reference>

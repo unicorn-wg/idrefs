@@ -1,17 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0141'>
-
+<reference  anchor='RFC0141' target='http://www.rfc-editor.org/info/rfc141'>
 <front>
-<title abbrev='Comments on RFC 141'>Comments on RFC 114: A File Transfer Protocol</title>
-<author initials='E.' surname='Harslem' fullname='E. F. Harslem'>
-<organization>Rand Corporation</organization></author>
-<author initials='J.' surname='Haefner' fullname='J. F. Haefner'>
-<organization>Rand Corporation</organization></author>
-<date year='1971' day='29' month='April' />
-<abstract>
-<t>A file transfer protocol is needed.  Bushan's proposal would satisfy a particular current need that we have, as well as short-term envisioned needs</t></abstract></front>
-
-<seriesInfo name='RFC' value='141' />
-<format type='TXT' octets='3781' target='http://www.rfc-editor.org/rfc/rfc141.txt' />
+<title>Comments on RFC 114: A File Transfer Protocol</title>
+<author initials='E.' surname='Harslem' fullname='E. Harslem'><organization /></author>
+<author initials='J.F.' surname='Heafner' fullname='J.F. Heafner'><organization /></author>
+<date year='1971' month='April' />
+</front>
+<seriesInfo name='RFC' value='141'/>
+<seriesInfo name='DOI' value='10.17487/RFC0141'/>
 </reference>

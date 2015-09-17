@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1465'>
-
+<reference  anchor='RFC1465' target='http://www.rfc-editor.org/info/rfc1465'>
 <front>
-<title abbrev='Routing Coordination for X.400 Services'>Routing Coordination for X.400 MHS Services Within a Multi Protocol / Multi Network Environment Table Format V3 for Static Routing</title>
-<author initials='U.' surname='Eppenberger' fullname='Urs Eppenberger'>
-<organization>SWITCH</organization>
-<address>
-<postal>
-<street>Limmatquai 138</street>
-<city>Zurich</city>
-<region />
-<code>CH-8001</code>
-<country>CH</country></postal>
-<phone>+41 1 2618112</phone>
-<facsimile>+41 1 2618133</facsimile>
-<email>Eppenberger@switch.ch</email></address></author>
-<date year='1993' month='May' /></front>
-
-<seriesInfo name='RFC' value='1465' />
-<format type='TXT' octets='66833' target='http://www.rfc-editor.org/rfc/rfc1465.txt' />
+<title>Routing Coordination for X.400 MHS Services Within a Multi Protocol / Multi Network Environment Table Format V3 for Static Routing</title>
+<author initials='D.' surname='Eppenberger' fullname='D. Eppenberger'><organization /></author>
+<date year='1993' month='May' />
+<abstract><t>This document proposes short term solutions for maintaining and distributing routing information and shows how messages can travel over different networks by using multi stack MTAs as relays.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1465'/>
+<seriesInfo name='DOI' value='10.17487/RFC1465'/>
 </reference>

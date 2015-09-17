@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0882'>
-
+<reference  anchor='RFC0882' target='http://www.rfc-editor.org/info/rfc882'>
 <front>
 <title>Domain names: Concepts and facilities</title>
-<author initials='P.' surname='Mockapetris' fullname='P. Mockapetris'>
-<organization>University of Southern California (USC)/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90291</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone></address></author>
-<date year='1983' day='1' month='November' />
-<abstract>
-<t>This RFC introduces domain style names, their use for ARPA Internet mail and host address support, and the protocols and servers used to implement domain name facilities</t>
-<t>This memo describes the conceptual framework of the domain system and some uses, but it omits many uses, fields, and implementation details.  A complete specification of formats, timeouts, etc. is presented in RFC 883, "Domain Names - Implementation and Specification".  That RFC assumes that the reader is familiar with the concepts discussed in this memo</t></abstract></front>
-
-<seriesInfo name='RFC' value='882' />
-<format type='TXT' octets='79776' target='http://www.rfc-editor.org/rfc/rfc882.txt' />
+<author initials='P.V.' surname='Mockapetris' fullname='P.V. Mockapetris'><organization /></author>
+<date year='1983' month='November' />
+<abstract><t>This RFC introduces domain style names, their use for ARPA Internet    mail and host address support, and the protocol and servers used to    implement domain name facilities.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='882'/>
+<seriesInfo name='DOI' value='10.17487/RFC0882'/>
 </reference>

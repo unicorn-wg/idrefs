@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2528'>
-
+<reference  anchor='RFC2528' target='http://www.rfc-editor.org/info/rfc2528'>
 <front>
-<title abbrev='PKIX KEA'>Internet X.509 Public Key Infrastructure Representation of Key Exchange Algorithm (KEA) Keys in Internet X.509 Public Key Infrastructure Certificates</title>
-<author initials='R.' surname='Housley' fullname='Russell Housley'>
-<organization>SPYRUS</organization>
-<address>
-<postal>
-<street>381 Elden Street</street>
-<street>Suite 1120</street>
-<city>Herndon</city>
-<region>VA</region>
-<code>20170</code>
-<country>US</country></postal>
-<email>housley@spyrus.com</email></address></author>
-<author initials='T.' surname='Polk' fullname='Tim Polk'>
-<organization>NIST</organization>
-<address>
-<postal>
-<street>Building 820</street>
-<street>Room 426</street>
-<city>Gaithersburg</city>
-<region>MD</region>
-<code>20899</code>
-<country>US</country></postal>
-<email>wpolk@nist.gov</email></address></author>
+<title>Internet X.509 Public Key Infrastructure Representation of Key Exchange Algorithm (KEA) Keys in Internet X.509 Public Key Infrastructure Certificates</title>
+<author initials='R.' surname='Housley' fullname='R. Housley'><organization /></author>
+<author initials='W.' surname='Polk' fullname='W. Polk'><organization /></author>
 <date year='1999' month='March' />
-<abstract>
-<t>The Key Exchange Algorithm (KEA) is a classified algorithm for exchanging keys.  This specification profiles the format and semantics of fields in X.509 V3 certificates containing KEA keys. The specification addresses the subjectPublicKeyInfo field and the keyUsage extension.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2528' />
-<format type='TXT' octets='18273' target='http://www.rfc-editor.org/rfc/rfc2528.txt' />
+<abstract><t>This specification contains guidance on the use of the Internet Public Key Infrastructure certificates to convey Key Exchange Algorithm (KEA) keys. This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2528'/>
+<seriesInfo name='DOI' value='10.17487/RFC2528'/>
 </reference>

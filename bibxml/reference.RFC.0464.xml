@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0464'>
-
+<reference  anchor='RFC0464' target='http://www.rfc-editor.org/info/rfc464'>
 <front>
 <title>Resource notebook framework</title>
-<author initials='M.' surname='Kudlick' fullname='Michael D. Kudlick'>
-<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
-<date year='1973' day='27' month='February' />
-<abstract>
-<t>The purpose of this RFC is to present a framework for coordinating all the surveys and data gathering efforts concerned with "resource notebook" type of information.</t></abstract></front>
-
-<seriesInfo name='RFC' value='464' />
-<format type='TXT' octets='3684' target='http://www.rfc-editor.org/rfc/rfc464.txt' />
+<author initials='M.D.' surname='Kudlick' fullname='M.D. Kudlick'><organization /></author>
+<date year='1973' month='February' />
+</front>
+<seriesInfo name='RFC' value='464'/>
+<seriesInfo name='DOI' value='10.17487/RFC0464'/>
 </reference>

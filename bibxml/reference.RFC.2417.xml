@@ -1,47 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2417'>
-
+<reference  anchor='RFC2417' target='http://www.rfc-editor.org/info/rfc2417'>
 <front>
-<title abbrev='Multicast MIB'>Definitions of Managed Objects for Multicast over UNI 3.0/3.1 based ATM Networks</title>
-<author initials='C.' surname='Chung' fullname='Chris Chung'>
-<organization>Independent Consultant</organization>
-<address>
-<email>chihschung@aol.com</email></address></author>
-<author initials='M.' surname='Greene' fullname='Maria Greene'>
-<organization>Independent Contractor</organization>
-<address>
-<email>maria@xedia.com</email></address></author>
+<title>Definitions of Managed Objects for Multicast over UNI 3.0/3.1 based ATM Networks</title>
+<author initials='C.' surname='Chung' fullname='C. Chung'><organization /></author>
+<author initials='M.' surname='Greene' fullname='M. Greene'><organization /></author>
 <date year='1998' month='September' />
-<area>Internet</area>
-<area>Management</area>
-<keyword>Management Information Base</keyword>
-<keyword>asynchronous transfer mode</keyword>
-<keyword>managed object</keyword>
-<keyword>multicast</keyword>
-<keyword>simple network management protocol</keyword>
-<abstract>
-<t>
-   This memo defines a portion of the Management Information Base (MIB)
-   for use with network management protocols in the Internet community.
-   In particular, it describes managed objects for IP hosts and routers
-   that use a Multicast Address Resolution Server (MARS) to support IP
-   multicast over ATM, as described in &apos;Support for Multicast over UNI
-   3.0/3.1 based ATM Networks&apos; .
-</t>
-<t>
-   This memo specifies a MIB module in a manner that is both compliant
-   to the SNMPv2 SMI, and semantically identical to the peer SNMPv1
-   definitions
-</t></abstract>
-<note title='IANA Note'>
-<t>
-   Due to a clerical error in the assignment of the snmpModules in this
-   memo, this RFC provides the corrected number assignment for this
-   protocol.  This memo obsoletes RFC 2366.
-</t></note></front>
-
-<seriesInfo name='RFC' value='2417' />
-<format type='TXT' octets='134862' target='http://www.rfc-editor.org/rfc/rfc2417.txt' />
-<format type='XML' octets='129382' target='http://xml.resource.org/public/rfc/xml/rfc2417.xml' />
+<abstract><t>This memo specifies a MIB module in a manner that is both compliant to the SNMPv2 SMI, and semantically identical to the peer SNMPv1 definitions.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2417'/>
+<seriesInfo name='DOI' value='10.17487/RFC2417'/>
 </reference>

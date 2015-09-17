@@ -1,39 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2232'>
-
+<reference  anchor='RFC2232' target='http://www.rfc-editor.org/info/rfc2232'>
 <front>
-<title abbrev='DLUR MIB'>Definitions of Managed Objects for DLUR using SMIv2</title>
-<author initials='B.' surname='Clouston' fullname='Bob Clouston'>
-<organization>Cisco Systems</organization>
-<address>
-<postal>
-<street>7025 Kit Creek Road</street>
-<street>P.O. Box 14987</street>
-<street>Research Triangle Park</street>
-<street>NC 27709</street>
-<country>USA</country></postal>
-<phone>+1 919 472 2333</phone>
-<email>clouston@cisco.com</email></address></author>
-<author initials='B.' surname='Moore' fullname='Bob Moore'>
-<organization>IBM Corporation</organization>
-<address>
-<postal>
-<street>800 Park Offices Drive</street>
-<street>CNMA/664</street>
-<street>P.O. Box 12195</street>
-<street>Research Triangle Park</street>
-<street>NC 27709</street>
-<country>USA</country></postal>
-<phone>+1 919 254 4436</phone>
-<email>remoore@ralvm6.vnet.ibm.com</email></address></author>
+<title>Definitions of Managed Objects for DLUR using SMIv2</title>
+<author initials='B.' surname='Clouston' fullname='B. Clouston' role='editor'><organization /></author>
+<author initials='B.' surname='Moore' fullname='B. Moore' role='editor'><organization /></author>
 <date year='1997' month='November' />
-<area>Management</area>
-<keyword>Management Information Base</keyword>
-<keyword>managed object</keyword>
-<keyword>structure of management information version 2</keyword></front>
-
-<seriesInfo name='RFC' value='2232' />
-<format type='TXT' octets='37955' target='http://www.rfc-editor.org/rfc/rfc2232.txt' />
-<format type='XML' octets='36532' target='http://xml.resource.org/public/rfc/xml/rfc2232.xml' />
+<abstract><t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it defines objects for monitoring and controlling network devices with DLUR (Dependent LU Requester) capabilities.  This memo identifies managed objects for the DLUR protocol.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2232'/>
+<seriesInfo name='DOI' value='10.17487/RFC2232'/>
 </reference>

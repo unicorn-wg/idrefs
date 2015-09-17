@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1937'>
-
+<reference  anchor='RFC1937' target='http://www.rfc-editor.org/info/rfc1937'>
 <front>
-<title abbrev='Forwarding in Switched Data Link Subnets'>"Local/Remote" Forwarding Decision in Switched Data Link Subnetworks</title>
-<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
-<organization>Cisco Systems</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134-1706</code>
-<country>US</country></postal>
-<phone>+1 914 528 0090</phone>
-<email>yakov@cisco.com</email></address></author>
-<author initials='D.' surname='Kandlur' fullname='Dilip Kandlur'>
-<organization>IBM Corporation, T.J. Watson Research Center</organization>
-<address>
-<postal>
-<street>P.O. Box 704</street>
-<city>Yorktown Heights</city>
-<region>NY</region>
-<code>10598</code>
-<country>US</country></postal>
-<phone>+1 914 784 7722</phone>
-<email>kandlur@watson.ibm.com</email></address></author>
+<title>&quot;Local/Remote&quot; Forwarding Decision in Switched Data Link Subnetworks</title>
+<author initials='Y.' surname='Rekhter' fullname='Y. Rekhter'><organization /></author>
+<author initials='D.' surname='Kandlur' fullname='D. Kandlur'><organization /></author>
 <date year='1996' month='May' />
-<abstract>
-<t>The IP architecture assumes that each Data Link subnetwork is labeled with a single IP subnet number. A pair of hosts with the same subnet number communicate directly  (with no routers); a pair of hosts with different subnet numbers always communicate through one or more routers. As indicated in RFC1620, these assumptions may be too restrictive for large data networks, and specifically for networks based on switched virtual circuit (SVC) based technologies (e.g. ATM, Frame Relay, X.25), as these assumptions impose constraints on communication among hosts and routers through a network.  The restrictions may preclude full utilization of the capabilities provided by the underlying SVC-based Data Link subnetwork.  This document describes extensions to the IP architecture that relaxes these constraints, thus enabling the full utilization of the services provided by SVC-based Data Link subnetworks.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1937' />
-<format type='TXT' octets='18302' target='http://www.rfc-editor.org/rfc/rfc1937.txt' />
+<abstract><t>This document describes extensions to the IP architecture that relaxes these constraints, thus enabling the full utilization of the services provided by SVC-based Data Link subnetworks.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1937'/>
+<seriesInfo name='DOI' value='10.17487/RFC1937'/>
 </reference>

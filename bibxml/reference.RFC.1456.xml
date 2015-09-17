@@ -1,60 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1456'>
-
+<reference  anchor='RFC1456' target='http://www.rfc-editor.org/info/rfc1456'>
 <front>
-<title abbrev='Conventions for Encoding Vietnamese'>Conventions for Encoding the Vietnamese Language VISCII: VIetnamese Standard Code for Information Interchange VIQR: VIetnamese Quoted-Readable Specification</title>
-<author initials='C.T.' surname='Nguyen' fullname='Cuong T. Nguyen'>
-<organization>Center for Integrated Systems</organization>
-<address>
-<postal>
-<street>CIS 062--MC 4070</street>
-<city>Stanford</city>
-<region>CA</region>
-<code>94305-4070</code>
-<country>US</country></postal>
-<phone>+1 415 725 3721</phone>
-<email>cuong@haydn.Stanford.EDU</email></address></author>
-<author initials='H.D.' surname='Ngo' fullname='Hoc D. Ngo'>
-<organization>Vista Research, Inc.</organization>
-<address>
-<postal>
-<street>100 View St</street>
-<street>Suite 200</street>
-<street>P.O. Box 998</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94042</code>
-<country>US</country></postal>
-<phone>+1 415 966 1171</phone>
-<email>uunet!vri280!hoc</email></address></author>
-<author initials='C.M.' surname='Bui' fullname='Cuong M. Bui'>
-<organization>National Semiconductor Corp.</organization>
-<address>
-<postal>
-<street>3388 Burgundy Dr.</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95132</code>
-<country>US</country></postal>
-<phone>+1 408 721 6873</phone>
-<email>bui@berlioz.nsc.com</email></address></author>
-<author initials='T.' surname='van Nguyen' fullname='Thanh van Nguyen'>
-<organization>Roche Image Analysis Systems</organization>
-<address>
-<postal>
-<street>95 First Str Suite 110</street>
-<city>Los Altos</city>
-<region>CA</region>
-<code>94022</code>
-<country>US</country></postal>
-<phone>+1 415 917 2022</phone>
-<facsimile>+1 415 917 2025</facsimile>
-<email>thanh@rias.com</email></address></author>
+<title>Conventions for Encoding the Vietnamese Language  VISCII: VIetnamese Standard Code for Information Interchange VIQR: VIetnamese Quoted-Readable Specification</title>
+<author><organization>Vietnamese Standardization Working Group</organization></author>
 <date year='1993' month='May' />
-<abstract>
-<t>This document provides information to the Internet community on the currently used conventions for encoding Vietnamese characters into 7-bit US ASCII and in an 8-bit form.  These conventions are widely used by the overseas Vietnamese who are on the Internet and are active in USENET.  This document only provides information and specifies no level of standard.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1456' />
-<format type='TXT' octets='14775' target='http://www.rfc-editor.org/rfc/rfc1456.txt' />
+<abstract><t>This document provides information to the Internet community on the currently used conventions for encoding Vietnamese characters into 7-bit US ASCII and in an 8-bit form.  This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1456'/>
+<seriesInfo name='DOI' value='10.17487/RFC1456'/>
 </reference>

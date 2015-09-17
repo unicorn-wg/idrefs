@@ -1,40 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2494'>
-
+<reference  anchor='RFC2494' target='http://www.rfc-editor.org/info/rfc2494'>
 <front>
-<title abbrev='DSO Managed Objects'>Definitions of Managed Objects for the DS0 and DS0 Bundle Interface Type</title>
-<author initials='D.' surname='Fowler' fullname='David Fowler'>
-<organization>Newbridge Networks</organization>
-<address>
-<postal>
-<street>600 March Road</street>
-<street>Kanata</street>
-<street>Ontario</street>
-<street>Canada K2K 2E6</street></postal>
-<phone>(613) 599-3600, ext 6559</phone>
-<email>davef@newbridge.com</email></address></author>
+<title>Definitions of Managed Objects for the DS0 and DS0 Bundle Interface Type</title>
+<author initials='D.' surname='Fowler' fullname='D. Fowler' role='editor'><organization /></author>
 <date year='1999' month='January' />
-<keyword>Management Information Base</keyword>
-<keyword>managed object</keyword>
-<keyword>synchronous optical network</keyword>
-<abstract>
-<t>
-   This memo defines a portion of the Management Information Base (MIB)
-   for use with network management protocols in the Internet community.
-   In particular, it describes objects used for managing DS0 and DS0
-   Bundle interfaces.  This document is a companion document with
-   Definitions of Managed Objects for the DS1/E1/DS2/E2 (RFC 2495 ),
-   DS3/E3 (RFC 2496 ), and the work in progress, SONET/SDH Interface
-   Types.
-</t>
-<t>
-   This memo specifies a MIB module in a manner that is both compliant
-   to the SNMPv2 SMI, and semantically identical to the peer SNMPv1
-   definitions.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2494' />
-<format type='TXT' octets='47208' target='http://www.rfc-editor.org/rfc/rfc2494.txt' />
-<format type='XML' octets='50895' target='http://xml.resource.org/public/rfc/xml/rfc2494.xml' />
+<abstract><t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes objects used for managing DS0 and DS0 Bundle interfaces.  This document is a companion document with Definitions of Managed Objects for the DS1/E1/DS2/E2 (RFC 2495), DS3/E3 (RFC 2496), and the work in progress, SONET/SDH Interface Types.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2494'/>
+<seriesInfo name='DOI' value='10.17487/RFC2494'/>
 </reference>

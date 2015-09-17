@@ -1,78 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC3342'>
-
+<reference  anchor='RFC3342' target='http://www.rfc-editor.org/info/rfc3342'>
 <front>
-<title abbrev='The Application Exchange (APEX) Party Pack'>The Application Exchange (APEX) Option Party Pack, Part Deux!</title>
-<author initials='G.' surname='Klyne' fullname='Graham Klyne'>
-<organization>Clearswift Corporation</organization>
-<address>
-<postal>
-<street>1310 Waterside</street>
-<street>Arlington Business Park</street>
-<city>Theale</city>
-<region>Reading</region>
-<code>RG7 4SA</code>
-<country>UK</country></postal>
-<phone>+44 11 8903 8903</phone>
-<email>Graham.Klyne@MIMEsweeper.com</email></address></author>
-<author initials='M.T.' surname='Rose' fullname='Marshall T. Rose'>
-<organization>Dover Beach Consulting, Inc.</organization>
-<address>
-<postal>
-<street>POB 255268</street>
-<city>Sacramento</city>
-<region>CA</region>
-<code>95865-5268</code>
-<country>US</country></postal>
-<phone>+1 916 483 8878</phone>
-<email>mrose@dbc.mtview.ca.us</email></address></author>
-<author initials='M.F.' surname='Schwartz' fullname='Michael F. Schwartz'>
-<organization>Code On The Road, LLC</organization>
-<address>
-<email>schwartz@CodeOnTheRoad.com</email>
-<uri>http://www.CodeOnTheRoad.com</uri></address></author>
-<author initials='E.' surname='Dixon' fullname='Eric Dixon'>
-<organization />
-<address>
-<email>edixon@myrealbox.com</email></address></author>
-<author initials='H.' surname='Franklin' fullname='Huston Franklin'>
-<organization />
-<address>
-<email>huston@franklin.ro</email></address></author>
-<author initials='J.' surname='Kint' fullname='Jay Kint'>
-<organization />
-<address>
-<email>d20@icosahedron.org</email></address></author>
-<author initials='D.' surname='New' fullname='Darren New'>
-<organization />
-<address>
-<postal>
-<street>5390 Caminito Exquisito</street>
-<city>San Diego</city>
-<region>CA</region>
-<code>92130</code>
-<country>US</country></postal>
-<phone>+1 858 350 9733</phone>
-<email>dnew@san.rr.com</email></address></author>
-<author initials='S.' surname='Pead' fullname='Scott Pead'>
-<organization />
-<address>
-<email>spead@fiber.net</email></address></author>
+<title>The Application Exchange (APEX) Option Party Pack, Part Deux!</title>
+<author initials='E.' surname='Dixon' fullname='E. Dixon'><organization /></author>
+<author initials='H.' surname='Franklin' fullname='H. Franklin'><organization /></author>
+<author initials='J.' surname='Kint' fullname='J. Kint'><organization /></author>
+<author initials='G.' surname='Klyne' fullname='G. Klyne'><organization /></author>
+<author initials='D.' surname='New' fullname='D. New'><organization /></author>
+<author initials='S.' surname='Pead' fullname='S. Pead'><organization /></author>
+<author initials='M.' surname='Rose' fullname='M. Rose'><organization /></author>
+<author initials='M.' surname='Schwartz' fullname='M. Schwartz'><organization /></author>
 <date year='2002' month='July' />
-<area>Applications</area>
-<keyword>APEX</keyword>
-<keyword>BEEP</keyword>
-<keyword>messaging</keyword>
-<abstract>
-<t>Application Exchange (APEX),
-at its core, provides a best-effort application-layer datagram service.
-Options are used to alter the semantics of the core service.
-This memo defines various options to change the default behavior of
-APEX's "relaying mesh".</t></abstract></front>
-
-<seriesInfo name='RFC' value='3342' />
-<format type='TXT' octets='34300' target='http://www.rfc-editor.org/rfc/rfc3342.txt' />
-<format type='HTML' octets='56727' target='http://xml.resource.org/public/rfc/html/rfc3342.html' />
-<format type='XML' octets='34536' target='http://xml.resource.org/public/rfc/xml/rfc3342.xml' />
+</front>
+<seriesInfo name='RFC' value='3342'/>
+<seriesInfo name='DOI' value='10.17487/RFC3342'/>
 </reference>

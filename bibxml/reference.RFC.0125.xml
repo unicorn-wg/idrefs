@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0125'>
-
+<reference  anchor='RFC0125' target='http://www.rfc-editor.org/info/rfc125'>
 <front>
 <title>Response to RFC 86: Proposal for Network Standard Format for a Graphics Data Stream</title>
-<author initials='J.' surname='McConnell' fullname='John McConnell'>
-<organization>Ames Research Center</organization></author>
-<date year='1971' day='18' month='April' />
-<abstract>
-<t>The basic approach of transmitting an intermediate, device independent language which is translated into specific device codes at the receiving host is sound. It appears to be the only approach that will allow thought to be centered on picture descriptions.</t></abstract></front>
-
-<seriesInfo name='RFC' value='125' />
-<format type='TXT' octets='8133' target='http://www.rfc-editor.org/rfc/rfc125.txt' />
+<author initials='J.' surname='McConnell' fullname='J. McConnell'><organization /></author>
+<date year='1971' month='April' />
+</front>
+<seriesInfo name='RFC' value='125'/>
+<seriesInfo name='DOI' value='10.17487/RFC0125'/>
 </reference>

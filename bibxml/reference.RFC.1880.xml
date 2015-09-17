@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1880'>
-
+<reference  anchor='RFC1880' target='http://www.rfc-editor.org/info/rfc1880'>
 <front>
-<title abbrev='Internet Standards'>Internet Official Protocol Standards</title>
-<author initials='J.' surname='Postel' fullname='Jon Postel'>
-<organization>University of Southern California,  Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511</phone>
-<facsimile>+1 310 823 6714</facsimile>
-<email>Postel@ISI.EDU</email></address></author>
-<date year='1995' month='November' /></front>
-
-<seriesInfo name='RFC' value='1880' />
-<format type='TXT' octets='89153' target='http://www.rfc-editor.org/rfc/rfc1880.txt' />
+<title>Internet Official Protocol Standards</title>
+<author initials='J.' surname='Postel' fullname='J. Postel' role='editor'><organization /></author>
+<date year='1995' month='November' />
+<abstract><t>This memo describes the state of standardization of protocols used in the Internet as determined by the Internet Architecture Board (IAB). [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1880'/>
+<seriesInfo name='DOI' value='10.17487/RFC1880'/>
 </reference>

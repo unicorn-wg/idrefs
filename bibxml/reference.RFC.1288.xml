@@ -1,26 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1288'>
-
+<reference  anchor='RFC1288' target='http://www.rfc-editor.org/info/rfc1288'>
 <front>
-<title abbrev='Finger'>The Finger User Information Protocol</title>
-<author initials='D.' surname='Zimmerman' fullname='David Paul Zimmerman'>
-<organization>Rutgers University, Center for Discrete Mathematics and Theoretical Computer Science (DIMACS)</organization>
-<address>
-<postal>
-<street>P.O. Box 1179</street>
-<city>Piscataway</city>
-<region>NJ</region>
-<code>08855-1179</code>
-<country>US</country></postal>
-<phone>+1 908 932 4592</phone>
-<email>dpz@dimacs.rutgers.edu</email></address></author>
+<title>The Finger User Information Protocol</title>
+<author initials='D.' surname='Zimmerman' fullname='D. Zimmerman'><organization /></author>
 <date year='1991' month='December' />
-<abstract>
-<t>This memo describes the Finger user information protocol.  This is a simple protocol which provides an interface to a remote user information program.</t>
-<t>Based on RFC 742, a description of the original Finger protocol, this memo attempts to clarify the expected communication between the two ends of a Finger connection.  It also tries not to invalidate the many existing implementations or add unnecessary restrictions to the original protocol definition.</t>
-<t>This edition corrects and clarifies RFC 1196.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1288' />
-<format type='TXT' octets='25161' target='http://www.rfc-editor.org/rfc/rfc1288.txt' />
+<abstract><t>This memo describes the Finger user information protocol.This is a simple protocol which provides an interface to a remote user information program. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1288'/>
+<seriesInfo name='DOI' value='10.17487/RFC1288'/>
 </reference>

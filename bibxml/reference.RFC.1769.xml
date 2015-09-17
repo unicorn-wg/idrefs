@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1769'>
-
+<reference  anchor='RFC1769' target='http://www.rfc-editor.org/info/rfc1769'>
 <front>
-<title abbrev='SNTP'>Simple Network Time Protocol (SNTP)</title>
-<author initials='D.' surname='Mills' fullname='David L. Mills'>
-<organization>University of Delaware, Electrical Engineering Department</organization>
-<address>
-<postal>
-<street />
-<city>Newark</city>
-<region>DE</region>
-<code>19716</code>
-<country>US</country></postal>
-<phone>+1 302 831 8247</phone>
-<email>mills@udel.edu</email></address></author>
+<title>Simple Network Time Protocol (SNTP)</title>
+<author initials='D.' surname='Mills' fullname='D. Mills'><organization /></author>
 <date year='1995' month='March' />
-<abstract>
-<t>This memorandum describes the Simple Network Time Protocol (SNTP), which is an adaptation of the Network Time Protocol (NTP) used to synchronize computer clocks in the Internet. SNTP can be used when the ultimate performance of the full NTP implementation described in RFC-1305 is not needed or justified. It can operate in both unicast modes (point to point) and broadcast modes (point to multipoint). It can also operate in IP multicast mode where this service is available. SNTP involves no change to the current or previous NTP specification versions or known implementations, but rather a clarification of certain design features of NTP which allow operation in a simple, stateless remote-procedure call (RPC) mode with accuracy and reliability expectations similar to the UDP/TIME protocol described in RFC-868.</t>
-<t>This memorandum obsoletes RFC-1361 of the same title. Its purpose is to explain the protocol model for operation in broadcast mode, to provide additional clarification in some places and to correct a few typographical errors. A working knowledge of the NTP Version 3 specification RFC-1305 is not required for an implementation of SNTP. Distribution of this memorandum is unlimited.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1769' />
-<format type='TXT' octets='34454' target='http://www.rfc-editor.org/rfc/rfc1769.txt' />
+<abstract><t>This memorandum describes the Simple Network Time Protocol (SNTP), which is an adaptation of the Network Time Protocol (NTP) used to synchronize computer clocks in the Internet. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1769'/>
+<seriesInfo name='DOI' value='10.17487/RFC1769'/>
 </reference>

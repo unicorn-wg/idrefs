@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0060'>
-
+<reference  anchor='RFC0060' target='http://www.rfc-editor.org/info/rfc60'>
 <front>
-<title>Simplified NCP Protocol</title>
-<author initials='R.' surname='Kalin' fullname='Richard Kalin'>
-<organization>Massachusetts Institute of Technology (MIT), Lincoln Laboratory</organization></author>
-<date year='1970' day='13' month='July' />
-<abstract>
-<t>This RFC defines a new NCP protocol that is simple enough to be implemented on a very small computer, yet can be extended for efficient operation on large timesharing machines. Because worst case storage requirements can be predicted, a conservative implementation can be freed of complicated resource allocation and storage control procedures. A general error recovery procedure is also defined.</t></abstract></front>
-
-<seriesInfo name='RFC' value='60' />
-<format type='TXT' octets='18941' target='http://www.rfc-editor.org/rfc/rfc60.txt' />
+<title>A Simplified NCP Protocol</title>
+<author initials='R.' surname='Kalin' fullname='R. Kalin'><organization /></author>
+<date year='1970' month='July' />
+</front>
+<seriesInfo name='RFC' value='60'/>
+<seriesInfo name='DOI' value='10.17487/RFC0060'/>
 </reference>

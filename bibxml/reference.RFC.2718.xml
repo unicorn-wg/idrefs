@@ -1,69 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2718'>
-
+<reference  anchor='RFC2718' target='http://www.rfc-editor.org/info/rfc2718'>
 <front>
 <title>Guidelines for new URL Schemes</title>
-<author initials='L.' surname='Masinter' fullname='Larry Masinter'>
-<organization>Xerox Corporation</organization>
-<address>
-<postal>
-<street>Palo Alto Research Center</street>
-<street>3333 Coyote Hill Road</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94304</code></postal>
-<email>masinter@parc.xerox.com</email>
-<uri>http://purl.org/NET/masinter</uri></address></author>
-<author initials='H.' surname='Alvestrand' fullname='Harald Tveit Alvestrand'>
-<organization>Maxware, Pirsenteret</organization>
-<address>
-<postal>
-<street>N-7005 Trondheim</street>
-<country>NORWAY</country></postal>
-<phone>+47 73 54 57 00</phone>
-<email>harald.alvestrand@maxware.no</email></address></author>
-<author initials='D.' surname='Zigmond' fullname='Dan Zigmond'>
-<organization>WebTV Networks, Inc.</organization>
-<address>
-<postal>
-<street>305 Lytton Avenue</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94301</code>
-<country>USA</country></postal>
-<phone>+1-650-614-6071</phone>
-<email>djz@corp.webtv.net</email></address></author>
-<author initials='R.' surname='Petke' fullname='Rich Petke'>
-<organization>UUNET Technologies</organization>
-<address>
-<postal>
-<street>5000 Britton Road</street>
-<street>P. O. Box 5000</street>
-<city>Hilliard</city>
-<region>OH</region>
-<code>43026-5000</code></postal>
-<phone>+1-614-723-4157</phone>
-<facsimile>+1-614-723-8407</facsimile>
-<email>rpetke@wcom.net</email></address></author>
+<author initials='L.' surname='Masinter' fullname='L. Masinter'><organization /></author>
+<author initials='H.' surname='Alvestrand' fullname='H. Alvestrand'><organization /></author>
+<author initials='D.' surname='Zigmond' fullname='D. Zigmond'><organization /></author>
+<author initials='R.' surname='Petke' fullname='R. Petke'><organization /></author>
 <date year='1999' month='November' />
-<area>Applications</area>
-<keyword>URL scheme</keyword>
-<keyword>uniform resource identifier</keyword>
-<keyword>uniform resource locator</keyword>
-<keyword>URI</keyword>
-<keyword>URL</keyword>
-<keyword>URN</keyword>
-<keyword>WWW</keyword>
-<abstract>
-<t>
-A Uniform Resource Locator (URL) is a compact string representation
-of the location for a resource that is available via the Internet.
-This document provides guidelines for the definition of new URL schemes.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2718' />
-<format type='TXT' octets='19208' target='http://www.rfc-editor.org/rfc/rfc2718.txt' />
-<format type='HTML' octets='32010' target='http://xml.resource.org/public/rfc/html/rfc2718.html' />
-<format type='XML' octets='21451' target='http://xml.resource.org/public/rfc/xml/rfc2718.xml' />
+<abstract><t>This document provides guidelines for the definition of new URL schemes. This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2718'/>
+<seriesInfo name='DOI' value='10.17487/RFC2718'/>
 </reference>

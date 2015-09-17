@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1492'>
-
+<reference  anchor='RFC1492' target='http://www.rfc-editor.org/info/rfc1492'>
 <front>
-<title abbrev='TACACS'>An Access Control Protocol, Sometimes Called TACACS</title>
-<author initials='C.A.' surname='Finseth' fullname='Craig A. Finseth'>
-<organization>University of Minnesota, Networking Services, Computer and Information Services</organization>
-<address>
-<postal>
-<street>130 Lind Hall</street>
-<street>207 Church St SE</street>
-<city>Minneapolis</city>
-<region>MN</region>
-<code>55455-0134</code>
-<country>US</country></postal>
-<phone>+1 612 624 3375</phone>
-<facsimile>+1 612 626 1002</facsimile>
-<email>Craig.A.Finseth-1@umn.edu</email></address></author>
-<date year='1993' month='July' /></front>
-
-<seriesInfo name='RFC' value='1492' />
-<format type='TXT' octets='41880' target='http://www.rfc-editor.org/rfc/rfc1492.txt' />
+<title>An Access Control Protocol, Sometimes Called TACACS</title>
+<author initials='C.' surname='Finseth' fullname='C. Finseth'><organization /></author>
+<date year='1993' month='July' />
+<abstract><t>This RFC documents the extended TACACS protocol use by the Cisco Systems terminal servers.  This same protocol is used by the University of Minnesota's distributed authentication system.  This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1492'/>
+<seriesInfo name='DOI' value='10.17487/RFC1492'/>
 </reference>

@@ -1,56 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1627'>
-
+<reference  anchor='RFC1627' target='http://www.rfc-editor.org/info/rfc1627'>
 <front>
-<title abbrev='Network 10 Considered Harmful'>Network 10 Considered Harmful (Some Practices Shouldn't be Codified)</title>
-<author initials='E.' surname='Lear' fullname='Eliot Lear'>
-<organization>Silicon Graphics, Inc.</organization>
-<address>
-<postal>
-<street>2011 N. Shoreline Blvd.</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043-1389</code>
-<country>US</country></postal>
-<phone>+1 415 390 2414</phone>
-<email>lear@sgi.com</email></address></author>
-<author initials='E.' surname='Fair' fullname='Erik Fair'>
-<organization>Apple Computer, Inc.</organization>
-<address>
-<postal>
-<street>1 Infinite Loop</street>
-<city>Cupertino</city>
-<region>CA</region>
-<code>95014</code>
-<country>US</country></postal>
-<phone>+1 408 974 1779</phone>
-<email>fair@apple.com</email></address></author>
-<author initials='D.' surname='Crocker' fullname='Dave Crocker'>
-<organization>Silicon Graphics, Inc.</organization>
-<address>
-<postal>
-<street>2011 N. Shoreline Blvd.</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043-1389</code>
-<country>US</country></postal>
-<phone>+1 415 390 1804</phone>
-<email>dcrocker@sgi.com</email></address></author>
-<author initials='T.' surname='Kessler' fullname='Thomas Kessler'>
-<organization>Sun Microsystems Inc.</organization>
-<address>
-<postal>
-<street>2550 Garcia Ave.</street>
-<street>Mail Stop MTV05-44</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043</code>
-<country>US</country></postal>
-<phone>+1 415 336 3145</phone>
-<email>kessler@eng.sun.com</email></address></author>
-<date year='1994' month='July' /></front>
-
-<seriesInfo name='RFC' value='1627' />
-<format type='TXT' octets='18823' target='http://www.rfc-editor.org/rfc/rfc1627.txt' />
+<title>Network 10 Considered Harmful (Some Practices Shouldn't be Codified)</title>
+<author initials='E.' surname='Lear' fullname='E. Lear'><organization /></author>
+<author initials='E.' surname='Fair' fullname='E. Fair'><organization /></author>
+<author initials='D.' surname='Crocker' fullname='D. Crocker'><organization /></author>
+<author initials='T.' surname='Kessler' fullname='T. Kessler'><organization /></author>
+<date year='1994' month='July' />
+<abstract><t>This document restates the arguments for maintaining a unique address space.  Concerns for Internet architecture and operations, as well as IETF procedure, are explored.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1627'/>
+<seriesInfo name='DOI' value='10.17487/RFC1627'/>
 </reference>

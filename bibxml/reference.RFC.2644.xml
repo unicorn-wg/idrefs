@@ -1,23 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2644'>
-
+<reference  anchor='RFC2644' target='http://www.rfc-editor.org/info/rfc2644'>
 <front>
-<title abbrev='Default Change for Directed Broadcast'>Changing the Default for Directed Broadcasts in Routers</title>
-<author initials='D.' surname='Senie' fullname='Daniel Senie'>
-<organization>Amaranth Networks Inc.</organization>
-<address>
-<postal>
-<street>324 Still River Road</street>
-<city>Bolton</city>
-<region>MA</region>
-<code>01740</code>
-<country>US</country></postal>
-<phone>+1 978 779 6813</phone>
-<email>dts@senie.com</email></address></author>
-<date year='1999' month='August' /></front>
-
-<seriesInfo name='BCP' value='34' />
-<seriesInfo name='RFC' value='2644' />
-<format type='TXT' octets='6820' target='http://www.rfc-editor.org/rfc/rfc2644.txt' />
+<title>Changing the Default for Directed Broadcasts in Routers</title>
+<author initials='D.' surname='Senie' fullname='D. Senie'><organization /></author>
+<date year='1999' month='August' />
+<abstract><t>This document discusses and defines a number of tests that may be used to describe the performance characteristics of a network interconnecting device.  In addition to defining the tests this document also describes specific formats for reporting the results of the tests.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='BCP' value='34'/>
+<seriesInfo name='RFC' value='2644'/>
+<seriesInfo name='DOI' value='10.17487/RFC2644'/>
 </reference>

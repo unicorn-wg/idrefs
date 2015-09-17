@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0309'>
-
+<reference  anchor='RFC0309' target='http://www.rfc-editor.org/info/rfc309'>
 <front>
 <title>Data and File Transfer Workshop Announcement</title>
-<author initials='A.' surname='Bhushan' fullname='Abhay Bhushan'>
-<organization>Massachusetts Institute of Technology (MIT), Project MAC</organization></author>
-<date year='1972' day='17' month='March' />
-<abstract>
-<t>The objective of this workshop is to arrive at a unified convention for ARPANET data and file transfer.</t></abstract></front>
-
-<seriesInfo name='RFC' value='309' />
-<format type='TXT' octets='9404' target='http://www.rfc-editor.org/rfc/rfc309.txt' />
+<author initials='A.K.' surname='Bhushan' fullname='A.K. Bhushan'><organization /></author>
+<date year='1972' month='March' />
+</front>
+<seriesInfo name='RFC' value='309'/>
+<seriesInfo name='DOI' value='10.17487/RFC0309'/>
 </reference>

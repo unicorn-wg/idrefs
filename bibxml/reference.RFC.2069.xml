@@ -1,81 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2069'>
-
+<reference  anchor='RFC2069' target='http://www.rfc-editor.org/info/rfc2069'>
 <front>
-<title abbrev='Digest Access Authentication'>An Extension to HTTP : Digest Access Authentication</title>
-<author initials='J.' surname='Franks' fullname='John Franks'>
-<organization>Northwestern University,  Department of Mathematics</organization>
-<address>
-<postal>
-<street />
-<city>Evanston</city>
-<region>IL</region>
-<code>60208-2730</code>
-<country>US</country></postal>
-<email>john@math.nwu.edu</email></address></author>
-<author initials='P.' surname='Hallam-Baker' fullname='Phillip M. Hallam-Baker'>
-<organization>CERN</organization>
-<address>
-<postal>
-<street />
-<city>Geneva</city>
-<country>CH</country></postal>
-<email>hallam@w3.org</email></address></author>
-<author initials='J.' surname='Hostetler' fullname='Jeffery L. Hostetler'>
-<organization>Spyglass, Inc.</organization>
-<address>
-<postal>
-<street>3200 Farber Drive</street>
-<city>Champaign</city>
-<region>IL</region>
-<code>61821</code>
-<country>US</country></postal>
-<email>jeff@spyglass.com</email></address></author>
-<author initials='P.' surname='Leach' fullname='Paul J. Leach'>
-<organization>Microsoft Corporation</organization>
-<address>
-<postal>
-<street>1 Microsoft Way</street>
-<city>Redmond</city>
-<region>WA</region>
-<code>98052</code>
-<country>US</country></postal>
-<email>paulle@microsoft.com</email></address></author>
-<author initials='A.' surname='Luotonen' fullname='Ari Luotonen'>
-<organization>Netscape Communications Corporation</organization>
-<address>
-<postal>
-<street>501 East Middlefield Road</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043</code>
-<country>US</country></postal>
-<email>luotonen@netscape.com</email></address></author>
-<author initials='E.' surname='Sink' fullname='Eric W. Sink'>
-<organization>Spyglass, Inc.</organization>
-<address>
-<postal>
-<street>3200 Farber Drive</street>
-<city>Champaign</city>
-<region>IL</region>
-<code>61821</code>
-<country>US</country></postal>
-<email>eric@spyglass.com</email></address></author>
-<author initials='L.' surname='Stewart' fullname='Lawrence C. Stewart'>
-<organization>Open Market, Inc.</organization>
-<address>
-<postal>
-<street>215 First Street</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02142</code>
-<country>US</country></postal>
-<email>stewart@OpenMarket.com</email></address></author>
+<title>An Extension to HTTP : Digest Access Authentication</title>
+<author initials='J.' surname='Franks' fullname='J. Franks'><organization /></author>
+<author initials='P.' surname='Hallam-Baker' fullname='P. Hallam-Baker'><organization /></author>
+<author initials='J.' surname='Hostetler' fullname='J. Hostetler'><organization /></author>
+<author initials='P.' surname='Leach' fullname='P. Leach'><organization /></author>
+<author initials='A.' surname='Luotonen' fullname='A. Luotonen'><organization /></author>
+<author initials='E.' surname='Sink' fullname='E. Sink'><organization /></author>
+<author initials='L.' surname='Stewart' fullname='L. Stewart'><organization /></author>
 <date year='1997' month='January' />
-<abstract>
-<t>The protocol referred to as "HTTP/1.0" includes the specification for a Basic Access Authentication scheme.  This scheme is not considered to be a secure method of user authentication, as the user name and password are passed over the network as clear text.  A specification for a different authentication scheme is needed to address this severe limitation.  This document provides specification for such a scheme, referred to as "Digest Access Authentication".  Like Basic, Digest access authentication verifies that both parties to a communication know a shared secret (a password); unlike Basic, this verification can be done without sending the password in the clear, which is Basic's biggest weakness. As with most other authentication protocols, the greatest sources of risks are usually found not in the core protocol itself but in policies and procedures surrounding its use.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2069' />
-<format type='TXT' octets='41733' target='http://www.rfc-editor.org/rfc/rfc2069.txt' />
+<abstract><t>The protocol referred to as &quot;HTTP/1.0&quot; includes the specification for a Basic Access Authentication scheme.  This scheme is not considered to be a secure method of user authentication, as the user name and password are passed over the network as clear text.  A specification for a different authentication scheme is needed to address this severe limitation.  This document provides specification for such a scheme, referred to as &quot;Digest Access Authentication&quot;.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2069'/>
+<seriesInfo name='DOI' value='10.17487/RFC2069'/>
 </reference>

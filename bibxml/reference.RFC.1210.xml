@@ -1,47 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1210'>
-
+<reference  anchor='RFC1210' target='http://www.rfc-editor.org/info/rfc1210'>
 <front>
-<title abbrev='Network and Infrastructure User Requirements'>Network and infrastructure user requirements for transatlantic research collaboration: Brussels, July 16-18, and Washington July 24-25, 1990</title>
-<author initials='V.' surname='Cerf' fullname='Vinton G. Cerf'>
-<organization>Corporation for National Research Initiatives</organization>
-<address>
-<postal>
-<street>1895 Preston White Drive</street>
-<street>Suite 100</street>
-<city>Reston</city>
-<region>VA</region>
-<code>22091</code>
-<country>US</country></postal>
-<phone>+1 703 620 8990</phone>
-<email>vcerf@nri.reston.va.us</email></address></author>
-<author initials='P.' surname='Kirstein' fullname='Peter Kirstein'>
-<organization>University College London, Department of Computer Science</organization>
-<address>
-<postal>
-<street>Gower Street</street>
-<city>London</city>
-<region>England</region>
-<code>WC1E GBT</code>
-<country>UK</country></postal>
-<phone>+44 71 3807286</phone>
-<email>kirstein@cs.ucl.ac.uk</email></address></author>
-<author initials='B.' surname='Randell' fullname='Brian Randell'>
-<organization>University of Newcastle upon Tyne, Computing Laboratory</organization>
-<address>
-<postal>
-<street />
-<city>Newcastle upon Tyne</city>
-<region>England</region>
-<code>NE1 7RU</code>
-<country>UK</country></postal>
-<phone>+44 91 2227923</phone>
-<email>Brian.Randell@newcastle.ac.uk</email></address></author>
-<date year='1991' day='1' month='March' />
-<abstract>
-<t>This report summarises user requirements for networking and related infrastructure facilities needed to enable effective cooperation between US and European research teams participating in the planned ESPRIT-DARPA/NSF programme of collaborative research in Information Science and Technology.  It analyses the problems and disparities of the current facilities, and suggests appropriate one and three year targets for improvements.  It proposes a number of initial actions aimed at achieving these targets.  Finally, the workshop has identified a non-exhaustive set of important issues upon which support of future research will depend.  These issues could be studied in the short term, with the aim of initiating a programme of joint research in collaboration technology within the next year.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1210' />
-<format type='TXT' octets='79048' target='http://www.rfc-editor.org/rfc/rfc1210.txt' />
+<title>Network and infrastructure user requirements for transatlantic research collaboration: Brussels, July 16-18, and Washington July 24-25, 1990</title>
+<author initials='V.G.' surname='Cerf' fullname='V.G. Cerf'><organization /></author>
+<author initials='P.T.' surname='Kirstein' fullname='P.T. Kirstein'><organization /></author>
+<author initials='B.' surname='Randell' fullname='B. Randell'><organization /></author>
+<date year='1991' month='March' />
+<abstract><t>This report complements a shorter printed version which appeared in a summary report of all the committees which met in Brussels and Washington last July, 1990.  This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1210'/>
+<seriesInfo name='DOI' value='10.17487/RFC1210'/>
 </reference>

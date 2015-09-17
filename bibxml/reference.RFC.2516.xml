@@ -1,78 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2516'>
-
+<reference  anchor='RFC2516' target='http://www.rfc-editor.org/info/rfc2516'>
 <front>
-<title abbrev='Transmitting PPP Over Ethernet'>A Method for Transmitting PPP Over Ethernet (PPPoE)</title>
-<author initials='L.' surname='Mamakos' fullname='Louis Mamakos'>
-<organization>UUNET Technologies, Inc.</organization>
-<address>
-<postal>
-<street>3060 Williams Drive</street>
-<city>Fairfax</city>
-<region>VA</region>
-<code>22031-4648</code>
-<country>US</country></postal>
-<email>louie@uu.net</email></address></author>
-<author initials='K.' surname='Lidl' fullname='Kurt Lidl'>
-<organization>UUNET Technologies, Inc.</organization>
-<address>
-<postal>
-<street>3060 Williams Drive</street>
-<city>Fairfax</city>
-<region>VA</region>
-<code>22031-4648</code>
-<country>US</country></postal>
-<email>lidl@uu.net</email></address></author>
-<author initials='J.' surname='Evarts' fullname='Jeff Evarts'>
-<organization>UUNET Technologies, Inc.</organization>
-<address>
-<postal>
-<street>3060 Williams Drive</street>
-<city>Fairfax</city>
-<region>VA</region>
-<code>22031-4648</code>
-<country>US</country></postal>
-<email>jde@uu.net</email></address></author>
-<author initials='D.' surname='Carrel' fullname='David Carrel'>
-<organization>RedBack Networks, Inc.</organization>
-<address>
-<postal>
-<street>1389 Moffett Park Drive</street>
-<city>Sunnyvale</city>
-<region>CA</region>
-<code>94089-1134</code>
-<country>US</country></postal>
-<email>carrel@RedBack.net</email></address></author>
-<author initials='D.' surname='Simone' fullname='Dan Simone'>
-<organization>RedBack Networks, Inc.</organization>
-<address>
-<postal>
-<street>1389 Moffett Park Drive</street>
-<city>Sunnyvale</city>
-<region>CA</region>
-<code>94089-1134</code>
-<country>US</country></postal>
-<email>dan@RedBack.net</email></address></author>
-<author initials='R.' surname='Wheeler' fullname='Ross Wheeler'>
-<organization>RouterWare, Inc.</organization>
-<address>
-<postal>
-<street>3961 MacArthur Boulevard</street>
-<street>Suite 212</street>
-<city>Newport Beach</city>
-<region>CA</region>
-<code>92660</code>
-<country>US</country></postal>
-<email>ross@routerware.com</email></address></author>
+<title>A Method for Transmitting PPP Over Ethernet (PPPoE)</title>
+<author initials='L.' surname='Mamakos' fullname='L. Mamakos'><organization /></author>
+<author initials='K.' surname='Lidl' fullname='K. Lidl'><organization /></author>
+<author initials='J.' surname='Evarts' fullname='J. Evarts'><organization /></author>
+<author initials='D.' surname='Carrel' fullname='D. Carrel'><organization /></author>
+<author initials='D.' surname='Simone' fullname='D. Simone'><organization /></author>
+<author initials='R.' surname='Wheeler' fullname='R. Wheeler'><organization /></author>
 <date year='1999' month='February' />
-<abstract>
-<t>ThePoint-to-Point Protocol (PPP)provides a
-standard method for 
-transporting multi-protocol datagrams over point-to-point links.</t>
-<t>This document describes how to build PPP sessions and encapsulate PPP
-packets over Ethernet.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2516' />
-<format type='TXT' octets='32537' target='http://www.rfc-editor.org/rfc/rfc2516.txt' />
+<abstract><t>This document describes how to build PPP sessions and encapsulate PPP packets over Ethernet. This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2516'/>
+<seriesInfo name='DOI' value='10.17487/RFC2516'/>
 </reference>

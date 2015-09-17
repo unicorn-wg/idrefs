@@ -1,32 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1946'>
-
+<reference  anchor='RFC1946' target='http://www.rfc-editor.org/info/rfc1946'>
 <front>
 <title>Native ATM Support for ST2+</title>
-<author initials='S.' surname='Jackowski' fullname='Steve Jackowski'>
-<organization>NetManage Incorporated</organization>
-<address>
-<postal>
-<street>269 Mt. Hermon Road</street>
-<street>Suite 201</street>
-<city>Scotts Valley</city>
-<region>CA</region>
-<code>95066</code>
-<country>US</country></postal>
-<phone>+1 408 439 6834</phone>
-<facsimile>+1 408 438 5115</facsimile>
-<email>Stevej@NetManage.com</email></address></author>
+<author initials='S.' surname='Jackowski' fullname='S. Jackowski'><organization /></author>
 <date year='1996' month='May' />
-<abstract>
-<t>As the demand for networked realtime services grows, so does the need for shared networks to provide deterministic delivery services. Such deterministic delivery services demand that both the source application and the network infrastructure have capabilities to request, setup, and enforce the delivery of the data. Collectively these services are referred to as bandwidth reservation and Quality of Service (QoS).</t>
-<t>The IETF is currently working on an integrated services model to support realtime services on the Internet  The IETF has not yet focused on the integration of ATM and its inherent QoS and bandwidth allocation mechanisms for delivery of realtime traffic over shared wires. (ATM hardware and interfaces provide the network infrastructure for the determinitic data delivery, however the host resident protocol stacks and applications need more attention.)</t>
-<t>Current IETF efforts underway in the IP over ATM (ipatm) working group rely on intserv, rsvp and ST2 to address QoS issues for ATM. As such, RFC 1577 and the ATM Forum's Lan Emulation do not provide direct QoS and bandwidth allocation capabilities to  network applications. Without providing a mapping of reservations-style QoS to ATM signalling, ATM will remain a 'wire' rather than a shared media infrastructure component.</t>
-<t>This memo describes a working implementation which enables applications to directly invoke ATM services in the following environments:</t>
-<t>- ATM to internet,
-        - internet to ATM, and
-        - internet to internet across ATM.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1946' />
-<format type='TXT' octets='50430' target='http://www.rfc-editor.org/rfc/rfc1946.txt' />
+<abstract><t>This memo describes a working implementation which enables applications to directly invoke ATM services in the following environments: ATM to internet, internet to ATM, and internet to internet across ATM.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1946'/>
+<seriesInfo name='DOI' value='10.17487/RFC1946'/>
 </reference>

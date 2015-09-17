@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1319'>
-
+<reference  anchor='RFC1319' target='http://www.rfc-editor.org/info/rfc1319'>
 <front>
-<title abbrev='MD2 Message-Digest Algorithm'>The MD2 Message-Digest Algorithm</title>
-<author initials='B.' surname='Kaliski' fullname='Burton S. Kaliski Jr.'>
-<organization>RSA Laboratories</organization>
-<address>
-<postal>
-<street>10 Twin Dolphin Drive</street>
-<city>Redwood City</city>
-<region>CA</region>
-<code>94065</code>
-<country>US</country></postal>
-<phone>+1 415 595 8782</phone>
-<facsimile>+1 415 595 4126</facsimile>
-<email>burt@rsa.com</email></address></author>
-<date year='1992' month='April' /></front>
-
-<seriesInfo name='RFC' value='1319' />
-<format type='TXT' octets='25661' target='http://www.rfc-editor.org/rfc/rfc1319.txt' />
+<title>The MD2 Message-Digest Algorithm</title>
+<author initials='B.' surname='Kaliski' fullname='B. Kaliski'><organization /></author>
+<date year='1992' month='April' />
+<abstract><t>This document describes the MD2 message-digest algorithm. The algorithm takes as input a message of arbitrary length and produces as output a 128-bit &quot;fingerprint&quot; or &quot;message digest&quot; of the input.  This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1319'/>
+<seriesInfo name='DOI' value='10.17487/RFC1319'/>
 </reference>

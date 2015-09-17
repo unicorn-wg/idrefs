@@ -1,29 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2636'>
-
+<reference  anchor='RFC2636' target='http://www.rfc-editor.org/info/rfc2636'>
 <front>
-<title abbrev='OTASP/OTAPA via ACAP'>Wireless Device Configuration (OTASP/OTAPA) via ACAP</title>
-<author initials='R.' surname='Gellens' fullname='Randall Gellens'>
-<organization>QUALCOMM Incorporated</organization>
-<address>
-<postal>
-<street>6455 Lusk Boulevard</street>
-<city>San Diego</city>
-<region>CA</region>
-<code>92121-2779</code>
-<country>US</country></postal>
-<phone>+1 619 651 5115</phone>
-<email>randy@qualcomm.com</email></address></author>
+<title>Wireless Device Configuration (OTASP/OTAPA) via ACAP</title>
+<author initials='R.' surname='Gellens' fullname='R. Gellens'><organization /></author>
 <date year='1999' month='July' />
-<abstract>
-<t>Wireless carriers today are faced with creating more efficient distribution channels, increasing customer satisfaction, while also improving margin and profitability. Industry trends are pushing the sale of handsets further into the retail channel. The cost and effort of provisioning handsets, activating users, and updating handset parameters can be greatly reduced by using over-the-air activation mechanisms. A comprehensive and extensible means for over-the-air provisioning and handset parameter updating is required.</t>
-<t>One approach is to purchase EIA/TIA/IS-683A (Over-the-air Service Provisioning of Mobile Stations in Spread Spectrum Systems) equipment. The cost of this has led carriers to seek alternative solutions. A very viable means for providing over-the-air (OTA) provisioning is to leverage the rollout of IS-707 data services equipment, which most carriers are in the process of deploying. This paper presents an approach to OTA provisioning that utilizes the deployment of IS-707 to deliver OTA provisioning and parameter upgrading.</t>
-<t>IS-707 data services makes available several methods of providing over-the-air provisioning and parameter updating. A well thought-out approach utilizing Internet-based open standard mechanisms can provide an extensible platform for further carrier service offerings, enhanced interoperability among back-end services, and vendor independence.</t>
-<t>This paper describes a viable and attractive means to provide OTASP/OTAPA via IS-707, using theACAP protocol.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2636' />
-<format type='TXT' octets='65288' target='http://www.rfc-editor.org/rfc/rfc2636.txt' />
-<format type='PS' octets='1120860' target='http://www.rfc-editor.org/rfc/rfc2636.ps' />
-<format type='PDF' octets='173655' target='http://www.rfc-editor.org/rfc/rfc2636.pdf' />
+<abstract><t>This paper describes a viable and attractive means to provide OTASP/OTAPA via IS-707, using the ACAP protocol.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2636'/>
+<seriesInfo name='DOI' value='10.17487/RFC2636'/>
 </reference>

@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2159'>
-
+<reference  anchor='RFC2159' target='http://www.rfc-editor.org/info/rfc2159'>
 <front>
-<title abbrev='MIME Body Part for FAX'>A MIME Body Part for FAX</title>
-<author initials='H.T.' surname='Alvestrand' fullname='Harald Tveit Alvestrand'>
-<organization>UNINETT</organization>
-<address>
-<postal>
-<street>P.O.box 6883 Elgeseter</street>
-<street>N-7002 Trondheim</street>
-<country>NORWAY</country></postal>
-<email>Harald.T.Alvestrand@uninett.no</email></address></author>
+<title>A MIME Body Part for FAX</title>
+<author initials='H.' surname='Alvestrand' fullname='H. Alvestrand'><organization /></author>
 <date year='1998' month='January' />
-<area>Applications</area>
-<keyword>ITU message handling service protocol</keyword>
-<keyword>facsimile</keyword>
-<keyword>multipurpose internet mail extensions</keyword></front>
-
-<seriesInfo name='RFC' value='2159' />
-<format type='TXT' octets='11471' target='http://www.rfc-editor.org/rfc/rfc2159.txt' />
-<format type='HTML' octets='24078' target='http://xml.resource.org/public/rfc/html/rfc2159.html' />
-<format type='XML' octets='10611' target='http://xml.resource.org/public/rfc/xml/rfc2159.xml' />
+<abstract><t>This document contains the definitions, originally contained in RFC 1494, on how to carry CCITT G3Fax in MIME, and how to translate it to its X.400 representation.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2159'/>
+<seriesInfo name='DOI' value='10.17487/RFC2159'/>
 </reference>

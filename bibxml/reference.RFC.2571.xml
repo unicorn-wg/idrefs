@@ -1,53 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2571'>
-
+<reference  anchor='RFC2571' target='http://www.rfc-editor.org/info/rfc2571'>
 <front>
-<title abbrev='Architecture for SNMP Frameworks'>An Architecture for Describing SNMP Management Frameworks</title>
-<author initials='B.' surname='Wijnen' fullname='Bert Wijnen'>
-<organization>IBM T.J. Watson Research</organization>
-<address>
-<postal>
-<street>Schagen 33</street>
-<street>3461 GL Linschoten</street>
-<country>NL</country></postal>
-<phone>+31 34 8432794</phone>
-<email>wijnen@vnet.ibm.com</email></address></author>
-<author initials='D.' surname='Harrington' fullname='Dave Harrington'>
-<organization>Cabletron Systems, Inc</organization>
-<address>
-<postal>
-<street>Post Office Box 5005</street>
-<street>35 Industrial Way</street>
-<street>Mail Stop: Durham</street>
-<city>Rochester</city>
-<region>NH</region>
-<code>03867-5005</code>
-<country>US</country></postal>
-<phone>+1 603 337 7357</phone>
-<email>dbh@ctron.com</email></address></author>
-<author initials='R.' surname='Presuhn' fullname='Randy Presuhn'>
-<organization>BMC Software, Inc.</organization>
-<address>
-<postal>
-<street>965 Stewart Drive</street>
-<city>Sunnyvale</city>
-<region>CA</region>
-<code>94086</code>
-<country>US</country></postal>
-<phone>+1 408 616 3100</phone>
-<facsimile>+1 408 616 3101</facsimile>
-<email>randy_presuhn@bmc.com</email></address></author>
+<title>An Architecture for Describing SNMP Management Frameworks</title>
+<author initials='B.' surname='Wijnen' fullname='B. Wijnen'><organization /></author>
+<author initials='D.' surname='Harrington' fullname='D. Harrington'><organization /></author>
+<author initials='R.' surname='Presuhn' fullname='R. Presuhn'><organization /></author>
 <date year='1999' month='April' />
-<abstract>
-<t>This document describes an architecture for describing SNMP
-   Management Frameworks.  The architecture is designed to be modular to
-   allow the evolution of the SNMP protocol standards over time.  The
-   major portions of the architecture are an SNMP engine containing a
-   Message Processing Subsystem, a Security Subsystem and an Access
-   Control Subsystem, and possibly multiple SNMP applications which
-   provide specific functional processing of management data.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2571' />
-<format type='TXT' octets='139260' target='http://www.rfc-editor.org/rfc/rfc2571.txt' />
+<abstract><t>This document describes an architecture for describing SNMP Management Frameworks.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2571'/>
+<seriesInfo name='DOI' value='10.17487/RFC2571'/>
 </reference>

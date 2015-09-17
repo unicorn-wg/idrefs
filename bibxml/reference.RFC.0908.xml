@@ -1,17 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0908'>
-
+<reference  anchor='RFC0908' target='http://www.rfc-editor.org/info/rfc908'>
 <front>
-<title abbrev='RDP Specification'>Reliable Data Protocol</title>
-<author initials='D.' surname='Velten' fullname='David Velten'>
-<organization>Bolt Baranek and Newman (BBN) Communications Corporation</organization></author>
-<author initials='R.' surname='Hinden' fullname='Robert Hinden'>
-<organization>Bolt Baranek and Newman (BBN) Communications Corporation</organization></author>
-<author initials='J.' surname='Sax' fullname='Jack Sax'>
-<organization>Bolt Baranek and Newman (BBN) Communications Corporation</organization></author>
-<date year='1984' day='1' month='July' /></front>
-
-<seriesInfo name='RFC' value='908' />
-<format type='TXT' octets='97646' target='http://www.rfc-editor.org/rfc/rfc908.txt' />
+<title>Reliable Data Protocol</title>
+<author initials='D.' surname='Velten' fullname='D. Velten'><organization /></author>
+<author initials='R.M.' surname='Hinden' fullname='R.M. Hinden'><organization /></author>
+<author initials='J.' surname='Sax' fullname='J. Sax'><organization /></author>
+<date year='1984' month='July' />
+<abstract><t>The Reliable Data Protocol (RDP) is designed to provide a reliable data    transport service for packet-based applications.  This RFC specifies a    proposed protocol for the ARPA-Internet and DARPA research community,    and requests discussion and suggestions for improvemts.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='908'/>
+<seriesInfo name='DOI' value='10.17487/RFC0908'/>
 </reference>

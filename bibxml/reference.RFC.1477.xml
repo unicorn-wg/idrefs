@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1477'>
-
+<reference  anchor='RFC1477' target='http://www.rfc-editor.org/info/rfc1477'>
 <front>
-<title abbrev='IDPR'>IDPR as a Proposed Standard</title>
-<author initials='M.' surname='Steenstrup' fullname='Martha Steenstrup'>
-<organization>BBN Systems and Technologies</organization>
-<address>
-<postal>
-<street>10 Moulton Street</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02138</code>
-<country>US</country></postal>
-<phone>+1 617 873 3192</phone>
-<email>msteenst@bbn.com</email></address></author>
-<date year='1993' month='July' /></front>
-
-<seriesInfo name='RFC' value='1477' />
-<format type='TXT' octets='32238' target='http://www.rfc-editor.org/rfc/rfc1477.txt' />
+<title>IDPR as a Proposed Standard</title>
+<author initials='M.' surname='Steenstrup' fullname='M. Steenstrup'><organization /></author>
+<date year='1993' month='July' />
+<abstract><t>This document contains a discussion of inter-domain policy routing (IDPR), including an overview of functionality and a discussion of experiments.  This memo provides information for the Internet community. It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1477'/>
+<seriesInfo name='DOI' value='10.17487/RFC1477'/>
 </reference>

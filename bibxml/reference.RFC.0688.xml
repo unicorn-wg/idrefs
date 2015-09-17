@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0688'>
-
+<reference  anchor='RFC0688' target='http://www.rfc-editor.org/info/rfc688'>
 <front>
 <title>Tentative schedule for the new Telnet implementation for the TIP</title>
-<author initials='D.' surname='Walden' fullname='David C. Walden'>
-<organization>Bolt Baranek and Newman (BBN)</organization></author>
-<date year='1975' day='4' month='June' />
-<abstract>
-<t>Implementation of the New TELNET Protocol has now become the top priority item on the TIP development queue.  Because what is done in the TIP potentially affects what is done at a number of hosts, below we give the implementation schedule to which we hope to adhere.</t></abstract></front>
-
-<seriesInfo name='RFC' value='688' />
-<format type='TXT' octets='1593' target='http://www.rfc-editor.org/rfc/rfc688.txt' />
+<author initials='D.C.' surname='Walden' fullname='D.C. Walden'><organization /></author>
+<date year='1975' month='June' />
+</front>
+<seriesInfo name='RFC' value='688'/>
+<seriesInfo name='DOI' value='10.17487/RFC0688'/>
 </reference>

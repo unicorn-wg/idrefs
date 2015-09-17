@@ -1,26 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1955'>
-
+<reference  anchor='RFC1955' target='http://www.rfc-editor.org/info/rfc1955'>
 <front>
 <title>New Scheme for Internet Routing and Addressing (ENCAPS) for IPNG</title>
-<author initials='R.' surname='Hinden' fullname='Robert M. Hinden'>
-<organization>Ipsilon Networks, Inc.</organization>
-<address>
-<postal>
-<street>2191 East Bayshore Road</street>
-<street>Suite 100</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94303</code>
-<country>US</country></postal>
-<phone>+1 415 846 4604</phone>
-<email>hinden@ipsilon.com</email></address></author>
+<author initials='R.' surname='Hinden' fullname='R. Hinden'><organization /></author>
 <date year='1996' month='June' />
-<abstract>
-<t>This document was submitted to the IETF IPng area in response to RFC 1550.  Publication of this document does not imply acceptance by the IPng area of any ideas expressed within.  Comments should be submitted to the big-internet@munnari.oz.au mailing list.</t>
-<t>This memo describes a proposal made to to the Routing and Addressing group [ROAD] January 1992 by Robert Hinden.  It was originally sent as an email message.  It proposes a medium term solution to the Internet's routing and addressing problems.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1955' />
-<format type='TXT' octets='10115' target='http://www.rfc-editor.org/rfc/rfc1955.txt' />
+<abstract><t>This paper proposes a new scheme which I believe is a good medium term solution to the routing and address problems of the internet.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1955'/>
+<seriesInfo name='DOI' value='10.17487/RFC1955'/>
 </reference>

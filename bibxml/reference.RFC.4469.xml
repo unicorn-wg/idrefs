@@ -1,36 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC4469'>
-
+<reference  anchor='RFC4469' target='http://www.rfc-editor.org/info/rfc4469'>
 <front>
-<title abbrev='IMAP CATENATE Extension'>Internet Message Access Protocol (IMAP) CATENATE
-            Extension</title>
-<author initials='P.' surname='Resnick' fullname='Peter W. Resnick'>
-<organization>QUALCOMM Incorporated</organization>
-<address>
-<postal>
-<street>5775 Morehouse Drive</street>
-<city>San Diego</city>
-<region>CA</region>
-<code>92121-1714</code>
-<country>US</country></postal>
-<phone>+1 858 651 4478</phone>
-<email>presnick@qualcomm.com</email>
-<uri>http://www.qualcomm.com/~presnick/</uri></address></author>
+<title>Internet Message Access Protocol (IMAP) CATENATE Extension</title>
+<author initials='P.' surname='Resnick' fullname='P. Resnick'><organization /></author>
 <date year='2006' month='April' />
-<area>Applications</area>
-<workgroup>LEMONADE</workgroup>
-<keyword />
-<abstract>
-<t>The CATENATE extension to the Internet Message Access Protocol (IMAP) extends the
-                APPEND command to allow clients to create messages on the IMAP server that may
-                contain a combination of new data along with parts of (or entire) messages already
-                on the server. Using this extension, the client can catenate parts of an already
-                existing message onto a new message without having to first download the data and
-                then upload it back to the server.</t></abstract></front>
-
-<seriesInfo name='RFC' value='4469' />
-<format type='TXT' octets='21822' target='http://www.rfc-editor.org/rfc/rfc4469.txt' />
-<format type='HTML' octets='38458' target='http://xml.resource.org/public/rfc/html/rfc4469.html' />
-<format type='XML' octets='34467' target='http://xml.resource.org/public/rfc/xml/rfc4469.xml' />
+<abstract><t>The CATENATE extension to the Internet Message Access Protocol (IMAP) extends the APPEND command to allow clients to create messages on the IMAP server that may contain a combination of new data along with parts of (or entire) messages already on the server.  Using this extension, the client can catenate parts of an already existing message onto a new message without having to first download the data and then upload it back to the server.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='4469'/>
+<seriesInfo name='DOI' value='10.17487/RFC4469'/>
 </reference>

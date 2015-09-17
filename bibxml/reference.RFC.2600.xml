@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2600'>
-
+<reference  anchor='RFC2600' target='http://www.rfc-editor.org/info/rfc2600'>
 <front>
-<title abbrev='Internet Standards'>Internet Official Protocol Standards</title>
-<author initials='J.K.' surname='Reynolds' fullname='Joyce K. Reynolds'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511</phone>
-<facsimile>+1 310 823 6714</facsimile>
-<email>JKRey@ISI.EDU</email></address></author>
-<author initials='R.' surname='Braden' fullname='Robert Braden'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511</phone>
-<facsimile>+1 310 823 6714</facsimile>
-<email>Braden@ISI.EDU</email></address></author>
-<date year='2000' month='March' /></front>
-
-<seriesInfo name='RFC' value='2600' />
-<format type='TXT' octets='86139' target='http://www.rfc-editor.org/rfc/rfc2600.txt' />
+<title>Internet Official Protocol Standards</title>
+<author initials='J.' surname='Reynolds' fullname='J. Reynolds'><organization /></author>
+<author initials='R.' surname='Braden' fullname='R. Braden'><organization /></author>
+<date year='2000' month='March' />
+<abstract><t>This memo is published by the RFC Editor in accordance with Section 2.1 of &quot;The Internet Standards Process -- Revision 3&quot;, RFC 2026, which specifies the rules and procedures by which all Internet standards are set.  This memo is prepared by the RFC Editor for the IESG and IAB. Please see http://www.rfc-editor.org for later updates to this document. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2600'/>
+<seriesInfo name='DOI' value='10.17487/RFC2600'/>
 </reference>

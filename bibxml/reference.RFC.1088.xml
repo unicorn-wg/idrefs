@@ -1,23 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1088'>
-
+<reference  anchor='RFC1088' target='http://www.rfc-editor.org/info/rfc1088'>
 <front>
-<title abbrev='IP over NetBIOS networks'>Standard for the transmission of IP datagrams over NetBIOS networks</title>
-<author initials='L.' surname='McLaughlin' fullname='Leo J. McLaughlin III'>
-<organization>The Wollongong Group</organization>
-<address>
-<postal>
-<street>1129 San Antonio Road</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94303</code>
-<country>US</country></postal>
-<phone>+1 415 962 7100</phone>
-<email>ljm@TWG.COM</email></address></author>
-<date year='1989' day='1' month='February' /></front>
-
-<seriesInfo name='STD' value='48' />
-<seriesInfo name='RFC' value='1088' />
-<format type='TXT' octets='5749' target='http://www.rfc-editor.org/rfc/rfc1088.txt' />
+<title>Standard for the transmission of IP datagrams over NetBIOS networks</title>
+<author initials='L.J.' surname='McLaughlin' fullname='L.J. McLaughlin'><organization /></author>
+<date year='1989' month='February' />
+<abstract><t>This document specifies a standard method of encapsulating the Internet Protocol (IP) datagrams on NetBIOS networks.</t></abstract>
+</front>
+<seriesInfo name='STD' value='48'/>
+<seriesInfo name='RFC' value='1088'/>
+<seriesInfo name='DOI' value='10.17487/RFC1088'/>
 </reference>

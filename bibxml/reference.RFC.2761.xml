@@ -1,36 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2761'>
-
+<reference  anchor='RFC2761' target='http://www.rfc-editor.org/info/rfc2761'>
 <front>
 <title>Terminology for ATM Benchmarking</title>
-<author initials='J.' surname='Dunn' fullname='Jeffrey Dunn'>
-<organization>Advanced Network Consultants, Inc</organization>
-<address>
-<postal>
-<street>4214 Crest Place</street>
-<city>Ellicott City</city>
-<region>MD</region>
-<code>21043</code>
-<country>US</country></postal>
-<phone>+1 410 750 1700</phone>
-<email>Jeffrey.Dunn@worldnet.att.net</email></address></author>
-<author initials='C.' surname='Martin' fullname='Cynthia Martin'>
-<organization>Advanced Network Consultants, Inc.</organization>
-<address>
-<postal>
-<street>11241-B Skilift Court</street>
-<city>Columbia</city>
-<region>MD</region>
-<code>21044</code>
-<country>US</country></postal>
-<phone>+1 410 730 6300</phone>
-<email>Cynthia.E.Martin@worldnet.att.net</email></address></author>
+<author initials='J.' surname='Dunn' fullname='J. Dunn'><organization /></author>
+<author initials='C.' surname='Martin' fullname='C. Martin'><organization /></author>
 <date year='2000' month='February' />
-<abstract>
-<t>This memo discusses and defines terms associated with performance benchmarking tests and the results of these tests in the context of Asynchronous Transfer Mode (ATM) based switching devices. The terms defined in this memo will be used in addition to terms defined in RFCs 1242, 2285, and 2544. This memo is a product of the Benchmarking
-Methodology Working Group (BMWG) of the Internet Engineering Task Force (IETF).</t></abstract></front>
-
-<seriesInfo name='RFC' value='2761' />
-<format type='TXT' octets='61219' target='http://www.rfc-editor.org/rfc/rfc2761.txt' />
+<abstract><t>This memo discusses and defines terms associated with performance benchmarking tests and the results of these tests in the context of Asynchronous Transfer Mode (ATM) based switching devices.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2761'/>
+<seriesInfo name='DOI' value='10.17487/RFC2761'/>
 </reference>

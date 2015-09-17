@@ -1,34 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2563'>
-
+<reference  anchor='RFC2563' target='http://www.rfc-editor.org/info/rfc2563'>
 <front>
-<title abbrev='DHCP Auto-Configuration Option'>DHCP Option to Disable Stateless Auto-Configuration in IPv4 Clients</title>
-<author initials='R.' surname='Troll' fullname='Ryan Troll'>
-<organization>@Home Network</organization>
-<address>
-<postal>
-<street>425 Broadway</street>
-<city>Redwood City</city>
-<region>CA</region>
-<code>94063</code>
-<country>US</country></postal>
-<phone>+1 650 556 6031</phone>
-<email>rtroll@corp.home.net</email></address></author>
+<title>DHCP Option to Disable Stateless Auto-Configuration in IPv4 Clients</title>
+<author initials='R.' surname='Troll' fullname='R. Troll'><organization /></author>
 <date year='1999' month='May' />
-<abstract>
-<t>Operating Systems are now attempting to support ad-hoc networks of
-   two or more systems, while keeping user configuration at a minimum.
-   To accommodate this, in the absence of a central configuration
-   mechanism (DHCP), some OS's are automatically choosing a link-local
-   IP address which will allow them to communicate only with other hosts
-   on the same link.  This address will not allow the OS to communicate
-   with anything beyond a router.  However, some sites depend on the
-   fact that a host with no DHCP response will have no IP address.  This
-   document describes a mechanism by which DHCP servers are able to tell
-   clients that they do not have an IP address to offer, and that the
-   client should not generate an IP address it's own.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2563' />
-<format type='TXT' octets='17838' target='http://www.rfc-editor.org/rfc/rfc2563.txt' />
+<abstract><t>This document describes a mechanism by which DHCP servers are able to tell clients that they do not have an IP address to offer, and that the client should not generate an IP address it's own.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2563'/>
+<seriesInfo name='DOI' value='10.17487/RFC2563'/>
 </reference>

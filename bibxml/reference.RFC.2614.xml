@@ -1,36 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2614'>
-
+<reference  anchor='RFC2614' target='http://www.rfc-editor.org/info/rfc2614'>
 <front>
-<title abbrev='Service Location API'>An API for Service Location</title>
-<author initials='J.' surname='Kempf' fullname='James Kempf'>
-<organization>Sun Microsystems</organization>
-<address>
-<postal>
-<street>901 San Antonio Rd.</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94303</code>
-<country>US</country></postal>
-<phone>+1 650 786 5890</phone>
-<facsimile>+1 650 786 6445</facsimile>
-<email>james.kempf@sun.com</email></address></author>
-<author initials='E.' surname='Guttman' fullname='Erik Guttman'>
-<organization>Sun Microsystems</organization>
-<address>
-<postal>
-<street>Bahnstr. 2</street>
-<city>Waibstadt</city>
-<region />
-<code>74915</code>
-<country>DE</country></postal>
-<phone>+49 7263 911701</phone>
-<email>erik.guttman@sun.com</email></address></author>
+<title>An API for Service Location</title>
+<author initials='J.' surname='Kempf' fullname='J. Kempf'><organization /></author>
+<author initials='E.' surname='Guttman' fullname='E. Guttman'><organization /></author>
 <date year='1999' month='June' />
-<abstract>
-<t>The Service Location Protocol (SLP) provides a new way for clients to dynamically discovery network services.  With SLP, it is simple to offer highly available services that require no user configuration or assistance from network administrators prior to use.  This document describes standardized APIs for SLP in C and Java.  The APIs are modular and are designed to allow implementations to offer just the feature set needed.  In addition, standardized file formats for configuration and serialized registrations are defined, allowing SLP agents to set network and other parameters in a portable way.  The serialized file format allows legacy services to be registered with SLP directory agents in cases where modifying the legacy service program code is difficult or impossible, and to portably exchange a registration database.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2614' />
-<format type='TXT' octets='164002' target='http://www.rfc-editor.org/rfc/rfc2614.txt' />
+<abstract><t>This document describes standardized APIs for SLP in C and Java.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2614'/>
+<seriesInfo name='DOI' value='10.17487/RFC2614'/>
 </reference>

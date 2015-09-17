@@ -1,29 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0782'>
-
+<reference  anchor='RFC0782' target='http://www.rfc-editor.org/info/rfc782'>
 <front>
 <title>Virtual Terminal management model</title>
-<author initials='J.' surname='Nabielsky' fullname='Jose Nabielsky'>
-<organization>The MITRE Corporation,  MITRE C(3) Division, (3) Operations</organization>
-<address>
-<postal>
-<street>1820 Dolley Madison Boulevard</street>
-<city>McLean</city>
-<region>VA</region>
-<code>22102-3481</code>
-<country>US</country></postal></address></author>
-<author initials='A.' surname='Skelton' fullname='Anita P. Skelton'>
-<organization>The MITRE Corporation,  MITRE C(3) Division, (3) Operations</organization>
-<address>
-<postal>
-<street>1820 Dolley Madison Boulevard</street>
-<city>McLean</city>
-<region>VA</region>
-<code>22102-3481</code>
-<country>US</country></postal></address></author>
-<date year='1981' day='1' month='January' /></front>
-
-<seriesInfo name='RFC' value='782' />
-<format type='TXT' octets='43589' target='http://www.rfc-editor.org/rfc/rfc782.txt' />
+<author initials='J.' surname='Nabielsky' fullname='J. Nabielsky'><organization /></author>
+<author initials='A.P.' surname='Skelton' fullname='A.P. Skelton'><organization /></author>
+<date year='1981' month='January' />
+</front>
+<seriesInfo name='RFC' value='782'/>
+<seriesInfo name='DOI' value='10.17487/RFC0782'/>
 </reference>

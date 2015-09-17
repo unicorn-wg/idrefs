@@ -1,32 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0961'>
-
+<reference  anchor='RFC0961' target='http://www.rfc-editor.org/info/rfc961'>
 <front>
 <title>Official ARPA-Internet protocols</title>
-<author initials='J.' surname='Reynolds' fullname='J. Reynolds'>
-<organization>University of Southern California (USC)/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292-6695</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone>
-<email>JKREYNOLDS@USC-ISIB.ARPA</email></address></author>
-<author initials='J.' surname='Postel' fullname='J. Postel'>
-<organization>University of Southern California (USC)/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90291</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone></address></author>
-<date year='1985' day='1' month='December' /></front>
-
-<seriesInfo name='RFC' value='961' />
-<format type='TXT' octets='52672' target='http://www.rfc-editor.org/rfc/rfc961.txt' />
+<author initials='J.K.' surname='Reynolds' fullname='J.K. Reynolds'><organization /></author>
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<date year='1985' month='December' />
+<abstract><t>This memo identifies the documents specifying the official protocols    used in the Internet, and comments on any revisions or changes planned.    This edition of the Official Protocols updates and obsoletes RFC-944.    This memo is an official status report on the protocols used in the    ARPA-Internet community.  See RFC-991.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='961'/>
+<seriesInfo name='DOI' value='10.17487/RFC0961'/>
 </reference>

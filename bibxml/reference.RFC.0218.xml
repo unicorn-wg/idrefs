@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0218'>
-
+<reference  anchor='RFC0218' target='http://www.rfc-editor.org/info/rfc218'>
 <front>
 <title>Changing the IMP status reporting facility</title>
-<author initials='B.' surname='Cosell' fullname='B. Cosell'>
-<organization>Bolt Baranek and Newman (BBN)</organization></author>
-<date year='1971' day='8' month='September' />
-<abstract>
-<t>To help us expand our role as NCC, we will be changing the status reporting facility of the IMP.  The change will take place within the next month and should be transparent to the hosts.</t></abstract></front>
-
-<seriesInfo name='RFC' value='218' />
-<format type='TXT' octets='1131' target='http://www.rfc-editor.org/rfc/rfc218.txt' />
+<author initials='B.' surname='Cosell' fullname='B. Cosell'><organization /></author>
+<date year='1971' month='September' />
+</front>
+<seriesInfo name='RFC' value='218'/>
+<seriesInfo name='DOI' value='10.17487/RFC0218'/>
 </reference>

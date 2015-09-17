@@ -1,35 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2153'>
-
+<reference  anchor='RFC2153' target='http://www.rfc-editor.org/info/rfc2153'>
 <front>
 <title>PPP Vendor Extensions</title>
-<author fullname='William Allen Simpson' initials='W.' surname='Simpson'>
-<organization>DayDreamer, Computer Systems Consulting Services</organization>
-<address>
-<postal>
-<street>1384 Fontaine</street>
-<city>Madison Heights</city>
-<region>MI</region>
-<code>48071</code>
-<country>US</country></postal>
-<email>wsimpson@GreenDragon.com</email></address></author>
-<author initials='K.' surname='Fox' fullname='Karl Fox'>
-<organization>Ascend Communications</organization>
-<address>
-<postal>
-<street>655 Metro Place South</street>
-<street>Suite 379</street>
-<city>Dublin</city>
-<region>OH</region>
-<code>43017</code>
-<country>US</country></postal>
-<email>karl@Ascend.com</email></address></author>
+<author initials='W.' surname='Simpson' fullname='W. Simpson'><organization /></author>
 <date year='1997' month='May' />
-<abstract>
-<t>The Point-to-Point Protocol (PPP)provides a standard method for transporting multi-protocol datagrams over point-to-point links.  PPP defines an extensible Link Control Protocol (LCP) for establishing, configuring, and testing the data-link connection; and a family of Network Control Protocols (NCPs) for establishing and configuring different network-layer protocols.</t>
-<t>This document defines a general mechanism for proprietary vendor extensions.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2153' />
-<format type='TXT' octets='10780' target='http://www.rfc-editor.org/rfc/rfc2153.txt' />
+<abstract><t>The Point-to-Point Protocol (PPP) provides a standard method for transporting multi-protocol datagrams over point-to-point links.  PPP defines an extensible Link Control Protocol (LCP) for establishing, configuring, and testing the data-link connection; and a family of Network Control Protocols (NCPs) for establishing and configuring different network-layer protocols.  This document provides information for the Internet community.  It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2153'/>
+<seriesInfo name='DOI' value='10.17487/RFC2153'/>
 </reference>

@@ -1,58 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2507'>
-
+<reference  anchor='RFC2507' target='http://www.rfc-editor.org/info/rfc2507'>
 <front>
 <title>IP Header Compression</title>
-<author initials='M.' surname='Degermark' fullname='Mikael Degermark'>
-<organization>Department of Computer Science and Electrical Engineering</organization>
-<address>
-<postal>
-<street>Lulea University of Technology</street>
-<city>Lulea</city>
-<code>SE-971 87</code>
-<country>SE</country></postal>
-<phone>+46 92 091188</phone>
-<email>micke@sm.luth.se</email></address></author>
-<author initials='B.' surname='Nordgren' fullname='Bjorn Nordgren'>
-<organization>CDT/Telia Research AB</organization>
-<address>
-<postal>
-<street>Aurorum 6</street>
-<city>Lulea</city>
-<code>S-977 75</code>
-<country>SE</country></postal>
-<phone>+46 92 075400</phone>
-<email>bcn@lulea.trab.se</email>
-<email>bcn@cdt.luth.se</email></address></author>
-<author initials='S.' surname='Pink' fullname='Stephen Pink'>
-<organization>Department of Computer Science and Electrical Engineering</organization>
-<address>
-<postal>
-<street>Lulea University of Technology</street>
-<city>Lulea</city>
-<code>SE-971 87</code>
-<country>SE</country></postal>
-<phone>+46 92 075229</phone>
-<email>steve@sm.luth.se</email></address></author>
+<author initials='M.' surname='Degermark' fullname='M. Degermark'><organization /></author>
+<author initials='B.' surname='Nordgren' fullname='B. Nordgren'><organization /></author>
+<author initials='S.' surname='Pink' fullname='S. Pink'><organization /></author>
 <date year='1999' month='February' />
-<abstract>
-<t>This document describes how to compress multiple IP
-headers and TCP
-and UDP headers per hop over point to point links.
-The methods can be
-applied to of IPv6 base and extension headers, IPv4 headers, TCP and
-UDP headers, and encapsulated IPv6 and IPv4 headers.</t>
-<t>Headers of typical UDP or TCP packets can be compressed down to 4-7
-octets including the 2 octet UDP or TCP checksum.
-This largely
-removes the negative impact of large IP headers and allows efficient
-use of bandwidth on low and medium speed links.</t>
-<t>The compression algorithms are specifically designed to work well
-over links with nontrivial packet-loss rates.
-Several wireless and
-modem technologies result in such links.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2507' />
-<format type='TXT' octets='106292' target='http://www.rfc-editor.org/rfc/rfc2507.txt' />
+<abstract><t>This document describes how to compress multiple IP headers and TCP and UDP headers per hop over point to point links.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2507'/>
+<seriesInfo name='DOI' value='10.17487/RFC2507'/>
 </reference>

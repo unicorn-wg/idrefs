@@ -1,17 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC4552'>
-
+<reference  anchor='RFC4552' target='http://www.rfc-editor.org/info/rfc4552'>
 <front>
 <title>Authentication/Confidentiality for OSPFv3</title>
-<author initials='M.' surname='Gupta' fullname='M. Gupta'>
-<organization /></author>
-<author initials='N.' surname='Melam' fullname='N. Melam'>
-<organization /></author>
+<author initials='M.' surname='Gupta' fullname='M. Gupta'><organization /></author>
+<author initials='N.' surname='Melam' fullname='N. Melam'><organization /></author>
 <date year='2006' month='June' />
-<abstract>
-<t>This document describes means and mechanisms to provide authentication/confidentiality to OSPFv3 using an IPv6 Authentication Header/Encapsulating Security Payload (AH/ESP) extension header. [STANDARDS-TRACK]</t></abstract></front>
-
-<seriesInfo name='RFC' value='4552' />
-<format type='TXT' octets='31540' target='http://www.rfc-editor.org/rfc/rfc4552.txt' />
+<abstract><t>This document describes means and mechanisms to provide authentication/confidentiality to OSPFv3 using an IPv6 Authentication Header/Encapsulating Security Payload (AH/ESP) extension header.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='4552'/>
+<seriesInfo name='DOI' value='10.17487/RFC4552'/>
 </reference>

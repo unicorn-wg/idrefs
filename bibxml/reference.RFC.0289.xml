@@ -1,16 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0289'>
-
+<reference  anchor='RFC0289' target='http://www.rfc-editor.org/info/rfc289'>
 <front>
 <title>What we hope is an official list of host names</title>
-<author initials='R.' surname='Watson' fullname='Richard W. Watson'>
-<organization>Stanford Research Institute (SRI), Augmentation Research Center (ARC)</organization></author>
-<date year='1971' day='21' month='December' />
-<abstract>
-<t>The enclosed is what we hope will be accepted as a list of official formal host names and nicknames.  As no other subject worked on by the NWG has generated so much comment, it is worthwhile to review briefly how this list came into being.</t>
-<t>The need for some standard set of names recognized by NCP's and Telnets and usable on hardcopy to designate a persons affiliation had been recognized for some time and several sets of names were in use.</t></abstract></front>
-
-<seriesInfo name='RFC' value='289' />
-<format type='TXT' octets='5069' target='http://www.rfc-editor.org/rfc/rfc289.txt' />
+<author initials='R.W.' surname='Watson' fullname='R.W. Watson'><organization /></author>
+<date year='1971' month='December' />
+</front>
+<seriesInfo name='RFC' value='289'/>
+<seriesInfo name='DOI' value='10.17487/RFC0289'/>
 </reference>

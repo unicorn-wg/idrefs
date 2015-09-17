@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference  anchor='RFC1260' target='http://www.rfc-editor.org/info/rfc1260'>
+<front>
+<title>Not Issued</title>
+<author initials='' surname='' fullname=''><organization /></author>
+</front>
+<seriesInfo name='RFC' value='1260'/>
+<seriesInfo name='DOI' value='10.17487/RFC1260'/>
+</reference>

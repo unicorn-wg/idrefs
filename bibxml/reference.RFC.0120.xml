@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0120'>
-
+<reference  anchor='RFC0120' target='http://www.rfc-editor.org/info/rfc120'>
 <front>
 <title>Network PL1 subprograms</title>
-<author initials='M.' surname='Krilanovich' fullname='Mark Krilanovich'>
-<organization>University of California, Santa Barbara (UCSB), Computer Research Lab</organization></author>
-<date year='1971' day='21' month='April' /></front>
-
-<seriesInfo name='RFC' value='120' />
-<format type='TXT' octets='37192' target='http://www.rfc-editor.org/rfc/rfc120.txt' />
+<author initials='M.' surname='Krilanovich' fullname='M. Krilanovich'><organization /></author>
+<date year='1971' month='April' />
+</front>
+<seriesInfo name='RFC' value='120'/>
+<seriesInfo name='DOI' value='10.17487/RFC0120'/>
 </reference>

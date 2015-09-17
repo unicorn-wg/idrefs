@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC7134'>
-
+<reference  anchor='RFC7134' target='http://www.rfc-editor.org/info/rfc7134'>
 <front>
-<title>The Management Policy of the Resource Priority Header (RPH) Registry Changed to "IETF Review"</title>
-<author initials='B.' surname='Rosen' fullname='B. Rosen'>
-<organization /></author>
+<title>The Management Policy of the Resource Priority Header (RPH) Registry Changed to &quot;IETF Review&quot;</title>
+<author initials='B.' surname='Rosen' fullname='B. Rosen'><organization /></author>
 <date year='2014' month='March' />
-<abstract>
-<t>RFC 4412 defines the "Resource-Priority Namespaces" and "Resource-Priority Priority-values" registries.  The management policy of these registries is "Standards Action".  This document normatively updates RFC 4412 to change the management policy of these registries to "IETF Review".</t></abstract></front>
-
-<seriesInfo name='RFC' value='7134' />
-<format type='TXT' octets='3565' target='http://www.rfc-editor.org/rfc/rfc7134.txt' />
+<abstract><t>RFC 4412 defines the &quot;Resource-Priority Namespaces&quot; and &quot;Resource-Priority Priority-values&quot; registries.  The management policy of these registries is &quot;Standards Action&quot;.  This document normatively updates RFC 4412 to change the management policy of these registries to &quot;IETF Review&quot;.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='7134'/>
+<seriesInfo name='DOI' value='10.17487/RFC7134'/>
 </reference>

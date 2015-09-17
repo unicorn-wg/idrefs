@@ -1,16 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0891'>
-
+<reference  anchor='RFC0891' target='http://www.rfc-editor.org/info/rfc891'>
 <front>
-<title>DCN local-network protocols</title>
-<author initials='D.' surname='Mills' fullname='D. L. Mills'>
-<organization /></author>
-<date year='1983' day='1' month='December' />
-<abstract>
-<t>This RFC is a description of the protocol used in the DCN local networks to maintain connectivity, routing, and timekeeping information.  These procedures may be of interest to designers and implementers of other networks.</t></abstract></front>
-
-<seriesInfo name='STD' value='44' />
-<seriesInfo name='RFC' value='891' />
-<format type='TXT' octets='66769' target='http://www.rfc-editor.org/rfc/rfc891.txt' />
+<title>DCN Local-Network Protocols</title>
+<author initials='D.L.' surname='Mills' fullname='D.L. Mills'><organization /></author>
+<date year='1983' month='December' />
+<abstract><t>This RFC provides a description of the DCN protocols for maintaining    connectivity, routing, and clock information in a local network.    These procedures may be of interest to the designers and implementers    of other local networks.</t></abstract>
+</front>
+<seriesInfo name='STD' value='44'/>
+<seriesInfo name='RFC' value='891'/>
+<seriesInfo name='DOI' value='10.17487/RFC0891'/>
 </reference>

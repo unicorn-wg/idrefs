@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0115'>
-
+<reference  anchor='RFC0115' target='http://www.rfc-editor.org/info/rfc115'>
 <front>
-<title abbrev='Policies on Handling Documents'>Some Network Information Center policies on handling documents</title>
-<author initials='R.' surname='Watson' fullname='R. Watson'>
-<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
-<author initials='J.' surname='North' fullname='J. North'>
-<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
-<date year='1971' day='16' month='April' /></front>
-
-<seriesInfo name='RFC' value='115' />
-<format type='TXT' octets='16775' target='http://www.rfc-editor.org/rfc/rfc115.txt' />
+<title>Some Network Information Center policies on handling documents</title>
+<author initials='R.W.' surname='Watson' fullname='R.W. Watson'><organization /></author>
+<author initials='J.B.' surname='North' fullname='J.B. North'><organization /></author>
+<date year='1971' month='April' />
+</front>
+<seriesInfo name='RFC' value='115'/>
+<seriesInfo name='DOI' value='10.17487/RFC0115'/>
 </reference>

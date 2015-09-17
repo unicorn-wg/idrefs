@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1558'>
-
+<reference  anchor='RFC1558' target='http://www.rfc-editor.org/info/rfc1558'>
 <front>
-<title abbrev='Representation of LDAP Filters'>A String Representation of LDAP Search Filters</title>
-<author initials='T.' surname='Howes' fullname='Tim Howes'>
-<organization>University of Michigan, ITD Research Systems</organization>
-<address>
-<postal>
-<street>535 W William St.</street>
-<city>Ann Arbor</city>
-<region>MI</region>
-<code>48103-4943</code>
-<country>US</country></postal>
-<phone>+1 313 747 4454</phone>
-<email>tim@umich.edu</email></address></author>
+<title>A String Representation of LDAP Search Filters</title>
+<author initials='T.' surname='Howes' fullname='T. Howes'><organization /></author>
 <date year='1993' month='December' />
-<abstract>
-<t>The Lightweight Directory Access Protocol (LDAP)defines a network representation of a search filter transmitted to an LDAP server.  Some applications may find it useful to have a common way of representing these search filters in a human-readable form.  This document defines a human-readable string format for representing LDAP search filters.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1558' />
-<format type='TXT' octets='5239' target='http://www.rfc-editor.org/rfc/rfc1558.txt' />
+<abstract><t>The Lightweight Directory Access Protocol (LDAP) defines a network representation of a search filter transmitted to an LDAP server.  Some applications may find it useful to have a common way of representing these search filters in a human-readable form.  This document defines a human-readable string format for representing LDAP search filters. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1558'/>
+<seriesInfo name='DOI' value='10.17487/RFC1558'/>
 </reference>

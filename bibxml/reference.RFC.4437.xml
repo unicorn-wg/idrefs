@@ -1,64 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC4437'>
-
+<reference  anchor='RFC4437' target='http://www.rfc-editor.org/info/rfc4437'>
 <front>
-<title abbrev='WebDAV Redirect Reference Resources'>Web Distributed Authoring and Versioning (WebDAV) Redirect Reference Resources</title>
-<author initials='J.' surname='Whitehead' fullname='Jim Whitehead'>
-<organization abbrev='U.C. Santa Cruz'>UC Santa Cruz, Dept. of Computer Science</organization>
-<address>
-<postal>
-<street>1156 High Street</street>
-<city>Santa Cruz</city>
-<region>CA</region>
-<code>95064</code>
-<country>US</country></postal>
-<email>ejw@cse.ucsc.edu</email></address></author>
-<author initials='G.' surname='Clemm' fullname='Geoff Clemm'>
-<organization>IBM</organization>
-<address>
-<postal>
-<street>20 Maguire Road</street>
-<city>Lexington</city>
-<region>MA</region>
-<code>02421</code>
-<country>US</country></postal>
-<email>geoffrey.clemm@us.ibm.com</email></address></author>
-<author initials='J. F.' surname='Reschke' fullname='Julian F. Reschke' role='editor'>
-<organization abbrev='greenbytes'>greenbytes GmbH</organization>
-<address>
-<postal>
-<street>Hafenweg 16</street>
-<city>Muenster</city>
-<region>NW</region>
-<code>48155</code>
-<country>Germany</country></postal>
-<phone>+49 251 2807760</phone>
-<facsimile>+49 251 2807761</facsimile>
-<email>julian.reschke@greenbytes.de</email>
-<uri>http://greenbytes.de/tech/webdav/</uri></address></author>
+<title>Web Distributed Authoring and Versioning (WebDAV) Redirect Reference Resources</title>
+<author initials='J.' surname='Whitehead' fullname='J. Whitehead'><organization /></author>
+<author initials='G.' surname='Clemm' fullname='G. Clemm'><organization /></author>
+<author initials='J.' surname='Reschke' fullname='J. Reschke' role='editor'><organization /></author>
 <date year='2006' month='March' />
-<workgroup>WEBDAV Working Group</workgroup>
-<abstract>
-<t>
-
-   This specification defines an extension to Web Distributed Authoring
-   and Versioning (WebDAV) to allow clients to author HTTP redirect
-   reference resources whose default response is an HTTP/1.1 3xx
-   (Redirection) status code.  A redirect reference makes it possible to
-   access the target resourced indirectly through any URI mapped to the
-   redirect reference resource.  This specification does not address
-   remapping of trees of resources or regular expression based
-   redirections.  There are no integrity guarantees associated with
-   redirect reference resources.  Other mechanisms can also be used to
-   achieve the same functionality as this specification.  This
-   specification allows operators to experiment with this mechanism and
-   develop experience on what is the best approach to the problem.
-
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='4437' />
-<format type='TXT' octets='49932' target='http://www.rfc-editor.org/rfc/rfc4437.txt' />
-<format type='HTML' octets='92657' target='http://xml.resource.org/public/rfc/html/rfc4437.html' />
-<format type='XML' octets='57683' target='http://xml.resource.org/public/rfc/xml/rfc4437.xml' />
+<abstract><t>This specification defines an extension to Web Distributed Authoring and Versioning (WebDAV) to allow clients to author HTTP redirect reference resources whose default response is an HTTP/1.1 3xx (Redirection) status code.  A redirect reference makes it possible to access the target resourced indirectly through any URI mapped to the redirect reference resource.  This specification does not address remapping of trees of resources or regular expression based redirections.  There are no integrity guarantees associated with redirect reference resources.  Other mechanisms can also be used to achieve the same functionality as this specification.  This specification allows operators to experiment with this mechanism and develop experience on what is the best approach to the problem.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='4437'/>
+<seriesInfo name='DOI' value='10.17487/RFC4437'/>
 </reference>

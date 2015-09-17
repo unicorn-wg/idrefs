@@ -1,25 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0776'>
-
+<reference  anchor='RFC0776' target='http://www.rfc-editor.org/info/rfc776'>
 <front>
-<title abbrev='Assigned Numbers Network Numbers'>Assigned numbers</title>
-<author initials='J.' surname='Postel' fullname='Jon Postel'>
-<organization>University of Southern California (USC) / Information Sciences Institue</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90291</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone>
-<email>POSTEL@ISIF</email></address></author>
-<date year='1981' day='1' month='January' />
-<abstract>
-<t>This Network Working Group Request for Comments documents the currently assigned values from several series of numbers used in network protocol
-implementations.</t></abstract></front>
-
-<seriesInfo name='RFC' value='776' />
-<format type='TXT' octets='30311' target='http://www.rfc-editor.org/rfc/rfc776.txt' />
+<title>Assigned numbers</title>
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<date year='1981' month='January' />
+</front>
+<seriesInfo name='RFC' value='776'/>
+<seriesInfo name='DOI' value='10.17487/RFC0776'/>
 </reference>

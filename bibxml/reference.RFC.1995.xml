@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1995'>
-
+<reference  anchor='RFC1995' target='http://www.rfc-editor.org/info/rfc1995'>
 <front>
 <title>Incremental Zone Transfer in DNS</title>
-<author initials='M.' surname='Ohta' fullname='Masataka Ohta'>
-<organization>Computer Center Tokyo Institute of Technology</organization>
-<address>
-<postal>
-<street>2-12-1, O-okayama</street>
-<street>Meguro-ku</street>
-<city>Tokyo</city>
-<code>152</code>
-<country>JP</country></postal>
-<phone>+81 3 57343299</phone>
-<facsimile>+81 3 57343415</facsimile>
-<email>mohta@necom830.hpcl.titech.ac.jp</email></address></author>
+<author initials='M.' surname='Ohta' fullname='M. Ohta'><organization /></author>
 <date year='1996' month='August' />
-<abstract>
-<t>This document proposes extensions to the DNS protocols to provide an incremental zone transfer (IXFR) mechanism.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1995' />
-<format type='TXT' octets='16810' target='http://www.rfc-editor.org/rfc/rfc1995.txt' />
+<abstract><t>This document proposes extensions to the DNS protocols to provide an incremental zone transfer (IXFR) mechanism.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1995'/>
+<seriesInfo name='DOI' value='10.17487/RFC1995'/>
 </reference>

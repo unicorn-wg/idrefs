@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1648'>
-
+<reference  anchor='RFC1648' target='http://www.rfc-editor.org/info/rfc1648'>
 <front>
-<title abbrev='X.400 Postmaster Convention'>Postmaster Convention for X.400 Operations</title>
-<author initials='A.' surname='Cargille' fullname='Allan Cargille'>
-<organization>University of Wisconsin-Madison, Computer Sciences Department</organization>
-<address>
-<postal>
-<street>1210 West Dayton Street</street>
-<city>Madison</city>
-<region>WI</region>
-<code>53706</code>
-<country>US</country></postal>
-<phone>+1 608 262 5084</phone>
-<facsimile>+1 608 262 9777</facsimile>
-<email>cargille@cs.wisc.edu</email></address></author>
+<title>Postmaster Convention for X.400 Operations</title>
+<author initials='A.' surname='Cargille' fullname='A. Cargille'><organization /></author>
 <date year='1994' month='July' />
-<abstract>
-<t>Both STD 11, RFC 822and STD 3, RFC 1123(Host Requirements) require that the email address "postmaster" be supported at all hosts.  This paper extends this concept to X.400 mail domains which   have registered RFC 1327 mapping rules, and which therefore appear to have normal RFC822-style addresses.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1648' />
-<format type='TXT' octets='8761' target='http://www.rfc-editor.org/rfc/rfc1648.txt' />
+<abstract><t>This paper extends this concept to X.400 mail domains which have registered RFC 1327 mapping rules, and which therefore appear to have normal RFC822-style addresses.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1648'/>
+<seriesInfo name='DOI' value='10.17487/RFC1648'/>
 </reference>

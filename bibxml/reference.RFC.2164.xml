@@ -1,27 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2164'>
-
+<reference  anchor='RFC2164' target='http://www.rfc-editor.org/info/rfc2164'>
 <front>
-<title abbrev='X.500/LDAP Directory to Support MIXER'>Use of an X.500/LDAP directory to support MIXER address mapping</title>
-<author initials='S.' surname='Kille' fullname='Steve Kille'>
-<organization>Isode Ltd.</organization>
-<address>
-<postal>
-<street>The Dome</street>
-<street>The Square</street>
-<street>Richmond</street>
-<street>TW9 1DT</street>
-<street>England</street></postal>
-<phone>+44-181-332-9091</phone>
-<email>S.Kille@ISODE.COM</email></address></author>
+<title>Use of an X.500/LDAP directory to support MIXER address mapping</title>
+<author initials='S.' surname='Kille' fullname='S. Kille'><organization /></author>
 <date year='1998' month='January' />
-<area>Applications</area>
-<keyword>ITU directory service protocol</keyword>
-<keyword>directory</keyword>
-<keyword>lightweight directory access protocol</keyword></front>
-
-<seriesInfo name='RFC' value='2164' />
-<format type='TXT' octets='16701' target='http://www.rfc-editor.org/rfc/rfc2164.txt' />
-<format type='XML' octets='17126' target='http://xml.resource.org/public/rfc/xml/rfc2164.xml' />
+<abstract><t>This specification defines how to represent and maintain these mappings (MIXER Conformant Global Address Mappings of MCGAMs) in an X.500 or LDAP directory.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2164'/>
+<seriesInfo name='DOI' value='10.17487/RFC2164'/>
 </reference>

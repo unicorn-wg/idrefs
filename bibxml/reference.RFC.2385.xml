@@ -1,51 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2385'>
-
+<reference  anchor='RFC2385' target='http://www.rfc-editor.org/info/rfc2385'>
 <front>
-<title abbrev='TCP MD5 Signature Option'>Protection of BGP Sessions via the TCP MD5 Signature Option</title>
-<author initials='A.' surname='Heffernan' fullname='Andy Heffernan'>
-<organization>cisco Systems</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<street>San Jose</street>
-<street>CA  95134</street>
-<country>USA</country></postal>
-<phone>+1 408 526-8115</phone>
-<email>ahh@cisco.com</email></address></author>
+<title>Protection of BGP Sessions via the TCP MD5 Signature Option</title>
+<author initials='A.' surname='Heffernan' fullname='A. Heffernan'><organization /></author>
 <date year='1998' month='August' />
-<area>Security</area>
-<area>Routing</area>
-<keyword>attack</keyword>
-<keyword>border gateway protocol</keyword>
-<keyword>BGP</keyword>
-<keyword>message digest</keyword>
-<keyword>security</keyword>
-<keyword>transmission control protocol</keyword>
-<abstract>
-<t>
-   This document describes currrent existing practice for securing BGP
-   against certain simple attacks.  It is understood to have security
-   weaknesses against concerted attacks.
-</t>
-<t>
-   This memo describes a TCP extension to enhance security for BGP.  It
-   defines a new TCP option for carrying an MD5  digest in a
-   TCP segment.  This digest acts like a signature for that segment,
-   incorporating information known only to the connection end points.
-   Since BGP uses TCP as its transport, using this option in the way
-   described in this paper significantly reduces the danger from certain
-   security attacks on BGP.
-</t></abstract>
-<note title='IESG Note'>
-<t>
-   This document describes currrent existing practice for securing BGP
-   against certain simple attacks.  It is understood to have security
-   weaknesses against concerted attacks.
-</t></note></front>
-
-<seriesInfo name='RFC' value='2385' />
-<format type='TXT' octets='12315' target='http://www.rfc-editor.org/rfc/rfc2385.txt' />
-<format type='XML' octets='12788' target='http://xml.resource.org/public/rfc/xml/rfc2385.xml' />
+<abstract><t>This memo describes a TCP extension to enhance security for BGP. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2385'/>
+<seriesInfo name='DOI' value='10.17487/RFC2385'/>
 </reference>

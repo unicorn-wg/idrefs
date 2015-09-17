@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0632'>
-
+<reference  anchor='RFC0632' target='http://www.rfc-editor.org/info/rfc632'>
 <front>
 <title>Throughput degradations for single packet messages</title>
-<author initials='H.' surname='Opderbeck' fullname='H. Opderbeck'>
-<organization>University of California, Los Angeles (UCLA), NMC</organization></author>
-<date year='1974' day='20' month='May' />
-<abstract>
-<t>The transmission of digitized speech over the ARPANET represents a new dimension in the use of packet switching systems.  The throughput and delay requirements for this newly emerging application area are quite different from the throughput and delay requirements for interactive use or file transfers.  In particular, we need to achieve a high throughput for small messages since long messages result in long source delays to fill the large buffers.  Therefore we are currently studying the throughput limits for single-packet messages.  We realize that up to now little attempt was made to optimize throughput for low delay traffic. It was nevertheless surprising for us to find out that the observed throughput for single-packet messages is in many cases only about one fourth of what one would expect.  In what follows we are going to explain why this happens and what could be done to correct this situation.</t></abstract></front>
-
-<seriesInfo name='RFC' value='632' />
-<format type='TXT' octets='14563' target='http://www.rfc-editor.org/rfc/rfc632.txt' />
+<author initials='H.' surname='Opderbeck' fullname='H. Opderbeck'><organization /></author>
+<date year='1974' month='May' />
+</front>
+<seriesInfo name='RFC' value='632'/>
+<seriesInfo name='DOI' value='10.17487/RFC0632'/>
 </reference>

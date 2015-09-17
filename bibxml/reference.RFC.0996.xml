@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0996'>
-
+<reference  anchor='RFC0996' target='http://www.rfc-editor.org/info/rfc996'>
 <front>
 <title>Statistics server</title>
-<author initials='D.' surname='Mills' fullname='D. L. Mills'>
-<organization>University of Delaware</organization></author>
-<date year='1987' day='1' month='February' /></front>
-
-<seriesInfo name='RFC' value='996' />
-<format type='TXT' octets='6127' target='http://www.rfc-editor.org/rfc/rfc996.txt' />
+<author initials='D.L.' surname='Mills' fullname='D.L. Mills'><organization /></author>
+<date year='1987' month='February' />
+<abstract><t>This RFC specifies a standard for the ARPA Internet community. Hosts and    gateways on the DARPA Internet that choose to implement a remote    statistics monitoring facility may use this protocol to send statistics    data upon request to a monitoring center or debugging host.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='996'/>
+<seriesInfo name='DOI' value='10.17487/RFC0996'/>
 </reference>

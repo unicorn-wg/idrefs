@@ -1,26 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1708'>
-
+<reference  anchor='RFC1708' target='http://www.rfc-editor.org/info/rfc1708'>
 <front>
-<title abbrev='NTP PICS Proforma'>NTP PICS PROFORMA - For the Network Time Protocol Version 3</title>
-<author initials='D.' surname='Gowin' fullname='Dan R. Gowin'>
-<organization>Vitro a Tracor Company</organization>
-<address>
-<postal>
-<street>5001 N. St. Rd. 37</street>
-<city>Bloomington</city>
-<region>IN</region>
-<code>47404-1626</code>
-<country>US</country></postal>
-<phone>+1 812 336 2299 x379</phone>
-<facsimile>+1 812 333 0415</facsimile>
-<email>drg508@crane-ns.nwscc.sea06.navy.MIL</email></address></author>
+<title>NTP PICS PROFORMA - For the Network Time Protocol Version 3</title>
+<author initials='D.' surname='Gowin' fullname='D. Gowin'><organization /></author>
 <date year='1994' month='October' />
-<abstract>
-<t>This RFC describes a PICS Proforma translated into an Internet acceptable form.  The Original document was developed according to ISO 9646 for conformance test purposes.  This document is intended for both developers and users of the NTP (Network Time Protocol). This document contains specific information and performance characteristics for the use of NTP within the context of Internet usage.  It is suggested, that users wishing to use the synchronization capabilities of the Internet abide by the characteristics set within this document.</t>
-<t>For more information please contact Dr. David Mills at Mills@udel.edu or review RFC 1305 for more information.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1708' />
-<format type='TXT' octets='26523' target='http://www.rfc-editor.org/rfc/rfc1708.txt' />
+<abstract><t>This RFC describes a PICS Proforma translated into an Internet acceptable form. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1708'/>
+<seriesInfo name='DOI' value='10.17487/RFC1708'/>
 </reference>

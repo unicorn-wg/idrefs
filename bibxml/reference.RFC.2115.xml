@@ -1,34 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2115'>
-
+<reference  anchor='RFC2115' target='http://www.rfc-editor.org/info/rfc2115'>
 <front>
-<title abbrev='Frame Relay DTE MIB'>Management Information Base for Frame Relay DTEs Using SMIv2</title>
-<author initials='C.' surname='Brown' fullname='Caralyn Brown'>
-<organization>Cadia Networks, Inc.</organization>
-<address>
-<postal>
-<street>1 Corporate Dirve</street>
-<street>Andover</street>
-<street>Massachusetts  01810</street></postal>
-<phone>ephone:  +1 508 689 2400 x133</phone>
-<email>cbrown@cadia.com</email></address></author>
-<author initials='F.' surname='Baker' fullname='Fred Baker'>
-<organization>Cisco Systems</organization>
-<address>
-<postal>
-<street>519 Lado Drive</street>
-<street>Santa Barbara</street>
-<street>California 93111</street></postal>
-<phone>ephone  +1 408 526 4257</phone>
-<email>fred@cisco.com</email></address></author>
+<title>Management Information Base for Frame Relay DTEs Using SMIv2</title>
+<author initials='C.' surname='Brown' fullname='C. Brown'><organization /></author>
+<author initials='F.' surname='Baker' fullname='F. Baker'><organization /></author>
 <date year='1997' month='September' />
-<area>Management</area>
-<keyword>Management Information Base</keyword>
-<keyword>frame relay</keyword>
-<keyword>structure of management information version 2</keyword></front>
-
-<seriesInfo name='RFC' value='2115' />
-<format type='TXT' octets='59950' target='http://www.rfc-editor.org/rfc/rfc2115.txt' />
-<format type='XML' octets='59794' target='http://xml.resource.org/public/rfc/xml/rfc2115.xml' />
+<abstract><t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP- based internets.  In particular, it defines objects for managing Frame Relay interfaces on DTEs.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2115'/>
+<seriesInfo name='DOI' value='10.17487/RFC2115'/>
 </reference>

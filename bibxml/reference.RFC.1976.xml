@@ -1,49 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1976'>
-
+<reference  anchor='RFC1976' target='http://www.rfc-editor.org/info/rfc1976'>
 <front>
 <title>PPP for Data Compression in Data Circuit-Terminating Equipment (DCE)</title>
-<author initials='K.' surname='Schneider' fullname='Kevin Schneider'>
-<organization>Adtran, Inc.</organization>
-<address>
-<postal>
-<street>901 Explorer Blvd.</street>
-<city>Huntsville</city>
-<region>AL</region>
-<code>35806-2807</code>
-<country>US</country></postal>
-<phone>+1 205 971 8000</phone>
-<email>kevin@adtran.com</email></address></author>
-<author initials='S.' surname='Venters' fullname='Stuart Venters'>
-<organization>Adtran, Inc.</organization>
-<address>
-<postal>
-<street>901 Explorer Blvd.</street>
-<city>Huntsville</city>
-<region>AL</region>
-<code>35806-2807</code>
-<country>US</country></postal>
-<phone>+1 205 971 8000</phone>
-<email>sventers@adtran.com</email></address></author>
-<author initials='K.' surname='Fox' fullname='Karl Fox'>
-<organization>Ascend Communications</organization>
-<address>
-<postal>
-<street>3518 Riverside Drive</street>
-<street>Suite 101</street>
-<city>Columbus</city>
-<region>OH</region>
-<code>43221</code>
-<country>US</country></postal>
-<email>karl@ascend.com</email></address></author>
+<author initials='K.' surname='Schneider' fullname='K. Schneider'><organization /></author>
+<author initials='S.' surname='Venters' fullname='S. Venters'><organization /></author>
 <date year='1996' month='August' />
-<abstract>
-<t>The Point-to-Point Protocol (PPP)provides a standard method for transporting multi-protocol datagrams over point-to-point links.  PPP
-   defines an extensible Link Control Protocol, and proposes a family of Network Control Protocols for establishing and configuring different network-layer protocols.</t>
-<t>The PPP Serial Data Transport Protocol (PPP-SDTP)provides a standard method for encapsulating and transporting serial data over a PPP link.  The PPP Compression Control Protocolprovides a standard method for selecting and using a compression protocol to provide for data compression on a PPP link.</t>
-<t>This document defines a specific set of parameters for these protocols and an LCP extension to define a standard way of using PPP for data compression of serial data in Data Circuit-Terminating Equipment (DCE).</t></abstract></front>
-
-<seriesInfo name='RFC' value='1976' />
-<format type='TXT' octets='19781' target='http://www.rfc-editor.org/rfc/rfc1976.txt' />
+<abstract><t>This document defines a specific set of parameters for these protocols and an LCP extension to define a standard way of using PPP for data compression of serial data in Data Circuit-Terminating Equipment (DCE). This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1976'/>
+<seriesInfo name='DOI' value='10.17487/RFC1976'/>
 </reference>

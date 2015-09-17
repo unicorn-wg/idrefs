@@ -1,46 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2732'>
-
+<reference  anchor='RFC2732' target='http://www.rfc-editor.org/info/rfc2732'>
 <front>
-<title abbrev='IPv6 Literal Addresses in URL&apos;s'>Format for Literal IPv6 Addresses in URL's</title>
-<author initials='R.M.' surname='Hinden' fullname='Robert M. Hinden'>
-<organization>Nokia</organization>
-<address>
-<postal>
-<street>313 Fairchild Drive</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043</code>
-<country>US</country></postal>
-<phone>+1 650 625 2004</phone>
-<email>hinden@iprg.nokia.com</email></address></author>
-<author initials='B.E.' surname='Carpenter' fullname='Brian E. Carpenter'>
-<organization>IBM, iCAIR</organization>
-<address>
-<postal>
-<street>1890 Maple Avenue</street>
-<street>Suite 150</street>
-<city>Evanston</city>
-<region>IL</region>
-<code>60201</code>
-<country>US</country></postal>
-<email>brian@icair.org</email></address></author>
-<author initials='L.' surname='Masinter' fullname='Larry Masinter'>
-<organization>AT&amp;T Labs</organization>
-<address>
-<postal>
-<street>75 Willow Road</street>
-<city>Menlo Park</city>
-<region>CA</region>
-<code>94025</code>
-<country>US</country></postal>
-<email>LMM@acm.org</email></address></author>
+<title>Format for Literal IPv6 Addresses in URL's</title>
+<author initials='R.' surname='Hinden' fullname='R. Hinden'><organization /></author>
+<author initials='B.' surname='Carpenter' fullname='B. Carpenter'><organization /></author>
+<author initials='L.' surname='Masinter' fullname='L. Masinter'><organization /></author>
 <date year='1999' month='December' />
-<abstract>
-<t>This document defines the format for literal IPv6 Addresses in URL's for implementation in World Wide Web browsers.  This format has been implemented in the IPv6 versions of several widely deployed browsers including Microsoft Internet Explorer, Mozilla, and Lynx.  It is also intended to be used in the IPv6 version of the service location protocol.</t>
-<t>This document incudes an update to the generic syntax for Uniform Resource Identifiers defined in RFC 2396It defines a syntax for IPv6 addresses and allows the use of "[" and "]" within a URI explicitly for this reserved purpose.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2732' />
-<format type='TXT' octets='7984' target='http://www.rfc-editor.org/rfc/rfc2732.txt' />
+<abstract><t>This document defines the format for literal IPv6 Addresses in URL's for implementation in World Wide Web browsers.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2732'/>
+<seriesInfo name='DOI' value='10.17487/RFC2732'/>
 </reference>

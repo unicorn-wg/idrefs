@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0412'>
-
+<reference  anchor='RFC0412' target='http://www.rfc-editor.org/info/rfc412'>
 <front>
 <title>User FTP Documentation</title>
-<author initials='G.' surname='Hicks' fullname='G. Hicks'>
-<organization /></author>
-<date year='1972' day='27' month='November' />
-<abstract>
-<t>The attached document is the HELP file for the Utah-10 implementation of the User FTP Process. This is what the user has typed on his console when he types 'HELP cr' and as such is the only documention produced to date.</t></abstract></front>
-
-<seriesInfo name='RFC' value='412' />
-<format type='TXT' octets='17510' target='http://www.rfc-editor.org/rfc/rfc412.txt' />
+<author initials='G.' surname='Hicks' fullname='G. Hicks'><organization /></author>
+<date year='1972' month='November' />
+</front>
+<seriesInfo name='RFC' value='412'/>
+<seriesInfo name='DOI' value='10.17487/RFC0412'/>
 </reference>

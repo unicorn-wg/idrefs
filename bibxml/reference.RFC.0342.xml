@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0342'>
-
+<reference  anchor='RFC0342' target='http://www.rfc-editor.org/info/rfc342'>
 <front>
 <title>Network Host Status</title>
-<author initials='E.' surname='Westheimer' fullname='Ellen Westheimer'>
-<organization>Bolt Beranek and Newman (BBN)</organization></author>
-<date year='1972' day='15' month='May' />
-<abstract>
-<t>This RFC reports on the status of most Network Hosts from April 24 to May 5.</t></abstract></front>
-
-<seriesInfo name='RFC' value='342' />
-<format type='TXT' octets='8382' target='http://www.rfc-editor.org/rfc/rfc342.txt' />
+<author initials='E.' surname='Westheimer' fullname='E. Westheimer'><organization /></author>
+<date year='1972' month='May' />
+</front>
+<seriesInfo name='RFC' value='342'/>
+<seriesInfo name='DOI' value='10.17487/RFC0342'/>
 </reference>

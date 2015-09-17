@@ -1,42 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2094'>
-
+<reference  anchor='RFC2094' target='http://www.rfc-editor.org/info/rfc2094'>
 <front>
-<title abbrev='GKMP Architecture'>Group Key Management Protocol (GKMP) Architecture</title>
-<author initials='H.' surname='Harney' fullname='Hugh Harney'>
-<organization>SPARTA, Inc., Secure Systems Engineering Division</organization>
-<address>
-<postal>
-<street>9861 Broken Land Parkway</street>
-<street>Suite 300</street>
-<city>Columbia</city>
-<region>MD</region>
-<code>21046-1170</code>
-<country>US</country></postal>
-<phone>+1 410 381 9400 x203</phone>
-<email>hh@columbia.sparta.com</email></address></author>
-<author initials='C.' surname='Muckenhirn' fullname='Carl Muckenhirn'>
-<organization>SPARTA, Inc., Secure Systems Engineering Division</organization>
-<address>
-<postal>
-<street>9861 Broken Land Parkway</street>
-<street>Suite 300</street>
-<city>Columbia</city>
-<region>MD</region>
-<code>21046-1170</code>
-<country>US</country></postal>
-<phone>+1 410 381 9400 x208</phone>
-<email>cfm@columbia.sparta.com</email></address></author>
+<title>Group Key Management Protocol (GKMP) Architecture</title>
+<author initials='H.' surname='Harney' fullname='H. Harney'><organization /></author>
+<author initials='C.' surname='Muckenhirn' fullname='C. Muckenhirn'><organization /></author>
 <date year='1997' month='July' />
-<abstract>
-<t>This specification proposes a protocol to create grouped symmetric keys and distribute them amongst communicating peers. This protocol has the following advantages: 
-1) virtually invisible to operator, 
-2) no central key distribution site is needed, 
-3) only group members have the key, 
-4) sender or receiver oriented operation, 
-5) can make use of multicast communications protocols.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2094' />
-<format type='TXT' octets='53097' target='http://www.rfc-editor.org/rfc/rfc2094.txt' />
+<abstract><t>This specification proposes a protocol to create grouped symmetric keys and distribute them amongst communicating peers.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2094'/>
+<seriesInfo name='DOI' value='10.17487/RFC2094'/>
 </reference>

@@ -1,25 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0580'>
-
+<reference  anchor='RFC0580' target='http://www.rfc-editor.org/info/rfc580'>
 <front>
 <title>Note to Protocol Designers and Implementers</title>
-<author initials='J.' surname='Postel' fullname='Jon Postel'>
-<organization>The MITRE Corporation</organization>
-<address>
-<postal>
-<street>Westgate Research Park</street>
-<street>Mail Stop W185</street>
-<city>McLean</city>
-<region>VA</region>
-<code>22101</code>
-<country>US</country></postal>
-<phone>+1 703 893 3500 x2350</phone>
-<email>POSTEL@ISI</email></address></author>
-<date year='1973' day='25' month='October' />
-<abstract>
-<t>Hereafter proposed protocols shall be submitted in the form of on-line documents, preferably as nls files at the Network Information Center. This will greatly facilitate the review process and enable editorial and substantive changes to proceed quickly. This also will permit timely updating of protocol documents as may be neccessitated by future decisions. On-line documents are also easily distributed to the network community. If you find great difficulty in complying with this request please contact me.</t></abstract></front>
-
-<seriesInfo name='RFC' value='580' />
-<format type='TXT' octets='1451' target='http://www.rfc-editor.org/rfc/rfc580.txt' />
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<date year='1973' month='October' />
+</front>
+<seriesInfo name='RFC' value='580'/>
+<seriesInfo name='DOI' value='10.17487/RFC0580'/>
 </reference>

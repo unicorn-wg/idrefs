@@ -1,74 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2328'>
-
+<reference  anchor='RFC2328' target='http://www.rfc-editor.org/info/rfc2328'>
 <front>
 <title>OSPF Version 2</title>
-<author initials='J.' surname='Moy' fullname='John Moy'>
-<organization>Ascend Communications, Inc.</organization>
-<address>
-<postal>
-<street>1 Robbins Road</street>
-<city>Westford</city>
-<region>MA</region>
-<code>01886</code></postal>
-<phone>978-952-1367</phone>
-<facsimile>978-392-2075</facsimile>
-<email>jmoy@casc.com</email></address></author>
+<author initials='J.' surname='Moy' fullname='J. Moy'><organization /></author>
 <date year='1998' month='April' />
-<area>Routing</area>
-<keyword>open shortest-path first protocol</keyword>
-<keyword>routing</keyword>
-<keyword>OSPF</keyword>
-<abstract>
-<t>
-
-    This memo documents	version	2 of the OSPF protocol.	 OSPF is a
-
-    link-state routing protocol.  It is	designed to be run internal to a
-
-    single Autonomous System.  Each OSPF router	maintains an identical
-
-    database describing	the Autonomous System's	topology.  From	this
-
-    database, a	routing	table is calculated by constructing a shortest-
-
-    path tree.
-</t>
-<t>
-
-
-    OSPF recalculates routes quickly in	the face of topological	changes,
-
-    utilizing a	minimum	of routing protocol traffic.  OSPF provides
-
-    support for	equal-cost multipath.  An area routing capability is
-
-    provided, enabling an additional level of routing protection and a
-
-    reduction in routing protocol traffic.  In addition, all OSPF
-
-    routing protocol exchanges are authenticated.
-
-</t>
-<t>
-
-    The	differences between this memo and RFC 2178 are explained in
-
-    Appendix G.	All differences	are backward-compatible	in nature.
-
-    Implementations of this memo and of	RFCs 2178, 1583, and 1247 will
-
-    interoperate.
-
-</t>
-<t>
-
-    Please send	comments to ospf@gated.cornell.edu.
-</t></abstract></front>
-
-<seriesInfo name='STD' value='54' />
-<seriesInfo name='RFC' value='2328' />
-<format type='TXT' octets='447367' target='http://www.rfc-editor.org/rfc/rfc2328.txt' />
-<format type='XML' octets='446761' target='http://xml.resource.org/public/rfc/xml/rfc2328.xml' />
+<abstract><t>This memo documents version 2 of the OSPF protocol.  OSPF is a link- state routing protocol.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='STD' value='54'/>
+<seriesInfo name='RFC' value='2328'/>
+<seriesInfo name='DOI' value='10.17487/RFC2328'/>
 </reference>

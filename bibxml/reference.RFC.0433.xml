@@ -1,33 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0433'>
-
+<reference  anchor='RFC0433' target='http://www.rfc-editor.org/info/rfc433'>
 <front>
 <title>Socket number list</title>
-<author initials='J.' surname='Postel' fullname='Jon Postel'>
-<organization>University of California, Los Angeles (UCLA), Computer Science Department, NMC</organization>
-<address>
-<postal>
-<street>3804 Boelter Hall</street>
-<city>Los Angeles</city>
-<region>CA</region>
-<code>90024</code>
-<country>US</country></postal>
-<phone>+1 213 825 2368</phone></address></author>
-<author initials='N.' surname='Neigus' fullname='Nancy Neigus'>
-<organization>Bolt Baranek and Newman (BBN)</organization>
-<address>
-<postal>
-<street>50 Moulton Street</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02139</code>
-<country>US</country></postal>
-<phone>+1 617 661 0100</phone></address></author>
-<date year='1972' day='22' month='December' />
-<abstract>
-<t>The czar of socket numbers [Jon Postel] has established the following assignments for socket numbers used for public functions. Note that a socket number is a 40 bit quantity, the first 8 bits being the host specification, the next 24 bits being site specific, and the last 8 bits being user specified - these last 8 bits are called the AEN [it stands for, cleverly enough, Another Eightbit Number].</t></abstract></front>
-
-<seriesInfo name='RFC' value='433' />
-<format type='TXT' octets='6834' target='http://www.rfc-editor.org/rfc/rfc433.txt' />
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<date year='1972' month='December' />
+</front>
+<seriesInfo name='RFC' value='433'/>
+<seriesInfo name='DOI' value='10.17487/RFC0433'/>
 </reference>

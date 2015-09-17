@@ -1,26 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1508'>
-
+<reference  anchor='RFC1508' target='http://www.rfc-editor.org/info/rfc1508'>
 <front>
-<title abbrev='Generic Security Interface'>Generic Security Service Application Program Interface</title>
-<author initials='J.' surname='Linn' fullname='John Linn'>
-<organization>Geer Zolot Associates</organization>
-<address>
-<postal>
-<street>One Main St.</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02142</code>
-<country>US</country></postal>
-<phone>+1 617 374 3700</phone>
-<email>Linn@gza.com</email></address></author>
+<title>Generic Security Service Application Program Interface</title>
+<author initials='J.' surname='Linn' fullname='J. Linn'><organization /></author>
 <date year='1993' month='September' />
-<abstract>
-<t>This Generic Security Service Application Program Interface (GSS-API) definition provides security services to callers in a generic fashion, supportable with a range of underlying mechanisms and technologies and hence allowing source-level portability of applications to different environments. This specification defines GSS-API services and primitives at a level independent of underlying mechanism and programming language environment, and is to be complemented by other, related specifications:</t>
-<t>documents defining specific parameter bindings for particular language environments</t>
-<t>documents defining token formats, protocols, and procedures to be implemented in order to realize GSS-API services atop particular security mechanisms</t></abstract></front>
-
-<seriesInfo name='RFC' value='1508' />
-<format type='TXT' octets='111228' target='http://www.rfc-editor.org/rfc/rfc1508.txt' />
+<abstract><t>This Generic Security Service Application Program Interface (GSS-API) definition provides security services to callers in a generic fashion, supportable with a range of underlying mechanisms and technologies and hence allowing source-level portability of applications to different environments. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1508'/>
+<seriesInfo name='DOI' value='10.17487/RFC1508'/>
 </reference>

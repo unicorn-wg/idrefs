@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1180'>
-
+<reference  anchor='RFC1180' target='http://www.rfc-editor.org/info/rfc1180'>
 <front>
 <title>TCP/IP tutorial</title>
-<author initials='T.' surname='Socolofsky' fullname='Theodore John Socolofsky'>
-<organization>Spider Systems Limited</organization>
-<address>
-<postal>
-<street>Stanwell Street</street>
-<street>Spider Park</street>
-<city>Edinburgh</city>
-<region>Scotland</region>
-<code>EH6 5NG</code>
-<country>UK</country></postal>
-<phone>+44 31 5549424</phone>
-<facsimile>+44 31 5540649</facsimile>
-<email>TEDS@SPIDER.CO.UK</email></address></author>
-<author initials='C.' surname='Kale' fullname='Claudia Jeanne Kale'>
-<organization />
-<address>
-<postal>
-<street>12 Gosford Place</street>
-<city>Edinburgh</city>
-<region>England</region>
-<code>EH6 4BJ</code>
-<country>UK</country></postal>
-<phone>+44 31 5547432</phone>
-<email>CLAUDIAK@SPIDER.CO.UK</email></address></author>
-<date year='1991' day='1' month='January' /></front>
-
-<seriesInfo name='RFC' value='1180' />
-<format type='TXT' octets='65494' target='http://www.rfc-editor.org/rfc/rfc1180.txt' />
+<author initials='T.J.' surname='Socolofsky' fullname='T.J. Socolofsky'><organization /></author>
+<author initials='C.J.' surname='Kale' fullname='C.J. Kale'><organization /></author>
+<date year='1991' month='January' />
+<abstract><t>This RFC is a tutorial on the TCP-IP protocol suite, focusing particularly on the steps in forwarding an IP datagram from source host to destination host through a router.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1180'/>
+<seriesInfo name='DOI' value='10.17487/RFC1180'/>
 </reference>

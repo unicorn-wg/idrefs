@@ -1,27 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0826'>
-
+<reference  anchor='RFC0826' target='http://www.rfc-editor.org/info/rfc826'>
 <front>
-<title>Ethernet Address Resolution Protocol: Or converting network protocol addresses to 48.bit Ethernet address for transmission on Ethernet hardware</title>
-<author initials='D.' surname='Plummer' fullname='David C. Plummer'>
-<organization>Symbolics, Inc.</organization>
-<address>
-<postal>
-<street>243 Vassar Street</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02139</code>
-<country>US</country></postal>
-<email>DCP@MIT-MC</email></address></author>
-<date year='1982' day='1' month='November' />
-<abstract>
-<t>The implementation of protocol P on a sending host S decides, through protocol P's routing mechanism, that it wants to transmit to a target host T located some place on a connected piece of 10Mbit Ethernet cable.  To actually transmit the Ethernet packet a 48.bit Ethernet address must be generated.  The addresses of hosts within protocol P are not always compatible with the corresponding Ethernet address (being different lengths or values).  Presented here is a protocol that allows dynamic distribution of the information needed to build tables to translate an address A in protocol P's address space into a 48.bit Ethernet address.</t>
-<t>Generalizations have been made which allow the protocol to be used for non-10Mbit Ethernet hardware.  Some packet radio networks are examples of such hardware.</t>
-<t>The protocol proposed here is the result of a great deal of discussion with several other people, most notably J. Noel Chiappa, Yogen Dalal, and James E. Kulp, and helpful comments from David Moon.</t>
-<t>The purpose of this RFC is to present a method of Converting Protocol Addresses (e.g., IP addresses) to Local Network Addresses (e.g., Ethernet addresses).  This is a issue of general concern in the ARPA Internet community at this time.  The method proposed here is presented for your consideration and comment.  This is not the specification of a Internet Standard.</t></abstract></front>
-
-<seriesInfo name='STD' value='37' />
-<seriesInfo name='RFC' value='826' />
-<format type='TXT' octets='22026' target='http://www.rfc-editor.org/rfc/rfc826.txt' />
+<title>Ethernet Address Resolution Protocol: Or Converting Network Protocol Addresses to 48.bit Ethernet Address for Transmission on Ethernet Hardware</title>
+<author initials='D.' surname='Plummer' fullname='D. Plummer'><organization /></author>
+<date year='1982' month='November' />
+<abstract><t>The purpose of this RFC is to present a method of Converting Protocol Addresses (e.g., IP addresses) to Local Network Addresses (e.g., Ethernet addresses).  This is an issue of general concern in the ARPA Internet Community at this time.  The method proposed here is presented for your consideration and comment.  This is not the specification of an Internet Standard.</t></abstract>
+</front>
+<seriesInfo name='STD' value='37'/>
+<seriesInfo name='RFC' value='826'/>
+<seriesInfo name='DOI' value='10.17487/RFC0826'/>
 </reference>

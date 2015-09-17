@@ -1,49 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2625'>
-
+<reference  anchor='RFC2625' target='http://www.rfc-editor.org/info/rfc2625'>
 <front>
 <title>IP and ARP over Fibre Channel</title>
-<author initials='M.' surname='Rajagopal' fullname='M. Rajagopal'>
-<organization>Gadzoox Networks, Inc.</organization>
-<address>
-<postal>
-<street>711 Kimberly Avenue</street>
-<street>Suite 100</street>
-<city>Placentia</city>
-<region>CA</region>
-<code>92870</code>
-<country>US</country></postal>
-<phone>+1 714 577 6805</phone>
-<email>murali@gadzoox.com</email></address></author>
-<author initials='R.' surname='Bhagwat' fullname='R. Bhagwat'>
-<organization>Gadzoox Networks, Inc.</organization>
-<address>
-<postal>
-<street>711 Kimberly Avenue</street>
-<street>Suite 100</street>
-<city>Placentia</city>
-<region>CA</region>
-<code>92870</code>
-<country>US</country></postal>
-<phone>+1 714 577 6806</phone>
-<email>raj@gadzoox.com</email></address></author>
-<author initials='W.' surname='Rickard' fullname='W. Rickard'>
-<organization>Gadzoox Networks, Inc.</organization>
-<address>
-<postal>
-<street>711 Kimberly Avenue</street>
-<street>Suite 100</street>
-<city>Placentia</city>
-<region>CA</region>
-<code>92870</code>
-<country>US</country></postal>
-<phone>+1 714 577 6803</phone>
-<email>wayne@gadzoox.com</email></address></author>
+<author initials='M.' surname='Rajagopal' fullname='M. Rajagopal'><organization /></author>
+<author initials='R.' surname='Bhagwat' fullname='R. Bhagwat'><organization /></author>
+<author initials='W.' surname='Rickard' fullname='W. Rickard'><organization /></author>
 <date year='1999' month='June' />
-<abstract>
-<t>Fibre Channel (FC) is a high speed serial interface technology that  supports several higher layer protocols including Small Computer System Interface (SCSI) and Internet Protocol(IP). Until now, SCSI has been the only widely used protocol over FC.Existing FC standardsdo not adequately specify how IP packets may be transported over  FC and how IP addresses are resolved to FC addresses. The purpose of this document is to specify a way of encapsulating IP and Address Resolution Protocol(ARP) over Fibre Channel and also to describe a mechanism(s) for IP address resolution.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2625' />
-<format type='TXT' octets='137741' target='http://www.rfc-editor.org/rfc/rfc2625.txt' />
+<abstract><t>The purpose of this document is to specify a way of encapsulating IP and Address Resolution Protocol(ARP) over Fibre Channel and also to describe a mechanism(s) for IP address resolution.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2625'/>
+<seriesInfo name='DOI' value='10.17487/RFC2625'/>
 </reference>

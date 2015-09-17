@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0736'>
-
+<reference  anchor='RFC0736' target='http://www.rfc-editor.org/info/rfc736'>
 <front>
 <title>Telnet SUPDUP option</title>
-<author initials='M.' surname='Crispin' fullname='Mark Crispin'>
-<organization>Stanford University, Artifical Intelligence</organization></author>
-<date year='1977' day='31' month='October' /></front>
-
-<seriesInfo name='RFC' value='736' />
-<format type='TXT' octets='3081' target='http://www.rfc-editor.org/rfc/rfc736.txt' />
+<author initials='M.R.' surname='Crispin' fullname='M.R. Crispin'><organization /></author>
+<date year='1977' month='October' />
+</front>
+<seriesInfo name='RFC' value='736'/>
+<seriesInfo name='DOI' value='10.17487/RFC0736'/>
 </reference>

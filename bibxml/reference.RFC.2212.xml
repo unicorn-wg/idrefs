@@ -1,51 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2212'>
-
+<reference  anchor='RFC2212' target='http://www.rfc-editor.org/info/rfc2212'>
 <front>
-<title abbrev='Guaranteed Quality of Service'>Specification of Guaranteed Quality of Service</title>
-<author initials='S.' surname='Shenker' fullname='Scott Shenker'>
-<organization>Xerox PARC</organization>
-<address>
-<postal>
-<street>3333 Coyote Hill Road</street>
-<street>Palo Alto</street>
-<street>CA  94304-1314</street></postal>
-<phone>415-812-4840</phone>
-<facsimile>415-812-4471</facsimile>
-<email>shenker@parc.xerox.com</email></address></author>
-<author initials='C.' surname='Partridge' fullname='Craig Partridge'>
-<organization>BBN</organization>
-<address>
-<postal>
-<street>2370 Amherst</street>
-<street>Palo Alto CA 94306</street>
-<country>St</country></postal>
-<email>craig@bbn.com</email></address></author>
-<author initials='R.' surname='Guerin' fullname='Roch Guerin'>
-<organization>IBM T.J. Watson Research Center</organization>
-<address>
-<postal>
-<street>Yorktown Heights</street>
-<street>NY 10598</street></postal>
-<phone>914-784-7038</phone>
-<facsimile>914-784-6318</facsimile>
-<email>guerin@watson.ibm.com</email></address></author>
+<title>Specification of Guaranteed Quality of Service</title>
+<author initials='S.' surname='Shenker' fullname='S. Shenker'><organization /></author>
+<author initials='C.' surname='Partridge' fullname='C. Partridge'><organization /></author>
+<author initials='R.' surname='Guerin' fullname='R. Guerin'><organization /></author>
 <date year='1997' month='September' />
-<area>Transport</area>
-<keyword>quality of service</keyword>
-<abstract>
-<t>
-   This memo describes the network element behavior required to deliver
-   a guaranteed service (guaranteed delay and bandwidth) in the
-   Internet.  Guaranteed service provides firm (mathematically provable)
-   bounds on end-to-end datagram queueing delays.  This service makes it
-   possible to provide a service that guarantees both delay and
-   bandwidth.  This specification follows the service specification
-   template described in .
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2212' />
-<format type='TXT' octets='52330' target='http://www.rfc-editor.org/rfc/rfc2212.txt' />
-<format type='XML' octets='50293' target='http://xml.resource.org/public/rfc/xml/rfc2212.xml' />
+<abstract><t>This memo describes the network element behavior required to deliver a guaranteed service (guaranteed delay and bandwidth) in the Internet. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2212'/>
+<seriesInfo name='DOI' value='10.17487/RFC2212'/>
 </reference>

@@ -1,34 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2257'>
-
+<reference  anchor='RFC2257' target='http://www.rfc-editor.org/info/rfc2257'>
 <front>
-<title abbrev='AgentX'>Agent Extensibility (AgentX) Protocol Version 1</title>
-<author initials='M.' surname='Daniele' fullname='Mike Daniele'>
-<organization>Digital Equipment Corporation</organization>
-<address>
-<postal>
-<street>110 Spit Brook Rd</street>
-<street>Nashua</street>
-<street>NH 03062</street></postal>
-<phone>+1-603-881-1423</phone>
-<email>daniele@zk3.dec.com</email></address></author>
-<author initials='B.' surname='Wijnen' fullname='Bert Wijnen'>
-<organization>IBM Professional Services</organization>
-<address>
-<postal>
-<street>Watsonweg 2</street>
-<street>1423 ND Uithoorn</street>
-<street>The</street>
-<country>Netherlands</country></postal>
-<phone>+31-79-322-8316</phone>
-<email>wijnen@vnet.ibm.com</email></address></author>
+<title>Agent Extensibility (AgentX) Protocol Version 1</title>
+<author initials='M.' surname='Daniele' fullname='M. Daniele'><organization /></author>
+<author initials='B.' surname='Wijnen' fullname='B. Wijnen'><organization /></author>
+<author initials='D.' surname='Francisco' fullname='D. Francisco'><organization /></author>
 <date year='1998' month='January' />
-<area>Management</area>
-<keyword>agent</keyword>
-<keyword>simple network management protocol</keyword></front>
-
-<seriesInfo name='RFC' value='2257' />
-<format type='TXT' octets='177452' target='http://www.rfc-editor.org/rfc/rfc2257.txt' />
-<format type='XML' octets='175351' target='http://xml.resource.org/public/rfc/xml/rfc2257.xml' />
+<abstract><t>This memo defines a standardized framework for extensible SNMP agents. It defines processing entities called master agents and subagents, a protocol (AgentX) used to communicate between them, and the elements of procedure by which the extensible agent processes SNMP protocol messages.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2257'/>
+<seriesInfo name='DOI' value='10.17487/RFC2257'/>
 </reference>

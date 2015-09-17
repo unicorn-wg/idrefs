@@ -1,25 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2277'>
-
+<reference  anchor='RFC2277' target='http://www.rfc-editor.org/info/rfc2277'>
 <front>
-<title abbrev='Charset Policy'>IETF Policy on Character Sets and Languages</title>
-<author initials='H.T.' surname='Alvestrand' fullname='Harald Tveit Alvestrand'>
-<organization>UNINETT</organization>
-<address>
-<postal>
-<street>P.O.Box 6883 Elgeseter</street>
-<street>N-7002 TRONDHEIM</street>
-<country>NORWAY</country></postal>
-<phone>+47 73 59 70 94</phone>
-<email>Harald.T.Alvestrand@uninett.no</email></address></author>
+<title>IETF Policy on Character Sets and Languages</title>
+<author initials='H.' surname='Alvestrand' fullname='H. Alvestrand'><organization /></author>
 <date year='1998' month='January' />
-<area>Applications</area>
-<keyword>Internet Engineering Task Force</keyword>
-<keyword>character encoding</keyword></front>
-
-<seriesInfo name='BCP' value='18' />
-<seriesInfo name='RFC' value='2277' />
-<format type='TXT' octets='16622' target='http://www.rfc-editor.org/rfc/rfc2277.txt' />
-<format type='XML' octets='15680' target='http://xml.resource.org/public/rfc/xml/rfc2277.xml' />
+<abstract><t>This document is the current policies being applied by the Internet Engineering Steering Group (IESG) towards the standardization efforts in the Internet Engineering Task Force (IETF) in order to help Internet protocols fulfill these requirements.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t></abstract>
+</front>
+<seriesInfo name='BCP' value='18'/>
+<seriesInfo name='RFC' value='2277'/>
+<seriesInfo name='DOI' value='10.17487/RFC2277'/>
 </reference>

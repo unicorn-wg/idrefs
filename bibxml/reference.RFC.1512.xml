@@ -1,44 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1512'>
-
+<reference  anchor='RFC1512' target='http://www.rfc-editor.org/info/rfc1512'>
 <front>
-<title abbrev='FDDI MIB'>FDDI Management Information Base</title>
-<author initials='J.' surname='Case' fullname='Jeffrey D. Case'>
-<organization>University of Tennessee, Department of Computer Science</organization>
-<address>
-<postal>
-<street>107 Ayres Hall</street>
-<city>Knoxville</city>
-<region>TN</region>
-<code>37996</code>
-<country>US</country></postal></address></author>
-<author initials='J.' surname='Case' fullname='Jeffrey D. Case'>
-<organization>SNMP Research, Incorporated</organization>
-<address>
-<postal>
-<street>3001 Kimberlin Heights Road</street>
-<city>Knoxville</city>
-<region>TN</region>
-<code>37920</code>
-<country>US</country></postal>
-<phone>+1 615 974 5067</phone>
-<email>case@CS.UTK.EDU</email></address></author>
-<author initials='A.' surname='Rijsinghani' fullname='Anil Rijsinghani'>
-<organization>Digital Equipment Corporation</organization>
-<address>
-<postal>
-<street>295 Foster Street</street>
-<city>Littleton</city>
-<region>MA</region>
-<code>01460-1123</code>
-<country>US</country></postal>
-<phone>+1 508 952 3520</phone>
-<email>anil@levers.enet.dec.com</email></address></author>
+<title>FDDI Management Information Base</title>
+<author initials='J.' surname='Case' fullname='J. Case'><organization /></author>
+<author initials='A.' surname='Rijsinghani' fullname='A. Rijsinghani'><organization /></author>
 <date year='1993' month='September' />
-<abstract>
-<t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets. In particular, it defines objects for managing devices which implement the FDDI based on the ANSI FDDI SMT 7.3 draft standard, which has been forwarded for publication by the X3T9.5 committee.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1512' />
-<format type='TXT' octets='108589' target='http://www.rfc-editor.org/rfc/rfc1512.txt' />
+<abstract><t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines objects for managing devices which implement the FDDI based on the ANSI FDDI SMT 7.3 draft standard, which has been forwarded for publication by the X3T9.5 committee.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1512'/>
+<seriesInfo name='DOI' value='10.17487/RFC1512'/>
 </reference>

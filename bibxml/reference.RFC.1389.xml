@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1389'>
-
+<reference  anchor='RFC1389' target='http://www.rfc-editor.org/info/rfc1389'>
 <front>
-<title abbrev='RIP-2 MIB Extension'>RIP Version 2 MIB Extensions</title>
-<author initials='G.' surname='Malkin' fullname='Gary Malkin'>
-<organization>Xylogics, Inc.</organization>
-<address>
-<postal>
-<street>53 Third Avenue</street>
-<city>Burlington</city>
-<region>MA</region>
-<code>01803</code>
-<country>US</country></postal>
-<phone>+1 617 272 8140</phone>
-<email>gmalkin@Xylogics.COM</email></address></author>
-<author initials='F.' surname='Baker' fullname='Fred Baker'>
-<organization>Advanced Computer Communications</organization>
-<address>
-<postal>
-<street>315 Bollay Drive</street>
-<city>Santa Barbara</city>
-<region>CA</region>
-<code>93117-6014</code>
-<country>US</country></postal>
-<phone>+1 805 685 4455</phone>
-<email>fbaker@acc.com</email></address></author>
+<title>RIP Version 2 MIB Extensions</title>
+<author initials='G.' surname='Malkin' fullname='G. Malkin'><organization /></author>
+<author initials='F.' surname='Baker' fullname='F. Baker'><organization /></author>
 <date year='1993' month='January' />
-<abstract>
-<t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets. In particular, it defines objects for managing RIP Version 2.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1389' />
-<format type='TXT' octets='23569' target='http://www.rfc-editor.org/rfc/rfc1389.txt' />
+<abstract><t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1389'/>
+<seriesInfo name='DOI' value='10.17487/RFC1389'/>
 </reference>

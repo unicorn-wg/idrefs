@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2751'>
-
+<reference  anchor='RFC2751' target='http://www.rfc-editor.org/info/rfc2751'>
 <front>
 <title>Signaled Preemption Priority Policy Element</title>
-<author initials='S.' surname='Herzog' fullname='Shai Herzog'>
-<organization>IPHighway, Inc.</organization>
-<address>
-<postal>
-<street>55 New York Avenue</street>
-<city>Framingham</city>
-<region>MA</region>
-<code>01701</code>
-<country>US</country></postal>
-<phone>+1 508 620 1141</phone>
-<email>herzog@iphighway.com</email></address></author>
+<author initials='S.' surname='Herzog' fullname='S. Herzog'><organization /></author>
 <date year='2000' month='January' />
-<abstract>
-<t>This document describes a preemption priority policy element for use by signaled policy based admission protocols (such asand.</t>
-<t>Preemption priority defines a relative importance (rank) within the set of flows competing to be admitted into the network. Rather than admitting flows by order of arrival (First Come First Admitted) network nodes may consider priorities to preempt some previously admitted low priority flows in order to make room for a newer, high- priority flow.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2751' />
-<format type='TXT' octets='21451' target='http://www.rfc-editor.org/rfc/rfc2751.txt' />
+<abstract><t>This document describes a preemption priority policy element for use by signaled policy based admission protocols (such as RSVP and COPS). [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2751'/>
+<seriesInfo name='DOI' value='10.17487/RFC2751'/>
 </reference>

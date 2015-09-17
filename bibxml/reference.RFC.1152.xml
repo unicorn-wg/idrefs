@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1152'>
-
+<reference  anchor='RFC1152' target='http://www.rfc-editor.org/info/rfc1152'>
 <front>
-<title abbrev='IRSG Workshop Report'>Workshop report: Internet research steering group workshop on very-high-speed networks</title>
-<author initials='C.' surname='Partridge' fullname='Craig Partridge'>
-<organization>Bolt Beranek and Newman Systems and Technologies</organization>
-<address>
-<postal>
-<street>50 Moulton Street</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02138</code>
-<country>US</country></postal>
-<phone>+1 617 873 2459</phone>
-<email>craig@BBN.COM</email></address></author>
-<date year='1990' day='1' month='April' /></front>
-
-<seriesInfo name='RFC' value='1152' />
-<format type='TXT' octets='64003' target='http://www.rfc-editor.org/rfc/rfc1152.txt' />
+<title>Workshop report: Internet research steering group workshop on very-high-speed networks</title>
+<author initials='C.' surname='Partridge' fullname='C. Partridge'><organization /></author>
+<date year='1990' month='April' />
+<abstract><t>This memo is a report on a workshop sponsored by the Internet Research Steering Group.  This memo is for information only.  This RFC does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1152'/>
+<seriesInfo name='DOI' value='10.17487/RFC1152'/>
 </reference>

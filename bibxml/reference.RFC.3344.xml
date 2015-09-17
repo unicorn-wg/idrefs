@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC3344'>
-
+<reference  anchor='RFC3344' target='http://www.rfc-editor.org/info/rfc3344'>
 <front>
 <title>IP Mobility Support for IPv4</title>
-<author initials='C.' surname='Perkins' fullname='C. Perkins'>
-<organization /></author>
-<date year='2002' month='August' /></front>
-
-<seriesInfo name='RFC' value='3344' />
-<format type='TXT' octets='241041' target='http://www.rfc-editor.org/rfc/rfc3344.txt' />
+<author initials='C.' surname='Perkins' fullname='C. Perkins' role='editor'><organization /></author>
+<date year='2002' month='August' />
+</front>
+<seriesInfo name='RFC' value='3344'/>
+<seriesInfo name='DOI' value='10.17487/RFC3344'/>
 </reference>

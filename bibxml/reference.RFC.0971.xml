@@ -1,21 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0971'>
-
+<reference  anchor='RFC0971' target='http://www.rfc-editor.org/info/rfc971'>
 <front>
 <title>Survey of data representation standards</title>
-<author initials='A.' surname='DeSchon' fullname='Annette L. DeSchon'>
-<organization>University of Southern California (USC)/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90291</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone></address></author>
-<date year='1986' day='1' month='January' /></front>
-
-<seriesInfo name='RFC' value='971' />
-<format type='TXT' octets='22883' target='http://www.rfc-editor.org/rfc/rfc971.txt' />
+<author initials='A.L.' surname='DeSchon' fullname='A.L. DeSchon'><organization /></author>
+<date year='1986' month='January' />
+<abstract><t>This RFC is a comparison of several data representation standards that    are currently in use.  The standards discussed are the CCITT X.409    recommendation, the NBS Computer Based Message System (CBMS) standard,    DARPA Multimedia Mail system, the Courier remote procedure call    protocol, and the SUN Remote Procedure Call package.  No proposals in    this document are intended as standards for the ARPA-Internet at this    time.  Rather, it is hoped that a general consensus will emerge as to    the appropriate approach to a data representation standard, leading    eventually to the adoption of an ARPA-Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='971'/>
+<seriesInfo name='DOI' value='10.17487/RFC0971'/>
 </reference>

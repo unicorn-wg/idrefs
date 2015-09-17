@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1773'>
-
+<reference  anchor='RFC1773' target='http://www.rfc-editor.org/info/rfc1773'>
 <front>
 <title>Experience with the BGP-4 protocol</title>
-<author initials='P.' surname='Traina' fullname='Paul Traina'>
-<organization>cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 W. Tasman Dr.</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134</code>
-<country>US</country></postal>
-<email>pst@cisco.com</email></address></author>
+<author initials='P.' surname='Traina' fullname='P. Traina'><organization /></author>
 <date year='1995' month='March' />
-<abstract>
-<t></t></abstract></front>
-
-<seriesInfo name='RFC' value='1773' />
-<format type='TXT' octets='19936' target='http://www.rfc-editor.org/rfc/rfc1773.txt' />
+<abstract><t>The purpose of this memo is to document how the requirements for advancing a routing protocol to Draft Standard have been satisfied by Border Gateway Protocol version 4 (BGP-4).  This report documents experience with BGP. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1773'/>
+<seriesInfo name='DOI' value='10.17487/RFC1773'/>
 </reference>

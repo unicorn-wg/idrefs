@@ -1,83 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1580'>
-
+<reference  anchor='RFC1580' target='http://www.rfc-editor.org/info/rfc1580'>
 <front>
 <title>Guide to Network Resource Tools</title>
-<author initials='D.' surname='Bovio' fullname='Daniele Bovio'>
-<organization>EARN Association</organization>
-<address>
-<postal>
-<street>PSI - Batiment 211</street>
-<city>Orsay CEDEX</city>
-<region />
-<code>91405</code>
-<country>FR</country></postal>
-<phone>+33 1 69412426</phone>
-<facsimile>+33 1 69416683</facsimile>
-<email>earndoc@earncc.earn.net</email></address></author>
-<author initials='U.' surname='Giese' fullname='Ulrich Giese'>
-<organization>EARN Association</organization>
-<address>
-<postal>
-<street>PSI - Batiment 211</street>
-<city>Orsay CEDEX</city>
-<region />
-<code>91405</code>
-<country>FR</country></postal>
-<phone>+33 1 69412426</phone>
-<facsimile>+33 1 69416683</facsimile>
-<email>earndoc@earncc.earn.net</email></address></author>
-<author initials='N.' surname='Grange' fullname='Nadine Grange'>
-<organization>EARN Association</organization>
-<address>
-<postal>
-<street>PSI - Batiment 211</street>
-<city>Orsay CEDEX</city>
-<region />
-<code>91405</code>
-<country>FR</country></postal>
-<phone>+33 1 69412426</phone>
-<facsimile>+33 1 69416683</facsimile>
-<email>earndoc@earncc.earn.net</email></address></author>
-<author initials='T.' surname='Kalfaoglu' fullname='Turgut Kalfaoglu'>
-<organization>EARN Association</organization>
-<address>
-<postal>
-<street>PSI - Batiment 211</street>
-<city>Orsay CEDEX</city>
-<region />
-<code>91405</code>
-<country>FR</country></postal>
-<phone>+33 1 69412426</phone>
-<facsimile>+33 1 69416683</facsimile>
-<email>earndoc@earncc.earn.net</email></address></author>
-<author initials='G.' surname='Lloyd' fullname='Greg Lloyd'>
-<organization>EARN Association</organization>
-<address>
-<postal>
-<street>PSI - Batiment 211</street>
-<city>Orsay CEDEX</city>
-<region />
-<code>91405</code>
-<country>FR</country></postal>
-<phone>+33 1 69412426</phone>
-<facsimile>+33 1 69416683</facsimile>
-<email>earndoc@earncc.earn.net</email></address></author>
-<author initials='D.' surname='Sitman' fullname='David Sitman'>
-<organization>EARN Association</organization>
-<address>
-<postal>
-<street>PSI - Batiment 211</street>
-<city>Orsay CEDEX</city>
-<region />
-<code>91405</code>
-<country>FR</country></postal>
-<phone>+33 1 69412426</phone>
-<facsimile>+33 1 69416683</facsimile>
-<email>earndoc@earncc.earn.net</email></address></author>
-<date year='1994' month='March' /></front>
-
-<seriesInfo name='RFC' value='1580' />
-<format type='TXT' octets='235112' target='http://www.rfc-editor.org/rfc/rfc1580.txt' />
+<author initials='EARN' surname='Staff' fullname='EARN Staff'><organization /></author>
+<date year='1994' month='March' />
+<abstract><t>The purpose of this guide is to supply the basic information that anyone on the network needs to try out and begin using tools. This memo provides information for the Internet community. This memo does not specify an Internet standard of any kind. [FYI 23]</t></abstract>
+</front>
+<seriesInfo name='FYI' value='23'/>
+<seriesInfo name='RFC' value='1580'/>
+<seriesInfo name='DOI' value='10.17487/RFC1580'/>
 </reference>

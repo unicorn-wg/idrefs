@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0611'>
-
+<reference  anchor='RFC0611' target='http://www.rfc-editor.org/info/rfc611'>
 <front>
-<title abbrev='Changes to IMP/Host Protocol'>Two changes to the IMP/Host Protocol to improve user/network communications</title>
-<author initials='D.' surname='Walden' fullname='D. Walden'>
-<organization>Bolt Beranek and Newman Inc. (BBN), Network Control Center (NET)</organization></author>
-<date year='1974' day='14' month='February' /></front>
-
-<seriesInfo name='RFC' value='611' />
-<format type='TXT' octets='7481' target='http://www.rfc-editor.org/rfc/rfc611.txt' />
+<title>Two changes to the IMP/Host Protocol to improve user/network communications</title>
+<author initials='D.C.' surname='Walden' fullname='D.C. Walden'><organization /></author>
+<date year='1974' month='February' />
+<abstract><t>Expansion of Host-Going-Down and addition of Dead-Host-Status Message.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='611'/>
+<seriesInfo name='DOI' value='10.17487/RFC0611'/>
 </reference>

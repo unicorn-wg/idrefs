@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1681'>
-
+<reference  anchor='RFC1681' target='http://www.rfc-editor.org/info/rfc1681'>
 <front>
 <title>On Many Addresses per Host</title>
-<author initials='S.' surname='Bellovin' fullname='Steven M. Bellovin'>
-<organization>AT &amp; T Bell Laboratories, Software Engineering Research Department</organization>
-<address>
-<postal>
-<street>600 Mountain Avenue</street>
-<city>Murray Hill</city>
-<region>NJ</region>
-<code>07974</code>
-<country>US</country></postal>
-<phone>+1 908 582 5886</phone>
-<facsimile>+1 908 582 3063</facsimile>
-<email>smb@research.att.com</email></address></author>
+<author initials='S.' surname='Bellovin' fullname='S. Bellovin'><organization /></author>
 <date year='1994' month='August' />
-<abstract>
-<t>This document was submitted to the IETF IPng area in response to RFC 1550.  Publication of this document does not imply acceptance by the IPng area of any ideas expressed within.  Comments should be submitted to the big-internet@munnari.oz.au mailing list.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1681' />
-<format type='TXT' octets='11964' target='http://www.rfc-editor.org/rfc/rfc1681.txt' />
+<abstract><t>This document was submitted to the IETF IPng area in response to RFC 1550.This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1681'/>
+<seriesInfo name='DOI' value='10.17487/RFC1681'/>
 </reference>

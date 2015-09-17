@@ -1,17 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0045'>
-
+<reference  anchor='RFC0045' target='http://www.rfc-editor.org/info/rfc45'>
 <front>
 <title>New Protocol is Coming</title>
-<author initials='J.' surname='Postel' fullname='J. Postel'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<author initials='S.' surname='Crocker' fullname='S. Crocker'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<date year='1970' day='14' month='April' />
-<abstract>
-<t>We are currently preparing a clean version of the Network protocol, hopefully suitable for immediate implementation.  As advertised, we will send these specs out on April 28.</t></abstract></front>
-
-<seriesInfo name='RFC' value='45' />
-<format type='TXT' octets='1130' target='http://www.rfc-editor.org/rfc/rfc45.txt' />
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<author initials='S.D.' surname='Crocker' fullname='S.D. Crocker'><organization /></author>
+<date year='1970' month='April' />
+</front>
+<seriesInfo name='RFC' value='45'/>
+<seriesInfo name='DOI' value='10.17487/RFC0045'/>
 </reference>

@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0814'>
-
+<reference  anchor='RFC0814' target='http://www.rfc-editor.org/info/rfc814'>
 <front>
 <title>Name, addresses, ports, and routes</title>
-<author initials='D.' surname='Clark' fullname='David D. Clark'>
-<organization>Massachusetts Institute of Technology (MIT), Laboratory for Computer Science, Computer Systems and Communications Group</organization></author>
-<date year='1982' day='1' month='July' /></front>
-
-<seriesInfo name='RFC' value='814' />
-<format type='TXT' octets='24663' target='http://www.rfc-editor.org/rfc/rfc814.txt' />
+<author initials='D.D.' surname='Clark' fullname='D.D. Clark'><organization /></author>
+<date year='1982' month='July' />
+<abstract><t>This RFC gives suggestions and guidance for the design of the tables and algorithms necessary to keep track of these various sorts of identifiers inside a host implementation of TCP/IP.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='814'/>
+<seriesInfo name='DOI' value='10.17487/RFC0814'/>
 </reference>

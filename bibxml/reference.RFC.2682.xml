@@ -1,50 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2682'>
-
+<reference  anchor='RFC2682' target='http://www.rfc-editor.org/info/rfc2682'>
 <front>
-<title abbrev='Issues in VC Merge Capable ATM LSRs'>Performance Issues in VC-Merge Capable ATM LSRs</title>
-<author initials='I.' surname='Widjaja' fullname='Indra Widjaja'>
-<organization>Fujitsu Network Communications</organization>
-<address>
-<postal>
-<street>Two Blue Hill Plaza</street>
-<city>Pearl River</city>
-<region>NY</region>
-<code>10965</code>
-<country>US</country></postal>
-<phone>+1 914 731 2244</phone>
-<email>indra.widjaja@fnc.fujitsu.com</email></address></author>
-<author initials='A.' surname='Elwalid' fullname='Anwar Elwalid'>
-<organization>Bell Labs, Lucent Technologies</organization>
-<address>
-<postal>
-<street>600 Mountain Avnue</street>
-<street>Room 2C-324</street>
-<city>Murray Hill</city>
-<region>NJ</region>
-<code>07974</code>
-<country>US</country></postal>
-<phone>+1 908 582 7589</phone>
-<email>anwar@lucent.com</email></address></author>
+<title>Performance Issues in VC-Merge Capable ATM LSRs</title>
+<author initials='I.' surname='Widjaja' fullname='I. Widjaja'><organization /></author>
+<author initials='A.' surname='Elwalid' fullname='A. Elwalid'><organization /></author>
 <date year='1999' month='September' />
-<abstract>
-<t>VC merging allows many routes to be mapped to the same VC label,
-thereby providing a scalable mapping method that can support
-thousands of edge routers.
-VC merging requires reassembly buffers so
-that cells belonging to different packets intended for the same
-destination do not interleave with each other.
-This document
-investigates the impact of VC merging on the additional buffer
-required for the reassembly buffers and other buffers.
-The main
-result indicates that VC merging incurs a minimal overhead compared
-to non-VC merging in terms of additional buffering.
-Moreover, the
-overhead decreases as utilization increases, or as the traffic
-becomes more bursty.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2682' />
-<format type='TXT' octets='29491' target='http://www.rfc-editor.org/rfc/rfc2682.txt' />
+<abstract><t>This document investigates the impact of VC merging on the additional buffer required for the reassembly buffers and other buffers.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2682'/>
+<seriesInfo name='DOI' value='10.17487/RFC2682'/>
 </reference>

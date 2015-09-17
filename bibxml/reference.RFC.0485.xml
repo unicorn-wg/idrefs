@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0485'>
-
+<reference  anchor='RFC0485' target='http://www.rfc-editor.org/info/rfc485'>
 <front>
 <title>MIX and MIXAL at UCSB</title>
-<author initials='J.' surname='Pickens' fullname='John R. Pickens'>
-<organization>University of California, Santa Barbara (UCSB)</organization></author>
-<author initials='R.' surname='Bryan' fullname='Roland F. Bryan'>
-<organization>University of California, Santa Barbara (UCSB)</organization></author>
-<date year='1973' day='19' month='March' /></front>
-
-<seriesInfo name='RFC' value='485' />
-<format type='TXT' octets='2226' target='http://www.rfc-editor.org/rfc/rfc485.txt' />
+<author initials='J.R.' surname='Pickens' fullname='J.R. Pickens'><organization /></author>
+<date year='1973' month='March' />
+</front>
+<seriesInfo name='RFC' value='485'/>
+<seriesInfo name='DOI' value='10.17487/RFC0485'/>
 </reference>

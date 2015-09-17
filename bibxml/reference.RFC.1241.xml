@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1241'>
-
+<reference  anchor='RFC1241' target='http://www.rfc-editor.org/info/rfc1241'>
 <front>
-<title abbrev='Internet Encapsulation'>Scheme for an internet encapsulation protocol: Version 1</title>
-<author initials='R.' surname='Woodburn' fullname='Robert A. Woodburn'>
-<organization>Science Applications International Corporation (SAIC)</organization>
-<address>
-<postal>
-<street>8619 Westwood Center Drive</street>
-<city>Vienna</city>
-<region>VA</region>
-<code>22182</code>
-<country>US</country></postal>
-<phone>+1 703 734 9000</phone>
-<email>woody@cseic.saic.com</email></address></author>
-<author initials='D.' surname='Mills' fullname='David L. Mills'>
-<organization>University of Delaware, Electrical Engineering Department</organization>
-<address>
-<postal>
-<street />
-<city>Newark</city>
-<region>DE</region>
-<code>19716</code>
-<country>US</country></postal>
-<phone>+1 302 451 8247</phone>
-<email>mills@udel.edu</email></address></author>
-<date year='1991' day='1' month='July' /></front>
-
-<seriesInfo name='RFC' value='1241' />
-<format type='TXT' octets='42468' target='http://www.rfc-editor.org/rfc/rfc1241.txt' />
-<format type='PS' octets='128921' target='http://www.rfc-editor.org/rfc/rfc1241.ps' />
-<format type='PDF' octets='44593' target='http://www.rfc-editor.org/rfc/rfc1241.pdf' />
+<title>Scheme for an internet encapsulation protocol: Version 1</title>
+<author initials='R.A.' surname='Woodburn' fullname='R.A. Woodburn'><organization /></author>
+<author initials='D.L.' surname='Mills' fullname='D.L. Mills'><organization /></author>
+<date year='1991' month='July' />
+<abstract><t>This memo defines an Experimental Protocol for the Internet community. It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1241'/>
+<seriesInfo name='DOI' value='10.17487/RFC1241'/>
 </reference>

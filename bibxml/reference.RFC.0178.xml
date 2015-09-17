@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0178'>
-
+<reference  anchor='RFC0178' target='http://www.rfc-editor.org/info/rfc178'>
 <front>
 <title>Network graphic attention handling</title>
-<author initials='I.' surname='Cotton' fullname='Ira W. Cotton'>
-<organization>The MITRE Corporation</organization></author>
-<date year='1971' day='27' month='June' /></front>
-
-<seriesInfo name='RFC' value='178' />
-<format type='TXT' octets='24522' target='http://www.rfc-editor.org/rfc/rfc178.txt' />
+<author initials='I.W.' surname='Cotton' fullname='I.W. Cotton'><organization /></author>
+<date year='1971' month='June' />
+</front>
+<seriesInfo name='RFC' value='178'/>
+<seriesInfo name='DOI' value='10.17487/RFC0178'/>
 </reference>

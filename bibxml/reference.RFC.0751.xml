@@ -1,18 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0751'>
-
+<reference  anchor='RFC0751' target='http://www.rfc-editor.org/info/rfc751'>
 <front>
 <title>Survey of FTP mail and MLFL</title>
-<author initials='P.' surname='Lebling' fullname='P. David Lebling'>
-<organization>Massechusetts Institute of Technology (MIT)</organization>
-<address>
-<email>PDL@MIT-DMS</email></address></author>
-<date year='1978' day='10' month='December' />
-<abstract>
-<t>Two surveys of Arpanet Server hosts were run between September 20, 1978
-and December 11, 1978.  The intent was to determine the response of the host's Server FTP program</t></abstract></front>
-
-<seriesInfo name='RFC' value='751' />
-<format type='TXT' octets='10069' target='http://www.rfc-editor.org/rfc/rfc751.txt' />
+<author initials='P.D.' surname='Lebling' fullname='P.D. Lebling'><organization /></author>
+<date year='1978' month='December' />
+</front>
+<seriesInfo name='RFC' value='751'/>
+<seriesInfo name='DOI' value='10.17487/RFC0751'/>
 </reference>

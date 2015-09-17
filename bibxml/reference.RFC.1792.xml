@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1792'>
-
+<reference  anchor='RFC1792' target='http://www.rfc-editor.org/info/rfc1792'>
 <front>
-<title abbrev='TCP/IPX MIB'>TCP/IPX Connection Mib Specification</title>
-<author initials='T.' surname='Sung' fullname='Tae Sung'>
-<organization>Novell, Inc.</organization>
-<address>
-<postal>
-<street>2180 Fortune Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95131</code>
-<country>US</country></postal>
-<phone>+1 408 577 8439</phone>
-<email>tae@novell.Com</email></address></author>
-<date year='1995' month='April' /></front>
-
-<seriesInfo name='RFC' value='1792' />
-<format type='TXT' octets='16389' target='http://www.rfc-editor.org/rfc/rfc1792.txt' />
+<title>TCP/IPX Connection Mib Specification</title>
+<author initials='T.' surname='Sung' fullname='T. Sung'><organization /></author>
+<date year='1995' month='April' />
+<abstract><t>New MIB objects, tcpIpxConnTable, udpIpxTable, tcpUnspecConnTable and udpUnspecTable are presented in this paper, to be used in place of tcpConnTable and udpListenerTable when TCP and UDP are running over IPX. This document defines an Experimental Protocol for the Internet community.  This does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1792'/>
+<seriesInfo name='DOI' value='10.17487/RFC1792'/>
 </reference>

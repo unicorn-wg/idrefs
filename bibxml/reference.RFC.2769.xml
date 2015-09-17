@@ -1,29 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2769'>
-
+<reference  anchor='RFC2769' target='http://www.rfc-editor.org/info/rfc2769'>
 <front>
 <title>Routing Policy System Replication</title>
-<author initials='C.' surname='Villamizar' fullname='Curtis Villamizar'>
-<organization>Avici Systems</organization>
-<address>
-<email>curtis@avici.com</email></address></author>
-<author initials='C.' surname='Alaettinoglu' fullname='Cengiz Alaettinoglu'>
-<organization>ISI</organization>
-<address>
-<email>cengiz@ISI.EDU</email></address></author>
-<author initials='R.' surname='Govindan' fullname='Ramesh Govindan'>
-<organization>ISI</organization>
-<address>
-<email>govindan@ISI.EDU</email></address></author>
-<author initials='D.M.' surname='Meyer' fullname='David M. Meyer'>
-<organization>Cisco</organization>
-<address>
-<email>dmm@cisco.com</email></address></author>
+<author initials='C.' surname='Villamizar' fullname='C. Villamizar'><organization /></author>
+<author initials='C.' surname='Alaettinoglu' fullname='C. Alaettinoglu'><organization /></author>
+<author initials='R.' surname='Govindan' fullname='R. Govindan'><organization /></author>
+<author initials='D.' surname='Meyer' fullname='D. Meyer'><organization /></author>
 <date year='2000' month='February' />
-<abstract>
-<t>The RIPE database specifications and RPSL define languages used as the basis for representing information in a routing policy system.  A repository for routing policy system information is known as a routing registry.  A routing registry provides a means of exchanging information needed to address many issues of importance to the operation of the Internet.  The implementation and deployment of a routing policy system must maintain some degree of integrity to be of any use.  The Routing Policy System Security RFCaddresses the need to assure integrity of the data by proposing an authentication and authorization model.  This document addresses the need to distribute data over multiple repositories and delegate authority for data subsets to other repositories without compromising the authorization model established in Routing Policy System Security RFC.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2769' />
-<format type='TXT' octets='95255' target='http://www.rfc-editor.org/rfc/rfc2769.txt' />
+<abstract><t>This document addresses the need to distribute data over multiple repositories and delegate authority for data subsets to other repositories without compromising the authorization model established in Routing Policy System Security RFC.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2769'/>
+<seriesInfo name='DOI' value='10.17487/RFC2769'/>
 </reference>

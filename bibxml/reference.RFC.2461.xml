@@ -1,58 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2461'>
-
+<reference  anchor='RFC2461' target='http://www.rfc-editor.org/info/rfc2461'>
 <front>
-<title abbrev='Neighbor Discovery for IPv6'>Neighbor Discovery for IP Version 6 (IPv6)</title>
-<author initials='T.' surname='Narten' fullname='Thomas Narten'>
-<organization>IBM Corporation</organization>
-<address>
-<postal>
-<street>P.O. Box 12195</street>
-<street>Research Triangle Park</street>
-<region>NC</region>
-<code>27709-2195</code>
-<country>USA</country></postal>
-<phone>+1 919 254 7798</phone>
-<email>narten@raleigh.ibm.com</email></address></author>
-<author initials='E.' surname='Nordmark' fullname='Erik Nordmark'>
-<organization>Sun Microsystems, Inc.</organization>
-<address>
-<postal>
-<street>901 San Antonio Road</street>
-<street>Palo Alto</street>
-<region>CA</region>
-<code>94303</code>
-<country>USA</country></postal>
-<phone>+1 650 786 5166</phone>
-<facsimile>+1 650 786 5896</facsimile>
-<email>nordmark@sun.com</email></address></author>
-<author initials='W.A.' surname='Simpson' fullname='William Allen Simpson'>
-<organization>Daydreamer, Computer Systems Consulting Services</organization>
-<address>
-<postal>
-<street>1384 Fontaine</street>
-<street>Madison Heights</street>
-<region>Michigan</region>
-<code>48071</code>
-<country>USA</country></postal>
-<email>bsimpson@MorningStar.com</email></address></author>
+<title>Neighbor Discovery for IP Version 6 (IPv6)</title>
+<author initials='T.' surname='Narten' fullname='T. Narten'><organization /></author>
+<author initials='E.' surname='Nordmark' fullname='E. Nordmark'><organization /></author>
+<author initials='W.' surname='Simpson' fullname='W. Simpson'><organization /></author>
 <date year='1998' month='December' />
-<area>Routing</area>
-<keyword>discovery</keyword>
-<keyword>internet protocol version 6</keyword>
-<keyword>IPv6</keyword>
-<abstract>
-<t>
-   This document specifies the Neighbor Discovery protocol for IP
-   Version 6.  IPv6 nodes on the same link use Neighbor Discovery to
-   discover each other&apos;s presence, to determine each other&apos;s link-layer
-   addresses, to find routers and to maintain reachability information
-   about the paths to active neighbors.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2461' />
-<format type='TXT' octets='222516' target='http://www.rfc-editor.org/rfc/rfc2461.txt' />
-<format type='HTML' octets='273859' target='http://xml.resource.org/public/rfc/html/rfc2461.html' />
-<format type='XML' octets='240568' target='http://xml.resource.org/public/rfc/xml/rfc2461.xml' />
+<abstract><t>This document specifies the Neighbor Discovery protocol for IP Version 6.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2461'/>
+<seriesInfo name='DOI' value='10.17487/RFC2461'/>
 </reference>

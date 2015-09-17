@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2709'>
-
+<reference  anchor='RFC2709' target='http://www.rfc-editor.org/info/rfc2709'>
 <front>
-<title abbrev='Security for NAT Domains'>Security Model with Tunnel-mode IPsec for NAT Domains</title>
-<author initials='P.' surname='Srisuresh' fullname='Pyda Srisuresh'>
-<organization>Lucent technologies</organization>
-<address>
-<postal>
-<street>4464 Willow Road</street>
-<city>Pleasanton</city>
-<region>CA</region>
-<code>94588-8519</code>
-<country>US</country></postal>
-<phone>+1 925 737 2153</phone>
-<facsimile>+1 925 737 2110</facsimile>
-<email>srisuresh@lucent.com</email></address></author>
+<title>Security Model with Tunnel-mode IPsec for NAT Domains</title>
+<author initials='P.' surname='Srisuresh' fullname='P. Srisuresh'><organization /></author>
 <date year='1999' month='October' />
-<abstract>
-<t>There are a variety of NAT flavors, as described in. Of the domains supported by NATs, only Realm-Specific IP clients are able to pursue end-to-end IPsec secure sessions. However, all flavors of NAT are capable of offering tunnel-mode IPsec security to private domain hosts peering with nodes in external realm. This document describes a security model by which tunnel-mode IPsec security can be architected on NAT devices. A section is devoted to describing how security policies may be transparently communicated to IKE (for automated KEY exchange) during Quick Mode. Also outlined are applications that can benefit from the Security Model described.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2709' />
-<format type='TXT' octets='24552' target='http://www.rfc-editor.org/rfc/rfc2709.txt' />
+<abstract><t>This document describes a security model by which tunnel-mode IPsec security can be architected on NAT devices.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2709'/>
+<seriesInfo name='DOI' value='10.17487/RFC2709'/>
 </reference>

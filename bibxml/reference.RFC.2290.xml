@@ -1,55 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2290'>
-
+<reference  anchor='RFC2290' target='http://www.rfc-editor.org/info/rfc2290'>
 <front>
-<title abbrev='Mobile-IPv4'>Mobile-IPv4 Configuration Option for PPP IPCP</title>
-<author initials='J.' surname='Solomon' fullname='Jim Solomon'>
-<organization>Motorola, Inc.</organization>
-<address>
-<postal>
-<street>1301 E. Algonquin Rd. - Rm 2240</street>
-<street>Schaumburg</street>
-<street>IL  60196</street></postal>
-<phone>+1-847-576-2753</phone>
-<facsimile>+1-847-576-3240</facsimile>
-<email>solomon@comm.mot.com</email></address></author>
-<author initials='S.' surname='Glass' fullname='Steven Glass'>
-<organization>FTP Software, Inc.</organization>
-<address>
-<postal>
-<street>2 High Street</street>
-<street>North Andover</street>
-<street>MA  01845</street></postal>
-<phone>+1-508-685-4000</phone>
-<facsimile>+1-508-684-6105</facsimile>
-<email>glass@ftp.com</email></address></author>
+<title>Mobile-IPv4 Configuration Option for PPP IPCP</title>
+<author initials='J.' surname='Solomon' fullname='J. Solomon'><organization /></author>
+<author initials='S.' surname='Glass' fullname='S. Glass'><organization /></author>
 <date year='1998' month='February' />
-<area>Internet</area>
-<keyword>configuration</keyword>
-<keyword>internet procotol control protocol</keyword>
-<keyword>internet protocol version 4</keyword>
-<keyword>mobile ip</keyword>
-<keyword>point-to-point protocol</keyword>
-<abstract>
-<t>
-   Mobile IP  defines media-independent procedures by which a
-   Mobile Node can maintain existing transport and application-layer
-   connections despite changing its point-of-attachment to the Internet
-   and without changing its IP address.  PPP  provides a
-   standard method for transporting multi-protocol packets over point-
-   to-point links.  As currently specified, Mobile IP Foreign Agents
-   which support Mobile Node connections via PPP can do so only by first
-   assigning unique addresses to those Mobile Nodes, defeating one of
-   the primary advantages of Foreign Agents.  This documents corrects
-   this problem by defining the Mobile-IPv4 Configuration Option to the
-   Internet Protocol Control Protocol (IPCP) .  Using this
-   option, two peers can communicate their support for Mobile IP during
-   the IPCP phase of PPP.  Familiarity with Mobile IP , IPCP
-   , and PPP  is assumed.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2290' />
-<format type='TXT' octets='39421' target='http://www.rfc-editor.org/rfc/rfc2290.txt' />
-<format type='XML' octets='40940' target='http://xml.resource.org/public/rfc/xml/rfc2290.xml' />
+<abstract><t>Mobile IP [RFC 2002] defines media-independent procedures by which a Mobile Node can maintain existing transport and application-layer connections despite changing its point-of-attachment to the Internet and without changing its IP address.  PPP [RFC 1661] provides a standard method for transporting multi-protocol packets over point-to-point links.  As currently specified, Mobile IP Foreign Agents which support Mobile Node connections via PPP can do so only by first assigning unique addresses to those Mobile Nodes, defeating one of the primary advantages of Foreign Agents.  This documents corrects this problem by defining the Mobile-IPv4 Configuration Option to the Internet Protocol Control Protocol (IPCP) [RFC 1332].  Using this option, two peers can communicate their support for Mobile IP during the IPCP phase of PPP. Familiarity with Mobile IP [RFC 2002], IPCP [RFC 1332], and PPP [RFC 1661] is assumed.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2290'/>
+<seriesInfo name='DOI' value='10.17487/RFC2290'/>
 </reference>

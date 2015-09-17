@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0228'>
-
+<reference  anchor='RFC0228' target='http://www.rfc-editor.org/info/rfc228'>
 <front>
 <title>Clarification</title>
-<author initials='D.' surname='Walden' fullname='Dave Walden'>
-<organization>Bolt Baranek and Newman (BBN)</organization></author>
-<date year='1971' day='22' month='September' />
-<abstract>
-<t>The second statement before statement 20 in the FORTRAN program on page 7 of RFC #70should read N=1</t></abstract></front>
-
-<seriesInfo name='RFC' value='228' />
-<format type='TXT' octets='715' target='http://www.rfc-editor.org/rfc/rfc228.txt' />
+<author initials='D.C.' surname='Walden' fullname='D.C. Walden'><organization /></author>
+<date year='1971' month='September' />
+</front>
+<seriesInfo name='RFC' value='228'/>
+<seriesInfo name='DOI' value='10.17487/RFC0228'/>
 </reference>

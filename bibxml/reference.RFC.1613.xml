@@ -1,61 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1613'>
-
+<reference  anchor='RFC1613' target='http://www.rfc-editor.org/info/rfc1613'>
 <front>
-<title abbrev='X.25 Over TCP (XOT)'>cisco Systems X.25 over TCP (XOT)</title>
-<author initials='J.' surname='Forster' fullname='James R. Forster'>
-<organization>cisco Systems, Engineering Dept.</organization>
-<address>
-<postal>
-<street>1525 O'Brien Dr.</street>
-<city>Menlo Park</city>
-<region>CA</region>
-<code>94025</code>
-<country>US</country></postal>
-<phone>+1 415 688 8245</phone>
-<facsimile>+1 415 688 8282</facsimile>
-<email>forster@cisco.com</email></address></author>
-<author initials='G.' surname='Satz' fullname='Greg Satz'>
-<organization>cisco Systems, Engineering Dept.</organization>
-<address>
-<postal>
-<street>1525 O'Brien Dr.</street>
-<city>Menlo Park</city>
-<region>CA</region>
-<code>94025</code>
-<country>US</country></postal>
-<phone>+1 415 688 8245</phone>
-<facsimile>+1 415 688 8282</facsimile>
-<email>satz@cisco.com</email></address></author>
-<author initials='G.' surname='Glick' fullname='Gilbert Glick'>
-<organization>cisco Systems, Engineering Dept.</organization>
-<address>
-<postal>
-<street>1525 O'Brien Dr.</street>
-<city>Menlo Park</city>
-<region>CA</region>
-<code>94025</code>
-<country>US</country></postal>
-<phone>+1 415 688 8245</phone>
-<facsimile>+1 415 688 8282</facsimile>
-<email>gglick@cisco.com</email></address></author>
-<author initials='B.' surname='Day' fullname='Bob Day'>
-<organization>Joint Network Team c/o Rutherford Appleton Laboratory</organization>
-<address>
-<postal>
-<street>Chilton</street>
-<city>Didcot, Oxfordshire</city>
-<region>England</region>
-<code>OX11 0QX</code>
-<country>UK</country></postal>
-<phone>+44 235 445163</phone>
-<facsimile>+44 235 446251</facsimile>
-<email>R.Day@jnt.ac.uk</email></address></author>
+<title>cisco Systems X.25 over TCP (XOT)</title>
+<author initials='J.' surname='Forster' fullname='J. Forster'><organization /></author>
+<author initials='G.' surname='Satz' fullname='G. Satz'><organization /></author>
+<author initials='G.' surname='Glick' fullname='G. Glick'><organization /></author>
+<author initials='R.' surname='Day' fullname='R. Day'><organization /></author>
 <date year='1994' month='May' />
-<abstract>
-<t></t></abstract></front>
-
-<seriesInfo name='RFC' value='1613' />
-<format type='TXT' octets='29267' target='http://www.rfc-editor.org/rfc/rfc1613.txt' />
+<abstract><t>This memo documents a method of sending X.25 packets over IP internets by encapsulating the X.25 Packet Level in TCP packets.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1613'/>
+<seriesInfo name='DOI' value='10.17487/RFC1613'/>
 </reference>

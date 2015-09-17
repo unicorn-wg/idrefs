@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1875'>
-
+<reference  anchor='RFC1875' target='http://www.rfc-editor.org/info/rfc1875'>
 <front>
 <title>UNINETT PCA Policy Statements</title>
-<author initials='N.' surname='Berge' fullname='Nils Harald Berge'>
-<organization>Norwegian Computing Center</organization>
-<address>
-<postal>
-<street>Gaustadallien 23</street>
-<street>P.O.Box 114 Blindern</street>
-<city>Oslo</city>
-<region />
-<code>N-0314</code>
-<country>NO</country></postal>
-<phone>+47 22 852500</phone>
-<facsimile>+47 22 697660</facsimile>
-<email>Nils.Harald.Berge@nr.no</email></address></author>
-<date year='1995' month='December' /></front>
-
-<seriesInfo name='RFC' value='1875' />
-<format type='TXT' octets='19089' target='http://www.rfc-editor.org/rfc/rfc1875.txt' />
+<author initials='N.' surname='Berge' fullname='N. Berge'><organization /></author>
+<date year='1995' month='December' />
+<abstract><t>This document provides information about policy statements submitted by the UNINETT Policy Certification Authority (UNINETT PCA).  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1875'/>
+<seriesInfo name='DOI' value='10.17487/RFC1875'/>
 </reference>

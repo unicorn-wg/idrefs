@@ -1,67 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1592'>
-
+<reference  anchor='RFC1592' target='http://www.rfc-editor.org/info/rfc1592'>
 <front>
-<title abbrev='SNMP-DPI'>Simple Network Management Protocol Distributed Protocol Interface Version 2.0</title>
-<author initials='B.' surname='Wijnen' fullname='Bert Wijnen'>
-<organization>IBM International Operations</organization>
-<address>
-<postal>
-<street>Watsonweg 2</street>
-<city>Uithoorn</city>
-<region />
-<code>1423 ND</code>
-<country>NL</country></postal>
-<phone>+31 29 7553316</phone>
-<facsimile>+31 29 7562468</facsimile>
-<email>wijnen@vnet.ibm.com</email></address></author>
-<author initials='G.' surname='Carpenter' fullname='Geoffrey C. Carpenter'>
-<organization>IBM, T.J. Watson Research Center</organization>
-<address>
-<postal>
-<street>P.O. Box 218</street>
-<city>Yorktown Heights</city>
-<region>NY</region>
-<code>10598</code>
-<country>US</country></postal>
-<phone>+1 914 945 1970</phone>
-<email>gcc@watson.ibm.com</email></address></author>
-<author initials='K.' surname='Curran' fullname='Kim Curran'>
-<organization>Bell Northern Research Ltd.</organization>
-<address>
-<postal>
-<street>P.O. Box 3511 Station C</street>
-<city>Ottawa</city>
-<region>Ontario</region>
-<code>K1Y 4HY</code>
-<country>CA</country></postal>
-<phone>+1 613 763 5283</phone>
-<email>kcurran@bnr.ca</email></address></author>
-<author initials='A.' surname='Sehgal' fullname='Aditya Sehgal'>
-<organization>Bell Northern Research Ltd.</organization>
-<address>
-<postal>
-<street>P. O. Box 3511 Station C</street>
-<city>Ottawa</city>
-<region>Ontario</region>
-<code>K1Y 4HY</code>
-<country>CA</country></postal>
-<phone>+1 613 763 8821</phone>
-<email>asehgal@bnr.ca</email></address></author>
-<author initials='G.' surname='Waters' fullname='Glen Waters'>
-<organization>Bell Northern Research Ltd.</organization>
-<address>
-<postal>
-<street>P.O. Box 3511 Station C</street>
-<city>Ottawa</city>
-<region>Ontario</region>
-<code>K1Y 4HY</code>
-<country>CA</country></postal>
-<phone>+1 613 763 3933</phone>
-<email>gwaters@bnr.ca</email></address></author>
-<date year='1994' month='March' /></front>
-
-<seriesInfo name='RFC' value='1592' />
-<format type='TXT' octets='135259' target='http://www.rfc-editor.org/rfc/rfc1592.txt' />
+<title>Simple Network Management Protocol Distributed Protocol Interface Version 2.0</title>
+<author initials='B.' surname='Wijnen' fullname='B. Wijnen'><organization /></author>
+<author initials='G.' surname='Carpenter' fullname='G. Carpenter'><organization /></author>
+<author initials='K.' surname='Curran' fullname='K. Curran'><organization /></author>
+<author initials='A.' surname='Sehgal' fullname='A. Sehgal'><organization /></author>
+<author initials='G.' surname='Waters' fullname='G. Waters'><organization /></author>
+<date year='1994' month='March' />
+<abstract><t>This RFC describes version 2.0 of a protocol that International Business Machines Corporation (IBM) has been implementing in most of its SNMP agents to allow dynamic extension of supported MIBs. This memo defines an Experimental Protocol for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1592'/>
+<seriesInfo name='DOI' value='10.17487/RFC1592'/>
 </reference>

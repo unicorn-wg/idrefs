@@ -1,68 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2327'>
-
+<reference  anchor='RFC2327' target='http://www.rfc-editor.org/info/rfc2327'>
 <front>
-<title abbrev='SDP'>SDP: Session Description Protocol</title>
-<author initials='M.' surname='Handley' fullname='Mark Handley'>
-<organization>
-   Information Sciences Institute
-</organization>
-<address>
-<postal>
-<street>
-   c/o MIT Laboratory for Computer Science
-</street>
-<street>
-   545 Technology Square
-</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02139</code>
-<country>US</country></postal>
-<email>mjh@isi.edu</email></address></author>
-<author initials='V.' surname='Jacobson' fullname='Van Jacobson'>
-<organization>
-   Lawrence Berkeley Laboratory
-</organization>
-<address>
-<postal>
-<street>
-   MS 46a-1121
-</street>
-<city>Berkeley</city>
-<region>CA</region>
-<code>94720</code>
-<country>US</country></postal>
-<email>van@ee.lbl.gov</email></address></author>
+<title>SDP: Session Description Protocol</title>
+<author initials='M.' surname='Handley' fullname='M. Handley'><organization /></author>
+<author initials='V.' surname='Jacobson' fullname='V. Jacobson'><organization /></author>
 <date year='1998' month='April' />
-<area>Applications</area>
-<keyword>multimedia</keyword>
-<keyword>SDP</keyword>
-<abstract>
-<t>
-
-   This document defines the Session Description Protocol, SDP.  SDP is
-
-   intended for describing multimedia sessions for the purposes of
-
-   session announcement, session invitation, and other forms of
-
-   multimedia session initiation.
-</t>
-<t>
-
-
-   This document is a product of the Multiparty Multimedia Session
-
-   Control (MMUSIC) working group of the Internet Engineering Task
-
-   Force. Comments are solicited and should be addressed to the working
-
-   group's mailing list at confctrl@isi.edu and/or the authors.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2327' />
-<format type='TXT' octets='87096' target='http://www.rfc-editor.org/rfc/rfc2327.txt' />
-<format type='XML' octets='97009' target='http://xml.resource.org/public/rfc/xml/rfc2327.xml' />
+<abstract><t>This document defines the Session Description Protocol, SDP.  SDP is intended for describing multimedia sessions for the purposes of session announcement, session invitation, and other forms of multimedia session initiation.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2327'/>
+<seriesInfo name='DOI' value='10.17487/RFC2327'/>
 </reference>

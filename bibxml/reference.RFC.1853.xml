@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1853'>
-
+<reference  anchor='RFC1853' target='http://www.rfc-editor.org/info/rfc1853'>
 <front>
-<title abbrev='IP Tunnelling'>IP in IP Tunneling</title>
-<author initials='W.' surname='Simpson' fullname='William Allen Simpson'>
-<organization>Daydreamer, Computer Systems Consulting Services</organization>
-<address>
-<postal>
-<street>1384 Fontaine</street>
-<city>Madison Heights</city>
-<region>MI</region>
-<code>48071</code>
-<country>US</country></postal>
-<email>Bill.Simpson@um.cc.umich.edu</email></address></author>
+<title>IP in IP Tunneling</title>
+<author initials='W.' surname='Simpson' fullname='W. Simpson'><organization /></author>
 <date year='1995' month='October' />
-<abstract>
-<t>This document discusses implementation techniques for using IP Protocol/Payload number 4 Encapsulation for tunneling with IP Security and other protocols.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1853' />
-<format type='TXT' octets='14803' target='http://www.rfc-editor.org/rfc/rfc1853.txt' />
+<abstract><t>This document discusses implementation techniques for using IP Protocol/Payload number 4 Encapsulation for tunneling with IP Security and other protocols.  This memo provides information for the Internet community.  It does not specify an Internet standard. This document describes the use of keyed SHA with the IP Authentication Header.  This document defines an Experimental Protocol for the Internet community. This document describes the Triple DES-CBC security transform for the IP Encapsulating Security Payload (ESP).  This document defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1853'/>
+<seriesInfo name='DOI' value='10.17487/RFC1853'/>
 </reference>

@@ -1,14 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0519'>
-
+<reference  anchor='RFC0519' target='http://www.rfc-editor.org/info/rfc519'>
 <front>
 <title>Resource Evaluation</title>
-<author initials='J.R.' surname='Pickens' fullname='J.R. Pickens'>
-<organization /></author>
-<date year='1973' month='June' /></front>
-
-<seriesInfo name='RFC' value='519' />
-<format type='TXT' octets='7750' target='http://www.rfc-editor.org/rfc/rfc519.txt' />
-<format type='PDF' octets='224969' target='http://www.rfc-editor.org/rfc/rfc519.pdf' />
+<author initials='J.R.' surname='Pickens' fullname='J.R. Pickens'><organization /></author>
+<date year='1973' month='June' />
+</front>
+<seriesInfo name='RFC' value='519'/>
+<seriesInfo name='DOI' value='10.17487/RFC0519'/>
 </reference>

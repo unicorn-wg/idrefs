@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1808'>
-
+<reference  anchor='RFC1808' target='http://www.rfc-editor.org/info/rfc1808'>
 <front>
 <title>Relative Uniform Resource Locators</title>
-<author initials='R.' surname='Fielding' fullname='Roy T. Fielding'>
-<organization>University of California Irvine, Department of Information and Computer Science</organization>
-<address>
-<postal>
-<street />
-<city>Irvine</city>
-<region>CA</region>
-<code>92717-3425</code>
-<country>US</country></postal>
-<phone>+1 714 824 4049</phone>
-<facsimile>+1 714 824 4056</facsimile>
-<email>fielding@ics.uci.edu</email></address></author>
+<author initials='R.' surname='Fielding' fullname='R. Fielding'><organization /></author>
 <date year='1995' month='June' />
-<abstract>
-<t>A Uniform Resource Locator (URL) is a compact representation of the location and access method for a resource available via the Internet. When embedded within a base document, a URL in its absolute form may contain a great deal of information which is already known from the context of that base document's retrieval, including the scheme, network location, and parts of the url-path.  In situations where the base URL is well-defined and known to the parser (human or machine), it is useful to be able to embed URL references which inherit that context rather than re-specifying it in every instance.  This document defines the syntax and semantics for such Relative Uniform Resource Locators.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1808' />
-<format type='TXT' octets='34950' target='http://www.rfc-editor.org/rfc/rfc1808.txt' />
+<abstract><t>In situations where the base URL is well-defined and known to the parser (human or machine), it is useful to be able to embed URL references which inherit that context rather than re-specifying it in every instance.  This document defines the syntax and semantics for such Relative Uniform Resource Locators.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1808'/>
+<seriesInfo name='DOI' value='10.17487/RFC1808'/>
 </reference>

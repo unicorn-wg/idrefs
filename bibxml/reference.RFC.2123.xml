@@ -1,28 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2123'>
-
+<reference  anchor='RFC2123' target='http://www.rfc-editor.org/info/rfc2123'>
 <front>
-<title abbrev='NeTraMet'>Traffic Flow Measurement:  Experiences with NeTraMet</title>
-<author initials='N.' surname='Brownlee' fullname='Nevil Brownlee'>
-<organization>The University of Auckland</organization>
-<address>
-<phone>+64 9 373 7599 x8941</phone>
-<email>n.brownlee@auckland.ac.nz</email></address></author>
+<title>Traffic Flow Measurement: Experiences with NeTraMet</title>
+<author initials='N.' surname='Brownlee' fullname='N. Brownlee'><organization /></author>
 <date year='1997' month='March' />
-<area>Operations</area>
-<keyword>flow measurement</keyword>
-<abstract>
-<t>
-   This memo records experiences in implementing and using the Traffic
-   Flow Measurement Architecture and Meter MIB. It discusses the
-   implementation of NeTraMet (a traffic meter) and NeMaC (a combined
-   manager and meter reader), considers the writing of meter rule sets
-   and gives some guidance on setting up a traffic flow measurement
-   system using NeTraMet.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2123' />
-<format type='TXT' octets='81874' target='http://www.rfc-editor.org/rfc/rfc2123.txt' />
-<format type='XML' octets='82362' target='http://xml.resource.org/public/rfc/xml/rfc2123.xml' />
+<abstract><t>This memo records experiences in implementing and using the Traffic Flow Measurement Architecture and Meter MIB. It discusses the implementation of NeTraMet (a traffic meter) and NeMaC (a combined manager and meter reader), considers the writing of meter rule sets and gives some guidance on setting up a traffic flow measurement system using NeTraMet. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2123'/>
+<seriesInfo name='DOI' value='10.17487/RFC2123'/>
 </reference>

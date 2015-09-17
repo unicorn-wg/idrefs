@@ -1,21 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2634'>
-
+<reference  anchor='RFC2634' target='http://www.rfc-editor.org/info/rfc2634'>
 <front>
 <title>Enhanced Security Services for S/MIME</title>
-<author initials='P.' surname='Hoffman' fullname='Paul Hoffman'>
-<organization>Internet Mail Consortium</organization>
-<address>
-<postal>
-<street>127 Segre Place</street>
-<city>Santa Cruz</city>
-<region>CA</region>
-<code>95060</code>
-<country>US</country></postal>
-<email>phoffman@imc.org</email></address></author>
-<date year='1999' month='June' /></front>
-
-<seriesInfo name='RFC' value='2634' />
-<format type='TXT' octets='131153' target='http://www.rfc-editor.org/rfc/rfc2634.txt' />
+<author initials='P.' surname='Hoffman' fullname='P. Hoffman' role='editor'><organization /></author>
+<date year='1999' month='June' />
+<abstract><t>This document describes four optional security service extensions for S/MIME.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2634'/>
+<seriesInfo name='DOI' value='10.17487/RFC2634'/>
 </reference>

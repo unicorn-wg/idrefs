@@ -1,53 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1519'>
-
+<reference  anchor='RFC1519' target='http://www.rfc-editor.org/info/rfc1519'>
 <front>
-<title abbrev='CIDR Address Strategy'>Classless Inter-Domain Routing (CIDR): an Address Assignment and Aggregation Strategy</title>
-<author initials='V.' surname='Fuller' fullname='Vince Fuller'>
-<organization>BARRNet</organization>
-<address>
-<postal>
-<street>115 Pine Hall</street>
-<city>Stanford</city>
-<region>CA</region>
-<code>94305-4122</code>
-<country>US</country></postal>
-<email>vaf@Stanford.EDU</email></address></author>
-<author initials='T.' surname='Li' fullname='Tony Li'>
-<organization>cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>1525 O'Brien Drive</street>
-<city>Menlo Park</city>
-<region>CA</region>
-<code>94025</code>
-<country>US</country></postal>
-<email>tli@cisco.com</email></address></author>
-<author initials='J.' surname='Yu' fullname='Jessica (Jie Yun) Yu'>
-<organization>Merit Network, Inc.</organization>
-<address>
-<postal>
-<street>1071 Beal Ave.</street>
-<city>Ann Arbor</city>
-<region>MI</region>
-<code>48109</code>
-<country>US</country></postal>
-<email>jyy@merit.edu</email></address></author>
-<author initials='K.' surname='Varadhan' fullname='Kannan Varadhan'>
-<organization>OARnet</organization>
-<address>
-<postal>
-<street>1224 Kinnear Road</street>
-<city>Columbus</city>
-<region>OH</region>
-<code>43212</code>
-<country>US</country></postal>
-<email>kannan@oar.net</email></address></author>
+<title>Classless Inter-Domain Routing (CIDR): an Address Assignment and Aggregation Strategy</title>
+<author initials='V.' surname='Fuller' fullname='V. Fuller'><organization /></author>
+<author initials='T.' surname='Li' fullname='T. Li'><organization /></author>
+<author initials='J.' surname='Yu' fullname='J. Yu'><organization /></author>
+<author initials='K.' surname='Varadhan' fullname='K. Varadhan'><organization /></author>
 <date year='1993' month='September' />
-<abstract>
-<t>This memo discusses strategies for address assignment of the existing IP address space with a view to conserve the address space and stem the explosive growth of routing tables in default-route-free routers.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1519' />
-<format type='TXT' octets='59998' target='http://www.rfc-editor.org/rfc/rfc1519.txt' />
+<abstract><t>This memo discusses strategies for address assignment of the existing IP address space with a view to conserve the address space and stem the explosive growth of routing tables in default-route-free routers. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1519'/>
+<seriesInfo name='DOI' value='10.17487/RFC1519'/>
 </reference>

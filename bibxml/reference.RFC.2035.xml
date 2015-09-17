@@ -1,68 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2035'>
-
+<reference  anchor='RFC2035' target='http://www.rfc-editor.org/info/rfc2035'>
 <front>
-<title abbrev='RTP Payload Format for JPEG Video'>RTP Payload Format for JPEG-compressed Video</title>
-<author initials='L.M.' surname='Berc' fullname='Lance M. Berc'>
-<organization>Systems Research Center</organization>
-<address>
-<postal>
-<street>Digital Equipment Corporation</street>
-<street>130 Lytton Ave</street>
-<street>Palo Alto CA 94301</street></postal>
-<phone>+1 415 853 2100</phone>
-<email>berc@pa.dec.com</email></address></author>
-<author initials='W.C.' surname='Fenner' fullname='William C. Fenner'>
-<organization>Xerox PARC</organization>
-<address>
-<postal>
-<street>3333 Coyote Hill Road</street>
-<street>Palo Alto</street>
-<street>CA 94304</street></postal>
-<phone>+1 415 812 4816</phone>
-<email>fenner@cmf.nrl.navy.mil</email></address></author>
-<author initials='R.' surname='Frederick' fullname='Ron Frederick'>
-<organization>Xerox PARC</organization>
-<address>
-<postal>
-<street>3333 Coyote Hill Road</street>
-<street>Palo Alto</street>
-<street>CA 94304</street></postal>
-<phone>+1 415 812 4459</phone>
-<email>frederick@parc.xerox.com</email></address></author>
-<author initials='S.' surname='McCanne' fullname='Steven McCanne'>
-<organization>Lawrence Berkeley Laboratory</organization>
-<address>
-<postal>
-<street>M/S 46A-1123</street>
-<street>One Cyclotron Road</street>
-<street>Berkeley</street>
-<street>CA 94720</street></postal>
-<phone>+1 510 486 7520</phone>
-<email>mccanne@ee.lbl.gov</email></address></author>
+<title>RTP Payload Format for JPEG-compressed Video</title>
+<author initials='L.' surname='Berc' fullname='L. Berc'><organization /></author>
+<author initials='W.' surname='Fenner' fullname='W. Fenner'><organization /></author>
+<author initials='R.' surname='Frederick' fullname='R. Frederick'><organization /></author>
+<author initials='S.' surname='McCanne' fullname='S. McCanne'><organization /></author>
 <date year='1996' month='October' />
-<area>Transport</area>
-<keyword>compress</keyword>
-<keyword>joint photographic experts group</keyword>
-<keyword>multimedia</keyword>
-<keyword>real-time transport protocol</keyword>
-<keyword>video</keyword>
-<abstract>
-<t>
-   This memo describes the RTP payload format for JPEG video streams.
-   The packet format is optimized for real-time video streams where
-   codec parameters change rarely from frame to frame.
-</t>
-<t>
-   This document is a product of the Audio-Video Transport working group
-   within the Internet Engineering Task Force.  Comments are solicited
-   and should be addressed to the working group&apos;s mailing list at rem-
-   conf@es.net and/or the author(s).
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2035' />
-<format type='TXT' octets='30079' target='http://www.rfc-editor.org/rfc/rfc2035.txt' />
-<format type='HTML' octets='52492' target='http://xml.resource.org/public/rfc/html/rfc2035.html' />
-<format type='XML' octets='32250' target='http://xml.resource.org/public/rfc/xml/rfc2035.xml' />
+<abstract><t>This memo describes the RTP payload format for JPEG video streams.  The packet format is optimized for real-time video streams where codec parameters change rarely from frame to frame.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2035'/>
+<seriesInfo name='DOI' value='10.17487/RFC2035'/>
 </reference>

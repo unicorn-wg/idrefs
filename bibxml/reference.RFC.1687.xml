@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1687'>
-
+<reference  anchor='RFC1687' target='http://www.rfc-editor.org/info/rfc1687'>
 <front>
 <title>A Large Corporate User's View of IPng</title>
-<author initials='E.' surname='Fleischman' fullname='Eric Fleischman'>
-<organization>Boeing Computer Services</organization>
-<address>
-<postal>
-<street>P.O. Box 24346</street>
-<street>MS 7M-HA</street>
-<city>Seattle</city>
-<region>WA</region>
-<code>98124-0346</code>
-<country>US</country></postal>
-<email>ericf@atc.boeing.com</email></address></author>
+<author initials='E.' surname='Fleischman' fullname='E. Fleischman'><organization /></author>
 <date year='1994' month='August' />
-<abstract>
-<t>This document was submitted to the IETF IPng area in response to RFC 1550.  Publication of this document does not imply acceptance by the IPng area of any ideas expressed within.  Comments should be submitted to the big-internet@munnari.oz.au mailing list.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1687' />
-<format type='TXT' octets='34120' target='http://www.rfc-editor.org/rfc/rfc1687.txt' />
+<abstract><t>The goal of this paper is to examine the implications of IPng from the point of view of Fortune 100 corporations which have heavily invested in TCP/IP technology in order to achieve their (non-computer related) business goals.This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1687'/>
+<seriesInfo name='DOI' value='10.17487/RFC1687'/>
 </reference>

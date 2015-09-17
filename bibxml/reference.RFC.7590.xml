@@ -1,17 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC7590'>
-
+<reference  anchor='RFC7590' target='http://www.rfc-editor.org/info/rfc7590'>
 <front>
 <title>Use of Transport Layer Security (TLS) in the Extensible Messaging and Presence Protocol (XMPP)</title>
-<author initials='P.' surname='Saint-Andre' fullname='P. Saint-Andre'>
-<organization /></author>
-<author initials='T.' surname='Alkemade' fullname='T. Alkemade'>
-<organization /></author>
+<author initials='P.' surname='Saint-Andre' fullname='P. Saint-Andre'><organization /></author>
+<author initials='T.' surname='Alkemade' fullname='T. Alkemade'><organization /></author>
 <date year='2015' month='June' />
-<abstract>
-<t>This document provides recommendations for the use of Transport Layer Security (TLS) in the Extensible Messaging and Presence Protocol (XMPP).  This document updates RFC 6120.</t></abstract></front>
-
-<seriesInfo name='RFC' value='7590' />
-<format type='TXT' octets='20393' target='http://www.rfc-editor.org/rfc/rfc7590.txt' />
+<abstract><t>This document provides recommendations for the use of Transport Layer Security (TLS) in the Extensible Messaging and Presence Protocol (XMPP).  This document updates RFC 6120.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='7590'/>
+<seriesInfo name='DOI' value='10.17487/RFC7590'/>
 </reference>

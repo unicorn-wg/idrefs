@@ -1,85 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2566'>
-
+<reference  anchor='RFC2566' target='http://www.rfc-editor.org/info/rfc2566'>
 <front>
-<title abbrev='IPP/1.0: Model and Semantics'>Internet Printing Protocol/1.0: Model and Semantics</title>
-<author initials='R.' surname='deBry' fullname='Roger deBry'>
-<organization>Utah Valley State College</organization>
-<address>
-<postal>
-<street />
-<city>Orem</city>
-<region>UT</region>
-<code>84058</code>
-<country>US</country></postal>
-<phone>+1 801 222 8000</phone>
-<email>debryro@uvsc.edu</email></address></author>
-<author initials='T.' surname='Hastings' fullname='Tom Hastings'>
-<organization>Xerox Corporation</organization>
-<address>
-<postal>
-<street>737 Hawaii St.</street>
-<city>El Segundo</city>
-<region>CA</region>
-<code>90245</code>
-<country>US</country></postal>
-<phone>+1 310 333 6413</phone>
-<facsimile>+1 310 333 5514</facsimile>
-<email>hastings@cp10.es.xerox.com</email></address></author>
-<author initials='R.' surname='Herriot' fullname='Robert Herriot'>
-<organization>Xerox Corporation</organization>
-<address>
-<postal>
-<street>3400 Hillview Ave.</street>
-<street>Bldg #1</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94304</code>
-<country>US</country></postal>
-<phone>+1 650 813 7696</phone>
-<facsimile>+1 650 813 6860</facsimile>
-<email>robert.herriot@pahv.xerox.com</email></address></author>
-<author initials='S.A.' surname='Isaacson' fullname='Scott A. Isaacson'>
-<organization>Novell, Inc.</organization>
-<address>
-<postal>
-<street>122 E 1700 S</street>
-<city>Provo</city>
-<region>UT</region>
-<code>84606</code>
-<country>US</country></postal>
-<phone>+1 801 861 7366</phone>
-<facsimile>+1 801 861 2517</facsimile>
-<email>sisaacson@novell.com</email></address></author>
-<author initials='P.' surname='Powell' fullname='Patrick Powell'>
-<organization>Astart Technologies</organization>
-<address>
-<postal>
-<street>9475 Chesapeake Dr.</street>
-<street>Suite D</street>
-<city>San Diego</city>
-<region>CA</region>
-<code>92123</code>
-<country>US</country></postal>
-<phone>+1 619 874 6543</phone>
-<facsimile>+1 619 279 8424</facsimile>
-<email>papowell@astart.com</email></address></author>
+<title>Internet Printing Protocol/1.0: Model and Semantics</title>
+<author initials='R.' surname='deBry' fullname='R. deBry'><organization /></author>
+<author initials='T.' surname='Hastings' fullname='T. Hastings'><organization /></author>
+<author initials='R.' surname='Herriot' fullname='R. Herriot'><organization /></author>
+<author initials='S.' surname='Isaacson' fullname='S. Isaacson'><organization /></author>
+<author initials='P.' surname='Powell' fullname='P. Powell'><organization /></author>
 <date year='1999' month='April' />
-<abstract>
-<t>This document is one of a set of documents, which together describe
-   all aspects of a new Internet Printing Protocol (IPP).  IPP is an
-   application level protocol that can be used for distributed printing
-   using Internet tools and technologies.  This document describes a
-   simplified model consisting of abstract objects, their attributes,
-   and their operations that is independent of encoding and transport.
-   The model consists of a Printer and a Job object.  A Job optionally
-   supports multiple documents.  IPP 1.0 semantics allow end-users and
-   operators to query printer capabilities, submit print jobs, inquire
-   about the status of print jobs and printers, and cancel print jobs.
-   This document also addresses security, internationalization, and
-   directory issues.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2566' />
-<format type='TXT' octets='438887' target='http://www.rfc-editor.org/rfc/rfc2566.txt' />
+<abstract><t>This document describes a simplified model consisting of abstract objects, their attributes, and their operations that is independent of encoding and transport.  This document also addresses security, internationalization, and directory issues. This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2566'/>
+<seriesInfo name='DOI' value='10.17487/RFC2566'/>
 </reference>

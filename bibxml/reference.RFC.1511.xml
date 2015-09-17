@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1511'>
-
+<reference  anchor='RFC1511' target='http://www.rfc-editor.org/info/rfc1511'>
 <front>
-<title abbrev='CAT Overview'>Common Authentication Technology Overview</title>
-<author initials='J.' surname='Linn' fullname='John Linn'>
-<organization>Geer Zolot Associates</organization>
-<address>
-<postal>
-<street>One Main St.</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02142</code>
-<country>US</country></postal>
-<phone>+1 617 374 3700</phone>
-<email>Linn@gza.com</email></address></author>
+<title>Common Authentication Technology Overview</title>
+<author initials='J.' surname='Linn' fullname='J. Linn'><organization /></author>
 <date year='1993' month='September' />
-<abstract>
-<t></t></abstract></front>
-
-<seriesInfo name='RFC' value='1511' />
-<format type='TXT' octets='4185' target='http://www.rfc-editor.org/rfc/rfc1511.txt' />
+<abstract><t>This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1511'/>
+<seriesInfo name='DOI' value='10.17487/RFC1511'/>
 </reference>

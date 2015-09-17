@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1466'>
-
+<reference  anchor='RFC1466' target='http://www.rfc-editor.org/info/rfc1466'>
 <front>
 <title>Guidelines for Management of IP Address Space</title>
-<author initials='E.' surname='Gerich' fullname='Elise Gerich'>
-<organization>Merit Network, Inc.</organization>
-<address>
-<postal>
-<street>1071 Beal Avenue</street>
-<city>Ann Arbor</city>
-<region>MI</region>
-<code>48109-2112</code>
-<country>US</country></postal>
-<phone>+1 313 936 3335</phone>
-<email>epg@MERIT.EDU</email></address></author>
+<author initials='E.' surname='Gerich' fullname='E. Gerich'><organization /></author>
 <date year='1993' month='May' />
-<abstract>
-<t>This document has been reviewed by the Federal Engineering Planning Group (FEPG) on behalf of the Federal Networking Council (FNC), the co-chairs of the Intercontinental Engineering Planning Group (IEPG), and the Reseaux IP Europeens (RIPE).  There was general consensus by those groups to support the recommendations proposed in this document for management of the IP address space.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1466' />
-<format type='TXT' octets='22262' target='http://www.rfc-editor.org/rfc/rfc1466.txt' />
+<abstract><t>This document proposes a plan which will forward the implementation of RFC 1174 and which defines the allocation and assignment of the network number space.  This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1466'/>
+<seriesInfo name='DOI' value='10.17487/RFC1466'/>
 </reference>

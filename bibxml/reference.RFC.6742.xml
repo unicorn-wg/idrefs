@@ -1,19 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC6742'>
-
+<reference  anchor='RFC6742' target='http://www.rfc-editor.org/info/rfc6742'>
 <front>
 <title>DNS Resource Records for the Identifier-Locator Network Protocol (ILNP)</title>
-<author>
-<organization>RJ Atkinson</organization></author>
-<author>
-<organization>SN Bhatti</organization></author>
-<author initials='S.' surname='Rose' fullname='S. Rose'>
-<organization /></author>
+<author initials='RJ' surname='Atkinson' fullname='RJ Atkinson'><organization /></author>
+<author initials='SN' surname='Bhatti' fullname='SN Bhatti'><organization /></author>
+<author initials='S.' surname='Rose' fullname='S. Rose'><organization /></author>
 <date year='2012' month='November' />
-<abstract>
-<t>This note describes additional optional resource records for use with the Domain Name System (DNS).  These optional resource records are for use with the Identifier-Locator Network Protocol (ILNP).  This document is a product of the IRTF Routing Research Group.  This document defines an Experimental Protocol for the Internet community.</t></abstract></front>
-
-<seriesInfo name='RFC' value='6742' />
-<format type='TXT' octets='42996' target='http://www.rfc-editor.org/rfc/rfc6742.txt' />
+<abstract><t>This note describes additional optional resource records for use with the Domain Name System (DNS).  These optional resource records are for use with the Identifier-Locator Network Protocol (ILNP).  This document is a product of the IRTF Routing Research Group. This document defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='6742'/>
+<seriesInfo name='DOI' value='10.17487/RFC6742'/>
 </reference>

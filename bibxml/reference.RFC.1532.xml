@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1532'>
-
+<reference  anchor='RFC1532' target='http://www.rfc-editor.org/info/rfc1532'>
 <front>
-<title abbrev='Clarifications and Extensions for BOOTP'>Clarifications and Extensions for the Bootstrap Protocol</title>
-<author initials='W.' surname='Wimer' fullname='Walt Wimer'>
-<organization>Carnegie Mellon University, Network Development</organization>
-<address>
-<postal>
-<street>5000 Forbes Avenue</street>
-<city>Pittsburgh</city>
-<region>PA</region>
-<code>15213-3890</code>
-<country>US</country></postal>
-<phone>+1 412 268 6252</phone>
-<email>Walter.Wimer@CMU.EDU</email></address></author>
+<title>Clarifications and Extensions for the Bootstrap Protocol</title>
+<author initials='W.' surname='Wimer' fullname='W. Wimer'><organization /></author>
 <date year='1993' month='October' />
-<abstract>
-<t>Some aspects of the BOOTP protocol were rather loosely defined in its original specification.  In particular, only a general description was provided for the behavior of "BOOTP relay agents" (originally called BOOTP forwarding agents").  The client behavior description also suffered in certain ways.  This memo attempts to clarify and strengthen the specification in these areas.</t>
-<t>In addition, new issues have arisen since the original specification was written.  This memo also attempts to address some of these.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1532' />
-<format type='TXT' octets='51545' target='http://www.rfc-editor.org/rfc/rfc1532.txt' />
+<abstract><t>Some aspects of the BOOTP protocol were rather loosely defined in its original specification.  In particular, only a general description was provided for the behavior of &quot;BOOTP relay agents&quot; (originally called BOOTP forwarding agents&quot;).  The client behavior description also suffered in certain ways.  This memo attempts to clarify and strengthen the specification in these areas. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1532'/>
+<seriesInfo name='DOI' value='10.17487/RFC1532'/>
 </reference>

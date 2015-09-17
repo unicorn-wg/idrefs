@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0053'>
-
+<reference  anchor='RFC0053' target='http://www.rfc-editor.org/info/rfc53'>
 <front>
 <title>Official protocol mechanism</title>
-<author initials='S.' surname='Crocker' fullname='S. Crocker'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<date year='1970' day='9' month='June' />
-<abstract>
-<t>During the Spring Joint Computer Conference in Atlantic City, Larry Roberts, Barry Wessler, Cordell Green, Jon Postel and I discussed rules for establishing and modifying an official Host-Host protocol.</t></abstract></front>
-
-<seriesInfo name='RFC' value='53' />
-<format type='TXT' octets='2330' target='http://www.rfc-editor.org/rfc/rfc53.txt' />
+<author initials='S.D.' surname='Crocker' fullname='S.D. Crocker'><organization /></author>
+<date year='1970' month='June' />
+</front>
+<seriesInfo name='RFC' value='53'/>
+<seriesInfo name='DOI' value='10.17487/RFC0053'/>
 </reference>

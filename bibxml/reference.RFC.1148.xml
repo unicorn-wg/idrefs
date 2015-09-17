@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1148'>
-
+<reference  anchor='RFC1148' target='http://www.rfc-editor.org/info/rfc1148'>
 <front>
-<title abbrev='Mapping X.400(88) and 822'>Mapping between X.400(1988) / ISO 10021 and RFC 822</title>
-<author initials='S.' surname='Kille' fullname='Steve Kille'>
-<organization>University College London</organization>
-<address>
-<postal>
-<street>Gower Street</street>
-<city>London</city>
-<region>England</region>
-<code>WC1E 6BT</code>
-<country>UK</country></postal>
-<phone>+44 1 3807294</phone>
-<email>S.Kille@Cs.Ucl.AC.UK</email></address></author>
-<date year='1990' day='1' month='March' /></front>
-
-<seriesInfo name='RFC' value='1148' />
-<format type='TXT' octets='194292' target='http://www.rfc-editor.org/rfc/rfc1148.txt' />
+<title>Mapping between X.400(1988) / ISO 10021 and RFC 822</title>
+<author initials='S.E.' surname='Kille' fullname='S.E. Kille'><organization /></author>
+<date year='1990' month='March' />
+<abstract><t>This RFC suggests an electronic mail protocol mapping for the Internet community and UK Academic Community, and requests discussion and suggestions for improvements.  This memo does not specify an Internet standard.  This edition includes material lost in editing.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1148'/>
+<seriesInfo name='DOI' value='10.17487/RFC1148'/>
 </reference>

@@ -1,57 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2449'>
-
+<reference  anchor='RFC2449' target='http://www.rfc-editor.org/info/rfc2449'>
 <front>
 <title>POP3 Extension Mechanism</title>
-<author initials='R.' surname='Gellens' fullname='Randall Gellens'>
-<organization>QUALCOMM Incorporated</organization>
-<address>
-<postal>
-<street>6455 Lusk Blvd.</street>
-<street>San Diego</street>
-<street>CA  92121-2779</street>
-<country>USA</country></postal>
-<phone>+1 619 651 5115</phone>
-<facsimile>+1 619 845 7268</facsimile>
-<email>randy@qualcomm.com</email></address></author>
-<author initials='C.' surname='Newman' fullname='Chris Newman'>
-<organization>Innosoft International, Inc.</organization>
-<address>
-<postal>
-<street>1050 Lakes Drive</street>
-<street>West Covina</street>
-<street>CA 91790</street>
-<country>USA</country></postal>
-<email>chris.newman@innosoft.com</email></address></author>
-<author initials='L.' surname='Lundblade' fullname='Laurence Lundblade'>
-<organization>QUALCOMM Incorporated</organization>
-<address>
-<postal>
-<street>6455 Lusk Blvd.</street>
-<street>San Diego</street>
-<street>92121-2779</street>
-<country>USA</country></postal>
-<phone>+1 619 658 3584</phone>
-<facsimile>+1 619 845 7268</facsimile>
-<email>lgl@qualcomm.com</email></address></author>
+<author initials='R.' surname='Gellens' fullname='R. Gellens'><organization /></author>
+<author initials='C.' surname='Newman' fullname='C. Newman'><organization /></author>
+<author initials='L.' surname='Lundblade' fullname='L. Lundblade'><organization /></author>
 <date year='1998' month='November' />
-<area>Applications</area>
-<keyword>post office protocol</keyword>
-<keyword>POP</keyword>
-<note title='IESG Note'>
-<t>
-   This extension to the POP3 protocol is to be used by a server to
-   express policy descisions taken by the server administrator.  It is
-   not an endorsement of implementations of further POP3 extensions
-   generally.  It is the general view that the POP3 protocol should stay
-   simple, and for the simple purpose of downloading email from a mail
-   server.  If more complicated operations are needed, the IMAP protocol
-   [RFC 2060] should be used.  The first paragraph of section 7 should
-   be read very carefully.
-</t></note></front>
-
-<seriesInfo name='RFC' value='2449' />
-<format type='TXT' octets='36017' target='http://www.rfc-editor.org/rfc/rfc2449.txt' />
-<format type='XML' octets='38069' target='http://xml.resource.org/public/rfc/xml/rfc2449.xml' />
+<abstract><t>This memo updates RFC 1939 to define a mechanism to announce support for optional commands, extensions, and unconditional server behavior. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2449'/>
+<seriesInfo name='DOI' value='10.17487/RFC2449'/>
 </reference>

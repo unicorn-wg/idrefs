@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1567'>
-
+<reference  anchor='RFC1567' target='http://www.rfc-editor.org/info/rfc1567'>
 <front>
 <title>X.500 Directory Monitoring MIB</title>
-<author initials='G.' surname='Mansfield' fullname='Glenn Mansfield'>
-<organization>AIC Systems Laboratories</organization>
-<address>
-<postal>
-<street>6-6-3 Minami Yoshinari</street>
-<city>Aoba-ku</city>
-<region>Sendai</region>
-<code>989-32</code>
-<country>JP</country></postal>
-<phone>+81 22 2793310</phone>
-<email>glenn@aic.co.jp</email></address></author>
-<author initials='S.' surname='Kille' fullname='Steve E. Kille'>
-<organization>ISODE Consortium</organization>
-<address>
-<postal>
-<street>The Dome, The Square</street>
-<city>Richmond</city>
-<region>England</region>
-<code>TW9 1DT</code>
-<country>UK</country></postal>
-<phone>+44 81 3329091</phone>
-<email>S.Kille@isode.com</email></address></author>
+<author initials='G.' surname='Mansfield' fullname='G. Mansfield'><organization /></author>
+<author initials='S.' surname='Kille' fullname='S. Kille'><organization /></author>
 <date year='1994' month='January' />
-<abstract>
-<t>This document defines a portion of the Management Information Base (MIB).  It defines the MIB for monitoring Directory System Agents (DSA), a component of the OSI Directory. This MIB will be used in conjunction with the APPLICATION-MIB for monitoring DSAs.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1567' />
-<format type='TXT' octets='33527' target='http://www.rfc-editor.org/rfc/rfc1567.txt' />
+<abstract><t>This document defines a portion of the Management Information Base (MIB).  It defines the MIB for monitoring Directory System Agents (DSA), a component of the OSI Directory. This MIB will be used in conjunction with the APPLICATION-MIB for monitoring DSAs. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1567'/>
+<seriesInfo name='DOI' value='10.17487/RFC1567'/>
 </reference>

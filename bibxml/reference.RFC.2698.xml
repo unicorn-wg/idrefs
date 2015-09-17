@@ -1,40 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2698'>
-
+<reference  anchor='RFC2698' target='http://www.rfc-editor.org/info/rfc2698'>
 <front>
-<title abbrev='A Two Rate Three Color Marker'>A Two Rate Three Color Marker</title>
-<author initials='J.' surname='Heinanen' fullname='Juha Heinanen'>
-<organization>Telia Finland, Inc.</organization>
-<address>
-<postal>
-<street>Myyrmaentie 2</street>
-<city>Vantaa</city>
-<code>01600</code>
-<country>FI</country></postal>
-<email>jh@telia.fi</email></address></author>
-<author initials='R.' surname='Guerin' fullname='Roch Guerin'>
-<organization>University of Pennsylvania</organization>
-<address>
-<postal>
-<street>Department of Electrical Engineering</street>
-<street>Room 367 GRW</street>
-<street>200 South 33rd Street</street>
-<city>Philadelphia</city>
-<region>PA</region>
-<code>19104</code>
-<country>US</country></postal>
-<email>guerin@ee.upenn.edu</email></address></author>
+<title>A Two Rate Three Color Marker</title>
+<author initials='J.' surname='Heinanen' fullname='J. Heinanen'><organization /></author>
+<author initials='R.' surname='Guerin' fullname='R. Guerin'><organization /></author>
 <date year='1999' month='September' />
-<abstract>
-<t>This document defines a Two Rate Three Color Marker (trTCM), which can be used as a component in a Diffserv traffic conditioner [RFC2475, RFC2474]. 
-The trTCM meters an IP packet stream and marks its packets based on
-two rates, Peak Information Rate (PIR) and Committed Information Rate
-(CIR), and their associated burst sizes to be either green, yellow, or
-red. A packet is marked red if it exceeds the PIR.
-Otherwise it is marked either yellow or green depending on whether it
-exceeds or doesn't exceed the CIR.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2698' />
-<format type='TXT' octets='9368' target='http://www.rfc-editor.org/rfc/rfc2698.txt' />
+<abstract><t>This document defines a Two Rate Three Color Marker (trTCM), which can be used as a component in a Diffserv traffic conditioner.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2698'/>
+<seriesInfo name='DOI' value='10.17487/RFC2698'/>
 </reference>

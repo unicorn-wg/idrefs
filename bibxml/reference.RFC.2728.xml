@@ -1,44 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2728'>
-
+<reference  anchor='RFC2728' target='http://www.rfc-editor.org/info/rfc2728'>
 <front>
-<title abbrev='IPVBI'>The Transmission of IP Over the Vertical Blanking Interval of a Television Signal</title>
-<author initials='R.' surname='Panabaker' fullname='Ruston Panabaker'>
-<organization>Microsoft</organization>
-<address>
-<postal>
-<street>One Microsoft Way</street>
-<city>Redmond</city>
-<region>WA</region>
-<code>98052</code>
-<country>US</country></postal>
-<email>rustonp@microsoft.com</email></address></author>
-<author initials='S.' surname='Wegerif' fullname='Simon Wegerif'>
-<organization>Philips Semiconductors</organization>
-<address>
-<postal>
-<street>811 E. Arques Avenue, M/S 52</street>
-<street>P.O. Box 3409</street>
-<city>Sunnyvale</city>
-<region>CA</region>
-<code>94088-3409</code>
-<country>US</country></postal>
-<email>Simon.Wegerif@sv.sc.philips.com</email></address></author>
-<author initials='D.' surname='Zigmond' fullname='Dan Zigmond'>
-<organization>WebTV Networks</organization>
-<address>
-<postal>
-<street>One Microsoft Way</street>
-<city>Redmond</city>
-<region>WA</region>
-<code>98052</code>
-<country>US</country></postal>
-<email>djz@corp.webtv.net</email></address></author>
+<title>The Transmission of IP Over the Vertical Blanking Interval of a Television Signal</title>
+<author initials='R.' surname='Panabaker' fullname='R. Panabaker'><organization /></author>
+<author initials='S.' surname='Wegerif' fullname='S. Wegerif'><organization /></author>
+<author initials='D.' surname='Zigmond' fullname='D. Zigmond'><organization /></author>
 <date year='1999' month='November' />
-<abstract>
-<t>This document describes a method for broadcasting IP data in a unidirectional manner using the vertical blanking interval of television signals.  It includes a description for compressing IP headers on unidirectional networks, a framing protocol identical to SLIP, a forward error correction scheme, and the NABTS byte structures.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2728' />
-<format type='TXT' octets='49099' target='http://www.rfc-editor.org/rfc/rfc2728.txt' />
+<abstract><t>This document describes a method for broadcasting IP data in a unidirectional manner using the vertical blanking interval of television signals.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2728'/>
+<seriesInfo name='DOI' value='10.17487/RFC2728'/>
 </reference>

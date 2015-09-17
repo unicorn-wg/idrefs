@@ -1,26 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2765'>
-
+<reference  anchor='RFC2765' target='http://www.rfc-editor.org/info/rfc2765'>
 <front>
-<title abbrev='SIIT'>Stateless IP/ICMP Translation Algorithm (SIIT)</title>
-<author initials='E.' surname='Nordmark' fullname='Erik Nordmark'>
-<organization>Sun Microsystems, Inc.</organization>
-<address>
-<postal>
-<street>901 San Antonio Road</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94303</code>
-<country>US</country></postal>
-<phone>+1 650 786 5166</phone>
-<facsimile>+1 650 786 5896</facsimile>
-<email>nordmark@sun.com</email></address></author>
+<title>Stateless IP/ICMP Translation Algorithm (SIIT)</title>
+<author initials='E.' surname='Nordmark' fullname='E. Nordmark'><organization /></author>
 <date year='2000' month='February' />
-<abstract>
-<t>This document specifies a transition mechanism algorithm in addition to the mechanisms already specified in. The algorithm translates between IPv4 and IPv6 packet headers (including ICMP headers) in separate translator "boxes" in the network without requiring any per-connection state in those "boxes".  This new
-   algorithm can be used as part of a solution that allows IPv6 hosts, which do not have a permanently assigned IPv4 addresses, to communicate with IPv4-only hosts.  The document neither specifies address assignment nor routing to and from the IPv6 hosts when they communicate with the IPv4-only hosts.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2765' />
-<format type='TXT' octets='59465' target='http://www.rfc-editor.org/rfc/rfc2765.txt' />
+<abstract><t>This document specifies a transition mechanism algorithm in addition to the mechanisms already specified.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2765'/>
+<seriesInfo name='DOI' value='10.17487/RFC2765'/>
 </reference>

@@ -1,17 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC4926'>
-
+<reference  anchor='RFC4926' target='http://www.rfc-editor.org/info/rfc4926'>
 <front>
 <title>A URN Namespace for GEANT</title>
-<author>
-<organization>T.Kalin</organization></author>
-<author>
-<organization>M.Molina</organization></author>
+<author initials='T.Kalin' surname='' fullname='T.Kalin'><organization /></author>
+<author initials='M.Molina' surname='' fullname='M.Molina'><organization /></author>
 <date year='2007' month='July' />
-<abstract>
-<t>This document describes a proposed URN (Uniform Resource Name) namespace that would be managed by DANTE, representing European Research and academic networks, for naming persistent resources defined by GEANT, the Consortium of European Academic and Research Networks, its projects, activities, working groups, and other designated subordinates.  This memo provides information for the Internet community.</t></abstract></front>
-
-<seriesInfo name='RFC' value='4926' />
-<format type='TXT' octets='16672' target='http://www.rfc-editor.org/rfc/rfc4926.txt' />
+<abstract><t>This document describes a proposed URN (Uniform Resource Name) namespace that would be managed by DANTE, representing European Research and academic networks, for naming persistent resources defined by GEANT, the Consortium of European Academic and Research Networks, its projects, activities, working groups, and other designated subordinates.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='4926'/>
+<seriesInfo name='DOI' value='10.17487/RFC4926'/>
 </reference>

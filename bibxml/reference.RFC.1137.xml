@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1137'>
-
+<reference  anchor='RFC1137' target='http://www.rfc-editor.org/info/rfc1137'>
 <front>
-<title abbrev='E-Mail Address and Quoted Strings'>Mapping between full RFC 822 and RFC 822 with restricted encoding</title>
-<author initials='S.' surname='Kille' fullname='Steve Kille'>
-<organization>University College London (UCL)</organization>
-<address>
-<postal>
-<street>Gower Street</street>
-<city>London</city>
-<region>England</region>
-<code>WC1E 6BT</code>
-<country>UK</country></postal>
-<phone>+44 1 3807294</phone>
-<email>S.Kille@Cs.Ucl.AC.UK</email></address></author>
-<date year='1989' day='1' month='December' /></front>
-
-<seriesInfo name='RFC' value='1137' />
-<format type='TXT' octets='6266' target='http://www.rfc-editor.org/rfc/rfc1137.txt' />
+<title>Mapping between full RFC 822 and RFC 822 with restricted encoding</title>
+<author initials='S.' surname='Kille' fullname='S. Kille'><organization /></author>
+<date year='1989' month='December' />
+<abstract><t>This RFC suggests an electronic mail protocol mapping for the Internet community and UK Academic Community, and requests discussion and suggestions for improvements.  This memo does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1137'/>
+<seriesInfo name='DOI' value='10.17487/RFC1137'/>
 </reference>

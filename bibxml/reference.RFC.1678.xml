@@ -1,37 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1678'>
-
+<reference  anchor='RFC1678' target='http://www.rfc-editor.org/info/rfc1678'>
 <front>
 <title>IPng Requirements of Large Corporate Networks</title>
-<author initials='E.' surname='Britton' fullname='Edward Britton'>
-<organization>IBM Corp.</organization>
-<address>
-<postal>
-<street>P.O.Box 12195</street>
-<street>E69/503</street>
-<city>Research Triangle Park</city>
-<region>NC</region>
-<code>27709</code>
-<country>US</country></postal>
-<phone>+1 919 254 6037</phone>
-<email>brittone@vnet.ibm.com</email></address></author>
-<author initials='J.' surname='Tavs' fullname='John Tavs'>
-<organization>IBM Corp.</organization>
-<address>
-<postal>
-<street>P.O.Box 12195</street>
-<street>E69/503</street>
-<city>Research Triangle Park</city>
-<region>NC</region>
-<code>27709</code>
-<country>US</country></postal>
-<phone>+1 919 245 7610</phone>
-<email>tavs@vnet.ibm.com</email></address></author>
+<author initials='E.' surname='Britton' fullname='E. Britton'><organization /></author>
+<author initials='J.' surname='Tavs' fullname='J. Tavs'><organization /></author>
 <date year='1994' month='August' />
-<abstract>
-<t>This document was submitted to the IETF IPng area in response to RFC 1550.  Publication of this document does not imply acceptance by the IPng area of any ideas expressed within.  Comments should be submitted to the big-internet@munnari.oz.au mailing list.  This draft summarizes some of the requirements of large corporate networks for the next generation of the Internet protcol suite.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1678' />
-<format type='TXT' octets='18650' target='http://www.rfc-editor.org/rfc/rfc1678.txt' />
+<abstract><t>This draft summarizes some of the requirements of large corporate networks for the next generation of the Internet protcol suite.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1678'/>
+<seriesInfo name='DOI' value='10.17487/RFC1678'/>
 </reference>

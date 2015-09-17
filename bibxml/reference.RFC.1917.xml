@@ -1,26 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1917'>
-
+<reference  anchor='RFC1917' target='http://www.rfc-editor.org/info/rfc1917'>
 <front>
-<title abbrev='Appeal to Return Unused IP Networks to IANA'>An Appeal to the Internet Community to Return Unused IP Networks (Prefixes) to the IANA</title>
-<author initials='P.' surname='Nesser' fullname='Philip J. Nesser II'>
-<organization>Nesser and Nesser Consulting</organization>
-<address>
-<postal>
-<street>16015 84th Ave. NE</street>
-<city>Bothell</city>
-<region>WA</region>
-<code>98011</code>
-<country>US</country></postal>
-<phone>+1 206 488 6268</phone>
-<facsimile>+1 206 488 6268</facsimile>
-<email>pjnesser@martigny.ai.mit.edu</email></address></author>
+<title>An Appeal to the Internet Community to Return Unused IP Networks (Prefixes) to the IANA</title>
+<author initials='P.' surname='Nesser II' fullname='P. Nesser II'><organization /></author>
 <date year='1996' month='February' />
-<abstract>
-<t>This document is an appeal to the Internet community to return unused address space, i.e. any block of consecutive IP prefixes, to the Internet Assigned Numbers Authority (IANA) or any of the delegated registries, for reapportionment.  Similarly an appeal is issued to providers to return unused prefixes which fall outside their customary address blocks to the IANA for reapportionment.</t></abstract></front>
-
-<seriesInfo name='BCP' value='4' />
-<seriesInfo name='RFC' value='1917' />
-<format type='TXT' octets='23623' target='http://www.rfc-editor.org/rfc/rfc1917.txt' />
+<abstract><t>This document is an appeal to the Internet community to return unused address space, i.e. any block of consecutive IP prefixes, to the Internet Assigned Numbers Authority (IANA) or any of the delegated registries, for reapportionment.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t></abstract>
+</front>
+<seriesInfo name='BCP' value='4'/>
+<seriesInfo name='RFC' value='1917'/>
+<seriesInfo name='DOI' value='10.17487/RFC1917'/>
 </reference>

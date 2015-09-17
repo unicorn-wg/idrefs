@@ -1,17 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0607'>
-
+<reference  anchor='RFC0607' target='http://www.rfc-editor.org/info/rfc607'>
 <front>
 <title>Comments on the File Transfer Protocol</title>
-<author initials='M.' surname='Krilanovich' fullname='Mark Krilanovich'>
-<organization>University of California, Santa Barbara (UCSB)</organization></author>
-<author initials='G.' surname='Gregg' fullname='George Gregg'>
-<organization>University of California, Santa Barbara (UCSB)</organization></author>
-<date year='1974' day='7' month='January' />
-<abstract>
-<t>There are several aspects of the File Transfer Protocol that constitute serious drawbacks.</t></abstract></front>
-
-<seriesInfo name='RFC' value='607' />
-<format type='TXT' octets='8652' target='http://www.rfc-editor.org/rfc/rfc607.txt' />
+<author initials='M.' surname='Krilanovich' fullname='M. Krilanovich'><organization /></author>
+<author initials='G.' surname='Gregg' fullname='G. Gregg'><organization /></author>
+<date year='1974' month='January' />
+<abstract><t>An old version; see RFC 624; see also RFCs 614, 542 and 640.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='607'/>
+<seriesInfo name='DOI' value='10.17487/RFC0607'/>
 </reference>

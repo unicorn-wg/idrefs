@@ -1,33 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1236'>
-
+<reference  anchor='RFC1236' target='http://www.rfc-editor.org/info/rfc1236'>
 <front>
 <title>IP to X.121 address mapping for DDN</title>
-<author initials='L.' surname='Morales' fullname='Luis F. Morales, Jr.'>
-<organization>United States Army Information Systems Engineering Command (USAISEC)</organization>
-<address>
-<postal>
-<street>ASQB-SEP-C</street>
-<city>Fort Huachuca</city>
-<region>AZ</region>
-<code>85613-5300</code>
-<country>US</country></postal>
-<phone>+1 602 533 2873</phone>
-<email>lmorales@huachuca-emh8.army.mil</email></address></author>
-<author initials='P.' surname='Hasse' fullname='Phillip R. Hasse'>
-<organization>United States Army Information Systems Engineering Command (USAISEC)</organization>
-<address>
-<postal>
-<street>ASQB-SEP-C</street>
-<city>Fort Huachuca</city>
-<region>AZ</region>
-<code>85613-5300</code>
-<country>US</country></postal>
-<phone>+1 602 533 2873</phone>
-<email>phasse@huachuca-emh8.army.mil</email></address></author>
-<date year='1991' day='1' month='June' /></front>
-
-<seriesInfo name='RFC' value='1236' />
-<format type='TXT' octets='12626' target='http://www.rfc-editor.org/rfc/rfc1236.txt' />
+<author initials='L.' surname='Morales' fullname='L. Morales'><organization /></author>
+<author initials='P.' surname='Hasse' fullname='P. Hasse'><organization /></author>
+<date year='1991' month='June' />
+<abstract><t>This memo defines a standard way of converting IP addresses to CCITT X.121 addresses and is the recommended standard for use on the Internet, specifically for the Defense Data Network (DDN).  This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1236'/>
+<seriesInfo name='DOI' value='10.17487/RFC1236'/>
 </reference>

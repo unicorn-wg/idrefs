@@ -1,38 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2526'>
-
+<reference  anchor='RFC2526' target='http://www.rfc-editor.org/info/rfc2526'>
 <front>
 <title>Reserved IPv6 Subnet Anycast Addresses</title>
-<author initials='D.' surname='Johnson' fullname='David B. Johnson'>
-<organization>Carnegie Mellon University</organization>
-<address>
-<postal>
-<street>Computer Science Department</street>
-<street>5000 Forbes Avenue</street>
-<city>Pittsburgh</city>
-<region>PA</region>
-<code>15213-3891</code>
-<country>US</country></postal>
-<phone>+1 412 268 7399</phone>
-<facsimile>+1 412 268 5576</facsimile>
-<email>dbj@cs.cmu.edu</email></address></author>
-<author initials='S.' surname='Deering' fullname='Stephen E. Deering'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134-1706</code>
-<country>US</country></postal>
-<phone>+1 408 527 8213</phone>
-<facsimile>+1 408 527 8254</facsimile>
-<email>deering@cisco.com</email></address></author>
+<author initials='D.' surname='Johnson' fullname='D. Johnson'><organization /></author>
+<author initials='S.' surname='Deering' fullname='S. Deering'><organization /></author>
 <date year='1999' month='March' />
-<abstract>
-<t>The IP Version 6 addressing architecture defines an 'anycast' address as an IPv6 address that is assigned to one or more network interfaces (typically belonging to different nodes), with the property that a packet sent to an anycast address is routed to the 'nearest' interface having that address, according to the routing protocols' measure of distance. This document defines a set of reserved anycast addresses within each subnet prefix, and lists the initial allocation of these reserved subnet anycast addresses.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2526' />
-<format type='TXT' octets='14555' target='http://www.rfc-editor.org/rfc/rfc2526.txt' />
+<abstract><t>This document defines a set of reserved  anycast addresses within each subnet prefix, and lists the initial allocation of these reserved subnet anycast addresses.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2526'/>
+<seriesInfo name='DOI' value='10.17487/RFC2526'/>
 </reference>

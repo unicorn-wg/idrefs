@@ -1,38 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2538'>
-
+<reference  anchor='RFC2538' target='http://www.rfc-editor.org/info/rfc2538'>
 <front>
-<title abbrev='Storing Certificates in the DNS'>Storing Certificates in the Domain Name System (DNS)</title>
-<author initials='D.E.' surname='Eastlake' fullname='Donald E. Eastlake 3rd'>
-<organization>IBM</organization>
-<address>
-<postal>
-<street>65 Shindegan Hill Road</street>
-<street>RR#1</street>
-<city>Carmel</city>
-<region>NY</region>
-<code>10512</code>
-<country>US</country></postal>
-<phone>+1 914 784 7913</phone>
-<facsimile>+1 914 784 3833</facsimile>
-<email>dee3@us.ibm.com</email></address></author>
-<author initials='O.' surname='Gudmundsson' fullname='Olafur Gudmundsson'>
-<organization>TIS Labs at Network Associates</organization>
-<address>
-<postal>
-<street>3060 Washington Rd</street>
-<street>Route 97</street>
-<city>Glenwood</city>
-<region>MD</region>
-<code>21738</code>
-<country>US</country></postal>
-<phone>+1 443 259 2389</phone>
-<email>ogud@tislabs.com</email></address></author>
+<title>Storing Certificates in the Domain Name System (DNS)</title>
+<author initials='D.' surname='Eastlake 3rd' fullname='D. Eastlake 3rd'><organization /></author>
+<author initials='O.' surname='Gudmundsson' fullname='O. Gudmundsson'><organization /></author>
 <date year='1999' month='March' />
-<abstract>
-<t>Cryptographic public key are frequently published and their authenticity demonstrated by certificates.  A CERT resource record (RR) is defined so that such certificates and related certificate revocation lists can be stored in the Domain Name System (DNS).</t></abstract></front>
-
-<seriesInfo name='RFC' value='2538' />
-<format type='TXT' octets='19857' target='http://www.rfc-editor.org/rfc/rfc2538.txt' />
+<abstract><t>Cryptographic public key are frequently published and their authenticity demonstrated by certificates.  A CERT resource record (RR) is defined so that such certificates and related certificate revocation lists can be stored in the Domain Name System (DNS).  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2538'/>
+<seriesInfo name='DOI' value='10.17487/RFC2538'/>
 </reference>

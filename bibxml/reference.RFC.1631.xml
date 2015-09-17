@@ -1,37 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1631'>
-
+<reference  anchor='RFC1631' target='http://www.rfc-editor.org/info/rfc1631'>
 <front>
-<title abbrev='Network Address Translator'>The IP Network Address Translator (NAT)</title>
-<author initials='K.B.' surname='Egevang' fullname='Kjeld Borch Egevang'>
-<organization>Cray Communications</organization>
-<address>
-<postal>
-<street>Smedeholm 12-14</street>
-<city>Herlev</city>
-<region />
-<code>DK-2730</code>
-<country>DK</country></postal>
-<phone>+45 44 530100</phone>
-<email>kbe@craycom.dk</email></address></author>
-<author initials='P.' surname='Francis' fullname='Paul Francis'>
-<organization>NTT Software Lab</organization>
-<address>
-<postal>
-<street>3-9-11 Midori-cho Musashino-shi</street>
-<city>Tokyo</city>
-<region />
-<code>180</code>
-<country>JP</country></postal>
-<phone>+81 422 593843</phone>
-<facsimile>+81 422 593765</facsimile>
-<email>francis@cactus.ntt.jp</email></address></author>
+<title>The IP Network Address Translator (NAT)</title>
+<author initials='K.' surname='Egevang' fullname='K. Egevang'><organization /></author>
+<author initials='P.' surname='Francis' fullname='P. Francis'><organization /></author>
 <date year='1994' month='May' />
-<abstract>
-<t>The two most compelling problems facing the IP Internet are IP address depletion and scaling in routing. Long-term and short-term solutions to these problems are being developed. The short-term solution is CIDR (Classless InterDomain Routing). The long-term solutions consist of various proposals for new internet protocols with larger addresses.</t>
-<t>It is possible that CIDR will not be adequate to maintain the IP Internet until the long-term solutions are in place. This memo proposes another short-term solution, address reuse, that complements CIDR or even makes it unnecessary. The address reuse solution is to place Network Address Translators (NAT) at the borders of stub domains. Each NAT box has a table consisting of pairs of local IP addresses and globally unique addresses. The IP addresses inside the stub domain are not globally unique. They are reused in other domains, thus solving the address depletion problem. The globally unique IP addresses are assigned according to current CIDR address allocation schemes. CIDR solves the scaling problem. The main advantage of NAT is that it can be installed without changes to routers or hosts. This memo presents a preliminary design for NAT, and discusses its pros and cons.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1631' />
-<format type='TXT' octets='22714' target='http://www.rfc-editor.org/rfc/rfc1631.txt' />
+<abstract><t>This memo proposes another short-term solution, address reuse, that complements CIDR or even makes it unnecessary. The address reuse solution is to place Network Address Translators (NAT) at the borders of stub domains.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1631'/>
+<seriesInfo name='DOI' value='10.17487/RFC1631'/>
 </reference>

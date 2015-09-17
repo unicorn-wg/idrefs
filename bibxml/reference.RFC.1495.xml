@@ -1,66 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1495'>
-
+<reference  anchor='RFC1495' target='http://www.rfc-editor.org/info/rfc1495'>
 <front>
-<title abbrev='MHS/RFC-822 Message Body Mapping'>Mapping between X.400 and RFC-822 Message Bodies</title>
-<author initials='H.T.' surname='Alvestrand' fullname='Harald Tveit Alvestrand'>
-<organization>SINTEF DELAB</organization>
-<address>
-<postal>
-<street />
-<city>Trondheim</city>
-<region />
-<code>N-7034</code>
-<country>NO</country></postal>
-<email>Harald.Alvestrand@delab.sintef.no</email></address></author>
-<author initials='S.' surname='Kille' fullname='Steve Kille'>
-<organization>ISODE Consortium</organization>
-<address>
-<postal>
-<street>POB 505</street>
-<city>London</city>
-<region>England</region>
-<code>SW11 1DX</code>
-<country>UK</country></postal>
-<phone>+44 71 2234062</phone>
-<email>S.Kille@ISODE.COM</email></address></author>
-<author initials='R.S.' surname='Miles' fullname='Robert S. Miles'>
-<organization>Soft*Switch, Inc.</organization>
-<address>
-<postal>
-<street>640 Lee Road</street>
-<city>Wayne</city>
-<region>PA</region>
-<code>19087</code>
-<country>US</country></postal>
-<phone>+1 215 640 7556</phone>
-<email>rsm@spyder.ssw.com</email></address></author>
-<author initials='M.T.' surname='Rose' fullname='Marshall T. Rose'>
-<organization>Dover Beach Consulting, Inc.</organization>
-<address>
-<postal>
-<street>420 Whisman Court</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043-2186</code>
-<country>US</country></postal>
-<phone>+1 415 968 1052</phone>
-<facsimile>+1 415 968 2510</facsimile>
-<email>mrose@dbc.mtview.ca.us</email></address></author>
-<author initials='S.J.' surname='Thompson' fullname='Steven J. Thompson'>
-<organization>Soft*Switch, Inc.</organization>
-<address>
-<postal>
-<street>640 Lee Road</street>
-<city>Wayne</city>
-<region>PA</region>
-<code>19087</code>
-<country>US</country></postal>
-<phone>+1 215 640 7556</phone>
-<email>sjt@gateway.ssw.com</email></address></author>
-<date year='1993' month='August' /></front>
-
-<seriesInfo name='RFC' value='1495' />
-<format type='TXT' octets='20071' target='http://www.rfc-editor.org/rfc/rfc1495.txt' />
+<title>Mapping between X.400 and RFC-822 Message Bodies</title>
+<author initials='H.' surname='Alvestrand' fullname='H. Alvestrand'><organization /></author>
+<author initials='S.' surname='Kille' fullname='S. Kille'><organization /></author>
+<author initials='R.' surname='Miles' fullname='R. Miles'><organization /></author>
+<author initials='M.' surname='Rose' fullname='M. Rose'><organization /></author>
+<author initials='S.' surname='Thompson' fullname='S. Thompson'><organization /></author>
+<date year='1993' month='August' />
+<abstract><t>Since the introduction of X.400(84), there has been work ongoing for defining mappings between MHS and RFC-822.  The most recent work in this area is RFC-1327 [3], which focuses primarily on translation of envelope and headers.  This document is complimentary to RFC-1327 as it focuses on translation of the message body.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1495'/>
+<seriesInfo name='DOI' value='10.17487/RFC1495'/>
 </reference>

@@ -1,46 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1646'>
-
+<reference  anchor='RFC1646' target='http://www.rfc-editor.org/info/rfc1646'>
 <front>
-<title abbrev='TN3270 Extensions'>TN3270 Extensions for LUname and Printer Selection</title>
-<author initials='C.' surname='Graves' fullname='Cleve Graves'>
-<organization />
-<address>
-<postal>
-<street>2711 LBJ Freeway</street>
-<city>Dallas</city>
-<region>TX</region>
-<code>75234</code>
-<country>US</country></postal>
-<phone>+1 214 484 5200</phone>
-<email>cvg@oc.com</email></address></author>
-<author initials='T.' surname='Butts' fullname='Thomas Butts'>
-<organization />
-<address>
-<postal>
-<street>2711 LBJ Freeway</street>
-<city>Dallas</city>
-<region>TX</region>
-<code>75234</code>
-<country>US</country></postal>
-<phone>+1 214 484 5200</phone>
-<email>tom@oc.com</email></address></author>
-<author initials='M.' surname='Angel' fullname='Michelle Angel'>
-<organization />
-<address>
-<postal>
-<street>2711 LBJ Freeway</street>
-<city>Dallas</city>
-<region>TX</region>
-<code>75234</code>
-<country>US</country></postal>
-<phone>+1 214 484 5200</phone>
-<email>angel@oc.com</email></address></author>
+<title>TN3270 Extensions for LUname and Printer Selection</title>
+<author initials='C.' surname='Graves' fullname='C. Graves'><organization /></author>
+<author initials='T.' surname='Butts' fullname='T. Butts'><organization /></author>
+<author initials='M.' surname='Angel' fullname='M. Angel'><organization /></author>
 <date year='1994' month='July' />
-<abstract>
-<t>This document describes protocol extensions to TN3270. There are two extensions outlined in this document. The first defines a way by which a TN3270 client can request a specific device (LUname) from a TN3270 server. The second extension specifies how a TN3270 printer device can be requested by a TN3270 client and the manner in which the 3270 printer status information can be sent to the TN3270 server. Discussions and suggestions for improvements to these enhancements should be sent to the TN3270E Working Group mailing list TN3270E@list.nih.gov. These extensions will be called TN3287 in this document. This information is being provided to members of the Internet community that want to support the 3287 data stream within the TELNET protocol.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1646' />
-<format type='TXT' octets='27564' target='http://www.rfc-editor.org/rfc/rfc1646.txt' />
+<abstract><t>This document describes protocol extensions to TN3270.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1646'/>
+<seriesInfo name='DOI' value='10.17487/RFC1646'/>
 </reference>

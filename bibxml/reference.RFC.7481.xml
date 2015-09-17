@@ -1,17 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC7481'>
-
+<reference  anchor='RFC7481' target='http://www.rfc-editor.org/info/rfc7481'>
 <front>
 <title>Security Services for the Registration Data Access Protocol (RDAP)</title>
-<author initials='S.' surname='Hollenbeck' fullname='S. Hollenbeck'>
-<organization /></author>
-<author initials='N.' surname='Kong' fullname='N. Kong'>
-<organization /></author>
+<author initials='S.' surname='Hollenbeck' fullname='S. Hollenbeck'><organization /></author>
+<author initials='N.' surname='Kong' fullname='N. Kong'><organization /></author>
 <date year='2015' month='March' />
-<abstract>
-<t>The Registration Data Access Protocol (RDAP) provides "RESTful" web services to retrieve registration metadata from Domain Name and Regional Internet Registries.  This document describes information security services, including access control, authentication, authorization, availability, data confidentiality, and data integrity for RDAP.</t></abstract></front>
-
-<seriesInfo name='RFC' value='7481' />
-<format type='TXT' octets='29954' target='http://www.rfc-editor.org/rfc/rfc7481.txt' />
+<abstract><t>The Registration Data Access Protocol (RDAP) provides &quot;RESTful&quot; web services to retrieve registration metadata from Domain Name and Regional Internet Registries.  This document describes information security services, including access control, authentication, authorization, availability, data confidentiality, and data integrity for RDAP.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='7481'/>
+<seriesInfo name='DOI' value='10.17487/RFC7481'/>
 </reference>

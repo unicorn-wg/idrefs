@@ -1,18 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1942'>
-
+<reference  anchor='RFC1942' target='http://www.rfc-editor.org/info/rfc1942'>
 <front>
 <title>HTML Tables</title>
-<author initials='D.' surname='Raggett' fullname='Dave Raggett'>
-<organization abbrev='W3C'>The World Wide Web Consortium</organization>
-<address>
-<email>dsr@w3.org</email>
-<uri>http://www.w3.org/</uri></address></author>
+<author initials='D.' surname='Raggett' fullname='D. Raggett'><organization /></author>
 <date year='1996' month='May' />
-<abstract>
-<t>The HyperText Markup Language (HTML) is a simple markup language used to create hypertext documents that are portable from one platform to another. HTML documents are SGML documents with generic semantics that are appropriate for representing information from a wide range of applications. This specification xtends HTML to support a wide variety of tables. The model is designed to work well with associated style sheets, but does not require them. It also supports rendering to braille, or speech, and exchange of tabular data with databases and spreadsheets. The HTML table model embodies certain aspects of the CALS table model, e.g. the ability to group table rows into thead, tbody and tfoot sections, plus the ability to specify cell alignment compactly for sets of cells according to the context.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1942' />
-<format type='TXT' octets='68705' target='http://www.rfc-editor.org/rfc/rfc1942.txt' />
+<abstract><t>This specification extends HTML to support a wide variety of tables. This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1942'/>
+<seriesInfo name='DOI' value='10.17487/RFC1942'/>
 </reference>

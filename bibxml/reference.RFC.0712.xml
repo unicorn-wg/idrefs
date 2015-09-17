@@ -1,14 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0712'>
-
+<reference  anchor='RFC0712' target='http://www.rfc-editor.org/info/rfc712'>
 <front>
 <title>Distributed Capability Computing System (DCCS)</title>
-<author initials='J.E.' surname='Donnelley' fullname='J.E. Donnelley'>
-<organization /></author>
-<date year='1976' month='February' /></front>
-
-<seriesInfo name='RFC' value='712' />
-<format type='TXT' octets='40127' target='http://www.rfc-editor.org/rfc/rfc712.txt' />
-<format type='PDF' octets='1201164' target='http://www.rfc-editor.org/rfc/rfc712.pdf' />
+<author initials='J.E.' surname='Donnelley' fullname='J.E. Donnelley'><organization /></author>
+<date year='1976' month='February' />
+</front>
+<seriesInfo name='RFC' value='712'/>
+<seriesInfo name='DOI' value='10.17487/RFC0712'/>
 </reference>

@@ -1,38 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2276'>
-
+<reference  anchor='RFC2276' target='http://www.rfc-editor.org/info/rfc2276'>
 <front>
-<title abbrev='URN Resolution'>Architectural Principles of Uniform Resource Name Resolution</title>
-<author initials='K.' surname='Sollins' fullname='Karen Sollins'>
-<organization>MIT Laboratory for Computer Science</organization>
-<address>
-<postal>
-<street>545 Technology Sq.</street>
-<street>Cambridge</street>
-<street>MA 02139</street></postal>
-<phone>+1 617 253 6006</phone>
-<email>sollins@lcs.mit.edu</email></address></author>
+<title>Architectural Principles of Uniform Resource Name Resolution</title>
+<author initials='K.' surname='Sollins' fullname='K. Sollins'><organization /></author>
 <date year='1998' month='January' />
-<area>Applications</area>
-<keyword>security</keyword>
-<keyword>uniform resource</keyword>
-<abstract>
-<t>
-   This document addresses the issues of the discovery of URN (Uniform
-   Resource Name) resolver services that in turn will directly translate
-   URNs into URLs (Uniform Resource Locators) and URCs (Uniform Resource
-   Characteristics).  The document falls into three major parts, the
-   assumptions underlying the work, the guidelines in order to be a
-   viable Resolver Discovery Service or RDS, and a framework for
-   designing RDSs.  The guidelines fall into three principle areas:
-   evolvability, usability, and security and privacy.  An RDS that is
-   compliant with the framework will not necessarily be compliant with
-   the guidelines.  Compliance with the guidelines will need to be
-   validated separately.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2276' />
-<format type='TXT' octets='64811' target='http://www.rfc-editor.org/rfc/rfc2276.txt' />
-<format type='XML' octets='63656' target='http://xml.resource.org/public/rfc/xml/rfc2276.xml' />
+<abstract><t>This document addresses the issues of the discovery of URN (Uniform Resource Name) resolver services that in turn will directly translate URNs into URLs (Uniform Resource Locators) and URCs (Uniform Resource Characteristics).  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2276'/>
+<seriesInfo name='DOI' value='10.17487/RFC2276'/>
 </reference>

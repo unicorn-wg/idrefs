@@ -1,23 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1364'>
-
+<reference  anchor='RFC1364' target='http://www.rfc-editor.org/info/rfc1364'>
 <front>
 <title>BGP OSPF Interaction</title>
-<author initials='K.' surname='Varadhan' fullname='Kannan Varadhan'>
-<organization>OARnet</organization>
-<address>
-<postal>
-<street>1224 Kinnear Road</street>
-<city>Columbus</city>
-<region>OH</region>
-<code>43212-1136</code>
-<country>US</country></postal>
-<email>kannan@oar.net</email></address></author>
+<author initials='K.' surname='Varadhan' fullname='K. Varadhan'><organization /></author>
 <date year='1992' month='September' />
-<abstract>
-<t>This memo defines the various criteria to be used when designing Autonomous System Border Routers (ASBR) that will run BGP with other ASBRs external to the AS and OSPF as its IGP.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1364' />
-<format type='TXT' octets='32121' target='http://www.rfc-editor.org/rfc/rfc1364.txt' />
+</front>
+<seriesInfo name='RFC' value='1364'/>
+<seriesInfo name='DOI' value='10.17487/RFC1364'/>
 </reference>

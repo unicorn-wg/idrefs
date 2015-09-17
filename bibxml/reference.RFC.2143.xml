@@ -1,26 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2143'>
-
+<reference  anchor='RFC2143' target='http://www.rfc-editor.org/info/rfc2143'>
 <front>
-<title abbrev='Encapulating IP with SCSI'>Encapsulating IP with the Small Computer System Interface</title>
-<author initials='B.' surname='Elliston' fullname='Ben Elliston'>
-<organization>Compucat Research Pty Limited</organization>
-<address>
-<postal>
-<street>Box 7305 Canberra Mail Centre</street>
-<street>Canberra ACT 2610</street>
-<country>Australia</country></postal>
-<phone>+61 6 295 1331</phone>
-<facsimile>+61 6 295 1855</facsimile>
-<email>ben.elliston@compucat.com.au</email></address></author>
+<title>Encapsulating IP with the Small Computer System Interface</title>
+<author initials='B.' surname='Elliston' fullname='B. Elliston'><organization /></author>
 <date year='1997' month='May' />
-<area>Internet</area>
-<keyword>SCSI</keyword>
-<keyword>encapsulate</keyword></front>
-
-<seriesInfo name='RFC' value='2143' />
-<format type='TXT' octets='10749' target='http://www.rfc-editor.org/rfc/rfc2143.txt' />
-<format type='HTML' octets='24977' target='http://xml.resource.org/public/rfc/html/rfc2143.html' />
-<format type='XML' octets='11502' target='http://xml.resource.org/public/rfc/xml/rfc2143.xml' />
+<abstract><t>This document outlines a protocol for connecting hosts running the TCP/IP protocol suite over a Small Computer System Interface (SCSI) bus. This memo defines an Experimental Protocol for the Internet community. This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2143'/>
+<seriesInfo name='DOI' value='10.17487/RFC2143'/>
 </reference>

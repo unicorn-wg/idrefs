@@ -1,26 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2022'>
-
+<reference  anchor='RFC2022' target='http://www.rfc-editor.org/info/rfc2022'>
 <front>
-<title abbrev='Multicast over UNI 3.0/3.1 based ATM'>Support for Multicast over UNI 3.0/3.1 based ATM Networks</title>
-<author initials='G.' surname='Armitage' fullname='Grenville Armitage'>
-<organization>Bellcore</organization>
-<address>
-<postal>
-<street>445 South Street</street>
-<city>Morristown</city>
-<region>NJ</region>
-<code>07960</code>
-<country>US</country></postal>
-<phone>+1 201 829 2635</phone>
-<email>gja@thumper.bellcore.com</email></address></author>
+<title>Support for Multicast over UNI 3.0/3.1 based ATM Networks</title>
+<author initials='G.' surname='Armitage' fullname='G. Armitage'><organization /></author>
 <date year='1996' month='November' />
-<abstract>
-<t>Mapping the connectionless IP multicast service over the connection oriented ATM services provided by UNI 3.0/3.1 is a non-trivial task. This memo describes a mechanism to support the multicast needs of Layer 3 protocols in general, and describes its application to IP multicasting in particular.</t>
-<t>ATM based IP hosts and routers use a Multicast Address Resolution Server (MARS) to support RFC 1112 style Level 2 IP multicast over the ATM Forum's UNI 3.0/3.1 point to multipoint connection service.  Clusters of endpoints share a MARS and use it to track and disseminate information identifying the nodes listed as receivers for given multicast groups. This allows endpoints to establish and manage point to multipoint VCs when transmitting to the group.</t>
-<t>The MARS behaviour allows Layer 3 multicasting to be supported using either meshes of VCs or ATM level multicast servers. This choice may be made on a per-group basis, and is transparent to the endpoints.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2022' />
-<format type='TXT' octets='189219' target='http://www.rfc-editor.org/rfc/rfc2022.txt' />
+<abstract><t>This memo describes a mechanism to support the multicast needs of Layer 3 protocols in general, and describes its application to IP multicasting in particular.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2022'/>
+<seriesInfo name='DOI' value='10.17487/RFC2022'/>
 </reference>

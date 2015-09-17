@@ -1,59 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2341'>
-
+<reference  anchor='RFC2341' target='http://www.rfc-editor.org/info/rfc2341'>
 <front>
-<title abbrev='Cisco L2F'>Cisco Layer Two Forwarding (Protocol) "L2F"</title>
-<author initials='A.' surname='Valencia' fullname='Andy Valencia'>
-<organization>Cisco Systems</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<street>San Jose CA 95134-1706</street></postal>
-<email>valencia@cisco.com</email></address></author>
-<author initials='M.' surname='Littlewood' fullname='Morgan Littlewood'>
-<organization>Cisco Systems</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<street>San Jose CA 95134-1706</street></postal>
-<email>littlewo@cisco.com</email></address></author>
-<author initials='T.' surname='Kolar' fullname='Tim Kolar'>
-<organization>Cisco Systems</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<street>San Jose CA 95134-1706</street></postal>
-<email>tkolar@cisco.com</email></address></author>
+<title>Cisco Layer Two Forwarding (Protocol) &quot;L2F&quot;</title>
+<author initials='A.' surname='Valencia' fullname='A. Valencia'><organization /></author>
+<author initials='M.' surname='Littlewood' fullname='M. Littlewood'><organization /></author>
+<author initials='T.' surname='Kolar' fullname='T. Kolar'><organization /></author>
 <date year='1998' month='May' />
-<area>Internet</area>
-<keyword>tunnel</keyword>
-<abstract>
-<t>
-
-   Virtual dial-up allows many separate and autonomous protocol domains
-
-   to share common access infrastructure including modems, Access
-
-   Servers, and ISDN routers.  Previous RFCs have specified protocols
-
-   for supporting IP dial-up via SLIP [1] and multiprotocol dial-up via
-
-   PPP [2].  This document describes the Layer Two Forwarding protocol
-
-   (L2F) which permits the tunneling of the link layer (i.e., HDLC,
-
-   async HDLC, or SLIP frames) of higher level protocols.  Using such
-
-   tunnels, it is possible to divorce the location of the initial dial-
-
-   up server from the location at which the dial-up protocol connection
-
-   is terminated and access to the network provided.
-
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2341' />
-<format type='TXT' octets='66592' target='http://www.rfc-editor.org/rfc/rfc2341.txt' />
-<format type='XML' octets='65194' target='http://xml.resource.org/public/rfc/xml/rfc2341.xml' />
+<abstract><t>This document describes the Layer Two Forwarding protocol (L2F) which permits the tunneling of the link layer (i.e., HDLC, async HDLC, or SLIP frames) of higher level protocols.  This memo describes a historic protocol for the Internet community.  It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2341'/>
+<seriesInfo name='DOI' value='10.17487/RFC2341'/>
 </reference>

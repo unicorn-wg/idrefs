@@ -1,38 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1754'>
-
+<reference  anchor='RFC1754' target='http://www.rfc-editor.org/info/rfc1754'>
 <front>
-<title abbrev='IPATM WG ATM Forum Recommendations V1'>IP over ATM Working Group's Recommendations for the ATM Forum's Multiprotocol BOF Version 1</title>
-<author initials='M.' surname='Laubach' fullname='Mark Laubach'>
-<organization>Com21, Inc.</organization>
-<address>
-<postal>
-<street>2113 Landings Drive</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043</code>
-<country>US</country></postal>
-<phone>+1 415 254 5882</phone>
-<facsimile>+1 415 254 5883</facsimile>
-<email>laubach@com21.com</email></address></author>
-<author initials='D.' surname='Perkins' fullname='Drew Perkins'>
-<organization>FORE Systems, Inc.</organization>
-<address>
-<postal>
-<street>174 Thornhill Road</street>
-<city>Warrendale</city>
-<region>PA</region>
-<code>15086</code>
-<country>US</country></postal>
-<phone>+1 412 772 6527</phone>
-<facsimile>+1 412 772 6500</facsimile>
-<email>ddp@fore.com</email></address></author>
+<title>IP over ATM Working Group's Recommendations for the ATM Forum's Multiprotocol BOF Version 1</title>
+<author initials='M.' surname='Laubach' fullname='M. Laubach'><organization /></author>
 <date year='1995' month='January' />
-<abstract>
-<t>This document represents an initial list of requirements submitted to the ATM Forum's Multiprotocol BOF for the operation of IP over ATM networks as determined by the IETF IP over ATM Working Group and other working groups. This RFC is issued for the benefit of community members.  The information contained in this document is accurate as of the date of publication, but is subject to change.  Subsequent RFCs will reflect such changes.</t>
-<t>The content of this memo was submitted by the IETF Liaison to the ATM Forum as contribution number 94-0954 in the ATM Forum's documentation process on 14 September 1994.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1754' />
-<format type='TXT' octets='13483' target='http://www.rfc-editor.org/rfc/rfc1754.txt' />
+<abstract><t>This document represents an initial list of requirements submitted to the ATM Forum's Multiprotocol BOF for the operation of IP over ATM networks as determined by the IETF IP over ATM Working Group and other working groups. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1754'/>
+<seriesInfo name='DOI' value='10.17487/RFC1754'/>
 </reference>

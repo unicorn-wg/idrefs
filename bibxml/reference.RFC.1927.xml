@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1927'>
-
+<reference  anchor='RFC1927' target='http://www.rfc-editor.org/info/rfc1927'>
 <front>
-<title abbrev='MIME Types: Associating Documents'>Suggested Additional MIME Types for Associating Documents</title>
-<author initials='C.' surname='Rogers' fullname='Craig Milo Rogers'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511</phone>
-<email>rogers@isi.edu</email></address></author>
-<date year='1996' month='April' day='1' /></front>
-
-<seriesInfo name='RFC' value='1927' />
-<format type='TXT' octets='5254' target='http://www.rfc-editor.org/rfc/rfc1927.txt' />
+<title>Suggested Additional MIME Types for Associating Documents</title>
+<author initials='C.' surname='Rogers' fullname='C. Rogers'><organization /></author>
+<date year='1996' month='April' />
+<abstract><t>Seven new types of MIME types are suggested in this document.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1927'/>
+<seriesInfo name='DOI' value='10.17487/RFC1927'/>
 </reference>

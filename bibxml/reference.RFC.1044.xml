@@ -1,34 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1044'>
-
+<reference  anchor='RFC1044' target='http://www.rfc-editor.org/info/rfc1044'>
 <front>
-<title abbrev='IP on Network Systems HYPERchannel'>Internet Protocol on Network System's HYPERchannel: Protocol specification</title>
-<author initials='K.' surname='Hardwick' fullname='Ken Hardwick'>
-<organization>Network Systems Corporation</organization>
-<address>
-<postal>
-<street>7600 Boone Avenue North</street>
-<street>MS029</street>
-<city>Minneapolis</city>
-<region>MN</region>
-<code>55428</code>
-<country>US</country></postal>
-<phone>+1 612 424 1607</phone></address></author>
-<author initials='J.' surname='Lekashman' fullname='John Lekashman'>
-<organization>Nasa Ames Research Center. NASA/GE</organization>
-<address>
-<postal>
-<street>MS 258-6</street>
-<city>Moffett Field</city>
-<region>CA</region>
-<code>94035</code>
-<country>US</country></postal>
-<phone>+1 415 694 4359</phone>
-<email>lekash@orville.nas.nasa.gov</email></address></author>
-<date year='1988' day='1' month='February' /></front>
-
-<seriesInfo name='STD' value='45' />
-<seriesInfo name='RFC' value='1044' />
-<format type='TXT' octets='103241' target='http://www.rfc-editor.org/rfc/rfc1044.txt' />
+<title>Internet Protocol on Network System's HYPERchannel: Protocol Specification</title>
+<author initials='K.' surname='Hardwick' fullname='K. Hardwick'><organization /></author>
+<author initials='J.' surname='Lekashman' fullname='J. Lekashman'><organization /></author>
+<date year='1988' month='February' />
+<abstract><t>This memo intends to provide a complete discussion of the protocols and techniques used to embed DoD standard Internet Protocol datagrams (and its associated higher level protocols) on Network Systems Corporation's HYPERchannel equipment.  This document is directed toward network planners and implementors who are already familiar with the TCP/IP protocol suite and the techniques used to carry TCP/IP traffic on common networks such as the DDN or the Ethernet.  No great familiarity with NSC products is assumed; an appendix is devoted to a review of NSC technologies and protocols.</t></abstract>
+</front>
+<seriesInfo name='STD' value='45'/>
+<seriesInfo name='RFC' value='1044'/>
+<seriesInfo name='DOI' value='10.17487/RFC1044'/>
 </reference>

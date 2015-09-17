@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0638'>
-
+<reference  anchor='RFC0638' target='http://www.rfc-editor.org/info/rfc638'>
 <front>
 <title>IMP/TIP preventive maintenance schedule</title>
-<author initials='A.A.' surname='McKenzie' fullname='Alex A. McKenzie'>
-<organization>Bolt Baranek and Newman (BBN), NET</organization></author>
-<date year='1974' day='25' month='April' />
-<abstract>
-<t>This note presents the current IMP/TIP Preventive Maintenance schedule.  Preventive Maintenance is scheduled on a monthly basis and a given machine is normally scheduled at the same time each month; wherever possible the time is chosen to coincide with the PM time for the Host(s) at the site.</t></abstract></front>
-
-<seriesInfo name='RFC' value='638' />
-<format type='TXT' octets='4088' target='http://www.rfc-editor.org/rfc/rfc638.txt' />
+<author initials='A.M.' surname='McKenzie' fullname='A.M. McKenzie'><organization /></author>
+<date year='1974' month='April' />
+<abstract><t>Corrects RFC 633.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='638'/>
+<seriesInfo name='DOI' value='10.17487/RFC0638'/>
 </reference>

@@ -1,26 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2221'>
-
+<reference  anchor='RFC2221' target='http://www.rfc-editor.org/info/rfc2221'>
 <front>
 <title>IMAP4 Login Referrals</title>
-<author initials='M.' surname='Gahrns' fullname='Mike Gahrns'>
-<organization>Microsoft</organization>
-<address>
-<postal>
-<street>One Microsoft Way</street>
-<street>Redmond</street>
-<street>WA</street>
-<street>98072</street></postal>
-<phone>(206) 936-9833</phone>
-<email>mikega@microsoft.com</email></address></author>
+<author initials='M.' surname='Gahrns' fullname='M. Gahrns'><organization /></author>
 <date year='1997' month='October' />
-<area>Applications</area>
-<keyword>IMAP</keyword>
-<keyword>internet message access protocol</keyword></front>
-
-<seriesInfo name='RFC' value='2221' />
-<format type='TXT' octets='9251' target='http://www.rfc-editor.org/rfc/rfc2221.txt' />
-<format type='HTML' octets='22483' target='http://xml.resource.org/public/rfc/html/rfc2221.html' />
-<format type='XML' octets='8555' target='http://xml.resource.org/public/rfc/xml/rfc2221.xml' />
+<abstract><t>When dealing with large amounts of users and many IMAP4 [RFC-2060] servers, it is often necessary to move users from one IMAP4 server to another.  Login referrals allow clients to transparently connect to an alternate IMAP4 server, if their home IMAP4 server has changed. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2221'/>
+<seriesInfo name='DOI' value='10.17487/RFC2221'/>
 </reference>

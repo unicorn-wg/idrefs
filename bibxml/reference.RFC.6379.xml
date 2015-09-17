@@ -1,17 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC6379'>
-
+<reference  anchor='RFC6379' target='http://www.rfc-editor.org/info/rfc6379'>
 <front>
 <title>Suite B Cryptographic Suites for IPsec</title>
-<author initials='L.' surname='Law' fullname='L. Law'>
-<organization /></author>
-<author initials='J.' surname='Solinas' fullname='J. Solinas'>
-<organization /></author>
+<author initials='L.' surname='Law' fullname='L. Law'><organization /></author>
+<author initials='J.' surname='Solinas' fullname='J. Solinas'><organization /></author>
 <date year='2011' month='October' />
-<abstract>
-<t>This document proposes four cryptographic user interface suites ("UI suites") for IP Security (IPsec), similar to the two suites specified in RFC 4308.  The four new suites provide compatibility with the United States National Security Agency's Suite B specifications.  This document obsoletes RFC 4869, which presented earlier versions of these suites.  This document is not an Internet Standards Track specification; it is published for informational purposes.</t></abstract></front>
-
-<seriesInfo name='RFC' value='6379' />
-<format type='TXT' octets='12624' target='http://www.rfc-editor.org/rfc/rfc6379.txt' />
+<abstract><t>This document proposes four cryptographic user interface suites (&quot;UI suites&quot;) for IP Security (IPsec), similar to the two suites specified in RFC 4308.  The four new suites provide compatibility with the United States National Security Agency's Suite B specifications.  This document obsoletes RFC 4869, which presented earlier versions of these suites.  This document is not an Internet Standards Track specification;  it is published for informational purposes.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='6379'/>
+<seriesInfo name='DOI' value='10.17487/RFC6379'/>
 </reference>

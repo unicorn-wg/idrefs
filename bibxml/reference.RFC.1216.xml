@@ -1,30 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1216'>
-
+<reference  anchor='RFC1216' target='http://www.rfc-editor.org/info/rfc1216'>
 <front>
 <title>Gigabit network economics and paradigm shifts</title>
-<author initials='P.' surname='Richard' fullname='Dr. Poorer Richard'>
-<organization>Almanac Institute, Center against Misoneoism</organization>
-<address>
-<postal>
-<street />
-<city>Campo Imperatore</city>
-<region />
-<code />
-<country>IT</country></postal></address></author>
-<author surname='Kynikos' fullname='Prof. Kynikos'>
-<organization>Miskatonic University</organization>
-<address>
-<postal>
-<street />
-<city>Arkham</city>
-<region>MA</region>
-<code />
-<country>US</country></postal>
-<email>Kynikos@Cthulu.Miskatonic.EDU</email></address></author>
-<date year='1991' day='1' month='April' /></front>
-
-<seriesInfo name='RFC' value='1216' />
-<format type='TXT' octets='8130' target='http://www.rfc-editor.org/rfc/rfc1216.txt' />
+<author initials='P.' surname='Richard' fullname='P. Richard'><organization /></author>
+<author initials='P.' surname='Kynikos' fullname='P. Kynikos'><organization /></author>
+<date year='1991' month='April' />
+<abstract><t>This memo proposes a new standard paradigm for the Internet Activities Board (IAB) standardization track. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1216'/>
+<seriesInfo name='DOI' value='10.17487/RFC1216'/>
 </reference>

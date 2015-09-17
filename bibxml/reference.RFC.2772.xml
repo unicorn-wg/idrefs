@@ -1,22 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2772'>
-
+<reference  anchor='RFC2772' target='http://www.rfc-editor.org/info/rfc2772'>
 <front>
 <title>6Bone Backbone Routing Guidelines</title>
-<author initials='R.' surname='Rockell' fullname='Rob Rockell'>
-<organization>Sprint</organization>
-<address>
-<email>rrockell@sprint.net</email></address></author>
-<author initials='B.' surname='Fink' fullname='Bob Fink'>
-<organization>ESnet</organization>
-<address>
-<email>fink@es.net</email></address></author>
+<author initials='R.' surname='Rockell' fullname='R. Rockell'><organization /></author>
+<author initials='R.' surname='Fink' fullname='R. Fink'><organization /></author>
 <date year='2000' month='February' />
-<abstract>
-<t>The 6Bone is an Ipv6 testbed to assist in the evolution and deployment of IPv6. Because of this, it is important that the core backbone of the IPv6 network maintain stability, and that all operators have a common set of rules and guidelines by which to deploy IPv6 routing equipment.</t>
-<t>This document provides a set of guidelines for all 6bone routing equipment operators to use as a reference for efficient and stable deployment of 6bone routing systems. As the complexity of the 6Bone grows,the adherence to a common set of rules becomes increasingly important in order for an efficient, scalable backbone to exist.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2772' />
-<format type='TXT' octets='28565' target='http://www.rfc-editor.org/rfc/rfc2772.txt' />
+<abstract><t>This document provides a set of guidelines for all 6bone routing equipment operators to use as a reference for efficient and stable deployment of 6bone routing systems.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2772'/>
+<seriesInfo name='DOI' value='10.17487/RFC2772'/>
 </reference>

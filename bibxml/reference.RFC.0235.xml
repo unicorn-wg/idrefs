@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0235'>
-
+<reference  anchor='RFC0235' target='http://www.rfc-editor.org/info/rfc235'>
 <front>
 <title>Site status</title>
-<author initials='E.' surname='Westheimer' fullname='E. Westheimer'>
-<organization>Bolt Baranek and Newman (BBN)</organization></author>
-<date year='1971' month='September' day='27' />
-<abstract>
-<t>Beginning with this RFC, BBN will report on the status of most Network Hosts approximately once every two weeks.  The information for these reports will be gained from talking to people at each site, and from experimental "data".  These data will be the results of daily attempts to log into each of the Hosts which might be accessible to a Network user; the attempts will have been made from the BBN prototype Terminal IMP at a random time each weekday.</t></abstract></front>
-
-<seriesInfo name='RFC' value='235' />
-<format type='TXT' octets='7994' target='http://www.rfc-editor.org/rfc/rfc235.txt' />
+<author initials='E.' surname='Westheimer' fullname='E. Westheimer'><organization /></author>
+<date year='1971' month='September' />
+</front>
+<seriesInfo name='RFC' value='235'/>
+<seriesInfo name='DOI' value='10.17487/RFC0235'/>
 </reference>

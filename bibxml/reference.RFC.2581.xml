@@ -1,53 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2581'>
-
+<reference  anchor='RFC2581' target='http://www.rfc-editor.org/info/rfc2581'>
 <front>
 <title>TCP Congestion Control</title>
-<author initials='M.' surname='Allman' fullname='Mark Allman'>
-<organization>NASA Glenn Research Center/Sterling Software</organization>
-<address>
-<postal>
-<street>21000 Brookpark Road</street>
-<street>MS 54-2</street>
-<city>Cleveland</city>
-<region>OH</region>
-<code>44135</code>
-<country>US</country></postal>
-<phone>+1 216 433 6586</phone>
-<email>mallman@grc.nasa.gov</email></address></author>
-<author initials='V.' surname='Paxson' fullname='Vern Paxson'>
-<organization>ACIRI / ICSI</organization>
-<address>
-<postal>
-<street>1947 Center Street</street>
-<street>Suite 600</street>
-<city>Berkeley</city>
-<region>CA</region>
-<code>94704-1198</code>
-<country>US</country></postal>
-<phone>+1 510 642 4274 x302</phone>
-<email>vern@aciri.org</email></address></author>
-<author initials='W.' surname='Stevens' fullname='W. Richard Stevens'>
-<organization />
-<address>
-<postal>
-<street>1202 East Paseo del Zorro</street>
-<city>Tucson</city>
-<region>AZ</region>
-<code>85718</code>
-<country>US</country></postal>
-<phone>+1 520 297 9416</phone>
-<email>rstevens@kohala.com</email></address></author>
+<author initials='M.' surname='Allman' fullname='M. Allman'><organization /></author>
+<author initials='V.' surname='Paxson' fullname='V. Paxson'><organization /></author>
+<author initials='W.' surname='Stevens' fullname='W. Stevens'><organization /></author>
 <date year='1999' month='April' />
-<abstract>
-<t>This document defines TCP's four intertwined congestion
-control algorithms: slow start, congestion avoidance, fast retransmit,
-and fast recovery.
-In addition, the document specifies how TCP should begin transmission
-after a relatively long idle period, as well as discussing various
-acknowledgment generation methods.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2581' />
-<format type='TXT' octets='31351' target='http://www.rfc-editor.org/rfc/rfc2581.txt' />
+<abstract><t>This document defines TCP's four intertwined congestion control algorithms: slow start, congestion avoidance, fast retransmit, and fast recovery.  In addition, the document specifies how TCP should begin transmission after a relatively long idle period, as well as discussing various acknowledgment generation methods.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2581'/>
+<seriesInfo name='DOI' value='10.17487/RFC2581'/>
 </reference>

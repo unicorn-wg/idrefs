@@ -1,47 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1818'>
-
+<reference  anchor='RFC1818' target='http://www.rfc-editor.org/info/rfc1818'>
 <front>
 <title>Best Current Practices</title>
-<author initials='J.' surname='Postel' fullname='Jon Postel'>
-<organization>USC - ISI</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<street>Suite 1001</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292-6695</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511</phone>
-<email>postel@isi.edu</email></address></author>
-<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
-<organization>cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134</code>
-<country>US</country></postal>
-<phone>+1 914 528 0090</phone>
-<email>yakov@cisco.com</email></address></author>
-<author initials='T.' surname='Li' fullname='Tony Li'>
-<organization>cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>1525 O'Brien Drive</street>
-<city>Menlo Park</city>
-<region>CA</region>
-<code>94025</code>
-<country>US</country></postal>
-<email>tli@cisco.com</email></address></author>
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<author initials='T.' surname='Li' fullname='T. Li'><organization /></author>
+<author initials='Y.' surname='Rekhter' fullname='Y. Rekhter'><organization /></author>
 <date year='1995' month='August' />
-<abstract>
-<t>This document describes a new series of documents which describe best current practices for the Internet community.  Documents in this series carry the endorsement of the Internet Engineering Steering Group (IESG).</t></abstract></front>
-
-<seriesInfo name='BCP' value='1' />
-<seriesInfo name='RFC' value='1818' />
-<format type='TXT' octets='4114' target='http://www.rfc-editor.org/rfc/rfc1818.txt' />
+<abstract><t>This document describes a new series of documents which describe best current practices for the Internet community.  Documents in this series carry the endorsement of the Internet Engineering Steering Group (IESG).</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1818'/>
+<seriesInfo name='DOI' value='10.17487/RFC1818'/>
 </reference>

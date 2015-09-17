@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1680'>
-
+<reference  anchor='RFC1680' target='http://www.rfc-editor.org/info/rfc1680'>
 <front>
 <title>IPng Support for ATM Services</title>
-<author initials='C.' surname='Brazdziunas' fullname='Christina Brazdziunas'>
-<organization>Bellcore</organization>
-<address>
-<postal>
-<street>445 South Street</street>
-<city>Morristown</city>
-<region>NJ</region>
-<code>07960</code>
-<country>US</country></postal>
-<phone>+1 201 829 4173</phone>
-<email>crb@faline.bellcore.com</email></address></author>
+<author initials='C.' surname='Brazdziunas' fullname='C. Brazdziunas'><organization /></author>
 <date year='1994' month='August' />
-<abstract>
-<t>This document was submitted to the IETF IPng area in response to RFC 1550.  Publication of this document does not imply acceptance by the IPng area of any ideas expressed within.  Comments should be submitted to the big-internet@munnari.oz.au mailing list.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1680' />
-<format type='TXT' octets='17846' target='http://www.rfc-editor.org/rfc/rfc1680.txt' />
+<abstract><t>This white paper describes engineering considerations for IPng as solicited by RFC 1550 [1]. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1680'/>
+<seriesInfo name='DOI' value='10.17487/RFC1680'/>
 </reference>

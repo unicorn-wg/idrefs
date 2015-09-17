@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0684'>
-
+<reference  anchor='RFC0684' target='http://www.rfc-editor.org/info/rfc684'>
 <front>
-<title abbrev='A COMMENTARY on PROCEDURE CALLING'>Commentary on procedure calling as a network protocol</title>
-<author initials='R.' surname='Schantz' fullname='Richard Schantz'>
-<organization>Bolt Baranek and Newman (BBN), TENEX</organization></author>
-<date year='1975' day='15' month='April' /></front>
-
-<seriesInfo name='RFC' value='684' />
-<format type='TXT' octets='21164' target='http://www.rfc-editor.org/rfc/rfc684.txt' />
+<title>Commentary on procedure calling as a network protocol</title>
+<author initials='R.' surname='Schantz' fullname='R. Schantz'><organization /></author>
+<date year='1975' month='April' />
+<abstract><t>Issues in designing distributed computing systems.  Shortcomings of   RFC 674; see also RFCs 542 and 354.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='684'/>
+<seriesInfo name='DOI' value='10.17487/RFC0684'/>
 </reference>

@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2033'>
-
+<reference  anchor='RFC2033' target='http://www.rfc-editor.org/info/rfc2033'>
 <front>
-<title abbrev='Local Mail'>Local Mail Transfer Protocol</title>
-<author initials='J.G.' surname='Myers' fullname='John G. Myers'>
-<organization>Carnegie-Mellon University</organization>
-<address>
-<postal>
-<street>5000 Forbes Ave.</street>
-<street>Pittsburgh</street>
-<street>15213-3890</street>
-<country>PA</country></postal>
-<email>jgm+@cmu.edu</email></address></author>
+<title>Local Mail Transfer Protocol</title>
+<author initials='J.' surname='Myers' fullname='J. Myers'><organization /></author>
 <date year='1996' month='October' />
-<area>Applications</area>
-<keyword>mail</keyword></front>
-
-<seriesInfo name='RFC' value='2033' />
-<format type='TXT' octets='14711' target='http://www.rfc-editor.org/rfc/rfc2033.txt' />
-<format type='XML' octets='17562' target='http://xml.resource.org/public/rfc/xml/rfc2033.xml' />
+<abstract><t>SMTP [SMTP] [HOST-REQ] and its service extensions [ESMTP] provide a mechanism for transferring mail reliably and efficiently.  The design of the SMTP protocol effectively requires the server to manage a mail delivery queue.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2033'/>
+<seriesInfo name='DOI' value='10.17487/RFC2033'/>
 </reference>

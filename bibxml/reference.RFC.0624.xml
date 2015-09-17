@@ -1,21 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0624'>
-
+<reference  anchor='RFC0624' target='http://www.rfc-editor.org/info/rfc624'>
 <front>
 <title>Comments on the File Transfer Protocol</title>
-<author initials='M.' surname='Krilanovich' fullname='Mark Krilanovich'>
-<organization>University of California, Santa Barbara (UCSB)</organization></author>
-<author initials='G.' surname='Gregg' fullname='George Gregg'>
-<organization>University of California, Santa Barbara (UCSB)</organization></author>
-<author initials='W.' surname='Hathaway' fullname='Wayne Hathaway'>
-<organization>AMES Research Center (AMES-67)</organization></author>
-<author initials='J.' surname='White' fullname='Jim White'>
-<organization>Stanford Research Institute (SRI), Augmentation Research Center (ARC)</organization></author>
-<date year='1974' day='28' month='February' />
-<abstract>
-<t>There are several aspects of the File Transfer Protocol of RFC 542 that constitute serious drawbacks. Some of these are quite basic in nature, and imply substantial design changes; these will be discussed in a later RFC. Others could be remedied with very little effort, and this should be done as soon as possible.</t></abstract></front>
-
-<seriesInfo name='RFC' value='624' />
-<format type='TXT' octets='10105' target='http://www.rfc-editor.org/rfc/rfc624.txt' />
+<author initials='M.' surname='Krilanovich' fullname='M. Krilanovich'><organization /></author>
+<author initials='G.' surname='Gregg' fullname='G. Gregg'><organization /></author>
+<author initials='W.' surname='Hathaway' fullname='W. Hathaway'><organization /></author>
+<author initials='J.E.' surname='White' fullname='J.E. White'><organization /></author>
+<date year='1974' month='February' />
+<abstract><t>Design changes and slight modifications.  Replaces RFC 607; see also   RFCs 614, 542 and 640.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='624'/>
+<seriesInfo name='DOI' value='10.17487/RFC0624'/>
 </reference>

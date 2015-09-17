@@ -1,20 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0062'>
-
+<reference  anchor='RFC0062' target='http://www.rfc-editor.org/info/rfc62'>
 <front>
-<title abbrev='IPC for Resource Sharing'>Systems for Interprocess Communication in a Resource Sharing Computer Network</title>
-<author initials='D.' surname='Walden' fullname='D. C. Walden'>
-<organization>Bolt Beranek and Newman, Inc. (BBN)</organization>
-<address>
-<postal>
-<street>10 Moulton Street</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02138</code>
-<country>US</country></postal></address></author>
-<date year='1970' day='3' month='August' /></front>
-
-<seriesInfo name='RFC' value='62' />
-<format type='TXT' octets='55784' target='http://www.rfc-editor.org/rfc/rfc62.txt' />
+<title>Systems for Interprocess Communication in a Resource Sharing Computer Network</title>
+<author initials='D.C.' surname='Walden' fullname='D.C. Walden'><organization /></author>
+<date year='1970' month='August' />
+</front>
+<seriesInfo name='RFC' value='62'/>
+<seriesInfo name='DOI' value='10.17487/RFC0062'/>
 </reference>

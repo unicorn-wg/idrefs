@@ -1,17 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0716'>
-
+<reference  anchor='RFC0716' target='http://www.rfc-editor.org/info/rfc716'>
 <front>
 <title>Interim Revision to Appendix F of BBN 1822</title>
-<author initials='D.' surname='Walden' fullname='David Walden'>
-<organization /></author>
-<author initials='J.' surname='Levin' fullname='Joel Levin'>
-<organization /></author>
-<date year='1976' day='24' month='May' />
-<abstract>
-<t>Over the past few months we have become aware that there has been some confusion as to how to operate a Host connected to an IMP as a Very Distant Host (or VDH).  Therefore, next time BBN Report 1822 ("Specifications for the Interconnection of a Host and an IMP") is revised, we will include additional information on how the IMP side of a VDH connection works and how the Host side may operate most efficiently.  As an interim measure, we are distributing this RFC which takes the form of a (logical) update to Appendix F of BBN Report 1822.</t></abstract></front>
-
-<seriesInfo name='RFC' value='716' />
-<format type='TXT' octets='3345' target='http://www.rfc-editor.org/rfc/rfc716.txt' />
+<author initials='D.C.' surname='Walden' fullname='D.C. Walden'><organization /></author>
+<author initials='J.' surname='Levin' fullname='J. Levin'><organization /></author>
+<date year='1976' month='May' />
+</front>
+<seriesInfo name='RFC' value='716'/>
+<seriesInfo name='DOI' value='10.17487/RFC0716'/>
 </reference>

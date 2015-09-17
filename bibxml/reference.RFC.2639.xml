@@ -1,45 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2639'>
-
+<reference  anchor='RFC2639' target='http://www.rfc-editor.org/info/rfc2639'>
 <front>
-<title abbrev='IPP/1.0: Implementer&apos;s Guide'>Internet Printing Protocol/1.0: Implementer's Guide</title>
-<author initials='T.' surname='Hastings' fullname='Thomas Hastings'>
-<organization>Xerox Corporation</organization>
-<address>
-<postal>
-<street>701 Aviation Boulevard</street>
-<city>El Segundo</city>
-<region>CA</region>
-<code>90245</code>
-<country>US</country></postal>
-<email>hastings@cp10.es.xerox.com</email></address></author>
-<author initials='C.' surname='Manros' fullname='Carl-Uno Manros'>
-<organization>Xerox Corporation</organization>
-<address>
-<postal>
-<street>701 Aviation Boulevard</street>
-<city>El Segundo</city>
-<region>CA</region>
-<code>90245</code>
-<country>US</country></postal>
-<email>manros@cp10.es.xerox.com</email></address></author>
+<title>Internet Printing Protocol/1.0: Implementer's Guide</title>
+<author initials='T.' surname='Hastings' fullname='T. Hastings'><organization /></author>
+<author initials='C.' surname='Manros' fullname='C. Manros'><organization /></author>
 <date year='1999' month='July' />
-<abstract>
-<t>This document is one of a set of documents, which together describe all aspects of a new Internet Printing Protocol (IPP). IPP is an application level protocol that can be used for distributed printing using Internet tools and technologies. This document contains information that supplements the IPP Model and Semantics [RFC2566] and the IPP Transport and Encoding [RFC2565] documents. It is intended to help implementers understand IPP/1.0 and some of the considerations that may assist them in the design of their client and/or IPP object implementations. For example, a typical order of processing requests is given, including error checking. Motivation for some of the specification decisions is also included.</t>
-<t>The full set of IPP documents includes:
-<list style='symbols'>
-<t>Design Goals for an Internet Printing Protocol</t>
-<t>Rationale for the Structure and Model and Protocol for the Internet Printing Protocol</t>
-<t>Internet Printing Protocol/1.0: Model and Semantics</t>
-<t>Internet Printing Protocol/1.0: Encoding and Transport</t>
-<t>Mapping between LPD and IPP Protocols</t></list></t>
-<t>The document, "Design Goals for an Internet Printing Protocol", takes a broad look at distributed printing functionality, and it enumerates real-life scenarios that help to clarify the features that need to be included in a printing protocol for the Internet. It identifies requirements for three types of users: end users, operators, and administrators. The design goals document calls out a subset of end user requirements that are satisfied in IPP/1.0. Operator and administrator requirements are out of scope for version 1.0.</t>
-<t>The document, "Rationale for the Structure and Model and Protocol for the Internet Printing Protocol", describes IPP from a high level view, defines a roadmap for the various documents that form the suite of IPP specifications, and gives background and rationale for the IETF working group's major decisions.</t>
-<t>The document, "Internet Printing Protocol/1.0: Model and Semantics", describes a simplified model with abstract objects, their attributes, and their operations. The model introduces a Printer and a Job. The Job supports multiple documents per Job. The model document also addresses how security, internationalization, and directory issues are addressed.</t>
-<t>The document, "Internet Printing Protocol/1.0: Encoding and Transport", is a formal mapping of the abstract operations and attributes defined in the model document onto HTTP/1.1.  It also defines the encoding rules for a new Internet media type called "application/ipp".</t>
-<t>The document, "Mapping between LPD and IPP Protocols", gives some advice to implementers of gateways between IPP and LPD (Line Printer Daemon) implementations.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2639' />
-<format type='TXT' octets='145086' target='http://www.rfc-editor.org/rfc/rfc2639.txt' />
+<abstract><t>This document contains information that supplements the IPP Model and Semantics and the IPP Transport and Encoding documents.  It is intended to help implementers understand IPP/1.0 and some of the considerations that may assist them in the design of their client and/or IPP object implementations.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2639'/>
+<seriesInfo name='DOI' value='10.17487/RFC2639'/>
 </reference>

@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0746'>
-
+<reference  anchor='RFC0746' target='http://www.rfc-editor.org/info/rfc746'>
 <front>
 <title>SUPDUP graphics extension</title>
-<author initials='R.' surname='Stallman' fullname='Richard Stallman'>
-<organization>Massachusetts Institute of Technology (MIT), Artifical Intelligence (AI)</organization></author>
-<date year='1978' day='17' month='March' /></front>
-
-<seriesInfo name='RFC' value='746' />
-<format type='TXT' octets='30197' target='http://www.rfc-editor.org/rfc/rfc746.txt' />
+<author initials='R.' surname='Stallman' fullname='R. Stallman'><organization /></author>
+<date year='1978' month='March' />
+</front>
+<seriesInfo name='RFC' value='746'/>
+<seriesInfo name='DOI' value='10.17487/RFC0746'/>
 </reference>

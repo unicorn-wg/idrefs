@@ -1,38 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2071'>
-
+<reference  anchor='RFC2071' target='http://www.rfc-editor.org/info/rfc2071'>
 <front>
-<title abbrev='Network Renumbering Overview'>Network Renumbering Overview: Why would I want it and what is it anyway?</title>
-<author initials='P.' surname='Ferguson' fullname='Paul Ferguson'>
-<organization>cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>1875 Campus Commons Road</street>
-<street>Suite 210</street>
-<city>Reston</city>
-<region>VA</region>
-<code>22091</code>
-<country>US</country></postal>
-<phone>+1 703 716 9538</phone>
-<facsimile>+1 703 716 9599</facsimile>
-<email>pferguso@cisco.com</email></address></author>
-<author initials='H.' surname='Berkowitz' fullname='Howard C. Berkowitz'>
-<organization>PSC International</organization>
-<address>
-<postal>
-<street>1600 Spring Hill Road</street>
-<city>Vienna</city>
-<region>VA</region>
-<code>22182</code>
-<country>US</country></postal>
-<phone>+1 703 998 5819</phone>
-<facsimile>+1 703 998 5058</facsimile>
-<email>hcb@clark.net</email></address></author>
+<title>Network Renumbering Overview: Why would I want it and what is it anyway?</title>
+<author initials='P.' surname='Ferguson' fullname='P. Ferguson'><organization /></author>
+<author initials='H.' surname='Berkowitz' fullname='H. Berkowitz'><organization /></author>
 <date year='1997' month='January' />
-<abstract>
-<t>The PIER [Procedures for Internet/Enterprise Renumbering] working group is compiling a series of documents to assist and instruct organizations in their efforts to renumber.  However, it is becoming apparent that, with the increasing number of new Internet Service Providers (ISP's) and organizations getting connected to the Internet for the first time, the concept of network renumbering needs to be further defined.  This document attempts to clearly define the concept of network renumbering and discuss some of the more pertinent reasons why an organization would have a need to do so.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2071' />
-<format type='TXT' octets='33218' target='http://www.rfc-editor.org/rfc/rfc2071.txt' />
+<abstract><t>This document attempts to clearly define the concept of network renumbering and discuss some of the more pertinent reasons why an organization would have a need to do so.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2071'/>
+<seriesInfo name='DOI' value='10.17487/RFC2071'/>
 </reference>

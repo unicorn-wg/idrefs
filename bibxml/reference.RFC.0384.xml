@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0384'>
-
+<reference  anchor='RFC0384' target='http://www.rfc-editor.org/info/rfc384'>
 <front>
 <title>Official site idents for organizations in the ARPA Network</title>
-<author initials='J.B.' surname='North' fullname='J.B. North'>
-<organization /></author>
-<date year='1972' month='August' /></front>
-
-<seriesInfo name='RFC' value='384' />
-<format type='TXT' octets='10401' target='http://www.rfc-editor.org/rfc/rfc384.txt' />
+<author initials='J.B.' surname='North' fullname='J.B. North'><organization /></author>
+<date year='1972' month='August' />
+</front>
+<seriesInfo name='RFC' value='384'/>
+<seriesInfo name='DOI' value='10.17487/RFC0384'/>
 </reference>

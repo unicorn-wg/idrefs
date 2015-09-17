@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1729'>
-
+<reference  anchor='RFC1729' target='http://www.rfc-editor.org/info/rfc1729'>
 <front>
 <title>Using the Z39.50 Information Retrieval Protocol</title>
-<author initials='C.' surname='Lynch' fullname='Clifford A. Lynch'>
-<organization>University of California</organization>
-<address>
-<postal>
-<street>300 Lakeside Drive</street>
-<street>8th Floor</street>
-<city>Oakland</city>
-<region>CA</region>
-<code>94612-3550</code>
-<country>US</country></postal>
-<phone>+1 510 987 0522</phone>
-<email>clifford.lynch@ucop.edu</email></address></author>
-<date year='1994' month='December' /></front>
-
-<seriesInfo name='RFC' value='1729' />
-<format type='TXT' octets='20927' target='http://www.rfc-editor.org/rfc/rfc1729.txt' />
+<author initials='C.' surname='Lynch' fullname='C. Lynch'><organization /></author>
+<date year='1994' month='December' />
+<abstract><t>This memo describes an approach to the implementation of the ANSI/NISO Z39.50-1992 Standard for Information Retrieval in the TCP/IP environment which is currently in wide use by the Z39.50 implementor community. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1729'/>
+<seriesInfo name='DOI' value='10.17487/RFC1729'/>
 </reference>

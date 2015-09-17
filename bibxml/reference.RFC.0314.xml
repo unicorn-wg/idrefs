@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0314'>
-
+<reference  anchor='RFC0314' target='http://www.rfc-editor.org/info/rfc314'>
 <front>
 <title>Network Graphics Working Group Meeting</title>
-<author initials='I.' surname='Cotton' fullname='Ira Cotton'>
-<organization>Mitre Corporation</organization></author>
-<date year='1972' day='14' month='March' />
-<abstract>
-<t>The next network graphics working group meeting has definitely been scheduled for April 16-18 at The Mitre Corporation, McLean, Virginia.</t></abstract></front>
-
-<seriesInfo name='RFC' value='314' />
-<format type='TXT' octets='1836' target='http://www.rfc-editor.org/rfc/rfc314.txt' />
+<author initials='I.W.' surname='Cotton' fullname='I.W. Cotton'><organization /></author>
+<date year='1972' month='March' />
+</front>
+<seriesInfo name='RFC' value='314'/>
+<seriesInfo name='DOI' value='10.17487/RFC0314'/>
 </reference>

@@ -1,17 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC6420'>
-
+<reference  anchor='RFC6420' target='http://www.rfc-editor.org/info/rfc6420'>
 <front>
 <title>PIM Multi-Topology ID (MT-ID) Join Attribute</title>
-<author initials='Y.' surname='Cai' fullname='Y. Cai'>
-<organization /></author>
-<author initials='H.' surname='Ou' fullname='H. Ou'>
-<organization /></author>
+<author initials='Y.' surname='Cai' fullname='Y. Cai'><organization /></author>
+<author initials='H.' surname='Ou' fullname='H. Ou'><organization /></author>
 <date year='2011' month='November' />
-<abstract>
-<t>This document introduces a new type of PIM Join Attribute that extends PIM signaling to identify a topology that should be used when constructing a particular multicast distribution tree. [STANDARDS-TRACK]</t></abstract></front>
-
-<seriesInfo name='RFC' value='6420' />
-<format type='TXT' octets='28310' target='http://www.rfc-editor.org/rfc/rfc6420.txt' />
+<abstract><t>This document introduces a new type of PIM Join Attribute that extends PIM signaling to identify a topology that should be used when constructing a particular multicast distribution tree.   [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='6420'/>
+<seriesInfo name='DOI' value='10.17487/RFC6420'/>
 </reference>

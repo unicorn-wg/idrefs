@@ -1,39 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1933'>
-
+<reference  anchor='RFC1933' target='http://www.rfc-editor.org/info/rfc1933'>
 <front>
-<title abbrev='IPv6 Transition Mechanisms'>Transition Mechanisms for IPv6 Hosts and Routers</title>
-<author initials='R.' surname='Gilligan' fullname='Robert E. Gilligan'>
-<organization>Sun Microsystems, Inc.</organization>
-<address>
-<postal>
-<street>2550 Garcia Ave.</street>
-<street>Mailstop UMTV 05-44</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043</code>
-<country>US</country></postal>
-<phone>+1 415 336 1012</phone>
-<facsimile>+1 415 336 6015</facsimile>
-<email>Bob.Gilligan@Eng.Sun.COM</email></address></author>
-<author initials='E.' surname='Nordmark' fullname='Erik Nordmark'>
-<organization>Sun Microsystems, Inc.</organization>
-<address>
-<postal>
-<street>2550 Garcia Ave.</street>
-<street>Mailstop UMTV 05-44</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043</code>
-<country>US</country></postal>
-<phone>+1 415 336 2788</phone>
-<facsimile>+1 415 336 6015</facsimile>
-<email>Erik.Nordmark@Eng.Sun.COM</email></address></author>
+<title>Transition Mechanisms for IPv6 Hosts and Routers</title>
+<author initials='R.' surname='Gilligan' fullname='R. Gilligan'><organization /></author>
+<author initials='E.' surname='Nordmark' fullname='E. Nordmark'><organization /></author>
 <date year='1996' month='April' />
-<abstract>
-<t>This document specifies IPv4 compatibility mechanisms that can be implemented by IPv6 hosts and routers. These mechanisms include providing complete implementations of both versions of the Internet Protocol (IPv4 and IPv6), and tunneling IPv6 packets over IPv4 routing infrastructures. They are designed to allow IPv6 nodes to maintain complete compatibility with IPv4, which should greatly simplify the deployment of IPv6 in the Internet, and facilitate the eventual transition of the entire Internet to IPv6.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1933' />
-<format type='TXT' octets='47005' target='http://www.rfc-editor.org/rfc/rfc1933.txt' />
+<abstract><t>This document specifies IPv4 compatibility mechanisms that can be implemented by IPv6 hosts and routers.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1933'/>
+<seriesInfo name='DOI' value='10.17487/RFC1933'/>
 </reference>

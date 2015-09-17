@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1424'>
-
+<reference  anchor='RFC1424' target='http://www.rfc-editor.org/info/rfc1424'>
 <front>
-<title abbrev='Key Certification and Related Services'>Privacy Enhancement for Internet Electronic Mail: Part IV: Key Certification and Related Services</title>
-<author initials='B.' surname='Kaliski' fullname='Burton S. Kaliski, Jr.'>
-<organization>RSA Laboratories (a division of RSA Data Security, Inc.)</organization>
-<address>
-<postal>
-<street>10 Twin Dolphin Drive</street>
-<city>Redwood City</city>
-<region>CA</region>
-<code>94065</code>
-<country>US</country></postal>
-<phone>+1 415 595 7703</phone>
-<facsimile>+1 415 595 4126</facsimile>
-<email>burt@rsa.com</email></address></author>
-<date year='1993' month='February' /></front>
-
-<seriesInfo name='RFC' value='1424' />
-<format type='TXT' octets='17537' target='http://www.rfc-editor.org/rfc/rfc1424.txt' />
+<title>Privacy Enhancement for Internet Electronic Mail: Part IV: Key Certification and Related Services</title>
+<author initials='B.' surname='Kaliski' fullname='B. Kaliski'><organization /></author>
+<date year='1993' month='February' />
+<abstract><t>This document describes three types of service in support of Internet Privacy-Enhanced Mail (PEM) [1-3]: key certification, certificate- revocation list (CRL) storage, and CRL retrieval.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1424'/>
+<seriesInfo name='DOI' value='10.17487/RFC1424'/>
 </reference>

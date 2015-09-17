@@ -1,43 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1616'>
-
+<reference  anchor='RFC1616' target='http://www.rfc-editor.org/info/rfc1616'>
 <front>
-<title abbrev='X.400(88) for European Academics and Research'>X.400(1988) for the Academic and Research Community in Europe</title>
-<author initials='E.' surname='Huizer' fullname='Erik Huizer'>
-<organization>SURFnet bv</organization>
-<address>
-<postal>
-<street>P.O. Box 19035</street>
-<city>Utrecht</city>
-<region />
-<code>NL-3501</code>
-<country>NL</country></postal>
-<phone>+31 30 310290</phone>
-<email>huizer@surfnet.nl</email></address></author>
-<author initials='J.' surname='Romaguera' fullname='James A. (Jim) Romaguera'>
-<organization>NetConsult AG</organization>
-<address>
-<postal>
-<street>Morgenstrasse 129</street>
-<street>Berner Technopark</street>
-<city>Bern</city>
-<region />
-<code>CH-3018</code>
-<country>CH</country></postal>
-<phone>+41 31 9984141</phone>
-<email>romaguera@netconsult.ch</email></address></author>
+<title>X.400(1988) for the Academic and Research Community in Europe</title>
+<author><organization>RARE WG-MSG Task Force 88</organization></author>
+<author initials='E.' surname='Huizer' fullname='E. Huizer'><organization /></author>
+<author initials='J.' surname='Romaguera.' fullname='J. Romaguera.' role='editor'><organization /></author>
 <date year='1994' month='May' />
-<abstract>
-<t>The European research and development community, as represented by the member research networks of RARE, has lead the deployment within the global R&amp;D community of X.400 electronic messaging services, as specified in the international recommendations CCITT X.400(1984), for more than five years. As a result of providing such services to the European R&amp;amp;D users it has become clear that there is an existing and ever increasing demand from these users for new and enhanced electronic messaging services and product to be used to communicate within the R&amp;amp;D community but within commercial service providers and organisations as well.</t>
-<t>It is also clear that new services, such as Multimedia messaging and Secure messaging, and the resulting products promise dramatic benefits and opportunities, for not only the R&amp;amp;D community but also for the wider commercial, industrial and public communities, in terms of facilitating innovative ways of working and living which can only enhance the missions and goals of the respective communities. Not least the establishment of globally pervasive messaging services between all users, R&amp;amp;D and commercial, is facilitated by the early adoption of such advanced new services. An indication of the importance of such a messaging service can be appreciated if one considers that in many organizations (especially commercially based) messaging may be the only method to communicate between independent organizations due to security considerations and lower layer network differences.</t>
-<t>The Commission of European Communities (CEC) VALUE subprogram II has been established to support initiatives relating to the development and adaptation of R&amp;amp;D networks in member states.  Amongst other initiatives the VALUE program supports X.400 initiatives in certain countries. VALUE support has so far been limited to X.400(1984) initiatives, as X.400(1984) has up until now been the dominating OSI services. However as X.400(1988) implementations have started to appear a VALUE funded study of the X.400(1988) aspects of messaging and their impact on the R&amp;amp;D community was felt necessary. This report is one of the results of that study.</t>
-<t>The report documents the results of a task force on X.400(1988) deployment of the RARE Mails and Messaging Work Group during the period from November 1992 until October 1993. Open reviews of the report have occurred in the RARE Mail and Messaging Work Group and within the IETF X.400ops Working Group.</t>
-<t>The scope of the report is limited to deployment of X.400(1988) services, and as such the report does not contain any recommendations on development and deployment of Internet RFC 822 / MIME/ PEM related (pilot) services. However, since the report shows that both X.400(1988) and RFC 822 / MIME / PEM will be developed and used within the European R&amp;amp;D community, such a pilot should also considered.  Note: RFC 822 is also known as Internet STD 11.</t>
-<t>Circulation of this report is unlimited. Comments on this report may be sent to the e-mail distribution list:</t>
-<t>RFC 822: wg-msg@rare.nl
-    X.400:   	S=wg-msg;O=rare;P=surf;A=400net;C=nl</t></abstract></front>
-
-<seriesInfo name='RFC' value='1616' />
-<format type='TXT' octets='107432' target='http://www.rfc-editor.org/rfc/rfc1616.txt' />
+<abstract><t>The report documents the results of a task force on X.400(1988) deployment of the RARE Mails and Messaging Work Group during the period from November 1992 until October 1993.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1616'/>
+<seriesInfo name='DOI' value='10.17487/RFC1616'/>
 </reference>

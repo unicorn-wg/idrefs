@@ -1,58 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2358'>
-
+<reference  anchor='RFC2358' target='http://www.rfc-editor.org/info/rfc2358'>
 <front>
-<title abbrev='MIB for Ethernet-like Interface Types'>Definitions of Managed Objects for the Ethernet-like Interface Types</title>
-<author initials='J.' surname='Flick' fullname='John Flick'>
-<organization>Hewlett-Packard Company</organization>
-<address>
-<postal>
-<street>8000 Foothills Blvd. M/S 5556</street>
-<street>Roseville</street>
-<street>CA 95747-5556</street></postal>
-<phone>+1 916 785 4018</phone>
-<email>johnf@hprnd.rose.hp.com</email></address></author>
-<author initials='J.' surname='Johnson' fullname='Jeffrey Johnson'>
-<organization>RedBack Networks</organization>
-<address>
-<postal>
-<street>2570 North First Street</street>
-<street>Suite 410</street>
-<street>San Jose</street>
-<street>95131</street>
-<country>USA</country></postal>
-<phone>+1 408 571 2699</phone>
-<email>jeff@redbacknetworks.com</email></address></author>
+<title>Definitions of Managed Objects for the Ethernet-like Interface Types</title>
+<author initials='J.' surname='Flick' fullname='J. Flick'><organization /></author>
+<author initials='J.' surname='Johnson' fullname='J. Johnson'><organization /></author>
 <date year='1998' month='June' />
-<area>Internet</area>
-<area>Management</area>
-<keyword>Management Information Base</keyword>
-<keyword>ethernet</keyword>
-<keyword>managed object</keyword>
-<abstract>
-<t>
-   This memo defines a portion of the Management Information Base (MIB)
-   for use with network management protocols in the Internet community.
-   This memo obsoletes RFC 1650 &quot;Definitions of Managed Objects for the
-   Ethernet-like Interface Types using SMIv2&quot;.  This memo extends that
-   specification by including management information useful for the
-   management of 100 Mb/s Ethernet interfaces.
-</t>
-<t>
-   Ethernet technology, as defined by the 802.3 Working Group of the
-   IEEE, continues to evolve, with scalable increases in speed, new
-   types of cabling and interfaces, and new features.  This evolution
-   may require changes in the managed objects in order to reflect this
-   new functionality.  This document, as with other documents issued by
-   this working group, reflect a certain stage in the evolution of
-   Ethernet technology.  In the future, this document might be revised,
-   or new documents might be issued by the Ethernet Interfaces and Hub
-   MIB Working Group, in order to reflect the evolution of Ethernet
-   technology.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2358' />
-<format type='TXT' octets='87891' target='http://www.rfc-editor.org/rfc/rfc2358.txt' />
-<format type='XML' octets='83852' target='http://xml.resource.org/public/rfc/xml/rfc2358.xml' />
+<abstract><t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  This memo obsoletes RFC 1650 &quot;Definitions of Managed Objects for the Ethernet-like Interface Types using SMIv2&quot;.  This memo extends that specification by including management information useful for the management of 100 Mb/s Ethernet interfaces.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2358'/>
+<seriesInfo name='DOI' value='10.17487/RFC2358'/>
 </reference>

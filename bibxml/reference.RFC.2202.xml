@@ -1,47 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2202'>
-
+<reference  anchor='RFC2202' target='http://www.rfc-editor.org/info/rfc2202'>
 <front>
 <title>Test Cases for HMAC-MD5 and HMAC-SHA-1</title>
-<author fullname='Pau-Chen Cheng' initials='P.' surname='Cheng'>
-<organization>IBM T.J. Watson Research Center</organization>
-<address>
-<postal>
-<street>P.O.Box 704</street>
-<street>Yorktown Heights</street>
-<street>NY 10598</street></postal>
-<email>pau@watson.ibm.com</email></address></author>
-<author initials='R.' surname='Glenn' fullname='Robert Glenn'>
-<organization>NIST</organization>
-<address>
-<postal>
-<street>Building 820</street>
-<street>Room 455</street>
-<street>Gaithersburg</street>
-<street>MD 20899</street></postal>
-<email>rob.glenn@nist.gov</email></address></author>
+<author initials='P.' surname='Cheng' fullname='P. Cheng'><organization /></author>
+<author initials='R.' surname='Glenn' fullname='R. Glenn'><organization /></author>
 <date year='1997' month='September' />
-<area>Security</area>
-<keyword>MD5</keyword>
-<keyword>IP security protocol</keyword>
-<keyword>authentication</keyword>
-<keyword>cryptographic hash message authentication codes</keyword>
-<keyword>message digest</keyword>
-<keyword>secure hash algorithm</keyword>
-<abstract>
-<t>
-   This document provides two sets of test cases for HMAC-MD5 and HMAC-
-   SHA-1, respectively. HMAC-MD5 and HMAC-SHA-1 are two constructs of
-   the HMAC  message authentication function using the MD5 
-   hash function and the SHA-1  hash function. Both constructs are
-   used by IPSEC [OG,CG] and other protocols to authenticate messages.
-   The test cases and results provided in this document are meant to be
-   used as a conformance test for HMAC-MD5 and HMAC-SHA-1
-   implementations.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2202' />
-<format type='TXT' octets='11945' target='http://www.rfc-editor.org/rfc/rfc2202.txt' />
-<format type='XML' octets='13193' target='http://xml.resource.org/public/rfc/xml/rfc2202.xml' />
+<abstract><t>This document provides two sets of test cases for HMAC-MD5 and HMAC- SHA-1, respectively. HMAC-MD5 and HMAC-SHA-1 are two constructs of the HMAC [HMAC] message authentication function using the MD5 [MD5] hash function and the SHA-1 [SHA] hash function.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2202'/>
+<seriesInfo name='DOI' value='10.17487/RFC2202'/>
 </reference>

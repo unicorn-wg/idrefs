@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0523'>
-
+<reference  anchor='RFC0523' target='http://www.rfc-editor.org/info/rfc523'>
 <front>
 <title>SURVEY is in operation again</title>
-<author initials='A.' surname='Bhushan' fullname='Abhay K. Bhushan'>
-<organization>Massachusetts Institute of Technology (MIT), DMCG</organization></author>
-<date year='1973' day='5' month='June' />
-<abstract>
-<t>The purpose of this message is to inform the network community that the survey program at MIT-DMCG computer system is in operation now.</t></abstract></front>
-
-<seriesInfo name='RFC' value='523' />
-<format type='TXT' octets='2852' target='http://www.rfc-editor.org/rfc/rfc523.txt' />
+<author initials='A.K.' surname='Bhushan' fullname='A.K. Bhushan'><organization /></author>
+<date year='1973' month='June' />
+</front>
+<seriesInfo name='RFC' value='523'/>
+<seriesInfo name='DOI' value='10.17487/RFC0523'/>
 </reference>

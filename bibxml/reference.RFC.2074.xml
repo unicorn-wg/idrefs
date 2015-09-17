@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2074'>
-
+<reference  anchor='RFC2074' target='http://www.rfc-editor.org/info/rfc2074'>
 <front>
-<title abbrev='RMON Protocol Identifiers'>Remote Network Monitoring MIB Protocol Identifiers</title>
-<author initials='A.' surname='Bierman' fullname='Andy Bierman'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134</code>
-<country>US</country></postal>
-<phone>+1 408 527 3711</phone>
-<email>abierman@cisco.com</email></address></author>
-<author initials='R.' surname='Iddon' fullname='Robin Iddon'>
-<organization>3Com/AXON</organization>
-<address>
-<postal>
-<street>40/50 Blackfrias Street</street>
-<city>Edinburgh</city>
-<region>Scotland</region>
-<code>EH1 1NE</code>
-<country>UK</country></postal>
-<phone>+44 131 5583888</phone>
-<email>robin_iddon@3mail.3com.com</email></address></author>
+<title>Remote Network Monitoring MIB Protocol Identifiers</title>
+<author initials='A.' surname='Bierman' fullname='A. Bierman'><organization /></author>
+<author initials='R.' surname='Iddon' fullname='R. Iddon'><organization /></author>
 <date year='1997' month='January' />
-<abstract>
-<t></t></abstract></front>
-
-<seriesInfo name='RFC' value='2074' />
-<format type='TXT' octets='81262' target='http://www.rfc-editor.org/rfc/rfc2074.txt' />
+<abstract><t>This memo defines an experimental portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes the algorithms required to identify different protocol encapsulations managed with the Remote Network Monitoring MIB Version 2 [RMON2].  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2074'/>
+<seriesInfo name='DOI' value='10.17487/RFC2074'/>
 </reference>

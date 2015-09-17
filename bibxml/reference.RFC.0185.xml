@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0185'>
-
+<reference  anchor='RFC0185' target='http://www.rfc-editor.org/info/rfc185'>
 <front>
 <title>NIC distribution of manuals and handbooks</title>
-<author initials='J.' surname='North' fullname='Jeanne North'>
-<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC), ARPA Network Information Center</organization></author>
-<date year='1971' day='7' month='July' />
-<abstract>
-<t>The Network Information Center asks that whenever basic manuals or handbooks are produced by Network participants, a sufficient quantity be made to supply NIC with copies for distribution.</t></abstract></front>
-
-<seriesInfo name='RFC' value='185' />
-<format type='TXT' octets='1406' target='http://www.rfc-editor.org/rfc/rfc185.txt' />
+<author initials='J.B.' surname='North' fullname='J.B. North'><organization /></author>
+<date year='1971' month='July' />
+</front>
+<seriesInfo name='RFC' value='185'/>
+<seriesInfo name='DOI' value='10.17487/RFC0185'/>
 </reference>

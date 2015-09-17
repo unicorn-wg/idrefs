@@ -1,17 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC5350'>
-
+<reference  anchor='RFC5350' target='http://www.rfc-editor.org/info/rfc5350'>
 <front>
 <title>IANA Considerations for the IPv4 and IPv6 Router Alert Options</title>
-<author initials='J.' surname='Manner' fullname='J. Manner'>
-<organization /></author>
-<author initials='A.' surname='McDonald' fullname='A. McDonald'>
-<organization /></author>
+<author initials='J.' surname='Manner' fullname='J. Manner'><organization /></author>
+<author initials='A.' surname='McDonald' fullname='A. McDonald'><organization /></author>
 <date year='2008' month='September' />
-<abstract>
-<t>This document updates the IANA allocation rules and registry of IPv4 and IPv6 Router Alert Option Values. [STANDARDS-TRACK]</t></abstract></front>
-
-<seriesInfo name='RFC' value='5350' />
-<format type='TXT' octets='17812' target='http://www.rfc-editor.org/rfc/rfc5350.txt' />
+<abstract><t>This document updates the IANA allocation rules and registry of IPv4 and IPv6 Router Alert Option Values.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='5350'/>
+<seriesInfo name='DOI' value='10.17487/RFC5350'/>
 </reference>

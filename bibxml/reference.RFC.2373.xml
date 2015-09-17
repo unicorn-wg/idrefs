@@ -1,47 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2373'>
-
+<reference  anchor='RFC2373' target='http://www.rfc-editor.org/info/rfc2373'>
 <front>
-<title abbrev='IPv6 Addressing'>IP Version 6 Addressing Architecture</title>
-<author initials='R.M.' surname='Hinden' fullname='Robert M. Hinden'>
-<organization>Nokia</organization>
-<address>
-<postal>
-<street>232 Java Drive</street>
-<street>Sunnyvale</street>
-<street>CA 94089</street>
-<country>USA</country></postal>
-<phone>+1 408 990-2004</phone>
-<facsimile>+1 408 743-5677</facsimile>
-<email>hinden@iprg.nokia.com</email></address></author>
-<author initials='S.E.' surname='Deering' fullname='Stephen E. Deering'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<street>San Jose</street>
-<street>CA 95134-1706</street>
-<country>USA</country></postal>
-<phone>+1 408 527-8213</phone>
-<facsimile>+1 408 527-8254</facsimile>
-<email>deering@cisco.com</email></address></author>
+<title>IP Version 6 Addressing Architecture</title>
+<author initials='R.' surname='Hinden' fullname='R. Hinden'><organization /></author>
+<author initials='S.' surname='Deering' fullname='S. Deering'><organization /></author>
 <date year='1998' month='July' />
-<area>Internet</area>
-<keyword>internet protocol version 6</keyword>
-<keyword>IPv6</keyword>
-<keyword>addressing</keyword>
-<keyword>multicast</keyword>
-<abstract>
-<t>
-   This specification defines the addressing architecture of the IP
-   Version 6 protocol .  The document includes the IPv6 addressing
-   model, text representations of IPv6 addresses, definition of IPv6
-   unicast addresses, anycast addresses, and multicast addresses, and an
-   IPv6 node&apos;s required addresses.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2373' />
-<format type='TXT' octets='52526' target='http://www.rfc-editor.org/rfc/rfc2373.txt' />
-<format type='XML' octets='55063' target='http://xml.resource.org/public/rfc/xml/rfc2373.xml' />
+<abstract><t>This specification defines the addressing architecture of the IP Version 6 protocol [IPV6].  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2373'/>
+<seriesInfo name='DOI' value='10.17487/RFC2373'/>
 </reference>

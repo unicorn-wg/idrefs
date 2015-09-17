@@ -1,129 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2130'>
-
+<reference  anchor='RFC2130' target='http://www.rfc-editor.org/info/rfc2130'>
 <front>
-<title abbrev='Character Set Workshop Report'>The Report of the IAB Character Set Workshop held 29 February - 1 March, 1996</title>
-<author initials='C.' surname='Weider' fullname='Chris Weider'>
-<organization>Microsoft Corp.</organization>
-<address>
-<postal>
-<street>1 Microsoft Way</street>
-<street>Redmond</street>
-<street>WA 98052</street>
-<country>USA</country></postal>
-<email>cweider@microsoft.com</email></address></author>
-<author initials='C.' surname='Preston' fullname='Cecilia Preston'>
-<organization>Preston &amp; Lynch</organization>
-<address>
-<postal>
-<street>PO Box 8310</street>
-<street>Emeryville</street>
-<street>CA 94662</street>
-<country>USA</country></postal>
-<email>cecilia@well.com</email></address></author>
-<author initials='K.' surname='Simonsen' fullname='Keld Simonsen'>
-<organization>DKUUG</organization>
-<address>
-<postal>
-<street>Freubjergvey 3</street>
-<street>DK-2100 Kxbenhavn X</street>
-<street>Danmark</street></postal>
-<email>Keld@dkuug.dk</email></address></author>
-<author initials='H.T.' surname='Alvestrand' fullname='Harald T. Alvestrand'>
-<organization>UNINETT</organization>
-<address>
-<postal>
-<street>P.O.Box 6883 Elgeseter</street>
-<street>N-7002 TRONDHEIM</street>
-<country>NORWAY</country></postal>
-<email>Harald.T.Alvestrand@uninett.no</email></address></author>
-<author initials='R.' surname='Atkinson' fullname='Randall Atkinson'>
-<organization>cisco Systems</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<street>San Jose</street>
-<street>CA 95134-1706</street>
-<country>USA</country></postal>
-<email>rja@cisco.com</email></address></author>
-<author initials='M.' surname='Crispin' fullname='Mark Crispin'>
-<organization>Networks &amp; Distributed Computing</organization>
-<address>
-<postal>
-<street>University of Washington</street>
-<street>4545 15th Avenue</street>
-<street>Seattle</street>
-<street>WA  98105-4527</street>
-<country>USA</country></postal>
-<email>mrc@cac.washington.edu</email></address></author>
-<author initials='P.' surname='Svanberg' fullname='Peter Svanberg'>
-<organization>Dept. of Numberical Analysis and Computing Science (Nada)</organization>
-<address>
-<postal>
-<street>Royal Institute of Technology</street>
-<street>SE-100 44 STOCKHOLM</street>
-<country>SWEDEN</country></postal>
-<email>psv@nada.kth.se</email></address></author>
+<title>The Report of the IAB Character Set Workshop held 29 February - 1 March, 1996</title>
+<author initials='C.' surname='Weider' fullname='C. Weider'><organization /></author>
+<author initials='C.' surname='Preston' fullname='C. Preston'><organization /></author>
+<author initials='K.' surname='Simonsen' fullname='K. Simonsen'><organization /></author>
+<author initials='H.' surname='Alvestrand' fullname='H. Alvestrand'><organization /></author>
+<author initials='R.' surname='Atkinson' fullname='R. Atkinson'><organization /></author>
+<author initials='M.' surname='Crispin' fullname='M. Crispin'><organization /></author>
+<author initials='P.' surname='Svanberg' fullname='P. Svanberg'><organization /></author>
 <date year='1997' month='April' />
-<area>Applications</area>
-<keyword>Internet Architecture Board</keyword>
-<keyword>character encoding</keyword>
-<keyword>multipurpose internet mail extensions</keyword>
-<keyword>workshop</keyword>
-<abstract>
-<t>
-   This report details the conclusions of an IAB-sponsored invitational
-   workshop held 29 February  - 1 March, 1996, to discuss the use of
-   character sets on the Internet.  It motivates the need to have
-   character set handling in Internet protocols which transmit text,
-   provides a conceptual framework for specifying character sets,
-   recommends the use of MIME tagging for transmitted text, recommends a
-   default character set *without* stating that there is no need for
-   other character sets, and makes a series of recommendations to the
-   IAB, IANA, and the IESG for furthering the integration of the
-   character set framework into text transmission protocols.
-</t></abstract>
-<note title='Executive summary'>
-<t>
-   The term &apos;Character Set&apos; means many things to many people. Even the
-   MIME registry of character sets registers items that have great
-   differences in semantics and applicability. This workshop provides
-   guidance to the IAB and IETF about the use of character sets on the
-   Internet and provides a common framework for interoperability between
-   the many characters in use there.
-</t>
-<t>
-   The framework consists of four components: an architecture model,
-   which specifies components necessary for on-the-wire transmission of
-   text; recommendations for tagging transmitted (and stored) text;
-   recommended defaults for each level of the model; and a set of
-   recommendations to the IAB, IANA, and the IESG for furthering the
-   integration of  this framework into text transmission protocols.
-</t>
-<t>
-   The architectural model specifies 7 layers, of which only three are
-   required for on-the-wire transmission. The Coded Character Set is a
-   mapping from a set of abstract characters to a set of integers. The
-   Character Encoding Scheme is a mapping from a Coded Character Set (or
-   several) to a set of octets. The Transfer Encoding Syntax is a
-   transformation applied to data which has been encoded using a
-   Character Encoding Scheme to allow it to be transmitted. These layers
-   should be specified in a transmitted text stream by using the MIME
-   encoding mechanisms.
-</t>
-<t>
-   This report recommends the use of ISO 10646 as the default Coded
-   Character Set, and UTF-8 as the default Character Encoding Scheme in
-   the creation of new protocols or new version of old protocols which
-   transmit text. These defaults do not deprecate the use of other
-   character sets when and where they are needed; they are simply
-   intended to provide guidance and a specification for
-   interoperability.
-</t></note></front>
-
-<seriesInfo name='RFC' value='2130' />
-<format type='TXT' octets='63443' target='http://www.rfc-editor.org/rfc/rfc2130.txt' />
-<format type='HTML' octets='89544' target='http://xml.resource.org/public/rfc/html/rfc2130.html' />
-<format type='XML' octets='58528' target='http://xml.resource.org/public/rfc/xml/rfc2130.xml' />
+<abstract><t>This report details the conclusions of an IAB-sponsored invitational workshop held 29 February  - 1 March, 1996, to discuss the use of character sets on the Internet.  It motivates the need to have character set handling in Internet protocols which transmit text, provides a conceptual framework for specifying character sets, recommends the use of MIME tagging for transmitted text, recommends a default character set *without* stating that there is no need for other character sets, and makes a series of recommendations to the IAB, IANA, and the IESG for furthering the integration of the character set framework into text transmission protocols.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2130'/>
+<seriesInfo name='DOI' value='10.17487/RFC2130'/>
 </reference>

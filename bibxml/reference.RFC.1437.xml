@@ -1,37 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1437'>
-
+<reference  anchor='RFC1437' target='http://www.rfc-editor.org/info/rfc1437'>
 <front>
-<title abbrev='MIME Content-Types for a New Medium'>The Extension of MIME Content-Types to a New Medium</title>
-<author initials='N.' surname='Borenstein' fullname='Nathaniel Borenstein'>
-<organization>Bellcore</organization>
-<address>
-<postal>
-<street>445 South Street</street>
-<street>Bellcore Room MRE 2D-296</street>
-<city>Morristown</city>
-<region>NJ</region>
-<code>07962-1910</code>
-<country>US</country></postal>
-<phone>+1 201 829 4270</phone>
-<email>nsb@bellcore.com</email></address></author>
-<author initials='M.' surname='Linimon' fullname='Mark Linimon'>
-<organization>Lonesome Dove Computing Services</organization>
-<address>
-<postal>
-<street>P.O. Box 20291</street>
-<city>Roanoke</city>
-<region>VA</region>
-<code>24018</code>
-<country>US</country></postal>
-<phone>+1 703 776 1004</phone>
-<email>linimon@LONESOME.COM</email></address></author>
-<date year='1993' day='1' month='April' />
-<abstract>
-<t>A previous document, RFC 1341, defines a format and general framework for the representation of a wide variety of data types in Internet mail.  This document defines one particular type of MIME data, the matter-transport/sentient-life-form type.  The matter- transport/sentient-life-form MIME type is intended to facilitate the wider interoperation of electronic mail messages that include entire sentient life forms, such as human beings.</t>
-<t>Other informally proposed subtypes, such as "non-sentient-life-form", "non-sentient-non-life-form", and the orthogonally necessary but nevertheless puzzling "sentient-non-life-form", are not described in this memo.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1437' />
-<format type='TXT' octets='13356' target='http://www.rfc-editor.org/rfc/rfc1437.txt' />
+<title>The Extension of MIME Content-Types to a New Medium</title>
+<author initials='N.' surname='Borenstein' fullname='N. Borenstein'><organization /></author>
+<author initials='M.' surname='Linimon' fullname='M. Linimon'><organization /></author>
+<date year='1993' month='April' />
+<abstract><t>This document defines one particular type of MIME data, the matter- transport/sentient-life-form type.  This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1437'/>
+<seriesInfo name='DOI' value='10.17487/RFC1437'/>
 </reference>

@@ -1,73 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2708'>
-
+<reference  anchor='RFC2708' target='http://www.rfc-editor.org/info/rfc2708'>
 <front>
-<title abbrev='Job Submission Protocol Mapping'>Job Submission Protocol Mapping Recommendations for the Job Monitoring MIB</title>
-<author initials='R.' surname='Bergman' fullname='Ron Bergman'>
-<organization>Dataproducts Corp.</organization>
-<address>
-<postal>
-<street>1757 Tapo Canyon Road</street>
-<city>Simi Valley</city>
-<region>CA</region>
-<code>93063-3394</code>
-<country>US</country></postal>
-<phone>+1 805 578 4421</phone>
-<facsimile>+1 805 578 4001</facsimile>
-<email>rbergman@dpc.com</email></address></author>
-<author initials='T.' surname='Hastings' fullname='Tom Hastings'>
-<organization>Xerox Corporation, ESAE-231</organization>
-<address>
-<postal>
-<street>701 S. Aviation Blvd.</street>
-<city>El Segundo</city>
-<region>CA</region>
-<code>90245</code>
-<country>US</country></postal>
-<phone>+1 310 333 6413</phone>
-<facsimile>+1 310 333 5514</facsimile>
-<email>hastings@cp10.es.xerox.com</email></address></author>
-<author initials='S.' surname='Isaacson' fullname='Scott A. Isaacson'>
-<organization>Novell, Inc.</organization>
-<address>
-<postal>
-<street>122 E 1700 S</street>
-<city>Provo</city>
-<region>UT</region>
-<code>84606</code>
-<country>US</country></postal>
-<phone>+1 801 861 7366</phone>
-<facsimile>+1 801 861 4025</facsimile>
-<email>scott_isaacson@novell.com</email></address></author>
-<author initials='H.' surname='Lewis' fullname='Harry Lewis'>
-<organization>IBM Corporation</organization>
-<address>
-<postal>
-<street>6300 Diagonal Hwy</street>
-<city>Boulder</city>
-<region>CO</region>
-<code>80301</code>
-<country>US</country></postal>
-<phone>+1 303 924 5337</phone>
-<facsimile>+1 303 924-4662</facsimile>
-<email>harryl@us.ibm.com</email></address></author>
-<author initials='B.' surname='Pentecost' fullname='Bob Pentecost'>
-<organization>Hewlett-Packard Corporation</organization>
-<address>
-<postal>
-<street>11311 Chinden Boulevard</street>
-<city>Boise</city>
-<region>ID</region>
-<code>83714</code>
-<country>US</country></postal>
-<phone>+1 208 396 3312</phone>
-<facsimile>+1 208 396 4122</facsimile>
-<email>bpenteco@boi.hp.com</email></address></author>
+<title>Job Submission Protocol Mapping Recommendations for the Job Monitoring MIB</title>
+<author initials='R.' surname='Bergman' fullname='R. Bergman'><organization /></author>
 <date year='1999' month='November' />
-<abstract>
-<t>This document defines the recommended mapping for many currently popular Job submission protocols to objects and attributes in the Job Monitoring MIB.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2708' />
-<format type='TXT' octets='57489' target='http://www.rfc-editor.org/rfc/rfc2708.txt' />
+<abstract><t>This document defines the recommended mapping for many currently popular Job submission protocols to objects and attributes in the Job Monitoring MIB.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2708'/>
+<seriesInfo name='DOI' value='10.17487/RFC2708'/>
 </reference>

@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0073'>
-
+<reference  anchor='RFC0073' target='http://www.rfc-editor.org/info/rfc73'>
 <front>
 <title>Response to NWG/RFC 67</title>
-<author initials='S.' surname='Crocker' fullname='S. Crocker'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<date year='1970' day='25' month='September' />
-<abstract>
-<t>Bill's suggestion is a good one; however, my current policy is to encourage the most rapid implementation of the protocol in document #1, and his suggested modification should be delayed.  It seems to me most important to gain experience using the network before making changes to the protocol which are not dictated by necessity.</t></abstract></front>
-
-<seriesInfo name='RFC' value='73' />
-<format type='TXT' octets='1268' target='http://www.rfc-editor.org/rfc/rfc73.txt' />
+<author initials='S.D.' surname='Crocker' fullname='S.D. Crocker'><organization /></author>
+<date year='1970' month='September' />
+</front>
+<seriesInfo name='RFC' value='73'/>
+<seriesInfo name='DOI' value='10.17487/RFC0073'/>
 </reference>

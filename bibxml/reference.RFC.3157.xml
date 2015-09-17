@@ -1,17 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC3157'>
-
+<reference  anchor='RFC3157' target='http://www.rfc-editor.org/info/rfc3157'>
 <front>
 <title>Securely Available Credentials - Requirements</title>
-<author initials='A.' surname='Arsenault' fullname='A. Arsenault'>
-<organization /></author>
-<author initials='S.' surname='Farrell' fullname='S. Farrell'>
-<organization /></author>
+<author initials='A.' surname='Arsenault' fullname='A. Arsenault'><organization /></author>
+<author initials='S.' surname='Farrell' fullname='S. Farrell'><organization /></author>
 <date year='2001' month='August' />
-<abstract>
-<t>This document describes requirements to be placed on Securely Available Credentials (SACRED) protocols.  This memo provides information for the Internet community.</t></abstract></front>
-
-<seriesInfo name='RFC' value='3157' />
-<format type='TXT' octets='46169' target='http://www.rfc-editor.org/rfc/rfc3157.txt' />
+<abstract><t>This document describes requirements to be placed on Securely Available Credentials (SACRED) protocols.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='3157'/>
+<seriesInfo name='DOI' value='10.17487/RFC3157'/>
 </reference>

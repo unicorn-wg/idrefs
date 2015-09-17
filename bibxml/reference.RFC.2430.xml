@@ -1,33 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2430'>
-
+<reference  anchor='RFC2430' target='http://www.rfc-editor.org/info/rfc2430'>
 <front>
-<title abbrev='PASTE'>A Provider Architecture for Differentiated Services and Traffic Engineering (PASTE)</title>
-<author initials='T.' surname='Li' fullname='Tony Li'>
-<organization>Juniper Networks, Inc.</organization>
-<address>
-<postal>
-<street>385 Ravendale Dr.</street>
-<street>Mountain View</street>
-<street>CA 94043</street></postal>
-<phone>+1 650 526 8006</phone>
-<facsimile>+1 650 526 8001</facsimile>
-<email>tli@juniper.net</email></address></author>
-<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
-<organization>cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 W. Tasman Dr.</street>
-<street>San Jose</street>
-<street>CA 95134</street></postal>
-<email>yakov@cisco.com</email></address></author>
+<title>A Provider Architecture for Differentiated Services and Traffic Engineering (PASTE)</title>
+<author initials='T.' surname='Li' fullname='T. Li'><organization /></author>
+<author initials='Y.' surname='Rekhter' fullname='Y. Rekhter'><organization /></author>
 <date year='1998' month='October' />
-<area>Internet</area>
-<keyword>differentiated service</keyword>
-<keyword>RSVP</keyword></front>
-
-<seriesInfo name='RFC' value='2430' />
-<format type='TXT' octets='40148' target='http://www.rfc-editor.org/rfc/rfc2430.txt' />
-<format type='XML' octets='42258' target='http://xml.resource.org/public/rfc/xml/rfc2430.xml' />
+<abstract><t>This document describes the Provider Architecture for Differentiated Services and Traffic Engineering (PASTE) for Internet Service Providers (ISPs).  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2430'/>
+<seriesInfo name='DOI' value='10.17487/RFC2430'/>
 </reference>

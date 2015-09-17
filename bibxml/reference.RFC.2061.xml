@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2061'>
-
+<reference  anchor='RFC2061' target='http://www.rfc-editor.org/info/rfc2061'>
 <front>
-<title abbrev='IMAP4 Compatibility'>IMAP4 Compatibility with IMAP2bis</title>
-<author initials='M.' surname='Crispin' fullname='Mark R. Crispin'>
-<organization>University of Washington, Networks and Distributed Computing</organization>
-<address>
-<postal>
-<street>4545 15th Aveneue NE</street>
-<city>Seattle</city>
-<region>WA</region>
-<code>98105-4527</code>
-<country>US</country></postal>
-<phone>+1 206 543 5762</phone>
-<email>MRC@CAC.Washington.EDU</email></address></author>
+<title>IMAP4 Compatibility with IMAP2bis</title>
+<author initials='M.' surname='Crispin' fullname='M. Crispin'><organization /></author>
 <date year='1996' month='December' />
-<abstract>
-<t></t></abstract></front>
-
-<seriesInfo name='RFC' value='2061' />
-<format type='TXT' octets='5867' target='http://www.rfc-editor.org/rfc/rfc2061.txt' />
+<abstract><t>This document is intended to be read along with RFC 1176 and the most recent IMAP4 specification (RFC 2060) to assist implementors in creating an IMAP4 implementation to interoperate with implementations that conform to earlier specifications.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2061'/>
+<seriesInfo name='DOI' value='10.17487/RFC2061'/>
 </reference>

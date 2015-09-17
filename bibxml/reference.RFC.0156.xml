@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0156'>
-
+<reference  anchor='RFC0156' target='http://www.rfc-editor.org/info/rfc156'>
 <front>
 <title>Status of the Illinois site: Response to RFC 116</title>
-<author initials='J.' surname='Bouknight' fullname='J. Bouknight'>
-<organization>University of Illinois</organization></author>
-<date year='1971' day='26' month='April' />
-<abstract>
-<t>As of the date of the report, 26 April, the Illinois Site has complete operational hardware connecting the PDP-11 system with the IMP.</t></abstract></front>
-
-<seriesInfo name='RFC' value='156' />
-<format type='TXT' octets='1171' target='http://www.rfc-editor.org/rfc/rfc156.txt' />
+<author initials='J.' surname='Bouknight' fullname='J. Bouknight'><organization /></author>
+<date year='1971' month='April' />
+</front>
+<seriesInfo name='RFC' value='156'/>
+<seriesInfo name='DOI' value='10.17487/RFC0156'/>
 </reference>

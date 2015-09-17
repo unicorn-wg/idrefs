@@ -1,40 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1901'>
-
+<reference  anchor='RFC1901' target='http://www.rfc-editor.org/info/rfc1901'>
 <front>
 <title>Introduction to Community-based SNMPv2</title>
-<author initials='J.D.' surname='Case' fullname='Jeffrey D. Case'>
-<organization>SNMP Research</organization>
-<address>
-<email>case@snmp.com</email></address></author>
-<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134-1706</code>
-<country>US</country></postal>
-<phone>+1 408 526 5260</phone>
-<email>kzm@cisco.com</email></address></author>
-<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
-<organization>Cisco Systems</organization>
-<address>
-<email>kzm@cisco.com</email></address></author>
-<author initials='M.T.' surname='Rose' fullname='Marshall T. Rose'>
-<organization>Dover Beach Consulting</organization>
-<address>
-<email>mrose@dbc.mtview.ca.us</email></address></author>
-<author initials='S.' surname='Waldbusser' fullname='Steve  Waldbusser'>
-<organization>International Network Services,</organization>
-<address>
-<email>stevew@uni.ins.com</email></address></author>
+<author initials='J.' surname='Case' fullname='J. Case'><organization /></author>
+<author initials='K.' surname='McCloghrie' fullname='K. McCloghrie'><organization /></author>
+<author initials='M.' surname='Rose' fullname='M. Rose'><organization /></author>
+<author initials='S.' surname='Waldbusser' fullname='S. Waldbusser'><organization /></author>
 <date year='1996' month='January' />
-<abstract>
-<t></t></abstract></front>
-
-<seriesInfo name='RFC' value='1901' />
-<format type='TXT' octets='15903' target='http://www.rfc-editor.org/rfc/rfc1901.txt' />
+<abstract><t>The purpose of this document is to define the Community-based Administrative Framework for the SNMP version 2 framework (SNMPv2). This document specifies an Experimental protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1901'/>
+<seriesInfo name='DOI' value='10.17487/RFC1901'/>
 </reference>

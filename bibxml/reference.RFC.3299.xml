@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC3299'>
-
+<reference  anchor='RFC3299' target='http://www.rfc-editor.org/info/rfc3299'>
 <front>
 <title>Request for Comments Summary RFC Numbers 3200-3299</title>
-<author initials='S.' surname='Ginoza' fullname='S. Ginoza'>
-<organization /></author>
-<date year='2003' month='December' /></front>
-
-<seriesInfo name='RFC' value='3299' />
-<format type='TXT' octets='63813' target='http://www.rfc-editor.org/rfc/rfc3299.txt' />
+<author initials='S.' surname='Ginoza' fullname='S. Ginoza'><organization /></author>
+<date year='2003' month='December' />
+</front>
+<seriesInfo name='RFC' value='3299'/>
+<seriesInfo name='DOI' value='10.17487/RFC3299'/>
 </reference>

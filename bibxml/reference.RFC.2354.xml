@@ -1,44 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2354'>
-
+<reference  anchor='RFC2354' target='http://www.rfc-editor.org/info/rfc2354'>
 <front>
 <title>Options for Repair of Streaming Media</title>
-<author initials='C.' surname='Perkins' fullname='Colin Perkins'>
-<organization>Department of Computer Science</organization>
-<address>
-<postal>
-<street>University College London</street>
-<street>Gower Street</street>
-<street>London WC1E 6BT</street>
-<country>United Kingdom</country></postal>
-<email>c.perkins@cs.ucl.ac.uk</email></address></author>
-<author initials='O.' surname='Hodson' fullname='Orion Hodson'>
-<organization>Department of Computer Science</organization>
-<address>
-<postal>
-<street>University College London</street>
-<street>Gower Street</street>
-<street>London WC1E 6BT</street>
-<country>United Kingdom</country></postal>
-<email>o.hodson@cs.ucl.ac.uk</email></address></author>
+<author initials='C.' surname='Perkins' fullname='C. Perkins'><organization /></author>
+<author initials='O.' surname='Hodson' fullname='O. Hodson'><organization /></author>
 <date year='1998' month='June' />
-<area>Transport</area>
-<keyword>audio</keyword>
-<keyword>multimedia</keyword>
-<keyword>video</keyword>
-<abstract>
-<t>
-   This document summarizes a range of possible techniques for the
-   repair of continuous media streams subject to packet loss.  The
-   techniques discussed include redundant transmission, retransmission,
-   interleaving and forward error correction.  The range of
-   applicability of these techniques is noted, together with the
-   protocol requirements and dependencies.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2354' />
-<format type='TXT' octets='28876' target='http://www.rfc-editor.org/rfc/rfc2354.txt' />
-<format type='HTML' octets='43819' target='http://xml.resource.org/public/rfc/html/rfc2354.html' />
-<format type='XML' octets='28303' target='http://xml.resource.org/public/rfc/xml/rfc2354.xml' />
+<abstract><t>This document summarizes a range of possible techniques for the repair of continuous media streams subject to packet loss.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2354'/>
+<seriesInfo name='DOI' value='10.17487/RFC2354'/>
 </reference>

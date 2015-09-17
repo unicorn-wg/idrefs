@@ -1,50 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2366'>
-
+<reference  anchor='RFC2366' target='http://www.rfc-editor.org/info/rfc2366'>
 <front>
-<title abbrev='ATM Multicast MIB'>Definitions of Managed Objects for Multicast over UNI 3.0/3.1 based ATM Networks</title>
-<author initials='C.' surname='Chung' fullname='Chris Chung'>
-<organization>Science Applications International Corp. (SAIC)</organization>
-<address>
-<postal>
-<street>1710 Goodridge Drive</street>
-<street>Mail Stop 1-4-7</street>
-<street>McLean</street>
-<street>VA 22102</street></postal>
-<phone>(703) 448-6485</phone>
-<email>cchung@tieo.saic.com</email></address></author>
-<author initials='M.' surname='Greene' fullname='Maria Greene'>
-<organization>Independent Contractor</organization>
-<address>
-<email>maria@xedia.com</email></address></author>
+<title>Definitions of Managed Objects for Multicast over UNI 3.0/3.1 based ATM Networks</title>
+<author initials='C.' surname='Chung' fullname='C. Chung'><organization /></author>
+<author initials='M.' surname='Greene' fullname='M. Greene'><organization /></author>
 <date year='1998' month='July' />
-<area>Internet</area>
-<area>Management</area>
-<keyword>Management Information Base</keyword>
-<keyword>asynchronous transfer mode</keyword>
-<keyword>managed object</keyword>
-<keyword>multicast</keyword>
-<keyword>simple network management protocol</keyword>
-<abstract>
-<t>
-   This memo defines a portion of the Management Information Base (MIB)
-   for use with network management protocols in the Internet community.
-   In particular, it describes managed objects for IP hosts and routers
-   that use a Multicast Address Resolution Server (MARS) to support IP
-   multicast over ATM, as described in &apos;Support for Multicast over UNI
-   3.0/3.1 based ATM Networks&apos; .
-</t>
-<t>
-   This memo specifies a MIB module in a manner that is both compliant
-   to the SNMPv2 SMI, and semantically identical to the peer SNMPv1
-   definitions.
-</t>
-<t>
-   This memo does not specify a standard for the Internet community.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2366' />
-<format type='TXT' octets='134312' target='http://www.rfc-editor.org/rfc/rfc2366.txt' />
-<format type='XML' octets='128987' target='http://xml.resource.org/public/rfc/xml/rfc2366.xml' />
+<abstract><t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects for IP hosts and routers that use a Multicast Address Resolution Server (MARS) to support IP multicast over ATM, as described in 'Support for Multicast over UNI 3.0/3.1 based ATM Networks'.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2366'/>
+<seriesInfo name='DOI' value='10.17487/RFC2366'/>
 </reference>

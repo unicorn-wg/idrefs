@@ -1,27 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2034'>
-
+<reference  anchor='RFC2034' target='http://www.rfc-editor.org/info/rfc2034'>
 <front>
-<title abbrev='SMTP Enhanced Error Codes'>SMTP Service Extension for Returning Enhanced Error Codes</title>
-<author initials='N.' surname='Freed' fullname='Ned Freed'>
-<organization>Innosoft International, Inc.</organization>
-<address>
-<postal>
-<street>1050 East Garvey Avenue South</street>
-<street>West Covina</street>
-<street>CA 91790</street>
-<country>USA</country></postal>
-<phone>+1 818 919 3600           fax: +1 818 919 3614</phone>
-<email>ned@innosoft.com</email></address></author>
+<title>SMTP Service Extension for Returning Enhanced Error Codes</title>
+<author initials='N.' surname='Freed' fullname='N. Freed'><organization /></author>
 <date year='1996' month='October' />
-<area>Applications</area>
-<keyword>SMTP</keyword>
-<keyword>point-to-point protocol</keyword>
-<keyword>simple mail transfer protocol</keyword></front>
-
-<seriesInfo name='RFC' value='2034' />
-<format type='TXT' octets='10460' target='http://www.rfc-editor.org/rfc/rfc2034.txt' />
-<format type='HTML' octets='23995' target='http://xml.resource.org/public/rfc/html/rfc2034.html' />
-<format type='XML' octets='10864' target='http://xml.resource.org/public/rfc/xml/rfc2034.xml' />
+<abstract><t>This memo defines an extension to the SMTP service [RFC-821, RFC-1869] whereby an SMTP server augments its responses with the enhanced mail system status codes defined in RFC 1893.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2034'/>
+<seriesInfo name='DOI' value='10.17487/RFC2034'/>
 </reference>

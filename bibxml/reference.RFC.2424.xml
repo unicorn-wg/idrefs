@@ -1,42 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2424'>
-
+<reference  anchor='RFC2424' target='http://www.rfc-editor.org/info/rfc2424'>
 <front>
-<title abbrev='Content-Duration'>Content Duration MIME Header Definition</title>
-<author initials='G.M.' surname='Vaudreuil' fullname='Gregory M. Vaudreuil'>
-<organization>Lucent Technologies</organization>
-<address>
-<postal>
-<street>17080 Dallas Parkway</street>
-<city>Dallas</city>
-<region>TX</region>
-<code>75248-1905</code>
-<country>USA</country></postal>
-<phone>+1 972 733 2722</phone>
-<email>GregV@Lucent.Com</email></address></author>
-<author initials='G.W.' surname='Parsons' fullname='Glenn W. Parsons'>
-<organization>Northern Telecom</organization>
-<address>
-<postal>
-<street>P.O. Box 3511</street>
-<street>Station C</street>
-<city>Ottawa</city>
-<region>ON</region>
-<code>K1Y 4H7</code>
-<country>Canada</country></postal>
-<phone>+1 613 763 7582</phone>
-<facsimile>+1 613 763 4461</facsimile>
-<email>Glenn.Parsons@Nortel.ca</email></address></author>
+<title>Content Duration MIME Header Definition</title>
+<author initials='G.' surname='Vaudreuil' fullname='G. Vaudreuil'><organization /></author>
+<author initials='G.' surname='Parsons' fullname='G. Parsons'><organization /></author>
 <date year='1998' month='September' />
-<area>Applications</area>
-<keyword>audio</keyword>
-<keyword>multipurpose internet mail extensions</keyword>
-<keyword>video</keyword>
-<keyword>MIME</keyword></front>
-
-<seriesInfo name='RFC' value='2424' />
-<format type='TXT' octets='7116' target='http://www.rfc-editor.org/rfc/rfc2424.txt' />
-<format type='HTML' octets='22424' target='http://xml.resource.org/public/rfc/html/rfc2424.html' />
-<format type='XML' octets='14615' target='http://xml.resource.org/public/rfc/xml/rfc2424.xml' />
+<abstract><t>This document describes the MIME header Content-Duration that is intended for use with any timed media content (typically audio/* or video/*).  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2424'/>
+<seriesInfo name='DOI' value='10.17487/RFC2424'/>
 </reference>

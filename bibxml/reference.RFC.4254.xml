@@ -1,17 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC4254'>
-
+<reference  anchor='RFC4254' target='http://www.rfc-editor.org/info/rfc4254'>
 <front>
 <title>The Secure Shell (SSH) Connection Protocol</title>
-<author initials='T.' surname='Ylonen' fullname='T. Ylonen'>
-<organization /></author>
-<author initials='C.' surname='Lonvick' fullname='C. Lonvick'>
-<organization /></author>
+<author initials='T.' surname='Ylonen' fullname='T. Ylonen'><organization /></author>
+<author initials='C.' surname='Lonvick' fullname='C. Lonvick' role='editor'><organization /></author>
 <date year='2006' month='January' />
-<abstract>
-<t>Secure Shell (SSH) is a protocol for secure remote login and other secure network services over an insecure network.&lt;/t>&lt;t> This document describes the SSH Connection Protocol. It provides interactive login sessions, remote execution of commands, forwarded TCP/IP connections, and forwarded X11 connections. All of these channels are multiplexed into a single encrypted tunnel.&lt;/t>&lt;t> The SSH Connection Protocol has been designed to run on top of the SSH transport layer and user authentication protocols. [STANDARDS-TRACK]</t></abstract></front>
-
-<seriesInfo name='RFC' value='4254' />
-<format type='TXT' octets='50338' target='http://www.rfc-editor.org/rfc/rfc4254.txt' />
+<abstract><t>Secure Shell (SSH) is a protocol for secure remote login and other secure network services over an insecure network.</t><t>This document describes the SSH Connection Protocol.  It provides interactive login sessions, remote execution of commands, forwarded TCP/IP connections, and forwarded X11 connections.  All of these channels are multiplexed into a single encrypted tunnel.</t><t>The SSH Connection Protocol has been designed to run on top of the SSH transport layer and user authentication protocols.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='4254'/>
+<seriesInfo name='DOI' value='10.17487/RFC4254'/>
 </reference>

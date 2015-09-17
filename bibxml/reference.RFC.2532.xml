@@ -1,38 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2532'>
-
+<reference  anchor='RFC2532' target='http://www.rfc-editor.org/info/rfc2532'>
 <front>
-<title abbrev='Extended Internet Fax'>Extended Facsimile Using Internet Mail</title>
-<author initials='L.' surname='Masinter' fullname='Larry Masinter'>
-<organization>Xerox Palo Alto Research Center</organization>
-<address>
-<postal>
-<street>3333 Coyote Hill Road</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94304</code>
-<country>US</country></postal>
-<facsimile>+1 650 812 4333</facsimile>
-<email>masinter@parc.xerox.com</email></address></author>
-<author initials='D.' surname='Wing' fullname='Dan Wing'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>101 Cooper Street</street>
-<city>Santa Cruz</city>
-<region>CA</region>
-<code>95060</code>
-<country>US</country></postal>
-<phone>+1 831 457 5200</phone>
-<facsimile>+1 831 457 5208</facsimile>
-<email>dwing@cisco.com</email></address></author>
+<title>Extended Facsimile Using Internet Mail</title>
+<author initials='L.' surname='Masinter' fullname='L. Masinter'><organization /></author>
+<author initials='D.' surname='Wing' fullname='D. Wing'><organization /></author>
 <date year='1999' month='March' />
-<abstract>
-<t>This document describes extensions to "Simple Mode of Facsimile Using Internet Mail"and describes additional features, including transmission of enhanced document characteristics (higher resolution, color) and confirmation of delivery and processing.</t>
-<t>These additional features are designed to provide the highest level of interoperability with the existing and future standards-compliant email infrastructure and mail user agents, while providing a level of service that approximates the level currently enjoyed by fax users.</t>
-<t>The IETF has been notified of intellectual property rights claimed in regard to some or all of the specification contained in this document.  For more information consult the online list of claimed rights in http://www.ietf.org/ipr.html.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2532' />
-<format type='TXT' octets='22717' target='http://www.rfc-editor.org/rfc/rfc2532.txt' />
+<abstract><t>This document describes extensions to &quot;Simple Mode of Facsimile Using Internet Mail&quot;, and describes additional features, including transmission of enhanced document characteristics (higher resolution, color) and confirmation of delivery and processing.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2532'/>
+<seriesInfo name='DOI' value='10.17487/RFC2532'/>
 </reference>

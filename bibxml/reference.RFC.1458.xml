@@ -1,33 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1458'>
-
+<reference  anchor='RFC1458' target='http://www.rfc-editor.org/info/rfc1458'>
 <front>
 <title>Requirements for Multicast Protocols</title>
-<author initials='B.' surname='Braudes' fullname='Bob Braudes'>
-<organization>TASC</organization>
-<address>
-<postal>
-<street>55 Walkers Brook Drive</street>
-<city>Reading</city>
-<region>MA</region>
-<code>01867</code>
-<country>US</country></postal>
-<phone>+1 617 942 2000</phone>
-<email>rebraudes@tasc.com</email></address></author>
-<author initials='S.' surname='Zabele' fullname='Steve Zabele'>
-<organization>TASC</organization>
-<address>
-<postal>
-<street>55 Walkers Brook Drive</street>
-<city>Reading</city>
-<region>MA</region>
-<code>01867</code>
-<country>US</country></postal>
-<phone>+1 617 942 2000</phone>
-<email>gszabele@tasc.com</email></address></author>
-<date year='1993' month='May' /></front>
-
-<seriesInfo name='RFC' value='1458' />
-<format type='TXT' octets='48106' target='http://www.rfc-editor.org/rfc/rfc1458.txt' />
+<author initials='R.' surname='Braudes' fullname='R. Braudes'><organization /></author>
+<author initials='S.' surname='Zabele' fullname='S. Zabele'><organization /></author>
+<date year='1993' month='May' />
+<abstract><t>This memo discusses some of these unresolved issues, and provides a high-level design for a new multicast transport protocol, group address and membership authority, and modifications to existing routing protocols.  This memo provides information for the Internet community. It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1458'/>
+<seriesInfo name='DOI' value='10.17487/RFC1458'/>
 </reference>

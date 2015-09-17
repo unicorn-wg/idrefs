@@ -1,27 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1711'>
-
+<reference  anchor='RFC1711' target='http://www.rfc-editor.org/info/rfc1711'>
 <front>
 <title>Classifications in E-mail Routing</title>
-<author initials='J.' surname='Houttuin' fullname='Jeroen Houttuin'>
-<organization>RARE Secretariat</organization>
-<address>
-<postal>
-<street>Singel 466-468</street>
-<city>Amsterdam</city>
-<region />
-<code>NL-1017 AW</code>
-<country>NL</country></postal>
-<phone>+31 20 6391131</phone>
-<facsimile>+31 20 6393289</facsimile>
-<email>houttuin@rare.nl</email></address></author>
+<author initials='J.' surname='Houttuin' fullname='J. Houttuin'><organization /></author>
 <date year='1994' month='October' />
-<abstract>
-<t>This paper presents a classification for e-mail routing issues. It clearly defines commonly used terminology such as static routing, store-and-forward routing, source routing and others. Real life examples show which routing options are used in existing projects.</t>
-<t>The goal is to define all terminology in one reference paper. This will also help relatively new mail system managers to understand the issues and make the right choices. The reader is expected to already have a solid understanding of general networking terminology.</t>
-<t>In this paper, the word Message Transfer Agent (MTA) is used to describe a routing entity, which can be an X.400 MTA, a UNIX mailer, or any other piece of software performing mail routing functions. An MTA processes the so called envelope information of a message. The term User Agent (UA) is used to describe a piece of software performing user related mail functions. It processes the contents of a message's envelope, i.e., the header fields and body parts.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1711' />
-<format type='TXT' octets='47584' target='http://www.rfc-editor.org/rfc/rfc1711.txt' />
+<abstract><t>This paper presents a classification for e-mail routing issues. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1711'/>
+<seriesInfo name='DOI' value='10.17487/RFC1711'/>
 </reference>

@@ -1,50 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1237'>
-
+<reference  anchor='RFC1237' target='http://www.rfc-editor.org/info/rfc1237'>
 <front>
 <title>Guidelines for OSI NSAP Allocation in the Internet</title>
-<author initials='R.' surname='Colella' fullname='Richard P. Colella'>
-<organization>National Institute of Standards &amp; Technology (NIST)</organization>
-<address>
-<postal>
-<street>Building 225/Room B217</street>
-<city>Gaithersburg</city>
-<region>MD</region>
-<code>20899</code>
-<country>US</country></postal>
-<phone>+1 301 975 3627</phone>
-<email>colella@osi3.ncsl.nist.gov</email></address></author>
-<author initials='E.' surname='Gardner' fullname='Ella P. Gardner'>
-<organization>The MITRE Corporation</organization>
-<address>
-<postal>
-<street>7525 Colshire Drive</street>
-<city>McLean</city>
-<region>VA</region>
-<code>22102</code>
-<country>US</country></postal>
-<phone>+1 703 883 5826</phone>
-<email>epg@gateway.mitre.org</email></address></author>
-<author initials='R.' surname='Callon' fullname='Ross Callon'>
-<organization>Digital Equipment Corporation (DEC)</organization>
-<address>
-<postal>
-<street>550 King Street</street>
-<street>1-2/A19</street>
-<city>Littleton</city>
-<region>MA</region>
-<code>01460-1289</code>
-<country>US</country></postal>
-<phone>+1 508 486 5009</phone>
-<email>Callon@bigfut.enet.dec.com</email></address></author>
-<date year='1991' day='1' month='July' />
-<abstract>
-<t>The Internet is moving towards a multi-protocol environment that includes OSI. To support OSI in the Internet, an OSI lower layers infrastructure is required. This infrastructure comprises the connectionless network protocol (CLNP) and supporting routing protocols. Also required as part of this infrastructure are guidelines for network service access point (NSAP) address assignment. This paper provides guidelines for allocating NSAPs in the Internet.</t>
-<t>This document provides our current best judgment for the allocation of NSAP addresses in the Internet. This is intended to guide initial deployment of OSI 8473 (Connectionless Network Layer Protocol) in the Internet, as well as to solicit comments. It is expected that these guidelines may be further refined and this document updated as a result of experience gained during this initial deployment.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1237' />
-<format type='TXT' octets='116989' target='http://www.rfc-editor.org/rfc/rfc1237.txt' />
-<format type='PS' octets='160478' target='http://www.rfc-editor.org/rfc/rfc1237.ps' />
-<format type='PDF' octets='171423' target='http://www.rfc-editor.org/rfc/rfc1237.pdf' />
+<author initials='R.' surname='Colella' fullname='R. Colella'><organization /></author>
+<author initials='E.' surname='Gardner' fullname='E. Gardner'><organization /></author>
+<author initials='R.' surname='Callon' fullname='R. Callon'><organization /></author>
+<date year='1991' month='July' />
+<abstract><t>This paper provides guidelines for allocating NSAPs in the Internet.[STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1237'/>
+<seriesInfo name='DOI' value='10.17487/RFC1237'/>
 </reference>

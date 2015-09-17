@@ -1,23 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0107'>
-
+<reference  anchor='RFC0107' target='http://www.rfc-editor.org/info/rfc107'>
 <front>
 <title>Output of the Host-Host Protocol Glitch Cleaning Committee</title>
-<author initials='R.' surname='Bressler' fullname='Robert Bressler'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<author initials='S.' surname='Crocker' fullname='Steve Crocker'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<author initials='W.' surname='Crowter' fullname='William Crowter'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<author initials='G.' surname='Grossman' fullname='Gary Grossman'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<author initials='R.' surname='Tomlinson' fullname='Ray Tomlinson'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<author initials='J.' surname='Withe' fullname='James Withe'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<date year='1971' day='23' month='March' /></front>
-
-<seriesInfo name='RFC' value='107' />
-<format type='TXT' octets='18109' target='http://www.rfc-editor.org/rfc/rfc107.txt' />
+<author initials='R.D.' surname='Bressler' fullname='R.D. Bressler'><organization /></author>
+<author initials='S.D.' surname='Crocker' fullname='S.D. Crocker'><organization /></author>
+<author initials='W.R.' surname='Crowther' fullname='W.R. Crowther'><organization /></author>
+<author initials='G.R.' surname='Grossman' fullname='G.R. Grossman'><organization /></author>
+<author initials='R.S.' surname='Tomlinson' fullname='R.S. Tomlinson'><organization /></author>
+<author initials='J.E.' surname='White' fullname='J.E. White'><organization /></author>
+<date year='1971' month='March' />
+</front>
+<seriesInfo name='RFC' value='107'/>
+<seriesInfo name='DOI' value='10.17487/RFC0107'/>
 </reference>

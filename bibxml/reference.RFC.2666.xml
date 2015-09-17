@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2666'>
-
+<reference  anchor='RFC2666' target='http://www.rfc-editor.org/info/rfc2666'>
 <front>
-<title abbrev='Ethernet Chipset MIB'>Definitions of Object Identifiers for Identifying Ethernet Chip Sets</title>
-<author initials='J.' surname='Flick' fullname='J. Flick'>
-<organization>Hewlett-Packard Company</organization>
-<address>
-<postal>
-<street>8000 Foothills Blvd</street>
-<street>M/S 5557</street>
-<city>Roseville</city>
-<region>CA</region>
-<code>95747-5557</code>
-<country>US</country></postal>
-<phone>+1 916 785 4018</phone>
-<email>johnf@rose.hp.com</email></address></author>
+<title>Definitions of Object Identifiers for Identifying Ethernet Chip Sets</title>
+<author initials='J.' surname='Flick' fullname='J. Flick'><organization /></author>
 <date year='1999' month='August' />
-<abstract>
-<t>This memo defines OBJECT IDENTIFIER values for use with network management protocols in the Internet community. In particular, it contains registered OID values for use with the dot3StatsEtherChipSet object in theEtherLike-MIB. These registrations have been split frominto a separate document for maintenance purposes.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2666' />
-<format type='TXT' octets='37699' target='http://www.rfc-editor.org/rfc/rfc2666.txt' />
+<abstract><t>This memo defines OBJECT IDENTIFIER values for use with network management protocols in the Internet community.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2666'/>
+<seriesInfo name='DOI' value='10.17487/RFC2666'/>
 </reference>

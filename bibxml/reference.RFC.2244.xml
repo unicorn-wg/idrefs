@@ -1,34 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2244'>
-
+<reference  anchor='RFC2244' target='http://www.rfc-editor.org/info/rfc2244'>
 <front>
-<title abbrev='ACAP'>ACAP -- Application Configuration Access Protocol</title>
-<author initials='C.' surname='Newman' fullname='Chris Newman'>
-<organization>Innosoft International, Inc.</organization>
-<address>
-<postal>
-<street>1050 Lakes Drive</street>
-<city>West Covina</city>
-<region>CA</region>
-<code>91790</code>
-<country>US</country></postal>
-<email>chris.newman@innosoft.com</email></address></author>
-<author initials='J.G.' surname='Myers' fullname='John Gardiner Myers'>
-<organization>Netscape Communications</organization>
-<address>
-<postal>
-<street>501 East Middlefield Road</street>
-<street>Mail Stop MV-029</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043</code>
-<country>US</country></postal>
-<email>jgmyers@netscape.com</email></address></author>
+<title>ACAP -- Application Configuration Access Protocol</title>
+<author initials='C.' surname='Newman' fullname='C. Newman'><organization /></author>
+<author initials='J. G.' surname='Myers' fullname='J. G. Myers'><organization /></author>
 <date year='1997' month='November' />
-<abstract>
-<t>The Application Configuration Access Protocol (ACAP) is designed to support remote storage and access of program option, configuration and preference information.  The data store model is designed to allow a client relatively simple access to interesting data, to allow new information to be easily added without server re-configuration, and to promote the use of both standardized data and custom or proprietary data.  Key features include "inheritance" which can be used to manage default values for configuration settings and access control lists which allow interesting personal information to be shared and group information to be restricted.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2244' />
-<format type='TXT' octets='154610' target='http://www.rfc-editor.org/rfc/rfc2244.txt' />
+<abstract><t>The Application Configuration Access Protocol (ACAP) is designed to support remote storage and access of program option, configuration and preference information.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2244'/>
+<seriesInfo name='DOI' value='10.17487/RFC2244'/>
 </reference>

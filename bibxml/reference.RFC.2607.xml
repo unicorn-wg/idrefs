@@ -1,36 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2607'>
-
+<reference  anchor='RFC2607' target='http://www.rfc-editor.org/info/rfc2607'>
 <front>
-<title abbrev='Proxy Chaining and Policy in Roaming'>Proxy Chaining and Policy Implementation in Roaming</title>
-<author initials='B.' surname='Aboba' fullname='Bernard Aboba'>
-<organization>Microsoft Corporation</organization>
-<address>
-<postal>
-<street>One Microsoft Way</street>
-<city>Redmond</city>
-<region>WA</region>
-<code>98052</code>
-<country>US</country></postal>
-<phone>+1 425 936 6605</phone>
-<email>bernarda@microsoft.com</email></address></author>
-<author initials='J.' surname='Vollbrecht' fullname='John R. Vollbrecht'>
-<organization>Merit Network, Inc.</organization>
-<address>
-<postal>
-<street>4251 Plymouth Rd.</street>
-<city>Ann Arbor</city>
-<region>MI</region>
-<code>48105-2785</code>
-<country>US</country></postal>
-<phone>+1 313 763 1206</phone>
-<email>jrv@merit.edu</email></address></author>
+<title>Proxy Chaining and Policy Implementation in Roaming</title>
+<author initials='B.' surname='Aboba' fullname='B. Aboba'><organization /></author>
+<author initials='J.' surname='Vollbrecht' fullname='J. Vollbrecht'><organization /></author>
 <date year='1999' month='June' />
-<abstract>
-<t>This document describes how proxy chaining and policy implementation can be supported in roaming systems. The mechanisms described in this document are in current use.</t>
-<t>However, as noted in the security considerations section, the techniques outlined in this document are vulnerable to attack from external parties as well as susceptible to fraud perpetrated by the roaming partners themselves. As a result, such methods are not suitable for wide-scale deployment on the Internet.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2607' />
-<format type='TXT' octets='33271' target='http://www.rfc-editor.org/rfc/rfc2607.txt' />
+<abstract><t>This document describes how proxy chaining and policy implementation can be supported in roaming systems.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2607'/>
+<seriesInfo name='DOI' value='10.17487/RFC2607'/>
 </reference>

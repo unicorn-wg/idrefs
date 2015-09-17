@@ -1,27 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2039'>
-
+<reference  anchor='RFC2039' target='http://www.rfc-editor.org/info/rfc2039'>
 <front>
-<title abbrev='WWW MIB Applicability'>Applicablity of Standards Track MIBs to Management of World Wide Web Servers</title>
-<author initials='C.W.' surname='Kalbfleisch' fullname='Carl W. Kalbfleisch'>
-<organization>OnRamp Technologies, Inc.</organization>
-<address>
-<postal>
-<street>1950 Stemmons Frwy</street>
-<street>2026 INFOMART</street>
-<street>Dallas</street>
-<street>TX 75207</street>
-<country>USA</country></postal>
-<phone>(214) 672-7246</phone>
-<email>cwk@onramp.net</email></address></author>
+<title>Applicability of Standards Track MIBs to Management of World Wide Web Servers</title>
+<author initials='C.' surname='Kalbfleisch' fullname='C. Kalbfleisch'><organization /></author>
 <date year='1996' month='November' />
-<area>Management</area>
-<area>Applications</area>
-<keyword>Management Information Base</keyword>
-<keyword>world wide web</keyword></front>
-
-<seriesInfo name='RFC' value='2039' />
-<format type='TXT' octets='31966' target='http://www.rfc-editor.org/rfc/rfc2039.txt' />
-<format type='XML' octets='34428' target='http://xml.resource.org/public/rfc/xml/rfc2039.xml' />
+<abstract><t>This document was produced at the request of the Network Management Area Director following the HTTP-MIB BOF at the 35th IETF meeting to report on the applicability of the existing standards track MIBs to management of WWW servers.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2039'/>
+<seriesInfo name='DOI' value='10.17487/RFC2039'/>
 </reference>

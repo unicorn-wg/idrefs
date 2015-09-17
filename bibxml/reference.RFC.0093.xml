@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0093'>
-
+<reference  anchor='RFC0093' target='http://www.rfc-editor.org/info/rfc93'>
 <front>
 <title>Initial Connection Protocol</title>
-<author initials='A.' surname='McKenzie' fullname='A. McKenzie'>
-<organization>Bolt Baranek and Newman (BBN)</organization></author>
-<date year='1971' day='27' month='January' />
-<abstract>
-<t>A review of the Initial Connection Protocol (ICP) first described in RFC #66and restated in RFC #80has revealed an area of ambiguity, which in turn reflects an ambiguity in the Host-Host Protocol Document No. 1.  This is the definition of the message sent over the connection from "Server socket #1".  In both referenced RFC's, the message is defined as "exactly an even 32 bit number".  It is not clear, however, whether this 32 bit number is meant to follow an eight-bit "message data type" code or not, stemming from the fact that the Host-Host Protocol makes provision for such codes but does not seem to absolutely demand them.</t></abstract></front>
-
-<seriesInfo name='RFC' value='93' />
-<format type='TXT' octets='1746' target='http://www.rfc-editor.org/rfc/rfc93.txt' />
+<author initials='A.M.' surname='McKenzie' fullname='A.M. McKenzie'><organization /></author>
+<date year='1971' month='January' />
+</front>
+<seriesInfo name='RFC' value='93'/>
+<seriesInfo name='DOI' value='10.17487/RFC0093'/>
 </reference>

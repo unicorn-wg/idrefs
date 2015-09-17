@@ -1,19 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1935'>
-
+<reference  anchor='RFC1935' target='http://www.rfc-editor.org/info/rfc1935'>
 <front>
 <title>What is the Internet, Anyway?</title>
-<author initials='J.' surname='Quarterman' fullname='John S. Quarterman'>
-<organization>TIC</organization>
-<address>
-<email>tic@tic.com</email></address></author>
-<author initials='S.' surname='Carl-Mitchell' fullname='Smoot Carl-Mitchell'>
-<organization>TIC</organization>
-<address>
-<email>tic@tic.com</email></address></author>
-<date year='1996' month='April' /></front>
-
-<seriesInfo name='RFC' value='1935' />
-<format type='TXT' octets='30369' target='http://www.rfc-editor.org/rfc/rfc1935.txt' />
+<author initials='J.' surname='Quarterman' fullname='J. Quarterman'><organization /></author>
+<author initials='S.' surname='Carl-Mitchell' fullname='S. Carl-Mitchell'><organization /></author>
+<date year='1996' month='April' />
+<abstract><t>This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1935'/>
+<seriesInfo name='DOI' value='10.17487/RFC1935'/>
 </reference>

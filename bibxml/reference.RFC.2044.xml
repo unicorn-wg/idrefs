@@ -1,26 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2044'>
-
+<reference  anchor='RFC2044' target='http://www.rfc-editor.org/info/rfc2044'>
 <front>
-<title abbrev='UTF-8'>UTF-8, a transformation format of Unicode and ISO 10646</title>
-<author initials='F.' surname='Yergeau' fullname='Francois Yergeau'>
-<organization>Alis Technologies</organization>
-<address>
-<postal>
-<street>100, boul. Alexis-Nihon</street>
-<street>Suite 600</street>
-<city>Montreal</city>
-<region>Quebec</region>
-<code>H4M 2P2</code>
-<country>CA</country></postal>
-<phone>+1 514 747 2547</phone>
-<facsimile>+1 514 747 2561</facsimile>
-<email>fyergeau@alis.com</email></address></author>
+<title>UTF-8, a transformation format of Unicode and ISO 10646</title>
+<author initials='F.' surname='Yergeau' fullname='F. Yergeau'><organization /></author>
 <date year='1996' month='October' />
-<abstract>
-<t>The Unicode Standard, version 1.1, and ISO/IEC 10646-1:1993 jointly define a 16 bit character set which encompasses most of the world's writing systems. 16-bit characters, however, are not compatible with many current applications and protocols, and this has led to the development of a few so-called UCS transformation formats (UTF), each with different characteristics.  UTF-8, the object of this memo, has the characteristic of preserving the full US-ASCII range: US-ASCII characters are encoded in one octet having the usual US-ASCII value, and any octet with such a value can only be an US-ASCII character. This provides compatibility with file systems, parsers and other software that rely on US-ASCII values but are transparent to other values.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2044' />
-<format type='TXT' octets='11932' target='http://www.rfc-editor.org/rfc/rfc2044.txt' />
+<abstract><t>The Unicode Standard, version 1.1, and ISO/IEC 10646-1:1993 jointly define a 16 bit character set which encompasses most of the world's writing systems.  UTF-8, the object of this memo, has the characteristic of preserving the full US-ASCII range.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2044'/>
+<seriesInfo name='DOI' value='10.17487/RFC2044'/>
 </reference>

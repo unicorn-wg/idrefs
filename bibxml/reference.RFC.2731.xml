@@ -1,36 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2731'>
-
+<reference  anchor='RFC2731' target='http://www.rfc-editor.org/info/rfc2731'>
 <front>
 <title>Encoding Dublin Core Metadata in HTML</title>
-<author initials='J.' surname='Kunze' fullname='John A. Kunze'>
-<organization abbrev='UC San Francisco'>Center for Knowledge Management, University of California</organization>
-<address>
-<postal>
-<street>530 Parnassus Ave, Box 0840</street>
-<city>San Francisco</city>
-<region>CA</region>
-<code>94143-0840</code>
-<country>USA</country></postal>
-<facsimile>+1 415-476-4653</facsimile>
-<email>jak@ckm.ucsf.edu</email></address></author>
+<author initials='J.' surname='Kunze' fullname='J. Kunze'><organization /></author>
 <date year='1999' month='December' />
-<abstract>
-<t>
-   The Dublin Core  is a small set of metadata elements for
-   describing information resources.  This document explains how these
-   elements are expressed using the META and LINK tags of HTML
-   .  A sequence of metadata elements embedded in an HTML file
-   is taken to be a description of that file.  Examples illustrate
-   conventions allowing interoperation with current software that
-   indexes, displays, and manipulates metadata, such as ,
-   , , , , etc., and the Perl
-    scripts in the appendix.
-  </t></abstract></front>
-
-<seriesInfo name='RFC' value='2731' />
-<format type='TXT' octets='42450' target='http://www.rfc-editor.org/rfc/rfc2731.txt' />
-<format type='HTML' octets='62488' target='http://xml.resource.org/public/rfc/html/rfc2731.html' />
-<format type='XML' octets='50282' target='http://xml.resource.org/public/rfc/xml/rfc2731.xml' />
+<abstract><t>The Dublin Core is a small set of metadata elements for describing information resources.  This document explains how these elements are expressed using the META and LINK tags of HTML.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2731'/>
+<seriesInfo name='DOI' value='10.17487/RFC2731'/>
 </reference>

@@ -1,36 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2635'>
-
+<reference  anchor='RFC2635' target='http://www.rfc-editor.org/info/rfc2635'>
 <front>
-<title abbrev='DON&apos;T SPEW'>DON'T SPEW A Set of Guidelines for Mass Unsolicited Mailings and Postings (spam*)</title>
-<author initials='S.' surname='Hambridge' fullname='Sally Hambridge'>
-<organization>Intel Corp</organization>
-<address>
-<postal>
-<street>2200 Mission College blvd</street>
-<street>SC11-321</street>
-<city>Santa Clara</city>
-<region>CA</region>
-<code>95052</code>
-<country>US</country></postal>
-<email>sallyh@ludwig.sc.intel.com</email></address></author>
-<author initials='A.' surname='Lunde' fullname='Albert Lunde'>
-<organization>Northwestern University</organization>
-<address>
-<postal>
-<street>1603 Orrington Avenue</street>
-<street>Suite 1400</street>
-<city>Evanston</city>
-<region>IL</region>
-<code>60201</code>
-<country>US</country></postal>
-<email>Albert-Lunde@nwu.edu</email></address></author>
+<title>DON'T SPEW A Set of Guidelines for Mass Unsolicited Mailings and Postings (spam*)</title>
+<author initials='S.' surname='Hambridge' fullname='S. Hambridge'><organization /></author>
+<author initials='A.' surname='Lunde' fullname='A. Lunde'><organization /></author>
 <date year='1999' month='June' />
-<abstract>
-<t>This document explains why mass unsolicited electronic mail messages are harmful in the Internetworking community. It gives a set of
-guidelines for dealing with unsolicited mail for users, for system administrators, news administrators, and mailing list managers. It also makes suggestions Internet Service Providers might follow.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2635' />
-<format type='TXT' octets='44669' target='http://www.rfc-editor.org/rfc/rfc2635.txt' />
+<abstract><t>This document explains why mass unsolicited electronic mail messages are harmful in the Internetworking community.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='FYI' value='35'/>
+<seriesInfo name='RFC' value='2635'/>
+<seriesInfo name='DOI' value='10.17487/RFC2635'/>
 </reference>

@@ -1,59 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1157'>
-
+<reference  anchor='RFC1157' target='http://www.rfc-editor.org/info/rfc1157'>
 <front>
-<title abbrev='SNMP'>Simple Network Management Protocol (SNMP)</title>
-<author initials='J.D.' surname='Case' fullname='Jeffrey D. Case'>
-<organization>Simple Network Management Protocol (SNMP) Research</organization>
-<address>
-<postal>
-<street>P.O. Box 8593</street>
-<city>Knoxville</city>
-<region>TN</region>
-<code>37996-4800</code>
-<country>US</country></postal>
-<phone>+1 615 573 1434</phone>
-<email>case@CS.UTK.EDU</email></address></author>
-<author initials='M.' surname='Fedor' fullname='Mark Fedor'>
-<organization>Performance Systems International</organization>
-<address>
-<postal>
-<street>125 Jordan Road</street>
-<street>Rensselaer Technology Park</street>
-<city>Troy</city>
-<region>NY</region>
-<code>12180</code>
-<country>US</country></postal>
-<phone>+1 518 283 8860</phone>
-<email>fedor@patton.NYSER.NET</email></address></author>
-<author initials='M.L.' surname='Schoffstall' fullname='Martin Lee Schoffstall'>
-<organization>Performance Systems International</organization>
-<address>
-<postal>
-<street>165 Jordan Road</street>
-<street>Rensselaer Technology Park</street>
-<city>Troy</city>
-<region>NY</region>
-<code>12180</code>
-<country>US</country></postal>
-<phone>+1 518 283 8860</phone>
-<email>schoff@NISC.NYSER.NET</email></address></author>
-<author initials='J.R.' surname='Davin' fullname='James R. Davin'>
-<organization>Massachusetts Institute of Technology (MIT), Laboratory for Computer Science</organization>
-<address>
-<postal>
-<street>545 Technology Square</street>
-<street>NE43-507</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02139</code>
-<country>US</country></postal>
-<phone>+1 617 253 6020</phone>
-<email>jrd@ptt.lcs.mit.edu</email></address></author>
-<date year='1990' day='1' month='May' /></front>
-
-<seriesInfo name='STD' value='15' />
-<seriesInfo name='RFC' value='1157' />
-<format type='TXT' octets='74894' target='http://www.rfc-editor.org/rfc/rfc1157.txt' />
+<title>Simple Network Management Protocol (SNMP)</title>
+<author initials='J.D.' surname='Case' fullname='J.D. Case'><organization /></author>
+<author initials='M.' surname='Fedor' fullname='M. Fedor'><organization /></author>
+<author initials='M.L.' surname='Schoffstall' fullname='M.L. Schoffstall'><organization /></author>
+<author initials='J.' surname='Davin' fullname='J. Davin'><organization /></author>
+<date year='1990' month='May' />
+<abstract><t>This RFC is a re-release of RFC 1098, with a changed &quot;Status of this Memo&quot; section plus a few minor typographical corrections.  This memo defines a simple protocol by which management information for a network element may be inspected or altered by logically remote users. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1157'/>
+<seriesInfo name='DOI' value='10.17487/RFC1157'/>
 </reference>

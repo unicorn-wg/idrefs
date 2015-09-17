@@ -1,54 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2275'>
-
+<reference  anchor='RFC2275' target='http://www.rfc-editor.org/info/rfc2275'>
 <front>
-<title abbrev='VACM for SNMPv3'>View-based Access Control Model (VACM) for the Simple Network Management Protocol (SNMP)</title>
-<author initials='B.' surname='Wijnen' fullname='Bert Wijnen'>
-<organization>IBM T. J. Watson Research</organization>
-<address>
-<postal>
-<street>Schagen 33</street>
-<street>3461 GL Linschoten</street>
-<country>Netherlands</country></postal>
-<phone>+31-348-432-794</phone>
-<email>wijnen@vnet.ibm.com</email></address></author>
-<author initials='R.' surname='Presuhn' fullname='Randy Presuhn'>
-<organization>BMC Software, Inc</organization>
-<address>
-<postal>
-<street>1190 Saratoga Avenue</street>
-<street>Suite 130</street>
-<street>San Jose</street>
-<street>CA  95129-3433</street>
-<country>USA</country></postal>
-<phone>+1-408-556-0720</phone>
-<email>rpresuhn@bmc.com</email></address></author>
-<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<street>San Jose</street>
-<street>CA  95134-1706</street>
-<country>USA</country></postal>
-<phone>+1-408-526-5260</phone>
-<email>kzm@cisco.com</email></address></author>
+<title>View-based Access Control Model (VACM) for the Simple Network Management Protocol (SNMP)</title>
+<author initials='B.' surname='Wijnen' fullname='B. Wijnen'><organization /></author>
+<author initials='R.' surname='Presuhn' fullname='R. Presuhn'><organization /></author>
+<author initials='K.' surname='McCloghrie' fullname='K. McCloghrie'><organization /></author>
 <date year='1998' month='January' />
-<area>Management</area>
-<keyword>access control</keyword>
-<keyword>network management</keyword>
-<keyword>simple network management protocol</keyword>
-<abstract>
-<t>
-   This document describes the View-based Access Control Model for use
-   in the SNMP architecture .  It defines the Elements of
-   Procedure for controlling access to management information.  This
-   document also includes a MIB for remotely managing the configuration
-   parameters for the View-based Access Control Model.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2275' />
-<format type='TXT' octets='77998' target='http://www.rfc-editor.org/rfc/rfc2275.txt' />
-<format type='XML' octets='76971' target='http://xml.resource.org/public/rfc/xml/rfc2275.xml' />
+<abstract><t>This document describes the View-based Access Control Model for use in the SNMP architecture [RFC2261].  It defines the Elements of Procedure for controlling access to management information.  This document also includes a MIB for remotely managing the configuration parameters for the View-based Access Control Model.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2275'/>
+<seriesInfo name='DOI' value='10.17487/RFC2275'/>
 </reference>

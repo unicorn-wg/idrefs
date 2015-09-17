@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1256'>
-
+<reference  anchor='RFC1256' target='http://www.rfc-editor.org/info/rfc1256'>
 <front>
 <title>ICMP Router Discovery Messages</title>
-<author initials='S.' surname='Deering' fullname='Stephen E. Deering'>
-<organization>Xerox, Palo Alto Research Center</organization>
-<address>
-<postal>
-<street>3333 Coyote Hill Road</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94304</code>
-<country>US</country></postal>
-<phone>+1 415 494 4839</phone>
-<email>deering@xerox.com</email></address></author>
-<date year='1991' day='1' month='September' />
-<abstract>
-<t>This document specifies an extension of the Internet Control Message Protocol (ICMP) to enable hosts attached to multicast or broadcast networks to discover the IP addresses of their neighboring routers.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1256' />
-<format type='TXT' octets='43059' target='http://www.rfc-editor.org/rfc/rfc1256.txt' />
+<author initials='S.' surname='Deering' fullname='S. Deering' role='editor'><organization /></author>
+<date year='1991' month='September' />
+<abstract><t>This document specifies an extension of the Internet Control Message Protocol (ICMP) to enable hosts attached to multicast or broadcast networks to discover the IP addresses of their neighboring routers. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1256'/>
+<seriesInfo name='DOI' value='10.17487/RFC1256'/>
 </reference>

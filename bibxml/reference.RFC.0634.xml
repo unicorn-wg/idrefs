@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0634'>
-
+<reference  anchor='RFC0634' target='http://www.rfc-editor.org/info/rfc634'>
 <front>
 <title>Change in network address for Haskins Lab</title>
-<author initials='A.' surname='McKenzie' fullname='Alex McKenzie'>
-<organization>Bolt Beranek and Newman (BBN), NET</organization></author>
-<date year='1974' day='10' month='April' />
-<abstract>
-<t>Sometime between May 8 and May 22, probably toward the end of that period, the Haskins Laboratory "Very Distant Host" connection will be moved from BBN (IMP #5) to Harvard (IMP #9).  The Host Number of the Haskins machine will remain Host 3 (numbering from zero to three). Thus, the Network Address of the Haskins Laboratory Host will change from 197 to 201.  Since the date of the change is dependent on installation of new circuits by the local telephone company, I am unable to give the actual date more precisely.</t></abstract></front>
-
-<seriesInfo name='RFC' value='634' />
-<format type='TXT' octets='1098' target='http://www.rfc-editor.org/rfc/rfc634.txt' />
+<author initials='A.M.' surname='McKenzie' fullname='A.M. McKenzie'><organization /></author>
+<date year='1974' month='April' />
+</front>
+<seriesInfo name='RFC' value='634'/>
+<seriesInfo name='DOI' value='10.17487/RFC0634'/>
 </reference>

@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0239'>
-
+<reference  anchor='RFC0239' target='http://www.rfc-editor.org/info/rfc239'>
 <front>
 <title>Host mnemonics proposed in RFC 226 (NIC 7625)</title>
-<author initials='R.' surname='Braden' fullname='R. Braden'>
-<organization>University of California, Los Angeles (UCLA), Campus Computing Network (CCN)</organization></author>
-<date year='1971' day='23' month='September' />
-<abstract>
-<t>CCN is in full agreement that a standard set of host mnemonics should be selected. However, your proposed set is not fully satisfactory.</t></abstract></front>
-
-<seriesInfo name='RFC' value='239' />
-<format type='TXT' octets='2236' target='http://www.rfc-editor.org/rfc/rfc239.txt' />
+<author initials='R.T.' surname='Braden' fullname='R.T. Braden'><organization /></author>
+<date year='1971' month='September' />
+</front>
+<seriesInfo name='RFC' value='239'/>
+<seriesInfo name='DOI' value='10.17487/RFC0239'/>
 </reference>

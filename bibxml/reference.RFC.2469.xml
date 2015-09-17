@@ -1,53 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2469'>
-
+<reference  anchor='RFC2469' target='http://www.rfc-editor.org/info/rfc2469'>
 <front>
-<title abbrev='Canonical Ordering Of Link-Layer Addresses'>A Caution On The Canonical Ordering Of Link-Layer Addresses</title>
-<author initials='T.' surname='Narten' fullname='Thomas Narten'>
-<organization>IBM Corporation</organization>
-<address>
-<postal>
-<street>3039 Cornwallis Ave.</street>
-<street>PO Box 12195</street>
-<city>Research Triangle Park</city>
-<region>NC</region>
-<code>27709-2195</code>
-<country>USA</country></postal>
-<phone>+1 919 254 7798</phone>
-<email>narten@raleigh.ibm.com</email></address></author>
-<author initials='C.F.' surname='Burton' fullname='Charles F. Burton, III'>
-<organization>IBM Corporation</organization>
-<address>
-<postal>
-<street>3039 Cornwallis Ave.</street>
-<street>PO Box 12195</street>
-<city>Research Triangle Park</city>
-<region>NC</region>
-<code>27709-2195</code>
-<country>USA</country></postal>
-<phone>+1 919 254 4355</phone>
-<email>burton@rtp.vnet.ibm.com</email></address></author>
+<title>A Caution On The Canonical Ordering Of Link-Layer Addresses</title>
+<author initials='T.' surname='Narten' fullname='T. Narten'><organization /></author>
+<author initials='C.' surname='Burton' fullname='C. Burton'><organization /></author>
 <date year='1998' month='December' />
-<area>Internet</area>
-<keyword>ARP</keyword>
-<keyword>Neighbor Discovery</keyword>
-<abstract>
-<t>
-   Protocols such as ARP and Neighbor Discovery have data fields that
-   contain link-layer addresses. In order to interoperate properly, a
-   sender setting such a field must insure that the receiver extracts
-   those bits and interprets them correctly.  In most cases, such fields
-   must be in &quot;canonical form&quot;.  Unfortunately, not all LAN adaptors are
-   consistent in their use of canonical form, and implementations may
-   need to explicitly bit swap individual bytes in order to obtain the
-   correct format.  This document provides information to implementors
-   to help them avoid the pitfall of using non-canonical forms when
-   canonical forms are required.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2469' />
-<format type='TXT' octets='9948' target='http://www.rfc-editor.org/rfc/rfc2469.txt' />
-<format type='HTML' octets='25683' target='http://xml.resource.org/public/rfc/html/rfc2469.html' />
-<format type='XML' octets='17183' target='http://xml.resource.org/public/rfc/xml/rfc2469.xml' />
+<abstract><t>Protocols such as ARP and Neighbor Discovery have data fields that contain link-layer addresses. In order to interoperate properly, a sender setting such a field must insure that the receiver extracts those bits and interprets them correctly.  In most cases, such fields must be in &quot;canonical form&quot;.  Unfortunately, not all LAN adaptors are consistent in their use of canonical form, and implementations may need to explicitly bit swap individual bytes in order to obtain the correct format.  This document provides information to implementors to help them avoid the pitfall of using non-canonical forms when canonical forms are required.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2469'/>
+<seriesInfo name='DOI' value='10.17487/RFC2469'/>
 </reference>

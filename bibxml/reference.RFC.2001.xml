@@ -1,39 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2001'>
-
+<reference  anchor='RFC2001' target='http://www.rfc-editor.org/info/rfc2001'>
 <front>
-<title abbrev='TCP'>TCP Slow Start, Congestion Avoidance, Fast Retransmit, and Fast Recovery Algorithms</title>
-<author initials='W.R.' surname='Stevens' fullname='W. Richard Stevens'>
-<organization />
-<address>
-<postal>
-<street>1202 E. Paseo del Zorro</street>
-<street>Tucson</street>
-<street>AZ  85718</street></postal>
-<phone>520-297-9416</phone>
-<email>rstevens@noao.edu</email>
-<uri>http://www.noao.edu/~rstevens</uri></address></author>
+<title>TCP Slow Start, Congestion Avoidance, Fast Retransmit, and Fast Recovery Algorithms</title>
+<author initials='W.' surname='Stevens' fullname='W. Stevens'><organization /></author>
 <date year='1997' month='January' />
-<area>Transport</area>
-<keyword>slow start</keyword>
-<keyword>congestion</keyword>
-<keyword>transmission control protocol</keyword>
-<abstract>
-<t>
-   Modern implementations of TCP contain four intertwined algorithms
-   that have never been fully documented as Internet standards:  slow
-   start, congestion avoidance, fast retransmit, and fast recovery.  
-   and  provide some details on these algorithms,  provides
-   examples of the algorithms in action, and  provides the source
-   code for the 4.4BSD implementation.  RFC 1122 requires that a TCP
-   must implement slow start and congestion avoidance (Section 4.2.2.15
-   of ), citing  as the reference, but fast retransmit and fast
-   recovery were implemented after RFC 1122.  The purpose of this
-   document is to document these four algorithms for the Internet.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2001' />
-<format type='TXT' octets='12981' target='http://www.rfc-editor.org/rfc/rfc2001.txt' />
-<format type='XML' octets='14407' target='http://xml.resource.org/public/rfc/xml/rfc2001.xml' />
+<abstract><t>Modern implementations of TCP contain four intertwined algorithms that have never been fully documented as Internet standards: slow start, congestion avoidance, fast retransmit, and fast recovery.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2001'/>
+<seriesInfo name='DOI' value='10.17487/RFC2001'/>
 </reference>

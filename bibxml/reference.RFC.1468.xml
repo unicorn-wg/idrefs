@@ -1,45 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1468'>
-
+<reference  anchor='RFC1468' target='http://www.rfc-editor.org/info/rfc1468'>
 <front>
 <title>Japanese Character Encoding for Internet Messages</title>
-<author initials='J.' surname='Murai' fullname='Jun Murai'>
-<organization>Keio University, Fujisawa</organization>
-<address>
-<postal>
-<street>5322 Endo</street>
-<city>Kanagawa</city>
-<region />
-<code>252</code>
-<country>JP</country></postal>
-<phone>+81 466 491101</phone>
-<email>jun@wide.ad.jp</email></address></author>
-<author initials='M.' surname='Crispin' fullname='Mark Crispin'>
-<organization>Panda Programming</organization>
-<address>
-<postal>
-<street>6158 Lariat Loop NE</street>
-<city>Bainbridge Island</city>
-<region>WA</region>
-<code>98110-2098</code>
-<country>US</country></postal>
-<phone>+1 206 842 2385</phone>
-<email>MRC@PANDA.COM</email></address></author>
-<author initials='E.M.' surname='van der Poel' fullname='Erik M. van der Poel'>
-<organization>Kisarazu</organization>
-<address>
-<postal>
-<street>A-105 Park Avenue</street>
-<city>4-4-10 Ohta</city>
-<region>Chiba</region>
-<code>292</code>
-<country>JP</country></postal>
-<phone>+81 438 225836</phone>
-<facsimile>+81 438 225837</facsimile>
-<email>erik@poel.juice.or.jp</email></address></author>
-<date year='1993' month='June' /></front>
-
-<seriesInfo name='RFC' value='1468' />
-<format type='TXT' octets='10970' target='http://www.rfc-editor.org/rfc/rfc1468.txt' />
+<author initials='J.' surname='Murai' fullname='J. Murai'><organization /></author>
+<author initials='M.' surname='Crispin' fullname='M. Crispin'><organization /></author>
+<author initials='E.' surname='van der Poel' fullname='E. van der Poel'><organization /></author>
+<date year='1993' month='June' />
+<abstract><t>This document describes the encoding used in electronic mail [RFC822] and network news [RFC1036] messages in several Japanese networks.  This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1468'/>
+<seriesInfo name='DOI' value='10.17487/RFC1468'/>
 </reference>

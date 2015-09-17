@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0732'>
-
+<reference  anchor='RFC0732' target='http://www.rfc-editor.org/info/rfc732'>
 <front>
 <title>Telnet Data Entry Terminal option</title>
-<author initials='J.' surname='Day' fullname='John Day'>
-<organization /></author>
-<date year='1977' day='12' month='September' /></front>
-
-<seriesInfo name='RFC' value='732' />
-<format type='TXT' octets='57160' target='http://www.rfc-editor.org/rfc/rfc732.txt' />
+<author initials='J.D.' surname='Day' fullname='J.D. Day'><organization /></author>
+<date year='1977' month='September' />
+</front>
+<seriesInfo name='RFC' value='732'/>
+<seriesInfo name='DOI' value='10.17487/RFC0732'/>
 </reference>

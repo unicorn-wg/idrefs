@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1229'>
-
+<reference  anchor='RFC1229' target='http://www.rfc-editor.org/info/rfc1229'>
 <front>
-<title abbrev='Interface MIB Extensions'>Extensions to the generic-interface MIB</title>
-<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
-<organization>Hughes, LAN Systems, Inc.</organization>
-<address>
-<postal>
-<street>1225 Charleston Road</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043</code>
-<country>US</country></postal>
-<phone>+1 415 966 7934</phone>
-<email>kzm@hls.com</email></address></author>
-<date year='1991' day='1' month='May' />
-<abstract>
-<t>This memo defines an experimental portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines managed object types as experimental extensions to the generic interfaces structure of MIB-II.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1229' />
-<format type='TXT' octets='36022' target='http://www.rfc-editor.org/rfc/rfc1229.txt' />
+<title>Extensions to the generic-interface MIB</title>
+<author initials='K.' surname='McCloghrie' fullname='K. McCloghrie'><organization /></author>
+<date year='1991' month='May' />
+<abstract><t>This RFC contains definitions of managed objects used as experimental extensions to the generic interfaces structure of MIB-II. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1229'/>
+<seriesInfo name='DOI' value='10.17487/RFC1229'/>
 </reference>

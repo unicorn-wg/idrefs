@@ -1,69 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1430'>
-
+<reference  anchor='RFC1430' target='http://www.rfc-editor.org/info/rfc1430'>
 <front>
-<title abbrev='X.500 Strategy'>A Strategic Plan for Deploying an Internet X.500 Directory Service</title>
-<author initials='S.' surname='Hardcastle-Kille' fullname='Steve Hardcastle-Kille'>
-<organization>ISODE Consortium</organization>
-<address>
-<postal>
-<street>POB 505</street>
-<city>London</city>
-<region>England</region>
-<code>SW11 1DX</code>
-<country>UK</country></postal>
-<phone>+44 71 2234062</phone>
-<email>S.Kille@isode.com</email></address></author>
-<author initials='E.' surname='Huizer' fullname='Erik Huizer'>
-<organization>SURFnet bv</organization>
-<address>
-<postal>
-<street>PO box 19035</street>
-<city>Utrecht</city>
-<region />
-<code>3501 DA</code>
-<country>NL</country></postal>
-<phone>+31 30 310290</phone>
-<email>Erik.Huizer@SURFnet.nl</email></address></author>
-<author initials='V.' surname='Cerf' fullname='Vinton Cerf'>
-<organization>Corporation for National Research Initiatives</organization>
-<address>
-<postal>
-<street>1895 Preston White Drive</street>
-<street>Suite 100</street>
-<city>Reston</city>
-<region>VA</region>
-<code>22091</code>
-<country>US</country></postal>
-<phone>+1 703 620 8990</phone>
-<email>vcerf@cnri.reston.va.us</email></address></author>
-<author initials='R.' surname='Hobby' fullname='Russ Hobby'>
-<organization>University of California, Davis, Computing Services</organization>
-<address>
-<postal>
-<street>Surge II Room 1400</street>
-<city>Davis</city>
-<region>CA</region>
-<code>95616</code>
-<country>US</country></postal>
-<phone>+1 916 752 0236</phone>
-<email>rdhobby@ucdavis.edu</email></address></author>
-<author initials='S.' surname='Kent' fullname='Steve Kent'>
-<organization>Bolt, Beranek, and Newman</organization>
-<address>
-<postal>
-<street>50 Moulton Street</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02138</code>
-<country>US</country></postal>
-<phone>+1 617 873 3988</phone>
-<email>skent@bbn.com</email></address></author>
+<title>A Strategic Plan for Deploying an Internet X.500 Directory Service</title>
+<author initials='S.' surname='Hardcastle-Kille' fullname='S. Hardcastle-Kille'><organization /></author>
+<author initials='E.' surname='Huizer' fullname='E. Huizer'><organization /></author>
+<author initials='V.' surname='Cerf' fullname='V. Cerf'><organization /></author>
+<author initials='R.' surname='Hobby' fullname='R. Hobby'><organization /></author>
+<author initials='S.' surname='Kent' fullname='S. Kent'><organization /></author>
 <date year='1993' month='February' />
-<abstract>
-<t>There are a number of reasons why a new Internet Directory Service is required.  This document describes an overall strategy for deploying a Directory Service on the Internet, based on the OSI X.500 Directory Service.  It then describes in more detail the initial steps which need to be taken in order to achieve these goals, and how work already undertaken by Internet Engineering Task Force Working Groups (IETF WGs) is working towards these goals.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1430' />
-<format type='TXT' octets='47587' target='http://www.rfc-editor.org/rfc/rfc1430.txt' />
+<abstract><t>This document describes an overall strategy for deploying a Directory Service on the Internet, based on the OSI X.500 Directory Service.  This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1430'/>
+<seriesInfo name='DOI' value='10.17487/RFC1430'/>
 </reference>

@@ -1,30 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2317'>
-
+<reference  anchor='RFC2317' target='http://www.rfc-editor.org/info/rfc2317'>
 <front>
 <title>Classless IN-ADDR.ARPA delegation</title>
-<author initials='H.' surname='Eidnes' fullname='Havard Eidnes'>
-<organization>SINTEF RUNIT</organization>
-<address>
-<postal>
-<street>N-7034 Trondheim</street>
-<country>Norway</country></postal>
-<phone>+47 73 59 44 68</phone>
-<facsimile>+47 73 59 17 00</facsimile>
-<email>Havard.Eidnes@runit.sintef.no</email></address></author>
-<author initials='G.' surname='de Groot' fullname='G. de Groot'>
-<organization>Software Design, Inc.</organization></author>
-<author initials='P.' surname='Vixie' fullname='Paul Vixie'>
-<organization>Internet Software Consortium</organization></author>
+<author initials='H.' surname='Eidnes' fullname='H. Eidnes'><organization /></author>
+<author initials='G.' surname='de Groot' fullname='G. de Groot'><organization /></author>
+<author initials='P.' surname='Vixie' fullname='P. Vixie'><organization /></author>
 <date year='1998' month='March' />
-<area>Internet</area>
-<keyword>IN-ADDR.ARPA</keyword>
-<keyword>Advanced Research Projects Agency</keyword>
-<keyword>Defense Advanced Research Projects Agency</keyword></front>
-
-<seriesInfo name='BCP' value='20' />
-<seriesInfo name='RFC' value='2317' />
-<format type='TXT' octets='17744' target='http://www.rfc-editor.org/rfc/rfc2317.txt' />
-<format type='XML' octets='17086' target='http://xml.resource.org/public/rfc/xml/rfc2317.xml' />
+<abstract><t>This document describes a way to do IN-ADDR.ARPA delegation on non-octet boundaries for address spaces covering fewer than 256 addresses.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t></abstract>
+</front>
+<seriesInfo name='BCP' value='20'/>
+<seriesInfo name='RFC' value='2317'/>
+<seriesInfo name='DOI' value='10.17487/RFC2317'/>
 </reference>

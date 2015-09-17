@@ -1,18 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0691'>
-
+<reference  anchor='RFC0691' target='http://www.rfc-editor.org/info/rfc691'>
 <front>
 <title>One more try on the FTP</title>
-<author initials='B.' surname='Harvey' fullname='Brian Harvey'>
-<organization>Stanford University (SU), Artifical Intelligence (AI)</organization></author>
-<date year='1975' day='6' month='June' />
-<abstract>
-<t>This is a slight revision of RFC 686, mainly differing in the discussion of print files.  Reading several RFCs that I (sigh) never heard of before writing 686 has convinced me that although I was right all along it was for the wrong reasons.  The list of reply codes is also slightly different to reflect the four lists in RFCs 354, 454, 542, and 640 more completely.  Let me also suggest that if there are no objections before June 1, everyone take it as official that HELP should return 200, that SRVR should be used as discussed below, and that "permanent" 4xx errors be changed to 5xx.  And thanks to Jon Postel who just spent all evening helping me straighten this all out.</t>
-<t>Aside from a cry of anguish by the site responsible for the security hassle described below, I've only had one comment on this, which was unfavorable but, alas, unspecific.  Let me just say, in the hopes of avoiding more such, that I am not just trying to step on toes for the fun of it, and that I don't think the positive changes to FTP-1 proposed here are necessarily the best possible thing.  What they are, I think, is easily doable. The great-FTP-in-the-sky isn't showing any signs of universal acceptability, and it shouldn't stand in the way of solving immediate problems.</t>
-<t>Leaving Well Enough Alone</t>
-<t>I recently decided it was time for an overhaul of our FTP user and server programs.  This was my first venture into the world of network protocols, and I soon discovered that there was a lot we were doing wrong--and a few things that everyone seemed to be doing differently from each other.  When I enquired about this, the response from some quarters was "Oh, you're running Version 1!"</t></abstract></front>
-
-<seriesInfo name='RFC' value='691' />
-<format type='TXT' octets='32821' target='http://www.rfc-editor.org/rfc/rfc691.txt' />
+<author initials='B.' surname='Harvey' fullname='B. Harvey'><organization /></author>
+<date year='1975' month='June' />
+<abstract><t>Slight revision of RFC 686, on the subject of print files; see also   RFCs 640, 630, 542, 454, 448, 414, 385 and 354.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='691'/>
+<seriesInfo name='DOI' value='10.17487/RFC0691'/>
 </reference>

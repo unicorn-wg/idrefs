@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1619'>
-
+<reference  anchor='RFC1619' target='http://www.rfc-editor.org/info/rfc1619'>
 <front>
 <title>PPP over SONET/SDH</title>
-<author initials='W.' surname='Simpson' fullname='William Allen Simpson'>
-<organization>Daydreamer, Computer Systems Consulting Services</organization>
-<address>
-<postal>
-<street>1384 Fontaine</street>
-<city>Madison Heights</city>
-<region>MI</region>
-<code>48071</code>
-<country>US</country></postal>
-<email>Bill.Simpson@um.cc.umich.edu</email></address></author>
+<author initials='W.' surname='Simpson' fullname='W. Simpson'><organization /></author>
 <date year='1994' month='May' />
-<abstract>
-<t>The Point-to-Point Protocol (PPP)provides a standard method for transporting multi-protocol datagrams over point-to-point links. This document describes the use of PPP over Synchronous Optical Network (SONET) and  Synchronous Digital Heirarchy (SDH) circuits.</t>
-<t>This document is the product of the Point-to-Point Protocol Working Group of the Internet Engineering Task Force (IETF).  Comments should be submitted to the ietf-ppp@merit.edu mailing list.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1619' />
-<format type='TXT' octets='8893' target='http://www.rfc-editor.org/rfc/rfc1619.txt' />
+<abstract><t>This document describes the use of PPP over Synchronous Optical Network (SONET) and Synchronous Digital Heirarchy (SDH) circuits.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1619'/>
+<seriesInfo name='DOI' value='10.17487/RFC1619'/>
 </reference>

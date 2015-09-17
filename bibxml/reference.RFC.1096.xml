@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1096'>
-
+<reference  anchor='RFC1096' target='http://www.rfc-editor.org/info/rfc1096'>
 <front>
 <title>Telnet X display location option</title>
-<author initials='G.' surname='Marcy' fullname='Glenn A. Marcy'>
-<organization>Carnegie Mellon University, School of Computer Science</organization>
-<address>
-<postal>
-<street />
-<city>Pittsburgh</city>
-<region>PA</region>
-<code>15213-3890</code>
-<country>US</country></postal>
-<phone>+1 412 268 7669</phone>
-<email>Glenn.Marcy@CS.CMU.EDU</email></address></author>
-<date year='1989' day='1' month='March' /></front>
-
-<seriesInfo name='RFC' value='1096' />
-<format type='TXT' octets='4634' target='http://www.rfc-editor.org/rfc/rfc1096.txt' />
+<author initials='G.A.' surname='Marcy' fullname='G.A. Marcy'><organization /></author>
+<date year='1989' month='March' />
+<abstract><t>This RFC specifies a standard for the Internet community.  Hosts on the Internet that transmit the X display location within the Telnet protocol are expected to adopt and implement this standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1096'/>
+<seriesInfo name='DOI' value='10.17487/RFC1096'/>
 </reference>

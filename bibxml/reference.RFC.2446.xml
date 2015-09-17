@@ -1,100 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2446'>
-
+<reference  anchor='RFC2446' target='http://www.rfc-editor.org/info/rfc2446'>
 <front>
-<title abbrev='iTIP'>iCalendar Transport-Independent Interoperability Protocol (iTIP) Scheduling Events, BusyTime, To-dos and Journal Entries</title>
-<author initials='S.' surname='Silverberg' fullname='Steve Silverberg'>
-<organization>Microsoft Corporation</organization>
-<address>
-<postal>
-<street>One Microsoft Way</street>
-<city>Redmond</city>
-<region>WA</region>
-<code>98052-6399</code>
-<country>USA</country></postal>
-<phone>+1-425-936-9277</phone>
-<facsimile>+1-425-936-8019</facsimile>
-<email>stevesil@Microsoft.com</email></address></author>
-<author initials='S.' surname='Mansour' fullname='Steve Mansour'>
-<organization>Netscape Communications Corporation</organization>
-<address>
-<postal>
-<street>501 East Middlefield Road</street>
-<city>MountainView</city>
-<region>CA</region>
-<code>94043</code>
-<country>USA</country></postal>
-<phone>+1-650-937-2378</phone>
-<facsimile>+1-650-937-2103</facsimile>
-<email>sman@netscape.com</email></address></author>
-<author initials='F.' surname='Dawson' fullname='Frank Dawson'>
-<organization>Lotus Development Corporation</organization>
-<address>
-<postal>
-<street>6544 Battleford Drive</street>
-<city>Raleigh</city>
-<region>NC</region>
-<code>27613-3502</code>
-<country>USA</country></postal>
-<phone>+1-919-676-9515</phone>
-<facsimile>+1-919-676-9564</facsimile>
-<email>Frank_Dawson@Lotus.com</email>
-<uri>http://home.earthlink.net/~fdawson</uri></address></author>
-<author initials='R.' surname='Hopson' fullname='Ross Hopson'>
-<organization>On Technology, Inc.</organization>
-<address>
-<postal>
-<street>434 Fayetteville St.Mall, Two Hannover Square</street>
-<street>Suite 1600</street>
-<city>Raleigh</city>
-<region>NC</region>
-<code>27601</code></postal>
-<phone>+1-919-890-4036</phone>
-<facsimile>+1-919-890-4100</facsimile>
-<email>rhopson@on.com</email></address></author>
+<title>iCalendar Transport-Independent Interoperability Protocol (iTIP) Scheduling Events, BusyTime, To-dos and Journal Entries</title>
+<author initials='S.' surname='Silverberg' fullname='S. Silverberg'><organization /></author>
+<author initials='S.' surname='Mansour' fullname='S. Mansour'><organization /></author>
+<author initials='F.' surname='Dawson' fullname='F. Dawson'><organization /></author>
+<author initials='R.' surname='Hopson' fullname='R. Hopson'><organization /></author>
 <date year='1998' month='November' />
-<area>Applications</area>
-<keyword>calendaring</keyword>
-<keyword>scheduling</keyword>
-<abstract>
-<t>
-   This document specifies how calendaring systems use iCalendar objects
-   to interoperate with other calendar systems. It does so in a general
-   way so as to allow multiple methods of communication between systems.
-   Subsequent documents specify interoperable methods of communications
-   between systems that use this protocol.
-</t>
-<t>
-   The document outlines a model for calendar exchange that defines both
-   static and dynamic event, to-do, journal and free/busy objects.
-   Static objects are used to transmit information from one entity to
-   another without the expectation of continuity or referential
-   integrity with the original item. Dynamic objects are a superset of
-   static objects and will gracefully degrade to their static
-   counterparts for clients that only support static objects.
-</t>
-<t>
-   This document specifies an Internet protocol based on the iCalendar
-   object specification that provides scheduling interoperability
-   between different calendar systems. The Internet protocol is called
-   the &quot;iCalendar Transport-Independent Interoperability Protocol
-   (iTIP)&quot;.
-   iTIP complements the iCalendar object specification by adding
-   semantics for group scheduling methods commonly available in current
-   calendar systems. These scheduling methods permit two or more
-   calendar systems to perform transactions such as publish, schedule,
-   reschedule, respond to scheduling requests, negotiation of changes or
-   cancel iCalendar-based calendar components.
-</t>
-<t>
-   iTIP is defined independent of the particular transport used to
-   transmit the scheduling information. Companion memos to iTIP provide
-   bindings of the interoperability protocol to a number of Internet
-   protocols.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2446' />
-<format type='TXT' octets='225964' target='http://www.rfc-editor.org/rfc/rfc2446.txt' />
-<format type='XML' octets='229235' target='http://xml.resource.org/public/rfc/xml/rfc2446.xml' />
+<abstract><t>This document specifies how calendaring systems use iCalendar objects to interoperate with other calendar systems. It does so in a general way so as to allow multiple methods of communication between systems. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2446'/>
+<seriesInfo name='DOI' value='10.17487/RFC2446'/>
 </reference>

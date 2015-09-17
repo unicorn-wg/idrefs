@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0021'>
-
+<reference  anchor='RFC0021' target='http://www.rfc-editor.org/info/rfc21'>
 <front>
 <title>Network meeting</title>
-<author initials='V.' surname='Cerf' fullname='V. Cerf'>
-<organization>University California Los Angeles (UCLA)</organization></author>
-<date year='1969' day='17' month='October' />
-<abstract>
-<t>At UCLA on October 10, there was a network meeting attended by:</t></abstract></front>
-
-<seriesInfo name='RFC' value='21' />
-<format type='TXT' octets='2143' target='http://www.rfc-editor.org/rfc/rfc21.txt' />
+<author initials='V.G.' surname='Cerf' fullname='V.G. Cerf'><organization /></author>
+<date year='1969' month='October' />
+</front>
+<seriesInfo name='RFC' value='21'/>
+<seriesInfo name='DOI' value='10.17487/RFC0021'/>
 </reference>

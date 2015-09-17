@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0145'>
-
+<reference  anchor='RFC0145' target='http://www.rfc-editor.org/info/rfc145'>
 <front>
 <title>Initial Connection Protocol Control Commands</title>
-<author initials='J.' surname='Postel' fullname='J. Postel'>
-<organization /></author>
-<date year='1971' month='May' /></front>
-
-<seriesInfo name='RFC' value='145' />
-<format type='TXT' octets='2490' target='http://www.rfc-editor.org/rfc/rfc145.txt' />
-<format type='PS' octets='552114' target='http://www.rfc-editor.org/rfc/rfc145.ps' />
-<format type='PDF' octets='15869' target='http://www.rfc-editor.org/rfc/rfc145.pdf' />
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<date year='1971' month='May' />
+</front>
+<seriesInfo name='RFC' value='145'/>
+<seriesInfo name='DOI' value='10.17487/RFC0145'/>
 </reference>

@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0019'>
-
+<reference  anchor='RFC0019' target='http://www.rfc-editor.org/info/rfc19'>
 <front>
 <title>Two protocol suggestions to reduce congestion at swap bound nodes</title>
-<author initials='J.' surname='Kreznar' fullname='John E. Kreznar'>
-<organization>System Development Corporation (SDC)</organization></author>
-<date year='1969' day='7' month='October' />
-<abstract>
-<t>There is a wide variance in swap rates between core and auxiliary store among the HOST systems to be nodes in the ARPA IMP network.  The slower of these, of which our 360/50 system with 2303 drump swap store is an example, might improve the utility of the network not only for themselves but for all nodes if the two protocol suggestions of this note were to be adopted.</t></abstract></front>
-
-<seriesInfo name='RFC' value='19' />
-<format type='TXT' octets='3392' target='http://www.rfc-editor.org/rfc/rfc19.txt' />
+<author initials='J.E.' surname='Kreznar' fullname='J.E. Kreznar'><organization /></author>
+<date year='1969' month='October' />
+</front>
+<seriesInfo name='RFC' value='19'/>
+<seriesInfo name='DOI' value='10.17487/RFC0019'/>
 </reference>

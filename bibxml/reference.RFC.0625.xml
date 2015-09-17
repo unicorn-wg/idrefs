@@ -1,21 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0625'>
-
+<reference  anchor='RFC0625' target='http://www.rfc-editor.org/info/rfc625'>
 <front>
 <title>On-line hostnames service</title>
-<author initials='M.' surname='Kudlick' fullname='Mike Kudlick'>
-<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center
-(ARC)</organization></author>
-<author initials='J.' surname='Feinler' fullname='Jake Feinler'>
-<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center
-(ARC)</organization></author>
-<author initials='A.' surname='McKenzie' fullname='Alex McKenzie'>
-<organization /></author>
-<date year='1974' day='7' month='March' />
-<abstract>
-<t>We agree with the suggestion in RFC 623 that more than one Host should be responsible for maintaining a copy of the Hostnames data base. The NIC is certainly willing to continue to maintain the master data base, and make it available to any secondary Host that volunteers to maintain a copy. We would be pleased to have UCSB serve as one of the secondary Hosts.</t></abstract></front>
-
-<seriesInfo name='RFC' value='625' />
-<format type='TXT' octets='2172' target='http://www.rfc-editor.org/rfc/rfc625.txt' />
+<author initials='M.D.' surname='Kudlick' fullname='M.D. Kudlick'><organization /></author>
+<author initials='E.J.' surname='Feinler' fullname='E.J. Feinler'><organization /></author>
+<date year='1974' month='March' />
+<abstract><t>See also RFCs 606, 608, 623 and 627.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='625'/>
+<seriesInfo name='DOI' value='10.17487/RFC0625'/>
 </reference>

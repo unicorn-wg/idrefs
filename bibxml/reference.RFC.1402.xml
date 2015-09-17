@@ -1,25 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1402'>
-
+<reference  anchor='RFC1402' target='http://www.rfc-editor.org/info/rfc1402'>
 <front>
-<title abbrev='Searching for Treasure'>There's Gold in them thar Networks! or Searching for Treasure in all the Wrong Places</title>
-<author initials='J.' surname='Martin' fullname='Jerry Martin'>
-<organization>Ohio State University, Network Information Center, Academic Computing Services</organization>
-<address>
-<postal>
-<street>1971 Neil Ave.</street>
-<city>Columbus</city>
-<region>OH</region>
-<code>43210-1210</code>
-<country>US</country></postal>
-<phone>+1 614 292 4843</phone>
-<email>nic@osu.edu</email></address></author>
+<title>There's Gold in them thar Networks! or Searching for Treasure in all the Wrong Places</title>
+<author initials='J.' surname='Martin' fullname='J. Martin'><organization /></author>
 <date year='1993' month='January' />
-<abstract>
-<t>A wealth of information exists on the network.  In fact, there is so much information that you could spend your entire life browsing. This paper will present some of the "gold nuggets" of information and file repositories on the network that could be useful.</t>
-<t>The ultimate goal is to make the route to these sources of information invisible to you.  At present, this is not easy to do.  I will explain some of the techniques that can be used to make these nuggets easier to pick up so that we all can be richer.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1402' />
-<format type='TXT' octets='71176' target='http://www.rfc-editor.org/rfc/rfc1402.txt' />
+<abstract><t>The ultimate goal is to make the route to these sources of information invisible to you.  At present, this is not easy to do.  I will explain some of the techniques that can be used to make these nuggets easier to pick up so that we all can be richer.  This RFC provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='FYI' value='10'/>
+<seriesInfo name='RFC' value='1402'/>
+<seriesInfo name='DOI' value='10.17487/RFC1402'/>
 </reference>

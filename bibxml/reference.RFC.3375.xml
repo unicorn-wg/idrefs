@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC3375'>
-
+<reference  anchor='RFC3375' target='http://www.rfc-editor.org/info/rfc3375'>
 <front>
 <title>Generic Registry-Registrar Protocol Requirements</title>
-<author initials='S.' surname='Hollenbeck' fullname='S. Hollenbeck'>
-<organization /></author>
-<date year='2002' month='September' /></front>
-
-<seriesInfo name='RFC' value='3375' />
-<format type='TXT' octets='46022' target='http://www.rfc-editor.org/rfc/rfc3375.txt' />
+<author initials='S.' surname='Hollenbeck' fullname='S. Hollenbeck'><organization /></author>
+<date year='2002' month='September' />
+</front>
+<seriesInfo name='RFC' value='3375'/>
+<seriesInfo name='DOI' value='10.17487/RFC3375'/>
 </reference>

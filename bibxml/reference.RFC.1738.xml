@@ -1,49 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1738'>
-
+<reference  anchor='RFC1738' target='http://www.rfc-editor.org/info/rfc1738'>
 <front>
 <title>Uniform Resource Locators (URL)</title>
-<author initials='T.' surname='Berners-Lee' fullname='Tim Berners-Lee'>
-<organization>CERN, World-Wide Web project</organization>
-<address>
-<postal>
-<street>1211 Geneva 23</street>
-<city />
-<region />
-<code />
-<country>CH</country></postal>
-<phone>+41 22 7673755</phone>
-<facsimile>+41 22 7677155</facsimile>
-<email>timbl@info.cern.ch</email></address></author>
-<author initials='L.' surname='Masinter' fullname='Larry Masinter'>
-<organization>Xerox PARC</organization>
-<address>
-<postal>
-<street>3333 Coyote Hill Road</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94034</code>
-<country>US</country></postal>
-<phone>+1 415 812 4365</phone>
-<facsimile>+1 415 812 4333</facsimile>
-<email>masinter@parc.xerox.com</email></address></author>
-<author initials='M.' surname='McCahill' fullname='Mark McCahill'>
-<organization>University of Minnesota, Computer and Information Services</organization>
-<address>
-<postal>
-<street>100 Union Street SE, Shepherd Labs</street>
-<street>Room 152</street>
-<city>Minneapolis</city>
-<region>MN</region>
-<code>55455</code>
-<country>US</country></postal>
-<phone>+1 612 625 1300</phone>
-<email>mpm@boombox.micro.umn.edu</email></address></author>
+<author initials='T.' surname='Berners-Lee' fullname='T. Berners-Lee'><organization /></author>
+<author initials='L.' surname='Masinter' fullname='L. Masinter'><organization /></author>
+<author initials='M.' surname='McCahill' fullname='M. McCahill'><organization /></author>
 <date year='1994' month='December' />
-<abstract>
-<t>This document specifies a Uniform Resource Locator (URL), the syntax and semantics of formalized information for location and access of resources via the Internet.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1738' />
-<format type='TXT' octets='51348' target='http://www.rfc-editor.org/rfc/rfc1738.txt' />
+<abstract><t>This document specifies a Uniform Resource Locator (URL), the syntax and semantics of formalized information for location and access of resources via the Internet. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1738'/>
+<seriesInfo name='DOI' value='10.17487/RFC1738'/>
 </reference>

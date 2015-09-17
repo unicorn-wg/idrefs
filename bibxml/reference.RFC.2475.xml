@@ -1,93 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2475'>
-
+<reference  anchor='RFC2475' target='http://www.rfc-editor.org/info/rfc2475'>
 <front>
-<title abbrev='Architecture for Differentiated Services'>An Architecture for Differentiated Services</title>
-<author initials='S.' surname='Blake' fullname='Steven Blake'>
-<organization>Torrent Networking Technologies</organization>
-<address>
-<postal>
-<street>3000 Aerial Center, Suite 140</street>
-<city>Morrisville</city>
-<region>NC</region>
-<code>27560</code>
-<country>USA</country></postal>
-<phone>+1 919 468 8466 x232 </phone>
-<email>slblake@torrentnet.com</email></address></author>
-<author initials='D.L.' surname='Black' fullname='David L. Black'>
-<organization>EMC Corporation</organization>
-<address>
-<postal>
-<street>35 Parkwood Drive</street>
-<city>Hopkinton</city>
-<region>MA</region>
-<code>01748</code>
-<country>USA</country></postal>
-<phone>+1 508 435 1000 x76140 </phone>
-<email>black_david@emc.com</email></address></author>
-<author initials='M.A.' surname='Carlson' fullname='Mark A. Carlson'>
-<organization>Sun Microsystems, Inc.</organization>
-<address>
-<postal>
-<street>2990 Center Green Court South</street>
-<city>Boulder</city>
-<region>CO</region>
-<code>80301</code>
-<country>USA</country></postal>
-<phone>+1 303 448 0048 x115</phone>
-<email>mark.carlson@sun.com</email></address></author>
-<author initials='E.' surname='Davies' fullname='Elwyn Davies'>
-<organization>Nortel UK</organization>
-<address>
-<postal>
-<street>London Road</street>
-<street>Harlow, Essex  CM17 9NA</street>
-<country>UK</country></postal>
-<phone>+44 1279 405498</phone>
-<email>elwynd@nortel.co.uk</email></address></author>
-<author initials='Z.' surname='Wang' fullname='Zheng Wang'>
-<organization>Bell Labs Lucent Technologies</organization>
-<address>
-<postal>
-<street>101 Crawfords Corner Road</street>
-<city>Holmdel</city>
-<region>NJ</region>
-<code>07733</code>
-<country>USA</country></postal>
-<email>zhwang@bell-labs.com</email></address></author>
-<author initials='W.' surname='Weiss' fullname='Walter Weiss'>
-<organization>Lucent Technologies</organization>
-<address>
-<postal>
-<street>300 Baker Avenue, Suite 100</street>
-<city>Concord</city>
-<region>MA</region>
-<code>01742-2168</code>
-<country>USA</country></postal>
-<email>wweiss@lucent.com</email></address></author>
+<title>An Architecture for Differentiated Services</title>
+<author initials='S.' surname='Blake' fullname='S. Blake'><organization /></author>
+<author initials='D.' surname='Black' fullname='D. Black'><organization /></author>
+<author initials='M.' surname='Carlson' fullname='M. Carlson'><organization /></author>
+<author initials='E.' surname='Davies' fullname='E. Davies'><organization /></author>
+<author initials='Z.' surname='Wang' fullname='Z. Wang'><organization /></author>
+<author initials='W.' surname='Weiss' fullname='W. Weiss'><organization /></author>
 <date year='1998' month='December' />
-<area>Internet</area>
-<keyword>type of service</keyword>
-<abstract>
-<t>
-   This document defines an architecture for implementing scalable
-   service differentiation in the Internet.  This architecture achieves
-   scalability by aggregating traffic classification state which is
-   conveyed by means of IP-layer packet marking using the DS field
-   .  Packets are classified and marked to receive a particular
-   per-hop forwarding behavior on nodes along their path.  Sophisticated
-   classification, marking, policing, and shaping operations need only
-   be implemented at network boundaries or hosts.  Network resources are
-   allocated to traffic streams by service provisioning policies which
-   govern how traffic is marked and conditioned upon entry to a
-   differentiated services-capable network, and how that traffic is
-   forwarded within that network.  A wide variety of services can be
-   implemented on top of these building blocks.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2475' />
-<format type='TXT' octets='94786' target='http://www.rfc-editor.org/rfc/rfc2475.txt' />
-<format type='HTML' octets='123373' target='http://xml.resource.org/public/rfc/html/rfc2475.html' />
-<format type='XML' octets='108251' target='http://xml.resource.org/public/rfc/xml/rfc2475.xml' />
+<abstract><t>This document defines an architecture for implementing scalable service differentiation in the Internet.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2475'/>
+<seriesInfo name='DOI' value='10.17487/RFC2475'/>
 </reference>

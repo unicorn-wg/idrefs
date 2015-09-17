@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1358'>
-
+<reference  anchor='RFC1358' target='http://www.rfc-editor.org/info/rfc1358'>
 <front>
-<title abbrev='Charter of the IAB'>Charter of the Internet Architecture Board (IAB)</title>
-<author initials='A.L.' surname='Chapin' fullname='A. Lyman Chapin'>
-<organization>Bolt, Beranek &amp; Newman, Internet Architecture Board (IAB)</organization>
-<address>
-<postal>
-<street>150 Cambridge Park Drive</street>
-<street>Mail Stop 20/5b</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02140</code>
-<country>US</country></postal>
-<phone>+1 617 873 3133</phone>
-<email>lyman@BBN.COM</email></address></author>
-<date year='1992' month='August' /></front>
-
-<seriesInfo name='RFC' value='1358' />
-<format type='TXT' octets='11328' target='http://www.rfc-editor.org/rfc/rfc1358.txt' />
+<title>Charter of the Internet Architecture Board (IAB)</title>
+<author initials='L.' surname='Chapin' fullname='L. Chapin'><organization /></author>
+<date year='1992' month='August' />
+<abstract><t>The Internet Architecture Board (IAB) shall be constituted and shall operate as a technical advisory group of the Internet Society.  This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1358'/>
+<seriesInfo name='DOI' value='10.17487/RFC1358'/>
 </reference>

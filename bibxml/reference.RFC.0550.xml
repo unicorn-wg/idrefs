@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0550'>
-
+<reference  anchor='RFC0550' target='http://www.rfc-editor.org/info/rfc550'>
 <front>
 <title>NIC NCP experiment</title>
-<author initials='L.' surname='Deutsch' fullname='L. P. Deutsch'>
-<organization>Xerox Palo Alto Research Center (PARC), MAXC</organization></author>
-<date year='1973' day='24' month='August' />
-<abstract>
-<t>For the past couple of weeks, the NIC NCP has been keeping statistics on total incoming messages, incoming host-host control opcodes, and size of outgoing messages.</t></abstract></front>
-
-<seriesInfo name='RFC' value='550' />
-<format type='TXT' octets='3688' target='http://www.rfc-editor.org/rfc/rfc550.txt' />
+<author initials='L.P.' surname='Deutsch' fullname='L.P. Deutsch'><organization /></author>
+<date year='1973' month='August' />
+</front>
+<seriesInfo name='RFC' value='550'/>
+<seriesInfo name='DOI' value='10.17487/RFC0550'/>
 </reference>

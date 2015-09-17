@@ -1,16 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0355'>
-
+<reference  anchor='RFC0355' target='http://www.rfc-editor.org/info/rfc355'>
 <front>
 <title>Response to NWG/RFC 346</title>
-<author initials='J.' surname='Davidson' fullname='John Davidson'>
-<organization>University of Hawaii (UH),  ALOHA SYSTEM</organization></author>
-<date year='1972' day='9' month='June' />
-<abstract>
-<t>Long transmission delays such as those inherent in satellite communication are most certainly a cause for concern among users of remote interactive systems.  Since the University of Hawaii will, by the end of this year, be linked to the ARPANET via satellite, the consequences of such delays are perhaps of more immediate concern to us than to current members of the surface net.  Consequently the BCC 500 research group here has been studying various solutions to the problems of buffer allocation, partitioned echoing, etc. re-introduced in RFC 346.</t>
-<t>Generally, the solutions come from extensions to the original design concepts of the BCC 500 distributed communication system.</t></abstract></front>
-
-<seriesInfo name='RFC' value='355' />
-<format type='TXT' octets='3717' target='http://www.rfc-editor.org/rfc/rfc355.txt' />
+<author initials='J.' surname='Davidson' fullname='J. Davidson'><organization /></author>
+<date year='1972' month='June' />
+</front>
+<seriesInfo name='RFC' value='355'/>
+<seriesInfo name='DOI' value='10.17487/RFC0355'/>
 </reference>

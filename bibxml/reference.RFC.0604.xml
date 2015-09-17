@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0604'>
-
+<reference  anchor='RFC0604' target='http://www.rfc-editor.org/info/rfc604'>
 <front>
 <title>Assigned link numbers</title>
-<author initials='J.' surname='Postel' fullname='Jon Postel'>
-<organization>The MITRE Corporation</organization></author>
-<date year='1973' day='26' month='December' /></front>
-
-<seriesInfo name='RFC' value='604' />
-<format type='TXT' octets='2758' target='http://www.rfc-editor.org/rfc/rfc604.txt' />
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<date year='1973' month='December' />
+<abstract><t>Modifies official host-host protocol.  Replaces RFC 377.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='604'/>
+<seriesInfo name='DOI' value='10.17487/RFC0604'/>
 </reference>

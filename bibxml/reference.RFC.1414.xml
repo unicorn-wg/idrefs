@@ -1,36 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1414'>
-
+<reference  anchor='RFC1414' target='http://www.rfc-editor.org/info/rfc1414'>
 <front>
 <title>Identification MIB</title>
-<author initials='M.' surname='St. Johns' fullname='Michael C. St. Johns'>
-<organization>U.S. Department of Defense</organization>
-<address>
-<postal>
-<street>3701 N. Fairfax Dr</street>
-<street>DARPA/CSTO</street>
-<city>Arlington</city>
-<region>VA</region>
-<code>22203</code>
-<country>US</country></postal>
-<phone>+1 703 696 2271</phone>
-<email>stjohns@DARPA.MIL</email></address></author>
-<author initials='M.' surname='Rose' fullname='Marshall T. Rose'>
-<organization>Dover Beach Consulting, Inc.</organization>
-<address>
-<postal>
-<street>420 Whisman Court</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043-2186</code>
-<country>US</country></postal>
-<phone>+1 415 968 1052</phone>
-<email>mrose@dbc.mtview.ca.us</email></address></author>
+<author initials='M.' surname='St. Johns' fullname='M. St. Johns'><organization /></author>
+<author initials='M.' surname='Rose' fullname='M. Rose'><organization /></author>
 <date year='1993' month='February' />
-<abstract>
-<t>This memo defines a MIB for use with identifying the users associated with TCP connections.  It provides functionality approximately equivalent to that provided by the protocol defined in RFC 1413.  This document is a product of the TCP Client Identity Protocol  Working Group of the Internet Engineering Task Force (IETF).</t></abstract></front>
-
-<seriesInfo name='RFC' value='1414' />
-<format type='TXT' octets='14165' target='http://www.rfc-editor.org/rfc/rfc1414.txt' />
+<abstract><t>This memo defines a MIB for use with identifying the users associated with TCP connections.  It provides functionality approximately equivalent to that provided by the protocol defined in RFC 1413 [1]. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1414'/>
+<seriesInfo name='DOI' value='10.17487/RFC1414'/>
 </reference>

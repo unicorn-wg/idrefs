@@ -1,16 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0701'>
-
+<reference  anchor='RFC0701' target='http://www.rfc-editor.org/info/rfc701'>
 <front>
 <title>August, 1974, survey of New-Protocol Telnet servers</title>
-<author initials='D.' surname='Dodds' fullname='D. W. Dodds'>
-<organization>Bolt Baranek and Newman (BBN), TENEXA</organization></author>
-<date year='1974' day='1' month='August' />
-<abstract>
-<t>THIS IS THE FIRST OF WHAT ARE PLANNED TO BE MONTHLY REPORTS ON THE STATUS OF THE NEW-PROTOCOL TELNET IMPLEMENTAIONS ON THE SERVER HOSTS ON THE ARPA NETWORK.  INCLUDED IN THIS REPORT ARE DATA ONLY ON SERVER TELNETS AT THE VARIOUS SITES.  ONE WOULD HOPE THAT ANY SITE WITH AN OPERATIONAL NEW-PROTOCOL SERVER TELNET WOULD ALSO BOAST A NEW-PROTOCOL USER TELNET; WE CAN CERTAINLY ASSUME THIS FOR TENEX SITES AT WHICH TENEX 1.32 IS OPERATING.  HOWEVER, NO FURTHER CLAIMS
-ARE MADE FOR THE SERVER DATA CONTAINED IN THIS REPORT.</t></abstract></front>
-
-<seriesInfo name='RFC' value='701' />
-<format type='TXT' octets='3549' target='http://www.rfc-editor.org/rfc/rfc701.txt' />
+<author initials='D.W.' surname='Dodds' fullname='D.W. Dodds'><organization /></author>
+<date year='1974' month='August' />
+</front>
+<seriesInfo name='RFC' value='701'/>
+<seriesInfo name='DOI' value='10.17487/RFC0701'/>
 </reference>

@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2053'>
-
+<reference  anchor='RFC2053' target='http://www.rfc-editor.org/info/rfc2053'>
 <front>
 <title>The AM (Armenia) Domain</title>
-<author initials='E.' surname='Der-Danieliantz' fullname='Edgar Der-Danieliantz'>
-<organization>AM Network Information Center</organization>
-<address>
-<postal>
-<street>Mashtotz Avenue 51</street>
-<street>Yerevan</street>
-<country>AM</country></postal>
-<phone>+374 2 281425</phone>
-<facsimile>+374 2 285082</facsimile>
-<email>edd@acm.org</email></address></author>
+<author initials='E.' surname='Der-Danieliantz' fullname='E. Der-Danieliantz'><organization /></author>
 <date year='1996' month='October' />
-<abstract>
-<t></t></abstract></front>
-
-<seriesInfo name='RFC' value='2053' />
-<format type='TXT' octets='4128' target='http://www.rfc-editor.org/rfc/rfc2053.txt' />
+<abstract><t>The AM Domain is an official Internet top-level domain of Armenia.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2053'/>
+<seriesInfo name='DOI' value='10.17487/RFC2053'/>
 </reference>

@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1639'>
-
+<reference  anchor='RFC1639' target='http://www.rfc-editor.org/info/rfc1639'>
 <front>
-<title abbrev='FTP Over Big Address'>FTP Operation Over Big Address Records (FOOBAR)</title>
-<author initials='D.' surname='Piscitello' fullname='David M. Piscitello'>
-<organization>Core Competence, Inc.</organization>
-<address>
-<postal>
-<street>1620 Tuckerstown Road</street>
-<city>Dresher</city>
-<region>PA</region>
-<code>19025</code>
-<country>US</country></postal>
-<email>dave@corecom.com</email></address></author>
+<title>FTP Operation Over Big Address Records (FOOBAR)</title>
+<author initials='D.' surname='Piscitello' fullname='D. Piscitello'><organization /></author>
 <date year='1994' month='June' />
-<abstract>
-<t>This paper describes a convention for specifying address families other than the default Internet address family in FTP commands and replies.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1639' />
-<format type='TXT' octets='10055' target='http://www.rfc-editor.org/rfc/rfc1639.txt' />
+<abstract><t>This RFC specifies a method for assigning addresses other than 32-bit IPv4 addresses to data ports through the specification of a &quot;long Port (LPRT)&quot; command and &quot;Long Passive (LPSV)&quot; reply, each having as its argument a &lt;long-host-port&gt;, which allows for additional address families, variable length network addresses and variable length port numbers.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1639'/>
+<seriesInfo name='DOI' value='10.17487/RFC1639'/>
 </reference>

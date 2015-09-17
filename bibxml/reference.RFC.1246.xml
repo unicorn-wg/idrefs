@@ -1,29 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1246'>
-
+<reference  anchor='RFC1246' target='http://www.rfc-editor.org/info/rfc1246'>
 <front>
-<title abbrev='Experience with OSPF'>Experience with the OSPF Protocol</title>
-<author initials='J.' surname='Moy' fullname='John Moy'>
-<organization>Proteon Inc.</organization>
-<address>
-<postal>
-<street>2 Technology Drive</street>
-<city>Westborough</city>
-<region>MA</region>
-<code>01581</code>
-<country>US</country></postal>
-<phone>+1 508 898 2800</phone>
-<email>jmoy@proteon.com</email></address></author>
-<date year='1991' day='1' month='July' />
-<abstract>
-<t>This is the second of two reports on the OSPF protocol. These reports are required by the IAB/IESG in order for an Internet routing protocol to advance to Draft Standard Status. OSPF is a TCP/IP routing protocol, designed to be used internal to an Autonomous System (in other words, OSPF is an Interior Gateway Protocol).</t>
-<t>OSPF is currently designated as a Proposed Standard. Version 1 of the OSPF protocol was published in RFC 1131. Since then OSPF version 2 has been developed. Version 2 has been documented in RFC 1247.  The changes between version 1 and version 2 of the OSPF protocol are explained in Appendix F of RFC 1247. It is OSPF Version 2 that is the subject of this report.</t>
-<t>This report documents experience with OSPF V2. This includes reports on interoperability testing, field experience, simulations and the current state of OSPF implementations. It also presents a summary of the OSPF Management Information Base (MIB), and a summary of OSPF authentication mechanism.</t>
-<t>Please send comments to ospf@trantor.umd.edu.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1246' />
-<format type='TXT' octets='70441' target='http://www.rfc-editor.org/rfc/rfc1246.txt' />
-<format type='PS' octets='141924' target='http://www.rfc-editor.org/rfc/rfc1246.ps' />
-<format type='PDF' octets='84633' target='http://www.rfc-editor.org/rfc/rfc1246.pdf' />
+<title>Experience with the OSPF Protocol</title>
+<author initials='J.' surname='Moy' fullname='J. Moy'><organization /></author>
+<date year='1991' month='July' />
+<abstract><t>This report documents experience with OSPF V2. This includes reports on interoperability testing, field experience, simulations and the current state of OSPF implementations. This memo provides information for the Internet community. It does not specify any Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1246'/>
+<seriesInfo name='DOI' value='10.17487/RFC1246'/>
 </reference>

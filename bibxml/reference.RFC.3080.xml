@@ -1,40 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC3080'>
-
+<reference  anchor='RFC3080' target='http://www.rfc-editor.org/info/rfc3080'>
 <front>
-<title abbrev='The BEEP Core'>The Blocks Extensible Exchange Protocol Core</title>
-<author initials='M.T.' surname='Rose' fullname='Marshall T. Rose'>
-<organization>Invisible Worlds, Inc.</organization>
-<address>
-<postal>
-<street>131 Stony Circle</street>
-<street>Suite 500</street>
-<city>Santa Rosa</city>
-<region>CA</region>
-<code>95401</code>
-<country>US</country></postal>
-<phone>+1 707 578 2350</phone>
-<email>mrose@invisible.net</email>
-<uri>http://invisible.net/</uri></address></author>
+<title>The Blocks Extensible Exchange Protocol Core</title>
+<author initials='M.' surname='Rose' fullname='M. Rose'><organization /></author>
 <date year='2001' month='March' />
-<area>Applications</area>
-<keyword>application protocols</keyword>
-<keyword>BEEP</keyword>
-<keyword>BXXP</keyword>
-<keyword>application framework</keyword>
-<abstract>
-<t>This memo describes a generic application protocol
-kernel for connection-oriented,
-asynchronous interactions called the BEEP
-(Blocks Extensible Exchange Protocol)
-core.
-BEEP permits simultaneous and independent exchanges
-within the context of a single application user-identity,
-supporting both textual and binary messages.</t></abstract></front>
-
-<seriesInfo name='RFC' value='3080' />
-<format type='TXT' octets='82089' target='http://www.rfc-editor.org/rfc/rfc3080.txt' />
-<format type='HTML' octets='111800' target='http://xml.resource.org/public/rfc/html/rfc3080.html' />
-<format type='XML' octets='87864' target='http://xml.resource.org/public/rfc/xml/rfc3080.xml' />
+<abstract><t>This memo describes a generic application protocol kernel for connection-oriented, asynchronous interactions called the BEEP (Blocks Extensible Exchange Protocol) core.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='3080'/>
+<seriesInfo name='DOI' value='10.17487/RFC3080'/>
 </reference>

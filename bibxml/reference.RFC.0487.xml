@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0487'>
-
+<reference  anchor='RFC0487' target='http://www.rfc-editor.org/info/rfc487'>
 <front>
 <title>Free file transfer</title>
-<author initials='B.' surname='Bressler' fullname='Bob Bressler'>
-<organization>Bolt Beranek and Newman (BBN)</organization></author>
-<date year='1973' day='6' month='April' />
-<abstract>
-<t>In the past several months, many people have commented to me about their difficulty in transferring files.  The hang up appears to be with systems that have some flavor of security, but on which the user has no access privileges.  Specifically, the FTP server demands a user and password before it will grant any system access.  The loophole which people have been using is the MAIL FILE facility, which is both limited in scope and intended for other purposes.</t></abstract></front>
-
-<seriesInfo name='RFC' value='487' />
-<format type='TXT' octets='3249' target='http://www.rfc-editor.org/rfc/rfc487.txt' />
+<author initials='R.D.' surname='Bressler' fullname='R.D. Bressler'><organization /></author>
+<date year='1973' month='April' />
+</front>
+<seriesInfo name='RFC' value='487'/>
+<seriesInfo name='DOI' value='10.17487/RFC0487'/>
 </reference>

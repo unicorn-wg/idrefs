@@ -1,38 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1883'>
-
+<reference  anchor='RFC1883' target='http://www.rfc-editor.org/info/rfc1883'>
 <front>
-<title abbrev='IPv6 Specification'>Internet Protocol, Version 6 (IPv6) Specification</title>
-<author initials='S.E.' surname='Deering' fullname='Stephen E. Deering'>
-<organization>Xerox Palo Alto Research Center</organization>
-<address>
-<postal>
-<street>3333 Coyote Hill Road</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94304</code>
-<country>US</country></postal>
-<phone>+1 415 812 4839</phone>
-<facsimile>+1 415 812 4471</facsimile>
-<email>deering@parc.xerox.com</email></address></author>
-<author initials='R.M.' surname='Hinden' fullname='Robert M. Hinden'>
-<organization>Ipsilon Networks, Inc.</organization>
-<address>
-<postal>
-<street>2191 E. Bayshore Road</street>
-<street>Suite 100</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94303</code>
-<country>US</country></postal>
-<phone>+1 415 846 4604</phone>
-<facsimile>+1 415 855 1414</facsimile>
-<email>hinden@ipsilon.com</email></address></author>
+<title>Internet Protocol, Version 6 (IPv6) Specification</title>
+<author initials='S.' surname='Deering' fullname='S. Deering'><organization /></author>
+<author initials='R.' surname='Hinden' fullname='R. Hinden'><organization /></author>
 <date year='1995' month='December' />
-<abstract>
-<t>This document specifies version 6 of the Internet Protocol (IPv6), also sometimes referred to as IP Next Generation or IPng.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1883' />
-<format type='TXT' octets='82089' target='http://www.rfc-editor.org/rfc/rfc1883.txt' />
+<abstract><t>This document specifies version 6 of the Internet Protocol (IPv6), also sometimes referred to as IP Next Generation or IPng.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1883'/>
+<seriesInfo name='DOI' value='10.17487/RFC1883'/>
 </reference>

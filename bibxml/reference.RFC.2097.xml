@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2097'>
-
+<reference  anchor='RFC2097' target='http://www.rfc-editor.org/info/rfc2097'>
 <front>
-<title abbrev='NBFCP'>The PPP NetBIOS Frames Control Protocol (NBFCP)</title>
-<author initials='G.' surname='Pall' fullname='Gurdeep Singh Pall'>
-<organization>Microsoft Corporation</organization>
-<address>
-<postal>
-<street>1 Microsoft Way</street>
-<city>Redmond</city>
-<region>WA</region>
-<code>98052-6399</code>
-<country>US</country></postal>
-<email>gurdeep@microsoft.com</email></address></author>
+<title>The PPP NetBIOS Frames Control Protocol (NBFCP)</title>
+<author initials='G.' surname='Pall' fullname='G. Pall'><organization /></author>
 <date year='1997' month='January' />
-<abstract>
-<t>The Point-to-Point Protocol (PPP)provides a standard method for transporting multi-protocol datagrams over point-to-point links.  PPP defines an extensible Link Control Protocol, and proposes a family of Network Control Protocols for establishing and configuring different network-layer protocols.</t>
-<t>The NBF protocolwas originally called the NetBEUI protocol. This document defines the Network Control Protocol for establishing and configuring the NBF protocol over PPP.</t>
-<t>The NBFCP protocol is only applicable for an end system to connect to a peer system or the LAN that peer system is connected to.  It is not applicable for connecting two LANs together due to NetBIOS name limitations and NetBIOS name defense mechanisms.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2097' />
-<format type='TXT' octets='27104' target='http://www.rfc-editor.org/rfc/rfc2097.txt' />
+<abstract><t>This document defines the Network Control Protocol for establishing and configuring the NBF protocol over PPP.  The NBFCP protocol is only applicable for an end system to connect to a peer system or the LAN that peer system is connected to.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2097'/>
+<seriesInfo name='DOI' value='10.17487/RFC2097'/>
 </reference>

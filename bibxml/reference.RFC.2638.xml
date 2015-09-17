@@ -1,49 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2638'>
-
+<reference  anchor='RFC2638' target='http://www.rfc-editor.org/info/rfc2638'>
 <front>
-<title abbrev='Two-bit Differentiated Services Architecture'>A Two-bit Differentiated Services Architecture for the Internet</title>
-<author initials='K.' surname='Nichols' fullname='Kathleen Nichols'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134-1706</code>
-<country>US</country></postal>
-<phone>+1 408 525 4857</phone>
-<email>kmn@cisco.com</email></address></author>
-<author initials='V.' surname='Jacobson' fullname='Van Jacobson'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134-1706</code>
-<country>US</country></postal>
-<email>van@cisco.com</email></address></author>
-<author initials='L.' surname='Zhang' fullname='Lixia Zhang'>
-<organization>UCLA</organization>
-<address>
-<postal>
-<street>4531G Boelter Hall</street>
-<city>Los Angeles</city>
-<region>CA</region>
-<code>90095</code>
-<country>US</country></postal>
-<phone>+1 310 825 2695</phone>
-<email>lixia@cs.ucla.edu</email></address></author>
+<title>A Two-bit Differentiated Services Architecture for the Internet</title>
+<author initials='K.' surname='Nichols' fullname='K. Nichols'><organization /></author>
+<author initials='V.' surname='Jacobson' fullname='V. Jacobson'><organization /></author>
+<author initials='L.' surname='Zhang' fullname='L. Zhang'><organization /></author>
 <date year='1999' month='July' />
-<abstract>
-<t>This document was originally submitted as an internet draft in November of 1997. As one of the documents predating the formation of the IETF's Differentiated Services Working Group, many of the ideas presented here, in concert with Dave Clark's subsequent presentation to the December 1997 meeting of the IETF Integrated Services Working Group, were key to the work which led to RFCs 2474 and 2475 and the section on allocation remains a timely  roposal.
-For this reason, and to provide a reference, it is being submitted in its original form. The forwarding path portion of this document is intended as a record of where we were at in late 1997 and not as an indication of future direction.</t>
-<t>The postscript version of this document includes Clark's slides as an appendix. The postscript version of this document also includes many figures that aid greatly in its readability.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2638' />
-<format type='TXT' octets='72785' target='http://www.rfc-editor.org/rfc/rfc2638.txt' />
-<format type='PS' octets='1610846' target='http://www.rfc-editor.org/rfc/rfc2638.ps' />
-<format type='PDF' octets='315195' target='http://www.rfc-editor.org/rfc/rfc2638.pdf' />
+<abstract><t>This document presents a differentiated services architecture for the internet.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2638'/>
+<seriesInfo name='DOI' value='10.17487/RFC2638'/>
 </reference>

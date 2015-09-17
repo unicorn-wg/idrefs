@@ -1,24 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0134'>
-
+<reference  anchor='RFC0134' target='http://www.rfc-editor.org/info/rfc134'>
 <front>
 <title>Network Graphics meeting</title>
-<author initials='A.' surname='Vezza' fullname='A. Vezza'>
-<organization>Massachusetts Institute of Technology (MIT), Project MAC</organization>
-<address>
-<postal>
-<street>545 Technology Square</street>
-<street>Room 201</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02139</code>
-<country>US</country></postal>
-<phone>+1 617 864 6900 x1458</phone></address></author>
-<date year='1971' day='29' month='April' />
-<abstract>
-<t>Project MAC will host a Network Graphics Meeting on the 18th, 19th, and 20th of July 1971.</t></abstract></front>
-
-<seriesInfo name='RFC' value='134' />
-<format type='TXT' octets='2684' target='http://www.rfc-editor.org/rfc/rfc134.txt' />
+<author initials='A.' surname='Vezza' fullname='A. Vezza'><organization /></author>
+<date year='1971' month='April' />
+</front>
+<seriesInfo name='RFC' value='134'/>
+<seriesInfo name='DOI' value='10.17487/RFC0134'/>
 </reference>

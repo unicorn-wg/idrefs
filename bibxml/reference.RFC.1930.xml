@@ -1,36 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1930'>
-
+<reference  anchor='RFC1930' target='http://www.rfc-editor.org/info/rfc1930'>
 <front>
-<title abbrev='Guidelines for creation of an AS'>Guidelines for creation, selection, and registration of an Autonomous System (AS)</title>
-<author initials='J.' surname='Hawkinson' fullname='John Hawkinson'>
-<organization>BBN Planet Corporation</organization>
-<address>
-<postal>
-<street>150 CambridgePark Drive</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02139</code>
-<country>US</country></postal>
-<phone>+1 617 873 3180</phone>
-<email>jhawk@bbnplanet.com</email></address></author>
-<author initials='T.' surname='Bates' fullname='Tony Bates'>
-<organization>MCI</organization>
-<address>
-<postal>
-<street>2100 Reston Parkway</street>
-<city>Reston</city>
-<region>VA</region>
-<code>22094</code>
-<country>US</country></postal>
-<phone>+1 703 715 7521</phone>
-<email>Tony.Bates@mci.net</email></address></author>
+<title>Guidelines for creation, selection, and registration of an Autonomous System (AS)</title>
+<author initials='J.' surname='Hawkinson' fullname='J. Hawkinson'><organization /></author>
+<author initials='T.' surname='Bates' fullname='T. Bates'><organization /></author>
 <date year='1996' month='March' />
-<abstract>
-<t>This memo discusses when it is appropriate to register and utilize an Autonomous System (AS), and lists criteria for such.  ASes are the unit of routing policy in the modern world of exterior routing, and are specifically applicable to protocols like EGP (Exterior Gateway Protocol, now at historical status; see, BGP (Border Gateway Protocol, the current de facto standard for inter-AS routing; see, and IDRP (The OSI Inter-Domain Routing Protocol, which the Internet is expected to adopt when BGP becomes obsolete; see. It should be noted that the IDRP equivalent of an AS is the RDI, or Routing Domain Identifier.</t></abstract></front>
-
-<seriesInfo name='BCP' value='6' />
-<seriesInfo name='RFC' value='1930' />
-<format type='TXT' octets='22073' target='http://www.rfc-editor.org/rfc/rfc1930.txt' />
+<abstract><t>This memo discusses when it is appropriate to register and utilize an Autonomous System (AS), and lists criteria for such.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t></abstract>
+</front>
+<seriesInfo name='BCP' value='6'/>
+<seriesInfo name='RFC' value='1930'/>
+<seriesInfo name='DOI' value='10.17487/RFC1930'/>
 </reference>

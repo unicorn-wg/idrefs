@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0161'>
-
+<reference  anchor='RFC0161' target='http://www.rfc-editor.org/info/rfc161'>
 <front>
 <title>Solution to the race condition in the ICP</title>
-<author initials='A.' surname='Shoshani' fullname='A. Shoshani'>
-<organization>System Development Corporation (SDC)</organization></author>
-<date year='1971' day='19' month='May' />
-<abstract>
-<t>In NWG/RFC #143a race condition in the ICP was described and a solution was suggested. The problem arises because the Host-Host protocol does not specify what the NCP should do when it gets more than one request of STR (or RTS) to the same socket. As a result this decision depends on the particular implementation: some may queue these requests (SDC for example), some will refuse a request if the socket is already connected (UCLA for example), etc.</t></abstract></front>
-
-<seriesInfo name='RFC' value='161' />
-<format type='TXT' octets='2026' target='http://www.rfc-editor.org/rfc/rfc161.txt' />
+<author initials='A.' surname='Shoshani' fullname='A. Shoshani'><organization /></author>
+<date year='1971' month='May' />
+</front>
+<seriesInfo name='RFC' value='161'/>
+<seriesInfo name='DOI' value='10.17487/RFC0161'/>
 </reference>

@@ -1,65 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2331'>
-
+<reference  anchor='RFC2331' target='http://www.rfc-editor.org/info/rfc2331'>
 <front>
-<title abbrev='IP over ATM Signalling - SIG 4.0 Update'>ATM Signalling Support for IP over ATM - UNI Signalling 4.0 Update</title>
-<author initials='M.' surname='Maher' fullname='M. Maher'>
-<organization>UCS/ISI</organization>
-<address>
-<email>maher@isi.edu</email></address></author>
+<title>ATM Signalling Support for IP over ATM - UNI Signalling 4.0 Update</title>
+<author initials='M.' surname='Maher' fullname='M. Maher'><organization /></author>
 <date year='1998' month='April' />
-<area>Internet</area>
-<keyword>asynchronous transfer mode</keyword>
-<keyword>ATM</keyword>
-<abstract>
-<t>
-   This memo describes how to efficiently use the ATM call control
-
-   signalling procedures defined in UNI Signalling 4.0 [SIG40] to
-
-   support IP over ATM environments as described in RFC 2225 [LAUB98]
-
-   and in RFC 2332 [LUC98].  Among the new features found in UNI
-
-   Signalling 4.0 are Available Bit Rate signalling and traffic
-
-   parameter negotiation.  This memo highlights the features of UNI
-
-   Signalling 4.0 that provide IP entities capabilities for requesting
-
-   ATM service in sites with SVC support, whether it is private ATM or
-
-   publicly provisioned ATM, in which case the SVC support is probably
-
-   configured inside PVPs.
-</t>
-<t>
-
-
-   This document is only relevant to IP when used as the well known
-
-   "best effort" connectionless service. In particular, this means that
-
-   this document does not pertain to IP in the presence of implemented
-
-   IP Integrated Services.  The topic of IP with Integrated Services
-
-   over ATM will be handled by a different specification or set of
-
-   specifications being worked on in the ISSLL WG.
-
-</t>
-<t>
-
-   This specification is a follow-on to RFC 1755, "ATM Signaling Support
-
-   for IP over ATM", which is based on UNI 3.1 signalling [UNI95].
-
-   Readers are assumed to be familiar with RFC 1755.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2331' />
-<format type='TXT' octets='61119' target='http://www.rfc-editor.org/rfc/rfc2331.txt' />
-<format type='XML' octets='61569' target='http://xml.resource.org/public/rfc/xml/rfc2331.xml' />
+<abstract><t>This memo describes how to efficiently use the ATM call control signalling procedures defined in UNI Signalling 4.0 to support IP over ATM environments as described in RFC 2225 and in RFC 2332.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2331'/>
+<seriesInfo name='DOI' value='10.17487/RFC2331'/>
 </reference>

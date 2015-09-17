@@ -1,38 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1228'>
-
+<reference  anchor='RFC1228' target='http://www.rfc-editor.org/info/rfc1228'>
 <front>
-<title abbrev='SNMP-DPI'>SNMP-DPI: Simple Network Management Protocol Distributed Program Interface</title>
-<author initials='G.' surname='Carpenter' fullname='Geoffrey C. Carpenter'>
-<organization>IBM, T. J. Watson Research Center</organization>
-<address>
-<postal>
-<street>P.O. Box 218</street>
-<city>Yorktown Heights</city>
-<region>NY</region>
-<code>10598</code>
-<country>US</country></postal>
-<phone>+1 914 945 1970</phone>
-<email>gcc@watson.ibm.com</email></address></author>
-<author initials='B.' surname='Wijnen' fullname='Bert Wijnen'>
-<organization>IBM International Operations</organization>
-<address>
-<postal>
-<street>Watsonweg 2</street>
-<city>Uithoorn</city>
-<region />
-<code>1423 ND</code>
-<country>NL</country></postal>
-<phone>+31 29 7553316</phone>
-<email>wijnen@uitvm2.iinus1.ibm.com</email></address></author>
-<date year='1991' day='1' month='May' />
-<abstract>
-<t>The Simple Network Management Protocol (SNMP)Distributed Program Interface (DPI) is an extension to SNMP agents that permits end-users to dynamically add, delete or replace management variables in the local Management Information Base without requiring recompilation of the SNMP agent.  This is achieved by writing a so-called sub-agent that communicates with the agent via the SNMP-DPI.</t>
-<t>For the author of a sub-agent, the SNMP-DPI eliminates the need to know the details of ASN.1or SNMP PDU (Protocol Data Unit) encoding/decoding,.</t>
-<t>This protocol has been in use within IBM since 1989 and is included in the SNMP agents for VM, MVS and OS/2.</t>
-<t>Potentially useful sample sub-agent code and implementation examples are available for anonymous FTP from the University of Toronto.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1228' />
-<format type='TXT' octets='96972' target='http://www.rfc-editor.org/rfc/rfc1228.txt' />
+<title>SNMP-DPI: Simple Network Management Protocol Distributed Program Interface</title>
+<author initials='G.' surname='Carpenter' fullname='G. Carpenter'><organization /></author>
+<author initials='B.' surname='Wijnen' fullname='B. Wijnen'><organization /></author>
+<date year='1991' month='May' />
+<abstract><t>This RFC describes a protocol that International Business Machines Corporation (IBM) has been implementing in most of its SNMP agents to allow dynamic extension of supported MIBs. This is an Experimental Protocol for the Internet community. It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1228'/>
+<seriesInfo name='DOI' value='10.17487/RFC1228'/>
 </reference>

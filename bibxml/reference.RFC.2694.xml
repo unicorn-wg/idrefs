@@ -1,75 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2694'>
-
+<reference  anchor='RFC2694' target='http://www.rfc-editor.org/info/rfc2694'>
 <front>
-<title abbrev='DNS extensions to NAT'>DNS extensions to Network Address Translators (DNS_ALG)</title>
-<author initials='P.' surname='Srisuresh' fullname='Pyda Srisuresh'>
-<organization />
-<address>
-<postal>
-<street>849 Erie Circle</street>
-<city>Milpitas</city>
-<region>CA</region>
-<code>95035</code>
-<country>US</country></postal>
-<phone>+1 408 263 7527</phone>
-<email>srisuresh@yahoo.com</email></address></author>
-<author initials='G.' surname='Tsirtsis' fullname='George Tsirtsis'>
-<organization>BT Laboratories</organization>
-<address>
-<postal>
-<street>Internet Transport Group</street>
-<street>B29 Room 129</street>
-<street>Martlesham Heath</street>
-<city>Ipswich</city>
-<region>England</region>
-<code>IP5 3RE</code>
-<country>UK</country></postal>
-<phone>+44 1473 640756</phone>
-<facsimile>+44 1473 640709</facsimile>
-<email>george@gideon.bt.co.uk</email></address></author>
-<author initials='P.' surname='Akkiraju' fullname='Praveen Akkiraju'>
-<organization>Cisco Systems</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134</code>
-<country>US</country></postal>
-<phone>+1 408 526 5066</phone>
-<email>spa@cisco.com</email></address></author>
-<author initials='A.' surname='Heffernan' fullname='Andy Heffernan'>
-<organization>Juniper Networks</organization>
-<address>
-<postal>
-<street>385 Ravensdale Drive</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043</code>
-<country>US</country></postal>
-<phone>+1 650 526 8037</phone>
-<facsimile>+1 650 526 8001</facsimile>
-<email>ahh@juniper.net</email></address></author>
+<title>DNS extensions to Network Address Translators (DNS_ALG)</title>
+<author initials='P.' surname='Srisuresh' fullname='P. Srisuresh'><organization /></author>
+<author initials='G.' surname='Tsirtsis' fullname='G. Tsirtsis'><organization /></author>
+<author initials='P.' surname='Akkiraju' fullname='P. Akkiraju'><organization /></author>
+<author initials='A.' surname='Heffernan' fullname='A. Heffernan'><organization /></author>
 <date year='1999' month='September' />
-<abstract>
-<t>Domain Name Service (DNS) provides name to address
-mapping within a
-routing class (ex: IP).
-Network Address Translators (NATs) attempt to provide transparent
-routing between hosts in disparate address realms of the same routing
-class.
-Typically, NATs exist at the border of a stub domain, hiding private
-addresses from external addresses.
-This document identifies the need for DNS extensions to NATs and
-outlines how a DNS Application Level Gateway (DNS_ALG) can meet the
-need.
-DNS_ALG modifies payload transparently to alter address mapping of
-hosts as DNS packets cross one address realm into another.
-The document also illustrates the operation of DNS_ALG with specific
-examples.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2694' />
-<format type='TXT' octets='67720' target='http://www.rfc-editor.org/rfc/rfc2694.txt' />
+<abstract><t>This document identifies the need for DNS extensions to NATs and outlines how a DNS Application Level Gateway (DNS_ALG) can meet the need.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2694'/>
+<seriesInfo name='DOI' value='10.17487/RFC2694'/>
 </reference>

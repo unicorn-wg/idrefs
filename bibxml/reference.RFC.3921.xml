@@ -1,33 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC3921'>
-
+<reference  anchor='RFC3921' target='http://www.rfc-editor.org/info/rfc3921'>
 <front>
-<title abbrev='XMPP IM'>Extensible Messaging and Presence Protocol (XMPP): Instant Messaging and Presence</title>
-<author initials='P.' surname='Saint-Andre' fullname='Peter Saint-Andre' role='editor'>
-<organization>Jabber Software Foundation</organization>
-<address>
-<email>stpeter@jabber.org</email></address></author>
+<title>Extensible Messaging and Presence Protocol (XMPP): Instant Messaging and Presence</title>
+<author initials='P.' surname='Saint-Andre' fullname='P. Saint-Andre' role='editor'><organization /></author>
 <date year='2004' month='October' />
-<area>Applications</area>
-<workgroup>XMPP Working Group</workgroup>
-<keyword>RFC</keyword>
-<keyword>Request for Comments</keyword>
-<keyword>I-D</keyword>
-<keyword>Internet-Draft</keyword>
-<keyword>XMPP</keyword>
-<keyword>Extensible Messaging and Presence Protocol</keyword>
-<keyword>Jabber</keyword>
-<keyword>IM</keyword>
-<keyword>Instant Messaging</keyword>
-<keyword>Presence</keyword>
-<keyword>XML</keyword>
-<keyword>Extensible Markup Language</keyword>
-<abstract>
-<t>This memo describes extensions to and applications of the core features of the Extensible Messaging and Presence Protocol (XMPP) that provide the basic instant messaging (IM) and presence functionality defined in RFC 2779.</t></abstract></front>
-
-<seriesInfo name='RFC' value='3921' />
-<format type='TXT' octets='217527' target='http://www.rfc-editor.org/rfc/rfc3921.txt' />
-<format type='HTML' octets='274949' target='http://xml.resource.org/public/rfc/html/rfc3921.html' />
-<format type='XML' octets='234468' target='http://xml.resource.org/public/rfc/xml/rfc3921.xml' />
+<abstract><t>This memo describes extensions to and applications of the core features of the Extensible Messaging and Presence Protocol (XMPP) that provide the basic instant messaging (IM) and presence functionality defined in RFC 2779.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='3921'/>
+<seriesInfo name='DOI' value='10.17487/RFC3921'/>
 </reference>

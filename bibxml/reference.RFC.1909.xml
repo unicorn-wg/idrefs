@@ -1,30 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1909'>
-
+<reference  anchor='RFC1909' target='http://www.rfc-editor.org/info/rfc1909'>
 <front>
-<title abbrev='An SNMPv2 Administrative Infrastructure'>An Administrative Infrastructure for SNMPv2</title>
-<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134-1706</code>
-<country>US</country></postal>
-<phone>+1 408 526 5260</phone>
-<email>kzm@cisco.com</email></address></author>
-<author initials='M.' surname='Rose' fullname='Marshall T. Rose'>
-<organization>Dover Beach Consulting</organization>
-<address>
-<email>mrose@dbc.mtview.ca.us</email></address></author>
-<author initials='G.' surname='Waters' fullname='Glenn W. Waters'>
-<organization>Bell-Northern Research Ltd.</organization>
-<address>
-<email>gwaters@bnr.ca</email></address></author>
-<date year='1996' month='February' /></front>
-
-<seriesInfo name='RFC' value='1909' />
-<format type='TXT' octets='45773' target='http://www.rfc-editor.org/rfc/rfc1909.txt' />
+<title>An Administrative Infrastructure for SNMPv2</title>
+<author initials='K.' surname='McCloghrie' fullname='K. McCloghrie' role='editor'><organization /></author>
+<date year='1996' month='February' />
+<abstract><t>It is the purpose of this document, An Administrative Infrastructure for SNMPv2, to define an administrative framework which realizes effective management in a variety of configurations and environments.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1909'/>
+<seriesInfo name='DOI' value='10.17487/RFC1909'/>
 </reference>

@@ -1,26 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1787'>
-
+<reference  anchor='RFC1787' target='http://www.rfc-editor.org/info/rfc1787'>
 <front>
-<title abbrev='Routing in a multi-provider Internet'>Routing in a Multi-provider Internet</title>
-<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
-<organization>IBM Corporation, T.J. Watson Research Center</organization>
-<address>
-<postal>
-<street>P.O. Box 704</street>
-<street>Office H3-D40</street>
-<city>Yorktown Heights</city>
-<region>NY</region>
-<code>10598</code>
-<country>US</country></postal>
-<phone>+1 914 784 7361</phone>
-<email>yakov@watson.ibm.com</email></address></author>
+<title>Routing in a Multi-provider Internet</title>
+<author initials='Y.' surname='Rekhter' fullname='Y. Rekhter'><organization /></author>
 <date year='1995' month='April' />
-<abstract>
-<t>This document was prepared by the author on behalf of the Internet Architecture Board (IAB). It is offered by the IAB to stimulate discussion.</t>
-<t>Over the past few years the Internet has undergone significant changes.  Among them is the emergence of multiple Network Service Providers, where resources that provide Internet-wide IP connectivity (routers, links) are controlled by different organizations.  This document presents some of the issues related to network layer routing in a multi-provider Internet, and specifically to the unicast routing.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1787' />
-<format type='TXT' octets='20754' target='http://www.rfc-editor.org/rfc/rfc1787.txt' />
+<abstract><t>This document presents some of the issues related to network layer routing in a multi-provider Internet, and specifically to the unicast routing. This memo provides information for the Internet community. This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1787'/>
+<seriesInfo name='DOI' value='10.17487/RFC1787'/>
 </reference>

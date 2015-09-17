@@ -1,59 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2400'>
-
+<reference  anchor='RFC2400' target='http://www.rfc-editor.org/info/rfc2400'>
 <front>
-<title>INTERNET OFFICIAL PROTOCOL STANDARDS</title>
-<author initials='J.' surname='Postel' fullname='Jon Postel'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<street>Marina del Rey</street>
-<street>CA 90292</street></postal>
-<phone>310-822-1511</phone>
-<facsimile>310-823-6714</facsimile>
-<email>Postel@ISI.EDU</email></address></author>
-<author initials='J.K.' surname='Reynolds' fullname='Joyce K. Reynolds'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<street>Marina del Rey</street>
-<street>CA 90292</street></postal>
-<phone>310-822-1511</phone>
-<facsimile>310-823-6714</facsimile>
-<email>JKRey@ISI.EDU</email></address></author>
+<title>Internet Official Protocol Standards</title>
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<author initials='J.' surname='Reynolds' fullname='J. Reynolds'><organization /></author>
 <date year='1998' month='September' />
-<area>General</area>
-<keyword>Internet Architecture Board</keyword>
-<keyword>official internet protocol</keyword>
-<abstract>
-<t>
-   A discussion of the standardization process and the RFC document
-   series is presented first, followed by an explanation of the terms.
-   Sections 6.2 - 6.10 contain the lists of protocols in each stage of
-   standardization.  Finally, there are pointers to references and
-   contacts for further information.
-</t>
-<t>
-   This memo is intended to be issued every one hundred RFCs; please be
-   sure the copy you are reading is current.  Current copies may be
-   obtained from the Requests for Comments Editor (RFC-EDITOR) or from
-   the Internet Assigned Numbers Authority (IANA) (see the contact
-   information at the end of this memo).
-</t>
-<t>
-   See Section 6.1 for a description of recent changes.  In the official
-   lists in sections 6.2 - 6.10, an asterisk (*) next to a protocol
-   denotes that it is new to this document or has been moved from one
-   protocol level to another, or differs from the previous edition of
-   this document.
-</t></abstract></front>
-
-<seriesInfo name='STD' value='1' />
-<seriesInfo name='RFC' value='2400' />
-<format type='TXT' octets='110969' target='http://www.rfc-editor.org/rfc/rfc2400.txt' />
-<format type='HTML' octets='74301' target='http://xml.resource.org/public/rfc/html/rfc2400.html' />
-<format type='XML' octets='106504' target='http://xml.resource.org/public/rfc/xml/rfc2400.xml' />
+<abstract><t>This memo describes the state of standardization of protocols used in the Internet as determined by the Internet Architecture Board (IAB). This memo is an Internet Standard.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2400'/>
+<seriesInfo name='DOI' value='10.17487/RFC2400'/>
 </reference>

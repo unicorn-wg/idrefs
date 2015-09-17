@@ -1,41 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2420'>
-
+<reference  anchor='RFC2420' target='http://www.rfc-editor.org/info/rfc2420'>
 <front>
-<title abbrev='3DESE'>The PPP Triple-DES Encryption Protocol (3DESE)</title>
-<author initials='H.' surname='Kummert' fullname='Holger Kummert'>
-<organization>Nentec Gesellschaft fuer Netzwerktechnologie</organization>
-<address>
-<postal>
-<street>76227 Karlsruhe</street>
-<street>Killisfeldstr. 64</street>
-<country>Germany</country></postal>
-<phone>+49 721 9495 0</phone>
-<email>kummert@nentec.de</email></address></author>
+<title>The PPP Triple-DES Encryption Protocol (3DESE)</title>
+<author initials='H.' surname='Kummert' fullname='H. Kummert'><organization /></author>
 <date year='1998' month='September' />
-<area>Internet</area>
-<area>Security</area>
-<keyword>Digital Encryption Standard</keyword>
-<keyword>encapsulate</keyword>
-<keyword>encryption</keyword>
-<keyword>point-to-point protocol</keyword>
-<abstract>
-<t>
-   The Point-to-Point Protocol (PPP)  provides a standard method for
-   transporting multi-protocol datagrams over point-to-point links.
-</t>
-<t>
-   The PPP Encryption Control Protocol (ECP)  provides a method to
-   negotiate and utilize encryption protocols over PPP encapsulated
-   links.
-</t>
-<t>
-   This document provides specific details for the use of the Triple-DES
-   standard (3DES)  for encrypting PPP encapsulated packets.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2420' />
-<format type='TXT' octets='16729' target='http://www.rfc-editor.org/rfc/rfc2420.txt' />
-<format type='XML' octets='17474' target='http://xml.resource.org/public/rfc/xml/rfc2420.xml' />
+<abstract><t>This document provides specific details for the use of the Triple-DES standard (3DES) for encrypting PPP encapsulated packets.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2420'/>
+<seriesInfo name='DOI' value='10.17487/RFC2420'/>
 </reference>

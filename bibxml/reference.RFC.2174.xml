@@ -1,37 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2174'>
-
+<reference  anchor='RFC2174' target='http://www.rfc-editor.org/info/rfc2174'>
 <front>
-<title abbrev='MAPOS'>A MAPOS version 1 Extension - Switch-Switch Protocol</title>
-<author initials='K.' surname='Murakami' fullname='Ken Murakami'>
-<organization>NTT Software Laboratories</organization>
-<address>
-<postal>
-<street>3-9-11</street>
-<street>Midori-cho</street>
-<street>Musashino-shi</street>
-<city>Tokyo</city>
-<region />
-<code>180</code>
-<country>JP</country></postal>
-<email>murakami@ntt-20.ecl.net</email></address></author>
-<author initials='M.' surname='Maruyama' fullname='Mitsuru Maruyama'>
-<organization>NTT Software Laboratories</organization>
-<address>
-<postal>
-<street>3-9-11</street>
-<street>Midori-cho</street>
-<street>Musashino-shi</street>
-<city>Tokyo</city>
-<region />
-<code>180</code>
-<country>JP</country></postal>
-<email>mitsuru@ntt-20.ecl.net</email></address></author>
+<title>A MAPOS version 1 Extension - Switch-Switch Protocol</title>
+<author initials='K.' surname='Murakami' fullname='K. Murakami'><organization /></author>
+<author initials='M.' surname='Maruyama' fullname='M. Maruyama'><organization /></author>
 <date year='1997' month='June' />
-<abstract>
-<t>This document describes a MAPOS version 1 extension, SSP (Switch Switch Protocol).  MAPOS is a multiple access protocol for transmission of network-protocol packets, encapsulated in High-Level Data Link Control (HDLC) frames, over SONET/SDH. In MAPOS network, a SONET switch provides the multiple access capability to end nodes. SSP is a protocol of Distance Vector family and provides unicast and broadcast/multicast routing for multiple SONET switch environment.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2174' />
-<format type='TXT' octets='47967' target='http://www.rfc-editor.org/rfc/rfc2174.txt' />
+<abstract><t>This memo documents a MAPOS (Multiple Access Protocol over SONET/SDH) version 1 extension, Switch Switch Protocol which provides dynamic routing for unicast, broadcast, and multicast.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2174'/>
+<seriesInfo name='DOI' value='10.17487/RFC2174'/>
 </reference>

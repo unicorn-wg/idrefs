@@ -1,28 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2353'>
-
+<reference  anchor='RFC2353' target='http://www.rfc-editor.org/info/rfc2353'>
 <front>
-<title abbrev='APPN/HPR'>APPN/HPR in IP Networks APPN Implementers&apos; Workshop Closed Pages Document</title>
-<author initials='G.' surname='Dudley' fullname='Gary Dudley'>
-<organization>C3BA/501</organization>
-<address>
-<postal>
-<street>IBM Corporation</street>
-<street>P.O. Box 12195</street>
-<street>Research Triangle Park</street>
-<street>NC 27709</street>
-<country>USA</country></postal>
-<phone>+1 919-254-4358</phone>
-<facsimile>+1 919-254-6243</facsimile>
-<email>dudleyg@us.ibm.com</email></address></author>
+<title>APPN/HPR in IP Networks APPN Implementers' Workshop Closed Pages Document</title>
+<author initials='G.' surname='Dudley' fullname='G. Dudley'><organization /></author>
 <date year='1998' month='May' />
-<area>Internet</area>
-<keyword>APPN</keyword>
-<keyword>IBM SNA advanced peer-to-peer networking</keyword>
-<keyword>workshop</keyword></front>
-
-<seriesInfo name='RFC' value='2353' />
-<format type='TXT' octets='116972' target='http://www.rfc-editor.org/rfc/rfc2353.txt' />
-<format type='XML' octets='117133' target='http://xml.resource.org/public/rfc/xml/rfc2353.xml' />
+<abstract><t>This memo defines a method with which HPR nodes can use IP networks for communication, and the enhancements to APPN required by this method. This memo also describes an option set that allows the use of the APPN connection network model to allow HPR nodes to use IP networks for communication without having to predefine link connections. This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2353'/>
+<seriesInfo name='DOI' value='10.17487/RFC2353'/>
 </reference>

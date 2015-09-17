@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1326'>
-
+<reference  anchor='RFC1326' target='http://www.rfc-editor.org/info/rfc1326'>
 <front>
-<title abbrev='Encapsulation Dangerous'>Mutual Encapsulation Considered Dangerous</title>
-<author initials='P.' surname='Tsuchiya' fullname='Paul Tsuchiya'>
-<organization>Bellcore</organization>
-<address>
-<postal>
-<street>435 South St.</street>
-<street>MRE 2L-281</street>
-<city>Morristown</city>
-<region>NJ</region>
-<code>07960</code>
-<country>US</country></postal>
-<phone>+1 908 829 4484</phone>
-<email>tsuchiya@thumper.bellcore.com</email></address></author>
+<title>Mutual Encapsulation Considered Dangerous</title>
+<author initials='P.' surname='Tsuchiya' fullname='P. Tsuchiya'><organization /></author>
 <date year='1992' month='May' />
-<abstract>
-<t>This memo describes a packet explosion problem that can occur with mutual encapsulation of protocols (A encapsulates B and B encapsulates A).</t></abstract></front>
-
-<seriesInfo name='RFC' value='1326' />
-<format type='TXT' octets='11277' target='http://www.rfc-editor.org/rfc/rfc1326.txt' />
+<abstract><t>This memo describes a packet explosion problem that can occur with mutual encapsulation of protocols (A encapsulates B and B encapsulates A).  This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1326'/>
+<seriesInfo name='DOI' value='10.17487/RFC1326'/>
 </reference>

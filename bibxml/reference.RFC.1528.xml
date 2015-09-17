@@ -1,36 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1528'>
-
+<reference  anchor='RFC1528' target='http://www.rfc-editor.org/info/rfc1528'>
 <front>
-<title abbrev='Remote Printing -- Technical Procedures'>Principles of Operation for the TPC.INT Subdomain: Remote Printing -- Technical Procedures</title>
-<author initials='C.' surname='Malamud' fullname='Carl Malamud'>
-<organization>Internet Multicasting Service</organization>
-<address>
-<postal>
-<street>The National Press Building</street>
-<street>Suite 1155</street>
-<city>Washington</city>
-<region>DC</region>
-<code>20045</code>
-<country>US</country></postal>
-<phone>+1 202 628 2044</phone>
-<facsimile>+1 202 628 2042</facsimile>
-<email>carl@malamud.com</email></address></author>
-<author initials='M.T.' surname='Rose' fullname='Marshall T. Rose'>
-<organization>Dover Beach Consulting, Inc.</organization>
-<address>
-<postal>
-<street>420 Whisman Court</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043-2186</code>
-<country>US</country></postal>
-<phone>+1 415 968 1052</phone>
-<facsimile>+1 415 968 2510</facsimile>
-<email>mrose@dbc.mtview.ca.us</email></address></author>
-<date year='1993' month='October' /></front>
-
-<seriesInfo name='RFC' value='1528' />
-<format type='TXT' octets='18576' target='http://www.rfc-editor.org/rfc/rfc1528.txt' />
+<title>Principles of Operation for the TPC.INT Subdomain: Remote Printing -- Technical Procedures</title>
+<author initials='C.' surname='Malamud' fullname='C. Malamud'><organization /></author>
+<author initials='M.' surname='Rose' fullname='M. Rose'><organization /></author>
+<date year='1993' month='October' />
+<abstract><t>This memo describes a technique for &quot;remote printing&quot; using the Internet mail infrastructure.  In particular, this memo focuses on the case in which remote printers are connected to the international telephone network. This memo defines an Experimental Protocol for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1528'/>
+<seriesInfo name='DOI' value='10.17487/RFC1528'/>
 </reference>

@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0007'>
-
+<reference  anchor='RFC0007' target='http://www.rfc-editor.org/info/rfc7'>
 <front>
 <title>Host-IMP interface</title>
-<author initials='G.' surname='Deloche' fullname='G. Deloche'>
-<organization /></author>
-<date year='1969' month='May' /></front>
-
-<seriesInfo name='RFC' value='7' />
-<format type='TXT' octets='13408' target='http://www.rfc-editor.org/rfc/rfc7.txt' />
+<author initials='G.' surname='Deloche' fullname='G. Deloche'><organization /></author>
+<date year='1969' month='May' />
+</front>
+<seriesInfo name='RFC' value='7'/>
+<seriesInfo name='DOI' value='10.17487/RFC0007'/>
 </reference>

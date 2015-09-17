@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC5540'>
-
+<reference  anchor='RFC5540' target='http://www.rfc-editor.org/info/rfc5540'>
 <front>
 <title>40 Years of RFCs</title>
-<author initials='RFC' surname='Editor' fullname='RFC Editor'>
-<organization /></author>
+<author initials='RFC' surname='Editor' fullname='RFC Editor'><organization /></author>
 <date year='2009' month='April' />
-<abstract>
-<t>This RFC marks the 40th anniversary of the RFC document series.  This memo provides information for the Internet community.</t></abstract></front>
-
-<seriesInfo name='RFC' value='5540' />
-<format type='TXT' octets='5579' target='http://www.rfc-editor.org/rfc/rfc5540.txt' />
+<abstract><t>This RFC marks the 40th anniversary of the RFC document series.  This memo  provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='5540'/>
+<seriesInfo name='DOI' value='10.17487/RFC5540'/>
 </reference>

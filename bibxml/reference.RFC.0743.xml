@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0743'>
-
+<reference  anchor='RFC0743' target='http://www.rfc-editor.org/info/rfc743'>
 <front>
-<title abbrev='An Extension to FTP'>FTP extension: XRSQ/XRCP</title>
-<author initials='K.' surname='Harrenstien' fullname='K. Harrenstien'>
-<organization>Stanford Research Institute (SRI), KL</organization></author>
-<date year='1977' day='30' month='December' /></front>
-
-<seriesInfo name='RFC' value='743' />
-<format type='TXT' octets='16249' target='http://www.rfc-editor.org/rfc/rfc743.txt' />
+<title>FTP extension: XRSQ/XRCP</title>
+<author initials='K.' surname='Harrenstien' fullname='K. Harrenstien'><organization /></author>
+<date year='1977' month='December' />
+</front>
+<seriesInfo name='RFC' value='743'/>
+<seriesInfo name='DOI' value='10.17487/RFC0743'/>
 </reference>

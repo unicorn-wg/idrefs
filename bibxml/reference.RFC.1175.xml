@@ -1,82 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1175'>
-
+<reference  anchor='RFC1175' target='http://www.rfc-editor.org/info/rfc1175'>
 <front>
-<title abbrev='FYI - Bibliography'>FYI on where to start: A bibliography of internetworking information</title>
-<author initials='K.' surname='Bowers' fullname='Karen Bowers'>
-<organization>Corporation for National Research Initiatives (CNRI)</organization>
-<address>
-<postal>
-<street>1895 Preston White Drive</street>
-<street>Suite 100</street>
-<city>Reston</city>
-<region>VA</region>
-<code>22091</code>
-<country>US</country></postal>
-<phone>+1 703 582 8990</phone>
-<email>kbowers@nri.reston.va.us</email></address></author>
-<author initials='T.' surname='LaQuey' fullname='Tracy LaQuey'>
-<organization>University of Texas, Austin, Computation Center</organization>
-<address>
-<postal>
-<street>M/S COM 1</street>
-<city>Austin</city>
-<region>TX</region>
-<code>78712</code>
-<country>US</country></postal>
-<phone>+1 512 471 3241</phone>
-<email>tracy@nic.the.net</email></address></author>
-<author initials='J.' surname='Reynolds' fullname='Joyce K. Reynolds'>
-<organization>University of Southern California (USC), Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way #1001</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292-6695</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone>
-<email>jkrey@isi.edu</email></address></author>
-<author initials='K.' surname='Roubicek' fullname='Karen Roubicek'>
-<organization>Bolt Baranek and Newman Systems and Technologies, NSF Network Service Center</organization>
-<address>
-<postal>
-<street>10 Moulton Street</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02138</code>
-<country>US</country></postal>
-<phone>+1 617 873 3361</phone>
-<email>roubicek@nnsc.nsf.net</email></address></author>
-<author initials='M.' surname='Stahl' fullname='Mary Stahl'>
-<organization>SRI International, Network Information Systems Center</organization>
-<address>
-<postal>
-<street>333 Ravenswood Avenue</street>
-<street>Rm EJ 296</street>
-<city>Menlo Park</city>
-<region>CA</region>
-<code>94025</code>
-<country>US</country></postal>
-<phone>+1 415 859 4775</phone>
-<email>stahl@nisc.sri.com</email></address></author>
-<author initials='A.' surname='Yuan' fullname='Aileen Yuan'>
-<organization>The MITRE Corporation</organization>
-<address>
-<postal>
-<street>7525 Colshire Drive</street>
-<street>MS W422</street>
-<city>McLean</city>
-<region>VA</region>
-<code>22102</code>
-<country>US</country></postal>
-<phone>+1 703 883 7023</phone>
-<email>aileen@gateway.mitre.org</email></address></author>
-<date year='1990' day='1' month='August' />
-<abstract>
-<t>The intent of this bibliography is to offer a representative collection of resources of information that will help the reader become familiar with the concepts of internetworking.  It is meant to be a starting place for further research.  There are references to other sources of information for those users wishing to pursue, in greater depth, the issues and complexities of the current networking environment.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1175' />
-<format type='TXT' octets='67330' target='http://www.rfc-editor.org/rfc/rfc1175.txt' />
+<title>FYI on where to start: A bibliography of internetworking information</title>
+<author initials='K.L.' surname='Bowers' fullname='K.L. Bowers'><organization /></author>
+<author initials='T.L.' surname='LaQuey' fullname='T.L. LaQuey'><organization /></author>
+<author initials='J.K.' surname='Reynolds' fullname='J.K. Reynolds'><organization /></author>
+<author initials='K.' surname='Roubicek' fullname='K. Roubicek'><organization /></author>
+<author initials='M.K.' surname='Stahl' fullname='M.K. Stahl'><organization /></author>
+<author initials='A.' surname='Yuan' fullname='A. Yuan'><organization /></author>
+<date year='1990' month='August' />
+<abstract><t>This FYI RFC is a bibliography of information about TCP/IP internetworking, prepared by the User Services Working Group (USWG) of the Internet Engineering Task Force (IETF).  This memo provides information for the Internet community.  It does not specify any standard.  [Also FYI 3.]</t></abstract>
+</front>
+<seriesInfo name='FYI' value='3'/>
+<seriesInfo name='RFC' value='1175'/>
+<seriesInfo name='DOI' value='10.17487/RFC1175'/>
 </reference>

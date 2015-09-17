@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1798'>
-
+<reference  anchor='RFC1798' target='http://www.rfc-editor.org/info/rfc1798'>
 <front>
-<title abbrev='CLDAP'>Connection-less Lightweight X.500 Directory Access Protocol</title>
-<author initials='A.' surname='Young' fullname='Alan Young'>
-<organization>ISODE Consortium</organization>
-<address>
-<postal>
-<street>The Dome, The Square</street>
-<city>Richmond</city>
-<region>England</region>
-<code>TW9 1DT</code>
-<country>UK</country></postal>
-<phone>+44 81 3329091</phone>
-<email>A.Young@isode.com</email></address></author>
-<date year='1995' month='June' /></front>
-
-<seriesInfo name='RFC' value='1798' />
-<format type='TXT' octets='18548' target='http://www.rfc-editor.org/rfc/rfc1798.txt' />
+<title>Connection-less Lightweight X.500 Directory Access Protocol</title>
+<author initials='A.' surname='Young' fullname='A. Young'><organization /></author>
+<date year='1995' month='June' />
+<abstract><t>The protocol described in this document is designed to provide access to the Directory while not incurring the resource requirements of the Directory Access Protocol (DAP). [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1798'/>
+<seriesInfo name='DOI' value='10.17487/RFC1798'/>
 </reference>

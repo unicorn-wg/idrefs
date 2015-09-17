@@ -1,47 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1117'>
-
+<reference  anchor='RFC1117' target='http://www.rfc-editor.org/info/rfc1117'>
 <front>
-<title abbrev='Internet Numbers'>Internet numbers</title>
-<author initials='S.' surname='Romano' fullname='Sue Romano'>
-<organization>SRI International, Network Information Systems Center</organization>
-<address>
-<postal>
-<street>333 Ravenswood Avenue</street>
-<street>EJ217</street>
-<city>Menlo Park</city>
-<region>CA</region>
-<code>94025</code>
-<country>US</country></postal>
-<phone>+1 415 859 5539</phone>
-<email>SUE@NIC.DDN.MIL</email></address></author>
-<author initials='M.' surname='Stahl' fullname='Mary Stahl'>
-<organization>SRI International, Network Information Systems Center</organization>
-<address>
-<postal>
-<street>333 Ravenswood Avenue</street>
-<street>EJ296</street>
-<city>Menlo Park</city>
-<region>CA</region>
-<code>94025</code>
-<country>US</country></postal>
-<phone>+1 415 859 4775</phone>
-<email>STAHL@NIC.DDN.MIL</email></address></author>
-<author initials='M.' surname='Recker' fullname='Mimi Recker'>
-<organization>SRI International, Network Information Systems Center</organization>
-<address>
-<postal>
-<street>333 Ravenswood Avenue</street>
-<street>EJ268</street>
-<city>Menlo Park</city>
-<region>CA</region>
-<code>94025</code>
-<country>US</country></postal>
-<phone>+1 415 859 2110</phone>
-<email>Mimi@NIC.DDN.MIL</email></address></author>
-<date year='1989' day='1' month='August' /></front>
-
-<seriesInfo name='RFC' value='1117' />
-<format type='TXT' octets='324666' target='http://www.rfc-editor.org/rfc/rfc1117.txt' />
+<title>Internet numbers</title>
+<author initials='S.' surname='Romano' fullname='S. Romano'><organization /></author>
+<author initials='M.K.' surname='Stahl' fullname='M.K. Stahl'><organization /></author>
+<author initials='M.' surname='Recker' fullname='M. Recker'><organization /></author>
+<date year='1989' month='August' />
+<abstract><t>This memo is an official status report on the network numbers and the autonomous system numbers used in the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1117'/>
+<seriesInfo name='DOI' value='10.17487/RFC1117'/>
 </reference>

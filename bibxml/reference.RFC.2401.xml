@@ -1,37 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2401'>
-
+<reference  anchor='RFC2401' target='http://www.rfc-editor.org/info/rfc2401'>
 <front>
-<title abbrev='Security Architecture'>Security Architecture for the Internet Protocol</title>
-<author initials='S.' surname='Kent' fullname='Stephen Kent'>
-<organization>BBN Corporation</organization>
-<address>
-<postal>
-<street>70 Fawcett Street</street>
-<street>Cambridge</street>
-<street>MA  02140</street>
-<country>USA</country></postal>
-<phone>+1 (617) 873-3988</phone>
-<email>kent@bbn.com</email></address></author>
-<author initials='R.' surname='Atkinson' fullname='Randall Atkinson'>
-<organization>@Home Network</organization>
-<address>
-<postal>
-<street>425 Broadway</street>
-<street>Redwood City</street>
-<street>CA 94063</street>
-<country>USA</country></postal>
-<phone>+1 (415) 569-5000</phone>
-<email>rja@corp.home.net</email></address></author>
+<title>Security Architecture for the Internet Protocol</title>
+<author initials='S.' surname='Kent' fullname='S. Kent'><organization /></author>
+<author initials='R.' surname='Atkinson' fullname='R. Atkinson'><organization /></author>
 <date year='1998' month='November' />
-<area>Security</area>
-<keyword>IP security protocol</keyword>
-<keyword>IPSEC</keyword>
-<keyword>internet protocol version 6</keyword>
-<keyword>security</keyword></front>
-
-<seriesInfo name='RFC' value='2401' />
-<format type='TXT' octets='168162' target='http://www.rfc-editor.org/rfc/rfc2401.txt' />
-<format type='XML' octets='167135' target='http://xml.resource.org/public/rfc/xml/rfc2401.xml' />
+<abstract><t>This memo specifies the base architecture for IPsec compliant systems. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2401'/>
+<seriesInfo name='DOI' value='10.17487/RFC2401'/>
 </reference>

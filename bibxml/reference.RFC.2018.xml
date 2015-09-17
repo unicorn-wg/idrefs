@@ -1,69 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2018'>
-
+<reference  anchor='RFC2018' target='http://www.rfc-editor.org/info/rfc2018'>
 <front>
-<title abbrev='TCP Selective Acknowledgement Options'>TCP Selective Acknowledgment Options</title>
-<author initials='M.' surname='Mathis' fullname='Matt Mathis'>
-<organization>Pittsburgh Supercomputing Center</organization>
-<address>
-<postal>
-<street>4400 Fifth Ave</street>
-<street>Pittsburgh</street>
-<street>PA 15213</street></postal>
-<email>mathis@psc.edu</email></address></author>
-<author initials='J.' surname='Mahdavi' fullname='Jamshid Mahdavi'>
-<organization>Pittsburgh Supercomputing Center</organization>
-<address>
-<postal>
-<street>4400 Fifth Ave</street>
-<street>Pittsburgh</street>
-<street>PA 15213</street></postal>
-<email>mahdavi@psc.edu</email></address></author>
-<author initials='S.' surname='Floyd' fullname='Sally Floyd'>
-<organization>Lawrence Berkeley National Laboratory</organization>
-<address>
-<postal>
-<street>One Cyclotron Road</street>
-<street>Berkeley</street>
-<street>CA 94720</street></postal>
-<email>floyd@ee.lbl.gov</email></address></author>
-<author initials='A.' surname='Romanow' fullname='Allyn Romanow'>
-<organization>Sun Microsystems, Inc.</organization>
-<address>
-<postal>
-<street>2550 Garcia Ave.</street>
-<street>MPK17-202</street>
-<street>Mountain View</street>
-<street>CA 94043</street></postal>
-<email>allyn@eng.sun.com</email></address></author>
+<title>TCP Selective Acknowledgment Options</title>
+<author initials='M.' surname='Mathis' fullname='M. Mathis'><organization /></author>
+<author initials='J.' surname='Mahdavi' fullname='J. Mahdavi'><organization /></author>
+<author initials='S.' surname='Floyd' fullname='S. Floyd'><organization /></author>
+<author initials='A.' surname='Romanow' fullname='A. Romanow'><organization /></author>
 <date year='1996' month='October' />
-<area>Transport</area>
-<keyword>TCP</keyword>
-<keyword>acknowledgement</keyword>
-<keyword>transmission control protocol</keyword>
-<abstract>
-<t>
-   TCP may experience poor performance when multiple packets are lost
-   from one window of data.   With the limited information available
-   from cumulative acknowledgments, a TCP sender can only learn about a
-   single lost packet per round trip time.  An aggressive sender could
-   choose to retransmit packets early, but such retransmitted segments
-   may have already been successfully received.
-</t>
-<t>
-   A Selective Acknowledgment (SACK) mechanism, combined with a
-   selective repeat retransmission policy, can help to overcome these
-   limitations.  The receiving TCP sends back SACK packets to the sender
-   informing the sender of data that has been received. The sender can
-   then retransmit only the missing data segments.
-</t>
-<t>
-   This memo proposes an implementation of SACK and discusses its
-   performance and related issues.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2018' />
-<format type='TXT' octets='25671' target='http://www.rfc-editor.org/rfc/rfc2018.txt' />
-<format type='XML' octets='30268' target='http://xml.resource.org/public/rfc/xml/rfc2018.xml' />
+<abstract><t>This memo proposes an implementation of SACK and discusses its performance and related issues.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2018'/>
+<seriesInfo name='DOI' value='10.17487/RFC2018'/>
 </reference>

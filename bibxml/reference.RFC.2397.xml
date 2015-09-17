@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2397'>
-
+<reference  anchor='RFC2397' target='http://www.rfc-editor.org/info/rfc2397'>
 <front>
-<title abbrev='The &quot;data&quot; URL scheme'>The &quot;data&quot; URL scheme</title>
-<author initials='L.' surname='Masinter' fullname='Larry Masinter'>
-<organization>Xerox Palo Alto Research Center</organization>
-<address>
-<postal>
-<street>3333 Coyote Hill Road</street>
-<street>Palo Alto</street>
-<street>CA 94304</street></postal>
-<email>masinter@parc.xerox.com</email></address></author>
+<title>The &quot;data&quot; URL scheme</title>
+<author initials='L.' surname='Masinter' fullname='L. Masinter'><organization /></author>
 <date year='1998' month='August' />
-<area>Applications</area>
-<keyword>URL</keyword>
-<keyword>uniform resource</keyword></front>
-
-<seriesInfo name='RFC' value='2397' />
-<format type='TXT' octets='9514' target='http://www.rfc-editor.org/rfc/rfc2397.txt' />
-<format type='XML' octets='9931' target='http://xml.resource.org/public/rfc/xml/rfc2397.xml' />
+<abstract><t>A new URL scheme, &quot;data&quot;, is defined. It allows inclusion of small data items as &quot;immediate&quot; data, as if it had been included externally. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2397'/>
+<seriesInfo name='DOI' value='10.17487/RFC2397'/>
 </reference>

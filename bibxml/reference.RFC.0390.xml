@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0390'>
-
+<reference  anchor='RFC0390' target='http://www.rfc-editor.org/info/rfc390'>
 <front>
 <title>TSO Scenario</title>
-<author initials='R.' surname='Braden' fullname='Robert T. Braden'>
-<organization>University of California, Los Angeles (UCLA), CCM</organization></author>
-<date year='1972' day='12' month='September' /></front>
-
-<seriesInfo name='RFC' value='390' />
-<format type='TXT' octets='6103' target='http://www.rfc-editor.org/rfc/rfc390.txt' />
+<author initials='R.T.' surname='Braden' fullname='R.T. Braden'><organization /></author>
+<date year='1972' month='September' />
+</front>
+<seriesInfo name='RFC' value='390'/>
+<seriesInfo name='DOI' value='10.17487/RFC0390'/>
 </reference>

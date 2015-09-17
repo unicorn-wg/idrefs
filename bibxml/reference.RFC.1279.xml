@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1279'>
-
+<reference  anchor='RFC1279' target='http://www.rfc-editor.org/info/rfc1279'>
 <front>
 <title>X.500 and Domains</title>
-<author initials='S.' surname='Hardcastle-Kille' fullname='Steve Hardcastle-Kille'>
-<organization>University College London, Department of Computer Science</organization>
-<address>
-<postal>
-<street>Gower Street</street>
-<city>London</city>
-<region>England</region>
-<code>WC1E 6BT</code>
-<country>UK</country></postal>
-<phone>+44 71 3807294</phone>
-<email>S.Kille@CS.UCL.AC.UK</email></address></author>
+<author initials='S.E.' surname='Hardcastle-Kille' fullname='S.E. Hardcastle-Kille'><organization /></author>
 <date year='1991' month='November' />
-<abstract>
-<t>This RFCconsiders X.500 in relation to Internet and UK Domains.  A basic model of X.500 providing a higher level and more descriptive naming structure is emphasised.  In addition, a mapping of domains onto X.500 is proposed, which gives a range of new management and user facilities over and above those currently available.  This specification proposes an experimental new mechanism to access and manage domain information on the Internet and in the UK Academic Community.  There is no current intention to provide an operational replacement for DNS.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1279' />
-<format type='TXT' octets='26669' target='http://www.rfc-editor.org/rfc/rfc1279.txt' />
-<format type='PS' octets='170029' target='http://www.rfc-editor.org/rfc/rfc1279.ps' />
+<abstract><t>This RFC considers X.500 in relation to Internet and UK Domains. This memo defines an Experimental Protocol for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1279'/>
+<seriesInfo name='DOI' value='10.17487/RFC1279'/>
 </reference>

@@ -1,41 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2378'>
-
+<reference  anchor='RFC2378' target='http://www.rfc-editor.org/info/rfc2378'>
 <front>
-<title abbrev='CCSO'>The CCSO Nameserver (Ph) Architecture</title>
-<author initials='R.' surname='Hedberg' fullname='Roland Hedberg'>
-<organization>Umdac</organization>
-<address>
-<postal>
-<street>Umea University</street>
-<street>901 87 Umea</street>
-<country>Sweden</country></postal>
-<email>Roland.Hedberg@umdac.umu.se</email></address></author>
-<author initials='P.' surname='Pomes' fullname='Paul Pomes'>
-<organization>Qualcomm Inc</organization>
-<address>
-<postal>
-<street>6455 Lusk Blvd</street>
-<street>San Diego</street>
-<country>USA</country></postal>
-<email>ppomes@qualcomm.com</email></address></author>
+<title>The CCSO Nameserver (Ph) Architecture</title>
+<author initials='R.' surname='Hedberg' fullname='R. Hedberg'><organization /></author>
+<author initials='P.' surname='Pomes' fullname='P. Pomes'><organization /></author>
 <date year='1998' month='September' />
-<area>Applications</area>
-<keyword>Ph nameserver</keyword>
-<abstract>
-<t>
-   The Ph Nameserver from the Computing and Communications Services
-   Office (CCSO), University of Illinois at Urbana-Champaign has for
-   some time now been used by several organizations as their choice of
-   publicly available database for information about people as well as
-   other things.  This document provides a formal definition of the
-   client-server protocol.  The Ph service as specified in this document
-   is built around an information model, a client command language and
-   the server responses.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2378' />
-<format type='TXT' octets='38960' target='http://www.rfc-editor.org/rfc/rfc2378.txt' />
-<format type='XML' octets='42377' target='http://xml.resource.org/public/rfc/xml/rfc2378.xml' />
+<abstract><t>The Ph Nameserver from the Computing and Communications Services Office (CCSO), University of Illinois at Urbana-Champaign has for some time now been used by several organizations as their choice of publicly available database for information about people as well as other things.  This document provides a formal definition of the client-server protocol. This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2378'/>
+<seriesInfo name='DOI' value='10.17487/RFC2378'/>
 </reference>

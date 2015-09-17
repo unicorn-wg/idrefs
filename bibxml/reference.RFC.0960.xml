@@ -1,32 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0960'>
-
+<reference  anchor='RFC0960' target='http://www.rfc-editor.org/info/rfc960'>
 <front>
-<title abbrev='Assigned Numbers Network Numbers'>Assigned numbers</title>
-<author initials='J.' surname='Reynolds' fullname='Joyce Reynolds'>
-<organization>University of Southern California (USC)/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292-6695</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone>
-<email>JKREYNOLDS@USC-ISIB.ARPA</email></address></author>
-<author initials='J.' surname='Postel' fullname='J. Postel'>
-<organization>University of Southern California (USC)/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90291</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone></address></author>
-<date year='1985' day='1' month='December' /></front>
-
-<seriesInfo name='RFC' value='960' />
-<format type='TXT' octets='125814' target='http://www.rfc-editor.org/rfc/rfc960.txt' />
+<title>Assigned numbers</title>
+<author initials='J.K.' surname='Reynolds' fullname='J.K. Reynolds'><organization /></author>
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<date year='1985' month='December' />
+<abstract><t>This memo documents the currently assigned values from several series of    numbers used in network protocol implementations.  This edition of    Assigned Numbers updates and obsoletes RFC-943.  This memo is an    official status report on the numbers used in protocols in the    ARPA-Internet community.  See RFC-990 and 997.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='960'/>
+<seriesInfo name='DOI' value='10.17487/RFC0960'/>
 </reference>

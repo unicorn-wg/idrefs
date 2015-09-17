@@ -1,26 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1710'>
-
+<reference  anchor='RFC1710' target='http://www.rfc-editor.org/info/rfc1710'>
 <front>
-<title abbrev='SIPP IPng White Paper'>Simple Internet Protocol Plus White Paper</title>
-<author initials='R.' surname='Hinden' fullname='Robert M. Hinden'>
-<organization>Sun Microsystems, Inc.</organization>
-<address>
-<postal>
-<street>2550 Garcia Ave.</street>
-<street>MS MTV5-44</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043</code>
-<country>US</country></postal>
-<phone>+1 415 336 2082</phone>
-<facsimile>+1 415 336 6016</facsimile>
-<email>hinden@eng.sun.com</email></address></author>
+<title>Simple Internet Protocol Plus White Paper</title>
+<author initials='R.' surname='Hinden' fullname='R. Hinden'><organization /></author>
 <date year='1994' month='October' />
-<abstract>
-<t>This document was submitted to the IETF IPng area in response to RFC 1550.  Publication of this document does not imply acceptance by the IPng area of any ideas expressed within.  Comments should be submitted to the author and/or the sipp@sunroof.eng.sun.com mailing list.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1710' />
-<format type='TXT' octets='56910' target='http://www.rfc-editor.org/rfc/rfc1710.txt' />
+<abstract><t>This document was submitted to the IETF IPng area in response to RFC 1550. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1710'/>
+<seriesInfo name='DOI' value='10.17487/RFC1710'/>
 </reference>

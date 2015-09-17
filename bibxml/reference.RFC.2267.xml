@@ -1,40 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2267'>
-
+<reference  anchor='RFC2267' target='http://www.rfc-editor.org/info/rfc2267'>
 <front>
-<title abbrev='Network Ingress Filtering'>Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing</title>
-<author initials='P.' surname='Ferguson' fullname='Paul Ferguson'>
-<organization>cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>400 Herndon Parkway</street>
-<street>Herndon</street>
-<street>VA  USA 20170</street></postal>
-<email>ferguson@cisco.com</email></address></author>
-<author initials='D.' surname='Senie' fullname='Daniel Senie'>
-<organization>BlazeNet, Inc.</organization>
-<address>
-<postal>
-<street>4 Mechanic Street</street>
-<street>Natick</street>
-<street>MA  USA 01760</street></postal>
-<email>dts@senie.com</email></address></author>
+<title>Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing</title>
+<author initials='P.' surname='Ferguson' fullname='P. Ferguson'><organization /></author>
+<author initials='D.' surname='Senie' fullname='D. Senie'><organization /></author>
 <date year='1998' month='January' />
-<area>Security</area>
-<keyword>attack</keyword>
-<abstract>
-<t>
-   Recent occurrences of various Denial of Service (DoS) attacks which
-   have employed forged source addresses have proven to be a troublesome
-   issue for Internet Service Providers and the Internet community
-   overall.  This paper discusses a simple, effective, and
-   straightforward method for using ingress traffic filtering to
-   prohibit DoS attacks which use forged IP addresses to be propagated
-   from &apos;behind&apos; an Internet Service Provider&apos;s (ISP) aggregation point.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2267' />
-<format type='TXT' octets='21032' target='http://www.rfc-editor.org/rfc/rfc2267.txt' />
-<format type='XML' octets='21223' target='http://xml.resource.org/public/rfc/xml/rfc2267.xml' />
+<abstract><t>This paper discusses a simple, effective, and straightforward method for using ingress traffic filtering to prohibit DoS attacks which use forged IP addresses to be propagated from 'behind' an Internet Service Provider's (ISP) aggregation point.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2267'/>
+<seriesInfo name='DOI' value='10.17487/RFC2267'/>
 </reference>

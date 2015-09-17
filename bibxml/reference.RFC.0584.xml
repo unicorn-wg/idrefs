@@ -1,17 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0584'>
-
+<reference  anchor='RFC0584' target='http://www.rfc-editor.org/info/rfc584'>
 <front>
 <title>Charter for ARPANET Users Interest Working Group</title>
-<author initials='J.' surname='Iseli' fullname='J. Iseli'>
-<organization>MITRE Corporation, TIP</organization></author>
-<author initials='D.' surname='Crocker' fullname='D. Crocker'>
-<organization>University of California, Los Angeles (UCLA), New Media Centers (NMC)</organization></author>
-<author initials='N.' surname='Neigus' fullname='N. Neigus'>
-<organization>Bolt Beranek and Newman Inc. (BBN), Network Control Center (NET)</organization></author>
-<date year='1973' day='6' month='November' /></front>
-
-<seriesInfo name='RFC' value='584' />
-<format type='TXT' octets='3461' target='http://www.rfc-editor.org/rfc/rfc584.txt' />
+<author initials='J.' surname='Iseli' fullname='J. Iseli'><organization /></author>
+<author initials='D.' surname='Crocker' fullname='D. Crocker'><organization /></author>
+<author initials='N.' surname='Neigus' fullname='N. Neigus'><organization /></author>
+<date year='1973' month='November' />
+</front>
+<seriesInfo name='RFC' value='584'/>
+<seriesInfo name='DOI' value='10.17487/RFC0584'/>
 </reference>

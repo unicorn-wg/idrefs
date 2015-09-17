@@ -1,90 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1786'>
-
+<reference  anchor='RFC1786' target='http://www.rfc-editor.org/info/rfc1786'>
 <front>
-<title abbrev='Representing IP Routing Policies in a RR'>Representation of IP Routing Policies in a Routing Registry (ripe-81++)</title>
-<author initials='T.' surname='Bates' fullname='Tony Bates'>
-<organization>MCI Telecommunications Corporation</organization>
-<address>
-<postal>
-<street>2100 Reston Parkway</street>
-<city>Reston</city>
-<region>VA</region>
-<code>22094</code>
-<country>US</country></postal>
-<phone>+1 703 715 7521</phone>
-<email>Tony.Bates@mci.net</email></address></author>
-<author initials='E.' surname='Gerich' fullname='Elise Gerich'>
-<organization>The University of Michigan, Merit Computer Network</organization>
-<address>
-<postal>
-<street>1075 Beal Avenue</street>
-<city>Ann Arbor</city>
-<region>MI</region>
-<code>48109</code>
-<country>US</country></postal>
-<phone>+1 313 936 2120</phone>
-<email>epg@merit.edu</email></address></author>
-<author initials='L.' surname='Joncheray' fullname='Laurent Joncheray'>
-<organization>The University of Michigan, Merit Computer Network</organization>
-<address>
-<postal>
-<street>1075 Beal Avenue</street>
-<city>Ann Arbor</city>
-<region>MI</region>
-<code>48109</code>
-<country>US</country></postal>
-<phone>+1 313 936 2065</phone>
-<email>lpj@merit.edu</email></address></author>
-<author initials='J.' surname='Jouanigot' fullname='Jean-Michel Jouanigot'>
-<organization>CERN, European Laboratory for Particle Physics</organization>
-<address>
-<postal>
-<street>CH-1211 Geneva 23</street>
-<city />
-<region />
-<code />
-<country>CH</country></postal>
-<phone>+41 22 7674417</phone>
-<email>Jean-Michel.Jouanigot@cern.ch</email></address></author>
-<author initials='D.' surname='Karrenberg' fullname='Daniel Karrenberg'>
-<organization>RIPE Network Coordination Centre</organization>
-<address>
-<postal>
-<street>Kruislaan 409</street>
-<city>Amsterdam</city>
-<region />
-<code>NL-1098 SJ</code>
-<country>NL</country></postal>
-<phone>+31 20 5925065</phone>
-<email>D.Karrenberg@ripe.net</email></address></author>
-<author initials='M.' surname='Terpstra' fullname='Marten Terpstra'>
-<organization>Bay Networks, Inc.</organization>
-<address>
-<postal>
-<street>2 Federal St</street>
-<city>Billerica</city>
-<region>MA</region>
-<code>01821</code>
-<country>US</country></postal>
-<phone>+1 508 436 8036</phone>
-<email>marten@BayNetworks.com</email></address></author>
-<author initials='J.' surname='Yu' fullname='Jessica Yu'>
-<organization>The University of Michigan, Merit Computer Network</organization>
-<address>
-<postal>
-<street>1075 Beal Avenue</street>
-<city>Ann Arbor</city>
-<region>MI</region>
-<code>48109</code>
-<country>US</country></postal>
-<phone>+1 313 936 2655</phone>
-<email>jyy@merit.edu</email></address></author>
+<title>Representation of IP Routing Policies in a Routing Registry (ripe-81++)</title>
+<author initials='T.' surname='Bates' fullname='T. Bates'><organization /></author>
+<author initials='E.' surname='Gerich' fullname='E. Gerich'><organization /></author>
+<author initials='L.' surname='Joncheray' fullname='L. Joncheray'><organization /></author>
+<author initials='J-M.' surname='Jouanigot' fullname='J-M. Jouanigot'><organization /></author>
+<author initials='D.' surname='Karrenberg' fullname='D. Karrenberg'><organization /></author>
+<author initials='M.' surname='Terpstra' fullname='M. Terpstra'><organization /></author>
+<author initials='J.' surname='Yu' fullname='J. Yu'><organization /></author>
 <date year='1995' month='March' />
-<abstract>
-<t>This document was originally published as a RIPE document known as ripe-181 but is also being published as an Informational RFC to reach a larger audience than its original scope. It has received community wide interest and acknowledgment throughout the Internet service provider community and will be used as the basic starting point for future work on Internet Routing Registries and routing policy representation.  It can also be referred to as ripe-81++.  This document is an update to the original `ripe-81'proposal for representing and storing routing polices within the RIPE database. It incorporates several extensions proposed by Merit Inc.and gives details of a generalized IP routing policy representation to be used by all Internet routing registries. It acts as both tutorial and provides details of database objects and attributes that use and make up a routing registry.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1786' />
-<format type='TXT' octets='133643' target='http://www.rfc-editor.org/rfc/rfc1786.txt' />
+<abstract><t>This document is an update to the original `ripe-81' proposal for representing and storing routing polices within the RIPE database. It incorporates several extensions proposed by Merit Inc. and gives details of a generalized IP routing policy representation to be used by all Internet routing registries.  It acts as both tutorial and provides details of database objects and attributes that use and make up a routing registry. This memo provides information for the Internet community. This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1786'/>
+<seriesInfo name='DOI' value='10.17487/RFC1786'/>
 </reference>

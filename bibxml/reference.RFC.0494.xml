@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0494'>
-
+<reference  anchor='RFC0494' target='http://www.rfc-editor.org/info/rfc494'>
 <front>
 <title>Availability of MIX and MIXAL in the Network</title>
-<author initials='D.C.' surname='Walden' fullname='D.C. Walden'>
-<organization /></author>
-<date year='1973' month='April' /></front>
-
-<seriesInfo name='RFC' value='494' />
-<format type='TXT' octets='2007' target='http://www.rfc-editor.org/rfc/rfc494.txt' />
+<author initials='D.C.' surname='Walden' fullname='D.C. Walden'><organization /></author>
+<date year='1973' month='April' />
+</front>
+<seriesInfo name='RFC' value='494'/>
+<seriesInfo name='DOI' value='10.17487/RFC0494'/>
 </reference>

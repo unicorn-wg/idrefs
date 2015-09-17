@@ -1,59 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1717'>
-
+<reference  anchor='RFC1717' target='http://www.rfc-editor.org/info/rfc1717'>
 <front>
-<title abbrev='PPP Multilink'>The PPP Multilink Protocol (MP)</title>
-<author initials='K.' surname='Sklower' fullname='Keith Sklower'>
-<organization>University of California, Berkeley, Computer Science Department</organization>
-<address>
-<postal>
-<street>384 Soda Hall</street>
-<street>Mail Stop 1776</street>
-<city>Berkeley</city>
-<region>CA</region>
-<code>94720-1776</code>
-<country>US</country></postal>
-<phone>+1 510 642 9587</phone>
-<email>sklower@CS.Berkeley.EDU</email></address></author>
-<author initials='B.' surname='Lloyd' fullname='Brian Lloyd'>
-<organization>Lloyd Internetworking</organization>
-<address>
-<postal>
-<street>3031 Alhambra Drive</street>
-<city>Cameron Park</city>
-<region>CA</region>
-<code>95682</code>
-<country>US</country></postal>
-<phone>+1 916 676 1147</phone>
-<email>brian@lloyd.com</email></address></author>
-<author initials='G.' surname='McGregor' fullname='Glenn McGregor'>
-<organization>Lloyd Internetworking</organization>
-<address>
-<postal>
-<street>3031 Alhambra Drive</street>
-<city>Cameron Park</city>
-<region>CA</region>
-<code>95682</code>
-<country>US</country></postal>
-<phone>+1 916 676 1147</phone>
-<email>glenn@lloyd.com</email></address></author>
-<author initials='D.' surname='Carr' fullname='Dave Carr'>
-<organization>Newbridge Networks Corporation</organization>
-<address>
-<postal>
-<street>600 March Road</street>
-<street>P.O. Box 13600</street>
-<city>Kanata</city>
-<region>Ontario</region>
-<code>K2K 2E6</code>
-<country>CA</country></postal>
-<phone>+1 613 591 3600</phone>
-<email>dcarr@Newbridge.COM</email></address></author>
+<title>The PPP Multilink Protocol (MP)</title>
+<author initials='K.' surname='Sklower' fullname='K. Sklower'><organization /></author>
+<author initials='B.' surname='Lloyd' fullname='B. Lloyd'><organization /></author>
+<author initials='G.' surname='McGregor' fullname='G. McGregor'><organization /></author>
+<author initials='D.' surname='Carr' fullname='D. Carr'><organization /></author>
 <date year='1994' month='November' />
-<abstract>
-<t>This document proposes a method for splitting, recombining and sequencing datagrams across multiple logical data links.  This work was originally motivated by the desire to exploit multiple bearer channels in ISDN, but is equally applicable to any situation in which multiple PPP links connect two systems, including async links.  This  is accomplished by means of new PPPoptions and protocols.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1717' />
-<format type='TXT' octets='46264' target='http://www.rfc-editor.org/rfc/rfc1717.txt' />
+<abstract><t>This document proposes a method for splitting, recombining and sequencing datagrams across multiple logical data links. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1717'/>
+<seriesInfo name='DOI' value='10.17487/RFC1717'/>
 </reference>

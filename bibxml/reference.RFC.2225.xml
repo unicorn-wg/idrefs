@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2225'>
-
+<reference  anchor='RFC2225' target='http://www.rfc-editor.org/info/rfc2225'>
 <front>
 <title>Classical IP and ARP over ATM</title>
-<author initials='M.' surname='Laubach' fullname='Mark Laubach'>
-<organization>Com21, Inc.</organization>
-<address>
-<postal>
-<street>750 Tasman Drive</street>
-<street>Milpitas</street>
-<street>CA 95035</street></postal>
-<phone>408.953.9175</phone>
-<facsimile>408.953.9299</facsimile>
-<email>laubach@com21.com</email></address></author>
-<author initials='J.' surname='Halpern' fullname='Joel Halpern'>
-<organization>Newbridge Networks, Inc.</organization>
-<address>
-<postal>
-<street>593 Herndon Parkway</street>
-<street>Herndon</street>
-<street>VA  22070-5241</street></postal>
-<phone>703.736.5954</phone>
-<facsimile>703.736.5959</facsimile>
-<email>jhalpern@Newbridge.com</email></address></author>
+<author initials='M.' surname='Laubach' fullname='M. Laubach'><organization /></author>
+<author initials='J.' surname='Halpern' fullname='J. Halpern'><organization /></author>
 <date year='1998' month='April' />
-<area>Internet</area>
-<keyword>address resolution protocol</keyword>
-<keyword>asynchronous transfer mode</keyword></front>
-
-<seriesInfo name='RFC' value='2225' />
-<format type='TXT' octets='65779' target='http://www.rfc-editor.org/rfc/rfc2225.txt' />
-<format type='XML' octets='67459' target='http://xml.resource.org/public/rfc/xml/rfc2225.xml' />
+<abstract><t>This memo defines an initial application of classical IP and ARP in an Asynchronous Transfer Mode (ATM) network environment configured as a Logical IP Subnetwork (LIS).  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2225'/>
+<seriesInfo name='DOI' value='10.17487/RFC2225'/>
 </reference>

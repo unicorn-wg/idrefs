@@ -1,51 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1352'>
-
+<reference  anchor='RFC1352' target='http://www.rfc-editor.org/info/rfc1352'>
 <front>
 <title>SNMP Security Protocols</title>
-<author initials='J.' surname='Galvin' fullname='James M. Galvin'>
-<organization>Trusted Information Systems, Inc.</organization>
-<address>
-<postal>
-<street>3060 Washington Road</street>
-<street>Route 97</street>
-<city>Glenwood</city>
-<region>MD</region>
-<code>21738</code>
-<country>US</country></postal>
-<phone>+1 301 854 6889</phone>
-<email>galvin@tis.com</email></address></author>
-<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
-<organization>Hughes, LAN Systems, Inc.</organization>
-<address>
-<postal>
-<street>1225 Charleston Road</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043</code>
-<country>US</country></postal>
-<phone>+1 415 966 7934</phone>
-<email>kzm@hls.com</email></address></author>
-<author initials='J.' surname='Davin' fullname='James R. Davin'>
-<organization>MIT, Laboratory for Computer Science</organization>
-<address>
-<postal>
-<street>545 Technology Square</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02139</code>
-<country>US</country></postal>
-<phone>+1 617 253 6020</phone>
-<email>jrd@ptt.lcs.mit.edu</email></address></author>
+<author initials='J.' surname='Galvin' fullname='J. Galvin'><organization /></author>
+<author initials='K.' surname='McCloghrie' fullname='K. McCloghrie'><organization /></author>
+<author initials='J.' surname='Davin' fullname='J. Davin'><organization /></author>
 <date year='1992' month='July' />
-<abstract>
-<t>The Simple Network Management Protocol (SNMP) specificationallows for the protection of network management operations by a variety of security protocols.  The SNMP administrative model described inprovides a framework for securing SNMP network management. In the context of that framework, this memo defines protocols to support the following three security services:</t>
-<t>o data integrity,</t>
-<t>o data origin authentication, and</t>
-<t>o data confidentiality.</t>
-<t>Please send comments to the SNMP Security Developers mailing list (snmp-sec-dev@tis.com).</t></abstract></front>
-
-<seriesInfo name='RFC' value='1352' />
-<format type='TXT' octets='95732' target='http://www.rfc-editor.org/rfc/rfc1352.txt' />
+<abstract><t>The Simple Network Management Protocol (SNMP) specification [1] allows for the protection of network management operations by a variety of security protocols.  The SNMP administrative model described in [2] provides a framework for securing SNMP network management. In the context of that framework, this memo defines protocols to support the following three security services: data integrity, data origin authentication and data confidentiality.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1352'/>
+<seriesInfo name='DOI' value='10.17487/RFC1352'/>
 </reference>

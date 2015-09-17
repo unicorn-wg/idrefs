@@ -1,41 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1496'>
-
+<reference  anchor='RFC1496' target='http://www.rfc-editor.org/info/rfc1496'>
 <front>
-<title abbrev='HARPOON'>Rules for downgrading messages from X.400/88 to X.400/84 when MIME content-types are present in the messages</title>
-<author initials='H.T.' surname='Alvestrand' fullname='Harald Tveit Alvestrand'>
-<organization>SINTEF DELAB</organization>
-<address>
-<postal>
-<street />
-<city>Trondheim</city>
-<region />
-<code>N-7034</code>
-<country>NO</country></postal>
-<email>Harald.T.Alvestrand@delab.sintef.no</email></address></author>
-<author initials='K.E.' surname='Jordan' fullname='Kevin E. Jordan'>
-<organization>Control Data Systems, Inc.</organization>
-<address>
-<postal>
-<street>4201 Lexington Avenue N</street>
-<city>Arden Hills</city>
-<region>MN</region>
-<code>55126</code>
-<country>US</country></postal>
-<email>Kevin.E.Jordan@mercury.oss.arh.cpg.cdc.com</email></address></author>
-<author initials='J.A.' surname='Romaguera' fullname='James A. Romaguera'>
-<organization>NetConsult AG</organization>
-<address>
-<postal>
-<street>Mettlendwaldweg 20a</street>
-<city>Herrenschwanden</city>
-<region />
-<code>3037</code>
-<country>CH</country></postal>
-<email>Romaguera@netconsult.ch</email></address></author>
-<date year='1993' month='August' /></front>
-
-<seriesInfo name='RFC' value='1496' />
-<format type='TXT' octets='8411' target='http://www.rfc-editor.org/rfc/rfc1496.txt' />
+<title>Rules for downgrading messages from X.400/88 to X.400/84 when MIME content-types are present in the messages</title>
+<author initials='H.' surname='Alvestrand' fullname='H. Alvestrand'><organization /></author>
+<author initials='J.' surname='Romaguera' fullname='J. Romaguera'><organization /></author>
+<author initials='K.' surname='Jordan' fullname='K. Jordan'><organization /></author>
+<date year='1993' month='August' />
+<abstract><t>This document describes how RFC-1328 must be modified in order to provide adequate support for the scenarios: It replaces chapter 6 of RFC-1328. The rest of RFC-1328 is NOT obsoleted.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1496'/>
+<seriesInfo name='DOI' value='10.17487/RFC1496'/>
 </reference>

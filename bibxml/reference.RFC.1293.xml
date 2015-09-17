@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1293'>
-
+<reference  anchor='RFC1293' target='http://www.rfc-editor.org/info/rfc1293'>
 <front>
-<title abbrev='Inverse ARP'>Inverse Address Resolution Protocol</title>
-<author initials='T.' surname='Bradley' fullname='Terry Bradley'>
-<organization>Wellfleet Communications, Inc.</organization>
-<address>
-<postal>
-<street>15 Crosby Drive</street>
-<city>Bedford</city>
-<region>MA</region>
-<code>01730</code>
-<country>US</country></postal>
-<phone>+1 617 275 2400</phone>
-<email>tbradley@wellfleet.com</email></address></author>
-<author initials='C.' surname='Brown' fullname='Caralyn Brown'>
-<organization>Wellfleet Communications, Inc.</organization>
-<address>
-<postal>
-<street>15 Crosby Drive</street>
-<city>Bedford</city>
-<region>MA</region>
-<code>01730</code>
-<country>US</country></postal>
-<phone>+1 617 275 2400</phone>
-<email>cbrown@wellfleet.com</email></address></author>
+<title>Inverse Address Resolution Protocol</title>
+<author initials='T.' surname='Bradley' fullname='T. Bradley'><organization /></author>
+<author initials='C.' surname='Brown' fullname='C. Brown'><organization /></author>
 <date year='1992' month='January' />
-<abstract>
-<t>This memo describes additions to ARP that will allow a station to request a protocol address corresponding to a given hardware address. Specifically, this applies to Frame Relay stations that may have a Data Link Connection Identifier (DLCI), the Frame Relay equivalent of a hardware address, associated with an established Permanent Virtual Circuit (PVC), but do not know the protocol address of the station on the other side of this connection.  It will also apply to other networks with similar circumstances.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1293' />
-<format type='TXT' octets='11368' target='http://www.rfc-editor.org/rfc/rfc1293.txt' />
+<abstract><t>This memo describes additions to ARP that will allow a station to request a protocol address corresponding to a given hardware address. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1293'/>
+<seriesInfo name='DOI' value='10.17487/RFC1293'/>
 </reference>

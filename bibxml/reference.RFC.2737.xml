@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2737'>
-
+<reference  anchor='RFC2737' target='http://www.rfc-editor.org/info/rfc2737'>
 <front>
 <title>Entity MIB (Version 2)</title>
-<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134</code>
-<country>US</country></postal>
-<phone>+1 408 526 5260</phone>
-<email>kzm@cisco.com</email></address></author>
-<author initials='A.' surname='Bierman' fullname='Andy Bierman'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134</code>
-<country>US</country></postal>
-<phone>+1 408 527 3711</phone>
-<email>abierman@cisco.com</email></address></author>
+<author initials='K.' surname='McCloghrie' fullname='K. McCloghrie'><organization /></author>
+<author initials='A.' surname='Bierman' fullname='A. Bierman'><organization /></author>
 <date year='1999' month='December' />
-<abstract>
-<t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community. In particular, it describes managed objects used for managing multiple logical and physical entities managed by a single SNMP agent.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2737' />
-<format type='TXT' octets='125141' target='http://www.rfc-editor.org/rfc/rfc2737.txt' />
+<abstract><t>This memo defines a portion of the Management Information Base (M for use with network management protocols in the Internet communi In particular, it describes managed objects used for managing multiple logical and physical entities managed by a single SNMP agent. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2737'/>
+<seriesInfo name='DOI' value='10.17487/RFC2737'/>
 </reference>

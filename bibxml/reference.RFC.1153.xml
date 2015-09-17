@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1153'>
-
+<reference  anchor='RFC1153' target='http://www.rfc-editor.org/info/rfc1153'>
 <front>
 <title>Digest message format</title>
-<author initials='F.' surname='Wancho' fullname='Frank J. Wancho'>
-<organization>White Sands Missile Range (WSMR), USAISC-White Sands</organization>
-<address>
-<postal>
-<street>ASQNC-TWS-SS-C (F. Wancho, Building 1512)</street>
-<city>White Sands</city>
-<region>NM</region>
-<code>88002-5506</code>
-<country>US</country></postal>
-<phone>+1 505 678 3009</phone>
-<email>WANCHO@WSMR-SIMTEL20.ARMY.MIL</email></address></author>
-<date year='1990' day='1' month='April' /></front>
-
-<seriesInfo name='RFC' value='1153' />
-<format type='TXT' octets='6632' target='http://www.rfc-editor.org/rfc/rfc1153.txt' />
+<author initials='F.J.' surname='Wancho' fullname='F.J. Wancho'><organization /></author>
+<date year='1990' month='April' />
+<abstract><t>This memo describes the de facto standard Digest Message Format.  This is an elective experimental protocol.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1153'/>
+<seriesInfo name='DOI' value='10.17487/RFC1153'/>
 </reference>

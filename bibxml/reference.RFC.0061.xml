@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0061'>
-
+<reference  anchor='RFC0061' target='http://www.rfc-editor.org/info/rfc61'>
 <front>
-<title abbrev='Interprocess Communication in a Computer Network'>Note on Interprocess Communication in a Resource Sharing Computer Network</title>
-<author initials='D.' surname='Walden' fullname='Dave Walden'>
-<organization>Bolt Beranek and Newman (BBN)</organization></author>
-<date year='1970' day='17' month='July' /></front>
-
-<seriesInfo name='RFC' value='61' />
-<format type='TXT' octets='43946' target='http://www.rfc-editor.org/rfc/rfc61.txt' />
+<title>Note on Interprocess Communication in a Resource Sharing Computer Network</title>
+<author initials='D.C.' surname='Walden' fullname='D.C. Walden'><organization /></author>
+<date year='1970' month='July' />
+</front>
+<seriesInfo name='RFC' value='61'/>
+<seriesInfo name='DOI' value='10.17487/RFC0061'/>
 </reference>

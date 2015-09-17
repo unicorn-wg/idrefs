@@ -1,37 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1607'>
-
+<reference  anchor='RFC1607' target='http://www.rfc-editor.org/info/rfc1607'>
 <front>
-<title abbrev='A View from the 21st Century'>A VIEW FROM THE 21ST CENTURY</title>
-<author initials='V.' surname='Cerf' fullname='Vinton Cerf'>
-<organization>Internet Society</organization>
-<address>
-<postal>
-<street>12020 Sunrise Valley Drive</street>
-<street>Suite 270</street>
-<city>Reston</city>
-<region>VA</region>
-<code>22091</code>
-<country>US</country></postal>
-<phone>+1 703 648 9888</phone>
-<facsimile>+1 703 648 9887</facsimile>
-<email>vcerf@isoc.org</email></address></author>
-<author initials='V.' surname='Cerf' fullname='Vinton Cerf'>
-<organization>MCI Data Services Division,  Sr. VP Data Architecture</organization>
-<address>
-<postal>
-<street>2100 Reston Parkway</street>
-<street>Room 6001</street>
-<city>Reston</city>
-<region>VA</region>
-<code>22091</code>
-<country>US</country></postal>
-<phone>+1 703 715 7432</phone>
-<facsimile>+1 703 715 7436</facsimile>
-<email>vinton_cerf@mcimail.com</email></address></author>
-<date year='1994' day='1' month='April' /></front>
-
-<seriesInfo name='RFC' value='1607' />
-<format type='TXT' octets='28165' target='http://www.rfc-editor.org/rfc/rfc1607.txt' />
+<title>A VIEW FROM THE 21ST CENTURY</title>
+<author initials='V.' surname='Cerf' fullname='V. Cerf'><organization /></author>
+<date year='1994' month='April' />
+<abstract><t>This document is a composition of letters discussing a possible future. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1607'/>
+<seriesInfo name='DOI' value='10.17487/RFC1607'/>
 </reference>

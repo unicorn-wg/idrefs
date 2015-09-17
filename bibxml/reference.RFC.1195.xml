@@ -1,27 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1195'>
-
+<reference  anchor='RFC1195' target='http://www.rfc-editor.org/info/rfc1195'>
 <front>
-<title abbrev='OSI ISIS for IP and Dual Environments'>Use of OSI IS-IS for routing in TCP/IP and dual environments</title>
-<author initials='R.' surname='Callon' fullname='Ross Callon'>
-<organization>Digital Equipment Corporation (DEC)</organization>
-<address>
-<postal>
-<street>550 King Street</street>
-<street>LKG 1-2/A19</street>
-<city>Littleton</city>
-<region>MA</region>
-<code>01460-1289</code>
-<country>US</country></postal>
-<phone>+1 508 486 5009</phone></address></author>
-<date year='1990' day='1' month='December' />
-<abstract>
-<t>This RFC specifies an integrated routing protocol, based on the OSI Intra-Domain IS-IS Routing Protocol, which may be used as an interior gateway protocol (IGP) to support TCP/IP as well as OSI. This allows a single routing protocol to be used to support pure IP environments, pure OSI environments, and dual environments. This specification was developed by the IS-IS working group of the Internet Engineering Task Force.</t>
-<t>The OSI IS-IS protocol has reached a mature state, and is ready for implementation and operational use. The most recent version of the OSI IS-IS protocol is contained in ISO DP 10589. The proposed standard for using IS-IS for support of TCP/IP will therefore make use of this version (with a minor bug correction, as discussed in Annex B).  We expect that future versions of this proposed standard will upgrade to the final International Standard version of IS-IS when available.</t>
-<t>Comments should be sent to "isis@merit.edu".</t></abstract></front>
-
-<seriesInfo name='RFC' value='1195' />
-<format type='TXT' octets='187866' target='http://www.rfc-editor.org/rfc/rfc1195.txt' />
-<format type='PS' octets='362052' target='http://www.rfc-editor.org/rfc/rfc1195.ps' />
+<title>Use of OSI IS-IS for routing in TCP/IP and dual environments</title>
+<author initials='R.W.' surname='Callon' fullname='R.W. Callon'><organization /></author>
+<date year='1990' month='December' />
+<abstract><t>This memo specifies an integrated routing protocol, based on the OSI Intra-Domain IS-IS Routing Protocol, which may be used as an interior gateway protocol (IGP) to support TCP/IP as well as OSI.  This allows a single routing protocol to be used to support pure IP environments, pure OSI environments, and dual environments.  This specification was developed by the IS-IS working group of the Internet Engineering Task Force.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1195'/>
+<seriesInfo name='DOI' value='10.17487/RFC1195'/>
 </reference>

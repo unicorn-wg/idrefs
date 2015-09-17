@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1418'>
-
+<reference  anchor='RFC1418' target='http://www.rfc-editor.org/info/rfc1418'>
 <front>
 <title>SNMP over OSI</title>
-<author initials='M.' surname='Rose' fullname='Marshall T. Rose'>
-<organization>Dover Beach Consulting, Inc.</organization>
-<address>
-<postal>
-<street>420 Whisman Court</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043-2112</code>
-<country>US</country></postal>
-<phone>+1 415 968 1052</phone>
-<email>mrose@dbc.mtview.ca.us</email></address></author>
-<date year='1993' month='March' /></front>
-
-<seriesInfo name='RFC' value='1418' />
-<format type='TXT' octets='7721' target='http://www.rfc-editor.org/rfc/rfc1418.txt' />
+<author initials='M.' surname='Rose' fullname='M. Rose'><organization /></author>
+<date year='1993' month='March' />
+<abstract><t>This memo addresses some concerns by defining a framework for running the SNMP in an environment which supports the OSI connectionless-mode transport service.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1418'/>
+<seriesInfo name='DOI' value='10.17487/RFC1418'/>
 </reference>

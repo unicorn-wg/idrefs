@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1093'>
-
+<reference  anchor='RFC1093' target='http://www.rfc-editor.org/info/rfc1093'>
 <front>
-<title abbrev='NSFNET Routing Architecture'>NSFNET routing architecture</title>
-<author initials='H.' surname='Braun' fullname='Hans-Werner Braun'>
-<organization>University of Michigan, Computing Center</organization>
-<address>
-<postal>
-<street>1075 Beal Avenue</street>
-<city>Ann Arbor</city>
-<region>MI</region>
-<code>48109</code>
-<country>US</country></postal>
-<phone>+1 313 763 4897</phone>
-<email>HWB@MCR.UMICH.EDU</email></address></author>
-<date year='1989' day='1' month='February' /></front>
-
-<seriesInfo name='RFC' value='1093' />
-<format type='TXT' octets='20629' target='http://www.rfc-editor.org/rfc/rfc1093.txt' />
+<title>NSFNET routing architecture</title>
+<author initials='H.W.' surname='Braun' fullname='H.W. Braun'><organization /></author>
+<date year='1989' month='February' />
+<abstract><t>This document describes the routing architecture for the NSFNET centered around the new NSFNET Backbone, with specific emphasis on the interface between the backbone and its attached networks.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1093'/>
+<seriesInfo name='DOI' value='10.17487/RFC1093'/>
 </reference>

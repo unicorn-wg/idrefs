@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0389'>
-
+<reference  anchor='RFC0389' target='http://www.rfc-editor.org/info/rfc389'>
 <front>
 <title>UCLA Campus Computing Network Liaison Staff for ARPA Network</title>
-<author initials='B.' surname='Noble' fullname='Barbara Noble'>
-<organization>University of California, Los Angeles (UCLA), Campus Computing Network (CCN)</organization>
-<address>
-<phone>+1 213 825 7438</phone></address></author>
-<date year='1972' day='30' month='August' /></front>
-
-<seriesInfo name='RFC' value='389' />
-<format type='TXT' octets='2819' target='http://www.rfc-editor.org/rfc/rfc389.txt' />
+<author initials='B.' surname='Noble' fullname='B. Noble'><organization /></author>
+<date year='1972' month='August' />
+</front>
+<seriesInfo name='RFC' value='389'/>
+<seriesInfo name='DOI' value='10.17487/RFC0389'/>
 </reference>

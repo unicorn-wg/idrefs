@@ -1,33 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1151'>
-
+<reference  anchor='RFC1151' target='http://www.rfc-editor.org/info/rfc1151'>
 <front>
-<title abbrev='RDP - Version 2'>Version 2 of the Reliable Data Protocol (RDP)</title>
-<author initials='C.' surname='Partridge' fullname='Craig Partridge'>
-<organization>Bolt Beranek and Newman Inc., Systems and Technologies</organization>
-<address>
-<postal>
-<street>50 Moulton Street</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02138</code>
-<country>US</country></postal>
-<phone>+1 617 873 2459</phone>
-<email>craig@BBN.COM</email></address></author>
-<author initials='R.' surname='Hinden' fullname='Robert Hinden'>
-<organization>Bolt Beranek and Newman Inc., Communications Corp.</organization>
-<address>
-<postal>
-<street>50 Moulton Street</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02238</code>
-<country>US</country></postal>
-<phone>+1 617 873 3757</phone>
-<email>HINDEN@BBN.COM</email></address></author>
-<date year='1990' day='1' month='April' /></front>
-
-<seriesInfo name='RFC' value='1151' />
-<format type='TXT' octets='8293' target='http://www.rfc-editor.org/rfc/rfc1151.txt' />
+<title>Version 2 of the Reliable Data Protocol (RDP)</title>
+<author initials='C.' surname='Partridge' fullname='C. Partridge'><organization /></author>
+<author initials='R.M.' surname='Hinden' fullname='R.M. Hinden'><organization /></author>
+<date year='1990' month='April' />
+<abstract><t>This RFC suggests several updates to the specification of the Reliable Data Protocol (RDP) in RFC-908 based on experience with the protocol. This revised version of the protocol is experimental.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1151'/>
+<seriesInfo name='DOI' value='10.17487/RFC1151'/>
 </reference>

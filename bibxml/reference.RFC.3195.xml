@@ -1,49 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC3195'>
-
+<reference  anchor='RFC3195' target='http://www.rfc-editor.org/info/rfc3195'>
 <front>
 <title>Reliable Delivery for syslog</title>
-<author initials='D.' surname='New' fullname='Darren New'>
-<organization />
-<address>
-<postal>
-<street>5390 Caminito Exquisito</street>
-<city>San Diego</city>
-<region>CA</region>
-<code>92130</code>
-<country>US</country></postal>
-<phone>+1 858 350 9733</phone>
-<email>dnew@san.rr.com</email></address></author>
-<author initials='M.T.' surname='Rose' fullname='Marshall T. Rose'>
-<organization>Dover Beach Consulting, Inc.</organization>
-<address>
-<postal>
-<street>POB 255268</street>
-<city>Sacramento</city>
-<region>CA</region>
-<code>95865-5268</code>
-<country>US</country></postal>
-<phone>+1 916 483 8878</phone>
-<email>mrose@dbc.mtview.ca.us</email></address></author>
+<author initials='D.' surname='New' fullname='D. New'><organization /></author>
+<author initials='M.' surname='Rose' fullname='M. Rose'><organization /></author>
 <date year='2001' month='November' />
-<area>Applications</area>
-<keyword>syslog</keyword>
-<keyword>BEEP</keyword>
-<abstract>
-<t>The BSD Syslog Protocol describes
-a number of service options related to propagating event messages.
-This memo describes two mappings of the syslog protocol to 
-TCP connections, both useful for reliable delivery of event messages.
-The first provides a trivial mapping maximizing backward compatibility.
-The second provides a more complete mapping. Both provide a degree of 
-robustness and security in message delivery that is unavailable to 
-the usual UDP-based syslog protocol, by providing encryption and 
-authentication over a connection-oriented protocol. 
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='3195' />
-<format type='TXT' octets='60960' target='http://www.rfc-editor.org/rfc/rfc3195.txt' />
-<format type='HTML' octets='84068' target='http://xml.resource.org/public/rfc/html/rfc3195.html' />
-<format type='XML' octets='62525' target='http://xml.resource.org/public/rfc/xml/rfc3195.xml' />
+<abstract><t>The BSD Syslog Protocol describes a number of service options related to propagating event messages.  This memo describes two mappings of the syslog protocol to TCP connections, both useful for reliable delivery of event messages.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='3195'/>
+<seriesInfo name='DOI' value='10.17487/RFC3195'/>
 </reference>

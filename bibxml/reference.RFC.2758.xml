@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2758'>
-
+<reference  anchor='RFC2758' target='http://www.rfc-editor.org/info/rfc2758'>
 <front>
-<title abbrev='SLAPM-MIB'>Definitions of Managed Objects for Service Level Agreements Performance Monitoring</title>
-<author initials='K.D.' surname='White' fullname='Kenneth D. White'>
-<organization>IBM Corporation,  Dept. BRQA/Bldg. 501/G114</organization>
-<address>
-<postal>
-<street>P.O.Box 12195</street>
-<street>3039 Cornwallis</street>
-<city>Research Triangle Park</city>
-<region>NC</region>
-<code>27709</code>
-<country>US</country></postal>
-<email>wkenneth@us.ibm.com</email></address></author>
+<title>Definitions of Managed Objects for Service Level Agreements Performance Monitoring</title>
+<author initials='K.' surname='White' fullname='K. White'><organization /></author>
 <date year='2000' month='February' />
-<abstract>
-<t>This memo defines a Management Information Base (MIB) for performance monitoring of Service Level Agreements (SLAs) defined via policy definitions.  The MIB defined herein focuses on defining a set of objects for monitoring SLAs and not on replication of the content of the policy definitions being monitored.  The goal of the MIB defined within this document is to defined statistics related to a policy rule definition for reporting on the effect that a policy rule has on a system and to defined a method of monitoring this data.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2758' />
-<format type='TXT' octets='145581' target='http://www.rfc-editor.org/rfc/rfc2758.txt' />
+<abstract><t>This memo defines a Management Information Base (MIB) for performance monitoring of Service Level Agreements (SLAs) defined via policy definitions.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2758'/>
+<seriesInfo name='DOI' value='10.17487/RFC2758'/>
 </reference>

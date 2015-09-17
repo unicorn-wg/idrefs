@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1094'>
-
+<reference  anchor='RFC1094' target='http://www.rfc-editor.org/info/rfc1094'>
 <front>
-<title abbrev='NFS: Network File System'>NFS: Network File System Protocol specification</title>
-<author initials='B.' surname='Nowicki' fullname='Bill Nowicki'>
-<organization>Sun Microsystems, Inc.</organization>
-<address>
-<postal>
-<street>2550 Garcia Avenue</street>
-<street>Mail Stop 1-40</street>
-<city>Mountain View</city>
-<region>CA</region>
-<code>94043</code>
-<country>US</country></postal>
-<phone>+1 415 336 7278</phone>
-<email>nowicki@SUN.COM</email></address></author>
-<date year='1989' day='1' month='March' /></front>
-
-<seriesInfo name='RFC' value='1094' />
-<format type='TXT' octets='51454' target='http://www.rfc-editor.org/rfc/rfc1094.txt' />
+<title>NFS: Network File System Protocol specification</title>
+<author initials='B.' surname='Nowicki' fullname='B. Nowicki'><organization /></author>
+<date year='1989' month='March' />
+<abstract><t>This RFC describes a protocol that Sun Microsystems, Inc., and others are using.  A new version of the protocol is under development, but others may benefit from the descriptions of the current protocol, and discussion of some of the design issues.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1094'/>
+<seriesInfo name='DOI' value='10.17487/RFC1094'/>
 </reference>

@@ -1,87 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2105'>
-
+<reference  anchor='RFC2105' target='http://www.rfc-editor.org/info/rfc2105'>
 <front>
-<title abbrev='Cisco Tag Switching'>Cisco Systems&apos; Tag Switching Architecture Overview</title>
-<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 Tasman Drive</street>
-<street>San Jose</street>
-<street>95134</street>
-<country>CA</country></postal>
-<email>yakov@cisco.com</email></address></author>
-<author initials='B.' surname='Davie' fullname='Bruce Davie'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>250 Apollo Drive</street>
-<street>Chelmsford</street>
-<street>01824</street>
-<country>MA</country></postal>
-<email>bsd@cisco.com</email></address></author>
-<author initials='D.' surname='Katz' fullname='Dave Katz'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 Tasman Drive</street>
-<street>San Jose</street>
-<street>95134</street>
-<country>CA</country></postal>
-<email>dkatz@cisco.com</email></address></author>
-<author initials='E.' surname='Rosen' fullname='Eric Rosen'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>250 Apollo Drive</street>
-<street>Chelmsford</street>
-<street>01824</street>
-<country>MA</country></postal>
-<email>erosen@cisco.com</email></address></author>
-<author initials='G.' surname='Swallow' fullname='George Swallow'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>250 Apollo Drive</street>
-<street>Chelmsford</street>
-<street>01824</street>
-<country>MA</country></postal>
-<email>swallow@cisco.com</email></address></author>
+<title>Cisco Systems' Tag Switching Architecture Overview</title>
+<author initials='Y.' surname='Rekhter' fullname='Y. Rekhter'><organization /></author>
+<author initials='B.' surname='Davie' fullname='B. Davie'><organization /></author>
+<author initials='D.' surname='Katz' fullname='D. Katz'><organization /></author>
+<author initials='E.' surname='Rosen' fullname='E. Rosen'><organization /></author>
+<author initials='G.' surname='Swallow' fullname='G. Swallow'><organization /></author>
 <date year='1997' month='February' />
-<area>Routing</area>
-<keyword>tag switching</keyword>
-<abstract>
-<t>
-   This protocol is NOT the product of an IETF working group nor is it a
-   standards track document.  It has not necessarily benefited from the
-   widespread and in depth community review that standards track
-   documents receive.
-</t>
-<t>
-   This document provides an overview of a novel approach to network
-   layer packet forwarding, called tag switching. The two main
-   components of  the tag switching architecture - forwarding and
-   control - are described.  Forwarding is accomplished using simple
-   label-swapping techniques, while the existing network layer routing
-   protocols plus mechanisms for binding and distributing tags are used
-   for control. Tag switching can retain the scaling properties of IP,
-   and can help improve the scalability of IP networks. While tag
-   switching does not rely on ATM, it can straightforwardly be applied
-   to ATM switches. A range of tag switching applications and deployment
-   scenarios are described.
-</t></abstract>
-<note title='IESG Note'>
-<t>
-   This protocol is NOT the product of an IETF working group nor is it a
-   standards track document.  It has not necessarily benefited from the
-   widespread and in depth community review that standards track
-   documents receive.
-</t></note></front>
-
-<seriesInfo name='RFC' value='2105' />
-<format type='TXT' octets='33013' target='http://www.rfc-editor.org/rfc/rfc2105.txt' />
-<format type='HTML' octets='49740' target='http://xml.resource.org/public/rfc/html/rfc2105.html' />
-<format type='XML' octets='32903' target='http://xml.resource.org/public/rfc/xml/rfc2105.xml' />
+<abstract><t>This document provides an overview of a novel approach to network layer packet forwarding, called tag switching. The two main components of  the tag switching architecture - forwarding and control - are described. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2105'/>
+<seriesInfo name='DOI' value='10.17487/RFC2105'/>
 </reference>

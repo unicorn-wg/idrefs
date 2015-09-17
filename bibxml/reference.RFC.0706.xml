@@ -1,16 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0706'>
-
+<reference  anchor='RFC0706' target='http://www.rfc-editor.org/info/rfc706'>
 <front>
 <title>On the junk mail problem</title>
-<author initials='J.' surname='Postel' fullname='Jon Postel'>
-<organization>Stanford Research Institute (SRI), Augmentation Research Center (ARC)</organization></author>
-<date year='1975' day='8' month='November' />
-<abstract>
-<t>In the ARPA Network Host/IMP interface protocol there is no mechanism for the Host to selectively refuse messages. This means that a Host which desires to receive some particular messages must  read all messages addressed to it. Such a Host could be sent many messages by a malfunctioning Host. This would constitute a denial of service to the normal users of this Host. Both the local users and the network communication could suffer. The services denied are the processor time consumed in examining the undesired messages and rejecting them, and the loss of network thruput or increased delay due to the unnecessary busyness of the network.</t>
-<t>It would be useful for a Host to be able to decline messages from sources it believes are misbehaving or are simply annoying. If the Host/IMP interface protocol allowed the Host to say to the IMP "refuse messages from Host X", the IMPs could discard the unwanted messages at their earliest opportunity returning a "refused" notice to the offending Host.</t></abstract></front>
-
-<seriesInfo name='RFC' value='706' />
-<format type='TXT' octets='2085' target='http://www.rfc-editor.org/rfc/rfc706.txt' />
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<date year='1975' month='November' />
+</front>
+<seriesInfo name='RFC' value='706'/>
+<seriesInfo name='DOI' value='10.17487/RFC0706'/>
 </reference>

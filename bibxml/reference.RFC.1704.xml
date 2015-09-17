@@ -1,36 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1704'>
-
+<reference  anchor='RFC1704' target='http://www.rfc-editor.org/info/rfc1704'>
 <front>
 <title>On Internet Authentication</title>
-<author initials='N.' surname='Haller' fullname='Neil Haller'>
-<organization>Bell Communications Research</organization>
-<address>
-<postal>
-<street>445 South Street</street>
-<street>MRE 2Q-280</street>
-<city>Morristown</city>
-<region>NJ</region>
-<code>07962-1910</code>
-<country>US</country></postal>
-<phone>+1 201 829 4478</phone>
-<email>nmh@thumper.bellcore.com</email></address></author>
-<author initials='R.' surname='Atkinson' fullname='Randall Atkinson'>
-<organization>Naval Research Laboratory, Information Technology Division</organization>
-<address>
-<postal>
-<street />
-<city>Washington</city>
-<region>DC</region>
-<code>20375-5320</code>
-<country>US</country></postal>
-<phone>(DSN) 354 8590</phone>
-<email>atkinson@itd.nrl.navy.mil</email></address></author>
+<author initials='N.' surname='Haller' fullname='N. Haller'><organization /></author>
+<author initials='R.' surname='Atkinson' fullname='R. Atkinson'><organization /></author>
 <date year='1994' month='October' />
-<abstract>
-<t></t></abstract></front>
-
-<seriesInfo name='RFC' value='1704' />
-<format type='TXT' octets='42269' target='http://www.rfc-editor.org/rfc/rfc1704.txt' />
+<abstract><t>This document describes a spectrum of authentication technologies and provides suggestions to protocol developers on what kinds of authentication might be suitable for some kinds of protocols and applications used in the Internet. This document provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1704'/>
+<seriesInfo name='DOI' value='10.17487/RFC1704'/>
 </reference>

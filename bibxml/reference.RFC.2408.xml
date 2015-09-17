@@ -1,66 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2408'>
-
+<reference  anchor='RFC2408' target='http://www.rfc-editor.org/info/rfc2408'>
 <front>
-<title abbrev='ISAKMP'>Internet Security Association and Key Management Protocol (ISAKMP)</title>
-<author initials='D.' surname='Maughan' fullname='Douglas Maughan'>
-<organization>National Security Agency</organization>
-<address>
-<postal>
-<street>ATTN: R23</street>
-<street>9800 Savage Road</street>
-<street>Ft.  Meade</street>
-<street>MD. 20755-6000</street></postal>
-<phone>301-688-0847</phone>
-<email>wdm@tycho.ncsc.mil</email></address></author>
-<author initials='M.' surname='Schneider' fullname='Mark Schneider'>
-<organization>National Security Agency</organization>
-<address>
-<postal>
-<street>ATTN: R23</street>
-<street>9800 Savage Road</street>
-<street>Ft.  Meade</street>
-<street>MD. 20755-6000</street></postal>
-<phone>301-688-0851</phone>
-<email>mss@tycho.ncsc.mil</email></address></author>
-<author initials='M.' surname='Schertler' fullname='Mark Schertler'>
-<organization>Securify, Inc.</organization>
-<address>
-<postal>
-<street>2415-B Charleston Road</street>
-<street>Mountain View</street>
-<street>CA 94043</street></postal>
-<phone>410-715-9399</phone>
-<uri>er@raba.com</uri></address></author>
+<title>Internet Security Association and Key Management Protocol (ISAKMP)</title>
+<author initials='D.' surname='Maughan' fullname='D. Maughan'><organization /></author>
+<author initials='M.' surname='Schertler' fullname='M. Schertler'><organization /></author>
+<author initials='M.' surname='Schneider' fullname='M. Schneider'><organization /></author>
+<author initials='J.' surname='Turner' fullname='J. Turner'><organization /></author>
 <date year='1998' month='November' />
-<area>Security</area>
-<keyword>cryptographic</keyword>
-<keyword>internet security association and key management protocol</keyword>
-<keyword>key management</keyword>
-<keyword>security</keyword>
-<abstract>
-<t>
-   This memo describes a protocol utilizing security concepts necessary
-   for establishing Security Associations (SA) and cryptographic keys in
-   an Internet environment.  A Security Association protocol that
-   negotiates, establishes, modifies and deletes Security Associations
-   and their attributes is required for an evolving Internet, where
-   there will be numerous security mechanisms and several options for
-   each security mechanism.  The key management protocol must be robust
-   in order to handle public key generation for the Internet community
-   at large and private key requirements for those private networks with
-   that requirement.  The Internet Security Association and Key
-   Management Protocol (ISAKMP) defines the procedures for
-   authenticating a communicating peer, creation and management of
-   Security Associations, key generation techniques, and threat
-   mitigation (e.g.  denial of service and replay attacks).  All of
-   these are necessary to establish and maintain secure communications
-   (via IP Security Service or any other security protocol) in an
-   Internet environment.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2408' />
-<format type='TXT' octets='209175' target='http://www.rfc-editor.org/rfc/rfc2408.txt' />
-<format type='XML' octets='202083' target='http://xml.resource.org/public/rfc/xml/rfc2408.xml' />
+<abstract><t>This memo describes a protocol utilizing security concepts necessary for establishing Security Associations (SA) and cryptographic keys in an Internet environment.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2408'/>
+<seriesInfo name='DOI' value='10.17487/RFC2408'/>
 </reference>

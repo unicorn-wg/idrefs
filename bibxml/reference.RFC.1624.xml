@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1624'>
-
+<reference  anchor='RFC1624' target='http://www.rfc-editor.org/info/rfc1624'>
 <front>
-<title abbrev='Incremental Internet Checksum'>Computation of the Internet Checksum via Incremental Update</title>
-<author initials='A.' surname='Rijsinghani' fullname='Anil Rijsinghani'>
-<organization>Digital Equipment Corporation</organization>
-<address>
-<postal>
-<street>550 King St</street>
-<city>Littleton</city>
-<region>MA</region>
-<code>01460</code>
-<country>US</country></postal>
-<phone>+1 508 486 6786</phone>
-<email>anil@levers.enet.dec.com</email></address></author>
+<title>Computation of the Internet Checksum via Incremental Update</title>
+<author initials='A.' surname='Rijsinghani' fullname='A. Rijsinghani' role='editor'><organization /></author>
 <date year='1994' month='May' />
-<abstract>
-<t>This memo describes an updated technique for incremental computation of the standard Internet checksum.  It updates the method described in RFC 1141.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1624' />
-<format type='TXT' octets='9836' target='http://www.rfc-editor.org/rfc/rfc1624.txt' />
+<abstract><t>This memo describes an updated technique for incremental computation of the standard Internet checksum.  It updates the method described in RFC 1141.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1624'/>
+<seriesInfo name='DOI' value='10.17487/RFC1624'/>
 </reference>

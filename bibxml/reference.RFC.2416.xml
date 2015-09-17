@@ -1,46 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2416'>
-
+<reference  anchor='RFC2416' target='http://www.rfc-editor.org/info/rfc2416'>
 <front>
-<title abbrev='TCP with Four Packets into Three Buffers'>When TCP Starts Up With Four Packets Into Only Three Buffers</title>
-<author initials='T.' surname='Shepard' fullname='Tim Shepard'>
-<organization>BBN Technologies</organization>
-<address>
-<postal>
-<street>10 Moulton Street</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code> 02138</code>
-<country>USA</country></postal>
-<email>shep@alum.mit.edu</email></address></author>
-<author initials='C.' surname='Partridge' fullname='Craig Partridge'>
-<organization>BBN Technologies</organization>
-<address>
-<postal>
-<street>10 Moulton Street</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02138</code>
-<country>USA</country></postal>
-<email>craig@bbn.com</email></address></author>
+<title>When TCP Starts Up With Four Packets Into Only Three Buffers</title>
+<author initials='T.' surname='Shepard' fullname='T. Shepard'><organization /></author>
+<author initials='C.' surname='Partridge' fullname='C. Partridge'><organization /></author>
 <date year='1998' month='September' />
-<area>Transport</area>
-<keyword>TCP</keyword>
-<keyword>transmission control protocol</keyword>
-<abstract>
-<t>
-   This memo is to document a simple experiment.  The experiment showed
-   that in the case of a TCP receiver behind a 9600 bps modem link at
-   the edge of a fast Internet where there are only 3 buffers before the
-   modem (and the fourth packet of a four-packet start will surely be
-   dropped), no significant degradation in performance is experienced by
-   a TCP sending with a four-packet start when compared with a normal
-   slow start (which starts with just one packet).
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2416' />
-<format type='TXT' octets='12663' target='http://www.rfc-editor.org/rfc/rfc2416.txt' />
-<format type='HTML' octets='25644' target='http://xml.resource.org/public/rfc/html/rfc2416.html' />
-<format type='XML' octets='14005' target='http://xml.resource.org/public/rfc/xml/rfc2416.xml' />
+<abstract><t>This memo is to document a simple experiment.  The experiment showed that in the case of a TCP receiver behind a 9600 bps modem link at the edge of a fast Internet where there are only 3 buffers before the modem (and the fourth packet of a four-packet start will surely be dropped), no significant degradation in performance is experienced by a TCP sending with a four-packet start when compared with a normal slow start (which starts with just one packet).  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2416'/>
+<seriesInfo name='DOI' value='10.17487/RFC2416'/>
 </reference>

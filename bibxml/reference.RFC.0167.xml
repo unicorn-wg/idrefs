@@ -1,20 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0167'>
-
+<reference  anchor='RFC0167' target='http://www.rfc-editor.org/info/rfc167'>
 <front>
 <title>Socket conventions reconsidered</title>
-<author initials='A.' surname='Bhushan' fullname='Athay Bhushan'>
-<organization>Massachusetts Institute of Technology (MIT), Project MAC</organization></author>
-<author initials='B.' surname='Metcalfe' fullname='Bob Metcalfe'>
-<organization>Harvard University</organization></author>
-<author initials='J.' surname='Winett' fullname='Joel Winett'>
-<organization>Massachusetts Institute of Technology  (MIT), Lincoln Laboratory</organization></author>
-<date year='1971' day='24' month='May' />
-<abstract>
-<t>The current NCP Protocol says nothing about how hosts should assign socket numbers to process ports, except that the low-order bit is to specify socket gender (i.e., send or receive). Two recent proposals call for additional network-wide conventions on the 32-bit socket-number. The first proposal asks that a portion of the socket number be reserved for a network-unique user number for accounting and access control. The second proposal asks that the high-order 16 bits of the socket number be zero to assist smaller hosts in reducing the space required for socket number tables.</t>
-<t>It is recommended that both of these proposals be set aside.  Because a large perturbation of the current NCP Protocol is required to provide adequate handles for accounting and access control, and because the socket number is already underpowered for its use, it is recommended that both proposals be set aside until serious consideration can be given to a major NCP Protocol overhaul</t></abstract></front>
-
-<seriesInfo name='RFC' value='167' />
-<format type='TXT' octets='7643' target='http://www.rfc-editor.org/rfc/rfc167.txt' />
+<author initials='A.K.' surname='Bhushan' fullname='A.K. Bhushan'><organization /></author>
+<author initials='R.M.' surname='Metcalfe' fullname='R.M. Metcalfe'><organization /></author>
+<author initials='J.M.' surname='Winett' fullname='J.M. Winett'><organization /></author>
+<date year='1971' month='May' />
+</front>
+<seriesInfo name='RFC' value='167'/>
+<seriesInfo name='DOI' value='10.17487/RFC0167'/>
 </reference>

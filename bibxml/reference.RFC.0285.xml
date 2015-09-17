@@ -1,16 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0285'>
-
+<reference  anchor='RFC0285' target='http://www.rfc-editor.org/info/rfc285'>
 <front>
 <title>Network graphics</title>
-<author initials='D.' surname='Huff' fullname='D. Huff'>
-<organization>Case Western Reserve University (CWRU)</organization></author>
-<date year='1971' day='15' month='December' />
-<abstract>
-<t>Not much has been written about graphics on the ARPANET when the volume of the NIC collection is considered. Presently it contains some 8000 entries of which only about 20 are on the subject of graphics. The reason is probably similar to that given by L. G. Roberts in A FORWARD LOOK (NIC 7542) as the reason that data base sharing or software sharing will not be important topics for several more years: the NET hasn't been up long enough for interested people to have enough of the facts to know if it is feasible and to think creatively.</t>
-<t>This paper is therefore aimed at bringing together the present state of graphics on the NET for the newcomer and attempting to add a little more distance to the ground covered so far. I will start with an overview, then proceed to briefly describe past work, and finally add some of my own thoughts.</t></abstract></front>
-
-<seriesInfo name='RFC' value='285' />
-<format type='TXT' octets='18076' target='http://www.rfc-editor.org/rfc/rfc285.txt' />
+<author initials='D.' surname='Huff' fullname='D. Huff'><organization /></author>
+<date year='1971' month='December' />
+</front>
+<seriesInfo name='RFC' value='285'/>
+<seriesInfo name='DOI' value='10.17487/RFC0285'/>
 </reference>

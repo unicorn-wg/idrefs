@@ -1,32 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2112'>
-
+<reference  anchor='RFC2112' target='http://www.rfc-editor.org/info/rfc2112'>
 <front>
-<title abbrev='MIME Multipart/Related Content-type'>The MIME Multipart/Related Content-type</title>
-<author initials='E.' surname='Levinson' fullname='Edward Levinson'>
-<organization>XIson, Inc.</organization>
-<address>
-<postal>
-<street>47 Clive Street</street>
-<street>Metuchen</street>
-<street>NJ  08840-1060</street>
-<country>USA</country></postal>
-<phone>+1 908 549 3716</phone>
-<email>XIson@cnj.digex.com</email></address></author>
+<title>The MIME Multipart/Related Content-type</title>
+<author initials='E.' surname='Levinson' fullname='E. Levinson'><organization /></author>
 <date year='1997' month='March' />
-<keyword>MIME</keyword>
-<keyword>content-type</keyword>
-<keyword>multipurpose internet mail extensions</keyword>
-<abstract>
-<t>
-   The Multipart/Related content-type provides a common mechanism for
-   representing objects that are aggregates of related MIME body parts.
-   This document defines the Multipart/Related content-type and provides
-   examples of its use.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2112' />
-<format type='TXT' octets='17052' target='http://www.rfc-editor.org/rfc/rfc2112.txt' />
-<format type='XML' octets='20180' target='http://xml.resource.org/public/rfc/xml/rfc2112.xml' />
+<abstract><t>The Multipart/Related content-type provides a common mechanism for representing objects that are aggregates of related MIME body parts. This document defines the Multipart/Related content-type and provides examples of its use.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2112'/>
+<seriesInfo name='DOI' value='10.17487/RFC2112'/>
 </reference>

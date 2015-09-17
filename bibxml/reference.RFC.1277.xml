@@ -1,28 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1277'>
-
+<reference  anchor='RFC1277' target='http://www.rfc-editor.org/info/rfc1277'>
 <front>
-<title abbrev='Encoding Network Addresses'>Encoding Network Addresses to Support Operation over Non-OSI Lower Layers</title>
-<author initials='S.' surname='Hardcastle-Kille' fullname='Steve Hardcastle-Kille'>
-<organization>University College London, Department of Computer Science</organization>
-<address>
-<postal>
-<street>Gower Street</street>
-<city>London</city>
-<region>England</region>
-<code>WC1E 6BT</code>
-<country>UK</country></postal>
-<phone>+44 71 3807294</phone>
-<email>S.Kille@CS.UCL.AC.UK</email></address></author>
+<title>Encoding Network Addresses to Support Operation over Non-OSI Lower Layers</title>
+<author initials='S.E.' surname='Hardcastle-Kille' fullname='S.E. Hardcastle-Kille'><organization /></author>
 <date year='1991' month='November' />
-<abstract>
-<t>The OSI Directory specifies an encoding of Presentation Address, which utilises OSI Network Addresses as defined in the OSI Network Layer standards. The OSI Directory, and  any OSI application utilising the OSI Directory must be able use these Network Addresses to identify end systems.  Currently, OSI applications are often run over lower layers other than the OSI Network Service.  It is neither reasonable nor desirable for groups wishing to investigate and use OSI Applications in conjunction with the OSI Directory to be dependent on a global OSI Network Service.  This document defines a new network address format, and rules for using some existing network address formats.  The scope of this document is:</t>
-<t>1.  Any TCP/IP network supporting COTS using RFC 1006.</t>
-<t>2.  Any mapping of COTS onto X.25 (usually X.25(80)), where X.25 is not used to provide CONS (i.e., only DTE and not Network address is carried).</t>
-<t>The approach could also be extended to use with other means of providing COTS (or CLTS). It is not appropriate for use where CONS or CLNS is used to provide COTS (or CLTS).</t></abstract></front>
-
-<seriesInfo name='RFC' value='1277' />
-<format type='TXT' octets='22254' target='http://www.rfc-editor.org/rfc/rfc1277.txt' />
-<format type='PS' octets='176169' target='http://www.rfc-editor.org/rfc/rfc1277.ps' />
+<abstract><t>This document defines a new network address format, and rules for using some existing network address formats. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1277'/>
+<seriesInfo name='DOI' value='10.17487/RFC1277'/>
 </reference>

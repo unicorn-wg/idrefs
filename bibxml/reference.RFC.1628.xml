@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1628'>
-
+<reference  anchor='RFC1628' target='http://www.rfc-editor.org/info/rfc1628'>
 <front>
-<title abbrev='UPS MIB'>UPS Management Information Base</title>
-<author initials='J.' surname='Case' fullname='Jeffrey D. Case.'>
-<organization>SNMP Research, Incorporated</organization>
-<address>
-<postal>
-<street>3001 Kimberlin Heights Road</street>
-<city>Knoxville</city>
-<region>TN</region>
-<code>37920</code>
-<country>US</country></postal>
-<phone>+1 615 573 1434</phone>
-<email>case@SNMP.COM</email></address></author>
+<title>UPS Management Information Base</title>
+<author initials='J.' surname='Case' fullname='J. Case' role='editor'><organization /></author>
 <date year='1994' month='May' />
-<abstract>
-<t></t></abstract></front>
-
-<seriesInfo name='RFC' value='1628' />
-<format type='TXT' octets='83439' target='http://www.rfc-editor.org/rfc/rfc1628.txt' />
+<abstract><t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it defines objects for managing uninterruptible power supply (UPS) systems.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1628'/>
+<seriesInfo name='DOI' value='10.17487/RFC1628'/>
 </reference>

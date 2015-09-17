@@ -1,21 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0055'>
-
+<reference  anchor='RFC0055' target='http://www.rfc-editor.org/info/rfc55'>
 <front>
 <title>Prototypical implementation of the NCP</title>
-<author initials='J.' surname='Newkirk' fullname='J. Newkirk'>
-<organization>Harvard University</organization></author>
-<author initials='M.' surname='Kraley' fullname='M. Kraley'>
-<organization>Harvard University</organization></author>
-<author initials='J.' surname='Postel' fullname='J. Postel'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<author initials='S.' surname='Crocker' fullname='S. Crocker'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<date year='1970' day='19' month='June' />
-<abstract>
-<t>While involved in attempting to specify the formal protocol, we also attempted to formulate a prototypical NCP in an Algol-like language.</t></abstract></front>
-
-<seriesInfo name='RFC' value='55' />
-<format type='TXT' octets='48070' target='http://www.rfc-editor.org/rfc/rfc55.txt' />
+<author initials='J.' surname='Newkirk' fullname='J. Newkirk'><organization /></author>
+<author initials='M.' surname='Kraley' fullname='M. Kraley'><organization /></author>
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<author initials='S.D.' surname='Crocker' fullname='S.D. Crocker'><organization /></author>
+<date year='1970' month='June' />
+</front>
+<seriesInfo name='RFC' value='55'/>
+<seriesInfo name='DOI' value='10.17487/RFC0055'/>
 </reference>

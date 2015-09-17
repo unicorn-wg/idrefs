@@ -1,44 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1749'>
-
+<reference  anchor='RFC1749' target='http://www.rfc-editor.org/info/rfc1749'>
 <front>
 <title>IEEE 802.5 Station Source Routing MIB using SMIv2</title>
-<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
-<organization>cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134-1706</code>
-<country>US</country></postal>
-<phone>+1 408 526 5260</phone>
-<email>kzm@cisco.com</email></address></author>
-<author initials='F.' surname='Baker' fullname='Fred Baker'>
-<organization>cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>519 Lado Drive</street>
-<city>Santa Barbara</city>
-<region>CA</region>
-<code>93111</code>
-<country>US</country></postal>
-<phone>+1 805 681 0115</phone>
-<email>fred@cisco.com</email></address></author>
-<author initials='E.' surname='Decker' fullname='Eric B. Decker'>
-<organization>cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>1525 O'Brien Dr.</street>
-<city>Menlo Park</city>
-<region>CA</region>
-<code>94025</code>
-<country>US</country></postal>
-<phone>+1 415 688 8241</phone>
-<email>cire@cisco.com</email></address></author>
-<date year='1994' month='December' /></front>
-
-<seriesInfo name='RFC' value='1749' />
-<format type='TXT' octets='17563' target='http://www.rfc-editor.org/rfc/rfc1749.txt' />
+<author initials='K.' surname='McCloghrie' fullname='K. McCloghrie'><organization /></author>
+<author initials='F.' surname='Baker' fullname='F. Baker'><organization /></author>
+<author initials='E.' surname='Decker' fullname='E. Decker'><organization /></author>
+<date year='1994' month='December' />
+<abstract><t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects used by IEEE 802.5 end-stations for managing source routes on a Token Ring network where IEEE source- routing is in use. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1749'/>
+<seriesInfo name='DOI' value='10.17487/RFC1749'/>
 </reference>

@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0105'>
-
+<reference  anchor='RFC0105' target='http://www.rfc-editor.org/info/rfc105'>
 <front>
-<title abbrev='RJE at UCSB'>Network Specifications for Remote Job Entry and Remote Job Output Retrieval at UCSB</title>
-<author initials='J.' surname='White' fullname='James E. White'>
-<organization>University of California, Santa Barbara (UCSB), Computer Research Lab.</organization></author>
-<date year='1971' day='22' month='March' />
-<abstract>
-<t>In the discussions that follow, 'byte' means 8 bits, with those eight bits numbered 0-7 from left to right.</t></abstract></front>
-
-<seriesInfo name='RFC' value='105' />
-<format type='TXT' octets='21938' target='http://www.rfc-editor.org/rfc/rfc105.txt' />
+<title>Network Specifications for Remote Job Entry and Remote Job Output Retrieval at UCSB</title>
+<author initials='J.E.' surname='White' fullname='J.E. White'><organization /></author>
+<date year='1971' month='March' />
+</front>
+<seriesInfo name='RFC' value='105'/>
+<seriesInfo name='DOI' value='10.17487/RFC0105'/>
 </reference>

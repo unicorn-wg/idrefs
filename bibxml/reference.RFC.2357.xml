@@ -1,85 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2357'>
-
+<reference  anchor='RFC2357' target='http://www.rfc-editor.org/info/rfc2357'>
 <front>
-<title abbrev='Evaluating Reliable Multicast'>IETF Criteria for Evaluating Reliable Multicast Transport and Application Protocols</title>
-<author initials='A.' surname='Mankin' fullname='Allison Mankin'>
-<organization>USC/ISI East</organization>
-<address>
-<postal>
-<street>4350 N. Fairfax Drive</street>
-<street>Suite 620</street>
-<city>Arlington</city>
-<region>VA</region>
-<code>22203</code>
-<country>US</country></postal>
-<phone>+1 703 812 3706</phone>
-<email>mankin@isi.edu</email></address></author>
-<author initials='A.' surname='Romanov' fullname='Allyn Romanov'>
-<organization>MCI Corporation</organization>
-<address>
-<postal>
-<street>2560 North First Street</street>
-<street>San Jose</street>
-<region>CA</region>
-<code>9531</code>
-<country>USA</country></postal>
-<email>allyn@mci.net</email></address></author>
-<author initials='S.' surname='Bradner' fullname='Scott Bradner'>
-<organization>Harvard University</organization>
-<address>
-<postal>
-<street>1350 Mass. Ave.</street>
-<street>Rm. 876</street>
-<street>Cambridge MA 02138</street>
-<country>USA</country></postal>
-<phone>617 495 3864</phone>
-<email>sob@harvard.edu</email></address></author>
-<author initials='V.' surname='Paxson' fullname='Vern Paxson'>
-<organization>MS 50B/2239</organization>
-<address>
-<postal>
-<street>Lawrence Berkeley National Laboratory</street>
-<street>University of California</street>
-<street>Berkeley</street>
-<street>CA 94720</street>
-<country>USA</country></postal>
-<phone>510-486-7504</phone>
-<email>vern@ee.lbl.gov</email></address></author>
+<title>IETF Criteria for Evaluating Reliable Multicast Transport and Application Protocols</title>
+<author initials='A.' surname='Mankin' fullname='A. Mankin'><organization /></author>
+<author initials='A.' surname='Romanow' fullname='A. Romanow'><organization /></author>
+<author initials='S.' surname='Bradner' fullname='S. Bradner'><organization /></author>
+<author initials='V.' surname='Paxson' fullname='V. Paxson'><organization /></author>
 <date year='1998' month='June' />
-<area>Transport</area>
-<keyword>Internet Engineering Task Force</keyword>
-<keyword>multicast</keyword>
-<abstract>
-<t>
-   This memo describes the procedures and criteria for reviewing
-   reliable multicast protocols within the Transport Area (TSV) of the
-   IETF.  Within today&apos;s Internet, important applications exist for a
-   reliable multicast service.  Some examples that are driving reliable
-   multicast technology are collaborative workspaces (such as
-   whiteboard), data and software distribution, and (more speculatively)
-   web caching protocols.  Due to the nature of the technical issues, a
-   single commonly accepted technical solution that solves all the
-   demands for reliable multicast is likely to be infeasible [RMMinutes
-   1997].
-</t>
-<t>
-   A number of reliable multicast protocols have already been developed
-   to solve a variety of problems for various types of applications.
-    describes one widely deployed example.  How should these
-   protocols be treated within the IETF and how should the IETF guide
-   the development of reliable multicast in a direction beneficial for
-   the general Internet?
-</t>
-<t>
-   The TSV Area Directors and their Directorate have outlined a set of
-   review procedures that address these questions and set criteria and
-   processes for the publication as RFCs of Internet-Drafts on reliable
-   multicast transport protocols.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2357' />
-<format type='TXT' octets='24130' target='http://www.rfc-editor.org/rfc/rfc2357.txt' />
-<format type='XML' octets='26152' target='http://xml.resource.org/public/rfc/xml/rfc2357.xml' />
+<abstract><t>This memo describes the procedures and criteria for reviewing reliable multicast protocols within the Transport Area (TSV) of the IETF.  Within today's Internet, important applications exist for a reliable multicast service.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2357'/>
+<seriesInfo name='DOI' value='10.17487/RFC2357'/>
 </reference>

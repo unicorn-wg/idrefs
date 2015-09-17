@@ -1,26 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1760'>
-
+<reference  anchor='RFC1760' target='http://www.rfc-editor.org/info/rfc1760'>
 <front>
 <title>The S/KEY One-Time Password System</title>
-<author initials='N.' surname='Haller' fullname='Neil Haller'>
-<organization>Bellcore</organization>
-<address>
-<postal>
-<street>445 South Street</street>
-<street>MRE 2Q-280</street>
-<city>Morristown</city>
-<region>NJ</region>
-<code>07960-6438</code>
-<country>US</country></postal>
-<phone>+1 201 829 4478</phone>
-<facsimile>+1 201 829 2504</facsimile>
-<email>nmh@bellcore.com</email></address></author>
+<author initials='N.' surname='Haller' fullname='N. Haller'><organization /></author>
 <date year='1995' month='February' />
-<abstract>
-<t>This document describes the S/KEY* One-Time Password system as released for public use by Bellcore and as described in reference.  A reference implementation and documentation are available by anonymous ftp from ftp.bellcore.com in the directories pub/nmh/...</t></abstract></front>
-
-<seriesInfo name='RFC' value='1760' />
-<format type='TXT' octets='31124' target='http://www.rfc-editor.org/rfc/rfc1760.txt' />
+<abstract><t>This document describes the S/KEY* One-Time Password system as released for public use by Bellcore. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1760'/>
+<seriesInfo name='DOI' value='10.17487/RFC1760'/>
 </reference>

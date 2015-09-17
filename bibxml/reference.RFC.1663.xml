@@ -1,26 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1663'>
-
+<reference  anchor='RFC1663' target='http://www.rfc-editor.org/info/rfc1663'>
 <front>
 <title>PPP Reliable Transmission</title>
-<author initials='D.' surname='Rand' fullname='Dave Rand'>
-<organization>Novell</organization>
-<address>
-<postal>
-<street>2180 Fortune Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95131</code>
-<country>US</country></postal>
-<phone>+1 408 321 1259</phone>
-<email>dave_rand@novell.com</email></address></author>
+<author initials='D.' surname='Rand' fullname='D. Rand'><organization /></author>
 <date year='1994' month='July' />
-<abstract>
-<t>The Point-to-Point Protocol (PPP)provides a standard method for transporting multi-protocol datagrams over point-to-point links.</t>
-<t>This document defines a method for negotiating and using Numbered-Mode, as defined by ISO 7776, to provide a reliable serial link.</t>
-<t>This document is the product of the Point-to-Point Protocol Working Group of the Internet Engineering Task Force (IETF).  Comments should be submitted to the ietf-ppp@ucdavis.edu mailing list.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1663' />
-<format type='TXT' octets='17281' target='http://www.rfc-editor.org/rfc/rfc1663.txt' />
+<abstract><t>This document defines a method for negotiating and using Numbered-Mode, as defined by ISO 7776 [2], to provide a reliable serial link. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1663'/>
+<seriesInfo name='DOI' value='10.17487/RFC1663'/>
 </reference>

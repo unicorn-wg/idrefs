@@ -1,30 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2684'>
-
+<reference  anchor='RFC2684' target='http://www.rfc-editor.org/info/rfc2684'>
 <front>
-<title abbrev='Multiprotocol Over AALS'>Multiprotocol Encapsulation over ATM Adaptation Layer 5</title>
-<author initials='D.' surname='Grossman' fullname='Dan Grossman'>
-<organization>Motorola, Inc.</organization>
-<address>
-<postal>
-<street>20 Cabot Boulevard</street>
-<city>Mansfield</city>
-<region>MA</region>
-<code>02048</code>
-<country>US</country></postal>
-<email>dan@dma.isg.mot.com</email></address></author>
-<author initials='J.' surname='Heinanen' fullname='Juha Heinanen'>
-<organization>Telia Finland</organization>
-<address>
-<postal>
-<street>Myyrmaentie 2</street>
-<city>Vantaa</city>
-<code>01600</code>
-<country>FI</country></postal>
-<email>jh@telia.fi</email></address></author>
-<date year='1999' month='September' /></front>
-
-<seriesInfo name='RFC' value='2684' />
-<format type='TXT' octets='51390' target='http://www.rfc-editor.org/rfc/rfc2684.txt' />
+<title>Multiprotocol Encapsulation over ATM Adaptation Layer 5</title>
+<author initials='D.' surname='Grossman' fullname='D. Grossman'><organization /></author>
+<author initials='J.' surname='Heinanen' fullname='J. Heinanen'><organization /></author>
+<date year='1999' month='September' />
+<abstract><t>This memo replaces RFC 1483.  It describes two encapsulations methods for carrying network interconnect traffic over AAL type 5 over  ATM. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2684'/>
+<seriesInfo name='DOI' value='10.17487/RFC2684'/>
 </reference>

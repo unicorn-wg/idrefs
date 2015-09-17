@@ -1,30 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1583'>
-
+<reference  anchor='RFC1583' target='http://www.rfc-editor.org/info/rfc1583'>
 <front>
 <title>OSPF Version 2</title>
-<author initials='J.' surname='Moy' fullname='John Moy'>
-<organization>Proteon, Inc.</organization>
-<address>
-<postal>
-<street>9 Technology Drive</street>
-<city>Westborough</city>
-<region>MA</region>
-<code>01581</code>
-<country>US</country></postal>
-<phone>+1 508 898 2800</phone>
-<facsimile>+1 508 898 3176</facsimile>
-<email>jmoy@proteon.com</email></address></author>
+<author initials='J.' surname='Moy' fullname='J. Moy'><organization /></author>
 <date year='1994' month='March' />
-<abstract>
-<t>This memo documents version 2 of the OSPF protocol.  OSPF is a link-state routing protocol.  It is designed to be run internal to a single Autonomous System.  Each OSPF router maintains an identical database describing the Autonomous System's topology.  From this database, a routing table is calculated by constructing a shortest- path tree.</t>
-<t>OSPF recalculates routes quickly in the face of topological changes, utilizing a minimum of routing protocol traffic.  OSPF provides support for equal-cost multipath.  Separate routes can be calculated for each IP Type of Service.  An area routing capability is provided, enabling an additional level of routing protection and a reduction in routing protocol traffic.  In addition, all OSPF routing protocol exchanges are authenticated.</t>
-<t>OSPF Version 2 was originally documented in RFC 1247. The differences between RFC 1247 and this memo are explained in Appendix E. The differences consist of bug fixes and clarifications, and are backward-compatible in nature. Implementations of RFC 1247 and of this memo will interoperate.</t>
-<t>Please send comments to ospf@gated.cornell.edu.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1583' />
-<format type='TXT' octets='532636' target='http://www.rfc-editor.org/rfc/rfc1583.txt' />
-<format type='PS' octets='990794' target='http://www.rfc-editor.org/rfc/rfc1583.ps' />
-<format type='PDF' octets='465711' target='http://www.rfc-editor.org/rfc/rfc1583.pdf' />
+<abstract><t>This memo documents version 2 of the OSPF protocol.  OSPF is a link- state routing protocol. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1583'/>
+<seriesInfo name='DOI' value='10.17487/RFC1583'/>
 </reference>

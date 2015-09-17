@@ -1,57 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2318'>
-
+<reference  anchor='RFC2318' target='http://www.rfc-editor.org/info/rfc2318'>
 <front>
-<title abbrev='text/css Media Type'>The text/css Media Type</title>
-<author initials='H.' surname='Lie' fullname='Hakon Lie'>
-<organization>W3C/INRIA</organization>
-<address>
-<postal>
-<street>2004, route des Lucioles - B.P. 93</street>
-<street>06902 Sophia Antipolis Cedex</street>
-<country>FRANCE</country></postal>
-<phone>+33 (0)492387771</phone>
-<facsimile>+33 (0)493657765</facsimile>
-<email>howcome@w3.org</email></address></author>
-<author initials='B.' surname='Bos' fullname='Bert Bos'>
-<organization />
-<address>
-<postal>
-<street>2004, route des Lucioles - B.P. 93</street>
-<street>06902 Sophia Antipolis Cedex</street>
-<country>FRANCE</country></postal>
-<phone>+33 (0)492387692</phone>
-<facsimile>+33 (0)493657765</facsimile>
-<email>bert@w3.org</email></address></author>
-<author initials='C.' surname='Lilley' fullname='Chris Lilley'>
-<organization />
-<address>
-<postal>
-<street>2004, route des Lucioles - B.P. 93</street>
-<street>06902 Sophia Antipolis Cedex</street>
-<country>FRANCE</country></postal>
-<phone>+33 (0)492387987</phone>
-<facsimile>+33 (0)493657765</facsimile>
-<email>chris@w3.org</email></address></author>
+<title>The text/css Media Type</title>
+<author initials='H.' surname='Lie' fullname='H. Lie'><organization /></author>
+<author initials='B.' surname='Bos' fullname='B. Bos'><organization /></author>
+<author initials='C.' surname='Lilley' fullname='C. Lilley'><organization /></author>
 <date year='1998' month='March' />
-<area>Applications</area>
-<keyword>CSS</keyword>
-<keyword>media type</keyword>
-<keyword>world wide web</keyword>
-<abstract>
-<t>
-
-   Cascading Style Sheets (CSS) is a style sheet language for the World
-
-   Wide Web. CSS style sheets have been in use since October 1995 using
-
-   the Media Type text/css without registration; this memo seeks to
-
-   regularize that position.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2318' />
-<format type='TXT' octets='7819' target='http://www.rfc-editor.org/rfc/rfc2318.txt' />
-<format type='XML' octets='7886' target='http://xml.resource.org/public/rfc/xml/rfc2318.xml' />
+<abstract><t>This memo provides information about the text/css Media Type.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2318'/>
+<seriesInfo name='DOI' value='10.17487/RFC2318'/>
 </reference>

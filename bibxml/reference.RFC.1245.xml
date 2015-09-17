@@ -1,28 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1245'>
-
+<reference  anchor='RFC1245' target='http://www.rfc-editor.org/info/rfc1245'>
 <front>
 <title>OSPF Protocol Analysis</title>
-<author initials='J.' surname='Moy' fullname='John Moy'>
-<organization>Proteon Inc.</organization>
-<address>
-<postal>
-<street>2 Technology Drive</street>
-<city>Westborough</city>
-<region>MA</region>
-<code>01581</code>
-<country>US</country></postal>
-<phone>+1 508 898 2800</phone>
-<email>jmoy@proteon.com</email></address></author>
-<date year='1991' day='1' month='July' />
-<abstract>
-<t>This is the first of two reports on the OSPF protocol. These reports are required by the IAB/ IESG in order for an Internet routing protocol to advance to Draft Standard Status. OSPF is a TCP/IP routing protocol, designed to be used internal to an Autonomous System (in other words, OSPF is an Interior Gateway Protocol).</t>
-<t>Version 1 of the OSPF protocol was published in RFC 1131. Since then OSPF version 2 has been developed. Version 2 has been documented in RFC 1247.  The changes between version 1 and version 2 of the OSPF protocol are explained in Appendix F of RFC 1247. It is OSPF Version 2 that is the subject of this report.</t>
-<t>This report attempts to summarize the key features of OSPF V2. It also attempts to analyze how the protocol will perform and scale in the Internet.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1245' />
-<format type='TXT' octets='26160' target='http://www.rfc-editor.org/rfc/rfc1245.txt' />
-<format type='PS' octets='33546' target='http://www.rfc-editor.org/rfc/rfc1245.ps' />
-<format type='PDF' octets='31723' target='http://www.rfc-editor.org/rfc/rfc1245.pdf' />
+<author initials='J.' surname='Moy' fullname='J. Moy'><organization /></author>
+<date year='1991' month='July' />
+<abstract><t>This report attempts to summarize the key features of OSPF V2. It also attempts to analyze how the protocol will perform and scale in the Internet. This memo provides information for the Internet community. It does not specify any Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1245'/>
+<seriesInfo name='DOI' value='10.17487/RFC1245'/>
 </reference>

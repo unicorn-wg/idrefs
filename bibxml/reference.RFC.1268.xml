@@ -1,36 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1268'>
-
+<reference  anchor='RFC1268' target='http://www.rfc-editor.org/info/rfc1268'>
 <front>
-<title abbrev='Application of BGP in the Internet'>Application of the Border Gateway Protocol in the Internet</title>
-<author initials='Y.' surname='Rekhter' fullname='Yakov Rekhter'>
-<organization>IBM Corporation, T.J. Watson Research Center</organization>
-<address>
-<postal>
-<street>P.O. Box 218</street>
-<city>Yorktown Heights</city>
-<region>NY</region>
-<code>10598</code>
-<country>US</country></postal>
-<phone>+1 914 945 3896</phone>
-<email>yakov@watson.ibm.com</email></address></author>
-<author initials='P.' surname='Gross' fullname='Phill Gross'>
-<organization>Advanced Network and Services (ANS)</organization>
-<address>
-<postal>
-<street>100 Clearbrook Road</street>
-<city>Elmsford</city>
-<region>NY</region>
-<code>10523</code>
-<country>US</country></postal>
-<phone>+1 914 789 5300</phone>
-<email>pgross@NIS.ANS.NET</email></address></author>
-<date year='1991' day='1' month='October' />
-<abstract>
-<t>This document, together with its companion document, "A Border Gateway Protocol (BGP-3)", define an inter-autonomous system routing protocol for the Internet.  "A Border Gateway Protocol (BGP-3)" defines the BGP protocol specification, and this document describes the usage of the BGP in the Internet.</t>
-<t>Information about the progress of BGP can be monitored and/or reported on the BGP mailing list (iwg@rice.edu).</t></abstract></front>
-
-<seriesInfo name='RFC' value='1268' />
-<format type='TXT' octets='31102' target='http://www.rfc-editor.org/rfc/rfc1268.txt' />
+<title>Application of the Border Gateway Protocol in the Internet</title>
+<author initials='Y.' surname='Rekhter' fullname='Y. Rekhter'><organization /></author>
+<author initials='P.' surname='Gross' fullname='P. Gross'><organization /></author>
+<date year='1991' month='October' />
+<abstract><t>This document describes the usage of the BGP in the Internet. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1268'/>
+<seriesInfo name='DOI' value='10.17487/RFC1268'/>
 </reference>

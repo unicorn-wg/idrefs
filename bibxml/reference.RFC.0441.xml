@@ -1,17 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0441'>
-
+<reference  anchor='RFC0441' target='http://www.rfc-editor.org/info/rfc441'>
 <front>
-<title abbrev='Inter-Entity Communication'>Inter-Entity Communication - an experiment</title>
-<author initials='B.' surname='Bressler' fullname='Bob Bressler'>
-<organization /></author>
-<author initials='B.' surname='Thomas' fullname='Bob Thomas'>
-<organization /></author>
-<date year='1973' day='19' month='January' />
-<abstract>
-<t>This note is an attempt to be a status report concerning an experiment based on the desire of users, at their consoles, to converse with one another, and perhaps to get some debugging assistance.</t></abstract></front>
-
-<seriesInfo name='RFC' value='441' />
-<format type='TXT' octets='12876' target='http://www.rfc-editor.org/rfc/rfc441.txt' />
+<title>Inter-Entity Communication - an experiment</title>
+<author initials='R.D.' surname='Bressler' fullname='R.D. Bressler'><organization /></author>
+<author initials='R.' surname='Thomas' fullname='R. Thomas'><organization /></author>
+<date year='1973' month='January' />
+</front>
+<seriesInfo name='RFC' value='441'/>
+<seriesInfo name='DOI' value='10.17487/RFC0441'/>
 </reference>

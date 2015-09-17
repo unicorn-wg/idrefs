@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1768'>
-
+<reference  anchor='RFC1768' target='http://www.rfc-editor.org/info/rfc1768'>
 <front>
-<title abbrev='CLNP Multicasting'>Host Group Extensions for CLNP Multicasting</title>
-<author initials='D.' surname='Marlow' fullname='Dave Marlow'>
-<organization>NSWC-DD</organization>
-<address>
-<postal>
-<street>Code B35</street>
-<city>Dahlgren</city>
-<region>VA</region>
-<code>22448</code>
-<country>US</country></postal>
-<phone>+1 703 663 1675</phone>
-<email>dmarlow@relay.nswc.navy.mil</email></address></author>
+<title>Host Group Extensions for CLNP Multicasting</title>
+<author initials='D.' surname='Marlow' fullname='D. Marlow'><organization /></author>
 <date year='1995' month='March' />
-<abstract>
-<t>This memo documents work performed in the TUBA (TCP/UDP over Bigger Addresses) working group of IPng area prior to the July 1994 decision to utilize SIPP-16 as the basis for IPng.  The TUBA group worked on extending the Internet Protocol suite by the use of ISO 8473 (CLNP) and its related routing protocols.  This memo describes multicast extensions to CLNP and its related routing protocols for Internet multicast use.  Publication of this memo does not imply acceptance by any IETF Working Group for the ideas expressed within.</t>
-<t>This memo provides a specification for multicast extensions to the CLNP protocol similar to those provided to IP by RFC1112.  These extensions are intended to provide the mechanisms needed by a host for multicasting in a CLNP based Internet.  This memo covers addressing extensions to the CLNP addressing structure, extensions to the CLNP protocol and extensions to the ES-IS protocol.  An appendix discusses the differences between IP multicast and the CLNP multicast approach provided in this memo.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1768' />
-<format type='TXT' octets='111499' target='http://www.rfc-editor.org/rfc/rfc1768.txt' />
+<abstract><t>This memo provides a specification for multicast extensions to the CLNP protocol similar to those provided to IP by RFC1112. This memo defines an Experimental Protocol for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1768'/>
+<seriesInfo name='DOI' value='10.17487/RFC1768'/>
 </reference>

@@ -1,33 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2142'>
-
+<reference  anchor='RFC2142' target='http://www.rfc-editor.org/info/rfc2142'>
 <front>
-<title abbrev='Mailbox Names'>MAILBOX NAMES FOR COMMON SERVICES, ROLES AND FUNCTIONS</title>
-<author initials='D.' surname='Crocker' fullname='Dave Crocker'>
-<organization>Internet Mail Consortium</organization>
-<address>
-<postal>
-<street>127 Segre Ave.</street>
-<street>Santa Cruz</street>
-<country>CA</country></postal>
-<phone>+1 408 246 8253</phone>
-<email>dcrocker@imc.org</email></address></author>
+<title>Mailbox Names for Common Services, Roles and Functions</title>
+<author initials='D.' surname='Crocker' fullname='D. Crocker'><organization /></author>
 <date year='1997' month='May' />
-<area>Applications</area>
-<keyword>mail</keyword>
-<abstract>
-<t>
-   This specification enumerates and describes Internet mail addresses
-   (mailbox name @ host reference) to be used when contacting personnel
-   at an organization.  Mailbox names are provided for both operations
-   and business functions.  Additional mailbox names and aliases are not
-   prohibited, but organizations which support email exchanges with the
-   Internet are encouraged to support AT LEAST each mailbox name for
-   which the associated function exists within the organization.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2142' />
-<format type='TXT' octets='12195' target='http://www.rfc-editor.org/rfc/rfc2142.txt' />
-<format type='XML' octets='16712' target='http://xml.resource.org/public/rfc/xml/rfc2142.xml' />
+<abstract><t>This specification enumerates and describes Internet mail addresses (mailbox name @ host reference) to be used when contacting personnel at an organization. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2142'/>
+<seriesInfo name='DOI' value='10.17487/RFC2142'/>
 </reference>

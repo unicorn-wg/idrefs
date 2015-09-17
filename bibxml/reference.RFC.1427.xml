@@ -1,49 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1427'>
-
+<reference  anchor='RFC1427' target='http://www.rfc-editor.org/info/rfc1427'>
 <front>
-<title abbrev='SMTP Size Declaration'>SMTP Service Extension for Message Size Declaration</title>
-<author initials='J.' surname='Klensin' fullname='John Klensin'>
-<organization>United Nations University</organization>
-<address>
-<postal>
-<street>PO Box 500</street>
-<street>Charles Street Station</street>
-<city>Boston</city>
-<region>MA</region>
-<code>02114-0500</code>
-<country>US</country></postal>
-<phone>+1 617 227 8747</phone>
-<facsimile>+1 617 491 6266</facsimile>
-<email>klensin@infoods.unu.edu</email></address></author>
-<author initials='N.' surname='Freed' fullname='Ned Freed'>
-<organization>Innosoft International, Inc.</organization>
-<address>
-<postal>
-<street>250 West First Street</street>
-<street>Suite 240</street>
-<city>Claremont</city>
-<region>CA</region>
-<code>91711</code>
-<country>US</country></postal>
-<phone>+1 909 624 7907</phone>
-<facsimile>+1 909 621 5319</facsimile>
-<email>ned@innosoft.com</email></address></author>
-<author initials='K.' surname='Moore' fullname='Keith Moore'>
-<organization>University of Tennessee, Computer Science Dept.</organization>
-<address>
-<postal>
-<street>107 Ayres Hall</street>
-<city>Knoxville</city>
-<region>TN</region>
-<code>37996-1301</code>
-<country>US</country></postal>
-<email>moore@cs.utk.edu</email></address></author>
+<title>SMTP Service Extension for Message Size Declaration</title>
+<author initials='J.' surname='Klensin' fullname='J. Klensin'><organization /></author>
+<author initials='WG' surname='Chair' fullname='WG Chair' role='WG Chair'><organization /></author>
+<author initials='N.' surname='Freed' fullname='N. Freed' role='editor'><organization /></author>
+<author initials='K.' surname='Moore' fullname='K. Moore'><organization /></author>
 <date year='1993' month='February' />
-<abstract>
-<t>This memo defines an extension to the SMTP service whereby an SMTP client and server may interact to give the server an opportunity to decline to accept a message (perhaps temporarily) based on the client's estimate of the message size.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1427' />
-<format type='TXT' octets='17856' target='http://www.rfc-editor.org/rfc/rfc1427.txt' />
+<abstract><t>This memo defines an extension to the SMTP service whereby an SMTP client and server may interact to give the server an opportunity to decline to accept a message (perhaps temporarily) based on the client's estimate of the message size.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1427'/>
+<seriesInfo name='DOI' value='10.17487/RFC1427'/>
 </reference>

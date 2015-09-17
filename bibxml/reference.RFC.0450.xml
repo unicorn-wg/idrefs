@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0450'>
-
+<reference  anchor='RFC0450' target='http://www.rfc-editor.org/info/rfc450'>
 <front>
 <title>MULTICS sampling timeout change</title>
-<author initials='M.' surname='Padlipsky' fullname='Mike Padlipsky'>
-<organization>Massachusetts Institute of Technology (MIT), Multics</organization></author>
-<date year='1973' day='8' month='February' />
-<abstract>
-<t>In response to popular demand, and in view of the fact that we've found an extra bit of budget, the timeout on sampling ("anonymous") use of Multics via the Net has been increased to 5 cpu minutes (from 1 cpu minute); coupled with various internal speedups, this change should allow the performance of substantive experiments in a single session.</t></abstract></front>
-
-<seriesInfo name='RFC' value='450' />
-<format type='TXT' octets='924' target='http://www.rfc-editor.org/rfc/rfc450.txt' />
+<author initials='M.A.' surname='Padlipsky' fullname='M.A. Padlipsky'><organization /></author>
+<date year='1973' month='February' />
+</front>
+<seriesInfo name='RFC' value='450'/>
+<seriesInfo name='DOI' value='10.17487/RFC0450'/>
 </reference>

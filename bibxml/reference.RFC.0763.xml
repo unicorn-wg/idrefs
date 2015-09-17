@@ -1,17 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0763'>
-
+<reference  anchor='RFC0763' target='http://www.rfc-editor.org/info/rfc763'>
 <front>
 <title>Role mailboxes</title>
-<author initials='M.' surname='Abrams' fullname='Marshall Abrams'>
-<organization>National Bureau of Standards (NBS)</organization></author>
-<date year='1980' day='7' month='May' />
-<abstract>
-<t>Occasionally it is necessary to send mail to someone on the net who is known only as the incumbent in an official position.  Often the mail is undeliverable because of employee turnover.</t>
-<t>We have also had such a problem at NBS and have therefore created MAIL address synonyms such as SYSTEMS, MANAGEMENT, and LIAISON to ensure that mail is correctly delivered no matter who the incumbent happens to be.</t>
-<t>I suggest that all systems which permit MAIL address synonyms install them.  I further suggest that the NIC or the ARPANet management select a standardized set of synonyms, thus increasing their utility.</t></abstract></front>
-
-<seriesInfo name='RFC' value='763' />
-<format type='TXT' octets='942' target='http://www.rfc-editor.org/rfc/rfc763.txt' />
+<author initials='M.D.' surname='Abrams' fullname='M.D. Abrams'><organization /></author>
+<date year='1980' month='May' />
+</front>
+<seriesInfo name='RFC' value='763'/>
+<seriesInfo name='DOI' value='10.17487/RFC0763'/>
 </reference>

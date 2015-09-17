@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0302'>
-
+<reference  anchor='RFC0302' target='http://www.rfc-editor.org/info/rfc302'>
 <front>
 <title>Exercising The ARPANET</title>
-<author initials='R.' surname='Bryan' fullname='Roland F. Bryan'>
-<organization>University California Santa Barbara (UCSB), Computer Research Laboratory</organization></author>
-<date year='1972' day='8' month='February' /></front>
-
-<seriesInfo name='RFC' value='302' />
-<format type='TXT' octets='5452' target='http://www.rfc-editor.org/rfc/rfc302.txt' />
+<author initials='R.F.' surname='Bryan' fullname='R.F. Bryan'><organization /></author>
+<date year='1972' month='February' />
+</front>
+<seriesInfo name='RFC' value='302'/>
+<seriesInfo name='DOI' value='10.17487/RFC0302'/>
 </reference>

@@ -1,41 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2697'>
-
+<reference  anchor='RFC2697' target='http://www.rfc-editor.org/info/rfc2697'>
 <front>
-<title abbrev='A Single Rate Three Color Marker'>A Single Rate Three Color Marker</title>
-<author initials='J.' surname='Heinanen' fullname='Juha Heinanen'>
-<organization>Telia Finland, Inc.</organization>
-<address>
-<postal>
-<street>Myyrmaentie 2</street>
-<city>Vantaa</city>
-<code>01600</code>
-<country>FI</country></postal>
-<email>jh@telia.fi</email></address></author>
-<author initials='R.' surname='Guerin' fullname='Roch Guerin'>
-<organization>University of Pennsylvania</organization>
-<address>
-<postal>
-<street>Department of Electrical Engineering</street>
-<street>Room 367 GRW</street>
-<street>200 South 33rd Street</street>
-<city>Philadelphia</city>
-<region>PA</region>
-<code>19104</code>
-<country>US</country></postal>
-<email>guerin@ee.upenn.edu</email></address></author>
+<title>A Single Rate Three Color Marker</title>
+<author initials='J.' surname='Heinanen' fullname='J. Heinanen'><organization /></author>
+<author initials='R.' surname='Guerin' fullname='R. Guerin'><organization /></author>
 <date year='1999' month='September' />
-<abstract>
-<t>This document defines a Single Rate Three Color Marker (srTCM),
-which can be used as component in a Diffserv traffic conditionerand.
-The srTCM meters a traffic stream and marks its packets according to
-three traffic parameters, Committed Information Rate (CIR), Committed
-Burst Size (CBS), and Excess Burst Size (EBS), to be either green,
-yellow, or red.
-A packet is marked green if it doesn't exceed the CBS, yellow if it
-does exceed the CBS, but not the EBS, and red otherwise.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2697' />
-<format type='TXT' octets='10309' target='http://www.rfc-editor.org/rfc/rfc2697.txt' />
+<abstract><t>This document defines a Single Rate Three Color Marker (srTCM), which can be used as component in a Diffserv traffic conditioner.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2697'/>
+<seriesInfo name='DOI' value='10.17487/RFC2697'/>
 </reference>

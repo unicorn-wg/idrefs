@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2630'>
-
+<reference  anchor='RFC2630' target='http://www.rfc-editor.org/info/rfc2630'>
 <front>
 <title>Cryptographic Message Syntax</title>
-<author initials='R.' surname='Housley' fullname='Russell Housley'>
-<organization>SPYRUS</organization>
-<address>
-<postal>
-<street>381 Elden Street</street>
-<street>Suite 1120</street>
-<city>Herndon</city>
-<region>VA</region>
-<code>20170</code>
-<country>US</country></postal>
-<email>housley@spyrus.com</email></address></author>
+<author initials='R.' surname='Housley' fullname='R. Housley'><organization /></author>
 <date year='1999' month='June' />
-<abstract>
-<t>This document describes the Cryptographic Message Syntax. This syntax is used to digitally sign, digest, authenticate, or encrypt arbitrary messages.</t>
-<t>The Cryptographic Message Syntax is derived from PKCS #7 version 1.5 as specified in . Wherever possible, backward compatibility is preserved; however, changes were necessary to accommodate attribute certificate transfer and key agreement techniques for key management.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2630' />
-<format type='TXT' octets='128599' target='http://www.rfc-editor.org/rfc/rfc2630.txt' />
+<abstract><t>This document describes the Cryptographic Message Syntax.  This syntax is used to digitally sign, digest, authenticate, or encrypt arbitrary messages.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2630'/>
+<seriesInfo name='DOI' value='10.17487/RFC2630'/>
 </reference>

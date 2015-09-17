@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0657'>
-
+<reference  anchor='RFC0657' target='http://www.rfc-editor.org/info/rfc657'>
 <front>
 <title>Telnet output vertical tab disposition option</title>
-<author initials='D.' surname='Crocker' fullname='D. Crocker'>
-<organization>University of California, Los Angeles (UCLA), NMC</organization></author>
-<date year='1974' day='25' month='October' /></front>
-
-<seriesInfo name='RFC' value='657' />
-<format type='TXT' octets='5759' target='http://www.rfc-editor.org/rfc/rfc657.txt' />
+<author initials='D.' surname='Crocker' fullname='D. Crocker'><organization /></author>
+<date year='1974' month='October' />
+</front>
+<seriesInfo name='RFC' value='657'/>
+<seriesInfo name='DOI' value='10.17487/RFC0657'/>
 </reference>

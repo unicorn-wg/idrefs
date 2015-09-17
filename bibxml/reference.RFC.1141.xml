@@ -1,33 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1141'>
-
+<reference  anchor='RFC1141' target='http://www.rfc-editor.org/info/rfc1141'>
 <front>
-<title abbrev='Incremental Updating'>Incremental updating of the Internet checksum</title>
-<author initials='T.' surname='Mallory' fullname='Tracy Mallory'>
-<organization>Bolt Baranek and Newman Communications Corporation</organization>
-<address>
-<postal>
-<street>50 Moulton Street</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02238</code>
-<country>US</country></postal>
-<phone>+1 617 873 3193</phone>
-<email>tmallory@CCV.BBN.COM</email></address></author>
-<author initials='A.' surname='Kullberg' fullname='A. Kullberg'>
-<organization>Bolt Baranek and Newman Communications Corporation</organization>
-<address>
-<postal>
-<street>50 Moulton Street</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02238</code>
-<country>US</country></postal>
-<phone>+1 617 873 4000</phone>
-<email>akullberg@BBN.COM</email></address></author>
-<date year='1990' day='1' month='January' /></front>
-
-<seriesInfo name='RFC' value='1141' />
-<format type='TXT' octets='3587' target='http://www.rfc-editor.org/rfc/rfc1141.txt' />
+<title>Incremental updating of the Internet checksum</title>
+<author initials='T.' surname='Mallory' fullname='T. Mallory'><organization /></author>
+<author initials='A.' surname='Kullberg' fullname='A. Kullberg'><organization /></author>
+<date year='1990' month='January' />
+<abstract><t>This memo correctly describes the incremental update procedure for use with the standard Internet checksum.  It is intended to replace the description of Incremental Update in RFC 1071.  This is not a standard but rather, an implementation technique.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1141'/>
+<seriesInfo name='DOI' value='10.17487/RFC1141'/>
 </reference>

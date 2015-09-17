@@ -1,26 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1454'>
-
+<reference  anchor='RFC1454' target='http://www.rfc-editor.org/info/rfc1454'>
 <front>
-<title abbrev='Comparison of Next Version IP Proposals'>Comparison of Proposals for Next Version of IP</title>
-<author initials='T.' surname='Dixon' fullname='Tim Dixon'>
-<organization>RARE</organization>
-<address>
-<postal>
-<street>Singel 466-468</street>
-<city>Amsterdam</city>
-<region />
-<code>NL-1017AW</code>
-<country>NL</country></postal>
-<phone>+31 20 6391131</phone>
-<email>dixon@rare.nl</email></address></author>
+<title>Comparison of Proposals for Next Version of IP</title>
+<author initials='T.' surname='Dixon' fullname='T. Dixon'><organization /></author>
 <date year='1993' month='May' />
-<abstract>
-<t>This is a slightly edited reprint of RARE Technical Report (RTC(93)004).</t>
-<t>The following is a brief summary of the characteristics of the three main proposals for replacing the current Internet Protocol. It is not intended to be exhaustive or definitive (a brief bibliography at the end points to sources of more information), but to serve as input to the European discussions on these proposals, to be co-ordinated by RARE and RIPE. It should be recognised that the proposals are themselves "moving targets", and in so far as this paper is accurate at all, it reflects the position at the 25th IETF meeting in Washington, DC. Comments from Ross Callon and Paul Tsuchiya on the original draft have been incorporated.  Note that for a time the term "IPv7" was use to mean the eventual next version of IP, but that the same term was closely associated with a particilar proposal, so the term "IPng" is now used to identify the eventual next generation of IP.</t>
-<t>The paper begins with a "generic" discussion of the mechanisms for solving problems and achieving particular goals, before discussing the proposals invidually.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1454' />
-<format type='TXT' octets='35064' target='http://www.rfc-editor.org/rfc/rfc1454.txt' />
+<abstract><t>This is a slightly edited reprint of RARE Technical Report (RTC(93)004). This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1454'/>
+<seriesInfo name='DOI' value='10.17487/RFC1454'/>
 </reference>

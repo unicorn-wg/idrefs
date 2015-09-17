@@ -1,37 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1984'>
-
+<reference  anchor='RFC1984' target='http://www.rfc-editor.org/info/rfc1984'>
 <front>
 <title>IAB and IESG Statement on Cryptographic Technology and the Internet</title>
-<author>
-<organization>IAB</organization></author>
-<author>
-<organization>IESG</organization></author>
-<author initials='B.E.' surname='Carpenter' fullname='Brian E. Carpenter'>
-<organization>CERN, European Laboratory for Particle Physics</organization>
-<address>
-<postal>
-<street>1211 Geneva 23</street>
-<city />
-<region />
-<code />
-<country>CH</country></postal>
-<phone>+41 22 7674967</phone>
-<email>brian@dxcoms.cern.ch</email></address></author>
-<author initials='F.' surname='Baker' fullname='Fred Baker'>
-<organization>cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>519 Lado Drive</street>
-<city>Santa Barbara</city>
-<region>CA</region>
-<code>93111</code>
-<country>US</country></postal>
-<phone>+1 805 681 0115</phone>
-<email>fred@cisco.com</email></address></author>
-<date year='1996' month='August' /></front>
-
-<seriesInfo name='RFC' value='1984' />
-<format type='TXT' octets='10738' target='http://www.rfc-editor.org/rfc/rfc1984.txt' />
+<author><organization>IAB</organization></author>
+<author initials='IESG' surname='' fullname='IESG'><organization /></author>
+<date year='1996' month='August' />
+<abstract><t>The Internet Architecture Board (IAB) and the Internet Engineering Steering Group (IESG), the bodies which oversee architecture and standards for the Internet, are concerned by the need for increased protection of international commercial transactions on the Internet, and by the need to offer all Internet users an adequate degree of privacy. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1984'/>
+<seriesInfo name='DOI' value='10.17487/RFC1984'/>
 </reference>

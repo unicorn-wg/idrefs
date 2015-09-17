@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0806'>
-
+<reference  anchor='RFC0806' target='http://www.rfc-editor.org/info/rfc806'>
 <front>
 <title>Proposed Federal Information Processing Standard: Specification for message format for computer based message systems</title>
-<author>
-<organization>National Bureau of Standards</organization></author>
-<date year='1981' day='1' month='September' /></front>
-
-<seriesInfo name='RFC' value='806' />
-<format type='TXT' octets='216377' target='http://www.rfc-editor.org/rfc/rfc806.txt' />
+<author><organization>National Bureau of Standards</organization></author>
+<date year='1981' month='September' />
+<abstract><t>This RFC deals with Computer Based Message systems which provides a basis for interaction between different CBMS by defining the format of messages passed between them.  This RFC is replaced by RFC 841.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='806'/>
+<seriesInfo name='DOI' value='10.17487/RFC0806'/>
 </reference>

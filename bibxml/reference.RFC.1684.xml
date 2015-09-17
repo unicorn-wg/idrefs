@@ -1,28 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1684'>
-
+<reference  anchor='RFC1684' target='http://www.rfc-editor.org/info/rfc1684'>
 <front>
-<title abbrev='Introduction to X.500 White Pages Services'>Introduction to White Pages Services based on X.500</title>
-<author initials='P.' surname='Jurg' fullname='Peter Jurg'>
-<organization>SURFnet bv</organization>
-<address>
-<postal>
-<street>Postbus 19035</street>
-<city>Utrecht</city>
-<region />
-<code>NL-3501 DA</code>
-<country>NL</country></postal>
-<phone>+31 30 310290</phone>
-<facsimile>+31 20 340903</facsimile>
-<email>Peter.Jurg@surfnet.nl</email></address></author>
+<title>Introduction to White Pages Services based on X.500</title>
+<author initials='P.' surname='Jurg' fullname='P. Jurg'><organization /></author>
 <date year='1994' month='August' />
-<abstract>
-<t>This document aims at organisations who are using local and global electronic communication on a day to day basis and for whom using an electronic White Pages Service is therefore indispensable.</t>
-<t>The document provides an introduction to the international ITU-T (formerly CCITT) X.500 and ISO 9594 standard, which is particularly suited for providing an integrated local and global electronic White Pages Service.</t>
-<t>In addition a short overview of the experience gained from the Paradise X.500 pilot is given. References to more detailed information are included.</t>
-<t>The document should be useful for managers of the above mentioned organisations who need to get the necessary executive commitment for making the address information of their organisation available by means of X.500.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1684' />
-<format type='TXT' octets='22985' target='http://www.rfc-editor.org/rfc/rfc1684.txt' />
+<abstract><t>The document provides an introduction to the international ITU-T (formerly CCITT) X.500 and ISO 9594 standard, which is particularly suited for providing an integrated local and global electronic White Pages Service.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1684'/>
+<seriesInfo name='DOI' value='10.17487/RFC1684'/>
 </reference>

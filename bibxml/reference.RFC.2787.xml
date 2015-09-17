@@ -1,36 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2787'>
-
+<reference  anchor='RFC2787' target='http://www.rfc-editor.org/info/rfc2787'>
 <front>
-<title abbrev='VRRP MIB Management Objects'>Definitions of Managed Objects for the Virtual Router Redundancy Protocol</title>
-<author initials='B.' surname='Jewell' fullname='Brian R. Jewell'>
-<organization>Copper Mountain Networks, Inc.</organization>
-<address>
-<postal>
-<street>2470 Embarcadero Way</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94303</code>
-<country>US</country></postal>
-<phone>+1 650 687 3367</phone>
-<email>bjewell@coppermountain.com</email></address></author>
-<author initials='D.' surname='Chuang' fullname='David Chuang'>
-<organization>CoSine Communications</organization>
-<address>
-<postal>
-<street>1200 Bridge Parkway</street>
-<city>Redwood City</city>
-<region>CA</region>
-<code>94065</code>
-<country>US</country></postal>
-<phone>+1 650 628 4850</phone>
-<email>david_chuang@cosinecom.com</email></address></author>
+<title>Definitions of Managed Objects for the Virtual Router Redundancy Protocol</title>
+<author initials='B.' surname='Jewell' fullname='B. Jewell'><organization /></author>
+<author initials='D.' surname='Chuang' fullname='D. Chuang'><organization /></author>
 <date year='2000' month='March' />
-<abstract>
-<t>This specification defines an extension to the Management Information Base (MIB) for use with SNMP-based network management.  In particular, it defines objects for configuring, monitoring, and controlling routers that employ the Virtual Router Redundancy Protocol (VRRP).</t>
-<t>This memo specifies a MIB module in a manner that is compliant with SMIv2, and semantically identical to the SMIv1 definitions.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2787' />
-<format type='TXT' octets='56672' target='http://www.rfc-editor.org/rfc/rfc2787.txt' />
+<abstract><t>This specification defines an extension to the Management Information Base (MIB) for use with SNMP-based network management.  In particular, it defines objects for configuring, monitoring, and controlling routers that employ the Virtual Router Redundancy Protocol (VRRP).  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2787'/>
+<seriesInfo name='DOI' value='10.17487/RFC2787'/>
 </reference>

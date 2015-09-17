@@ -1,75 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC3253'>
-
+<reference  anchor='RFC3253' target='http://www.rfc-editor.org/info/rfc3253'>
 <front>
-<title abbrev='Versioning Extensions to WebDAV'>Versioning Extensions to WebDAV (Web Distributed Authoring and Versioning)</title>
-<author initials='G.' surname='Clemm' fullname='Geoffrey Clemm'>
-<organization>Rational Software</organization>
-<address>
-<postal>
-<street>20 Maguire Road</street>
-<city>Lexington</city>
-<region>MA</region>
-<code>02421</code>
-<country>US</country></postal>
-<email>geoffrey.clemm@rational.com</email></address></author>
-<author initials='J.' surname='Amsden' fullname='Jim Amsden'>
-<organization>IBM</organization>
-<address>
-<postal>
-<street>3039 Cornwallis</street>
-<street>Research Triangle Park</street>
-<region>NC</region>
-<code>27709</code>
-<country>US</country></postal>
-<email>jamsden@us.ibm.com</email></address></author>
-<author initials='T.' surname='Ellison' fullname='Tim Ellison'>
-<organization>IBM</organization>
-<address>
-<postal>
-<street>Hursley Park</street>
-<city>Winchester</city>
-<code>S021 2JN</code>
-<country>UK</country></postal>
-<email>tim_ellison@uk.ibm.com</email></address></author>
-<author initials='C.' surname='Kaler' fullname='Christopher Kaler'>
-<organization>Microsoft</organization>
-<address>
-<postal>
-<street>One Microsoft Way</street>
-<city>Redmond</city>
-<region>WA</region>
-<code>90852</code>
-<country>US</country></postal>
-<email>ckaler@microsoft.com</email></address></author>
-<author initials='J.' surname='Whitehead' fullname='Jim Whitehead'>
-<organization abbrev='U.C. Santa Cruz'>UC Santa Cruz, Dept. of Computer Science</organization>
-<address>
-<postal>
-<street>1156 High Street</street>
-<city>Santa Cruz</city>
-<region>CA</region>
-<code>95064</code>
-<country>US</country></postal>
-<email>ejw@cse.ucsc.edu</email></address></author>
+<title>Versioning Extensions to WebDAV (Web Distributed Authoring and Versioning)</title>
+<author initials='G.' surname='Clemm' fullname='G. Clemm'><organization /></author>
+<author initials='J.' surname='Amsden' fullname='J. Amsden'><organization /></author>
+<author initials='T.' surname='Ellison' fullname='T. Ellison'><organization /></author>
+<author initials='C.' surname='Kaler' fullname='C. Kaler'><organization /></author>
+<author initials='J.' surname='Whitehead' fullname='J. Whitehead'><organization /></author>
 <date year='2002' month='March' />
-<abstract>
-<t>
-   This document specifies a set of methods, headers, and resource types
-   that define the WebDAV (Web Distributed Authoring and Versioning)
-   versioning extensions to the HTTP/1.1 protocol.  WebDAV versioning
-   will minimize the complexity of clients that are capable of
-   interoperating with a variety of versioning repository managers, to
-   facilitate widespread deployment of applications capable of utilizing
-   the WebDAV Versioning services.  WebDAV versioning includes automatic
-   versioning for versioning-unaware clients, version history
-   management, workspace management, baseline management, activity
-   management, and URL namespace versioning.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='3253' />
-<format type='TXT' octets='245514' target='http://www.rfc-editor.org/rfc/rfc3253.txt' />
-<format type='HTML' octets='430236' target='http://xml.resource.org/public/rfc/html/rfc3253.html' />
-<format type='XML' octets='305030' target='http://xml.resource.org/public/rfc/xml/rfc3253.xml' />
+<abstract><t>This document specifies a set of methods, headers, and resource types that define the WebDAV (Web Distributed Authoring and Versioning) versioning extensions to the HTTP/1.1 protocol.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='3253'/>
+<seriesInfo name='DOI' value='10.17487/RFC3253'/>
 </reference>

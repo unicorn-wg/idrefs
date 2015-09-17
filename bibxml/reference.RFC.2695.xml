@@ -1,51 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2695'>
-
+<reference  anchor='RFC2695' target='http://www.rfc-editor.org/info/rfc2695'>
 <front>
-<title abbrev='Authentication Mechanisms for ONC RPC'>Authentication Mechanisms for ONC RPC</title>
-<author initials='A.' surname='Chiu' fullname='Alex Chiu'>
-<organization>Sun Microsystems, Inc.</organization>
-<address>
-<postal>
-<street>901 San Antonio Road</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94303</code>
-<country>US</country></postal>
-<phone>+1 650 786 6465</phone>
-<email>alex.chiu@Eng.sun.com</email></address></author>
+<title>Authentication Mechanisms for ONC RPC</title>
+<author initials='A.' surname='Chiu' fullname='A. Chiu'><organization /></author>
 <date year='1999' month='September' />
-<abstract>
-<t>This document describes two authentication mechanisms created by
-Sun Microsystems that are commonly used in conjunction with the ONC
-Remote Procedure Call (ONC RPC Version 2) protocol.</t></abstract>
-<note title='WARNING'>
-<t>The DH authentication as defined in Section 2
-in this document refers
-to the authentication mechanism with flavor AUTH_DH currently
-implemented in ONC RPC.
-It uses the underlying Diffie-Hellman
-algorithm for key exchange.
-The DH authentication defined in this
-document is flawed due to the selection of a small prime for the BASE
-field (Section 2.5).
-To avoid the flaw a new DH authentication
-mechanism could be defined with a larger prime.
-However, the new DH
-authentication would not be interoperable with the existing DH
-authentication.</t>
-<t>As illustrated in, a large number of attacks
-are possible on ONC
-RPC system services that use non-secure authentication mechanisms.
-Other secure authentication mechanisms need to be developed for ONC
-RPC.
-RFC 2203 describes the RPCSEC_GSS ONC RPC security flavor, a
-secure authentication mechanism that enables RPC protocols to use
-Generic Security Service Application Program Interface (RFC 2078) to
-provide security services, integrity and privacy, that are
-independent of the underlying security mechanisms.</t></note></front>
-
-<seriesInfo name='RFC' value='2695' />
-<format type='TXT' octets='39286' target='http://www.rfc-editor.org/rfc/rfc2695.txt' />
+<abstract><t>This document describes two authentication mechanisms created by Sun Microsystems that are commonly used in conjunction with the ONC Remote Procedure Call (ONC RPC Version 2) protocol.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2695'/>
+<seriesInfo name='DOI' value='10.17487/RFC2695'/>
 </reference>

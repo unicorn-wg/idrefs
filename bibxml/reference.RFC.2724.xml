@@ -1,59 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2724'>
-
+<reference  anchor='RFC2724' target='http://www.rfc-editor.org/info/rfc2724'>
 <front>
-<title abbrev='RTFM: New Attributes'>RTFM: New Attributes for Traffic Flow Measurement</title>
-<author initials='S.' surname='Handelman' fullname='Sig Handelman'>
-<organization>IBM Research Division, T.J. Watson Research Center</organization>
-<address>
-<postal>
-<street>P.O. Box 704</street>
-<city>Yorktown Heights</city>
-<region>NY</region>
-<code>10598</code>
-<country>US</country></postal>
-<phone>+1 914 784 7626</phone>
-<email>swhandel@us.ibm.com</email></address></author>
-<author initials='S.' surname='Stibler' fullname='Stephen Stibler'>
-<organization>IBM Research Division, T.J. Watson Research Center</organization>
-<address>
-<postal>
-<street>P.O. Box 704</street>
-<city>Yorktown Heights</city>
-<region>NY</region>
-<code>10598</code>
-<country>US</country></postal>
-<phone>+1 914 784 7191</phone>
-<email>stibler@us.ibm.com</email></address></author>
-<author initials='N.' surname='Brownlee' fullname='Nevil Brownlee'>
-<organization>The University of Auckland,  Information Technology Systems &amp; Services</organization>
-<address>
-<postal>
-<street>Private Bag 92-019</street>
-<city>Auckland</city>
-<region />
-<code />
-<country>NZ</country></postal>
-<phone>+64 9 3737599x8941</phone>
-<email>n.brownlee@auckland.ac.nz</email></address></author>
-<author initials='G.' surname='Ruth' fullname='Greg Ruth'>
-<organization>GTE Internetworking</organization>
-<address>
-<postal>
-<street>3 Van de Graaff Drive</street>
-<street>P.O. Box 3073</street>
-<city>Burlington</city>
-<region>MA</region>
-<code>01803</code>
-<country>US</country></postal>
-<phone>+1 781 262 4831</phone>
-<email>gruth@bbn.com</email></address></author>
+<title>RTFM: New Attributes for Traffic Flow Measurement</title>
+<author initials='S.' surname='Handelman' fullname='S. Handelman'><organization /></author>
+<author initials='S.' surname='Stibler' fullname='S. Stibler'><organization /></author>
+<author initials='N.' surname='Brownlee' fullname='N. Brownlee'><organization /></author>
+<author initials='G.' surname='Ruth' fullname='G. Ruth'><organization /></author>
 <date year='1999' month='October' />
-<abstract>
-<t>The RTFM Traffic Measurement Architecture provides a general framework for describing and measuring network traffic flows.  Flows are defined in terms of their Address Attribute values and measured by a 'Traffic Meter'.  This document discusses RTFM flows and the attributes which they can have, so as to provide a logical framework for extending the architecture by adding new attributes.</t>
-<t>Extensions described include Address Attributes such as DSCodePoint, SourceASN and DestASN, and Group Attributes such as short-term bit rates and turnaround times.  Quality of Service parameters for Integrated Services are also discussed.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2724' />
-<format type='TXT' octets='37951' target='http://www.rfc-editor.org/rfc/rfc2724.txt' />
+<abstract><t>This document discusses RTFM flows and the attributes which they can have, so as to provide a logical framework for extending the architecture by adding new attributes.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2724'/>
+<seriesInfo name='DOI' value='10.17487/RFC2724'/>
 </reference>

@@ -1,31 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0934'>
-
+<reference  anchor='RFC0934' target='http://www.rfc-editor.org/info/rfc934'>
 <front>
-<title abbrev='Message Encapsulation'>Proposed standard for message encapsulation</title>
-<author initials='M.' surname='Rose' fullname='Marshall T. Rose'>
-<organization>University of Delaware, Department of Computer and Information Sciences</organization>
-<address>
-<postal>
-<street />
-<city>Newark</city>
-<region>DE</region>
-<code>19716</code>
-<country>US</country></postal>
-<email>MRose@UDel.ARPA</email></address></author>
-<author initials='E.' surname='Stefferud' fullname='Einar A. Stefferud'>
-<organization>Network Management Associates, Inc.</organization>
-<address>
-<postal>
-<street>17301 Drey Lane</street>
-<city>Huntington Beach</city>
-<region>CA</region>
-<code>92647</code>
-<country>US</country></postal>
-<email>Stef@UCI.ARPA</email></address></author>
-<date year='1985' day='1' month='January' /></front>
-
-<seriesInfo name='RFC' value='934' />
-<format type='TXT' octets='21770' target='http://www.rfc-editor.org/rfc/rfc934.txt' />
+<title>Proposed standard for message encapsulation</title>
+<author initials='M.T.' surname='Rose' fullname='M.T. Rose'><organization /></author>
+<author initials='E.A.' surname='Stefferud' fullname='E.A. Stefferud'><organization /></author>
+<date year='1985' month='January' />
+<abstract><t>This memo concerns itself with message forwarding.  Forwarding can be    thought of as encapsulating one or more messages inside another.    Although this is useful for transfer of past correspondence to new    recipients, without a decapsulation process (which this memo terms    &quot;bursting&quot;), the forwarded messages are of little use to the recipients    because they can not be distributed, forwarded, replied-to, or otherwise    processed as separate individual messages. In order to burst a message    it is necessary to know how the component messages were encapsulated in    the draft.  At present there is no unambiguous standard for interest    group digests.  This RFC proposes a proposed protocol for the    ARPA-Internet community, and requests discussion and suggestions for    improvements.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='934'/>
+<seriesInfo name='DOI' value='10.17487/RFC0934'/>
 </reference>

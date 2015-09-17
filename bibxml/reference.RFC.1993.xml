@@ -1,46 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1993'>
-
+<reference  anchor='RFC1993' target='http://www.rfc-editor.org/info/rfc1993'>
 <front>
 <title>PPP Gandalf FZA Compression Protocol</title>
-<author initials='A.' surname='Barbir' fullname='A. Barbir'>
-<organization>Gandalf Data Limited</organization>
-<address>
-<postal>
-<street>130 Colonnade Road South</street>
-<city>Napean</city>
-<region>Ontario</region>
-<code>K2E 7M4</code>
-<country>CA</country></postal>
-<phone>+1 613 274 6500 x8550</phone>
-<email>abarbir@gandalf.ca</email></address></author>
-<author initials='D.' surname='Carr' fullname='D. Carr'>
-<organization>Newbridge Networks Corporation</organization>
-<address>
-<postal>
-<street>600 March Road</street>
-<street>P.O. Box 13600</street>
-<city>Kanata</city>
-<region>Ontario</region>
-<code>K2K 2E6</code>
-<country>CA</country></postal>
-<email>dcarr@newbridge.com</email></address></author>
-<author initials='W.' surname='Simpson' fullname='William Allen Simpson'>
-<organization>Computer Systems Consulting Service</organization>
-<address>
-<postal>
-<street>1384 Fontaine</street>
-<city>Madison Heights</city>
-<region>MI</region>
-<code>48071</code>
-<country>US</country></postal>
-<email>wsimpson@GreenDragon.com</email></address></author>
+<author initials='A.' surname='Barbir' fullname='A. Barbir'><organization /></author>
+<author initials='D.' surname='Carr' fullname='D. Carr'><organization /></author>
+<author initials='W.' surname='Simpson' fullname='W. Simpson'><organization /></author>
 <date year='1996' month='August' />
-<abstract>
-<t>The Point-to-Point Protocol (PPP) [provides a standard method for transporting multi-protocol datagrams over point-to-point links. The PPP Compression Control Protocolprovides a method to negotiate and utilize compression protocols over PPP encapsulated links.</t>
-<t>This document describes the use of the Gandalf FZA data compression algorithmfor compressing PPP encapsulated packets.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1993' />
-<format type='TXT' octets='9811' target='http://www.rfc-editor.org/rfc/rfc1993.txt' />
+<abstract><t>This document describes the use of the Gandalf FZA data compression algorithm [3] for compressing PPP encapsulated packets.  This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1993'/>
+<seriesInfo name='DOI' value='10.17487/RFC1993'/>
 </reference>

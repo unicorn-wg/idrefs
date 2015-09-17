@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1085'>
-
+<reference  anchor='RFC1085' target='http://www.rfc-editor.org/info/rfc1085'>
 <front>
-<title abbrev='ISO Presentation Services'>ISO presentation services on top of TCP/IP based internets</title>
-<author initials='M.' surname='Rose' fullname='Marshall T. Rose'>
-<organization>The Wollongong Group</organization>
-<address>
-<postal>
-<street>1129 San Antonio Road</street>
-<city>Palo Alto</city>
-<region>CA</region>
-<code>94303</code>
-<country>US</country></postal>
-<phone>+1 415 962 7100</phone>
-<email>mrose@TWG.COM</email></address></author>
-<date year='1988' day='1' month='December' /></front>
-
-<seriesInfo name='RFC' value='1085' />
-<format type='TXT' octets='64643' target='http://www.rfc-editor.org/rfc/rfc1085.txt' />
+<title>ISO presentation services on top of TCP/IP based internets</title>
+<author initials='M.T.' surname='Rose' fullname='M.T. Rose'><organization /></author>
+<date year='1988' month='December' />
+<abstract><t>RFC 1006 describes a mechanism for providing the ISO transport service on top of TCP/IP.  Once this method is applied, one may implement &quot;real&quot; ISO applications on top of TCP/IP-based internets, by simply implementing OSI session, presentation, and application services on top of the transport service access point which is provided on top of the TCP.  Although straight-forward, there are some environments in which the richness provided by the OSI application layer is desired, but it is nonetheless impractical to implement the underlying OSI infrastructure (i.e., the presentation, session, and transport services on top of the TCP). This memo describes an approach for providing &quot;stream-lined&quot; support of OSI application services on top of TCP/IP-based internets for such constrained environments.  This memo proposes a standard for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1085'/>
+<seriesInfo name='DOI' value='10.17487/RFC1085'/>
 </reference>

@@ -1,75 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2239'>
-
+<reference  anchor='RFC2239' target='http://www.rfc-editor.org/info/rfc2239'>
 <front>
-<title abbrev='IEEE 802.3 MIB'>Definitions of Managed Objects for IEEE 802.3 Medium Attachment Units (MAUs) using SMIv2</title>
-<author initials='K.' surname='de Graaf' fullname='Kathryn de Graaf'>
-<organization>3Com Corporation</organization>
-<address>
-<postal>
-<street>Southborough</street>
-<street>MA 01772</street>
-<country>USA</country></postal>
-<phone>(508)229-1627</phone>
-<facsimile>(508)490-5882</facsimile>
-<email>kdegraaf@isd.3com.com</email>
-<uri>pike</uri></address></author>
-<author initials='D.' surname='Romascanu' fullname='Dan Romascanu'>
-<organization>Madge Networks (Israel) Ltd.</organization>
-<address>
-<postal>
-<street>Atidim Technology Park</street>
-<street>Bldg. 3</street></postal>
-<phone>972-3-6458414, 6458458</phone>
-<facsimile>972-3-6487146</facsimile>
-<email>dromasca@madge.com</email></address></author>
-<author initials='D.' surname='McMaster' fullname='Donna McMaster'>
-<organization>Cisco Systems Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<street>San Jose</street>
-<street>CA 95134</street></postal>
-<phone>: (408) 526-5260</phone>
-<email>mcmaster@cisco.com</email></address></author>
-<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
-<organization>Cisco Systems Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<street>San Jose</street>
-<street>CA 95134</street></postal>
-<phone>(408) 526-5260</phone>
-<email>kzm@cisco.com</email></address></author>
-<author initials='S.' surname='Roberts' fullname='Sam Roberts'>
-<organization>Farallon Computing, Inc.</organization>
-<address>
-<postal>
-<street>2470 Mariner Square Loop</street>
-<street>Alameda</street>
-<street>CA 94501-1010</street></postal>
-<phone>: (510) 814-5215</phone>
-<email>sroberts@farallon.com</email></address></author>
+<title>Definitions of Managed Objects for IEEE 802.3 Medium Attachment Units (MAUs) using SMIv2</title>
+<author initials='K.' surname='de Graaf' fullname='K. de Graaf'><organization /></author>
+<author initials='D.' surname='Romascanu' fullname='D. Romascanu'><organization /></author>
+<author initials='D.' surname='McMaster' fullname='D. McMaster'><organization /></author>
+<author initials='K.' surname='McCloghrie' fullname='K. McCloghrie'><organization /></author>
+<author initials='S.' surname='Roberts' fullname='S. Roberts'><organization /></author>
 <date year='1997' month='November' />
-<area>Management</area>
-<area>Internet</area>
-<keyword>MIB</keyword>
-<keyword>Institute of Electrical and Electronics Engineers</keyword>
-<keyword>Management Information Base</keyword>
-<keyword>ethernet</keyword>
-<keyword>managed object</keyword>
-<keyword>structure of management information version 2</keyword>
-<abstract>
-<t>
-   This memo defines an portion of the Management Information Base (MIB)
-   for use with network management protocols in the Internet community.
-   In particular, it defines objects for managing 10 and 100 Mb/second
-   Medium Attachment Units (MAUs) based on IEEE Std 802.3 Section 30,
-   &quot;10 &amp; 100 Mb/s Management,&quot; October 26, 1995.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2239' />
-<format type='TXT' octets='80651' target='http://www.rfc-editor.org/rfc/rfc2239.txt' />
-<format type='XML' octets='78140' target='http://xml.resource.org/public/rfc/xml/rfc2239.xml' />
+<abstract><t>This memo defines an portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it defines objects for managing 10 and 100 Mb/second Medium Attachment Units (MAUs) based on IEEE Std 802.3 Section 30, &quot;10 &amp; 100 Mb/s Management,&quot; October 26, 1995.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2239'/>
+<seriesInfo name='DOI' value='10.17487/RFC2239'/>
 </reference>

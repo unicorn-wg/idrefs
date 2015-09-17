@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1838'>
-
+<reference  anchor='RFC1838' target='http://www.rfc-editor.org/info/rfc1838'>
 <front>
-<title abbrev='RFC 822/X.400 Mapping by X.500'>Use of the X.500 Directory to support mapping between X.400 and RFC 822 Addresses</title>
-<author initials='S.' surname='Kille' fullname='Steve Kille'>
-<organization>ISODE Consortium</organization>
-<address>
-<postal>
-<street>The Dome, The Square</street>
-<city>Richmond</city>
-<region>England</region>
-<code>TW9 1DT</code>
-<country>UK</country></postal>
-<phone>+44 81 3329091</phone>
-<email>S.Kille@ISODE.COM</email></address></author>
+<title>Use of the X.500 Directory to support mapping between X.400 and RFC 822 Addresses</title>
+<author initials='S.' surname='Kille' fullname='S. Kille'><organization /></author>
 <date year='1995' month='August' />
-<abstract>
-<t>This document defines how to use directory to support the mapping between X.400 O/R Addresses and mailboxes defined in RFC 1327.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1838' />
-<format type='TXT' octets='12216' target='http://www.rfc-editor.org/rfc/rfc1838.txt' />
+<abstract><t>This document defines how to use directory to support the mapping between X.400 O/R Addresses and mailboxes defined in RFC 1327 [2].  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1838'/>
+<seriesInfo name='DOI' value='10.17487/RFC1838'/>
 </reference>

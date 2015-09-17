@@ -1,63 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2488'>
-
+<reference  anchor='RFC2488' target='http://www.rfc-editor.org/info/rfc2488'>
 <front>
-<title abbrev='Enhancing TCP Over Satellite Channels'>Enhancing TCP Over Satellite Channels using Standard Mechanisms</title>
-<author initials='M.' surname='Allman' fullname='Mark Allman'>
-<organization>NASA Lewis Research Center/Sterling Software</organization>
-<address>
-<postal>
-<street>21000 Brookpark Rd., MS 54-2</street>
-<city>Cleveland</city>
-<region>OH</region>
-<code>44135</code>
-<country>USA</country></postal>
-<phone>+1 216 433 6586</phone>
-<email>mallman@lerc.nasa.gov</email>
-<uri>http://roland.lerc.nasa.gov/~mallman</uri></address></author>
-<author initials='D.R.' surname='Glover' fullname='Daniel R. Glover'>
-<organization>NASA Lewis Research Center</organization>
-<address>
-<postal>
-<street />
-<city>Cleveland</city>
-<region>OH</region>
-<code>44135</code>
-<country>USA</country></postal>
-<phone>+1 216 433 2847</phone>
-<email>Daniel.R.Glover@lerc.nasa.gov</email></address></author>
-<author initials='L.A.' surname='Sanchez' fullname='Luis A. Sanchez'>
-<organization>BBN Technologies, GTE Internetworking</organization>
-<address>
-<postal>
-<street>10 Moulton Street</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02140</code>
-<country>USA</country></postal>
-<phone>+1 617 873 3351</phone>
-<email>lsanchez@ir.bbn.com</email></address></author>
+<title>Enhancing TCP Over Satellite Channels using Standard Mechanisms</title>
+<author initials='M.' surname='Allman' fullname='M. Allman'><organization /></author>
+<author initials='D.' surname='Glover' fullname='D. Glover'><organization /></author>
+<author initials='L.' surname='Sanchez' fullname='L. Sanchez'><organization /></author>
 <date year='1999' month='January' />
-<area>Transport</area>
-<keyword>transmission control protocol</keyword>
-<keyword>satellite</keyword>
-<keyword>TCP</keyword>
-<abstract>
-<t>
-   The Transmission Control Protocol (TCP) provides reliable delivery of
-   data across any network path, including network paths containing
-   satellite channels.  While TCP works over satellite channels there
-   are several IETF standardized mechanisms that enable TCP to more
-   effectively utilize the available capacity of the network path.  This
-   document outlines some of these TCP mitigations.  At this time, all
-   mitigations discussed in this document are IETF standards track
-   mechanisms (or are compliant with IETF standards).
-</t></abstract></front>
-
-<seriesInfo name='BCP' value='28' />
-<seriesInfo name='RFC' value='2488' />
-<format type='TXT' octets='47857' target='http://www.rfc-editor.org/rfc/rfc2488.txt' />
-<format type='HTML' octets='76302' target='http://xml.resource.org/public/rfc/html/rfc2488.html' />
-<format type='XML' octets='64378' target='http://xml.resource.org/public/rfc/xml/rfc2488.xml' />
+<abstract><t>The Transmission Control Protocol (TCP) provides reliable delivery of data across any network path, including network paths containing satellite channels.  While TCP works over satellite channels there are several IETF standardized mechanisms that enable TCP to more effectively utilize the available capacity of the network path.  This document outlines some of these TCP mitigations.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t></abstract>
+</front>
+<seriesInfo name='BCP' value='28'/>
+<seriesInfo name='RFC' value='2488'/>
+<seriesInfo name='DOI' value='10.17487/RFC2488'/>
 </reference>

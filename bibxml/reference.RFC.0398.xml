@@ -1,21 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0398'>
-
+<reference  anchor='RFC0398' target='http://www.rfc-editor.org/info/rfc398'>
 <front>
-<title>ICP Sockets</title>
-<author initials='J.' surname='Pickens' fullname='John R. Pickens'>
-<organization>University of California, Santa Barbara (UCSB)</organization>
-<address>
-<phone>+1 805 961 3454</phone></address></author>
-<author initials='E.' surname='Faeh' fullname='Edward D. Faeh'>
-<organization>University of California, Santa Barbara (UCSB)</organization>
-<address>
-<phone>+1 805 961 4047</phone></address></author>
-<date year='1972' day='22' month='September' />
-<abstract>
-<t>At present, users with TEKTRONIX or IMLAC terminals or with systems that support the proposed level 0 graphics protocol can access UCSB graphics.  Listed below are the ICP sockets for the currently supported terminals and protocols.</t></abstract></front>
-
-<seriesInfo name='RFC' value='398' />
-<format type='TXT' octets='3846' target='http://www.rfc-editor.org/rfc/rfc398.txt' />
+<title>UCSB Online Graphics</title>
+<author initials='J.R.' surname='Pickens' fullname='J.R. Pickens'><organization /></author>
+<author initials='E.' surname='Faeh' fullname='E. Faeh'><organization /></author>
+<date year='1972' month='September' />
+</front>
+<seriesInfo name='RFC' value='398'/>
+<seriesInfo name='DOI' value='10.17487/RFC0398'/>
 </reference>

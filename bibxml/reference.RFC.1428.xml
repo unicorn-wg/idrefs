@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1428'>
-
+<reference  anchor='RFC1428' target='http://www.rfc-editor.org/info/rfc1428'>
 <front>
-<title abbrev='Transition to 8bit-SMTP/MIME'>Transition of Internet Mail from Just-Send-8 to 8bit-SMTP/MIME</title>
-<author initials='G.' surname='Vaudreuil' fullname='Greg Vaudreuil'>
-<organization>Corporation for National Research Initiatives</organization>
-<address>
-<postal>
-<street>1895 Preston White Drive</street>
-<street>Suite 100</street>
-<city>Reston</city>
-<region>VA</region>
-<code>22091</code>
-<country>US</country></postal>
-<phone>+1 703 620 8990</phone>
-<email>GVaudre@CNRI.Reston.VA.US</email></address></author>
+<title>Transition of Internet Mail from Just-Send-8 to 8bit-SMTP/MIME</title>
+<author initials='G.' surname='Vaudreuil' fullname='G. Vaudreuil'><organization /></author>
 <date year='1993' month='February' />
-<abstract>
-<t>Protocols for extending SMTP to pass 8bit characters have been defined,. These protocols require that messages transported by the extended SMTP are to be encoded in MIME,.  Before work began on these protocols, several SMTP implementations adopted ad-hoc mechanisms for sending 8bit data. It is desirable for the extended SMTP environment and these ad hoc mechanisms interoperate.  This document outlines the problems in this environment and an approach to minimizing the cost of transition from current usage of non-MIME 8bit messages to MIME.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1428' />
-<format type='TXT' octets='12064' target='http://www.rfc-editor.org/rfc/rfc1428.txt' />
+<abstract><t>This document outlines the problems in this environment and an approach to minimizing the cost of transition from current usage of non-MIME 8bit messages to MIME.  This RFC provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1428'/>
+<seriesInfo name='DOI' value='10.17487/RFC1428'/>
 </reference>

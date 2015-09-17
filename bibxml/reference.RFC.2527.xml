@@ -1,45 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2527'>
-
+<reference  anchor='RFC2527' target='http://www.rfc-editor.org/info/rfc2527'>
 <front>
-<title abbrev='PKIX'>Internet X.509 Public Key Infrastructure Certificate Policy and Certification Practices Framework</title>
-<author initials='S.' surname='Chokhani' fullname='Santosh  Chokhani'>
-<organization>CygnaCom Solutions, Inc.</organization>
-<address>
-<postal>
-<street>Suite 100 West</street>
-<street>7927 Jones Branch Drive</street>
-<city>McLean</city>
-<region>VA</region>
-<code>22102</code>
-<country>US</country></postal>
-<phone>+1 703 848 0883</phone>
-<facsimile>+1 703 848 0960</facsimile>
-<email>chokhani@cygnacom.com</email></address></author>
-<author initials='W.' surname='Ford' fullname='Warwick  Ford'>
-<organization>VeriSign, Inc.</organization>
-<address>
-<postal>
-<street>301 Edgewater Place</street>
-<street>Suite 210</street>
-<city>Wakefield</city>
-<region>MA</region>
-<code>01880</code>
-<country>US</country></postal>
-<phone>+1 781 245 6996 x225</phone>
-<facsimile>+1 781 245 6006</facsimile>
-<email>wford@verisign.com</email></address></author>
+<title>Internet X.509 Public Key Infrastructure Certificate Policy and Certification Practices Framework</title>
+<author initials='S.' surname='Chokhani' fullname='S. Chokhani'><organization /></author>
+<author initials='W.' surname='Ford' fullname='W. Ford'><organization /></author>
 <date year='1999' month='March' />
-<abstract>
-<t>This document presents a framework to assist the writers of
-certificate policies or certification practice statements for
-certification authorities and public key infrastructures.
-In particular, the framework provides a comprehensive list of topics
-that potentially (at the writer's discretion) need to be covered in a
-certificate policy definition or a certification practice
-statement.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2527' />
-<format type='TXT' octets='91860' target='http://www.rfc-editor.org/rfc/rfc2527.txt' />
+<abstract><t>This document presents a framework to assist the writers of certificate policies or certification practice statements for certification authorities and public key infrastructures.  In particular, the framework provides a comprehensive list of topics that potentially (at the writer's discretion) need to be covered in a certificate policy definition or a certification practice statement. This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2527'/>
+<seriesInfo name='DOI' value='10.17487/RFC2527'/>
 </reference>

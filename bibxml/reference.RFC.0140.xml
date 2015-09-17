@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0140'>
-
+<reference  anchor='RFC0140' target='http://www.rfc-editor.org/info/rfc140'>
 <front>
 <title>Agenda for the May NWG meeting</title>
-<author initials='S.' surname='Crocker' fullname='Steve Crocker'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<date year='1971' day='4' month='May' />
-<abstract>
-<t>The NWG meeting will be from 8 p.m., Sunday, May 16 through Wednesday evening May 19.</t></abstract></front>
-
-<seriesInfo name='RFC' value='140' />
-<format type='TXT' octets='6934' target='http://www.rfc-editor.org/rfc/rfc140.txt' />
+<author initials='S.D.' surname='Crocker' fullname='S.D. Crocker'><organization /></author>
+<date year='1971' month='May' />
+</front>
+<seriesInfo name='RFC' value='140'/>
+<seriesInfo name='DOI' value='10.17487/RFC0140'/>
 </reference>

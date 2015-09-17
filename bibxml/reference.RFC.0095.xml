@@ -1,21 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0095'>
-
+<reference  anchor='RFC0095' target='http://www.rfc-editor.org/info/rfc95'>
 <front>
 <title>Distribution of NWG/RFC's through the NIC</title>
-<author initials='S.' surname='Crocker' fullname='Steve Crocker'>
-<organization>University of California, Los Angeles (UCLA), Computer Science Department</organization>
-<address>
-<postal>
-<street>3732 Boelter Hall</street>
-<city>Los Angeles</city>
-<region>CA</region>
-<code>90024</code>
-<country>US</country></postal>
-<phone>+1 213 825 2368</phone></address></author>
-<date year='1971' day='4' month='February' /></front>
-
-<seriesInfo name='RFC' value='95' />
-<format type='TXT' octets='8938' target='http://www.rfc-editor.org/rfc/rfc95.txt' />
+<author initials='S.' surname='Crocker' fullname='S. Crocker'><organization /></author>
+<date year='1971' month='February' />
+</front>
+<seriesInfo name='RFC' value='95'/>
+<seriesInfo name='DOI' value='10.17487/RFC0095'/>
 </reference>

@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2020'>
-
+<reference  anchor='RFC2020' target='http://www.rfc-editor.org/info/rfc2020'>
 <front>
-<title abbrev='IEEE 802.12 Interface MIB'>IEEE 802.12 Interface MIB</title>
-<author initials='J.' surname='Flick' fullname='John Flick'>
-<organization>Hewlett Packard Company</organization>
-<address>
-<postal>
-<street>8000 Foothills Blvd. M/S 5556</street>
-<city>Roseville</city>
-<region>CA</region>
-<code>95747-5556</code>
-<country>US</country></postal>
-<phone>+1 916 785 4018</phone>
-<email>johnf@hprnd.rose.hp.com</email></address></author>
+<title>IEEE 802.12 Interface MIB</title>
+<author initials='J.' surname='Flick' fullname='J. Flick'><organization /></author>
 <date year='1996' month='October' />
-<abstract>
-<t></t></abstract></front>
-
-<seriesInfo name='RFC' value='2020' />
-<format type='TXT' octets='72135' target='http://www.rfc-editor.org/rfc/rfc2020.txt' />
+<abstract><t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in TCP/IP-based internets.  In particular, it defines objects for managing network interfaces based on IEEE 802.12.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2020'/>
+<seriesInfo name='DOI' value='10.17487/RFC2020'/>
 </reference>

@@ -1,33 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2264'>
-
+<reference  anchor='RFC2264' target='http://www.rfc-editor.org/info/rfc2264'>
 <front>
-<title abbrev='USM for SNMPv3'>User-based Security Model (USM) for version 3 of the Simple Network Management Protocol (SNMPv3)</title>
-<author initials='U.' surname='Blumenthal' fullname='Uri Blumenthal'>
-<organization>IBM T. J. Watson Research</organization>
-<address>
-<postal>
-<street>30 Saw Mill River Pkwy</street>
-<city>Hawthorne</city>
-<region>NY</region>
-<code>10532</code>
-<country>US</country></postal>
-<phone>+1 914 784 7064</phone>
-<email>uri@watson.ibm.com</email></address></author>
-<author initials='B.' surname='Wijnen' fullname='Bert Wijnen'>
-<organization>IBM T. J. Watson Research</organization>
-<address>
-<postal>
-<street>Schagen 33</street>
-<street>3461 GL Linschoten</street>
-<country>NL</country></postal>
-<phone>+31 34 8432794</phone>
-<email>wijnen@vnet.ibm.com</email></address></author>
+<title>User-based Security Model (USM) for version 3 of the Simple Network Management Protocol (SNMPv3)</title>
+<author initials='U.' surname='Blumenthal' fullname='U. Blumenthal'><organization /></author>
+<author initials='B.' surname='Wijnen' fullname='B. Wijnen'><organization /></author>
 <date year='1998' month='January' />
-<abstract>
-<t>This document describes the User-based Security Model (USM) for SNMP version 3 for use in the SNMP architecture. It defines the Elements of Procedure for providing SNMP message level security. This document also includes a MIB for remotely monitoring/managing the configuration parameters for this Security Model.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2264' />
-<format type='TXT' octets='168759' target='http://www.rfc-editor.org/rfc/rfc2264.txt' />
+<abstract><t>This document describes the User-based Security Model (USM) for SNMP version 3 for use in the SNMP architecture [RFC2261].  It defines the Elements of Procedure for providing SNMP message level security.  This document also includes a MIB for remotely monitoring/managing the configuration parameters for this Security Model.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2264'/>
+<seriesInfo name='DOI' value='10.17487/RFC2264'/>
 </reference>

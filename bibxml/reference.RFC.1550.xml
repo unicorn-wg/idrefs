@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1550'>
-
+<reference  anchor='RFC1550' target='http://www.rfc-editor.org/info/rfc1550'>
 <front>
-<title abbrev='IPng White Paper Solicitation'>IP: Next Generation (IPng) White Paper Solicitation</title>
-<author initials='S.' surname='Bradner' fullname='Scott Bradner'>
-<organization>Harvard University</organization>
-<address>
-<postal>
-<street>10 Ware St.</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02138</code>
-<country>US</country></postal>
-<phone>+1 617 495 3864</phone>
-<email>sob@harvard.edu</email></address></author>
-<author initials='A.' surname='Mankin' fullname='Allison Mankin'>
-<organization>Naval Research Laboratory</organization>
-<address>
-<postal>
-<street>Code 5591</street>
-<city>Washington</city>
-<region>DC</region>
-<code>20375-5000</code>
-<country>US</country></postal>
-<phone>+1 202 404 7030</phone>
-<email>mankin@cmf.nrl.navy.mil</email></address></author>
+<title>IP: Next Generation (IPng) White Paper Solicitation</title>
+<author initials='S.' surname='Bradner' fullname='S. Bradner'><organization /></author>
+<author initials='A.' surname='Mankin' fullname='A. Mankin'><organization /></author>
 <date year='1993' month='December' />
-<abstract>
-<t></t></abstract></front>
-
-<seriesInfo name='RFC' value='1550' />
-<format type='TXT' octets='12472' target='http://www.rfc-editor.org/rfc/rfc1550.txt' />
+<abstract><t>This memo solicits white papers on topics related to the IPng requirements and selection criteria. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1550'/>
+<seriesInfo name='DOI' value='10.17487/RFC1550'/>
 </reference>

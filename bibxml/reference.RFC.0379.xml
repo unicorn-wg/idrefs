@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0379'>
-
+<reference  anchor='RFC0379' target='http://www.rfc-editor.org/info/rfc379'>
 <front>
 <title>Using TSO at CCN</title>
-<author initials='R.' surname='Braden' fullname='Robert T. Braden'>
-<organization>University of California, Los Angeles (UCLA), Campus Computing Network (CCN)</organization></author>
-<date year='1972' day='11' month='August' />
-<abstract>
-<t>IBM's Time Sharing Option ("TSO") is now available at CCN for use via the Network with Telnet Protocol.</t></abstract></front>
-
-<seriesInfo name='RFC' value='379' />
-<format type='TXT' octets='8674' target='http://www.rfc-editor.org/rfc/rfc379.txt' />
+<author initials='R.' surname='Braden' fullname='R. Braden'><organization /></author>
+<date year='1972' month='August' />
+</front>
+<seriesInfo name='RFC' value='379'/>
+<seriesInfo name='DOI' value='10.17487/RFC0379'/>
 </reference>

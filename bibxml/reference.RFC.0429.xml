@@ -1,16 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0429'>
-
+<reference  anchor='RFC0429' target='http://www.rfc-editor.org/info/rfc429'>
 <front>
 <title>Character Generator Process</title>
-<author initials='J.' surname='Postel' fullname='Jonathan B. Postel'>
-<organization>Stanford Research Institute (SRI), ARPA Network Information Center</organization></author>
-<date year='1972' day='12' month='December' />
-<abstract>
-<t>I hereby propose that there be a standard process implemented on whatever hosts desire which generates character data with out any regard to input. In some sense the process is the converse of the discard process. Many hosts have an existing terminal testing program [e.g. TTYTST] which would suit this function adequately.</t>
-<t>This Character Generator process would listen for a request for connection and execute the Initial Connection Protocol (ICP) as specified in NIC 7104 the "Current Network Protocols" notebook.  Upon completion of the ICP the Character Generator process would begin to send characters into the network as buffer space is made available. The Character Generator process is terminated by closing the connections.</t></abstract></front>
-
-<seriesInfo name='RFC' value='429' />
-<format type='TXT' octets='1319' target='http://www.rfc-editor.org/rfc/rfc429.txt' />
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<date year='1972' month='December' />
+</front>
+<seriesInfo name='RFC' value='429'/>
+<seriesInfo name='DOI' value='10.17487/RFC0429'/>
 </reference>

@@ -1,38 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2790'>
-
+<reference  anchor='RFC2790' target='http://www.rfc-editor.org/info/rfc2790'>
 <front>
 <title>Host Resources MIB</title>
-<author initials='S.' surname='Waldbusser' fullname='Steven Waldbusser'>
-<organization>Lucent Technologies, Inc.</organization>
-<address>
-<postal>
-<street>1213 Innsbruck Dr.</street>
-<city>Sunnyvale</city>
-<region>CA</region>
-<code>94089</code>
-<country>US</country></postal>
-<phone>+1 650 318 1251</phone>
-<email>waldbusser@ins.com</email></address></author>
-<author initials='P.' surname='Grillo' fullname='Pete Grillo'>
-<organization>WeSync.com</organization>
-<address>
-<postal>
-<street>1001 SW Fifth Ave</street>
-<street>Fifth Floor</street>
-<city>Portland</city>
-<region>OR</region>
-<code>97204</code>
-<country>US</country></postal>
-<phone>+1 503 425 5051</phone>
-<facsimile>+1 503 827 6718</facsimile>
-<email>pete@wesync.com</email></address></author>
+<author initials='S.' surname='Waldbusser' fullname='S. Waldbusser'><organization /></author>
+<author initials='P.' surname='Grillo' fullname='P. Grillo'><organization /></author>
 <date year='2000' month='March' />
-<abstract>
-<t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community. This memo obsoletes RFC 1514, the "Host Resources MIB". This memo extends that specification by clarifying changes based on implementation and deployment experience and documenting the Host Resources MIB in SMIv2 format while remaining semantically identical to the existing SMIv1-based MIB.</t>
-<t>This memo defines a MIB for use with managing host systems.  The term "host" is construed to mean any computer that communicates with other similar computers attached to the internet and that is directly used by one or more human beings. Although this MIB does not necessarily apply to devices whose primary function is communications services    (e.g., terminal servers, routers, bridges, monitoring equipment), such relevance is not explicitly precluded.  This MIB instruments attributes common to all internet hosts including, for example, both personal computers and systems that run variants of Unix.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2790' />
-<format type='TXT' octets='95807' target='http://www.rfc-editor.org/rfc/rfc2790.txt' />
+<abstract><t>This memo obsoletes RFC 1514, the &quot;Host Resources MIB&quot;.  This memo extends that specification by clarifying changes based on implementation and deployment experience and documenting the Host Resources MIB in SMIv2 format while remaining semantically identical to the existing SMIv1-based MIB.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2790'/>
+<seriesInfo name='DOI' value='10.17487/RFC2790'/>
 </reference>

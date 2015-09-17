@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1751'>
-
+<reference  anchor='RFC1751' target='http://www.rfc-editor.org/info/rfc1751'>
 <front>
-<title abbrev='Human-Readable 128-bit Keys'>A Convention for Human-Readable 128-bit Keys</title>
-<author initials='D.L.' surname='McDonald' fullname='Daniel L. McDonald'>
-<organization>United States Naval Research Laboratory, Code 5544</organization>
-<address>
-<postal>
-<street>4555 Overlook Ave. SW</street>
-<city>Washington</city>
-<region>DC</region>
-<code>20375</code>
-<country>US</country></postal>
-<phone>+1 202 404 7122</phone>
-<email>danmcd@itd.nrl.navy.mil</email></address></author>
-<date year='1994' month='December' /></front>
-
-<seriesInfo name='RFC' value='1751' />
-<format type='TXT' octets='31428' target='http://www.rfc-editor.org/rfc/rfc1751.txt' />
+<title>A Convention for Human-Readable 128-bit Keys</title>
+<author initials='D.' surname='McDonald' fullname='D. McDonald'><organization /></author>
+<date year='1994' month='December' />
+<abstract><t>This memo proposes a convention for use with Internet applications &amp; protocols using 128-bit cryptographic keys. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1751'/>
+<seriesInfo name='DOI' value='10.17487/RFC1751'/>
 </reference>

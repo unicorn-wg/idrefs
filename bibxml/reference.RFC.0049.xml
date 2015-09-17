@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0049'>
-
+<reference  anchor='RFC0049' target='http://www.rfc-editor.org/info/rfc49'>
 <front>
-<title>Conversations with S</title>
-<author initials='E.' surname='Meyer' fullname='Edwin W. Meyer Jr.'>
-<organization>Massachusetts Institute of Technology (MIT), Project MAC</organization></author>
-<date year='1970' day='25' month='April' />
-<abstract>
-<t>On April 21 and 23 Thomas P. Skinner and I had telephone conversations with Steve Crocker at UCLA relating to the network protocol, specifically regarding our proposal in NWG/RFC 46.</t></abstract></front>
-
-<seriesInfo name='RFC' value='49' />
-<format type='TXT' octets='12384' target='http://www.rfc-editor.org/rfc/rfc49.txt' />
+<title>Conversations with S. Crocker (UCLA)</title>
+<author initials='E.' surname='Meyer' fullname='E. Meyer'><organization /></author>
+<date year='1970' month='April' />
+</front>
+<seriesInfo name='RFC' value='49'/>
+<seriesInfo name='DOI' value='10.17487/RFC0049'/>
 </reference>

@@ -1,33 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2233'>
-
+<reference  anchor='RFC2233' target='http://www.rfc-editor.org/info/rfc2233'>
 <front>
-<title abbrev='Interfaces MIB'>The Interfaces Group MIB using SMIv2</title>
-<author initials='K.' surname='McCloghrie' fullname='Keith McCloghrie'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 West Tasman Drive</street>
-<street>San Jose</street>
-<street>CA  95134-1706</street></postal>
-<phone>408-526-5260</phone>
-<email>kzm@cisco.com</email></address></author>
-<author initials='F.' surname='Kastenholz' fullname='Frank Kastenholz'>
-<organization>FTP Software</organization>
-<address>
-<postal>
-<street>2 High Street</street>
-<street>North Andover</street>
-<street>Mass. USA 01845</street></postal>
-<phone>508-685-4000</phone>
-<email>kasten@ftp.com</email></address></author>
+<title>The Interfaces Group MIB using SMIv2</title>
+<author initials='K.' surname='McCloghrie' fullname='K. McCloghrie'><organization /></author>
+<author initials='F.' surname='Kastenholz' fullname='F. Kastenholz'><organization /></author>
 <date year='1997' month='November' />
-<area>Management</area>
-<keyword>Management Information Base</keyword>
-<keyword>structure of management information version 2</keyword></front>
-
-<seriesInfo name='RFC' value='2233' />
-<format type='TXT' octets='148033' target='http://www.rfc-editor.org/rfc/rfc2233.txt' />
-<format type='XML' octets='143907' target='http://xml.resource.org/public/rfc/xml/rfc2233.xml' />
+<abstract><t>This memo defines a portion of the Management Information Base (MIB) for use with network management protocols in the Internet community.  In particular, it describes managed objects used for managing Network Interfaces.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2233'/>
+<seriesInfo name='DOI' value='10.17487/RFC2233'/>
 </reference>

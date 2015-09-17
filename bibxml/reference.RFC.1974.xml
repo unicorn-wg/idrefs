@@ -1,48 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1974'>
-
+<reference  anchor='RFC1974' target='http://www.rfc-editor.org/info/rfc1974'>
 <front>
 <title>PPP Stac LZS Compression Protocol</title>
-<author initials='R.' surname='Friend' fullname='Robert Friend'>
-<organization>Stac Technology</organization>
-<address>
-<postal>
-<street>12636 High Bluff Drive</street>
-<city>San Diego</city>
-<region>CA</region>
-<code>92130</code>
-<country>US</country></postal>
-<phone>+1 619 794 4542</phone>
-<email>rfriend@stac.com</email></address></author>
-<author initials='W.' surname='Simpson' fullname='William Allen Simpson'>
-<organization>Daydreamer,  Computer Systems Consulting Services</organization>
-<address>
-<postal>
-<street>1384 Fontaine</street>
-<city>Madison Heights</city>
-<region>MI</region>
-<code>48071</code>
-<country>US</country></postal>
-<email>bsimpson@MorningStar.com</email></address></author>
-<author initials='K.F.' surname='Fox' fullname='Karl F. Fox'>
-<organization>Ascend Communications</organization>
-<address>
-<postal>
-<street>3518 Riverside Dr.</street>
-<street>Suite 101</street>
-<city>Columbus</city>
-<region>OH</region>
-<code>43221</code>
-<country>US</country></postal>
-<phone>+1 614 451 1883</phone>
-<email>karl@ascend.Com</email></address></author>
+<author initials='R.' surname='Friend' fullname='R. Friend'><organization /></author>
+<author initials='W.' surname='Simpson' fullname='W. Simpson'><organization /></author>
 <date year='1996' month='August' />
-<abstract>
-<t>The Point-to-Point Protocol (PPP)provides a standard method for transporting multi-protocol datagrams over point-to-point links.
-   The PPP Compression Control Protocolprovides a method to negotiate and utilize compression protocols over PPP encapsulated links.
-   This document describes the use of the Stac LZS data compression algorithm, with single or multiple compression histories, for compressing PPP encapsulated packets.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1974' />
-<format type='TXT' octets='45267' target='http://www.rfc-editor.org/rfc/rfc1974.txt' />
+<abstract><t>This document describes the use of the Stac LZS data compression algorithm, with single or multiple compression histories, for compressing PPP encapsulated packets.  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1974'/>
+<seriesInfo name='DOI' value='10.17487/RFC1974'/>
 </reference>

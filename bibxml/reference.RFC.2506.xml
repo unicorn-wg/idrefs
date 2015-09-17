@@ -1,48 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2506'>
-
+<reference  anchor='RFC2506' target='http://www.rfc-editor.org/info/rfc2506'>
 <front>
 <title>Media Feature Tag Registration Procedure</title>
-<author initials='K.' surname='Holtman' fullname='Koen Holtman'>
-<organization>Technische Universiteit Eindhoven</organization>
-<address>
-<postal>
-<street>Postbus 513</street>
-<street>Kamer HG 6.57</street>
-<city>Eindhoven</city>
-<code>5600 MB</code>
-<country>NL</country></postal>
-<email>koen@win.tue.nl</email></address></author>
-<author initials='A.' surname='Mutz' fullname='Andrew H. Mutz'>
-<organization>Hewlett-Packard Company</organization>
-<address>
-<postal>
-<street>11000 Wolfe Road</street>
-<street>42UO</street>
-<city>Cupertino</city>
-<region>CA</region>
-<code>95014</code>
-<country>US</country></postal>
-<email>andy_mutz@hp.com</email></address></author>
-<author initials='T.' surname='Hardie' fullname='Ted Hardie'>
-<organization>Equinix</organization>
-<address>
-<postal>
-<street>901 Marshall Street</street>
-<city>Redwood City</city>
-<region>CA</region>
-<code>94063</code>
-<country>US</country></postal>
-<email>hardie@equinix.com</email></address></author>
+<author initials='K.' surname='Holtman' fullname='K. Holtman'><organization /></author>
+<author initials='A.' surname='Mutz' fullname='A. Mutz'><organization /></author>
+<author initials='T.' surname='Hardie' fullname='T. Hardie'><organization /></author>
 <date year='1999' month='March' />
-<abstract>
-<t>Recent Internet applications, such as the World Wide Web, tie together a great diversity in data formats, client and server platforms, and communities. This has created a need for media feature descriptions and negotiation mechanisms in order to identify and reconcile the form of information to the capabilities and preferences of the parties involved.</t>
-<t>Extensible media feature identification and negotiation mechanisms require a common vocabulary in order to positively identify media features. A registration process and authority for media features is defined with the intent of sharing this vocabulary between communicating parties. In addition, a URI tree is defined to enable sharing of media feature definitions without registration.</t>
-<t>This document defines a registration procedure which uses the Internet Assigned Numbers Authority (IANA) as a central registry for the media feature vocabulary.</t>
-<t>Please send comments to the CONNEG working group at&lt;ietf-medfree@imc.org&gt;.Discussions of the working group are archived at&lt;URL: http://www.imc.org/ietf-medfree/&gt;.</t></abstract></front>
-
-<seriesInfo name='BCP' value='31' />
-<seriesInfo name='RFC' value='2506' />
-<format type='TXT' octets='24892' target='http://www.rfc-editor.org/rfc/rfc2506.txt' />
+<abstract><t>This document defines a registration procedure which uses the Internet Assigned Numbers Authority (IANA) as a central registry for the media feature vocabulary. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t></abstract>
+</front>
+<seriesInfo name='BCP' value='31'/>
+<seriesInfo name='RFC' value='2506'/>
+<seriesInfo name='DOI' value='10.17487/RFC2506'/>
 </reference>

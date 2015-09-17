@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1270'>
-
+<reference  anchor='RFC1270' target='http://www.rfc-editor.org/info/rfc1270'>
 <front>
 <title>SNMP Communications Services</title>
-<author initials='F.' surname='Kastenholz' fullname='Frank Kastenholz'>
-<organization>Clearpoint Research Corporation</organization>
-<address>
-<postal>
-<street>35 Parkwood Drive</street>
-<city>Hopkinton</city>
-<region>MA</region>
-<code>01748</code>
-<country>US</country></postal>
-<phone>+1 508 435 2000</phone>
-<email>kasten@europa.clearpoint.com</email></address></author>
-<date year='1991' day='1' month='October' />
-<abstract>
-<t>This memo is being distributed to members of the Internet community as an Informational RFC.  The intent is to present a discussion on the issues relating to the communications services for SNMP.  While the issues discussed may not be directly relevant to the research problems of the Internet, they may be interesting to a number of researchers and implementors.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1270' />
-<format type='TXT' octets='26167' target='http://www.rfc-editor.org/rfc/rfc1270.txt' />
+<author initials='F.' surname='Kastenholz' fullname='F. Kastenholz'><organization /></author>
+<date year='1991' month='October' />
+<abstract><t>This document discusses various issues to be considered when determining the underlying communications services to be used by an SNMP implementation. This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1270'/>
+<seriesInfo name='DOI' value='10.17487/RFC1270'/>
 </reference>

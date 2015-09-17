@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2450'>
-
+<reference  anchor='RFC2450' target='http://www.rfc-editor.org/info/rfc2450'>
 <front>
-<title>Proposed TLA and NLA Assignment Rules</title>
-<author initials='R.M.' surname='Hinden' fullname='Robert M. Hinden'>
-<organization>Nokia</organization>
-<address>
-<postal>
-<street>232 Java Drive</street>
-<street>Sunnyvale</street>
-<street>CA 94089</street>
-<country>USA</country></postal>
-<phone>+1 408 990-2004</phone>
-<email>hinden@iprg.nokia.com</email></address></author>
+<title>Proposed TLA and NLA Assignment Rule</title>
+<author initials='R.' surname='Hinden' fullname='R. Hinden'><organization /></author>
 <date year='1998' month='December' />
-<area>Internet</area>
-<keyword>Top-Level Aggregation identifiers</keyword>
-<keyword>TLA</keyword></front>
-
-<seriesInfo name='RFC' value='2450' />
-<format type='TXT' octets='24486' target='http://www.rfc-editor.org/rfc/rfc2450.txt' />
-<format type='XML' octets='26780' target='http://xml.resource.org/public/rfc/xml/rfc2450.xml' />
+<abstract><t>This document proposes rules for Top-Level Aggregation Identifiers (TLA ID) and Next-Level Aggregation Identifiers (NLA ID).  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2450'/>
+<seriesInfo name='DOI' value='10.17487/RFC2450'/>
 </reference>

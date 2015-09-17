@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1107'>
-
+<reference  anchor='RFC1107' target='http://www.rfc-editor.org/info/rfc1107'>
 <front>
 <title>Plan for Internet directory services</title>
-<author initials='K.' surname='Sollins' fullname='Karen R. Sollins'>
-<organization>Massachusetts Institute of Technology (MIT), Laboratory for Computer Science</organization>
-<address>
-<postal>
-<street>545 Technology Square</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02139-1986</code>
-<country>US</country></postal>
-<phone>+1 617 253 6006</phone>
-<email>SOLLINS@XX.LCS.MIT.EDU</email></address></author>
-<date year='1989' day='1' month='July' /></front>
-
-<seriesInfo name='RFC' value='1107' />
-<format type='TXT' octets='51773' target='http://www.rfc-editor.org/rfc/rfc1107.txt' />
+<author initials='K.R.' surname='Sollins' fullname='K.R. Sollins'><organization /></author>
+<date year='1989' month='July' />
+<abstract><t>This memo proposes a program to develop a directory service for the Internet.  It reports the results of a meeting held in February 1989, which was convened to review requirements and options for such a service.  This proposal is offered for comment, and does not represent a committed research activity of the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1107'/>
+<seriesInfo name='DOI' value='10.17487/RFC1107'/>
 </reference>

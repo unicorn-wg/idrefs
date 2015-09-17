@@ -1,23 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0177'>
-
+<reference  anchor='RFC0177' target='http://www.rfc-editor.org/info/rfc177'>
 <front>
 <title>Device independent graphical display description</title>
-<author initials='J.' surname='McConnell' fullname='J. McConnell'>
-<organization>Ames Research Center</organization>
-<address>
-<postal>
-<street />
-<city>Moffett Field</city>
-<region>CA</region>
-<code>94035</code>
-<country>US</country></postal></address></author>
-<date year='1971' day='15' month='June' />
-<abstract>
-<t>As more nodes are connected to the ARPA network, the types of graphical display processors available to users is quite varied.  To attempt to facilitate the transmission of graphical information over the network, a device independent description of a display is described.  The using host may make any conversions necessary to realize the picture on a specific device.  It is also possible to interpose a form machine as proposed by Heafner and Harslem in RFC #94.  Some of the items and entities described herein were first discussed by Steve Crocker in RFC #86.  It is intended that this description is to be oriented to a refresh display with point, vector, and character drawing capability, these types of devices include the IBM 2250, IMLAC PDS-1, the DEC 338, and DEC 340, as well as the Evans and Sutherland LDS-1.  However, direct video storage tube devices represented by the ARDS, Tektronix and Computer devices can also serve as clumsy interactive devices.  Hard copy devices, such as microfilm or plotters, can also be used at the using host's
- discretion.</t></abstract></front>
-
-<seriesInfo name='RFC' value='177' />
-<format type='TXT' octets='20474' target='http://www.rfc-editor.org/rfc/rfc177.txt' />
+<author initials='J.' surname='McConnell' fullname='J. McConnell'><organization /></author>
+<date year='1971' month='June' />
+</front>
+<seriesInfo name='RFC' value='177'/>
+<seriesInfo name='DOI' value='10.17487/RFC0177'/>
 </reference>

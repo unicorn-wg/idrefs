@@ -1,63 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2070'>
-
+<reference  anchor='RFC2070' target='http://www.rfc-editor.org/info/rfc2070'>
 <front>
-<title abbrev='HTML Internationalization'>Internationalization of the Hypertext Markup Language</title>
-<author initials='F.' surname='Yergeau' fullname='Frangois Yergeau'>
-<organization>Alis Technologies</organization>
-<address>
-<postal>
-<street>100, boul. Alexis-Nihon</street>
-<street>bureau 600</street>
-<city>Montreal</city>
-<region>Quebec</region>
-<code>H4M 2P2</code>
-<country>CA</country></postal>
-<phone>+1 514 747 2547</phone>
-<facsimile>+1 514 747 2561</facsimile>
-<email>fyergeau@alis.com</email></address></author>
-<author initials='G.' surname='Nicol' fullname='Gavin Thomas Nicol'>
-<organization>Electronic Book Technologies, Japan</organization>
-<address>
-<postal>
-<street>1-29-9 Tsurumaki</street>
-<city>Tokyo</city>
-<region>Setagaya-ku</region>
-<code />
-<country>JP</country></postal>
-<phone>+81 3 32308161</phone>
-<facsimile>+81 3 32308163</facsimile>
-<email>gtn@ebt.com</email></address></author>
-<author initials='G.' surname='Adams' fullname='Glenn Adams'>
-<organization>Spyglass</organization>
-<address>
-<postal>
-<street>118 Magazine Street</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02139</code>
-<country>US</country></postal>
-<phone>+1 617 864 5524</phone>
-<facsimile>+1 617 864 4965</facsimile>
-<email>glenn@spyglass.com</email></address></author>
-<author initials='M.' surname='Duerst' fullname='Martin J. Duerst'>
-<organization>University of Zurich, Department of Computer Science, Multimedia-Laboratory</organization>
-<address>
-<postal>
-<street>Winterthurerstrasse 190</street>
-<city>Zurich</city>
-<region />
-<code>CH-8057</code>
-<country>CH</country></postal>
-<phone>+41 1 2574316</phone>
-<facsimile>+41 1 3630035</facsimile>
-<email>mduerst@ifi.unizh.ch</email></address></author>
+<title>Internationalization of the Hypertext Markup Language</title>
+<author initials='F.' surname='Yergeau' fullname='F. Yergeau'><organization /></author>
+<author initials='G.' surname='Nicol' fullname='G. Nicol'><organization /></author>
+<author initials='G.' surname='Adams' fullname='G. Adams'><organization /></author>
+<author initials='M.' surname='Duerst' fullname='M. Duerst'><organization /></author>
 <date year='1997' month='January' />
-<abstract>
-<t>The Hypertext Markup Language (HTML) is a markup language used to create hypertext documents that are platform independent.  Initially, the application of HTML on the World Wide Web was seriously restricted by its reliance on the ISO-8859-1 coded character set, which is appropriate only for Western European languages.  Despite this restriction, HTML has been widely used with other languages, using other coded character sets or character encodings, at the expense of interoperability.</t>
-<t>This document is meant to address the issue of the internationalization (i18n, i followed by 18 letters followed by n) of HTML by extending the specification of HTML and giving additional recommendations for proper internationalization support.  A foremost consideration is to make sure that HTML remains a valid application of SGML, while enabling its use with all languages of the world.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2070' />
-<format type='TXT' octets='91887' target='http://www.rfc-editor.org/rfc/rfc2070.txt' />
+<abstract><t>This document is meant to address the issue of the internationalization (i18n, i followed by 18 letters followed by n) of HTML by extending the specification of HTML and giving additional recommendations for proper internationalization support.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2070'/>
+<seriesInfo name='DOI' value='10.17487/RFC2070'/>
 </reference>

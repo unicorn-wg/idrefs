@@ -1,36 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2286'>
-
+<reference  anchor='RFC2286' target='http://www.rfc-editor.org/info/rfc2286'>
 <front>
-<title abbrev='Test Cases: HMAC-RIPEMD160, HMAC-RIPEMD128'>Test Cases for HMAC-RIPEMD160 and HMAC-RIPEMD128</title>
-<author initials='J.S.' surname='Kapp' fullname='Justin S. Kapp'>
-<organization>Reaper Technologies</organization>
-<address>
-<postal>
-<street>The Post Office</street>
-<street>Dunsop Bridge</street>
-<street>Clitheroe</street>
-<street>Lancashire.</street>
-<street>BB7 3BB.</street>
-<country>United Kingdom</country></postal>
-<email>skapp@reapertech.com</email></address></author>
+<title>Test Cases for HMAC-RIPEMD160 and HMAC-RIPEMD128</title>
+<author initials='J.' surname='Kapp' fullname='J. Kapp'><organization /></author>
 <date year='1998' month='February' />
-<area>Security</area>
-<keyword>authentication</keyword>
-<keyword>cryptographic hash message authentication codes</keyword>
-<abstract>
-<t>
-   This document provides two sets of test cases for HMAC-RIPEMD160 and
-   HMAC-RIPEMD128, respectively. HMAC-RIPEMD160 and HMAC-RIPEMD128 are
-   two constructs of the HMAC  message authentication function
-   using the RIPEMD-160 and RIPEMD-128  hash functions. The test
-   cases and results provided in this document are meant to be used as a
-   conformance test for HMAC-RIPEMD160 and HMAC-RIPEMD128
-   implementations.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2286' />
-<format type='TXT' octets='11849' target='http://www.rfc-editor.org/rfc/rfc2286.txt' />
-<format type='XML' octets='11555' target='http://xml.resource.org/public/rfc/xml/rfc2286.xml' />
+<abstract><t>This document provides two sets of test cases for HMAC-RIPEMD160 and HMAC-RIPEMD128.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2286'/>
+<seriesInfo name='DOI' value='10.17487/RFC2286'/>
 </reference>

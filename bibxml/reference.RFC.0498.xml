@@ -1,16 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0498'>
-
+<reference  anchor='RFC0498' target='http://www.rfc-editor.org/info/rfc498'>
 <front>
 <title>On mail service to CCN</title>
-<author initials='R.' surname='Braden' fullname='Robert T. Braden'>
-<organization>University of California, Los Angeles (UCLA), CCN</organization></author>
-<date year='1973' day='17' month='April' />
-<abstract>
-<t>Most of the recent documents on mail protocols have discussed the facilities desired at "post-office" hosts, i.e. those which provide store-and-forward services. CCN has no plans to provide post-office services; we expect to receive mail only for the staff of CCN.  Our greatest concern is to get messages reliably to and from our administrative and user support people who don't habitually use on-line terminals, so we are printing out all mail and distributing it by courier/secretary.</t>
-<t>Let me say a friendly word for SNDMSG.  This Tenex command, which uses the FTP MAIL command to deliver messages, is very simple but extremely useful--probably because it is so simple.  Furthermore, it is one of the well-kept secrets of the Network that SNDMSG can be used to send messages to any host which supports the MAIL command (without requiring logon to FTP).  Thus, to send a message to anyone at CCN, the recommended procedure is to do SNDMSG to "name@CCN".  This connects to CCN's FTP and sends a "MAIL name" command followed by the message.  We now accept any "name" and print an immediate upper-case copy which is distributed to the recipient's office.  So, if you SNDMSG to "BRADEN@CCN", your message will end up on my desk, usually within a few hours.</t></abstract></front>
-
-<seriesInfo name='RFC' value='498' />
-<format type='TXT' octets='5315' target='http://www.rfc-editor.org/rfc/rfc498.txt' />
+<author initials='R.T.' surname='Braden' fullname='R.T. Braden'><organization /></author>
+<date year='1973' month='April' />
+</front>
+<seriesInfo name='RFC' value='498'/>
+<seriesInfo name='DOI' value='10.17487/RFC0498'/>
 </reference>

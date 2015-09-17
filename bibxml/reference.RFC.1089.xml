@@ -1,58 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1089'>
-
+<reference  anchor='RFC1089' target='http://www.rfc-editor.org/info/rfc1089'>
 <front>
 <title>SNMP over Ethernet</title>
-<author initials='M.' surname='Schoffstall' fullname='Marty Schoffstall'>
-<organization>NYSERNET Inc., Rensselaer Polytechnic Institute</organization>
-<address>
-<postal>
-<street>165 Jordan Road</street>
-<street>Rensselaer Technology Park</street>
-<city>Troy</city>
-<region>NY</region>
-<code>12180</code>
-<country>US</country></postal>
-<phone>+1 518 276 2654</phone>
-<email>schoff@stonewall.nyser.net</email></address></author>
-<author initials='C.' surname='Davin' fullname='Chuck Davin'>
-<organization>Massechusetts Institute of Technology (MIT) Laboratory for Computer Science</organization>
-<address>
-<postal>
-<street>545 Technology Square</street>
-<street>NE43-507</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02139</code>
-<country>US</country></postal>
-<phone>+1 617 253 6020</phone>
-<email>jrd@ptt.lcs.mit.edu</email></address></author>
-<author initials='M.' surname='Fedor' fullname='Mark Fedor'>
-<organization>Nysernet, Inc.</organization>
-<address>
-<postal>
-<street>125 Jordan Road</street>
-<street>Rensselaer Technology Park</street>
-<city>Troy</city>
-<region>NY</region>
-<code>12180</code>
-<country>US</country></postal>
-<phone>+1 518 283 8860</phone>
-<email>fedor@patton.NYSER.NET</email></address></author>
-<author initials='J.' surname='Case' fullname='Jeff Case'>
-<organization>University of Tennessee, Knoxville, Computing Center</organization>
-<address>
-<postal>
-<street>200 Stokely Management Center</street>
-<city>Knoxville</city>
-<region>TN</region>
-<code>37996-0520</code>
-<country>US</country></postal>
-<phone>+1 615 974 6721</phone>
-<email>case@UTKUX1.UTK.EDU</email></address></author>
-<date year='1989' day='1' month='February' /></front>
-
-<seriesInfo name='RFC' value='1089' />
-<format type='TXT' octets='4458' target='http://www.rfc-editor.org/rfc/rfc1089.txt' />
+<author initials='M.' surname='Schoffstall' fullname='M. Schoffstall'><organization /></author>
+<author initials='C.' surname='Davin' fullname='C. Davin'><organization /></author>
+<author initials='M.' surname='Fedor' fullname='M. Fedor'><organization /></author>
+<author initials='J.' surname='Case' fullname='J. Case'><organization /></author>
+<date year='1989' month='February' />
+<abstract><t>This memo describes an experimental method by which the Simple Network Management Protocol (SNMP) can be used over Ethernet MAC layer framing instead of the Internet UDP/IP protocol stack.  This specification is useful for LAN based network elements that support no higher layer protocols beyond the MAC sub-layer.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1089'/>
+<seriesInfo name='DOI' value='10.17487/RFC1089'/>
 </reference>

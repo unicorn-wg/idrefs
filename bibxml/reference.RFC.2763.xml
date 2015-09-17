@@ -1,33 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2763'>
-
+<reference  anchor='RFC2763' target='http://www.rfc-editor.org/info/rfc2763'>
 <front>
-<title abbrev='Dynamic Hostname'>Dynamic Hostname Exchange Mechanism for IS-IS</title>
-<author initials='N.' surname='Shen' fullname='Naiming Shen'>
-<organization>Siara Systems, Inc.</organization>
-<address>
-<postal>
-<street>1195 Borregas Avenue</street>
-<city>Sunnyvale</city>
-<region>CA</region>
-<code>94089</code>
-<country>US</country></postal>
-<email>naiming@siara.com</email></address></author>
-<author initials='H.' surname='Smit' fullname='Henk Smit'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134</code>
-<country>US</country></postal>
-<email>hsmit@cisco.com</email></address></author>
+<title>Dynamic Hostname Exchange Mechanism for IS-IS</title>
+<author initials='N.' surname='Shen' fullname='N. Shen'><organization /></author>
+<author initials='H.' surname='Smit' fullname='H. Smit'><organization /></author>
 <date year='2000' month='February' />
-<abstract>
-<t>Currently, there does not exist a simple and dynamic mechanism for routers running IS-IS to learn about symbolic hostnames. This document defines a new TLV which allows the IS-IS routers to flood their name to system ID mapping information across the IS-IS network.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2763' />
-<format type='TXT' octets='8593' target='http://www.rfc-editor.org/rfc/rfc2763.txt' />
+<abstract><t>This document defines a new TLV which allows the IS-IS routers to flood their name to system ID mapping information across the IS-IS network. This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2763'/>
+<seriesInfo name='DOI' value='10.17487/RFC2763'/>
 </reference>

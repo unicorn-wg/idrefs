@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2240'>
-
+<reference  anchor='RFC2240' target='http://www.rfc-editor.org/info/rfc2240'>
 <front>
-<title abbrev='Legal DNS'>A Legal Basis for Domain Name Allocation</title>
-<author initials='O.' surname='Vaughan' fullname='Owain Vaughan'>
-<organization>Vaughan Enterprises</organization>
-<address>
-<postal>
-<street>PO Box 155</street>
-<street>Newport NP9 6YX</street>
-<country>UK</country></postal>
-<phone>+44 1633 677849/822164</phone>
-<facsimile>+44 1633 663706</facsimile>
-<email>owain@vaughan.com</email></address></author>
+<title>A Legal Basis for Domain Name Allocation</title>
+<author initials='O.' surname='Vaughan' fullname='O. Vaughan'><organization /></author>
 <date year='1997' month='November' />
-<area>Applications</area>
-<keyword>domain name</keyword></front>
-
-<seriesInfo name='RFC' value='2240' />
-<format type='TXT' octets='13602' target='http://www.rfc-editor.org/rfc/rfc2240.txt' />
-<format type='XML' octets='12824' target='http://xml.resource.org/public/rfc/xml/rfc2240.xml' />
+<abstract><t>The purpose of this memo is to focus discussion on the particular problems with the exhaustion of the top level domain space in the Internet and the possible conflicts that can occur when multiple organisations are vying for the same name.  This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2240'/>
+<seriesInfo name='DOI' value='10.17487/RFC2240'/>
 </reference>

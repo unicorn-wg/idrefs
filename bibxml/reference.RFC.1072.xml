@@ -1,23 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1072'>
-
+<reference  anchor='RFC1072' target='http://www.rfc-editor.org/info/rfc1072'>
 <front>
 <title>TCP extensions for long-delay paths</title>
-<author initials='V.' surname='Jacobson' fullname='V. Jacobson'>
-<organization>Lawrence Berkeley Laboratory (LBL)</organization></author>
-<author initials='R.' surname='Braden' fullname='R. Braden'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90291</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone></address></author>
-<date year='1988' day='1' month='October' /></front>
-
-<seriesInfo name='RFC' value='1072' />
-<format type='TXT' octets='36000' target='http://www.rfc-editor.org/rfc/rfc1072.txt' />
+<author initials='V.' surname='Jacobson' fullname='V. Jacobson'><organization /></author>
+<author initials='R.T.' surname='Braden' fullname='R.T. Braden'><organization /></author>
+<date year='1988' month='October' />
+<abstract><t>This RFC proposes a set of extensions to the TCP protocol to provide efficient operation over a path with a high bandwidth*delay product. These extensions are not proposed as an Internet standard at this time. Instead, they are intended as a basis for further experimentation and research on transport protocol performance.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1072'/>
+<seriesInfo name='DOI' value='10.17487/RFC1072'/>
 </reference>

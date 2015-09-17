@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1111'>
-
+<reference  anchor='RFC1111' target='http://www.rfc-editor.org/info/rfc1111'>
 <front>
-<title abbrev='RFC Instructions'>Request for comments on Request for Comments: Instructions to RFC authors</title>
-<author initials='J.' surname='Postel' fullname='Jon Postel'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292-6695</code>
-<country>US</country></postal>
-<phone>+1 213 822 1511</phone>
-<email>POSTEL@ISI.EDU</email></address></author>
-<date year='1989' day='1' month='August' /></front>
-
-<seriesInfo name='RFC' value='1111' />
-<format type='TXT' octets='11793' target='http://www.rfc-editor.org/rfc/rfc1111.txt' />
+<title>Request for comments on Request for Comments: Instructions to RFC authors</title>
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<date year='1989' month='August' />
+<abstract><t>This RFC specifies a standard for the Internet community.  Authors of RFCs are expected to adopt and implement this standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1111'/>
+<seriesInfo name='DOI' value='10.17487/RFC1111'/>
 </reference>

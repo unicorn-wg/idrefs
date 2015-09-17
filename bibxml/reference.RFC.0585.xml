@@ -1,21 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0585'>
-
+<reference  anchor='RFC0585' target='http://www.rfc-editor.org/info/rfc585'>
 <front>
-<title abbrev='USING Working Group Meeting'>ARPANET users interest working group meeting</title>
-<author initials='D.' surname='Crocker' fullname='D. Crocker'>
-<organization>University of California, Los Angeles (UCLA), New Media Centers (NMC)</organization></author>
-<author initials='N.' surname='Neigus' fullname='N. Neigus'>
-<organization>Bolt Beranek and Newman Inc. (BBN), Network Control Center (NET)</organization></author>
-<author initials='J.' surname='Feinler' fullname='J. Feinler'>
-<organization>Stanford Research Institute (SRI), Augmentation Research Center (ARC)</organization></author>
-<author initials='J.' surname='Iseli' fullname='J. Iseli'>
-<organization>MITRE Corporation, TIP</organization></author>
-<date year='1973' day='6' month='November' />
-<abstract>
-<t>A new group, the Arpanet Users Interest Working Group (USING) is the outgrowth of a meeting held in Boston on May 22-23, 1973.</t></abstract></front>
-
-<seriesInfo name='RFC' value='585' />
-<format type='TXT' octets='18243' target='http://www.rfc-editor.org/rfc/rfc585.txt' />
+<title>ARPANET users interest working group meeting</title>
+<author initials='D.' surname='Crocker' fullname='D. Crocker'><organization /></author>
+<author initials='N.' surname='Neigus' fullname='N. Neigus'><organization /></author>
+<author initials='E.J.' surname='Feinler' fullname='E.J. Feinler'><organization /></author>
+<author initials='J.' surname='Iseli' fullname='J. Iseli'><organization /></author>
+<date year='1973' month='November' />
+</front>
+<seriesInfo name='RFC' value='585'/>
+<seriesInfo name='DOI' value='10.17487/RFC0585'/>
 </reference>

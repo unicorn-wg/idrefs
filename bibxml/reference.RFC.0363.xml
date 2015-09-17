@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0363'>
-
+<reference  anchor='RFC0363' target='http://www.rfc-editor.org/info/rfc363'>
 <front>
 <title>ARPA Network mailing lists</title>
-<author>
-<organization>SRI/Network Information Center</organization></author>
-<date year='1972' month='August' /></front>
-
-<seriesInfo name='RFC' value='363' />
-<format type='TXT' octets='25356' target='http://www.rfc-editor.org/rfc/rfc363.txt' />
+<author><organization>Network Information Center. Stanford Research Institute</organization></author>
+<date year='1972' month='August' />
+</front>
+<seriesInfo name='RFC' value='363'/>
+<seriesInfo name='DOI' value='10.17487/RFC0363'/>
 </reference>

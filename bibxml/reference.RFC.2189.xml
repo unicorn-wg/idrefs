@@ -1,65 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2189'>
-
+<reference  anchor='RFC2189' target='http://www.rfc-editor.org/info/rfc2189'>
 <front>
-<title abbrev='CBTv2 Protocl Specification'>Core Based Trees (CBT version 2) Multicast Routing -- Protocol Specification --</title>
-<author initials='T.' surname='Ballardie' fullname='Tony Ballardie'>
-<organization>Research Consultant</organization>
-<address>
-<email>ABallardie@acm.org</email></address></author>
+<title>Core Based Trees (CBT version 2) Multicast Routing -- Protocol Specification --</title>
+<author initials='A.' surname='Ballardie' fullname='A. Ballardie'><organization /></author>
 <date year='1997' month='September' />
-<area>Routing</area>
-<keyword>Core Based Tree</keyword>
-<keyword>multicast</keyword>
-<keyword>routing</keyword>
-<abstract>
-<t>
-   This document describes the Core Based Tree (CBT version 2) network
-   layer multicast routing protocol. CBT builds a shared multicast
-   distribution tree per group, and is suited to inter- and intra-domain
-   multicast routing.
-</t>
-<t>
-   CBT may use a separate multicast routing table, or it may use that of
-   underlying unicast routing, to establish paths between senders and
-   receivers. The CBT architecture is described in .
-</t>
-<t>
-   This document is progressing through the IDMR working group of the
-   IETF.  CBT related documents include [1, 5, 6]. For all IDMR-related
-   documents, see http://www.cs.ucl.ac.uk/ietf/idmr.
-</t>
-<t>
-   This version of the CBT protocol specification differs significantly
-   from the previous version. Consequently, this version represents
-   version 2 of the CBT protocol.  CBT version 2 is not, and was not,
-   intended to be backwards compatible with version 1; we do not expect
-   this to cause extensive compatibility problems because we do not
-   believe CBT is at all widely deployed at this stage. However, any
-   future versions of CBT can be expected to be backwards compatible
-   with this version.
-   The most significant changes to version 2 compared to version 1
-   include:
-
-<list>
-<t>
-   o new LAN mechanisms, including the incorporation of an HELLO
-     protocol.
-</t>
-<t>
-   o new simplified packet formats, with the definition of a common CBT
-     control packet header.
-</t>
-<t>
-   o each group shared tree has only one active core router.
-</t></list></t>
-<t>
-     This specification revision is a complete re-write of the previous
-     revision.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2189' />
-<format type='TXT' octets='52043' target='http://www.rfc-editor.org/rfc/rfc2189.txt' />
-<format type='XML' octets='53430' target='http://xml.resource.org/public/rfc/xml/rfc2189.xml' />
+<abstract><t>This document describes the Core Based Tree (CBT version 2) network layer multicast routing protocol. CBT builds a shared multicast distribution tree per group, and is suited to inter- and intra-domain multicast routing.  This memo defines an Experimental Protocol for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2189'/>
+<seriesInfo name='DOI' value='10.17487/RFC2189'/>
 </reference>

@@ -1,40 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1505'>
-
+<reference  anchor='RFC1505' target='http://www.rfc-editor.org/info/rfc1505'>
 <front>
-<title abbrev='Encoding Header Field'>Encoding Header Field for Internet Messages</title>
-<author initials='A.' surname='Costanzo' fullname='Albert K. Costanzo'>
-<organization>AKC Consulting Inc.</organization>
-<address>
-<postal>
-<street>P.O. Box 4031</street>
-<city>Roselle Park</city>
-<region>NJ</region>
-<code>07204-0531</code>
-<country>US</country></postal>
-<phone>+1 908 298 9000</phone>
-<email>AL@AKC.COM</email></address></author>
-<author initials='D.' surname='Robinson' fullname='David Robinson'>
-<organization>Computervision Corporation</organization>
-<address>
-<postal>
-<street>100 Crosby Drive</street>
-<city>Bedford</city>
-<region>MA</region>
-<code>01730</code>
-<country>US</country></postal>
-<phone>+1 617 275 1800 x2774</phone>
-<email>DRB@Relay.CV.COM</email></address></author>
-<author initials='R.' surname='Ullmann' fullname='Robert Ullmann'>
-<organization />
-<address>
-<phone>+1 617 247 7959</phone>
-<email>ariel@world.std.com</email></address></author>
+<title>Encoding Header Field for Internet Messages</title>
+<author initials='A.' surname='Costanzo' fullname='A. Costanzo'><organization /></author>
+<author initials='D.' surname='Robinson' fullname='D. Robinson'><organization /></author>
+<author initials='R.' surname='Ullmann' fullname='R. Ullmann'><organization /></author>
 <date year='1993' month='August' />
-<abstract>
-<t>This document expands upon the elective experimental Encoding header field which permits the mailing of multi-part, multi-structured messages.  It replaces RFC 1154.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1505' />
-<format type='TXT' octets='63796' target='http://www.rfc-editor.org/rfc/rfc1505.txt' />
+<abstract><t>This document expands upon the elective experimental Encoding header field which permits the mailing of multi-part, multi-structured messages.  It replaces RFC 1154. This memo defines an Experimental Protocol for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1505'/>
+<seriesInfo name='DOI' value='10.17487/RFC1505'/>
 </reference>

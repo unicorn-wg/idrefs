@@ -1,47 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2425'>
-
+<reference  anchor='RFC2425' target='http://www.rfc-editor.org/info/rfc2425'>
 <front>
-<title abbrev='MIME Content-Type for Directory Information'>A MIME Content-Type for Directory Information</title>
-<author initials='T.' surname='Howes' fullname='Tim Howes'>
-<organization>Netscape Communications Corp.</organization>
-<address>
-<postal>
-<street>501 East Middlefield Rd.</street>
-<street>Mountain View</street>
-<street>CA 94041</street>
-<country>USA</country></postal>
-<phone>+1.415.937.3419</phone>
-<email>howes@netscape.com</email></address></author>
-<author initials='M.' surname='Smith' fullname='Mark Smith'>
-<organization>Netscape Communications Corp.</organization>
-<address>
-<postal>
-<street>501 East Middlefield Rd.</street>
-<street>Mountain View</street>
-<street>CA 94041</street>
-<country>USA</country></postal>
-<phone>+1.415.937.3477</phone>
-<email>mcs@netscape.com</email></address></author>
-<author initials='F.' surname='Dawson' fullname='Frank Dawson'>
-<organization>Lotus Development Corporation</organization>
-<address>
-<postal>
-<street>6544 Battleford Drive</street>
-<street>Raleigh</street>
-<street>NC 27613</street>
-<country>USA</country></postal>
-<phone>+1-919-676-9515</phone>
-<email>frank_dawson@lotus.com</email></address></author>
+<title>A MIME Content-Type for Directory Information</title>
+<author initials='T.' surname='Howes' fullname='T. Howes'><organization /></author>
+<author initials='M.' surname='Smith' fullname='M. Smith'><organization /></author>
+<author initials='F.' surname='Dawson' fullname='F. Dawson'><organization /></author>
 <date year='1998' month='September' />
-<area>Applications</area>
-<keyword>MIME</keyword>
-<keyword>content-type</keyword>
-<keyword>directory</keyword>
-<keyword>multipurpose internet mail extensions</keyword></front>
-
-<seriesInfo name='RFC' value='2425' />
-<format type='TXT' octets='64478' target='http://www.rfc-editor.org/rfc/rfc2425.txt' />
-<format type='XML' octets='67297' target='http://xml.resource.org/public/rfc/xml/rfc2425.xml' />
+<abstract><t>This document defines a MIME Content-Type for holding directory information.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2425'/>
+<seriesInfo name='DOI' value='10.17487/RFC2425'/>
 </reference>

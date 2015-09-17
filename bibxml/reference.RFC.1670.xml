@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1670'>
-
+<reference  anchor='RFC1670' target='http://www.rfc-editor.org/info/rfc1670'>
 <front>
 <title>Input to IPng Engineering Considerations</title>
-<author initials='D.' surname='Heagerty' fullname='Denise Heagerty'>
-<organization>CERN, Communications Systems, Computing and Networks Division</organization>
-<address>
-<postal>
-<street>1211 Geneva 23</street>
-<city />
-<region />
-<code />
-<country>CH</country></postal>
-<phone>+41 22 7674975</phone>
-<facsimile>+41 22 7677155</facsimile>
-<email>denise@dxcoms.cern.ch</email></address></author>
+<author initials='D.' surname='Heagerty' fullname='D. Heagerty'><organization /></author>
 <date year='1994' month='August' />
-<abstract>
-<t>This document was submitted to the IETF IPng area in response to RFC 1550.  Publication of this document does not imply acceptance by the IPng area of any ideas expressed within.  Comments should be submitted to the big-internet@munnari.oz.au mailing list.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1670' />
-<format type='TXT' octets='5350' target='http://www.rfc-editor.org/rfc/rfc1670.txt' />
+<abstract><t>This white paper expresses some personal opinions on IPng engineering considerations, based on experience with DECnet Phase V transition.  It suggests breaking down the IPng decisions and transition tasks into smaller parts so they can be tackled early by the relevant experts. This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1670'/>
+<seriesInfo name='DOI' value='10.17487/RFC1670'/>
 </reference>

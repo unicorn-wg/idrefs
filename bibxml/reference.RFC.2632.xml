@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2632'>
-
+<reference  anchor='RFC2632' target='http://www.rfc-editor.org/info/rfc2632'>
 <front>
 <title>S/MIME Version 3 Certificate Handling</title>
-<author initials='B.' surname='Ramsdell' fullname='Blake Ramsdell'>
-<organization>Worldtalk</organization>
-<address>
-<postal>
-<street>17720 NE 65th Street</street>
-<street>Suite 201</street>
-<city>Redmond</city>
-<region>WA</region>
-<code>98052</code>
-<country>US</country></postal>
-<phone>+1 425 376 0225</phone>
-<email>blaker@deming.com</email></address></author>
-<date year='1999' month='June' /></front>
-
-<seriesInfo name='RFC' value='2632' />
-<format type='TXT' octets='27925' target='http://www.rfc-editor.org/rfc/rfc2632.txt' />
+<author initials='B.' surname='Ramsdell' fullname='B. Ramsdell' role='editor'><organization /></author>
+<date year='1999' month='June' />
+<abstract><t>S/MIME (Secure/Multipurpose Internet Mail Extensions), provides a method to send and receive secure MIME messages. Before using a public key to provide security services, the S/MIME agent MUST certify that the public key is valid. S/MIME agents MUST use PKIX certificates to validate public keys as described in the Internet X.509 Public Key Infrastructure (PKIX) Certificate and CRL Profile.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2632'/>
+<seriesInfo name='DOI' value='10.17487/RFC2632'/>
 </reference>

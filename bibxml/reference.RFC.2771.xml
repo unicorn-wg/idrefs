@@ -1,19 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2771'>
-
+<reference  anchor='RFC2771' target='http://www.rfc-editor.org/info/rfc2771'>
 <front>
 <title>An Abstract API for Multicast Address Allocation</title>
-<author initials='R.' surname='Finlayson' fullname='Ross Finlayson'>
-<organization>Live Networks, Inc. (LIVE.COM)</organization>
-<address>
-<email>finlayson@live.com</email>
-<uri>http://www.live.com/</uri></address></author>
+<author initials='R.' surname='Finlayson' fullname='R. Finlayson'><organization /></author>
 <date year='2000' month='February' />
-<abstract>
-<t>This document describes the "abstract service interface" for the dynamic multicast address allocation service, as seen by applications.  While it does not describe a concrete API (i.e., for a specific programming language), it describes - in abstract terms -  the semantics of this service, including the guarantees that it makes to applications.</t>
-<t>Additional documents (not necessarily products of the IETF) would describe concrete APIs for this service.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2771' />
-<format type='TXT' octets='20954' target='http://www.rfc-editor.org/rfc/rfc2771.txt' />
+<abstract><t>This document describes the &quot;abstract service interface&quot; for the dynamic multicast address allocation service, as seen by applications.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2771'/>
+<seriesInfo name='DOI' value='10.17487/RFC2771'/>
 </reference>

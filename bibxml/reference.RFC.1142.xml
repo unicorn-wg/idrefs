@@ -1,25 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1142'>
-
+<reference  anchor='RFC1142' target='http://www.rfc-editor.org/info/rfc1142'>
 <front>
 <title>OSI IS-IS Intra-domain Routing Protocol</title>
-<author initials='D.' surname='Oran' fullname='David R. Oran'>
-<organization>Digital Equipment Corporation (DEC)</organization>
-<address>
-<postal>
-<street>550 King Street</street>
-<street>LKG 1-2/a 19</street>
-<city>Littleton</city>
-<region>MA</region>
-<code>01460</code>
-<country>US</country></postal>
-<phone>+1 508 486 7377</phone>
-<email>Oran@Oran.enet.dec.com</email></address></author>
-<date year='1990' day='1' month='February' /></front>
-
-<seriesInfo name='RFC' value='1142' />
-<format type='TXT' octets='425379' target='http://www.rfc-editor.org/rfc/rfc1142.txt' />
-<format type='PS' octets='1440951' target='http://www.rfc-editor.org/rfc/rfc1142.ps' />
-<format type='PDF' octets='490300' target='http://www.rfc-editor.org/rfc/rfc1142.pdf' />
+<author initials='D.' surname='Oran' fullname='D. Oran' role='editor'><organization /></author>
+<date year='1990' month='February' />
+<abstract><t>This RFC is a republication of ISO DP 10589 as a service to the Internet community.  This is not an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1142'/>
+<seriesInfo name='DOI' value='10.17487/RFC1142'/>
 </reference>

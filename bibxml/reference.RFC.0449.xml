@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0449'>
-
+<reference  anchor='RFC0449' target='http://www.rfc-editor.org/info/rfc449'>
 <front>
 <title>Current flow-control scheme for IMPSYS</title>
-<author initials='D.' surname='Walden' fullname='Dave Walden'>
-<organization>Bolt Baranek and Newman (BBN), NET</organization></author>
-<date year='1973' day='6' month='January' />
-<abstract>
-<t>While Vint's notes on IMPSYS flow-control from the March 16, 1972, meeting (RFC 442) seem reasonably accurate and while he does cite our Quarterly Technical Report #13, he might have done better to cite BBN's two formal publications relevant to the IMPSYS flow-control scheme:</t></abstract></front>
-
-<seriesInfo name='RFC' value='449' />
-<format type='TXT' octets='1662' target='http://www.rfc-editor.org/rfc/rfc449.txt' />
+<author initials='D.C.' surname='Walden' fullname='D.C. Walden'><organization /></author>
+<date year='1973' month='January' />
+</front>
+<seriesInfo name='RFC' value='449'/>
+<seriesInfo name='DOI' value='10.17487/RFC0449'/>
 </reference>

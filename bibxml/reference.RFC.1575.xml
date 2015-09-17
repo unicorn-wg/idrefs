@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1575'>
-
+<reference  anchor='RFC1575' target='http://www.rfc-editor.org/info/rfc1575'>
 <front>
 <title>An Echo Function for CLNP (ISO 8473)</title>
-<author initials='S.' surname='Hares' fullname='Susan K. Hares'>
-<organization>MERIT/NSFNET, Internet Engineering,</organization>
-<address>
-<postal>
-<street>1075 Beal Avenue</street>
-<city>Ann Arbor</city>
-<region>MI</region>
-<code>48109-2112</code>
-<country>US</country></postal>
-<phone>+1 313 936 3000</phone>
-<email>skh@merit.edu</email></address></author>
-<author initials='C.' surname='Wittbrodt' fullname='Cathy J. Wittbrodt'>
-<organization>Stanford University/BARRNet, Networking Systems</organization>
-<address>
-<postal>
-<street>Pine Hall 115</street>
-<city>Stanford</city>
-<region>CA</region>
-<code>94305</code>
-<country>US</country></postal>
-<phone>+1 415 725 5481</phone>
-<email>cjw@magnolia.Stanford.EDU</email></address></author>
+<author initials='S.' surname='Hares' fullname='S. Hares'><organization /></author>
+<author initials='C.' surname='Wittbrodt' fullname='C. Wittbrodt'><organization /></author>
 <date year='1994' month='February' />
-<abstract>
-<t>This memo defines an echo function for the connection-less network layer protocol.  The mechanism that is mandated here is in the final process of being standardized by ISO as "Amendment X: Addition of an Echo function to ISO 8473" an integral part of Version 2 of ISO 8473.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1575' />
-<format type='TXT' octets='22479' target='http://www.rfc-editor.org/rfc/rfc1575.txt' />
+<abstract><t>This memo defines an echo function for the connection-less network layer protocol.  The mechanism that is mandated here is in the final process of being standardized by ISO as &quot;Amendment X: Addition of an Echo function to ISO 8473&quot; an integral part of Version 2 of ISO 8473. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1575'/>
+<seriesInfo name='DOI' value='10.17487/RFC1575'/>
 </reference>

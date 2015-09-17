@@ -1,69 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1536'>
-
+<reference  anchor='RFC1536' target='http://www.rfc-editor.org/info/rfc1536'>
 <front>
-<title abbrev='Common DNS Implementation Errors'>Common DNS Implementation Errors and Suggested Fixes</title>
-<author initials='A.' surname='Kumar' fullname='Anant Kumar'>
-<organization>USC Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292-6695</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511</phone>
-<facsimile>+1 310 823 6741</facsimile>
-<email>anant@isi.edu</email></address></author>
-<author initials='J.' surname='Postel' fullname='Jon Postel'>
-<organization>USC Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292-6695</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511</phone>
-<facsimile>+1 310 823 6714</facsimile>
-<email>postel@isi.edu</email></address></author>
-<author initials='C.' surname='Neuman' fullname='Cliff Neuman'>
-<organization>USC Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292-6695</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511</phone>
-<facsimile>+1 310 823 6714</facsimile>
-<email>bcn@isi.edu</email></address></author>
-<author initials='P.' surname='Danzig' fullname='Peter Danzig'>
-<organization>University of Southern California, Computer Science Department</organization>
-<address>
-<postal>
-<street>University Park</street>
-<city>Los Angeles</city>
-<region>CA</region>
-<code>90089</code>
-<country>US</country></postal>
-<email>danzig@caldera.usc.edu</email></address></author>
-<author initials='S.' surname='Miller' fullname='Steve Miller'>
-<organization>University of Southern California, Computer Science Department</organization>
-<address>
-<postal>
-<street>University Park</street>
-<city>Los Angeles</city>
-<region>CA</region>
-<code>90089</code>
-<country>US</country></postal>
-<email>smiller@caldera.usc.edu</email></address></author>
+<title>Common DNS Implementation Errors and Suggested Fixes</title>
+<author initials='A.' surname='Kumar' fullname='A. Kumar'><organization /></author>
+<author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
+<author initials='C.' surname='Neuman' fullname='C. Neuman'><organization /></author>
+<author initials='P.' surname='Danzig' fullname='P. Danzig'><organization /></author>
+<author initials='S.' surname='Miller' fullname='S. Miller'><organization /></author>
 <date year='1993' month='October' />
-<abstract>
-<t>This memo describes common errors seen in DNS implementations and suggests some fixes. Where applicable, violations of recommendations from STD 13, RFC 1034 and STD 13, RFC 1035 are mentioned. The memo also describes, where relevant, the algorithms followed in BIND (versions 4.8.3 and 4.9 which the authors referred to) to serve as an example.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1536' />
-<format type='TXT' octets='25476' target='http://www.rfc-editor.org/rfc/rfc1536.txt' />
+<abstract><t>This memo describes common errors seen in DNS implementations and suggests some fixes.  This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1536'/>
+<seriesInfo name='DOI' value='10.17487/RFC1536'/>
 </reference>

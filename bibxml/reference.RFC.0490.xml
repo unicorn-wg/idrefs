@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0490'>
-
+<reference  anchor='RFC0490' target='http://www.rfc-editor.org/info/rfc490'>
 <front>
 <title>Surrogate RJS for UCLA-CCN</title>
-<author initials='J.' surname='Pickens' fullname='John R. Pickens'>
-<organization>University of California, Santa Barbara (UCSB)</organization></author>
-<date year='1973' day='6' month='March' />
-<abstract>
-<t>By using UCSB's Network Standard RJS* users can now gain access to UCLA-CCN's RJS without converting to the UCLA protocol.  In addition, the need to use and create files in an intermediate host is avoided. For example, TIP users may operate with hot card readers and printers through UCSB's Remote Job Server and have their jobs execute at UCLA-CCN.</t></abstract></front>
-
-<seriesInfo name='RFC' value='490' />
-<format type='TXT' octets='9858' target='http://www.rfc-editor.org/rfc/rfc490.txt' />
+<author initials='J.R.' surname='Pickens' fullname='J.R. Pickens'><organization /></author>
+<date year='1973' month='March' />
+</front>
+<seriesInfo name='RFC' value='490'/>
+<seriesInfo name='DOI' value='10.17487/RFC0490'/>
 </reference>

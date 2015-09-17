@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0399'>
-
+<reference  anchor='RFC0399' target='http://www.rfc-editor.org/info/rfc399'>
 <front>
 <title>SMFS Login and Logout</title>
-<author initials='M.' surname='Krilanovich' fullname='Mark Krilanovich'>
-<organization>University of California, Santa Barbara (UCSB)</organization></author>
-<date year='1972' day='26' month='September' />
-<abstract>
-<t>Two new commands have been added to UCSB's Simple Minded File System (SMFS).</t></abstract></front>
-
-<seriesInfo name='RFC' value='399' />
-<format type='TXT' octets='3024' target='http://www.rfc-editor.org/rfc/rfc399.txt' />
+<author initials='M.' surname='Krilanovich' fullname='M. Krilanovich'><organization /></author>
+<date year='1972' month='September' />
+</front>
+<seriesInfo name='RFC' value='399'/>
+<seriesInfo name='DOI' value='10.17487/RFC0399'/>
 </reference>

@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0453'>
-
+<reference  anchor='RFC0453' target='http://www.rfc-editor.org/info/rfc453'>
 <front>
-<title abbrev='Meeting to Discuss a Network Mail System'>Meeting announcement to discuss a network mail system</title>
-<author initials='M.' surname='Kudlick' fullname='Michael D. Kudlick'>
-<organization>Stanford Research Institute (SRI) International,  Augmentation Research Center (ARC)</organization></author>
-<date year='1973' day='7' month='February' />
-<abstract>
-<t>The purpose of this RFC is to announce a meeting at SRI-ARC on the Network Mail problem discussed at the January 1973 Principal Investigators' Meeting in San Diego.</t></abstract></front>
-
-<seriesInfo name='RFC' value='453' />
-<format type='TXT' octets='4572' target='http://www.rfc-editor.org/rfc/rfc453.txt' />
+<title>Meeting announcement to discuss a network mail system</title>
+<author initials='M.D.' surname='Kudlick' fullname='M.D. Kudlick'><organization /></author>
+<date year='1973' month='February' />
+</front>
+<seriesInfo name='RFC' value='453'/>
+<seriesInfo name='DOI' value='10.17487/RFC0453'/>
 </reference>

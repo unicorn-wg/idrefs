@@ -1,37 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2685'>
-
+<reference  anchor='RFC2685' target='http://www.rfc-editor.org/info/rfc2685'>
 <front>
 <title>Virtual Private Networks Identifier</title>
-<author initials='B.' surname='Fox' fullname='Barbara A. Fox'>
-<organization>Lucent Technologies</organization>
-<address>
-<postal>
-<street>300 Baker Avenue</street>
-<street>Suite 100</street>
-<city>Concord</city>
-<region>MA</region>
-<code>01742-2168</code>
-<country>US</country></postal>
-<phone>+1 978 287 2843</phone>
-<email>barbarafox@lucent.com</email></address></author>
-<author initials='B.' surname='Gleeson' fullname='Bryan Gleeson'>
-<organization>Nortel Networks</organization>
-<address>
-<postal>
-<street>4500 Great America Parkway</street>
-<city>Santa Clara</city>
-<region>CA</region>
-<code>95054</code>
-<country>US</country></postal>
-<phone>+1 408 855 3711</phone>
-<email>bgleeson@shastanets.com</email></address></author>
+<author initials='B.' surname='Fox' fullname='B. Fox'><organization /></author>
+<author initials='B.' surname='Gleeson' fullname='B. Gleeson'><organization /></author>
 <date year='1999' month='September' />
-<abstract>
-<t>Virtual Private IP networks may span multiple Autonomous Systems or Service Providers. There is a requirement for the use of a globally
-unique VPN identifier in order to be able to refer to a particular VPN (see section 6.1.1 of). This document proposes a format for a globally unique VPN identifier.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2685' />
-<format type='TXT' octets='11168' target='http://www.rfc-editor.org/rfc/rfc2685.txt' />
+<abstract><t>This document proposes a format for a globally unique VPN identifier. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2685'/>
+<seriesInfo name='DOI' value='10.17487/RFC2685'/>
 </reference>

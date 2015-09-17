@@ -1,35 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2641'>
-
+<reference  anchor='RFC2641' target='http://www.rfc-editor.org/info/rfc2641'>
 <front>
-<title abbrev='Cabletron&apos;s VlanHello Protocol Version 4'>Cabletron's VlanHello Protocol Specification Version 4</title>
-<author initials='D.' surname='Hamilton' fullname='Dave Hamilton'>
-<organization>Cabletron Systems, Inc.</organization>
-<address>
-<postal>
-<street>POB 5005</street>
-<city>Rochester</city>
-<region>NH</region>
-<code>03866-5005</code>
-<country>US</country></postal>
-<phone>+1 603 332 9400</phone>
-<email>daveh@ctron.com</email></address></author>
-<author initials='D.' surname='Ruffen' fullname='Dave Ruffen'>
-<organization />
-<address>
-<postal>
-<street>POB 5005</street>
-<city>Rochester</city>
-<region>NH</region>
-<code>03866-5005</code>
-<country>US</country></postal>
-<phone>+1 603 332 9400</phone>
-<email>ruffen@ctron.com</email></address></author>
+<title>Cabletron's VlanHello Protocol Specification Version 4</title>
+<author initials='D.' surname='Hamilton' fullname='D. Hamilton'><organization /></author>
+<author initials='D.' surname='Ruffen' fullname='D. Ruffen'><organization /></author>
 <date year='1999' month='August' />
-<abstract>
-<t>The VlanHello protocol is part of the InterSwitch Message Protocol (ISMP) which provides interswitch communication between switches running Cabletron's SecureFast VLAN (SFVLAN) product.  Switches use the VlanHello protocol to discover their neighboring switches and establish the topology of the switch fabric.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2641' />
-<format type='TXT' octets='34686' target='http://www.rfc-editor.org/rfc/rfc2641.txt' />
+<abstract><t>The VlanHello protocol is part of the InterSwitch Message Protocol (ISMP) which provides interswitch communication between switches running Cabletron's SecureFast VLAN (SFVLAN) product.  Switches use the VlanHello protocol to discover their neighboring switches and establish the topology of the switch fabric.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2641'/>
+<seriesInfo name='DOI' value='10.17487/RFC2641'/>
 </reference>

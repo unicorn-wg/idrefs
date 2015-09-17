@@ -1,51 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0733'>
-
+<reference  anchor='RFC0733' target='http://www.rfc-editor.org/info/rfc733'>
 <front>
 <title>Standard for the format of ARPA network text messages</title>
-<author initials='D.' surname='Crocker' fullname='David H. Crocker'>
-<organization>The Rand Corporation, Information Sciences Department</organization>
-<address>
-<postal>
-<street>1700 Main St</street>
-<city>Santa Monica</city>
-<region>CA</region>
-<code>90406</code>
-<country>US</country></postal>
-<email>DCrocker@Rand-Unix</email></address></author>
-<author initials='J.' surname='Vittal' fullname='John J. Vittal'>
-<organization>Bolt Beranek and Newman Inc. (BBN)</organization>
-<address>
-<postal>
-<street>50 Moulton St.</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02138</code>
-<country>US</country></postal>
-<email>Vittal@BBN-TenexD</email></address></author>
-<author initials='K.' surname='Pogran' fullname='Kenneth T. Pogran'>
-<organization>Massachusets Institute of Technology (MIT), Laboratory for Computer Science</organization>
-<address>
-<postal>
-<street>545 Technology Square</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02139</code>
-<country>US</country></postal>
-<email>Pogran@MIT-Multics</email></address></author>
-<author initials='D.' surname='Henderson' fullname='D. Austin Henderson, Jr.'>
-<organization>Bolt Beranek and Newman Inc. (BBN)</organization>
-<address>
-<postal>
-<street>50 Moulton St.</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02138</code>
-<country>US</country></postal>
-<email>Henderson@BBN-TenexD</email></address></author>
-<date year='1977' day='21' month='November' /></front>
-
-<seriesInfo name='RFC' value='733' />
-<format type='TXT' octets='73006' target='http://www.rfc-editor.org/rfc/rfc733.txt' />
+<author initials='D.' surname='Crocker' fullname='D. Crocker'><organization /></author>
+<author initials='J.' surname='Vittal' fullname='J. Vittal'><organization /></author>
+<author initials='K.T.' surname='Pogran' fullname='K.T. Pogran'><organization /></author>
+<author initials='D.A.' surname='Henderson' fullname='D.A. Henderson'><organization /></author>
+<date year='1977' month='November' />
+</front>
+<seriesInfo name='RFC' value='733'/>
+<seriesInfo name='DOI' value='10.17487/RFC0733'/>
 </reference>

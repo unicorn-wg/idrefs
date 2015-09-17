@@ -1,27 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0724'>
-
+<reference  anchor='RFC0724' target='http://www.rfc-editor.org/info/rfc724'>
 <front>
-<title abbrev='Proposed Standard for Message Format'>Proposed official standard for the format of ARPA Network messages</title>
-<author initials='K.' surname='Pogran' fullname='Ken Pogran'>
-<organization>Massachusetts Institute of Technology (MIT), LCS/CSR</organization>
-<address>
-<email>Pogran@MIT-Multics</email></address></author>
-<author initials='J.' surname='Vittal' fullname='John Vittal'>
-<organization>Bolt Baranek and Newman (BBN)</organization>
-<address>
-<email>Vittal@BBN-TENEXA</email></address></author>
-<author initials='D.' surname='Crocker' fullname='Dave Crocker'>
-<organization>The Rand Corporation, Information Sciences Department</organization>
-<address>
-<email>DCrocker@Rand-Unix</email></address></author>
-<author initials='A.' surname='Henderson' fullname='Austin Henderson'>
-<organization>Bolt Baranek and Newman (BBN)</organization>
-<address>
-<email>Henderson@BBN-TENEXD</email></address></author>
-<date year='1977' day='12' month='May' /></front>
-
-<seriesInfo name='RFC' value='724' />
-<format type='TXT' octets='75554' target='http://www.rfc-editor.org/rfc/rfc724.txt' />
+<title>Proposed official standard for the format of ARPA Network messages</title>
+<author initials='D.' surname='Crocker' fullname='D. Crocker'><organization /></author>
+<author initials='K.T.' surname='Pogran' fullname='K.T. Pogran'><organization /></author>
+<author initials='J.' surname='Vittal' fullname='J. Vittal'><organization /></author>
+<author initials='D.A.' surname='Henderson' fullname='D.A. Henderson'><organization /></author>
+<date year='1977' month='May' />
+</front>
+<seriesInfo name='RFC' value='724'/>
+<seriesInfo name='DOI' value='10.17487/RFC0724'/>
 </reference>

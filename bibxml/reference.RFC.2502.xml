@@ -1,48 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2502'>
-
+<reference  anchor='RFC2502' target='http://www.rfc-editor.org/info/rfc2502'>
 <front>
-<title abbrev='Limitations of Internet Protocol Suite'>Limitations of Internet Protocol Suite for Distributed Simulation the Large Multicast Environment</title>
-<author initials='J.M.' surname='Pullen' fullname='J. Mark Pullen'>
-<organization>Computer Science/C3I Center</organization>
-<address>
-<postal>
-<street>MS 4A5</street>
-<street>George Mason University</street>
-<street>Fairfax</street>
-<street>VA 22032</street></postal>
-<email>mpullen@gmu.edu</email></address></author>
-<author initials='M.' surname='Myjak' fullname='Michael Myjak'>
-<organization>The Virtual Workshop</organization>
-<address>
-<postal>
-<street>P.O. Box 98</street>
-<street>Titusville</street>
-<street>FL 32781</street></postal>
-<email>mmyjak@virtualworkshop.com</email></address></author>
-<author initials='C.' surname='Bouwens' fullname='Christina Bouwens'>
-<organization>ASSET Group, SAIC Inc.</organization>
-<address>
-<postal>
-<street>Orlando</street>
-<street>FL</street></postal>
-<email>christina.bouwens@cpmx.mail.saic.com</email></address></author>
+<title>Limitations of Internet Protocol Suite for Distributed Simulation the Large Multicast Environment</title>
+<author initials='M.' surname='Pullen' fullname='M. Pullen'><organization /></author>
+<author initials='M.' surname='Myjak' fullname='M. Myjak'><organization /></author>
+<author initials='C.' surname='Bouwens' fullname='C. Bouwens'><organization /></author>
 <date year='1999' month='February' />
-<area>Internet</area>
-<keyword>multicast</keyword>
-<abstract>
-<t>
-   The Large-Scale Multicast Applications (LSMA) working group was
-   chartered to produce documents aimed at a consensus based development
-   of the Internet protocols to support large scale multicast
-   applications including real-time distributed simulation.  This memo
-   defines services that LSMA has found to be required, and aspects of
-   the Internet protocols that LSMA has found to need further
-   development in order to meet these requirements.
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2502' />
-<format type='TXT' octets='28190' target='http://www.rfc-editor.org/rfc/rfc2502.txt' />
-<format type='XML' octets='30992' target='http://xml.resource.org/public/rfc/xml/rfc2502.xml' />
+<abstract><t>This memo defines services that LSMA has found to be required, and aspects of the Internet protocols that LSMA has found to need further development in order to meet these requirements. This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2502'/>
+<seriesInfo name='DOI' value='10.17487/RFC2502'/>
 </reference>

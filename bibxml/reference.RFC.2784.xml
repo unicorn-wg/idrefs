@@ -1,55 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2784'>
-
+<reference  anchor='RFC2784' target='http://www.rfc-editor.org/info/rfc2784'>
 <front>
-<title abbrev='Generic Routing Encapsulation'>Generic Routing Encapsulation (GRE)</title>
-<author initials='D.' surname='Farinacci' fullname='Dino Farinacci'>
-<organization>Procket Networks</organization>
-<address>
-<postal>
-<street>3850 No. First St.</street>
-<street>Ste. C</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134</code>
-<country>US</country></postal>
-<email>dino@procket.com</email></address></author>
-<author initials='T.' surname='Li' fullname='Tony Li'>
-<organization>Procket Networks</organization>
-<address>
-<postal>
-<street>3850 No. First St.</street>
-<street>Ste. C</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134</code>
-<country>US</country></postal>
-<phone>+1 408 954 7903</phone>
-<facsimile>+1 408 987 6166</facsimile>
-<email>tony1@home.net</email></address></author>
-<author initials='S.' surname='Hanks' fullname='Stan Hanks'>
-<organization>Enron Communications</organization>
-<address>
-<email>stan_hanks@enron.net</email></address></author>
-<author initials='D.' surname='Meyer' fullname='David Meyer'>
-<organization>Cisco Systems, Inc.</organization>
-<address>
-<postal>
-<street>170 Tasman Drive</street>
-<city>San Jose</city>
-<region>CA</region>
-<code>95134</code>
-<country>US</country></postal>
-<email>dmm@cisco.com</email></address></author>
-<author initials='P.' surname='Traina' fullname='Paul Traina'>
-<organization>Juniper Networks</organization>
-<address>
-<email>pst@juniper.net</email></address></author>
+<title>Generic Routing Encapsulation (GRE)</title>
+<author initials='D.' surname='Farinacci' fullname='D. Farinacci'><organization /></author>
+<author initials='T.' surname='Li' fullname='T. Li'><organization /></author>
+<author initials='S.' surname='Hanks' fullname='S. Hanks'><organization /></author>
+<author initials='D.' surname='Meyer' fullname='D. Meyer'><organization /></author>
+<author initials='P.' surname='Traina' fullname='P. Traina'><organization /></author>
 <date year='2000' month='March' />
-<abstract>
-<t>This document specifies a protocol for encapsulation of an arbitrary network layer protocol over another arbitrary network layer protocol.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2784' />
-<format type='TXT' octets='16627' target='http://www.rfc-editor.org/rfc/rfc2784.txt' />
+<abstract><t>This document specifies a protocol for encapsulation of an arbitrary network layer protocol over another arbitrary network layer protocol. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2784'/>
+<seriesInfo name='DOI' value='10.17487/RFC2784'/>
 </reference>

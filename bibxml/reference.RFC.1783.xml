@@ -1,37 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1783'>
-
+<reference  anchor='RFC1783' target='http://www.rfc-editor.org/info/rfc1783'>
 <front>
 <title>TFTP Blocksize Option</title>
-<author initials='G.S.' surname='Malkin' fullname='Gary Scott Malkin'>
-<organization>Xylogics, Inc.</organization>
-<address>
-<postal>
-<street>53 Third Avenue</street>
-<city>Burlington</city>
-<region>MA</region>
-<code>01803</code>
-<country>US</country></postal>
-<phone>+1 617 272 8140</phone>
-<email>gmalkin@xylogics.com</email></address></author>
-<author initials='A.' surname='Harkin' fullname='Art Harkin'>
-<organization>Internet Services Project, Information Networks Division</organization>
-<address>
-<postal>
-<street>19420 Homestead Road</street>
-<street>MS 43LN</street>
-<city>Cupertino</city>
-<region>CA</region>
-<code>95014</code>
-<country>US</country></postal>
-<phone>+1 408 447 3755</phone>
-<email>ash@cup.hp.com</email></address></author>
+<author initials='G.' surname='Malkin' fullname='G. Malkin'><organization /></author>
+<author initials='A.' surname='Harkin' fullname='A. Harkin'><organization /></author>
 <date year='1995' month='March' />
-<abstract>
-<t>The Trivial File Transfer Protocolis a simple, lock-step, file transfer protocol which allows a client to get or put a file onto a remote host.  One of its primary uses is the booting of diskless nodes on a Local Area Network.  TFTP is used because it is very simple to implement in a small node's limited ROM space.  However, the choice of a 512-byte blocksize is not the most efficient for use on a LAN whose MTU may 1500 bytes or greater.</t>
-<t>This document describes a TFTP option which allows the client and server to negotiate a blocksize more applicable to the network medium.  The TFTP Option Extension mechanism is described in.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1783' />
-<format type='TXT' octets='7814' target='http://www.rfc-editor.org/rfc/rfc1783.txt' />
+<abstract><t>This document describes a TFTP option which allows the client and server to negotiate a blocksize more applicable to the network medium. [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1783'/>
+<seriesInfo name='DOI' value='10.17487/RFC1783'/>
 </reference>

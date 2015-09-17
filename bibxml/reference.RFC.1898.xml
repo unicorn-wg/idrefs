@@ -1,61 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1898'>
-
+<reference  anchor='RFC1898' target='http://www.rfc-editor.org/info/rfc1898'>
 <front>
-<title abbrev='CyberCash Version 0.8'>CyberCash Credit Card Protocol Version 0.8</title>
-<author initials='D.' surname='Eastlake' fullname='Donald E. Eastlake 3rd'>
-<organization>CyberCash, Inc.</organization>
-<address>
-<postal>
-<street>318 Acton Street</street>
-<city>Carlisle</city>
-<region>MA</region>
-<code>01741</code>
-<country>US</country></postal>
-<phone>+1 508 287 4877</phone>
-<email>dee@cybercash.com</email></address></author>
-<author initials='B.' surname='Boesch' fullname='Brian Boesch'>
-<organization>CyberCash, Inc.</organization>
-<address>
-<postal>
-<street>2100 Reston Parkway</street>
-<street>Suite 430</street>
-<city>Reston</city>
-<region>VA</region>
-<code>22091</code>
-<country>US</country></postal>
-<phone>+1 703 620 4200</phone>
-<email>boesch@cybercash.com</email></address></author>
-<author initials='S.' surname='Crocker' fullname='Steve Crocker'>
-<organization>CyberCash, Inc.</organization>
-<address>
-<postal>
-<street>2100 Reston Parkway</street>
-<street>Suite 430</street>
-<city>Reston</city>
-<region>VA</region>
-<code>22091</code>
-<country>US</country></postal>
-<phone>+1 703 620 4200</phone>
-<email>crocker@cybercash.com</email></address></author>
-<author initials='M.' surname='Yesil' fullname='Magdalena Yesil'>
-<organization>CyberCash, Inc.</organization>
-<address>
-<postal>
-<street>555 Twin Dolphin Drive</street>
-<street>Suite 570</street>
-<city>Redwood City</city>
-<region>CA</region>
-<code>94065</code>
-<country>US</country></postal>
-<phone>+1 415 594 0800</phone>
-<email>magdalen@cybercash.com</email></address></author>
+<title>CyberCash Credit Card Protocol Version 0.8</title>
+<author initials='D.' surname='Eastlake 3rd' fullname='D. Eastlake 3rd'><organization /></author>
+<author initials='B.' surname='Boesch' fullname='B. Boesch'><organization /></author>
+<author initials='S.' surname='Crocker' fullname='S. Crocker'><organization /></author>
+<author initials='M.' surname='Yesil' fullname='M. Yesil'><organization /></author>
 <date year='1996' month='February' />
-<abstract>
-<t>CyberCash is developing a general payments system for use over the Internet.  The structure and communications protocols of version 0.8 are described.  This version includes credit card payments only.  Additional capabilities are planned for future versions.</t>
-<t>This document covers only the current CyberCash system which is one of the few operational systems in the rapidly evolving area of Internet payments. CyberCash is committed to the further development of its system and to cooperation with the Internet Engineering Task Force and other standards organizations.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1898' />
-<format type='TXT' octets='113633' target='http://www.rfc-editor.org/rfc/rfc1898.txt' />
+<abstract><t>This document covers only the current CyberCash system which is one of the few operational systems in the rapidly evolving area of Internet payments.  This memo provides information for the Internet community. This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1898'/>
+<seriesInfo name='DOI' value='10.17487/RFC1898'/>
 </reference>

@@ -1,47 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1967'>
-
+<reference  anchor='RFC1967' target='http://www.rfc-editor.org/info/rfc1967'>
 <front>
 <title>PPP LZS-DCP Compression Protocol (LZS-DCP)</title>
-<author initials='K.' surname='Schneider' fullname='Kevin Schneider'>
-<organization>Adtran, Inc.</organization>
-<address>
-<postal>
-<street>901 Explorer Blvd.</street>
-<city>Huntsville</city>
-<region>AL</region>
-<code>25806</code>
-<country>US</country></postal>
-<phone>+1 205 971 8024</phone>
-<email>kschneider@adtran.com</email></address></author>
-<author initials='R.' surname='Friend' fullname='Robert Friend'>
-<organization>Stac Technology</organization>
-<address>
-<postal>
-<street>12636 High Bluff Drive</street>
-<city>San Diego</city>
-<region>CA</region>
-<code>92130-2093</code>
-<country>US</country></postal>
-<phone>+1 619 794 4542</phone>
-<email>rfriend@stac.com</email></address></author>
-<author initials='K.' surname='Fox' fullname='Karl Fox'>
-<organization>Ascend Communications</organization>
-<address>
-<postal>
-<street>3518 Riverside Drive</street>
-<street>Suite 101</street>
-<city>Columbus</city>
-<region>OH</region>
-<code>43221</code>
-<country>US</country></postal>
-<email>karl@ascend.com</email></address></author>
+<author initials='K.' surname='Schneider' fullname='K. Schneider'><organization /></author>
+<author initials='R.' surname='Friend' fullname='R. Friend'><organization /></author>
 <date year='1996' month='August' />
-<abstract>
-<t>The Point-to-Point Protocol (PPP)provides a standard method for transporting multi-protocol datagrams over point-to-point links.
-   The PPP Compression Control Protocolprovides a method to negotiate and utilize compression protocols over PPP encapsulated links. This document describes the use of the Stac LZS data compression algorithm for compressing PPP encapsulated packets, using a DCP header. This protocol is an enhanced version of the non-DCP (Option 17) PPP Stac LZS compression protocol, and will be referred to as the LZS-DCP Compression Protocol.</t></abstract></front>
-
-<seriesInfo name='RFC' value='1967' />
-<format type='TXT' octets='40039' target='http://www.rfc-editor.org/rfc/rfc1967.txt' />
+<abstract><t>This document describes the use of the Stac LZS data compression algorithm for compressing PPP encapsulated packets, using a DCP header [6].  This memo provides information for the Internet community.  This memo does not specify an Internet standard of any kind.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1967'/>
+<seriesInfo name='DOI' value='10.17487/RFC1967'/>
 </reference>

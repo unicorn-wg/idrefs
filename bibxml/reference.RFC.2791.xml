@@ -1,23 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2791'>
-
+<reference  anchor='RFC2791' target='http://www.rfc-editor.org/info/rfc2791'>
 <front>
 <title>Scalable Routing Design Principles</title>
-<author initials='J.' surname='Yu' fullname='Jieyun (Jessica) Yu'>
-<organization>CoSine Communications</organization>
-<address>
-<postal>
-<street>1200 Bridge Parkway</street>
-<city>Redwood City</city>
-<region>CA</region>
-<code>94065</code>
-<country>US</country></postal>
-<email>jyy@cosinecom.com</email></address></author>
+<author initials='J.' surname='Yu' fullname='J. Yu'><organization /></author>
 <date year='2000' month='July' />
-<abstract>
-<t>Routing is essential to a network. Routing scalability is essential to a large network. When routing does not scale, there is a direct impact on the stability and performance of a network. Therefore, routing scalability is an important issue, especially for a large network. This document identifies major factors affecting routing scalability as well as basic principles of designing scalable routing for large networks.</t></abstract></front>
-
-<seriesInfo name='RFC' value='2791' />
-<format type='TXT' octets='63416' target='http://www.rfc-editor.org/rfc/rfc2791.txt' />
+<abstract><t>This document identifies major factors affecting routing scalability as well as basic principles of designing scalable routing for large networks.  This memo provides information for the Internet community.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2791'/>
+<seriesInfo name='DOI' value='10.17487/RFC2791'/>
 </reference>

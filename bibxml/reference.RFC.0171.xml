@@ -1,31 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0171'>
-
+<reference  anchor='RFC0171' target='http://www.rfc-editor.org/info/rfc171'>
 <front>
 <title>The Data Transfer Protocol</title>
-<author initials='A.' surname='Bhushan' fullname='Abhay Bhushan'>
-<organization>Massachusetts Institute of Technology (MIT)</organization></author>
-<author initials='B.' surname='Braden' fullname='Bob Braden'>
-<organization>University of California, Los Angeles (UCLA)</organization></author>
-<author initials='W.' surname='Crowther' fullname='Will Crowther'>
-<organization>Bolt Beranek and Newman (BBN)</organization></author>
-<author initials='E.' surname='Harslem' fullname='Eric Harslem'>
-<organization>The Rand Corporation</organization></author>
-<author initials='J.' surname='Heafner' fullname='John Heafner'>
-<organization>The Rand Corporation</organization></author>
-<author initials='A.' surname='McKenzie' fullname='Alex McKenzie'>
-<organization>Bolt Beranek and Newman (BBN)</organization></author>
-<author initials='J.' surname='Melvin' fullname='John Melvin'>
-<organization>Stanford Research Institute (SRI)</organization></author>
-<author initials='B.' surname='Sundberg' fullname='Bob Sundberg'>
-<organization>Harvard University</organization></author>
-<author initials='D.' surname='Watson' fullname='Dick Watson'>
-<organization>Stanford Research Institute (SRI)</organization></author>
-<author initials='J.' surname='White' fullname='Jim White'>
-<organization>University of California, Santa Barbara (UCSB)</organization></author>
-<date year='1971' day='1' month='June' /></front>
-
-<seriesInfo name='RFC' value='171' />
-<format type='TXT' octets='20616' target='http://www.rfc-editor.org/rfc/rfc171.txt' />
+<author initials='A.' surname='Bhushan' fullname='A. Bhushan'><organization /></author>
+<author initials='B.' surname='Braden' fullname='B. Braden'><organization /></author>
+<author initials='W.' surname='Crowther' fullname='W. Crowther'><organization /></author>
+<author initials='E.' surname='Harslem' fullname='E. Harslem'><organization /></author>
+<author initials='J.' surname='Heafner' fullname='J. Heafner'><organization /></author>
+<author initials='A.' surname='McKenize' fullname='A. McKenize'><organization /></author>
+<author initials='J.' surname='Melvin' fullname='J. Melvin'><organization /></author>
+<author initials='B.' surname='Sundberg' fullname='B. Sundberg'><organization /></author>
+<author initials='D.' surname='Watson' fullname='D. Watson'><organization /></author>
+<author initials='J.' surname='White' fullname='J. White'><organization /></author>
+<date year='1971' month='June' />
+</front>
+<seriesInfo name='RFC' value='171'/>
+<seriesInfo name='DOI' value='10.17487/RFC0171'/>
 </reference>

@@ -1,68 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC1287'>
-
+<reference  anchor='RFC1287' target='http://www.rfc-editor.org/info/rfc1287'>
 <front>
-<title abbrev='Future of Internet Architecture'>Towards the Future Internet Architecture</title>
-<author initials='D.' surname='Clark' fullname='David D. Clark'>
-<organization>Massachusetts Institute of Technology (MIT), Laboratory for Computer Science</organization>
-<address>
-<postal>
-<street>545 Main Street</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02139</code>
-<country>US</country></postal>
-<phone>+1 617 253 6003</phone>
-<email>ddc@LCS.MIT.EDU</email></address></author>
-<author initials='V.' surname='Cerf' fullname='Vinton G. Cerf'>
-<organization>Corporation for National Research Initiatives</organization>
-<address>
-<postal>
-<street>1895 Preston White Drive</street>
-<street>Suite 100</street>
-<city>Reston</city>
-<region>VA</region>
-<code>22091</code>
-<country>US</country></postal>
-<phone>+1 703 620 8990</phone>
-<email>vcerf@nri.reston.va.us</email></address></author>
-<author initials='L.' surname='Chapin' fullname='Lyman A. Chapin'>
-<organization>Bolt, Beranek &amp; Newman</organization>
-<address>
-<postal>
-<street>150 Cambridge Park Drive</street>
-<street>Mail Stop 20/5b</street>
-<city>Cambridge</city>
-<region>MA</region>
-<code>02140</code>
-<country>US</country></postal>
-<phone>+1 617 873 3133</phone>
-<email>lyman@BBN.COM</email></address></author>
-<author initials='R.' surname='Braden' fullname='Robert Braden'>
-<organization>USC/Information Sciences Institute</organization>
-<address>
-<postal>
-<street>4676 Admiralty Way</street>
-<city>Marina del Rey</city>
-<region>CA</region>
-<code>90292</code>
-<country>US</country></postal>
-<phone>+1 310 822 1511</phone>
-<email>braden@isi.edu</email></address></author>
-<author initials='R.' surname='Hobby' fullname='Russell Hobby'>
-<organization>University of California, Davis, Computing Services</organization>
-<address>
-<postal>
-<street />
-<city>Davis</city>
-<region>CA</region>
-<code>95616</code>
-<country>US</country></postal>
-<phone>+1 916 752 0236</phone>
-<email>rdhobby@ucdavis.edu</email></address></author>
-<date year='1991' month='December' /></front>
-
-<seriesInfo name='RFC' value='1287' />
-<format type='TXT' octets='59812' target='http://www.rfc-editor.org/rfc/rfc1287.txt' />
+<title>Towards the Future Internet Architecture</title>
+<author initials='D.' surname='Clark' fullname='D. Clark'><organization /></author>
+<author initials='L.' surname='Chapin' fullname='L. Chapin'><organization /></author>
+<author initials='V.' surname='Cerf' fullname='V. Cerf'><organization /></author>
+<author initials='R.' surname='Braden' fullname='R. Braden'><organization /></author>
+<author initials='R.' surname='Hobby' fullname='R. Hobby'><organization /></author>
+<date year='1991' month='December' />
+<abstract><t>This informational RFC discusses important directions for possible future evolution of the Internet architecture, and suggests steps towards the desired goals. This memo provides information for the Internet community.  It does not specify an Internet standard.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='1287'/>
+<seriesInfo name='DOI' value='10.17487/RFC1287'/>
 </reference>

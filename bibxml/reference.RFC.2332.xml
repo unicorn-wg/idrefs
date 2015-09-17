@@ -1,79 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC2332'>
-
+<reference  anchor='RFC2332' target='http://www.rfc-editor.org/info/rfc2332'>
 <front>
-<title abbrev='NBMA NHRP'>NBMA Next Hop Resolution Protocol (NHRP)</title>
-<author initials='J.' surname='Luciani' fullname='J. Luciani'>
-<organization>Bay Networks</organization></author>
-<author initials='D.' surname='Katz' fullname='D. Katz'>
-<organization>cisco Systems</organization></author>
-<author initials='D.' surname='Piscitello' fullname='D. Piscitello'>
-<organization>Core Competence, Inc.</organization></author>
-<author initials='B.' surname='Cole' fullname='B. Cole'>
-<organization>Juniper Networks</organization></author>
-<author initials='N.' surname='Doraswamy' fullname='Naganand Doraswamy'>
-<organization>Bay Networks, Inc.</organization>
-<address>
-<postal>
-<street>3 Federal Street</street>
-<street>Mail Stop: Bl3-03</street>
-<city>Billerica</city>
-<region>MA</region>
-<code>01801</code></postal>
-<email>naganand@baynetworks.com</email></address></author>
+<title>NBMA Next Hop Resolution Protocol (NHRP)</title>
+<author initials='J.' surname='Luciani' fullname='J. Luciani'><organization /></author>
+<author initials='D.' surname='Katz' fullname='D. Katz'><organization /></author>
+<author initials='D.' surname='Piscitello' fullname='D. Piscitello'><organization /></author>
+<author initials='B.' surname='Cole' fullname='B. Cole'><organization /></author>
+<author initials='N.' surname='Doraswamy' fullname='N. Doraswamy'><organization /></author>
 <date year='1998' month='April' />
-<area>Routing</area>
-<keyword>non-broadcast multiple access</keyword>
-<abstract>
-<t>
-
-   This document describes the NBMA Next Hop Resolution Protocol (NHRP).
-
-   NHRP can be used by a source station (host or router) connected to a
-
-   Non-Broadcast, Multi-Access (NBMA) subnetwork to determine the
-
-   internetworking layer address and NBMA subnetwork addresses of the
-
-   "NBMA next hop" towards a destination station.  If the destination is
-
-   connected to the NBMA subnetwork, then the NBMA next hop is the
-
-   destination station itself.  Otherwise, the NBMA next hop is the
-
-   egress router from the NBMA subnetwork that is "nearest" to the
-
-   destination station.  NHRP is intended for use in a multiprotocol
-
-   internetworking layer environment over NBMA subnetworks.
-</t>
-<t>
-
-
-   Note that while this protocol was developed for use with NBMA
-
-   subnetworks, it is possible, if not likely, that it will be applied
-
-   to BMA subnetworks as well.  However, this usage of NHRP is for
-
-   further study.
-
-</t>
-<t>
-
-   This document is intended to be a functional superset of the NBMA
-
-   Address Resolution Protocol (NARP) documented in [1].
-
-   Operation of NHRP as a means of establishing a transit path across an
-
-   NBMA subnetwork between two routers will be addressed in a separate
-
-   document (see [13]).
-</t></abstract></front>
-
-<seriesInfo name='RFC' value='2332' />
-<format type='TXT' octets='126978' target='http://www.rfc-editor.org/rfc/rfc2332.txt' />
-<format type='XML' octets='128637' target='http://xml.resource.org/public/rfc/xml/rfc2332.xml' />
+<abstract><t>This document describes the NBMA Next Hop Resolution Protocol (NHRP). NHRP can be used by a source station (host or router) connected to a Non-Broadcast, Multi-Access (NBMA) subnetwork to determine the internetworking layer address and NBMA subnetwork addresses of the &quot;NBMA next hop&quot; towards a destination station.  [STANDARDS-TRACK]</t></abstract>
+</front>
+<seriesInfo name='RFC' value='2332'/>
+<seriesInfo name='DOI' value='10.17487/RFC2332'/>
 </reference>

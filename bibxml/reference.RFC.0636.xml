@@ -1,21 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC0636'>
-
+<reference  anchor='RFC0636' target='http://www.rfc-editor.org/info/rfc636'>
 <front>
 <title>TIP/Tenex reliability improvements</title>
-<author initials='J.' surname='Burchfiel' fullname='J. Burchfiel'>
-<organization>Bolt Beranek and Newman (BBN), TENEX</organization></author>
-<author initials='B.' surname='Cosell' fullname='B. Cosell'>
-<organization>Bolt Beranek and Newman (BBN), NET</organization></author>
-<author initials='R.' surname='Tomlinson' fullname='R. Tomlinson'>
-<organization>Bolt Beranek and Newman (BBN), TENEX</organization></author>
-<author initials='D.' surname='Walden' fullname='D. Walden'>
-<organization>Bolt Beranek and Newman (BBN), NET</organization></author>
-<date year='1974' day='10' month='June' />
-<abstract>
-<t>During the past months we have felt strong pressure to improve the reliability of TIP/TENEX network connection as improvement in the reliability of users' connections between TENEXs and TIPs would have major impact on the appearance of overall network reliability due to the large number and high visibility of TENEXs and TIPs.  Despite the emphasis on TIP/TENEX interaction, all work done applies equally well to interactions between Hosts of any type.</t></abstract></front>
-
-<seriesInfo name='RFC' value='636' />
-<format type='TXT' octets='19914' target='http://www.rfc-editor.org/rfc/rfc636.txt' />
+<author initials='J.D.' surname='Burchfiel' fullname='J.D. Burchfiel'><organization /></author>
+<author initials='B.' surname='Cosell' fullname='B. Cosell'><organization /></author>
+<author initials='R.S.' surname='Tomlinson' fullname='R.S. Tomlinson'><organization /></author>
+<author initials='D.C.' surname='Walden' fullname='D.C. Walden'><organization /></author>
+<date year='1974' month='June' />
+<abstract><t>Obtaining/maintaining connections; recovery from lost connections;   connection-state changes.</t></abstract>
+</front>
+<seriesInfo name='RFC' value='636'/>
+<seriesInfo name='DOI' value='10.17487/RFC0636'/>
 </reference>

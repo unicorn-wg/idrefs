@@ -1,103 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='RFC5068'>
-
+<reference  anchor='RFC5068' target='http://www.rfc-editor.org/info/rfc5068'>
 <front>
-<title abbrev='Email Submission'>Email Submission Operations: Access
-            and Accountability Requirements</title>
-<author fullname='Carl Hutzler' initials='C.' surname='Hutzler'>
-<organization />
-<address>
-<postal>
-<street>2512 Freetown Drive</street>
-<city>Reston</city>
-<code>20191</code>
-<region>VA</region></postal>
-<phone>703-915-6862</phone>
-<email>cdhutzler@aol.com</email>
-<uri>http://carlhutzler.com/blog/</uri></address></author>
-<author fullname='Dave Crocker' initials='D.' surname='Crocker'>
-<organization>Brandenburg InternetWorking</organization>
-<address>
-<postal>
-<street>675 Spruce Dr.</street>
-<city>Sunnyvale</city>
-<code>94086</code>
-<region>CA</region>
-<country>USA</country></postal>
-<phone>+1.408.246.8253</phone>
-<email>dcrocker@bbiw.net</email>
-<uri>http://bbiw.net</uri></address></author>
-<author fullname='Peter Resnick' initials='P.' surname='Resnick'>
-<organization>QUALCOMM Incorporated</organization>
-<address>
-<postal>
-<street>5775 Morehouse Drive</street>
-<city>San Diego</city>
-<code>92121-1714</code>
-<region>CA</region>
-<country>USA</country></postal>
-<phone>+1 858 651 4478</phone>
-<email>presnick@qualcomm.com</email>
-<uri>http://www.qualcomm.com/~presnick/</uri></address></author>
-<author fullname='Eric Allman' initials='E.' surname='Allman'>
-<organization>Sendmail, Inc.</organization>
-<address>
-<postal>
-<street>6745 Christie Ave., Suite 350</street>
-<city>Emeryville</city>
-<code />
-<code>94608</code>
-<region>CA</region>
-<country>USA</country></postal>
-<phone>+1 510 594 5501</phone>
-<email>eric+ietf-smtp@sendmail.org</email></address></author>
-<author fullname='Tony Finch' initials='T.' surname='Finch'>
-<organization>University of Cambridge Computing Service</organization>
-<address>
-<postal>
-<street>New Museums Site</street>
-<street>Pembroke Street</street>
-<city>Cambridge</city>
-<code>CB2 3QH</code>
-<country>ENGLAND</country></postal>
-<phone>+44 797 040 1426</phone>
-<email>dot@dotat.at</email>
-<uri>http://dotat.at/</uri></address></author>
+<title>Email Submission Operations: Access and Accountability Requirements</title>
+<author initials='C.' surname='Hutzler' fullname='C. Hutzler'><organization /></author>
+<author initials='D.' surname='Crocker' fullname='D. Crocker'><organization /></author>
+<author initials='P.' surname='Resnick' fullname='P. Resnick'><organization /></author>
+<author initials='E.' surname='Allman' fullname='E. Allman'><organization /></author>
+<author initials='T.' surname='Finch' fullname='T. Finch'><organization /></author>
 <date year='2007' month='November' />
-<area>Applications</area>
-<workgroup>SMTP</workgroup>
-<keyword>spam, email abuse, phishing, email, e-mail, service, mime,
-            rfc2822, rfc 2822, rfc822, rfc 822, rfc2821, rfc 2821, rfc821, rfc
-            821, architecture, mta, mua, msa, mda, user, delivery, relay,
-            header, gateway agent, sieve, dsn, mdn, tussle, mhs, mail handling
-            service, message transfer agent, message user agent, mail
-            submission agent, mail delivery agent</keyword>
-<abstract>
-<t>Email has become a popular distribution service for a variety
-                of socially unacceptable, mass-effect purposes. The most
-                obvious ones include spam and worms. This note recommends
-                conventions for the operation of email submission and
-                transport services between independent operators, such as
-                enterprises and Internet Service Providers. Its goal is to
-                improve lines of accountability for controlling abusive uses
-                of the Internet mail service. To this end, this document offers
-                recommendations for constructive operational policies between
-                independent operators of email submission and transmission
-                services.</t>
-<t>Email authentication technologies are aimed at providing
-                assurances and traceability between internetworked networks.
-                In many email services, the weakest link in the chain of
-                assurances is initial submission of a message. This document
-                offers recommendations for constructive operational policies
-                for this first step of email sending, the submission (or
-                posting) of email into the transmission network. Relaying and
-                delivery entail policies that occur subsequent to submission
-                and are outside the scope of this document.</t></abstract></front>
-
-<seriesInfo name='BCP' value='134' />
-<seriesInfo name='RFC' value='5068' />
-<format type='TXT' octets='24481' target='http://www.rfc-editor.org/rfc/rfc5068.txt' />
-<format type='HTML' octets='47030' target='http://xml.resource.org/public/rfc/html/rfc5068.html' />
-<format type='XML' octets='37819' target='http://xml.resource.org/public/rfc/xml/rfc5068.xml' />
+<abstract><t>Email has become a popular distribution service for a variety of socially unacceptable, mass-effect purposes.  The most obvious ones include spam and worms.  This note recommends conventions for the operation of email submission and transport services between independent operators, such as enterprises and Internet Service Providers.  Its goal is to improve lines of accountability for controlling abusive uses of the Internet mail service.  To this end, this document offers recommendations for constructive operational policies between independent operators of email submission and transmission services.</t><t>Email authentication technologies are aimed at providing assurances and traceability between internetworked networks.  In many email services, the weakest link in the chain of assurances is initial submission of a message.  This document offers recommendations for constructive operational policies for this first step of email sending, the submission (or posting) of email into the transmission network.  Relaying and delivery entail policies that occur subsequent to submission and are outside the scope of this document.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t></abstract>
+</front>
+<seriesInfo name='BCP' value='134'/>
+<seriesInfo name='RFC' value='5068'/>
+<seriesInfo name='DOI' value='10.17487/RFC5068'/>
 </reference>
