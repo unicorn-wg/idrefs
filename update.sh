@@ -8,4 +8,4 @@ rsync -z -r \
      rsync3.xml.resource.org::xml2rfc.bibxml .
 git add -A .
 git commit -m Update
-[ $1 = "-p" ] && git push origin gh-pages
+[ "$1" = "-p" ] && git push origin gh-pages
