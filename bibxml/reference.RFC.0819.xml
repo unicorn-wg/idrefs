@@ -2,7 +2,7 @@
 
 <reference  anchor='RFC0819' target='http://www.rfc-editor.org/info/rfc819'>
 <front>
-<title>Domain naming convention for Internet user applications</title>
+<title>The Domain Naming Convention for Internet User Applications</title>
 <author initials='Z.' surname='Su' fullname='Z. Su'><organization /></author>
 <author initials='J.' surname='Postel' fullname='J. Postel'><organization /></author>
 <date year='1982' month='August' />

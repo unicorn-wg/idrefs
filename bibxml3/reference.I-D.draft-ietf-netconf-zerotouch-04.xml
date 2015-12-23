@@ -12,10 +12,6 @@
     <organization />
 </author>
 
-<author initials='M' surname='Abrahamsson' fullname='Mikael Abrahamsson'>
-    <organization />
-</author>
-
 <date month='October' day='19' year='2015' />
 
 <abstract><t>This draft presents a technique for establishing a secure NETCONF or RESTCONF connection between a newly deployed device, configured with just its factory default settings, and its rightful owner's network management system (NMS).</t></abstract>
