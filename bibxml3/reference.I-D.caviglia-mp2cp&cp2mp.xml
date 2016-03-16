@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<reference anchor='I-D.caviglia-mp2cp&amp;cp2mp'>
+<reference anchor='I-D.caviglia-mp2cp_cp2mp'>
 <front>
 <title>GRSVP-TE signaling extension to move Management created LSP to Control  Plane and vice versa.</title>
 

@@ -3,8 +3,7 @@
 <reference anchor='W3C.REC-SVGMobile-20030114'
            target='http://www.w3.org/TR/2003/REC-SVGMobile-20030114'>
 <front>
-<title>Mobile SVG Profiles: SVG Tiny and SVG Basic
-    </title>
+<title>Mobile SVG Profiles: SVG Tiny and SVG Basic</title>
 
 <author initials='T.' surname='Capin' fullname='Tolga Capin'>
     <organization />
