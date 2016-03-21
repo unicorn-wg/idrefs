@@ -8,13 +8,13 @@
     <organization />
 </author>
 
-<date month='December' day='23' year='2015' />
+<date month='March' day='21' year='2016' />
 
 <abstract><t>This memo introduces a content-coding for HTTP that allows message payloads to be encrypted.</t></abstract>
 
 </front>
 
-<seriesInfo name='Internet-Draft' value='draft-ietf-httpbis-encryption-encoding-00' />
+<seriesInfo name='Internet-Draft' value='draft-ietf-httpbis-encryption-encoding-01' />
 <format type='TXT'
-        target='http://www.ietf.org/internet-drafts/draft-ietf-httpbis-encryption-encoding-00.txt' />
+        target='http://www.ietf.org/internet-drafts/draft-ietf-httpbis-encryption-encoding-01.txt' />
 </reference>
