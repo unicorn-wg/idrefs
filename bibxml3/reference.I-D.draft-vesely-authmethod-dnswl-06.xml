@@ -4,6 +4,10 @@
 <front>
 <title>DNSWL Email Authentication Method Extension</title>
 
+<author initials='A' surname='Vesely' fullname='Alessandro Vesely'>
+    <organization />
+</author>
+
 <date month='April' day='16' year='2016' />
 
 <abstract><t>This document describes an additional Email Authentication Method compliant with RFC 7601.  The method consists in looking up the sender'IP in a DNS whitelist.</t></abstract>

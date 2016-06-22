@@ -4,6 +4,10 @@
 <front>
 <title>A YANG Data Model for Static Route</title>
 
+<author initials='l' surname='liangqiandeng' fullname='liangqiandeng'>
+    <organization />
+</author>
+
 <author initials='G' surname='Yan' fullname='Gang Yan'>
     <organization />
 </author>

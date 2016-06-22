@@ -4,7 +4,7 @@
 <front>
 <title>Framework for Interface to Network Security Functions</title>
 
-<author initials='E' surname='Ed' fullname='Ed'>
+<author initials='e' surname='elopez@fortinet.com' fullname='elopez@fortinet.com'>
     <organization />
 </author>
 
@@ -28,7 +28,7 @@
     <organization />
 </author>
 
-<author initials='R' surname='Krishnan' fullname='Ram (Ramki) Krishnan'>
+<author initials='R' surname='Krishnan' fullname='Ram Krishnan'>
     <organization />
 </author>
 

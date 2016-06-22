@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<reference anchor='W3C.WD-micropub-20160621'
+           target='http://www.w3.org/TR/2016/WD-micropub-20160621'>
+<front>
+<title>Micropub</title>
+
+<author initials='F.' surname='Rivoal' fullname='Florian Rivoal'>
+    <organization />
+</author>
+
+<author initials='T.' surname='Atkins' fullname='Tab Atkins'>
+    <organization />
+</author>
+
+<date month='June' day='21' year='2016' />
+</front>
+
+<seriesInfo name='World Wide Web Consortium WD' value='WD-micropub-20160621' />
+<format type='HTML' target='http://www.w3.org/TR/2016/WD-micropub-20160621' />
+</reference>

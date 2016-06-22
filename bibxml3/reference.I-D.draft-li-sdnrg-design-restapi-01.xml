@@ -4,6 +4,10 @@
 <front>
 <title>Requirements and Design Patterns for REST Northbound API in SDN</title>
 
+<author initials='l' surname='li.nj.li@huawei.com' fullname='li.nj.li@huawei.com'>
+    <organization />
+</author>
+
 <author initials='W' surname='Zhou' fullname='Wei Zhou'>
     <organization />
 </author>

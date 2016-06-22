@@ -4,6 +4,10 @@
 <front>
 <title>Locating Session Initiation Protocol (SIP) Servers in a Dual-Stack IP Network</title>
 
+<author initials='O' surname='Johansson' fullname='Olle Johansson'>
+    <organization />
+</author>
+
 <author initials='G' surname='Salgueiro' fullname='Gonzalo Salgueiro'>
     <organization />
 </author>
