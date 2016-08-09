@@ -4,7 +4,7 @@
 <front>
 <title>Negotiated Finite Field Diffie-Hellman Ephemeral Parameters for TLS</title>
 
-<author initials='D' surname='Gillmor' fullname='Daniel Gillmor'>
+<author initials='D' surname='Gillmor' fullname='Daniel Kahn Gillmor'>
     <organization />
 </author>
 
