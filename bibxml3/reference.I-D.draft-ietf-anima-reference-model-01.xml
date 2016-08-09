@@ -4,11 +4,11 @@
 <front>
 <title>A Reference Model for Autonomic Networking</title>
 
-<author initials='M' surname='Behringer' fullname='Michael Behringer'>
+<author initials='M' surname='Behringer' fullname='Michael H. Behringer'>
     <organization />
 </author>
 
-<author initials='B' surname='Carpenter' fullname='Brian Carpenter'>
+<author initials='B' surname='Carpenter' fullname='Brian E. Carpenter'>
     <organization />
 </author>
 
@@ -24,7 +24,7 @@
     <organization />
 </author>
 
-<author initials='J' surname='Nobre' fullname='Jéferson Nobre'>
+<author initials='J' surname='Nobre' fullname='Jeferson Campos Nobre'>
     <organization />
 </author>
 

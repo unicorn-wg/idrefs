@@ -16,10 +16,6 @@
     <organization />
 </author>
 
-<author initials='V' surname='Liu' fullname='Vic Liu'>
-    <organization />
-</author>
-
 <date month='March' day='18' year='2016' />
 
 <abstract><t>This document presents extensions to the Path Computation Element Communication Protocol (PCEP) for supporting a hierarchical SDN control system, which comprises multiple SDN controllers controlling a network with a number of domains.</t></abstract>

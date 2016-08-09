@@ -4,7 +4,7 @@
 <front>
 <title>Allowing inheritable NFSv4 ACLs to override the umask</title>
 
-<author initials='J' surname='Fields' fullname='J. Fields'>
+<author initials='J' surname='Fields' fullname='J. Bruce Fields'>
     <organization />
 </author>
 

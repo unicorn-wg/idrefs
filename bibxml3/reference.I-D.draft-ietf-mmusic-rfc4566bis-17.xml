@@ -4,7 +4,7 @@
 <front>
 <title>SDP: Session Description Protocol</title>
 
-<author initials='M' surname='Handley' fullname='Mark Handley'>
+<author initials='M' surname='Handley' fullname='Mark J. Handley'>
     <organization />
 </author>
 
@@ -12,11 +12,11 @@
     <organization />
 </author>
 
-<author initials='C' surname='Perkins' fullname='Colin Perkins'>
+<author initials='D' surname='Perkins' fullname='Dr. Colin Perkins'>
     <organization />
 </author>
 
-<author initials='A' surname='Begen' fullname='Ali Begen'>
+<author initials='A' surname='Begen' fullname='Ali C. Begen'>
     <organization />
 </author>
 

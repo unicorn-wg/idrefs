@@ -4,19 +4,19 @@
 <front>
 <title>Path MTU Discovery for IP version 6</title>
 
-<author initials='J' surname='&lt;>' fullname='Jack &lt;>'>
+<author initials='J' surname='&lt;>' fullname='Jack McCann &lt;>'>
     <organization />
 </author>
 
-<author initials='S' surname='&lt;>' fullname='Stephen &lt;>'>
+<author initials='S' surname='&lt;>' fullname='Stephen E. Deering &lt;>'>
     <organization />
 </author>
 
-<author initials='J' surname='&lt;>' fullname='Jeffrey &lt;>'>
+<author initials='J' surname='&lt;>' fullname='Jeffrey Mogul &lt;>'>
     <organization />
 </author>
 
-<author initials='R' surname='Hinden' fullname='Robert Hinden'>
+<author initials='R' surname='Hinden' fullname='Robert M. Hinden'>
     <organization />
 </author>
 
